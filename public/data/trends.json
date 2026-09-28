@@ -1,0 +1,105 @@
+{
+ "updatedAt": "2026-09-28T20:36:25.642Z",
+ "burning": [
+  {
+   "id": "16bajs1",
+   "heat": 5,
+   "why": {
+    "en": "Iran's war threat is major international news, high global stakes.",
+    "bn": "ইরানের যুদ্ধের হুমকি বিশ্বব্যাপী সংবাদ, বড় জিওপলিটিক্যাল ঘটনা।"
+   },
+   "rank": 1
+  },
+  {
+   "id": "wk0sej",
+   "heat": 5,
+   "why": {
+    "en": "South Korea's AI chip race is major tech story, global business impact.",
+    "bn": "দক্ষিণ কোরিয়ার এআই চিপ রেস বড় টেক গল্প, বৈশ্বিক ব্যবসায়িক প্রভাব।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "lq0j9f",
+   "heat": 4,
+   "why": {
+    "en": "Bangladesh tourism warning reaches diaspora and travel-minded readers.",
+    "bn": "বাংলাদেশের পর্যটন সতর্কতা প্রবাসী এবং ভ্রমণপ্রেমীদের কাছে পৌঁছায়।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "1lzoam2",
+   "heat": 4,
+   "why": {
+    "en": "Yemen-Houthis shipping crisis affects global trade, major geopolitical story.",
+    "bn": "ইয়েমেন-হুথি শিপিং সংকট বৈশ্বিক বাণিজ্যকে প্রভাবিত করে, বড় ভূরাজনৈতিক ঘটনা।"
+   },
+   "rank": 4
+  },
+  {
+   "id": "git9fq",
+   "heat": 3,
+   "why": {
+    "en": "Local campus drama, resonates with students and families.",
+    "bn": "স্থানীয় ক্যাম্পাস ঘটনা, শিক্ষার্থী এবং পরিবারের সাথে সম্পর্কিত।"
+   },
+   "rank": 5
+  }
+ ],
+ "gossip": [
+  {
+   "id": "16bajs1",
+   "tag": "#IranWarThreat",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Iran says ready for war",
+    "text": "Iran has warned it is prepared for a destructive conflict if attacked again, raising tensions in the Middle East."
+   },
+   "bn": {
+    "title": "ইরান যুদ্ধের জন্য প্রস্তুত",
+    "text": "ইরান সতর্ক করেছে যে আবার আক্রমণ করা হলে এটি ধ্বংসাত্মক যুদ্ধের জন্য প্রস্তুত, মধ্যপ্রাচ্যে উত্তেজনা বৃদ্ধি পেয়েছে।"
+   }
+  },
+  {
+   "id": "wk0sej",
+   "tag": "#AIChipRace",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "South Korea powers US AI",
+    "text": "South Korean chip makers are racing ahead to fuel America's artificial intelligence boom with cutting-edge technology."
+   },
+   "bn": {
+    "title": "দক্ষিণ কোরিয়া আমেরিকার এআই চালিত করছে",
+    "text": "দক্ষিণ কোরিয়ান চিপ নির্মাতারা আমেরিকার কৃত্রিম বুদ্ধিমত্তা বৃদ্ধি চালিত করতে এগিয়ে যাচ্ছে।"
+   }
+  },
+  {
+   "id": "ac7omv",
+   "tag": "#ApplePatent",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Apple pays $5.7bn patent fine",
+    "text": "Apple has been ordered to pay 5.7 billion dollars for infringing on a haptic feedback technology patent."
+   },
+   "bn": {
+    "title": "অ্যাপল ৫.৭ বিলিয়ন ডলার ফাইন দেবে",
+    "text": "অ্যাপল হ্যাপটিক ফিডব্যাক প্রযুক্তি পেটেন্ট লঙ্ঘনের জন্য ৫.৭ বিলিয়ন ডলার দিতে আদেশিত হয়েছে।"
+   }
+  }
+ ],
+ "signalCounts": {
+  "google": 10,
+  "reddit": 0,
+  "youtube": 0
+ }
+}
