@@ -101,10 +101,11 @@ async function main() {
     }
   }));
 
+  let ok = 0, lastError = null;
   for (let i = 0; i < fresh.length; i += BATCH) {
     const batch = fresh.slice(i, i + BATCH);
     let results = [];
-    try { results = await summarize(batch); } catch (e) { log('summary failed:', e.message); continue; }
+    try { results = await summarize(batch); ok++; } catch (e) { lastError = e.message; log('summary failed:', e.message); continue; }
     for (const r of results) {
       const it = batch[r.n];
       if (!it) continue;
@@ -128,7 +129,9 @@ async function main() {
       });
     }
   }
+  writeJSON(path.join(STATE, 'last-run.json'), { at: new Date().toISOString(), collected: all.length, picked: fresh.length, batchesOk: ok, error: lastError });
   finish(feed, seen);
+  if (fresh.length && !ok) { console.error(`All summaries failed: ${lastError}`); process.exit(1); }
 }
 
 function finish(feed, seen) {
