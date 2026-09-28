@@ -1,0 +1,51 @@
+name: Update Jhalmuri
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # every hour (UTC). Social scan runs itself every 3rd hour.
+  workflow_dispatch:
+    inputs:
+      force_social:
+        description: "Run the social scan now even if it ran recently"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jhalmuri-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Fetch and summarise news
+        run: npm run news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          JHALMURI_DAILY_BUDGET_USD: ${{ vars.JHALMURI_DAILY_BUDGET_USD }}
+      - name: Social scan, memes, songs
+        run: node scripts/social-scan.js ${{ inputs.force_social && '--force' || '' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          JHALMURI_DAILY_BUDGET_USD: ${{ vars.JHALMURI_DAILY_BUDGET_USD }}
+      - name: Save new data
+        run: |
+          git config user.name "${{ vars.GIT_AUTHOR_NAME || github.repository_owner }}"
+          git config user.email "${{ vars.GIT_AUTHOR_EMAIL || format('{0}+{1}@users.noreply.github.com', github.repository_owner_id, github.repository_owner) }}"
+          git add public/data state
+          if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
+          git commit -m "Update news $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push

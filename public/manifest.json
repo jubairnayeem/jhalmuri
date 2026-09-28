@@ -1,0 +1,10 @@
+{
+  "name": "Jhalmuri",
+  "short_name": "Jhalmuri",
+  "description": "Free Bangladeshi news in 5 lines. English and Bangla.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2F2EE",
+  "theme_color": "#E23A2E",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

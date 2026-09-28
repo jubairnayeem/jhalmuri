@@ -1,0 +1,17 @@
+{
+  "name": "jhalmuri",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "news": "node scripts/fetch-news.js",
+    "social": "node scripts/social-scan.js",
+    "social:force": "node scripts/social-scan.js --force",
+    "update": "node scripts/fetch-news.js && node scripts/social-scan.js",
+    "dev": "npx --yes serve public -l 3000"
+  },
+  "dependencies": {
+    "cheerio": "1.2.0",
+    "rss-parser": "3.13.0"
+  }
+}
