@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-09-29T19:20:43.774Z",
+ "updatedAt": "2026-09-29T23:40:10.044Z",
  "burning": [
   {
-   "id": "53fr82",
+   "id": "174coes",
    "heat": 5,
    "why": {
-    "en": "Major health crisis: measles death toll in Bangladesh exceeds 1,100.",
-    "bn": "বাংলাদেশে হাম মহামারী: মৃত্যুর সংখ্যা ১,১০০ ছাড়িয়ে গেছে।"
+    "en": "Sports fever across Google Trends with multiple football matches trending simultaneously.",
+    "bn": "গুগল ট্রেন্ডস জুড়ে ফুটবল ম্যাচের ভাইরাল ট্রেন্ড, বিশেষত স্পেন বনাম ক্রোয়েশিয়া ১০০,০০০+ সার্চ।"
    },
    "rank": 1
   },
   {
-   "id": "6349u6",
-   "heat": 5,
+   "id": "53fr82",
+   "heat": 4,
    "why": {
-    "en": "US trade ban on Canadian imports now in effect, major economic impact.",
-    "bn": "আমেরিকার কানাডায় বাণিজ্য নিষেধাজ্ঞা কার্যকর হয়েছে, অর্থনৈতিক প্রভাব বড়।"
+    "en": "Health crisis in Bangladesh with over 1,100 measles deaths—major public concern.",
+    "bn": "বাংলাদেশে ১,১০০+ মিজলস মৃত্যু—গুরুতর জনস্বাস্থ্য সংকট।"
    },
    "rank": 2
   },
   {
-   "id": "665tgw",
-   "heat": 4,
+   "id": "5mu0cy",
+   "heat": 3,
    "why": {
-    "en": "Spain bans evictions until 2030 after major housing crisis protests.",
-    "bn": "স্পেন আবাসন সংকটের পর ২০৩০ পর্যন্ত উচ্ছেদ নিষেধ করেছে।"
+    "en": "Dhaka's air pollution ranking fourth globally affects millions daily.",
+    "bn": "ঢাকা বিশ্বের সবচেয়ে দূষিত শহরগুলির মধ্যে চতুর্থ—লক্ষ লক্ষ মানুষকে প্রভাবিত করছে।"
    },
    "rank": 3
   },
   {
    "id": "vfni2b",
-   "heat": 4,
+   "heat": 3,
    "why": {
-    "en": "QatarEnergy suspends LNG supplies to Bangladesh until November, energy crisis risk.",
-    "bn": "কাতার এনার্জি নভেম্বর পর্যন্ত বাংলাদেশে এলএনজি সরবরাহ স্থগিত করেছে।"
+    "en": "Energy crisis: Qatar suspends LNG supplies to Bangladesh until November.",
+    "bn": "কাতার নভেম্বর পর্যন্ত বাংলাদেশে এলএনজি সরবরাহ স্থগিত—শক্তি সংকট।"
    },
    "rank": 4
   },
   {
-   "id": "5mu0cy",
-   "heat": 4,
+   "id": "n8mgjz",
+   "heat": 2,
    "why": {
-    "en": "Dhaka ranks 4th among world's most polluted cities, air quality alarm.",
-    "bn": "ঢাকা বিশ্বের সবচেয়ে দূষিত শহরের তালিকায় ৪র্থ স্থানে রয়েছে।"
+    "en": "Bangladesh PM Tarek Rahman's India visit signals diplomatic movement.",
+    "bn": "বাংলাদেশ প্রধানমন্ত্রী তারেক রহমানের ভারত সফর আলোচনা সৃষ্টি করছে।"
    },
    "rank": 5
   }
@@ -50,50 +50,50 @@
  "gossip": [
   {
    "id": "174coes",
-   "tag": "#ফুটবল",
+   "tag": "#FootballFever",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "Brazil thrashes Australia in friendly",
-    "text": "Brazil beat Australia 4-2 in a Brisbane friendly match, showing strong form ahead of upcoming tournaments."
+    "title": "Brazil beats Australia 4-2",
+    "text": "Sports fans across Bangladesh are glued to football matches. Spain vs Croatia is dominating with 100,000+ searches, while Brazil's friendly victory over Australia also caught attention."
    },
    "bn": {
-    "title": "ব্রাজিল অস্ট্রেলিয়াকে হারাল",
-    "text": "ব্রাজিল ব্রিসবেনে বন্ধুত্বপূর্ণ ম্যাচে অস্ট্রেলিয়াকে ৪-২ গোলে পরাজিত করেছে।"
+    "title": "ব্রাজিল ৪-২ গোলে অস্ট্রেলিয়াকে হারিয়েছে",
+    "text": "বাংলাদেশ জুড়ে ফুটবল ম্যাচের উন্মাদনা। স্পেন বনাম ক্রোয়েশিয়া ১০০,০০০+ সার্চ নিয়ে ট্রেন্ড করছে, ব্রাজিল-অস্ট্রেলিয়া বন্ধুত্বপূর্ণ ম্যাচও আলোচনার কেন্দ্রবিন্দু।"
    }
   },
   {
-   "id": "1lzoam2",
-   "tag": "#হুতি",
+   "id": "aj7tkp",
+   "tag": "#BirthdayPost",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Houthis control key shipping lane",
-    "text": "Battle intensifies in Yemen as Houthis seize control of critical shipping chokepoint, raising global trade concerns."
+    "title": "Ranbir turns 44",
+    "text": "Bollywood buzz: Alia shared intimate birthday photos of Ranbir as the actor turned 44. Showbiz fans are sharing the sweet moments."
    },
    "bn": {
-    "title": "হুতিরা শিপিং পথ নিয়ন্ত্রণ করছে",
-    "text": "ইয়েমেনে হুতিরা কৌশলগত শিপিং পথ দখল করেছে, বৈশ্বিক বাণিজ্য হুমকির সম্মুখীন।"
+    "title": "রণবীর ৪৪ বছর বয়সী হয়েছেন",
+    "text": "বলিউড আপডেট: আলিয়া রণবীরের ৩২তম জন্মদিনে ঘনিষ্ঠ ছবি শেয়ার করেছেন। ফিল্ম ফ্যানরা ভালোবাসার মুহূর্ত নিয়ে আলোচনা করছেন।"
    }
   },
   {
-   "id": "wk0sej",
-   "tag": "#চিপ_যুদ্ধ",
+   "id": "19snru3",
+   "tag": "#TalentHunt",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 2,
    "en": {
-    "title": "South Korea chips power US AI",
-    "text": "South Korea's semiconductor giants are racing to meet America's growing AI chip demand."
+    "title": "Bangladesh TV opens Naun Kuri 2026",
+    "text": "Exciting news for young talents: a major TV channel is hunting for kids for their new show. Registration window is now open."
    },
    "bn": {
-    "title": "দক্ষিণ কোরিয়ার চিপ আমেরিকা চালিত করছে",
-    "text": "দক্ষিণ কোরিয়ার চিপ প্রস্তুতকারীরা আমেরিকার কৃত্রিম বুদ্ধিমত্তা চাহিদা পূরণে প্রতিযোগিতা করছে।"
+    "title": "নাউন কুড়ি ২০২৬ ট্যালেন্ট হান্ট চালু",
+    "text": "তরুণ প্রতিভাদের জন্য রোমাঞ্চকর সংবাদ: একটি প্রধান টিভি চ্যানেল শিশুদের জন্য নতুন শো খুঁজছে। রেজিস্ট্রেশন এখন খোলা।"
    }
   }
  ],

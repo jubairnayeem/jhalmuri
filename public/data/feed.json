@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-09-29T19:20:30.093Z",
+ "updatedAt": "2026-09-29T23:39:56.188Z",
  "items": [
+  {
+   "id": "ugjgb0",
+   "section": "bhabna",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/2026/09/29/a-philosopher-among-the-macarthur-fellows/",
+   "image": "https://dailynous.com/wp-content/uploads/2026/09/de_brigard-2026.jpg",
+   "published": "2026-09-29T18:58:48.000Z",
+   "added": "2026-09-29T23:39:56.188Z",
+   "origTitle": "A Philosopher Among the MacArthur Fellows",
+   "en": {
+    "title": "Duke philosopher wins MacArthur 'genius grant' for memory research",
+    "summary": "Felipe De Brigard, a Duke University philosopher and cognitive scientist, won a 2026 MacArthur Fellowship with an $800,000 unrestricted award. His research challenges how we think memory works—he argues it's not just a filing cabinet replaying the past, but an imaginative tool for imagining what could have been. Brain scans show the same regions light up when we recall memories and imagine alternatives. His work connects philosophy, psychology, and neuroscience in fresh ways."
+   },
+   "bn": {
+    "title": "স্মৃতি গবেষণায় ডিউকের দার্শনিক ম্যাকআর্থার পুরস্কার পেলেন",
+    "summary": "ডিউক বিশ্ববিদ্যালয়ের দার্শনিক ও জ্ঞানীয় বিজ্ঞানী ফেলিপে দে ব্রিগার্ড ২০২৬ ম্যাকআর্থার ফেলোশিপ জিতেছেন, যার সাথে রয়েছে ৮০০,০০০ ডলার পুরস্কার। তাঁর গবেষণা স্মৃতির কাজ সম্পর্কে আমাদের ধারণা চ্যালেঞ্জ করে—তিনি বলেন এটি শুধু অতীত পুনরাবৃত্তি করা নয়, বরং কল্পনার একটি সরঞ্জাম। মস্তিষ্কের স্ক্যানে দেখা যায় স্মৃতি এবং কল্পনার জন্য একই অঞ্চল সক্রিয় হয়। তার কাজ দর্শন, মনোবিজ্ঞান ও স্নায়ুবিজ্ঞানকে নতুন উপায়ে সংযুক্ত করে।"
+   }
+  },
+  {
+   "id": "1xyeuk4",
+   "section": "news",
+   "cat": "khela",
+   "tone": "serious",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1556159.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414142.jpg",
+   "published": "2026-09-29T23:06:52.000Z",
+   "added": "2026-09-29T23:39:56.188Z",
+   "origTitle": "Molineux monitored, Hamilton out of ODIs, Brown out with back injury",
+   "en": {
+    "title": "West Indies players sidelined with injuries ahead of tour",
+    "summary": "West Indies fast bowler Molineux has been named to play Bangladesh and New Zealand despite battling a hip injury. Meanwhile, batter Hamilton has been ruled out of the ODI series due to a minor quad strain. Brown is also out with a back injury. The team is managing several fitness issues heading into the upcoming matches."
+   },
+   "bn": {
+    "title": "ইনজুরিতে ওয়েস্ট ইন্ডিজের খেলোয়াড়রা",
+    "summary": "ওয়েস্ট ইন্ডিজের দ্রুত বোলার মোলিনিউক্স হিপ ইনজুরিতে ভুগছেন কিন্তু বাংলাদেশ এবং নিউজিল্যান্ডের বিপক্ষে নামকরণ হয়েছেন। ব্যাটসম্যান হ্যামিল্টন কোয়াড স্ট্রেনের কারণে ওডিআই সিরিজ থেকে বাদ পড়েছেন। ব্রাউন পিঠের ইনজুরিতে আউট হয়েছেন। দলটি আসন্ন ম্যাচগুলোতে বেশ কয়েকজন খেলোয়াড়ের অভাব মোকাবেলা করছে।"
+   }
+  },
+  {
+   "id": "aj7tkp",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/entertainment/bollywood/78yoff7m31",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-29/o8rux5u0/aliaabhatt17906028703996188883934882328259925762.jpg",
+   "published": "2026-09-29T21:30:00.000Z",
+   "added": "2026-09-29T23:39:56.188Z",
+   "origTitle": "রণবীর–আলিয়ার রোমান্টিক ছবি ঝড় তুলেছে",
+   "en": {
+    "title": "Ranbir turns 44, Alia shares intimate birthday photos",
+    "summary": "Bollywood actor Ranbir Kapoor turned 44 on Monday and celebrated with photographers and fans outside his home. Wife Alia Bhatt posted rare personal photos on social media showing romantic moments together and their daughter Raha. The images went viral among fans since the couple rarely shares their private life publicly. Ranbir also cut three cakes as fans cheered."
+   },
+   "bn": {
+    "title": "রণবীরের জন্মদিনে আলিয়ার রোমান্টিক ছবি ভাইরাল",
+    "summary": "বলিউড অভিনেতা রণবীর কাপুর সোমবার ৪৪ বছর বয়সে পা দিয়েছেন। তাঁর স্ত্রী আলিয়া ভাট সামাজিক যোগাযোগমাধ্যমে তাঁদের ব্যক্তিগত মুহূর্তের কয়েকটি ছবি শেয়ার করেছেন। ছবিতে আছে তাঁদের রোমান্টিক মুহূর্ত এবং কন্যা রাহা। দম্পতি খুব কম কখনো তাদের ব্যক্তিগত জীবন প্রকাশ্যে আনে না, তাই এই ছবিগুলো ভক্তদের মধ্যে দ্রুত ভাইরাল হয়েছে।"
+   }
+  },
+  {
+   "id": "1ijizdz",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/trump-to-rename-ai-super-intelligence-on-all-u-s-documents/",
+   "image": "https://theonion.com/wp-content/uploads/2025/02/AmericanVoice_OG_FINAL.jpg",
+   "published": "2026-09-29T19:35:40.000Z",
+   "added": "2026-09-29T23:39:40.614Z",
+   "origTitle": "Trump To Rename AI ‘Super Intelligence’ On All U.S. Documents",
+   "en": {
+    "title": "Trump Orders Rename of AI to 'Super Intelligence'",
+    "summary": "This is satire. The Onion is joking that President Trump has directed US agencies to stop calling AI \"artificial intelligence\" and start calling it \"super intelligence\" instead — supposedly because he thinks the word \"artificial\" makes it sound fake. It's a dig at the way Trump often talks."
+   },
+   "bn": {
+    "title": "ট্রাম্প এআই-কে 'সুপার ইন্টেলিজেন্স' নামকরণ করতে বলেছেন",
+    "summary": "এটি ব্যঙ্গ। দি অনিয়ন মজা করছে যে প্রেসিডেন্ট ট্রাম্প যুক্তরাষ্ট্র সংস্থাগুলোকে এআই-কে 'আর্টিফিশিয়াল ইন্টেলিজেন্স' না বলে 'সুপার ইন্টেলিজেন্স' বলতে নির্দেশ দিয়েছেন — কারণ তিনি মনে করেন 'আর্টিফিশিয়াল' শব্দটি এটি জাল শোনায়। এটি ট্রাম্পের কথা বলার ধরন নিয়ে একটি টিপ্পনী।"
+   }
+  },
+  {
+   "id": "7kuax1",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/law-and-crime/971428/%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%8A%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4",
+   "image": null,
+   "published": "2026-09-29T23:29:13.000Z",
+   "added": "2026-09-29T23:39:40.614Z",
+   "origTitle": "পুলিশের ঊর্ধ্বতন দুই কর্মকর্তা বরখাস্ত",
+   "en": {
+    "title": "Two Senior Police Officers Fired Over Misconduct",
+    "summary": "Bangladesh has dismissed two senior police officers on charges of misconduct and absconding. The dismissed officers are S M Mehedi Hasan, former Joint Police Commissioner (Traffic-South) of Dhaka Metropolitan Police, and Md. Rahmat Ullah Chowdhury, former Additional Police Superintendent of Industrial Police-2 in Gazipur. The government issued separate orders on Tuesday, September 29."
+   },
+   "bn": {
+    "title": "অসদাচরণের অভিযোগে দুই উচ্চপদস্থ পুলিশ বরখাস্ত",
+    "summary": "বাংলাদেশ সরকার অসদাচরণ এবং পলায়নের অভিযোগে দুই উচ্চপদস্থ পুলিশ অফিসারকে বরখাস্ত করেছে। বরখাস্তকৃতরা হলেন ঢাকা মহানগর পুলিশের সাবেক যুগ্ম পুলিশ কমিশনার এস এম মেহেদী হাসান এবং গাজীপুরের ইন্ডাস্ট্রিয়াল পুলিশ-২ এর সাবেক অতিরিক্ত পুলিশ সুপার মো. রহমত উল্লাহ চৌধুরী। সরকার মঙ্গলবার ২৯ সেপ্টেম্বর পৃথক আদেশ জারি করেছে।"
+   }
+  },
+  {
+   "id": "1ge39pd",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/11/minecraft.jpg?w=700",
+   "published": "2026-09-29T23:30:55.000Z",
+   "added": "2026-09-29T23:39:40.614Z",
+   "origTitle": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+   "en": {
+    "title": "US Government's New AI Chatbot Spits Out Minecraft Poem",
+    "summary": "The US government launched its own AI chatbot on Tuesday called America.gov, built with Google and SpaceX AI's help. When asked about Minecraft, the chatbot unexpectedly outputs the full \"End Poem\" from the video game — it's not a glitch, but an intentional Easter egg. The chatbot has so far resisted attempts to jailbreak it."
+   },
+   "bn": {
+    "title": "যুক্তরাষ্ট্রের নতুন চ্যাটবট মাইনক্রাফট কবিতা দেয়",
+    "summary": "যুক্তরাষ্ট্র সরকার মঙ্গলবার America.gov নামে একটি নিজস্ব এআই চ্যাটবট লঞ্চ করেছে, যা গুগল এবং স্পেসএক্স এআইর সাহায্যে তৈরি। মাইনক্রাফট সম্পর্কে প্রশ্ন করলে চ্যাটবট ভিডিও গেমের সম্পূর্ণ 'এন্ড পোয়েম' বের করে দেয় — এটি একটি গ্লিচ নয়, বরং ইচ্ছাকৃত ইস্টার এগ। চ্যাটবট এখন পর্যন্ত জ্যাইলব্রেক করার চেষ্টার বিরুদ্ধে প্রতিরোধ করেছে।"
+   }
+  },
+  {
+   "id": "69d77t",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abc22919399-1790714513.jpg?resize=1920%2C1440",
+   "published": "2026-09-29T23:28:47.000Z",
+   "added": "2026-09-29T23:39:40.614Z",
+   "origTitle": "Jack Smith defends investigations into Trump during tense US Senate hearing",
+   "en": {
+    "title": "Jack Smith Defends Trump Investigations in Senate Hearing",
+    "summary": "Former Special Counsel Jack Smith told the US Senate Judiciary Committee on Tuesday that his investigations of Donald Trump followed Justice Department policy and were based on evidence. Smith brought two criminal indictments against Trump in 2023 — one for alleged attempts to overturn the 2020 election and one for handling classified documents. Only the New York case went to trial, resulting in convictions; the others were dropped after Trump won in 2024."
+   },
+   "bn": {
+    "title": "জ্যাক স্মিথ সিনেটে ট্রাম্প তদন্ত নিয়ে প্রতিরক্ষা করেছেন",
+    "summary": "সাবেক বিশেষ উপদেষ্টা জ্যাক স্মিথ মঙ্গলবার সিনেট বিচার কমিটিকে বলেছেন তার ট্রাম্প সম্পর্কিত তদন্ত জাস্টিস বিভাগের নীতি অনুসরণ করেছে এবং প্রমাণের উপর ভিত্তি করেছে। স্মিথ ২০২৩ সালে ট্রাম্পের বিরুদ্ধে দুটি অপরাধের অভিযোগ এনেছিলেন — নির্বাচন উল্টানোর চেষ্টা এবং গোপন নথি রাখার জন্য। শুধুমাত্র নিউইয়র্ক মামলা ট্রায়ালে গিয়েছিল এবং দোষ প্রমাণিত হয়েছে; বাকি অভিযোগ ট্রাম্পের ২০২৪ জয়ের পর প্রত্যাহার করা হয়েছে।"
+   }
+  },
+  {
+   "id": "n8mgjz",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cmx2z7qp2l24o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5558/live/9daa93a0-bc0b-11f1-a524-3125ac41b7f5.jpg",
+   "published": "2026-09-29T14:09:54.000Z",
+   "added": "2026-09-29T23:39:40.614Z",
+   "origTitle": "তারেক রহমানের ভারত সফর নিয়ে নতুন করে কী হচ্ছে",
+   "en": {
+    "title": "India Visit for Bangladesh PM Tarek Rahman in Works",
+    "summary": "Bangladesh's Foreign Minister Humayun Kabir met with India's High Commissioner Dinesh Tribedi on Tuesday to discuss a possible visit by Prime Minister Tarek Rahman to India. Both sides said a positive outcome may come soon and the visit will happen at a time convenient for both leaders. Officials are reportedly preparing Bangladesh's position on bilateral issues ahead of the potential trip."
+   },
+   "bn": {
+    "title": "প্রধানমন্ত্রী তারেক রহমানের ভারত সফর নিয়ে আলোচনা চলছে",
+    "summary": "বাংলাদেশের পররাষ্ট্র মন্ত্রী হুমায়ুন কবির মঙ্গলবার ভারতের হাইকমিশনার দিনেশ ত্রিবেদীর সাথে দেখা করেছেন প্রধানমন্ত্রী তারেক রহমানের সম্ভাব্য ভারত সফর নিয়ে আলোচনা করতে। দুই পক্ষই বলেছে নিকট ভবিষ্যতে ইতিবাচক ফলাফল আসতে পারে এবং সফরটি দুই নেতার সুবিধামত সময়ে হবে। বাংলাদেশের কর্মকর্তারা দ্বিপক্ষীয় ইস্যুগুলোয় দেশের অবস্থান তৈরি করছেন বলে জানা গেছে।"
+   }
+  },
+  {
+   "id": "1psparz",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/world/us-sanctions-10-over-allegedly-procuring-weapons-iran-1557956",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/2026-09-27t171102z_821103874_rc2ornajhmey_rtrmadp_3_iran-crisis.jpg",
+   "published": "2026-09-29T19:00:00.000Z",
+   "added": "2026-09-29T23:39:40.614Z",
+   "origTitle": "US sanctions 10 over allegedly procuring weapons for Iran",
+   "en": {
+    "title": "US Sanctions 10 for Helping Iran Get Weapons",
+    "summary": "The US Treasury has sanctioned 10 individuals and entities in China, Hong Kong, and Pakistan for helping Iran's Ministry of Defense buy weapons and components. The Trump administration says this is part of a broader effort to isolate Iran economically and force it to negotiate. Treasury says the sanctions aim to weaken Iran's weapons programs and punish those who support them."
+   },
+   "bn": {
+    "title": "ইরানকে অস্ত্র কিনতে সাহায্যকারীদের বিরুদ্ধে যুক্তরাষ্ট্রের নিষেধাজ্ঞা",
+    "summary": "যুক্তরাষ্ট্রের ট্রেজারি বিভাগ চীন, হংকং এবং পাকিস্তানে অবস্থিত ১০ জন ব্যক্তি ও সংস্থার বিরুদ্ধে নিষেধাজ্ঞা দিয়েছে, যারা ইরানের প্রতিরক্ষা মন্ত্রণালয়কে অস্ত্র ও যন্ত্রাংশ ক্রয়ে সহায়তা করেছে। ট্রাম্প প্রশাসন বলছে এটি ইরানকে অর্থনৈতিকভাবে বিচ্ছিন্ন করার বৃহত্তর প্রচেষ্টার অংশ। ট্রেজারি বলেছে এই পদক্ষেপ ইরানের অস্ত্র কর্মসূচি দুর্বল করতে এবং সমর্থনকারীদের শাস্তি দিতে লক্ষ্য করে।"
+   }
+  },
   {
    "id": "1is03kn",
    "section": "news",
