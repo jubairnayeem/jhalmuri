@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-09-29T06:49:31.173Z",
+ "updatedAt": "2026-09-29T14:01:15.842Z",
  "burning": [
   {
-   "id": "ba2s9w",
+   "id": "lq0j9f",
    "heat": 5,
    "why": {
-    "en": "US weapons, China, Trump—huge international story with major geopolitical weight.",
-    "bn": "আমেরিকার অস্ত্র, চীন আর ট্রাম্প—বড় আন্তর্জাতিক খবর যা সবাই নিয়ে কথা বলছে।"
+    "en": "Bangladesh govt warning tourists about Nepal floods matches massive regional interest in natural disasters and travel safety.",
+    "bn": "বাংলাদেশ সরকার নেপালের বন্যা নিয়ে সতর্কতা দিয়েছে—এটা দক্ষিণ এশিয়ায় বড় আলোচনা।"
    },
    "rank": 1
-  },
-  {
-   "id": "1l5b6nq",
-   "heat": 5,
-   "why": {
-    "en": "OpenAI scrapping GPT-6.1 over safety is major tech news; AI safety is a global conversation right now.",
-    "bn": "ওপেনএআই নিরাপত্তার কারণে জিপিটি-৬.১ বাতিল করা বড় প্রযুক্তি খবর; এআই নিরাপত্তা এখন বৈশ্বিক আলোচনা।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "lq0j9f",
-   "heat": 4,
-   "why": {
-    "en": "Bangladesh warning tourists about Nepal floods—directly relevant to Bengalis traveling; safety alert.",
-    "bn": "বাংলাদেশ নেপালের বন্যা নিয়ে পর্যটকদের সতর্ক করেছে—বাঙালি ভ্রমণকারীদের জন্য সরাসরি প্রাসঙ্গিক।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "5mu0cy",
-   "heat": 4,
-   "why": {
-    "en": "Dhaka ranks 4th most polluted city globally—local, urgent, affects everyone's health daily.",
-    "bn": "ঢাকা বিশ্বের চতুর্থ সবচেয়ে দূষিত শহর—স্থানীয়, জরুরি, সবার স্বাস্থ্যের জন্য প্রাসঙ্গিক।"
-   },
-   "rank": 4
   },
   {
    "id": "vfni2b",
    "heat": 4,
    "why": {
-    "en": "Qatar LNG suspension till November—direct hit on Bangladesh energy, prices, economy.",
-    "bn": "কাতার এলএনজি সরবরাহ নভেম্বর পর্যন্ত বন্ধ—বাংলাদেশের শক্তি, মূল্য ও অর্থনীতিতে সরাসরি প্রভাব।"
+    "en": "QatarEnergy halting LNG supplies till November is a major energy crisis affecting Bangladesh directly.",
+    "bn": "কাতার এনার্জি নভেম্বর পর্যন্ত এলএনজি সাপ্লাই বন্ধ করছে—এটা বাংলাদেশের শক্তি সংকট।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "yekb9o",
+   "heat": 4,
+   "why": {
+    "en": "Young doctor's dengue death shortly after wedding is resonating; dengue remains a serious health concern.",
+    "bn": "বিয়ের কয়েক দিন পর ডাক্তারের ডেঙ্গু মৃত্যু—স্বাস্থ্য সংকট নিয়ে মানুষ চিন্তিত।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "hg06zy",
+   "heat": 3,
+   "why": {
+    "en": "Dhaka crackdown on land-grabbing syndicates addresses a widespread crime affecting citizens directly.",
+    "bn": "ঢাকায় জমি দখলদার সিন্ডিকেটের বিরুদ্ধে অভিযান—সাধারণ মানুষের একটা বড় সমস্যা।"
+   },
+   "rank": 4
+  },
+  {
+   "id": "5mu0cy",
+   "heat": 3,
+   "why": {
+    "en": "Dhaka ranked 4th most polluted city globally; air quality is a persistent local concern.",
+    "bn": "ঢাকা বিশ্বের সবচেয়ে দূষিত শহরের মধ্যে ৪র্থ—পরিবেশ সমস্যা নিয়ে আলোচনা চলছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "ba2s9w",
-   "tag": "#TrumpChina",
+   "id": "16bajs1",
+   "tag": "#MiddleEastTensions",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Trump jokes about selling US weapons",
-    "text": "Trump made jokes about selling American weapons to China, but US officials clarified there's no actual deal happening."
+    "title": "Iran warns of destructive war",
+    "text": "Iran says it's ready for a 'destructive' war if attacked again, escalating Middle East tensions after recent strikes."
    },
    "bn": {
-    "title": "ট্রাম্প আমেরিকার অস্ত্র বিক্রয়ের মজা",
-    "text": "ট্রাম্প চীনকে আমেরিকার অস্ত্র বিক্রয়ের কথা বলে মজা করেছেন, কিন্তু আমেরিকার কর্মকর্তারা বলেছেন কোনো সত্যিকারের চুক্তি নেই।"
+    "title": "ইরান যুদ্ধের হুমকি",
+    "text": "ইরান বলেছে, আবার আক্রমণ করলে 'ধ্বংসাত্মক' যুদ্ধের জন্য প্রস্তুত—মধ্যপ্রাচ্যে উত্তেজনা বাড়ছে।"
    }
   },
   {
-   "id": "5mu0cy",
-   "tag": "#DhakaPollution",
+   "id": "1igeuia",
+   "tag": "#RussiaTensions",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Dhaka world's 4th most polluted",
-    "text": "Dhaka has ranked as the 4th most polluted city in the world, raising serious air quality concerns for residents."
+    "title": "US journalist says he was trapped",
+    "text": "Evan Gershkovich claims Russia deliberately lured him into a spy trap, raising concerns about foreign journalists' safety in the country."
    },
    "bn": {
-    "title": "ঢাকা বিশ্বের চতুর্থ দূষিত শহর",
-    "text": "ঢাকা বিশ্বের চতুর্থ সবচেয়ে দূষিত শহর হিসেবে স্থান পেয়েছে, যা বাসিন্দাদের জন্য গুরুতর বায়ু মান সমস্যা।"
+    "title": "আমেরিকান সাংবাদিকের দাবি",
+    "text": "ইভান গার্শকোভিচ বলেছেন রাশিয়া তাকে জেনে শুনে ফাঁসিতে ফেলেছে—সাংবাদিক নিরাপত্তা নিয়ে প্রশ্ন উঠছে।"
    }
   },
   {
-   "id": "lq0j9f",
-   "tag": "#NepalFloods",
+   "id": "upjbi5",
+   "tag": "#CyberWarfare",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 3,
    "en": {
-    "title": "Bangladesh warns Nepal travel",
-    "text": "Bangladesh has issued a warning for tourists to avoid Nepal due to ongoing floods and landslides in the region."
+    "title": "Estonia blames Russia for arson",
+    "text": "Estonia accuses Russia of ordering arson at a defence company facility, escalating accusations of hybrid warfare."
    },
    "bn": {
-    "title": "নেপাল ভ্রমণ সতর্কতা জারি",
-    "text": "নেপালে চলমান বন্যা ও ভূমিধসের কারণে বাংলাদেশ পর্যটকদের নেপাল ভ্রমণ এড়াতে সতর্ক করেছে।"
+    "title": "এস্টোনিয়া রাশিয়ার বিরুদ্ধে অভিযোগ",
+    "text": "এস্টোনিয়া বলছে রাশিয়া একটা ডিফেন্স কোম্পানিতে অগ্নিসংযোগের নির্দেশ দিয়েছে।"
    }
   }
  ],

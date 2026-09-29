@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-09-29T06:49:17.184Z",
+ "updatedAt": "2026-09-29T14:01:00.322Z",
  "items": [
+  {
+   "id": "1wtdv0f",
+   "section": "bhabna",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/videos/when-tech-titans-tell-us-to-adapt-or-die-we-neednt-listen",
+   "image": "https://images.aeonmedia.co/images/b9e1b5f4-1022-4b3e-b06e-05b066e961fd/the-end-of-humanity-landscape-5.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "published": "2026-09-29T10:01:00.000Z",
+   "added": "2026-09-29T14:01:00.322Z",
+   "origTitle": "The end of humanity",
+   "en": {
+    "title": "Documentary Challenges Tech-Driven Vision of Humanity's End",
+    "summary": "Filmmakers Andreas Dürr and Jan-Marc Furer created 'The End of Humanity' to push back against tech industry claims that humans will soon become obsolete. The documentary argues that corporate incentives and media hype have driven conversations toward fatalism. Through interviews with philosophers and theologians, it makes the case that our future isn't settled—we can embrace technology while preserving human values, traditions and dignity."
+   },
+   "bn": {
+    "title": "মানুষের শেষ নিয়ে প্রযুক্তির দৃষ্টিভঙ্গিকে চ্যালেঞ্জ করছে ডকুমেন্টারি",
+    "summary": "সুইস নির্মাতারা অ্যান্ড্রিয়াস ডুর এবং জ্যান-মার্ক ফিউরার 'দ্য এন্ড অফ হিউম্যানিটি' তৈরি করেছেন প্রযুক্তি শিল্পের দাবিকে চ্যালেঞ্জ করতে যে মানুষ শীঘ্রই অপ্রাসঙ্গিক হয়ে যাবে। ডকুমেন্টারি বলে যে কর্পোরেট স্বার্থ এবং মিডিয়া হাইপ ভবিষ্যৎ নিয়ে কথোপকথনকে হতাশাবাদের দিকে নিয়ে গেছে। আমরা প্রযুক্তি গ্রহণ করতে পারি মানবিক মূল্যবোধ বজায় রেখে।"
+   }
+  },
+  {
+   "id": "12lgnng",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/gmz11ry3xv",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-29/v380q006/GazipurRaja.avif",
+   "published": "2026-09-29T13:53:37.000Z",
+   "added": "2026-09-29T14:01:00.322Z",
+   "origTitle": "দুই দিনেও গ্রেপ্তার করা যায়নি ‘পিচ্চি রাজাকে’, মামলা করল পুলিশ",
+   "en": {
+    "title": "Escaped Convict 'Pichi Raja' Still at Large, Police File Case",
+    "summary": "Raja, nicknamed 'Pichi Raja' (30), escaped from police custody near Baymile area in Gazipur while being transported back to Kashimpur Central Jail on Sunday evening. He claimed to need the toilet, and an SI allowed him to leave the van—he then fled. Police have suspended five officers involved and formed a committee to investigate. A case has been filed at Kona Bari thana. Raja, a known drug dealer from Mohammadpur arrested on 19 May, remains at large."
+   },
+   "bn": {
+    "title": "দুই দিনেও ধরা পড়েনি 'পিচ্চি রাজা', পুলিশ মামলা করেছে",
+    "summary": "পিচ্চি রাজা নামে পরিচিত রাজা (৩০) গত রোববার সন্ধ্যায় কাশিমপুর জেল থেকে ফেরার পথে গাজীপুরের বাইমাইল এলাকায় পুলিশের হাত থেকে পালিয়ে যায়। তিনি শৌচাগারে যাওয়ার কথা বলে গাড়ি থেকে নেমে দৌড়ে চলে যান। পুলিশ পাঁচ জন অফিসারকে সাময়িক বরখাস্ত করেছে এবং তদন্ত কমিটি গঠন করেছে। মহেনদ্রুগের ড্রাগ ডিলার রাজা এখনও গ্রেপ্তার হননি।"
+   }
+  },
+  {
+   "id": "yekb9o",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/y46f0agv7m",
+   "image": "https://media.prothomalo.com/prothomalo-english/2021-01/c3dbed49-9972-49c7-83ed-ef4927b04b9f/english_site_og_image.png",
+   "published": "2026-09-29T12:51:00.000Z",
+   "added": "2026-09-29T14:01:00.322Z",
+   "origTitle": "Young physician dies of dengue days after marriage",
+   "en": {
+    "title": "Young Doctor Dies of Dengue Days After Wedding",
+    "summary": "Physician Anchal Roy died of dengue on 27 September, about a year and a half after marrying fellow doctor Biplob Chandra Das on 18 April. The couple had rented a home in Khilgaon and were planning to move to Barishal together. Due to their jobs, they had lived separately in places like Kasba, Brahmanbaria, Jamalpur, Dhaka and Barguna, meeting only during leave. Anchal was admitted to Square Hospital's ICU but could not be saved."
+   },
+   "bn": {
+    "title": "বিবাহের পরপর ডেঙ্গিতে তরুণ চিকিৎসক মৃত",
+    "summary": "চিকিৎসক অঞ্চল রয় গত ১৮ এপ্রিলে সহকর্মী ডাক্তার বিপ্লব চন্দ্র দাশের সাথে বিয়ে করেছিলেন। প্রায় দেড় বছর পর ডেঙ্গিতে আক্রান্ত হয়ে ২৭ সেপ্টেম্বর মৃত্যুবরণ করেন। দম্পতি খিলগাঁওয়ে একটি ভাড়া বাড়ি নিয়েছিলেন এবং বরিশালে নতুন জীবন শুরুর পরিকল্পনা করছিলেন। তাদের চাকরির কারণে তারা আলাদাভাবে থাকতেন এবং ছুটির সময় দেখা করতেন।"
+   }
+  },
+  {
+   "id": "x3z0o",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/posture-adjusted-to-equally-incorrect-posture/",
+   "image": "https://theonion.com/wp-content/uploads/2026/09/Posture_Adjusted_SB_S_PH-socials.jpg",
+   "published": "2026-09-29T13:00:00.000Z",
+   "added": "2026-09-29T14:01:00.322Z",
+   "origTitle": "Posture Adjusted To Equally Incorrect Posture",
+   "en": {
+    "title": "Guy Fixes Bad Posture, Ends Up With Different Bad Posture",
+    "summary": "The Onion's latest bit: someone finally listened to advice about their slouching and adjusted their sitting position—only to discover they've swapped one terrible posture for another equally terrible one. No real winner here, just different ways to wreck your back."
+   },
+   "bn": {
+    "title": "খারাপ ভঙ্গি ঠিক করলেন, আরেকটা খারাপ ভঙ্গি হয়ে গেল",
+    "summary": "দ্য অনিয়নের হাস্যরস: কেউ নিজের বাঁকা বসার ভঙ্গি ঠিক করার চেষ্টা করেছেন, কিন্তু সেটার বদলে একটা অন্য খারাপ ভঙ্গি তৈরি হয়েছে। মোটে কোনো জয় নেই, শুধু পিঠ নষ্ট করার নতুন উপায়।"
+   }
+  },
+  {
+   "id": "wp3mh5",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "Rest of World",
+   "srcLang": "en",
+   "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_hugging_face_china_final-768x432.jpg",
+   "published": "2026-09-29T10:00:00.000Z",
+   "added": "2026-09-29T14:00:37.836Z",
+   "origTitle": "The open-source AI platforms vying to become China’s Hugging Face",
+   "en": {
+    "title": "China builds its own Hugging Face alternatives",
+    "summary": "After China blocked access to US-based Hugging Face in 2023, local companies launched alternatives. Alibaba's ModelScope hosts over 170,000 AI models, while OSChina's MoArk serves 20,000 models. These open-source platforms let users download and customize AI models locally. Executives say China's AI ecosystem is developing faster than its internet industry did behind the Great Firewall."
+   },
+   "bn": {
+    "title": "চীন নিজের হাগিং ফেস তৈরি করছে",
+    "summary": "চীন ২০২৩ সালে আমেরিকান হাগিং ফেস ব্লক করার পর স্থানীয় কোম্পানিগুলো বিকল্প চালু করে। আলিবাবার মডেলস্কোপ ১৭০,০০০+ এআই মডেল হোস্ট করে, যখন ওএসচাইনার মোআর্ক ২০,০০০ মডেল পরিবেশন করে। এই ওপেন-সোর্স প্ল্যাটফর্মগুলো ব্যবহারকারীদের এআই মডেল ডাউনলোড করে কাস্টমাইজ করতে দেয়। নির্বাহীরা বলেন চীনের এআই ইকোসিস্টেম তার ইন্টারনেট শিল্পের চেয়ে দ্রুত বিকশিত হচ্ছে।"
+   }
+  },
+  {
+   "id": "1igeuia",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/681a/live/874ab620-bbf8-11f1-bd21-bdf910f2cec6.jpg",
+   "published": "2026-09-29T12:43:04.000Z",
+   "added": "2026-09-29T14:00:37.836Z",
+   "origTitle": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
+   "en": {
+    "title": "Evan Gershkovich: 'I was lured into a Russian trap'",
+    "summary": "US journalist Evan Gershkovich, detained by Russia for 16 months before a prisoner swap freed him, says he was set up when masked FSB agents arrested him at a restaurant in 2023. He was accused of espionage and sentenced to 16 years but released in a high-profile deal. Gershkovich and his employer, the Wall Street Journal, have always maintained the charges were false."
+   },
+   "bn": {
+    "title": "সাংবাদিক গার্শকোভিচ: রাশিয়া আমাকে ফাঁদে ফেলেছে",
+    "summary": "আমেরিকান সাংবাদিক ইভান গার্শকোভিচ বলেন তিনি ২০২৩ সালে একটি রেস্তোরাঁয় মাস্কড এফএসবি এজেন্টদের দ্বারা গ্রেপ্তার হওয়ার সময় জানতেন তিনি ফাঁদে পড়েছেন। তিনি ১৬ বছরের সাজা পান কিন্তু ১৬ মাস পর বন্দী বিনিময় চুক্তিতে মুক্ত হন। তিনি এবং ওয়াল স্ট্রীট জার্নাল সবসময় দাবি অস্বীকার করেছে।"
+   }
+  },
+  {
+   "id": "upjbi5",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2023-06-01T063549Z_973149824_RC26A1AOI2XQ_RTRMADP_3_UKRAINE-CRISIS-NATO-NORWAY-1711106765.jpg?resize=1920%2C1440",
+   "published": "2026-09-29T13:26:32.000Z",
+   "added": "2026-09-29T14:00:37.836Z",
+   "origTitle": "Estonia says Russia ordered August arson attack on defence company",
+   "en": {
+    "title": "Estonia accuses Russia of ordering defence company arson",
+    "summary": "Estonia's Foreign Minister accused Russia of ordering an August arson attack on defence firm Milrem Robotics as part of broader sabotage. He said perpetrators were arrested and no longer pose a threat, and Estonia summoned the Russian ambassador. The Kremlin rejected the claims as 'baseless.' NATO chief Mark Rutte said Russia continues hostile actions against NATO allies but is failing."
+   },
+   "bn": {
+    "title": "এস্তোনিয়া রাশিয়াকে সাবোটেজের জন্য অভিযুক্ত করল",
+    "summary": "এস্তোনিয়ার পররাষ্ট্রমন্ত্রী রাশিয়াকে আগস্টে প্রতিরক্ষা কোম্পানি মিলরেম রোবোটিক্সে অগ্নিসংযোগের আদেশ দেওয়ার অভিযোগ করেন, যা ব্যাপক সাবোটেজের অংশ। তিনি বলেন দায়ীরা গ্রেফতার হয়েছে এবং এস্তোনিয়া রাশিয়ান রাষ্ট্রদূতকে ডেকে পাঠায়। ক্রেমলিন দাবি অস্বীকার করে এবং নাটো প্রধান মার্ক রুট্টে বলেন রাশিয়া ব্যর্থ হচ্ছে।"
+   }
+  },
+  {
+   "id": "umbyqs",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Dazzle-AI-Team-Photo.jpg?resize=1200,784",
+   "published": "2026-09-29T13:53:01.000Z",
+   "added": "2026-09-29T14:00:37.836Z",
+   "origTitle": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+   "en": {
+    "title": "Marissa Mayer's AI reads your photos, not your email",
+    "summary": "Former Yahoo CEO Marissa Mayer unveiled Dazzle, a personal AI assistant funded with $8 million, that learns about you from your camera roll instead of email or calendars. The AI analyzes photos to understand your hobbies, interests, travel, food preferences, and activities. Mayer argues photos are an underappreciated source of personal data, and her camera roll contains more insight than traditional data sources."
+   },
+   "bn": {
+    "title": "মারিসা মেয়ারের এআই তোমার ফটো পড়ে, ইমেইল নয়",
+    "summary": "প্রাক্তন ইয়াহু সিইও মারিসা মেয়ার তার নতুন এআই সহায়ক ড্যাজল আনলোক করেছেন যা ৮ মিলিয়ন ডলার ফান্ডিং পেয়েছে। এটি ইমেইল বা ক্যালেন্ডারের পরিবর্তে তোমার ক্যামেরা রোল বিশ্লেষণ করে তোমার আগ্রহ, ছুটির দিন, খাবার পছন্দ বুঝে নেয়। মেয়ার যুক্তি দেন যে ফটোগুলি ব্যক্তিগত তথ্যের একটি অবহেলিত উৎস এবং তোমার ফটো সংগ্রহ ঐতিহ্যবাহী ডেটার চেয়ে বেশি অন্তর্দৃষ্টি দেয়।"
+   }
+  },
+  {
+   "id": "1tllczs",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c6vgy2pzr09wo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f456/live/03d843d0-bc01-11f1-a430-4d16ee157c41.jpg",
+   "published": "2026-09-29T13:10:33.000Z",
+   "added": "2026-09-29T14:00:37.836Z",
+   "origTitle": "নেতানিয়াহু কেন সংযুক্ত আরব আমিরাতে 'গোপন' সফর করলেন?",
+   "en": {
+    "title": "Netanyahu's Secret Abu Dhabi Visit Raises Questions",
+    "summary": "Israeli PM Benjamin Netanyahu flew secretly to Abu Dhabi to meet UAE President Sheikh Mohamed bin Zayed, with no official announcement. His office confirmed the meeting 24 hours later, saying they discussed strengthening ties and regional issues. The visit comes amid reports that bin Zayed had allegedly warned Netanyahu about Hamas's attack before October 7, 2023—claims Netanyahu's office denies."
+   },
+   "bn": {
+    "title": "নেতানিয়াহুর গোপন আবু ধাবি যাত্রা কেন তোলপাড় ফেলেছে",
+    "summary": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু একটি ব্যক্তিগত বিমানে সংযুক্ত আরব আমিরাতের প্রেসিডেন্ট শেখ মোহাম্মদ বিন জায়েদের সাথে গোপনে দেখা করেন। সফর শেষের ২৪ ঘণ্টা পর তার অফিস এটি নিশ্চিত করে এবং দ্বিপক্ষীয় সম্পর্ক ও আঞ্চলিক বিষয় নিয়ে আলোচনার কথা জানায়। খবর ছড়িয়ে পড়ে যে বিন জায়েদ অক্টোবর ৭, ২০২৩-এর হামাস হামলার আগে নেতানিয়াহুকে সতর্ক করেছিলেন—এমন দাবি নেতানিয়াহুর পক্ষ অস্বীকার করে।"
+   }
+  },
   {
    "id": "1k3fq55",
    "section": "news",
