@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-09-28T20:36:10.908Z",
+ "updatedAt": "2026-09-29T00:57:43.737Z",
  "items": [
+  {
+   "id": "1i6nwx3",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "UNB",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWElvZ0NSUThTYTQyTzZnTENBLWU3NGtETldDNVlSc01jNlF6VE9rOEkySWUta0VxVUk2M2RKM2NKeGVjSHNIRDRfamhQSTZSaUJrbVZ5Z0Q1ejJoNmVLaGx6Y2Uya1BIZV9YQ1BVbURiWTVEQnlPQ21FVTVaVU05V3N4WHRGdjR3N3dwRklmMFMxUkoydTY2c0VSek9tMnEzN1V6WUt2ZHA3dw?oc=5",
+   "image": null,
+   "published": "2026-09-28T11:53:45.000Z",
+   "added": "2026-09-29T00:57:43.736Z",
+   "origTitle": "17,332 brokerage fraud victims to get full refund from DSE's IPF",
+   "en": {
+    "title": "17,332 fraud victims to get full DSE refund",
+    "summary": "The Dhaka Stock Exchange's Investor Protection Fund will provide full refunds to 17,332 victims of brokerage fraud. This recovery marks a significant step in protecting investors and restoring confidence in the market. Affected individuals will receive compensation for their losses."
+   },
+   "bn": {
+    "title": "১৭,৩৩২ জন জালিয়াতির শিকার সম্পূর্ণ অর্থ ফেরত পাবেন",
+    "summary": "ঢাকা স্টক এক্সচেঞ্জের বিনিয়োগকারী সুরক্ষা তহবিল ১৭,৩৩২ জন ব্রোকারেজ জালিয়াতির শিকারকে সম্পূর্ণ অর্থ ফেরত দেবে। এটি বিনিয়োগকারীদের সুরক্ষা এবং বাজারে আস্থা ফিরিয়ে আনার একটি গুরুত্বপূর্ণ পদক্ষেপ। ক্ষতিগ্রস্তরা তাদের সম্পূর্ণ ক্ষতিপূরণ পাবেন।"
+   }
+  },
+  {
+   "id": "5mu0cy",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Bangladesh Post",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjVXXzlYMXlUaDdKYnVodHRCUFdSQ0VUNFlOM0JXRF9WclpOMzhNbDNkbVFOZ2dfSWVqMkNDamRoVnRQU2xQRjhuYVhoTEtIQ3pRV1FrWS1pVWV2VFlsSVptVHU1bS1sVW5kVUk1RzNpSnQxMHI5RFQ1OEZmZWpiMWpmMVhYTm1nLW9mekdpQ1piR3pCRDVDemhzWlhvZw?oc=5",
+   "image": null,
+   "published": "2026-09-28T06:23:02.000Z",
+   "added": "2026-09-29T00:57:43.736Z",
+   "origTitle": "Dhaka ranks 4th among world's most polluted cities Monday",
+   "en": {
+    "title": "Dhaka ranks 4th among world's most polluted cities",
+    "summary": "Dhaka has been ranked the 4th most polluted city in the world on Monday. The city's air quality continues to be a major health concern for its residents. This ranking reflects the ongoing battle with air pollution that affects millions of people daily."
+   },
+   "bn": {
+    "title": "ঢাকা বিশ্বের সবচেয়ে দূষিত শহরের মধ্যে ৪র্থ",
+    "summary": "সোমবার ঢাকা বিশ্বের সবচেয়ে দূষিত শহরের তালিকায় চতুর্থ স্থান পেয়েছে। শহরের বাতাসের গুণমান লাখো মানুষের স্বাস্থ্যের জন্য একটি বড় হুমকি হয়ে উঠেছে। প্রতিদিন মিলিয়ন মানুষ এই দূষণের সাথে লড়াই করছে।"
+   }
+  },
+  {
+   "id": "1cr74oa",
+   "section": "bhabna",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/ai-in-peer-review-practices-policies/",
+   "image": "https://dailynous.com/wp-content/uploads/2026/09/Springer-AI-peer-review-risk-chart-2026-9.png",
+   "published": "2026-09-28T11:00:00.000Z",
+   "added": "2026-09-29T00:57:36.604Z",
+   "origTitle": "AI in Peer Review: Practices & Policies",
+   "en": {
+    "title": "Major Publishers Debate How Peer Reviewers Should Use AI",
+    "summary": "Springer Nature and Wiley allow journal referees to use AI when reviewing papers, though with guidelines. Oxford University Press prohibits uploading manuscripts to AI tools. University of Chicago Press is most restrictive, requiring reviewers to evaluate work without AI assistance to protect author intellectual property and manuscript confidentiality."
+   },
+   "bn": {
+    "title": "প্রকাশকরা পিয়ার রিভিউতে এআই ব্যবহারের নিয়ম নিয়ে বিতর্ক",
+    "summary": "স্প্রিঙ্গার নেচার ও ওয়াইলি জার্নাল রিভিউয়ারদের নির্দেশিকা অনুযায়ী এআই ব্যবহারের অনুমতি দেয়। অক্সফোর্ড ইউনিভার্সিটি প্রেস পাণ্ডুলিপি এআই টুলে আপলোড করতে নিষেধ করে। শিকাগো ইউনিভার্সিটি প্রেস সবচেয়ে কঠোর—রিভিউয়ারদের এআই ছাড়াই কাজ মূল্যায়ন করতে হবে যাতে লেখক ও পাণ্ডুলিপির সুরক্ষা নিশ্চিত হয়।"
+   }
+  },
+  {
+   "id": "9tyxnb",
+   "section": "bhabna",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/portraits/he-mapped-the-learning-brain-then-came-the-hard-part",
+   "image": "https://images.aeonmedia.co/images/d424b674-1d9a-4d00-bdad-88d615695a19/sz-final-gettyimages-2216807773.jpg?top=235&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=jpeg",
+   "published": "2026-09-28T10:00:00.000Z",
+   "added": "2026-09-29T00:57:36.604Z",
+   "origTitle": "Can he teach the teachers?",
+   "en": {
+    "title": "Can Top Brain Scientist Change How Teachers Teach?",
+    "summary": "Cognitive neuroscientist Stanislas Dehaene heads France's Scientific Council for National Education, trying to make education policy follow brain research. He's published hundreds of papers and books on how the brain learns, but faces resistance from politics and ideology. Recently, Le Monde accused his council of racism—a claim he vehemently rejects."
+   },
+   "bn": {
+    "title": "শীর্ষ মস্তিষ্ক বিজ্ঞানী শিক্ষা পদ্ধতি বদলাতে পারবেন?",
+    "summary": "জ্ঞানীয় স্নায়ুবিজ্ঞানী স্ট্যানিসলাস ডেহেইন ফ্রান্সের জাতীয় শিক্ষা বিজ্ঞানী পরিষদের নেতৃত্ব দিচ্ছেন যেখানে তিনি মস্তিষ্কের গবেষণাকে শিক্ষা নীতিতে প্রতিফলিত করতে চান। তিনি শেখার প্রক্রিয়া সম্পর্কে শত শত গবেষণা পত্র ও বই প্রকাশ করেছেন কিন্তু রাজনীতি ও ইতিহাসের বাধার সম্মুখীন হচ্ছেন। সম্প্রতি লে মন্ডে তার পরিষদকে বর্ণবাদের অভিযোগ করেছে যা তিনি দৃঢ়ভাবে অস্বীকার করেছেন।"
+   }
+  },
+  {
+   "id": "35ospl",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/cypprpoa4l",
+   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-28%2Fmpsjunvx%2FPirojpur_DH2007_20260927_gargi3.jpg?rect=0%2C35%2C820%2C431&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+   "published": "2026-09-28T23:00:00.000Z",
+   "added": "2026-09-29T00:57:36.604Z",
+   "origTitle": "‘অ্যাঙ্কিলসিং স্পন্ডিলাইটিসে’ আক্রান্ত গার্গীর চিকিৎসায় সহায়তা দরকার",
+   "en": {
+    "title": "Woman Needs Help for Advanced Spinal Disease Treatment",
+    "summary": "Gargi Chatterjee Katha, 25, from Pirojpur, has advanced ankylosing spondylitis and needs a hip joint transplant surgery in Chennai's Apollo Hospital. Her family has already spent over 35 lakh taka on treatment since her father died in 2018. They need approximately 40 lakh taka more for the surgery and are appealing for financial help."
+   },
+   "bn": {
+    "title": "মেরুদণ্ডের গুরুতর রোগে আক্রান্ত নারীর চিকিৎসায় সাহায্য দরকার",
+    "summary": "পিরোজপুর থেকে ২৫ বছর বয়সী গার্গী চ্যাটার্জী কথা অ্যাডভান্সড স্টেজের অ্যাঙ্কিলসিং স্পন্ডিলাইটিসে আক্রান্ত এবং চেন্নাইয়ের অ্যাপোলো হাসপাতালে হিপ জয়েন্ট ট্রান্সপ্ল্যান্ট সার্জারির প্রয়োজন। তার বাবা ২০১৮ সালে মারা যাওয়ার পর থেকে পরিবার ইতিমধ্যে ৩৫ লাখ টাকার বেশি খরচ করেছে। অপারেশনের জন্য আরও ৪০ লাখ টাকা প্রয়োজন এবং পরিবার আর্থিক সহায়তার জন্য আবেদন জানিয়েছে।"
+   }
+  },
+  {
+   "id": "180ijs6",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/creatively-tapped-out-peter-thiel-launches-startup-called-frodo-but-evil/",
+   "image": "https://theonion.com/wp-content/uploads/2026/09/Creatively_Tapped-Out_NIB_G_PH.jpg",
+   "published": "2026-09-28T21:25:13.000Z",
+   "added": "2026-09-29T00:57:36.604Z",
+   "origTitle": "Creatively Tapped-Out Peter Thiel Launches Startup Called ‘Frodo, But Evil’",
+   "en": {
+    "title": "Burnt-Out Thiel Launches Startup Called 'Frodo, But Evil'",
+    "summary": "Peter Thiel announced a new startup, 'Frodo, But Evil,' after running out of creative ideas. The exhausted investor hasn't decided what the company will do, but circled words like \"dog taser\" and \"mind control at scale.\" He reportedly secured a $10 billion Defense Department contract before the company even launched."
+   },
+   "bn": {
+    "title": "স্টার্টআপ আইডিয়া শেষ হয়ে থিয়েল 'ফ্রোডো, বাট ইভিল' চালু করলেন",
+    "summary": "পিটার থিয়েল সৃজনশীলতা শেষ হয়ে যাওয়ার পর 'ফ্রোডো, বাট ইভিল' নামের একটি স্টার্টআপ চালু করার ঘোষণা দিয়েছেন। এই ক্লান্ত বিনিয়োগকারী এখনও কোম্পানিটি কী করবে তা সিদ্ধান্ত নেননি। রিপোর্ট অনুযায়ী, কোম্পানি চালু হওয়ার আগেই তিনি ১০ বিলিয়ন ডলারের প্রতিরক্ষা চুক্তি নিশ্চিত করেছেন।"
+   }
+  },
+  {
+   "id": "5g2yps",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/CEO-of-Galaxy-Aerospace-Ghana-with-his-team-1790593677.jpeg?resize=1200%2C675",
+   "published": "2026-09-29T00:26:22.000Z",
+   "added": "2026-09-29T00:57:36.604Z",
+   "origTitle": "Africa’s space ambitions are moving from policy to practice",
+   "en": {
+    "title": "Africa Shifts from Using Space Tech to Building It",
+    "summary": "The Africa Space Expo in Abidjan showcased applications for food security, climate resilience and maritime safety rather than rockets. Ivory Coast became the 75th signatory of the Artemis Accords on space exploration, while Angola signed a space cooperation letter with the UAE. Ghana's space ambitions date back to 1961, though the country has focused on using rather than building space technology."
+   },
+   "bn": {
+    "title": "আফ্রিকা স্পেস প্রযুক্তি ব্যবহার থেকে তৈরিতে এগোচ্ছে",
+    "summary": "আবিদজানে অনুষ্ঠিত আফ্রিকা স্পেস এক্সপোতে খাদ্য নিরাপত্তা, জলবায়ু সচেতনতা এবং সামুদ্রিক নিরাপত্তা প্রযুক্তি প্রদর্শন করা হয়েছে। আইভরি কোস্ট মহাকাশ অন্বেষণের আর্টেমিস চুক্তির ৭৫তম স্বাক্ষরকারী হয়েছে এবং অ্যাঙ্গোলা আরব আমিরাতের সাথে সহযোগিতা চুক্তি স্বাক্ষর করেছে। ঘানার মহাকাশ উচ্চাভিলাষ ১৯৬১ থেকে শুরু হয়েছে।"
+   }
+  },
+  {
+   "id": "1ntohna",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800",
+   "published": "2026-09-29T00:30:00.000Z",
+   "added": "2026-09-29T00:57:36.604Z",
+   "origTitle": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+   "en": {
+    "title": "Peak XV Raises Seed Investment Cap to $5M for 18 Startups",
+    "summary": "Peak XV Partners, a major VC firm with over $10 billion under management, has increased its per-startup investment ceiling to $5 million through Surge, its seed platform, up from $3 million. The new cohort, Surge 12, includes 18 companies spanning from San Francisco to Sydney. Peak XV invested over $50 million across the group, which collectively raised more than $90 million in seed funding."
+   },
+   "bn": {
+    "title": "পিক এক্সভি সিড ইনভেস্টমেন্টের সীমা ৫ মিলিয়ন ডলারে বাড়ালো",
+    "summary": "ভারত ও দক্ষিণ এশিয়ায় বিনিয়োগকারী বড় ভেঞ্চার ক্যাপিটাল ফার্ম পিক এক্সভি পার্টনারস তার সার্জ প্ল্যাটফর্মে প্রতিটি স্টার্টআপের জন্য বিনিয়োগের সীমা ৫ মিলিয়ন ডলারে উন্নীত করেছে। সার্জ ১২ নামের নতুন কোহর্টে ১৮টি কোম্পানি রয়েছে যারা সান ফ্রান্সিসকো থেকে সিডনি পর্যন্ত বিস্তৃত। এই গ্রুপে পিক এক্সভি ৫০ মিলিয়ন ডলারের বেশি বিনিয়োগ করেছে।"
+   }
+  },
+  {
+   "id": "1uqmdns",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/khulna/971211/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%97%E0%A7%8D%E0%A6%AE",
+   "image": null,
+   "published": "2026-09-29T00:45:42.000Z",
+   "added": "2026-09-29T00:57:36.604Z",
+   "origTitle": "খুলনা জেলা এনসিপির নতুন কমিটির সিনিয়র যুগ্ম আহ্বায়কের পদত্যাগ",
+   "en": {
+    "title": "NCP Official Quits Over Appointment Without Consent",
+    "summary": "Molla Shawkat Hossain Babul, senior joint convener of the National Citizen Party's new Khulna district committee, has resigned from his position. In a press statement on Monday, September 28, he said he was appointed without being consulted. Babul called the decision unwanted and unwarranted."
+   },
+   "bn": {
+    "title": "সম্মতি ছাড়াই পদে নিয়োগ দিয়ে এনসিপি অফিসিয়াল পদত্যাগ",
+    "summary": "জাতীয় নাগরিক পার্টির খুলনা জেলা কমিটির সিনিয়র যুগ্ম আহ্বায়ক মোল্যা শওকত হোসেন বাবুল তার পদ থেকে পদত্যাগ করেছেন। সোমবার (২৮ সেপ্টেম্বর) প্রেস বিজ্ঞপ্তিতে তিনি জানান, তার মতামত না নিয়েই তাকে এই পদে নিয়োগ দেওয়া হয়েছে। বাবুল এই সিদ্ধান্তকে অনাকাঙ্ক্ষিত ও অনভিপ্রেত বলে অভিহিত করেছেন।"
+   }
+  },
   {
    "id": "nw23mb",
    "section": "hasi",

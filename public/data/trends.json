@@ -1,39 +1,39 @@
 {
- "updatedAt": "2026-09-28T20:36:25.642Z",
+ "updatedAt": "2026-09-29T00:57:59.141Z",
  "burning": [
   {
-   "id": "16bajs1",
+   "id": "5mu0cy",
    "heat": 5,
    "why": {
-    "en": "Iran's war threat is major international news, high global stakes.",
-    "bn": "ইরানের যুদ্ধের হুমকি বিশ্বব্যাপী সংবাদ, বড় জিওপলিটিক্যাল ঘটনা।"
+    "en": "Dhaka pollution crisis hitting home hard as city ranks among world's worst.",
+    "bn": "ঢাকার দূষণ বিশ্বের সবচেয়ে খারাপ শহরগুলোর মধ্যে পড়েছে, এটা সবার জন্য উদ্বেগের বিষয়।"
    },
    "rank": 1
-  },
-  {
-   "id": "wk0sej",
-   "heat": 5,
-   "why": {
-    "en": "South Korea's AI chip race is major tech story, global business impact.",
-    "bn": "দক্ষিণ কোরিয়ার এআই চিপ রেস বড় টেক গল্প, বৈশ্বিক ব্যবসায়িক প্রভাব।"
-   },
-   "rank": 2
   },
   {
    "id": "lq0j9f",
    "heat": 4,
    "why": {
-    "en": "Bangladesh tourism warning reaches diaspora and travel-minded readers.",
-    "bn": "বাংলাদেশের পর্যটন সতর্কতা প্রবাসী এবং ভ্রমণপ্রেমীদের কাছে পৌঁছায়।"
+    "en": "Nepal flood warning affecting travel plans; ties to massive Google Trends surge on Nepal.",
+    "bn": "নেপালের বন্যায় ট্রিপ প্ল্যান বাতিল হচ্ছে, গুগলে নেপাল খুবই ট্রেন্ডিং।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "1i6nwx3",
+   "heat": 4,
+   "why": {
+    "en": "Major financial relief: 17,332 fraud victims getting full DSE refunds.",
+    "bn": "১৭ হাজারেরও বেশি জালিয়াতির শিকার সম্পূর্ণ টাকা ফেরত পাবেন, বড় ঘটনা।"
    },
    "rank": 3
   },
   {
-   "id": "1lzoam2",
-   "heat": 4,
+   "id": "tawqn1",
+   "heat": 3,
    "why": {
-    "en": "Yemen-Houthis shipping crisis affects global trade, major geopolitical story.",
-    "bn": "ইয়েমেন-হুথি শিপিং সংকট বৈশ্বিক বাণিজ্যকে প্রভাবিত করে, বড় ভূরাজনৈতিক ঘটনা।"
+    "en": "Viral video of family drama in Barishal sparking conversation on social media.",
+    "bn": "বরিশালের ভাইরাল ভিডিও সবার কথা বলার বিষয় হয়ে উঠেছে।"
    },
    "rank": 4
   },
@@ -41,59 +41,75 @@
    "id": "git9fq",
    "heat": 3,
    "why": {
-    "en": "Local campus drama, resonates with students and families.",
-    "bn": "স্থানীয় ক্যাম্পাস ঘটনা, শিক্ষার্থী এবং পরিবারের সাথে সম্পর্কিত।"
+    "en": "Sylhet college standoff ends after tense 33-hour student lockdown of teachers.",
+    "bn": "সিলেট ইঞ্জিনিয়ারিং কলেজে ৩৩ ঘণ্টার টেনশন শেষ হয়েছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "16bajs1",
-   "tag": "#IranWarThreat",
+   "id": "lq0j9f",
+   "tag": "#নেপালনিরাপত্তা",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Iran says ready for war",
-    "text": "Iran has warned it is prepared for a destructive conflict if attacked again, raising tensions in the Middle East."
+    "title": "Nepal floods hit trending",
+    "text": "Bangladesh warning tourists to stay away as Nepal battles severe flooding and landslides. Google searches for Nepal spiked massively."
    },
    "bn": {
-    "title": "ইরান যুদ্ধের জন্য প্রস্তুত",
-    "text": "ইরান সতর্ক করেছে যে আবার আক্রমণ করা হলে এটি ধ্বংসাত্মক যুদ্ধের জন্য প্রস্তুত, মধ্যপ্রাচ্যে উত্তেজনা বৃদ্ধি পেয়েছে।"
+    "title": "নেপালে বন্যা বড় ট্রেন্ড",
+    "text": "বাংলাদেশ সরকার পর্যটকদের নেপাল যেতে সতর্ক করছে কারণ ওখানে বন্যা এবং ভূমিধস হচ্ছে। গুগলে নেপাল খুবই ট্রেন্ড।"
    }
   },
   {
-   "id": "wk0sej",
-   "tag": "#AIChipRace",
+   "id": "5mu0cy",
+   "tag": "#বায়ুদূষণ",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "South Korea powers US AI",
-    "text": "South Korean chip makers are racing ahead to fuel America's artificial intelligence boom with cutting-edge technology."
+    "title": "Dhaka smog crisis real",
+    "text": "Our capital now ranks 4th among the world's most polluted cities. Real air quality concern for millions."
    },
    "bn": {
-    "title": "দক্ষিণ কোরিয়া আমেরিকার এআই চালিত করছে",
-    "text": "দক্ষিণ কোরিয়ান চিপ নির্মাতারা আমেরিকার কৃত্রিম বুদ্ধিমত্তা বৃদ্ধি চালিত করতে এগিয়ে যাচ্ছে।"
+    "title": "ঢাকা দূষণে চতুর্থ",
+    "text": "ঢাকা এখন বিশ্বের সবচেয়ে দূষিত শহরগুলোর চতুর্থ স্থানে। লক্ষ লক্ষ মানুষের জন্য বড় চিন্তা।"
+   }
+  },
+  {
+   "id": "1i6nwx3",
+   "tag": "#স্টকমার্কেটনিরাপত্তা",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "DSE fraud victims get relief",
+    "text": "Over 17,000 people who got scammed will get their full money back. Major win for investor protection."
+   },
+   "bn": {
+    "title": "স্টক মার্কেট জালিয়াতির শিকার",
+    "text": "১৭ হাজারেরও বেশি জালিয়াতির শিকার এখন সম্পূর্ণ টাকা ফেরত পাবেন। বিনিয়োগকারীদের জন্য বড় সুখবর।"
    }
   },
   {
    "id": "ac7omv",
-   "tag": "#ApplePatent",
+   "tag": "#অ্যাপলপেটেন্ট",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Apple pays $5.7bn patent fine",
-    "text": "Apple has been ordered to pay 5.7 billion dollars for infringing on a haptic feedback technology patent."
+    "title": "Apple pays $5.7bn fine",
+    "text": "Apple ordered to pay $5.7 billion for haptic feedback patent infringement—one of the priciest tech settlements."
    },
    "bn": {
-    "title": "অ্যাপল ৫.৭ বিলিয়ন ডলার ফাইন দেবে",
-    "text": "অ্যাপল হ্যাপটিক ফিডব্যাক প্রযুক্তি পেটেন্ট লঙ্ঘনের জন্য ৫.৭ বিলিয়ন ডলার দিতে আদেশিত হয়েছে।"
+    "title": "অ্যাপলকে বিশাল জরিমানা",
+    "text": "অ্যাপলকে ৫.৭ বিলিয়ন ডলার জরিমানা দিতে হবে প্যাটেন্ট লঙ্ঘনের জন্য। টেক জগতে বিশাল নিউজ।"
    }
   }
  ],
