@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-09-29T14:01:00.322Z",
+ "updatedAt": "2026-09-29T19:20:30.093Z",
  "items": [
+  {
+   "id": "1is03kn",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Daily Sun",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUi13b2JGMVBtSzhYTjFPaUR3dFJnQmgwOV90N2tJWElZNVhoUWZmZEJIYnBGMlZBdjFGU0RhaVZuamZOd1NJZ0Y0RElLQk9CTmplbWgzaGZHY1Mya3JHazdLQnhpdkh6?oc=5",
+   "image": null,
+   "published": "2026-09-29T18:00:00.000Z",
+   "added": "2026-09-29T19:20:30.093Z",
+   "origTitle": "Germany intends to block sale of logistics firm to China’s Cosco - daily-sun.com",
+   "en": {
+    "title": "Germany plans to block Chinese sale of German logistics firm",
+    "summary": "Germany intends to block the sale of a German logistics company to China's Cosco, a major shipping firm. The decision reflects growing concerns about foreign investment in strategic sectors. Germany aims to protect key infrastructure from foreign control."
+   },
+   "bn": {
+    "title": "জার্মানি চায় চীনের কাছে লজিস্টিক্স কোম্পানি বিক্রয় আটকাতে",
+    "summary": "জার্মানি একটি জার্মান লজিস্টিক্স কোম্পানি চীনের কসকোর কাছে বিক্রয় রোধ করতে চায়। সিদ্ধান্তটি কৌশলগত খাতে বিদেশি বিনিয়োগের উদ্বেগ প্রতিফলিত করে। জার্মানি গুরুত্বপূর্ণ অবকাঠামো বিদেশি নিয়ন্ত্রণ থেকে রক্ষা করতে চায়।"
+   }
+  },
+  {
+   "id": "6mxor1",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BSS",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6NGVoUVFHdVQ4UGpROFgza00xcGp3Ujk5bnAtZHJTY0lDVnhqRkdnSnVvendjNi1kekYtWEEtdFljY0tKUkNoekU5bFltM0lkRzJYMnU2cw?oc=5",
+   "image": null,
+   "published": "2026-09-29T03:01:24.000Z",
+   "added": "2026-09-29T19:20:30.093Z",
+   "origTitle": "Trump denies he offered Iran sanctions relief, release of frozen funds",
+   "en": {
+    "title": "Trump denies offering Iran sanctions relief and frozen funds",
+    "summary": "Former US President Trump has denied claims that he offered Iran sanctions relief and the release of frozen funds. The denial comes amid broader discussions about US-Iran relations and potential negotiations. Details of the alleged offer remain unclear."
+   },
+   "bn": {
+    "title": "ট্রাম্প ইরানকে নিষেধাজ্ঞা শিথিলকরণের প্রস্তাব দেওয়ার অস্বীকার করেছেন",
+    "summary": "সাবেক নেতা ট্রাম্প ইরানকে নিষেধাজ্ঞা শিথিল করার এবং হিমায়িত তহবিল মুক্ত করার প্রস্তাব দেওয়ার দাবি অস্বীকার করেছেন। এই বিবৃতি আসেনি যুক্তরাষ্ট্র-ইরান সম্পর্কের বিস্তৃত আলোচনার মধ্যে। প্রস্তাবের বিস্তারিত এখনও অস্পষ্ট।"
+   }
+  },
+  {
+   "id": "6349u6",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "UNB",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFBfd3N3WVBjY184ZTJneDlWYXZSOWY4a08xRmUwX2tKZENHZ3BYQmw5NVJaQWMyaDZya0JiWnl3OGY1ZHRyc2FkYVkwV283NmdjSThpQXNQSDNCaEpKbjRSUnFsaWZpOEtrLVFzLURscFE0eDV4M3ZGMTZUT3VDak5xc0xYbkxRSVE3UEs3dVZub29QZXRYNFBiMDhzVlY0TVpEZ0FqNDJzbG9TVkRB?oc=5",
+   "image": null,
+   "published": "2026-09-29T06:22:38.000Z",
+   "added": "2026-09-29T19:20:30.093Z",
+   "origTitle": "US ban on nearly $1b Canadian imports takes effect amid trade tensions",
+   "en": {
+    "title": "US trade ban on Canadian imports takes effect",
+    "summary": "The United States has implemented a ban on nearly $1 billion worth of Canadian imports, marking an escalation in trade tensions between the two countries. The move reflects ongoing disputes over trade policies. Canada may consider retaliatory measures in response."
+   },
+   "bn": {
+    "title": "যুক্তরাষ্ট্র কানাডার পণ্যে প্রায় এক বিলিয়ন ডলার নিষেধাজ্ঞা কার্যকর করেছে",
+    "summary": "যুক্তরাষ্ট্র কানাডা থেকে আমদানিকৃত প্রায় এক বিলিয়ন ডলার মূল্যের পণ্যে নিষেধাজ্ঞা চালু করেছে। এটি দুই দেশের মধ্যে বাণিজ্য উত্তেজনা বাড়াচ্ছে। কানাডা প্রতিশোধমূলক পদক্ষেপ বিবেচনা করতে পারে।"
+   }
+  },
+  {
+   "id": "53fr82",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Bangladesh Post",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjZQRzZDbGZpNmt5cElsUEN0Zy1iWi1SZTZITmd1d2gxa3UzN2ZEZzBFNHdIRXgyS3Q0VHQ2eGJIdVlVcUpKcUttSGtUZ1ptVXFIeU1qTW1wYmFsTkFCaHJTUjUtaTRSd2hIQlZ5MVF2QklyU0hYMVZMTzlXVW5XU0ZrUVdOdXFpRU1pbFJkQy14VmpXZF81Ym1n?oc=5",
+   "image": null,
+   "published": "2026-09-29T12:47:19.000Z",
+   "added": "2026-09-29T19:20:30.093Z",
+   "origTitle": "Measles-related death toll crosses 1,100 in Bangladesh",
+   "en": {
+    "title": "Measles death toll in Bangladesh exceeds 1,100",
+    "summary": "The number of measles-related deaths in Bangladesh has crossed 1,100. This marks a serious public health concern requiring urgent attention. Vaccination and preventive measures remain critical to control the outbreak."
+   },
+   "bn": {
+    "title": "বাংলাদেশে হাম রোগে মৃত্যু ১,১০০ ছাড়িয়ে গেছে",
+    "summary": "বাংলাদেশে হাম রোগজনিত মৃত্যু ১,১০০ অতিক্রম করেছে। এটি একটি গুরুতর স্বাস্থ্য সংকট যার জরুরি মনোযোগ প্রয়োজন। টিকাকরণ এবং প্রতিরোধমূলক ব্যবস্থা রোগ নিয়ন্ত্রণে অপরিহার্য।"
+   }
+  },
+  {
+   "id": "17emjj5",
+   "section": "hasi",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/09/29/tortoise-wandering-Monroe-Township-New-Jersey/9821790704899/",
+   "image": "https://cdnph.upi.com/ph/st/th/9821790704899/2026/i/17907052852410/v1.5/Large-tortoise-found-wandering-loose-in-New-Jersey.jpg",
+   "published": "2026-09-29T18:08:24.000Z",
+   "added": "2026-09-29T19:20:30.093Z",
+   "origTitle": "Look: Large tortoise found wandering loose in New Jersey",
+   "en": {
+    "title": "Giant tortoise caught wandering loose in New Jersey",
+    "summary": "Police in New Jersey found a large tortoise roaming free and are trying to track down its owner. They joked about the \"very slow-moving suspect\" in their search. The tortoise is safe but clearly took a wrong turn somewhere."
+   },
+   "bn": {
+    "title": "নিউ জার্সিতে বিশাল কচ্ছপ রাস্তায় ঘুরছিল",
+    "summary": "নিউ জার্সির পুলিশ একটি বড় কচ্ছপ রাস্তায় ঘুরতে পেয়েছে এবং এর মালিক খুঁজছে। তারা এই ঘটনাকে নিয়ে হালকা মেজাজে মন্তব্য করেছে। কচ্ছপটি নিরাপদ কিন্তু স্পষ্টতই পথ হারিয়েছে।"
+   }
+  },
+  {
+   "id": "ufcf7h",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/n3epbmaye4",
+   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-29%2Fxbtx9290%2Fuimage-20.jpg?rect=0%2C39%2C1064%2C559&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+   "published": "2026-09-29T18:56:18.000Z",
+   "added": "2026-09-29T19:20:30.093Z",
+   "origTitle": "সামাজিক নিরাপত্তায় সুবিধাভোগী বাছাইয়ে রাজনৈতিক বিবেচনা না করার পরামর্শ সংসদীয় কমিটির",
+   "en": {
+    "title": "Parliament committee warns against political bias in welfare selection",
+    "summary": "A parliamentary committee told the Social Welfare Ministry to pick beneficiaries of social safety programmes based on genuine need, not political connections. The Family Card scheme is currently running in 56 wards across 54 upazilas in 52 districts. The committee wants the ministry to work as a unified team to reach marginalised communities fairly."
+   },
+   "bn": {
+    "title": "সামাজিক সুবিধা বাছাইয়ে রাজনীতির হস্তক্ষেপ বন্ধের নির্দেশ",
+    "summary": "সংসদের স্থায়ী কমিটি সমাজকল্যাণ মন্ত্রণালয়কে সত্যিকারের দরিদ্রদের চিহ্নিত করতে বলেছে, রাজনৈতিক প্রভাব ছাড়াই। ফ্যামিলি কার্ড প্রকল্প এখন ৫২টি জেলার ৫৪টি উপজেলায় চলছে। কমিটি চায় মন্ত্রণালয় দলীয় স্বার্থ ছাড়াই সবার কল্যাণে কাজ করুক।"
+   }
+  },
+  {
+   "id": "jeotxl",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/nations-93-year-olds-announce-plan-to-crash-car-into-side-of-bank/",
+   "image": "https://theonion.com/wp-content/uploads/2026/09/Nations_93_Year_Olds_NIB_IHA-GR.jpg",
+   "published": "2026-09-29T17:42:57.000Z",
+   "added": "2026-09-29T19:20:11.841Z",
+   "origTitle": "Nation’s 93-Year-Olds Announce Plan To Crash Car Into Side Of Bank",
+   "en": {
+    "title": "Nation's 93-year-olds plan massive bank car-crash mission",
+    "summary": "[SATIRE] In a joint statement, hundreds of thousands of American 93-year-olds announced they plan to crash their cars into banks. The group promised confusion, cataracts, and complete disregard for traffic laws would not stop their mission. They vowed to cause massive structural damage while somehow walking away unscathed."
+   },
+   "bn": {
+    "title": "দেশের ৯৩ বছর বয়সীরা ব্যাংকে গাড়ি চালানোর পরিকল্পনা করছে",
+    "summary": "[এটি হাস্যরস] যৌথ বিবৃতিতে লক্ষ লক্ষ আমেরিকান ৯৩ বছর বয়সী ব্যক্তি ঘোষণা করেছেন তারা ব্যাংকে গাড়ি চালানোর পরিকল্পনা করছেন। এই দলটি বলেছে যে বিভ্রান্তি, ছানি এবং ট্রাফিক আইন অমান্য করা তাদের লক্ষ্য রোধ করতে পারবে না।"
+   }
+  },
+  {
+   "id": "174coes",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/sports/football/aw7ywg0f03",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-09-29/2febelqi/562866-01-02.jpg",
+   "published": "2026-09-29T16:38:14.000Z",
+   "added": "2026-09-29T19:20:11.841Z",
+   "origTitle": "Brazil come from behind to beat Australia 4-2 in friendly",
+   "en": {
+    "title": "Brazil beats Australia 4-2 in Brisbane friendly",
+    "summary": "Brazil came from behind to defeat Australia 4-2 in a friendly match in Brisbane before over 52,000 fans. Australia took a 2-1 lead early, but Brazil equalized via penalty and scored twice more in the second half. Brazil manager Carlo Ancelotti praised Australia's intensity and quality."
+   },
+   "bn": {
+    "title": "ব্রিসবেনে ব্রাজিল অস্ট্রেলিয়াকে ৪-২ গোলে হারিয়েছে",
+    "summary": "ব্রাজিল ব্রিসবেনে বন্ধুত্বপূর্ণ ম্যাচে অস্ট্রেলিয়াকে ৪-২ গোলে পরাজিত করেছে, যেখানে ৫২,০০০েরও বেশি দর্শক উপস্থিত ছিল। অস্ট্রেলিয়া প্রথমে ২-১ এগিয়ে গিয়েছিল কিন্তু ব্রাজিল পেনাল্টি থেকে সমান করে দ্বিতীয় অর্ধে দুই গোল করে জয় নিশ্চিত করেছে।"
+   }
+  },
+  {
+   "id": "19snru3",
+   "section": "news",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/others/971410/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A7%81%E0%A7%9C%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A7%9F",
+   "image": null,
+   "published": "2026-09-29T19:15:49.000Z",
+   "added": "2026-09-29T19:20:11.841Z",
+   "origTitle": "আবারও শুরু হচ্ছে নতুন কুড়ি প্রতিযোগিতা, কবে কোথায় জেনে নিন",
+   "en": {
+    "title": "Bangladesh TV opens talent hunt for kids: Naun Kuri 2026",
+    "summary": "Bangladesh Television announced registrations for Naun Kuri 2026, a talent search for children and teens. Applications open October 1st. Contestants can compete in acting, recitation, storytelling, public speaking, and dance. Winners will get a platform to showcase their skills on national television."
+   },
+   "bn": {
+    "title": "বাংলাদেশ টিভি শিশুদের জন্য ট্যালেন্ট হান্ট খুলছে: নতুন কুঁড়ি ২০২৬",
+    "summary": "বাংলাদেশ টেলিভিশন 'নতুন কুঁড়ি ২০২৬' ঘোষণা করেছে যা শিশু-কিশোরদের জন্য একটি প্রতিভা অনুসন্ধান প্রতিযোগিতা। আবেদন প্রক্রিয়া ১ অক্টোবর থেকে শুরু হবে। অভিনয়, আবৃত্তি, গল্পবলা, উপস্থিত বক্তৃতা এবং নৃত্যে অংশগ্রহণ করা যাবে।"
+   }
+  },
+  {
+   "id": "665tgw",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg",
+   "published": "2026-09-29T16:23:58.000Z",
+   "added": "2026-09-29T19:20:11.841Z",
+   "origTitle": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+   "en": {
+    "title": "Spain bans evictions until 2030 after housing crisis protests",
+    "summary": "Spain's government approved a ban on evictions until 2030 following protests over the eviction of an 87-year-old woman. The measures also include rolling over rental contracts until 2028 and banning investment firms from buying housing. Health Minister Mónica García said the policies would help over five million people, though opposition parties raised concerns about small landlords."
+   },
+   "bn": {
+    "title": "স্পেন আবাসন সংকটের পর ২০৩০ পর্যন্ত উচ্ছেদ নিষিদ্ধ করেছে",
+    "summary": "একজন ৮৭ বছর বয়সী নারীর উচ্ছেদের বিরুদ্ধে প্রতিবাদের পর স্পেনের সরকার ২০৩০ পর্যন্ত উচ্ছেদ নিষিদ্ধ করার অনুমোদন দিয়েছে। এই ব্যবস্থায় ভাড়া চুক্তি ২০২৮ পর্যন্ত স্থায়ী করা এবং বিনিয়োগ কোম্পানিগুলোকে বাড়ি কেনা নিষিদ্ধ করা অন্তর্ভুক্ত। স্বাস্থ্য মন্ত্রী মোনিকা গার্সিয়া বলেন এই নীতি ৫০ লাখেরও বেশি মানুষকে সাহায্য করবে।"
+   }
+  },
   {
    "id": "1wtdv0f",
    "section": "bhabna",

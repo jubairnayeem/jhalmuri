@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-09-29T14:01:15.842Z",
+ "updatedAt": "2026-09-29T19:20:43.774Z",
  "burning": [
   {
-   "id": "lq0j9f",
+   "id": "53fr82",
    "heat": 5,
    "why": {
-    "en": "Bangladesh govt warning tourists about Nepal floods matches massive regional interest in natural disasters and travel safety.",
-    "bn": "বাংলাদেশ সরকার নেপালের বন্যা নিয়ে সতর্কতা দিয়েছে—এটা দক্ষিণ এশিয়ায় বড় আলোচনা।"
+    "en": "Major health crisis: measles death toll in Bangladesh exceeds 1,100.",
+    "bn": "বাংলাদেশে হাম মহামারী: মৃত্যুর সংখ্যা ১,১০০ ছাড়িয়ে গেছে।"
    },
    "rank": 1
+  },
+  {
+   "id": "6349u6",
+   "heat": 5,
+   "why": {
+    "en": "US trade ban on Canadian imports now in effect, major economic impact.",
+    "bn": "আমেরিকার কানাডায় বাণিজ্য নিষেধাজ্ঞা কার্যকর হয়েছে, অর্থনৈতিক প্রভাব বড়।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "665tgw",
+   "heat": 4,
+   "why": {
+    "en": "Spain bans evictions until 2030 after major housing crisis protests.",
+    "bn": "স্পেন আবাসন সংকটের পর ২০৩০ পর্যন্ত উচ্ছেদ নিষেধ করেছে।"
+   },
+   "rank": 3
   },
   {
    "id": "vfni2b",
    "heat": 4,
    "why": {
-    "en": "QatarEnergy halting LNG supplies till November is a major energy crisis affecting Bangladesh directly.",
-    "bn": "কাতার এনার্জি নভেম্বর পর্যন্ত এলএনজি সাপ্লাই বন্ধ করছে—এটা বাংলাদেশের শক্তি সংকট।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "yekb9o",
-   "heat": 4,
-   "why": {
-    "en": "Young doctor's dengue death shortly after wedding is resonating; dengue remains a serious health concern.",
-    "bn": "বিয়ের কয়েক দিন পর ডাক্তারের ডেঙ্গু মৃত্যু—স্বাস্থ্য সংকট নিয়ে মানুষ চিন্তিত।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "hg06zy",
-   "heat": 3,
-   "why": {
-    "en": "Dhaka crackdown on land-grabbing syndicates addresses a widespread crime affecting citizens directly.",
-    "bn": "ঢাকায় জমি দখলদার সিন্ডিকেটের বিরুদ্ধে অভিযান—সাধারণ মানুষের একটা বড় সমস্যা।"
+    "en": "QatarEnergy suspends LNG supplies to Bangladesh until November, energy crisis risk.",
+    "bn": "কাতার এনার্জি নভেম্বর পর্যন্ত বাংলাদেশে এলএনজি সরবরাহ স্থগিত করেছে।"
    },
    "rank": 4
   },
   {
    "id": "5mu0cy",
-   "heat": 3,
+   "heat": 4,
    "why": {
-    "en": "Dhaka ranked 4th most polluted city globally; air quality is a persistent local concern.",
-    "bn": "ঢাকা বিশ্বের সবচেয়ে দূষিত শহরের মধ্যে ৪র্থ—পরিবেশ সমস্যা নিয়ে আলোচনা চলছে।"
+    "en": "Dhaka ranks 4th among world's most polluted cities, air quality alarm.",
+    "bn": "ঢাকা বিশ্বের সবচেয়ে দূষিত শহরের তালিকায় ৪র্থ স্থানে রয়েছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "16bajs1",
-   "tag": "#MiddleEastTensions",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Iran warns of destructive war",
-    "text": "Iran says it's ready for a 'destructive' war if attacked again, escalating Middle East tensions after recent strikes."
-   },
-   "bn": {
-    "title": "ইরান যুদ্ধের হুমকি",
-    "text": "ইরান বলেছে, আবার আক্রমণ করলে 'ধ্বংসাত্মক' যুদ্ধের জন্য প্রস্তুত—মধ্যপ্রাচ্যে উত্তেজনা বাড়ছে।"
-   }
-  },
-  {
-   "id": "1igeuia",
-   "tag": "#RussiaTensions",
+   "id": "174coes",
+   "tag": "#ফুটবল",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "US journalist says he was trapped",
-    "text": "Evan Gershkovich claims Russia deliberately lured him into a spy trap, raising concerns about foreign journalists' safety in the country."
+    "title": "Brazil thrashes Australia in friendly",
+    "text": "Brazil beat Australia 4-2 in a Brisbane friendly match, showing strong form ahead of upcoming tournaments."
    },
    "bn": {
-    "title": "আমেরিকান সাংবাদিকের দাবি",
-    "text": "ইভান গার্শকোভিচ বলেছেন রাশিয়া তাকে জেনে শুনে ফাঁসিতে ফেলেছে—সাংবাদিক নিরাপত্তা নিয়ে প্রশ্ন উঠছে।"
+    "title": "ব্রাজিল অস্ট্রেলিয়াকে হারাল",
+    "text": "ব্রাজিল ব্রিসবেনে বন্ধুত্বপূর্ণ ম্যাচে অস্ট্রেলিয়াকে ৪-২ গোলে পরাজিত করেছে।"
    }
   },
   {
-   "id": "upjbi5",
-   "tag": "#CyberWarfare",
+   "id": "1lzoam2",
+   "tag": "#হুতি",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Estonia blames Russia for arson",
-    "text": "Estonia accuses Russia of ordering arson at a defence company facility, escalating accusations of hybrid warfare."
+    "title": "Houthis control key shipping lane",
+    "text": "Battle intensifies in Yemen as Houthis seize control of critical shipping chokepoint, raising global trade concerns."
    },
    "bn": {
-    "title": "এস্টোনিয়া রাশিয়ার বিরুদ্ধে অভিযোগ",
-    "text": "এস্টোনিয়া বলছে রাশিয়া একটা ডিফেন্স কোম্পানিতে অগ্নিসংযোগের নির্দেশ দিয়েছে।"
+    "title": "হুতিরা শিপিং পথ নিয়ন্ত্রণ করছে",
+    "text": "ইয়েমেনে হুতিরা কৌশলগত শিপিং পথ দখল করেছে, বৈশ্বিক বাণিজ্য হুমকির সম্মুখীন।"
+   }
+  },
+  {
+   "id": "wk0sej",
+   "tag": "#চিপ_যুদ্ধ",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "South Korea chips power US AI",
+    "text": "South Korea's semiconductor giants are racing to meet America's growing AI chip demand."
+   },
+   "bn": {
+    "title": "দক্ষিণ কোরিয়ার চিপ আমেরিকা চালিত করছে",
+    "text": "দক্ষিণ কোরিয়ার চিপ প্রস্তুতকারীরা আমেরিকার কৃত্রিম বুদ্ধিমত্তা চাহিদা পূরণে প্রতিযোগিতা করছে।"
    }
   }
  ],
