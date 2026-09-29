@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-09-29T00:57:59.141Z",
+ "updatedAt": "2026-09-29T06:49:31.173Z",
  "burning": [
   {
-   "id": "5mu0cy",
+   "id": "ba2s9w",
    "heat": 5,
    "why": {
-    "en": "Dhaka pollution crisis hitting home hard as city ranks among world's worst.",
-    "bn": "ঢাকার দূষণ বিশ্বের সবচেয়ে খারাপ শহরগুলোর মধ্যে পড়েছে, এটা সবার জন্য উদ্বেগের বিষয়।"
+    "en": "US weapons, China, Trump—huge international story with major geopolitical weight.",
+    "bn": "আমেরিকার অস্ত্র, চীন আর ট্রাম্প—বড় আন্তর্জাতিক খবর যা সবাই নিয়ে কথা বলছে।"
    },
    "rank": 1
+  },
+  {
+   "id": "1l5b6nq",
+   "heat": 5,
+   "why": {
+    "en": "OpenAI scrapping GPT-6.1 over safety is major tech news; AI safety is a global conversation right now.",
+    "bn": "ওপেনএআই নিরাপত্তার কারণে জিপিটি-৬.১ বাতিল করা বড় প্রযুক্তি খবর; এআই নিরাপত্তা এখন বৈশ্বিক আলোচনা।"
+   },
+   "rank": 2
   },
   {
    "id": "lq0j9f",
    "heat": 4,
    "why": {
-    "en": "Nepal flood warning affecting travel plans; ties to massive Google Trends surge on Nepal.",
-    "bn": "নেপালের বন্যায় ট্রিপ প্ল্যান বাতিল হচ্ছে, গুগলে নেপাল খুবই ট্রেন্ডিং।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "1i6nwx3",
-   "heat": 4,
-   "why": {
-    "en": "Major financial relief: 17,332 fraud victims getting full DSE refunds.",
-    "bn": "১৭ হাজারেরও বেশি জালিয়াতির শিকার সম্পূর্ণ টাকা ফেরত পাবেন, বড় ঘটনা।"
+    "en": "Bangladesh warning tourists about Nepal floods—directly relevant to Bengalis traveling; safety alert.",
+    "bn": "বাংলাদেশ নেপালের বন্যা নিয়ে পর্যটকদের সতর্ক করেছে—বাঙালি ভ্রমণকারীদের জন্য সরাসরি প্রাসঙ্গিক।"
    },
    "rank": 3
   },
   {
-   "id": "tawqn1",
-   "heat": 3,
+   "id": "5mu0cy",
+   "heat": 4,
    "why": {
-    "en": "Viral video of family drama in Barishal sparking conversation on social media.",
-    "bn": "বরিশালের ভাইরাল ভিডিও সবার কথা বলার বিষয় হয়ে উঠেছে।"
+    "en": "Dhaka ranks 4th most polluted city globally—local, urgent, affects everyone's health daily.",
+    "bn": "ঢাকা বিশ্বের চতুর্থ সবচেয়ে দূষিত শহর—স্থানীয়, জরুরি, সবার স্বাস্থ্যের জন্য প্রাসঙ্গিক।"
    },
    "rank": 4
   },
   {
-   "id": "git9fq",
-   "heat": 3,
+   "id": "vfni2b",
+   "heat": 4,
    "why": {
-    "en": "Sylhet college standoff ends after tense 33-hour student lockdown of teachers.",
-    "bn": "সিলেট ইঞ্জিনিয়ারিং কলেজে ৩৩ ঘণ্টার টেনশন শেষ হয়েছে।"
+    "en": "Qatar LNG suspension till November—direct hit on Bangladesh energy, prices, economy.",
+    "bn": "কাতার এলএনজি সরবরাহ নভেম্বর পর্যন্ত বন্ধ—বাংলাদেশের শক্তি, মূল্য ও অর্থনীতিতে সরাসরি প্রভাব।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "lq0j9f",
-   "tag": "#নেপালনিরাপত্তা",
+   "id": "ba2s9w",
+   "tag": "#TrumpChina",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Nepal floods hit trending",
-    "text": "Bangladesh warning tourists to stay away as Nepal battles severe flooding and landslides. Google searches for Nepal spiked massively."
+    "title": "Trump jokes about selling US weapons",
+    "text": "Trump made jokes about selling American weapons to China, but US officials clarified there's no actual deal happening."
    },
    "bn": {
-    "title": "নেপালে বন্যা বড় ট্রেন্ড",
-    "text": "বাংলাদেশ সরকার পর্যটকদের নেপাল যেতে সতর্ক করছে কারণ ওখানে বন্যা এবং ভূমিধস হচ্ছে। গুগলে নেপাল খুবই ট্রেন্ড।"
+    "title": "ট্রাম্প আমেরিকার অস্ত্র বিক্রয়ের মজা",
+    "text": "ট্রাম্প চীনকে আমেরিকার অস্ত্র বিক্রয়ের কথা বলে মজা করেছেন, কিন্তু আমেরিকার কর্মকর্তারা বলেছেন কোনো সত্যিকারের চুক্তি নেই।"
    }
   },
   {
    "id": "5mu0cy",
-   "tag": "#বায়ুদূষণ",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Dhaka smog crisis real",
-    "text": "Our capital now ranks 4th among the world's most polluted cities. Real air quality concern for millions."
-   },
-   "bn": {
-    "title": "ঢাকা দূষণে চতুর্থ",
-    "text": "ঢাকা এখন বিশ্বের সবচেয়ে দূষিত শহরগুলোর চতুর্থ স্থানে। লক্ষ লক্ষ মানুষের জন্য বড় চিন্তা।"
-   }
-  },
-  {
-   "id": "1i6nwx3",
-   "tag": "#স্টকমার্কেটনিরাপত্তা",
+   "tag": "#DhakaPollution",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "DSE fraud victims get relief",
-    "text": "Over 17,000 people who got scammed will get their full money back. Major win for investor protection."
+    "title": "Dhaka world's 4th most polluted",
+    "text": "Dhaka has ranked as the 4th most polluted city in the world, raising serious air quality concerns for residents."
    },
    "bn": {
-    "title": "স্টক মার্কেট জালিয়াতির শিকার",
-    "text": "১৭ হাজারেরও বেশি জালিয়াতির শিকার এখন সম্পূর্ণ টাকা ফেরত পাবেন। বিনিয়োগকারীদের জন্য বড় সুখবর।"
+    "title": "ঢাকা বিশ্বের চতুর্থ দূষিত শহর",
+    "text": "ঢাকা বিশ্বের চতুর্থ সবচেয়ে দূষিত শহর হিসেবে স্থান পেয়েছে, যা বাসিন্দাদের জন্য গুরুতর বায়ু মান সমস্যা।"
    }
   },
   {
-   "id": "ac7omv",
-   "tag": "#অ্যাপলপেটেন্ট",
+   "id": "lq0j9f",
+   "tag": "#NepalFloods",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Apple pays $5.7bn fine",
-    "text": "Apple ordered to pay $5.7 billion for haptic feedback patent infringement—one of the priciest tech settlements."
+    "title": "Bangladesh warns Nepal travel",
+    "text": "Bangladesh has issued a warning for tourists to avoid Nepal due to ongoing floods and landslides in the region."
    },
    "bn": {
-    "title": "অ্যাপলকে বিশাল জরিমানা",
-    "text": "অ্যাপলকে ৫.৭ বিলিয়ন ডলার জরিমানা দিতে হবে প্যাটেন্ট লঙ্ঘনের জন্য। টেক জগতে বিশাল নিউজ।"
+    "title": "নেপাল ভ্রমণ সতর্কতা জারি",
+    "text": "নেপালে চলমান বন্যা ও ভূমিধসের কারণে বাংলাদেশ পর্যটকদের নেপাল ভ্রমণ এড়াতে সতর্ক করেছে।"
    }
   }
  ],

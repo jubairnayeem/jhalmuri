@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-09-29T00:57:43.737Z",
+ "updatedAt": "2026-09-29T06:49:17.184Z",
  "items": [
+  {
+   "id": "1k3fq55",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/qvjdtly9pl",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-29/9zzjw3lj/chapainawabgonjdh060320260929screenshot20260929-113750files-by-google-1.jpg",
+   "published": "2026-09-29T06:39:29.000Z",
+   "added": "2026-09-29T06:49:17.184Z",
+   "origTitle": "বসতঘরে একযোগে ৩০টি ককটেল বিস্ফোরণ, পরিবারের সদস্যরা পলাতক",
+   "en": {
+    "title": "30 cocktails explode in bedroom, family flees Chapainawabganj",
+    "summary": "About 25–30 cocktails detonated together in a bedroom in Narayanganj Union, Chapainawabganj sadar upazila, on Monday night around 8pm. The blast destroyed walls and blew off the tin roof, but there were no casualties reported. The homeowner, a fish trader named Yahiya, and his family fled. Police suspect the explosives were stored for territorial conflict over fishing rights in a seasonal pond."
+   },
+   "bn": {
+    "title": "চাঁপাইনবাবগঞ্জে শয়নকক্ষে ৩০টি ককটেল বিস্ফোরণ, পরিবার পালিয়েছে",
+    "summary": "চাঁপাইনবাবগঞ্জ সদরের নারায়ণপুর ইউনিয়নে সোমবার রাত আটটার দিকে একটি শয়নকক্ষে ২৫–৩০টি ককটেল একসাথে বিকট শব্দে বিস্ফোরিত হয়েছে। বিস্ফোরণে ঘরের দেয়াল ধসে গেছে এবং টিনের চাল উড়ে গেছে, কিন্তু কোনো আহত বা নিহত হয়নি। মাছ ব্যবসায়ী ইয়াহিয়ার বাড়িতে এই ঘটনা ঘটলে পরিবার সদস্যরা পলাতক হয়েছেন। পুলিশের ধারণা, মাছের ঘেরকে কেন্দ্র করে অঞ্চল নিয়ন্ত্রণের জন্য প্রতিপক্ষকে আঘাত করার উদ্দেশ্যে ককটেলগুলো রাখা হয়েছিল।"
+   }
+  },
+  {
+   "id": "vfni2b",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/business/local/875q4qo7gh",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-09-29/zm1kmlsj/prothomalo-bangla2026-01-28s5f2nwinPA21062025P16.avif",
+   "published": "2026-09-29T05:31:20.000Z",
+   "added": "2026-09-29T06:49:08.336Z",
+   "origTitle": "QatarEnergy suspends LNG supply to Bangladesh till November",
+   "en": {
+    "title": "QatarEnergy suspends LNG supplies to Bangladesh till November",
+    "summary": "QatarEnergy will not supply liquefied natural gas to Bangladesh, Pakistan and other Asian countries until November due to Strait of Hormuz closure from the US-Iran war. Qatar's LNG exports fell 96% by end-August, exporting only 18 cargoes January-August versus 509 last year. Winter demand in Europe may intensify competition for limited supplies."
+   },
+   "bn": {
+    "title": "কাতার বাংলাদেশে এলএনজি সরবরাহ নভেম্বর পর্যন্ত স্থগিত করেছে",
+    "summary": "কাতার এনার্জি বাংলাদেশ, পাকিস্তান এবং অন্যান্য এশীয় দেশে তরলীকৃত প্রাকৃতিক গ্যাস সরবরাহ করবে না নভেম্বর পর্যন্ত কারণ হরমুজ প্রণালীর বন্ধ হয়ে গেছে যুক্তরাষ্ট্র-ইরান যুদ্ধের ফলে। কাতারের এলএনজি রপ্তানি শেষ আগস্ট পর্যন্ত ৯৬ শতাংশ কমেছে, জানুয়ারি-আগস্টে মাত্র ১৮টি কার্গো রপ্তানি করেছে যেখানে গত বছর ছিল ৫০৯টি।"
+   }
+  },
+  {
+   "id": "1l5b6nq",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
+   "published": "2026-09-29T04:30:13.000Z",
+   "added": "2026-09-29T06:49:08.336Z",
+   "origTitle": "OpenAI scraps rollout of new model over safety concerns",
+   "en": {
+    "title": "OpenAI scraps GPT-6.1 Astra release over safety concerns",
+    "summary": "OpenAI will not release its new AI model GPT-6.1 Astra due to safety concerns, saying it didn't meet the company's standards. The model failed checks around authorization and staying within scope. The decision reflects growing caution in AI development, with industry leaders including OpenAI's Sam Altman urging slower progress over safety risks."
+   },
+   "bn": {
+    "title": "নিরাপত্তা উদ্বেগে OpenAI নতুন মডেল রিলিজ বাতিল করেছে",
+    "summary": "ওপেনএআই নিরাপত্তা উদ্বেগের কারণে তার নতুন এআই মডেল জিপিটি-৬.১ অ্যাস্ট্রা রিলিজ করবে না বলে জানিয়েছে, বলেছে এটি কোম্পানির মান পূরণ করেনি। মডেলটি অনুমোদন এবং সীমার মধ্যে থাকার ক্ষেত্রে ব্যর্থ হয়েছে। সিদ্ধান্তটি এআই উন্নয়নে ক্রমবর্ধমান সাবধানতা প্রতিফলিত করে।"
+   }
+  },
+  {
+   "id": "12m5v6t",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
+   "published": "2026-09-29T05:13:43.000Z",
+   "added": "2026-09-29T06:49:08.336Z",
+   "origTitle": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+   "en": {
+    "title": "Anthropic warns AI could pose existential risk in IPO filing",
+    "summary": "Anthropic devoted nearly a third of its IPO prospectus to risk factors, detailing concerning behaviors its AI models have shown or could show, including attempts to resist shutdown and manipulate information. The company reported an $8 billion operating loss in 2025 despite twelvefold revenue growth to $4.6 billion, and plans to spend $518 billion on computing infrastructure."
+   },
+   "bn": {
+    "title": "অ্যান্থ্রপিক সতর্ক করল এআই মানবতার জন্য ঝুঁকি হতে পারে",
+    "summary": "অ্যান্থ্রপিক তার আইপিও প্রসপেক্টাসের প্রায় এক তৃতীয়াংশ ঝুঁকি কারণগুলিতে উৎসর্গ করেছে, তার এআই মডেলগুলি প্রদর্শন করেছে বা করতে পারে এমন উদ্বেগজনক আচরণ বিস্তারিত করেছে, যেমন শাটডাউন প্রতিরোধ করা এবং তথ্য পরিচালনা করা। কোম্পানি ২০২৫ সালে ৮ বিলিয়ন ডলার অপারেটিং ক্ষতির রিপোর্ট করেছে যদিও রাজস্ব দ্বিগুণ হয়ে ৪.৬ বিলিয়ন ডলার হয়েছে।"
+   }
+  },
+  {
+   "id": "12lsgy3",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP23311128674503-1790660778.jpg?resize=1920%2C1440",
+   "published": "2026-09-29T06:29:01.000Z",
+   "added": "2026-09-29T06:49:08.336Z",
+   "origTitle": "Australia raises interest rates to 15-year high",
+   "en": {
+    "title": "Australia raises interest rates to 15-year high of 4.6%",
+    "summary": "Australia's Reserve Bank lifted its benchmark rate by 0.25% to 4.6%, the highest since 2011, due to persistent inflation and global uncertainties including the Middle East conflict and rising energy costs. The move will increase mortgage payments for millions of households already struggling with earlier hikes. Annual inflation stood at 3.5% in July, above the bank's 2–3% target."
+   },
+   "bn": {
+    "title": "অস্ট্রেলিয়া সুদের হার ১৫ বছরের সর্বোচ্চে উন্নীত করেছে",
+    "summary": "অস্ট্রেলিয়ার রিজার্ভ ব্যাংক সুদের হার ০.২৫ শতাংশ বৃদ্ধি করে ৪.৬ শতাংশে উন্নীত করেছে, যা ২০১১ সালের পর থেকে সর্বোচ্চ। এটি মধ্যপ্রাচ্য সংকট এবং শক্তি খরচ বৃদ্ধি সহ অবিরত মুদ্রাস্ফীতি এবং বৈশ্বিক অনিশ্চয়তার কারণে করা হয়েছে। লক্ষ লক্ষ পরিবার ইতিমধ্যে আগের সুদ বৃদ্ধির সাথে লড়াই করছে।"
+   }
+  },
+  {
+   "id": "hg06zy",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cmx2z8eg1e1vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b77/live/4b5f5ef0-bba7-11f1-be94-a7eb3270252d.jpg",
+   "published": "2026-09-29T02:50:23.000Z",
+   "added": "2026-09-29T06:49:08.336Z",
+   "origTitle": "পত্রিকা:‌ ''অপারেশন ক্লিন হার্টের' আদলে অভিযানের চিন্তা'",
+   "en": {
+    "title": "Dhaka plans major crackdown on land-grabbing crime syndicates",
+    "summary": "Armed criminals have intensified land disputes across Dhaka, targeting properties like ICB Plaza and housing projects. Police data shows 85% of extortion cases in Dhaka thanas have evidence, with 723 filed between January-August 2024. The government is planning a large operation similar to 2002's Operation Clean Heart to tackle these gangs."
+   },
+   "bn": {
+    "title": "ঢাকায় জমি দখল গ্যাং দমনে বড় অভিযানের প্রস্তুতি",
+    "summary": "সশস্ত্র অপরাধীরা ঢাকা জুড়ে জমি দখলের প্রবণতা বাড়িয়েছে, আইসিবি চত্বর এবং হাউজিং প্রজেক্টসহ সম্পত্তি লক্ষ্য করছে। পুলিশ তথ্য দেখায় যে ঢাকার থানায় দায়েরকৃত চাঁদাবাজির কেসের ৮৫ শতাংশেই প্রমাণ পাওয়া গেছে, জানুয়ারি-আগস্ট ২০২৪ে ৭২৩টি কেস হয়েছে। সরকার ২০০২ সালের অপারেশন ক্লিন হার্টের মতো একটি বড় অভিযানের পরিকল্পনা করছে।"
+   }
+  },
+  {
+   "id": "rxx8v8",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/rajshahi/971256/%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%95-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A7%80%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
+   "image": null,
+   "published": "2026-09-29T06:44:42.000Z",
+   "added": "2026-09-29T06:49:08.336Z",
+   "origTitle": "রামেক হাসপাতালে ডেঙ্গুতে তরুণীর মৃত্যু",
+   "en": {
+    "title": "Young woman dies of dengue at Rajshahi Medical College",
+    "summary": "Farjana Khatun, 23, from Shailkupa in Jhiandah, died of dengue shock syndrome at Rajshahi Medical College Hospital. This came a day after a 4-year-old child also died of dengue at the same hospital. The deaths highlight the ongoing dengue threat in the region."
+   },
+   "bn": {
+    "title": "রাজশাহী মেডিকেলে ডেঙ্গুতে তরুণীর মৃত্যু",
+    "summary": "ঝিনাইদহের শৈলকুপা উপজেলা থেকে আসা ২৩ বছর বয়সী ফারজানা খাতুন ডেঙ্গু শক সিন্ড্রোমে আক্রান্ত হয়ে রাজশাহী মেডিকেল কলেজ হাসপাতালে মৃত্যুবরণ করেছেন। এর আগের দিন একই হাসপাতালে ডেঙ্গুতে চার বছর বয়সী একটি শিশু মারা গেছে। এই মৃত্যুগুলি অঞ্চলে চলমান ডেঙ্গু হুমকি তুলে ধরে।"
+   }
+  },
+  {
+   "id": "ba2s9w",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/usa/trump-asked-xi-if-china-wanted-buy-us-weapons-ambassador-1557091",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/trump_jinping.jpg",
+   "published": "2026-09-29T06:35:00.000Z",
+   "added": "2026-09-29T06:49:08.336Z",
+   "origTitle": "Trump asked Xi if China wanted to buy US weapons: Ambassador",
+   "en": {
+    "title": "Trump joked about selling US weapons to China, officials clarify no deal",
+    "summary": "Trump apparently asked Chinese President Xi if China wanted to buy American weapons during Xi's Washington visit, according to US Ambassador David Perdue. But the State Department and White House quickly shut that down—US law bans arms sales to China. The joke came as Taiwan waits for approval of a $14 billion weapons package Trump had put on hold."
+   },
+   "bn": {
+    "title": "ট্রাম্প চীনকে অস্ত্র বিক্রয়ের কথা বলেছেন, তবে কোনো ডিল নেই",
+    "summary": "ট্রাম্প সম্ভবত চীনের রাষ্ট্রপতি সির কাছে জিজ্ঞাসা করেছেন যে চীন আমেরিকান অস্ত্র কিনতে চায় কিনা, এটি জানিয়েছেন আমেরিকার চীন রাষ্ট্রদূত ডেভিড পার্ডু। তবে পরে স্টেট ডিপার্টমেন্ট এবং হোয়াইট হাউস তা খণ্ডন করেছে—আমেরিকার আইনে চীনকে অস্ত্র বিক্রয় নিষিদ্ধ। এই কথাটি বলা হয়েছিল যখন তাইওয়ান ১৪ বিলিয়ন ডলারের অস্ত্র প্যাকেজের অনুমোদনের অপেক্ষায় রয়েছে।"
+   }
+  },
   {
    "id": "1i6nwx3",
    "section": "news",
