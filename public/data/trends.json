@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-09-30T18:25:44.399Z",
+ "updatedAt": "2026-09-30T22:58:35.970Z",
  "burning": [
   {
-   "id": "53fr82",
+   "id": "pq5w83",
    "heat": 5,
    "why": {
-    "en": "Public health crisis hitting Bangladesh hard right now.",
-    "bn": "বাংলাদেশে বড় স্বাস্থ্য সংকট চলছে।"
+    "en": "Cockpit attack on Israel flight covered by multiple outlets with heavy global attention.",
+    "bn": "ইসরাইলগামী বিমানে কক্পিট আক্রমণ বিভিন্ন মাধ্যমে কভার হয়েছে এবং বিশ্বব্যাপী মনোযোগ পেয়েছে।"
    },
    "rank": 1
   },
   {
-   "id": "1s5t95",
-   "heat": 4,
+   "id": "1y4yx3e",
+   "heat": 5,
    "why": {
-    "en": "Regional crisis with major humanitarian implications.",
-    "bn": "আঞ্চলিক সংকটে লক্ষ লক্ষ মানুষ প্রভাবিত।"
+    "en": "India cricket trending massively on Google with Gill's big innings dominating sports talk.",
+    "bn": "গুগলে ভারতীয় ক্রিকেট ট্রেন্ডিং, গিলের বড় ইনিংস স্পোর্টস আলোচনায় প্রাধান্য পাচ্ছে।"
    },
    "rank": 2
   },
   {
-   "id": "13kxtta",
+   "id": "1snbp5w",
    "heat": 4,
    "why": {
-    "en": "Major conflict development affecting energy and civilians.",
-    "bn": "যুদ্ধের ধরন এবং ক্ষতি বাড়ছে।"
+    "en": "Bangla QR payments trending 500+ on Google with committee backing cheaper internet for students.",
+    "bn": "বাংলা কিউআর পেমেন্ট গুগলে ৫০০+ ট্রাফিক পাচ্ছে, কমিটি ছাত্রদের জন্য সস্তা ইন্টারনেট অনুমোদন করেছে।"
    },
    "rank": 3
   },
   {
-   "id": "hajxlg",
-   "heat": 3,
+   "id": "53fr82",
+   "heat": 4,
    "why": {
-    "en": "Shocking incident on commercial flight gets global attention.",
-    "bn": "বিমানে বড় ঘটনা আন্তর্জাতিক মনোযোগ পেয়েছে।"
+    "en": "Measles death toll in Bangladesh exceeds 1,100, serious public health crisis.",
+    "bn": "বাংলাদেশে হাম রোগে মৃত্যু ১,১০০ ছাড়িয়েছে, গুরুতর জনস্বাস্থ্য সংকট।"
    },
    "rank": 4
   },
   {
-   "id": "hr7jsz",
+   "id": "t26moo",
    "heat": 3,
    "why": {
-    "en": "AI startup milestone shows tech industry momentum.",
-    "bn": "টেক ইন্ডাস্ট্রিতে বড় মূল্যায়ন।"
+    "en": "Barishal University expels 48 students for ragging, campus discipline story with institutional impact.",
+    "bn": "বরিশাল বিশ্ববিদ্যালয় ব্র্যাগিং এর জন্য ৪৮ জন শিক্ষার্থীকে বহিষ্কার করেছে, প্রতিষ্ঠানিক শৃঙ্খলা বিষয়।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "chhzww",
-   "tag": "#ক্রিকেট",
+   "id": "1y4yx3e",
+   "tag": "#IndiaVsWestIndies",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Bangladesh cricket semi-final hopes",
-    "text": "Bangladesh and Pakistan are waiting for sunny weather to play their semi-finals in the Nisshin tournament."
+    "title": "Gill's 223 powers India to 406",
+    "text": "Shubman Gill's massive innings propelled India to 406 for 2 wickets, dominating conversations on Google Trends as cricket fans track the match."
    },
    "bn": {
-    "title": "বাংলাদেশ সেমিফাইনালের অপেক্ষায়",
-    "text": "বাংলাদেশ এবং পাকিস্তান নিশ্বীন টুর্নামেন্টে সেমিফাইনাল খেলতে আবহাওয়ার অপেক্ষায় আছে।"
+    "title": "গিলের ২২৩ রানে ভারত ৪০৬ এ",
+    "text": "শুভমন গিলের বিশাল ইনিংস ভারতকে ৪০৬ রানে নিয়ে গেছে ২ উইকেটে, গুগল ট্রেন্ডসে ক্রিকেট ভক্তদের আলোচনা ছাপিয়ে যাচ্ছে।"
    }
   },
   {
    "id": "1snbp5w",
-   "tag": "#ইন্টারনেট",
+   "tag": "#BanglaQR",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Cheaper internet for students ahead",
-    "text": "A committee backed a plan to make internet safer and cheaper for Bangladesh students, following trends in QR payment adoption."
+    "title": "Cheaper, safer internet for BD students",
+    "text": "A committee backed a plan to bring cheaper and safer internet access to Bangladesh students, with Bangla QR payments trending 500+ on Google."
    },
    "bn": {
-    "title": "শিক্ষার্থীদের সাশ্রয়ী ইন্টারনেট",
-    "text": "বাংলাদেশের শিক্ষার্থীদের জন্য সাশ্রয়ী এবং নিরাপদ ইন্টারনেটের পরিকল্পনা অনুমোদন হয়েছে।"
+    "title": "বাংলাদেশ ছাত্রদের জন্য সস্তা ইন্টারনেট",
+    "text": "কমিটি বাংলাদেশ ছাত্রদের জন্য সস্তা এবং নিরাপদ ইন্টারনেট আনার পরিকল্পনা অনুমোদন করেছে, বাংলা কিউআর পেমেন্ট গুগলে ৫০০+ ট্রাফিক পাচ্ছে।"
    }
   },
   {
    "id": "n8mgjz",
-   "tag": "#রাজনীতি",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "PM Tarek Rahman's India visit planned",
-    "text": "Plans are in the works for Bangladesh PM Tarek Rahman to visit India soon."
-   },
-   "bn": {
-    "title": "প্রধানমন্ত্রীর ভারত সফর আসছে",
-    "text": "বাংলাদেশের প্রধানমন্ত্রী তারেক রহমানের ভারত সফর পরিকল্পনা চলছে।"
-   }
-  },
-  {
-   "id": "n5icsj",
-   "tag": "#টেক",
+   "tag": "#BDPMVisit",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Apple Pay finally launches in India",
-    "text": "Apple Pay has launched in India after years of waiting, signalling broader fintech expansion in South Asia."
+    "title": "PM Tarek Rahman planning India visit",
+    "text": "Bangladesh PM Tarek Rahman's visit to India is reportedly in the works, drawing attention to diplomatic moves between the two nations."
    },
    "bn": {
-    "title": "Apple Pay ভারতে চালু হয়েছে",
-    "text": "বছরের অপেক্ষার পর Apple Pay ভারতে লঞ্চ হয়েছে, যা দক্ষিণ এশিয়ায় ডিজিটাল পেমেন্টের বৃদ্ধি দেখায়।"
+    "title": "বাংলাদেশ পিএম ভারত সফরে যাবেন",
+    "text": "বাংলাদেশের প্রধানমন্ত্রী তারেক রহমানের ভারত সফর পরিকল্পনায় আছে, দুই দেশের মধ্যে কূটনৈতিক পদক্ষেপ নিয়ে আলোচনা হচ্ছে।"
    }
   }
  ],
