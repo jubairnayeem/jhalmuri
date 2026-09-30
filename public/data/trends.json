@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-09-30T12:27:55.462Z",
+ "updatedAt": "2026-09-30T18:25:44.399Z",
  "burning": [
   {
    "id": "53fr82",
    "heat": 5,
    "why": {
-    "en": "Measles death toll exceeding 1,100 in Bangladesh is a major public health crisis commanding urgent attention.",
-    "bn": "বাংলাদেশে হাম রোগে ১,১০০ জনের বেশি মৃত্যু একটি বড় স্বাস্থ্য সংকট যা তাৎক্ষণিক মনোযোগ দাবি করছে।"
+    "en": "Public health crisis hitting Bangladesh hard right now.",
+    "bn": "বাংলাদেশে বড় স্বাস্থ্য সংকট চলছে।"
    },
    "rank": 1
   },
   {
-   "id": "n8mgjz",
-   "heat": 5,
+   "id": "1s5t95",
+   "heat": 4,
    "why": {
-    "en": "PM Tarek Rahman's India visit signals major diplomatic moves and is trending heavily on Google with political significance.",
-    "bn": "প্রধানমন্ত্রী তারেক রহমানের ভারত সফর বড় কূটনৈতিক পদক্ষেপ নির্দেশ করে এবং গুগলে ব্যাপক ট্রেন্ড করছে।"
+    "en": "Regional crisis with major humanitarian implications.",
+    "bn": "আঞ্চলিক সংকটে লক্ষ লক্ষ মানুষ প্রভাবিত।"
    },
    "rank": 2
   },
   {
-   "id": "hg06zy",
+   "id": "13kxtta",
    "heat": 4,
    "why": {
-    "en": "Dhaka's crackdown on land-grabbing crime syndicates reflects government action on a persistent urban problem.",
-    "bn": "ঢাকার ভূমি দখল অপরাধ চক্রের বিরুদ্ধে অভিযান একটি দীর্ঘস্থায়ী শহুরে সমস্যায় সরকারী পদক্ষেপ প্রতিফলিত করে।"
+    "en": "Major conflict development affecting energy and civilians.",
+    "bn": "যুদ্ধের ধরন এবং ক্ষতি বাড়ছে।"
    },
    "rank": 3
   },
   {
-   "id": "chhzww",
-   "heat": 4,
+   "id": "hajxlg",
+   "heat": 3,
    "why": {
-    "en": "Bangladesh and Pakistan in cricket semi-finals is drawing sports fans with heavy cricket search traffic.",
-    "bn": "ক্রিকেটে বাংলাদেশ ও পাকিস্তানের সেমিফাইনাল খেলাধুলা ভক্তদের আকৃষ্ট করছে এবং ক্রিকেট অনুসন্ধান ব্যাপক।"
+    "en": "Shocking incident on commercial flight gets global attention.",
+    "bn": "বিমানে বড় ঘটনা আন্তর্জাতিক মনোযোগ পেয়েছে।"
    },
    "rank": 4
   },
   {
-   "id": "yekb9o",
+   "id": "hr7jsz",
    "heat": 3,
    "why": {
-    "en": "Young doctor's dengue death shortly after wedding highlights the dengue crisis spreading across Bangladesh.",
-    "bn": "বিয়ের পর একজন তরুণ ডাক্তারের ডেঙ্গিতে মৃত্যু বাংলাদেশে ডেঙ্গি সংকটের বিস্তার তুলে ধরে।"
+    "en": "AI startup milestone shows tech industry momentum.",
+    "bn": "টেক ইন্ডাস্ট্রিতে বড় মূল্যায়ন।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "n8mgjz",
-   "tag": "#PMVisitIndia",
+   "id": "chhzww",
+   "tag": "#ক্রিকেট",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Bangladesh PM India trip underway",
-    "text": "Tarek Rahman's visit to India is in the works, signalling major diplomatic engagement between the two countries."
+    "title": "Bangladesh cricket semi-final hopes",
+    "text": "Bangladesh and Pakistan are waiting for sunny weather to play their semi-finals in the Nisshin tournament."
    },
    "bn": {
-    "title": "প্রধানমন্ত্রীর ভারত সফর চলছে",
-    "text": "তারেক রহমানের ভারত সফর চলমান, দুই দেশের মধ্যে বড় কূটনৈতিক সম্পৃক্ততা নির্দেশ করছে।"
+    "title": "বাংলাদেশ সেমিফাইনালের অপেক্ষায়",
+    "text": "বাংলাদেশ এবং পাকিস্তান নিশ্বীন টুর্নামেন্টে সেমিফাইনাল খেলতে আবহাওয়ার অপেক্ষায় আছে।"
    }
   },
   {
    "id": "1snbp5w",
-   "tag": "#StudentInternet",
+   "tag": "#ইন্টারনেট",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Cheaper internet for Bangladesh students",
-    "text": "A committee has backed plans for safer and more affordable internet access for students across the country."
+    "title": "Cheaper internet for students ahead",
+    "text": "A committee backed a plan to make internet safer and cheaper for Bangladesh students, following trends in QR payment adoption."
    },
    "bn": {
-    "title": "বাংলাদেশ শিক্ষার্থীদের জন্য সাশ্রয়ী ইন্টারনেট",
-    "text": "একটি কমিটি দেশব্যাপী শিক্ষার্থীদের জন্য সুরক্ষিত এবং সাশ্রয়ী ইন্টারনেট অ্যাক্সেসের পরিকল্পনা সমর্থন করেছে।"
+    "title": "শিক্ষার্থীদের সাশ্রয়ী ইন্টারনেট",
+    "text": "বাংলাদেশের শিক্ষার্থীদের জন্য সাশ্রয়ী এবং নিরাপদ ইন্টারনেটের পরিকল্পনা অনুমোদন হয়েছে।"
    }
   },
   {
-   "id": "chhzww",
-   "tag": "#CricketSemis",
+   "id": "n8mgjz",
+   "tag": "#রাজনীতি",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh Pakistan await sunny semis",
-    "text": "Bangladesh and Pakistan are gearing up for their semi-final clash in Nisshin with weather looking favourable."
+    "title": "PM Tarek Rahman's India visit planned",
+    "text": "Plans are in the works for Bangladesh PM Tarek Rahman to visit India soon."
    },
    "bn": {
-    "title": "বাংলাদেশ পাকিস্তান সেমিফাইনালের অপেক্ষায়",
-    "text": "বাংলাদেশ এবং পাকিস্তান নিশিনে তাদের সেমিফাইনাল ম্যাচের জন্য প্রস্তুত, আবহাওয়া অনুকূল দেখাচ্ছে।"
+    "title": "প্রধানমন্ত্রীর ভারত সফর আসছে",
+    "text": "বাংলাদেশের প্রধানমন্ত্রী তারেক রহমানের ভারত সফর পরিকল্পনা চলছে।"
+   }
+  },
+  {
+   "id": "n5icsj",
+   "tag": "#টেক",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Apple Pay finally launches in India",
+    "text": "Apple Pay has launched in India after years of waiting, signalling broader fintech expansion in South Asia."
+   },
+   "bn": {
+    "title": "Apple Pay ভারতে চালু হয়েছে",
+    "text": "বছরের অপেক্ষার পর Apple Pay ভারতে লঞ্চ হয়েছে, যা দক্ষিণ এশিয়ায় ডিজিটাল পেমেন্টের বৃদ্ধি দেখায়।"
    }
   }
  ],
