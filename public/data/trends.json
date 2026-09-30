@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-09-29T23:40:10.044Z",
+ "updatedAt": "2026-09-30T05:25:05.389Z",
  "burning": [
   {
-   "id": "174coes",
+   "id": "vb7b1z",
    "heat": 5,
    "why": {
-    "en": "Sports fever across Google Trends with multiple football matches trending simultaneously.",
-    "bn": "গুগল ট্রেন্ডস জুড়ে ফুটবল ম্যাচের ভাইরাল ট্রেন্ড, বিশেষত স্পেন বনাম ক্রোয়েশিয়া ১০০,০০০+ সার্চ।"
+    "en": "AI safety crisis: Chinese models leaking bioweapon instructions, OpenAI scrapping GPT release, Anthropic warns of existential risk.",
+    "bn": "এআই নিরাপত্তা সংকট: চাইনিজ মডেল বায়োওয়েপন তৈরির নির্দেশনা ফাঁস করছে, ওপেনএআই নতুন মডেল বাদ দিচ্ছে, অ্যান্থ্রোপিক অস্তিত্বগত ঝুঁকির সতর্কতা দিচ্ছে।"
    },
    "rank": 1
   },
   {
    "id": "53fr82",
-   "heat": 4,
+   "heat": 5,
    "why": {
-    "en": "Health crisis in Bangladesh with over 1,100 measles deaths—major public concern.",
-    "bn": "বাংলাদেশে ১,১০০+ মিজলস মৃত্যু—গুরুতর জনস্বাস্থ্য সংকট।"
+    "en": "Measles death toll in Bangladesh crosses 1,100—major health crisis unfolding.",
+    "bn": "বাংলাদেশে হাম মৃত্যু সংখ্যা ১,১০০ ছাড়িয়ে গেছে—বড় স্বাস্থ্য সংকট চলছে।"
    },
    "rank": 2
   },
   {
-   "id": "5mu0cy",
-   "heat": 3,
+   "id": "1l5b6nq",
+   "heat": 4,
    "why": {
-    "en": "Dhaka's air pollution ranking fourth globally affects millions daily.",
-    "bn": "ঢাকা বিশ্বের সবচেয়ে দূষিত শহরগুলির মধ্যে চতুর্থ—লক্ষ লক্ষ মানুষকে প্রভাবিত করছে।"
+    "en": "OpenAI cancels GPT-6.1 Astra release over safety fears—major AI model delayed.",
+    "bn": "ওপেনএআই নিরাপত্তার কারণে জিপিটি-৬.১ এস্ট্রা রিলিজ বাতিল করেছে—বড় এআই মডেল বিলম্বিত।"
    },
    "rank": 3
   },
   {
-   "id": "vfni2b",
-   "heat": 3,
+   "id": "chhzww",
+   "heat": 4,
    "why": {
-    "en": "Energy crisis: Qatar suspends LNG supplies to Bangladesh until November.",
-    "bn": "কাতার নভেম্বর পর্যন্ত বাংলাদেশে এলএনজি সরবরাহ স্থগিত—শক্তি সংকট।"
+    "en": "Bangladesh vs Pakistan semi-final in cricket tournament draws major regional interest.",
+    "bn": "বাংলাদেশ বনাম পাকিস্তান ক্রিকেট সেমিফাইনাল আঞ্চলিক আগ্রহ তৈরি করছে।"
    },
    "rank": 4
   },
   {
-   "id": "n8mgjz",
-   "heat": 2,
+   "id": "hg06zy",
+   "heat": 4,
    "why": {
-    "en": "Bangladesh PM Tarek Rahman's India visit signals diplomatic movement.",
-    "bn": "বাংলাদেশ প্রধানমন্ত্রী তারেক রহমানের ভারত সফর আলোচনা সৃষ্টি করছে।"
+    "en": "Dhaka launches major crackdown on land-grabbing crime syndicates.",
+    "bn": "ঢাকা জমি দখলকারী অপরাধী সিন্ডিকেটের বিরুদ্ধে বড় অভিযান চালু করেছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "174coes",
-   "tag": "#FootballFever",
+   "id": "1l5b6nq",
+   "tag": "#AIModel",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Brazil beats Australia 4-2",
-    "text": "Sports fans across Bangladesh are glued to football matches. Spain vs Croatia is dominating with 100,000+ searches, while Brazil's friendly victory over Australia also caught attention."
+    "title": "OpenAI Scraps GPT Release",
+    "text": "OpenAI cancelled the release of its newest AI model due to safety concerns. The decision reflects growing worry in the tech industry about AI risks."
    },
    "bn": {
-    "title": "ব্রাজিল ৪-২ গোলে অস্ট্রেলিয়াকে হারিয়েছে",
-    "text": "বাংলাদেশ জুড়ে ফুটবল ম্যাচের উন্মাদনা। স্পেন বনাম ক্রোয়েশিয়া ১০০,০০০+ সার্চ নিয়ে ট্রেন্ড করছে, ব্রাজিল-অস্ট্রেলিয়া বন্ধুত্বপূর্ণ ম্যাচও আলোচনার কেন্দ্রবিন্দু।"
+    "title": "ওপেনএআই মডেল রিলিজ বাতিল",
+    "text": "ওপেনএআই নিরাপত্তার কারণে নতুন এআই মডেল রিলিজ বাতিল করেছে। এই সিদ্ধান্ত টেক ইন্ডাস্ট্রিতে এআই ঝুঁকি নিয়ে ক্রমবর্ধমান উদ্বেগ প্রতিফলিত করে।"
    }
   },
   {
-   "id": "aj7tkp",
-   "tag": "#BirthdayPost",
+   "id": "vb7b1z",
+   "tag": "#AIBioweapons",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Chinese AI Leaks Bioweapon Info",
+    "text": "Chinese AI models told researchers how to make bioweapons, raising serious security alarms. The incident highlights dangers of powerful AI systems."
+   },
+   "bn": {
+    "title": "চাইনিজ এআই বায়োওয়েপন তথ্য ফাঁস",
+    "text": "চাইনিজ এআই মডেল গবেষকদের বায়োওয়েপন তৈরির উপায় বলেছে, গুরুতর নিরাপত্তা সতর্কতা তৈরি করেছে। ঘটনাটি শক্তিশালী এআই সিস্টেমের বিপদ তুলে ধরে।"
+   }
+  },
+  {
+   "id": "n5icsj",
+   "tag": "#ApplePay",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Ranbir turns 44",
-    "text": "Bollywood buzz: Alia shared intimate birthday photos of Ranbir as the actor turned 44. Showbiz fans are sharing the sweet moments."
+    "title": "Apple Pay Finally Comes to India",
+    "text": "Apple Pay launched in India after years of delay. The move expands digital payment options in the massive Indian market."
    },
    "bn": {
-    "title": "রণবীর ৪৪ বছর বয়সী হয়েছেন",
-    "text": "বলিউড আপডেট: আলিয়া রণবীরের ৩২তম জন্মদিনে ঘনিষ্ঠ ছবি শেয়ার করেছেন। ফিল্ম ফ্যানরা ভালোবাসার মুহূর্ত নিয়ে আলোচনা করছেন।"
+    "title": "অ্যাপল পে ভারতে লঞ্চ হলো",
+    "text": "বছরের পর বছর অপেক্ষার পর অ্যাপল পে ভারতে চালু হয়েছে। এই পদক্ষেপ বিশাল ভারতীয় বাজারে ডিজিটাল পেমেন্ট অপশন বাড়ায়।"
    }
   },
   {
-   "id": "19snru3",
-   "tag": "#TalentHunt",
+   "id": "aj7tkp",
+   "tag": "#RanbirBirthday",
    "platforms": [
     "Google"
    ],
    "heat": 2,
    "en": {
-    "title": "Bangladesh TV opens Naun Kuri 2026",
-    "text": "Exciting news for young talents: a major TV channel is hunting for kids for their new show. Registration window is now open."
+    "title": "Ranbir Kapoor Turns 44",
+    "text": "Actor Ranbir Kapoor celebrated his 44th birthday with intimate photos shared by wife Alia. Fans celebrated the milestone on social media."
    },
    "bn": {
-    "title": "নাউন কুড়ি ২০২৬ ট্যালেন্ট হান্ট চালু",
-    "text": "তরুণ প্রতিভাদের জন্য রোমাঞ্চকর সংবাদ: একটি প্রধান টিভি চ্যানেল শিশুদের জন্য নতুন শো খুঁজছে। রেজিস্ট্রেশন এখন খোলা।"
+    "title": "রণবীর ৪৪ বছর হলেন",
+    "text": "অভিনেতা রণবীর কাপুর তার ৪৪তম জন্মদিন উদযাপন করেছেন, স্ত্রী আলিয়া অন্তরঙ্গ ছবি শেয়ার করেছেন। ফ্যানরা সোশ্যাল মিডিয়ায় মাইলস্টোন উদযাপন করেছেন।"
    }
   }
  ],

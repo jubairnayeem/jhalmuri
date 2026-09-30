@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-09-29T23:39:56.188Z",
+ "updatedAt": "2026-09-30T05:24:49.105Z",
  "items": [
+  {
+   "id": "chhzww",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1556540.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415699.jpg",
+   "published": "2026-09-30T05:03:49.000Z",
+   "added": "2026-09-30T05:24:49.104Z",
+   "origTitle": "Bangladesh and Pakistan hope the sun keeps rising in Nisshin",
+   "en": {
+    "title": "Bangladesh, Pakistan await sunny semi-finals in Nisshin",
+    "summary": "Bangladesh and Pakistan are heading into their semi-final match in Nisshin with excellent weather expected. If rain washes out the game, Pakistan advances automatically because of their higher seeding. Both teams will be hoping the sun stays out and they get their chance to play."
+   },
+   "bn": {
+    "title": "Nisshin-এ বাংলাদেশ-পাকিস্তান সেমিফাইনাল, আবহাওয়া ভালো",
+    "summary": "বাংলাদেশ এবং পাকিস্তান Nisshin-এ সেমিফাইনাল খেলতে প্রস্তুত, আবহাওয়া চমৎকার থাকবে বলে আশা করা হচ্ছে। যদি বৃষ্টি হয় এবং খেলা না হয়, তাহলে পাকিস্তান উচ্চ সিডিং এর কারণে সরাসরি ফাইনালে যাবে। দুই দলই চান সূর্য থাকুক এবং খেলার সুযোগ পাক।"
+   }
+  },
+  {
+   "id": "z6g7hb",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Bangladesh Post",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMGNyWXFnNHpyREVJMUtrNEZaNDBTZ1ZDNWlKNmgtTkFiSFNHVld4SnpEeHhiLXg2bzlBcjlmOHVUdTM1M0NhajRPRGxIdW5CNHJGQ3dFZDBEbUYzeXNFbjJTNGozVGxrMHQ5VjVXN3JuUXZpMUJJTU9kMGlORl9rNnhsRHRMUnZJdE1RcVVLYzl4TGwz?oc=5",
+   "image": null,
+   "published": "2026-09-30T02:35:59.000Z",
+   "added": "2026-09-30T05:24:49.104Z",
+   "origTitle": "Six killed as Russian Tu-95 bomber crashes in Amur",
+   "en": {
+    "title": "Russian Tu-95 bomber crashes in Amur, six killed",
+    "summary": "A Russian Tu-95 bomber crashed in the Amur region, killing six people on board. Tu-95s are Soviet-era strategic bombers still used by Russia's military. The cause of the crash has not been reported. This is a significant loss for Russia's aging air fleet."
+   },
+   "bn": {
+    "title": "রুশ টু-৯৫ বোমার Amur-এ বিধ্বস্ত, ছয় জন নিহত",
+    "summary": "রুশ টু-৯৫ বোমারবিমান Amur অঞ্চলে বিধ্বস্ত হয়েছে, এতে ছয় জন মারা গেছেন। টু-৯৫ সোভিয়েত যুগের কৌশলগত বোমারবিমান যা রুশ সেনাবাহিনী এখনও ব্যবহার করে। দুর্ঘটনার কারণ এখনও জানা যায়নি। এটি রুশিয়ার পুরানো বিমানবহরের জন্য একটি বড় ক্ষতি।"
+   }
+  },
+  {
+   "id": "1ddymvr",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/rajshahi/971465/%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A7%9C-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE",
+   "image": null,
+   "published": "2026-09-30T05:19:05.000Z",
+   "added": "2026-09-30T05:24:41.881Z",
+   "origTitle": "খাদ্য তৈরির কারখানায় অভিযান চালিয়ে দেড় লাখ টাকা জরিমানা",
+   "en": {
+    "title": "Food factory fined 1.5 lakh taka for unsafe conditions",
+    "summary": "A mobile court in Bogura penalised Green Agro Food and Beverage company 1.5 lakh taka Tuesday for preparing food in unhygienic and dirty conditions at its factory in Sultanganj. The raid was conducted by Executive Magistrate Faisal Ahmad under district administration orders to ensure food safety standards."
+   },
+   "bn": {
+    "title": "খাদ্য কারখানাকে অনিরাপদ পরিবেশের জন্য ১.৫ লাখ টাকা জরিমানা",
+    "summary": "বগুড়ায় ভ্রাম্যমাণ আদালত মঙ্গলবার গ্রিন অ্যাগ্রো ফুড অ্যান্ড বেভারেজ কোম্পানিকে ১.৫ লাখ টাকা জরিমানা করেছে সুলতানগঞ্জপাড়ার তার কারখানায় অস্বাস্থ্যকর ও নোংরা পরিবেশে খাদ্য তৈরির জন্য। জেলা প্রশাসনের নির্বাহী ম্যাজিস্ট্রেট ফয়সাল আহমাদের নেতৃত্বে খাদ্য নিরাপত্তা মান নিশ্চিত করতে অভিযান পরিচালনা করা হয়েছে।"
+   }
+  },
+  {
+   "id": "c7uydj",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/world/vermont-turns-thousands-home-batteries-virtual-power-plant-1558141",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/screenshot_2026-09-30_111533.png",
+   "published": "2026-09-30T05:10:00.000Z",
+   "added": "2026-09-30T05:24:41.881Z",
+   "origTitle": "Vermont turns thousands of home batteries into a virtual power plant",
+   "en": {
+    "title": "Vermont turns home batteries into a giant power plant",
+    "summary": "More than 5,500 homes in Vermont have batteries through Green Mountain Power's programme, forming the state's largest power source at 110 megawatts. The utility can draw on customers' batteries during peak demand while households keep backup power for outages. Customers pay $55 monthly for two batteries under a 10-year lease."
+   },
+   "bn": {
+    "title": "ভার্মন্ট বাড়ির ব্যাটারি বিশাল বিদ্যুৎ উৎসে রূপান্তরিত করছে",
+    "summary": "ভার্মন্টে ৫,৫০০ এর বেশি বাড়িতে গ্রিন মাউন্টেন পাওয়ারের প্রোগ্রামের মাধ্যমে ব্যাটারি রয়েছে, যা রাজ্যের বৃহত্তম বিদ্যুৎ উৎস ১১০ মেগাওয়াট গঠন করে। যখন গ্রাহকরা চাহিদা বেশি থাকলে ব্যাটারি ব্যবহার করতে দেয় তখন নিজেদের জন্য ব্যাকআপ শক্তি রাখে। গ্রাহকরা ১০ বছরের লিজে দুটি ব্যাটারির জন্য মাসিক ৫৫ ডলার দেয়।"
+   }
+  },
+  {
+   "id": "n5icsj",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674",
+   "published": "2026-09-30T04:08:00.000Z",
+   "added": "2026-09-30T05:24:41.881Z",
+   "origTitle": "Apple Pay finally launches in India after years on the sidelines",
+   "en": {
+    "title": "Apple Pay launches in India after years of delay",
+    "summary": "Apple began rolling out Apple Pay in India on Tuesday with Axis Bank as its first partner. The service is card-based, unlike India's popular UPI system, and only supports Visa and Mastercard initially, not the homegrown RuPay network. Major banks like HDFC, ICICI and SBI have not joined yet due to disagreements over fees."
+   },
+   "bn": {
+    "title": "বছরের পর বছর বিলম্বের পর ভারতে অ্যাপল পে চালু",
+    "summary": "মঙ্গলবার ভারতে অ্যাপল পে চালু হয়েছে অ্যাক্সিস ব্যাংককে প্রথম পার্টনার হিসেবে নিয়ে। এটি কার্ড-ভিত্তিক সেবা, ভারতের জনপ্রিয় ইউপিআই সিস্টেমের মতো নয়, এবং শুরুতে শুধু ভিসা এবং মাস্টারকার্ড সাপোর্ট করে। এইচডিএফসি, আইসিআইসিআই এবং এসবিআই ব্যাংক ফি নিয়ে মতবিরোধের কারণে এখনও যোগ দেয়নি।"
+   }
+  },
+  {
+   "id": "vb7b1z",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
+   "published": "2026-09-29T23:15:29.000Z",
+   "added": "2026-09-30T05:24:41.881Z",
+   "origTitle": "Chinese AI tool told researchers how to make bioweapons",
+   "en": {
+    "title": "Chinese AI models tell researchers how to make bioweapons",
+    "summary": "Chinese AI developer Moonshot is reviewing its Kimi models after researchers found them capable of discussing biological weapons and assassinations. Security firm Mindgard discovered in July that Kimi K2.6 and K3 Swarm could bypass safety guardrails through a technique called \"jailbreaking.\" Moonshot said it welcomes third-party testing to improve AI safety."
+   },
+   "bn": {
+    "title": "চীনা এআই মডেল জৈব অস্ত্র তৈরির পদ্ধতি বলে",
+    "summary": "চীনের এআই ডেভেলপার মুনশট তার কিমি মডেল পর্যালোচনা করছে এর পর গবেষকরা দেখেছেন যে মডেলগুলো জৈব অস্ত্র এবং হত্যা সম্পর্কে আলোচনা করতে পারে। সিকিউরিটি ফার্ম মাইন্ডগার্ড জুলাইতে আবিষ্কার করে যে কিমি কে২.৬ এবং কে৩ সোয়ার্ম নিরাপত্তা ব্যবস্থা এড়াতে পারে। মুনশট তৃতীয় পক্ষের পরীক্ষাকে এআই নিরাপত্তা উন্নত করতে স্বাগত জানিয়েছে।"
+   }
+  },
+  {
+   "id": "4gnhnb",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-18T142412Z_868763563_RC2QLNA8UB9B_RTRMADP_3_USA-DEFENSE-POWS-1790732538_0a62cb-1790743505.jpg?resize=1200%2C630&quality=80",
+   "published": "2026-09-30T05:05:35.000Z",
+   "added": "2026-09-30T05:24:41.881Z",
+   "origTitle": "Hegseth to cut number of US general and admiral positions by 20%",
+   "en": {
+    "title": "US cuts general and admiral positions by 20%",
+    "summary": "Defense Secretary Pete Hegseth will cut military general and admiral positions by 20 percent, to be completed by January 1, 2027. The move affects leadership across the Army, Navy and Air Force. Hegseth will announce the decision Wednesday at Marine Corps Base Quantico in Virginia."
+   },
+   "bn": {
+    "title": "যুক্তরাষ্ট্র জেনারেল ও অ্যাডমিরাল পদ ২০% কমাচ্ছে",
+    "summary": "প্রতিরক্ষা সচিব পিট হেগসেথ সামরিক জেনারেল এবং অ্যাডমিরাল পদ ২০ শতাংশ কমানোর সিদ্ধান্ত নিয়েছেন, যা ২০২৭ সালের ১ জানুয়ারির মধ্যে শেষ হবে। এই পদক্ষেপ সেনাবাহিনী, নৌবাহিনী এবং বিমান বাহিনীর নেতৃত্বকে প্রভাবিত করবে। হেগসেথ বুধবার ভার্জিনিয়ার মেরিন কর্পস বেস কোয়ান্টিকোতে এই সিদ্ধান্ত ঘোষণা করবেন।"
+   }
+  },
+  {
+   "id": "1jqjpoz",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cxm2qmrp2vjjo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a47c/live/41bc1300-bc7b-11f1-92aa-e722755271ae.jpg",
+   "published": "2026-09-30T03:46:26.000Z",
+   "added": "2026-09-30T05:24:41.880Z",
+   "origTitle": "সম্ভাব্য হুমকি মোকাবেলায় নতুন অস্ত্র ব্যবহারের হুঁশিয়ারি ইরানের আইআরজিসির",
+   "en": {
+    "title": "Iran warns of new weapons if conflict erupts",
+    "summary": "Iran's Revolutionary Guard warned Tuesday it will use new weapons if another conflict breaks out, as tensions with the US remain high. The foreign ministry condemned Benjamin Netanyahu's visit to the UAE and cautioned regional countries about consequences. The US announced a $15 million reward for information on three Iranian space defence commanders."
+   },
+   "bn": {
+    "title": "সংঘাত হলে নতুন অস্ত্র ব্যবহার করবে ইরান",
+    "summary": "ইরানের রেভল্যুশনারি গার্ড কর্প মঙ্গলবার সতর্ক করে দিল যে আরেকটি সংঘাত হলে তারা নতুন অস্ত্র ব্যবহার করবে। ইরানের পররাষ্ট্র মন্ত্রণালয় বেনিয়ামিন নেতানিয়াহুর সংযুক্ত আরব আমিরাত সফরের নিন্দা জানিয়ে আঞ্চলিক দেশগুলোকে সতর্ক করেছে। যুক্তরাষ্ট্র ইরানের তিনজন মহাকাশ প্রতিরক্ষা কমান্ডারের তথ্যের জন্য ১৫ মিলিয়ন ডলার পুরস্কার ঘোষণা করেছে।"
+   }
+  },
   {
    "id": "ugjgb0",
    "section": "bhabna",
