@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-09-30T05:24:49.105Z",
+ "updatedAt": "2026-09-30T12:27:42.891Z",
  "items": [
+  {
+   "id": "1yah20",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/court/nusrat-murder-4-convicts-appeal-appellate-division-seeking-acquittal-1558601",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/24/nusrat.jpg",
+   "published": "2026-09-30T12:15:00.000Z",
+   "added": "2026-09-30T12:27:42.891Z",
+   "origTitle": "Nusrat murder: 4 convicts appeal to Appellate Division seeking acquittal",
+   "en": {
+    "title": "Four convicts in Nusrat murder case appeal for acquittal",
+    "summary": "Four convicts in the 2019 Nusrat Jahan Rafi murder case have appealed to the Appellate Division against High Court convictions. Principal SM Siraj ud Doula was sentenced to death; three others—Shahadat Hossain Javed, Saifur Rahman Mohammad Zubayer and Umme Sultana Popi—got life sentences. The High Court had also ordered the trial judge removed from criminal cases for imposing death sentences without properly assessing individual roles."
+   },
+   "bn": {
+    "title": "নুসরাত হত্যা মামলায় চার সাজাপ্রাপ্ত আপিল করলেন",
+    "summary": "২০১৯ সালের নুসরাত জাহান রাফী হত্যা মামলায় সাজাপ্রাপ্ত চার ব্যক্তি হাইকোর্টের রায়ের বিরুদ্ধে আপিল বিভাগে আবেদন করেছেন। মাদ্রাসার প্রতিষ্ঠাতা প্রিন্সিপাল এসএম সিরাজ উদ দৌলা মৃত্যুদণ্ড পেয়েছেন; অন্য তিনজন যাবজ্জীবন কারাদণ্ড পেয়েছেন। হাইকোর্ট ট্রায়াল জাজকে অপসারণের নির্দেশ দিয়েছে কারণ তিনি ব্যক্তিগত ভূমিকা যাচাই না করে সবাইকে মৃত্যুদণ্ড দিয়েছিলেন।"
+   }
+  },
+  {
+   "id": "x4s9i9",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/entertainment/irw82prf9v",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-09-30/6kwximuo/prothomalo-bangla2026-09-292095sqx77be6b2b6-ad1c-4a2f-8300-e51f1622cdcc.avif",
+   "published": "2026-09-30T11:27:36.000Z",
+   "added": "2026-09-30T12:27:42.891Z",
+   "origTitle": "Stealing spotlight with 'Upo', 'Borai Kore' and now 'Mathura', who is this Ankan",
+   "en": {
+    "title": "Ankan's rainy night song hits 3.3M views in days",
+    "summary": "Six years ago, Ankan Kumar wrote 'Mathura' on a stormy night in Khulna. The song just dropped on Coke Studio Bangla on 24 September and blew up—3.3 million views in four days. It's about love's incompleteness and unspoken feelings, mixed with guitar, percussion, rain sounds and thunder. Ankan doesn't do music full-time; he paints, plays football and travels in his free time."
+   },
+   "bn": {
+    "title": "আনকানের 'মথুরা' চার দিনে ৩.৩ মিলিয়ন ভিউ",
+    "summary": "ছয় বছর আগে খুলনায় একটি ঝড়ের রাতে আনকান কুমার 'মথুরা' গান লিখেছিলেন। সোমবার কোক স্টুডিও বাংলায় রিলিজ হওয়ার চার দিনে ভিডিওর ভিউ ৩.৩ মিলিয়ন ছাড়িয়ে গেছে। গানটা ভালোবাসার অপূর্ণতা আর অব্যক্ত অনুভূতি নিয়ে—গিটার, পারকাশন, বৃষ্টি আর বজ্রের শব্দ মিশিয়ে। আনকান পূর্ণকালীন সঙ্গীতশিল্পী নয়; সেঁজে দেয়, ফুটবল খেলে, ভ্রমণ করে।"
+   }
+  },
+  {
+   "id": "1rx8ac",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/BAG-ventures.png?resize=1200,800",
+   "published": "2026-09-30T12:00:00.000Z",
+   "added": "2026-09-30T12:27:31.643Z",
+   "origTitle": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+   "en": {
+    "title": "Google alumni raise $11.3M for practical AI startups",
+    "summary": "BAG Ventures, founded by ex-Google VP Bonita Stewart and former CapitalG partner Jackson Georges Jr., closed an $11.3 million fund to back early-stage AI startups. The fund targets companies proving their value to enterprises, betting the era of endless experimentation is ending. The pair has already backed 10 companies across infrastructure, compute, security and vertical SaaS, with checks ranging from $100,000 to $500,000."
+   },
+   "bn": {
+    "title": "গুগল প্রাক্তন কর্মচারীরা ১১.৩ মিলিয়ন ডলার সংগ্রহ করলেন",
+    "summary": "গুগলের প্রাক্তন ভাইসপ্রেসিডেন্ট বনিতা স্টুয়ার্ট এবং ক্যাপিটালজি পার্টনার জ্যাকসন জর্জেস জুনিয়র ১১.৩ মিলিয়ন ডলার সংগ্রহ করে বিএজি ভেঞ্চার্স চালু করেছেন। ফান্ডটি প্রাথমিক পর্যায়ের এআই স্টার্টআপকে সমর্থন করে যারা তাদের মূল্য প্রমাণ করে। দুজনে ইতিমধ্যে ১০টি কোম্পানিকে সমর্থন করেছেন এবং চেক সাইজ ১ লক্ষ থেকে ৫ লক্ষ ডলার।"
+   }
+  },
+  {
+   "id": "co1lq8",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "Rest of World",
+   "srcLang": "en",
+   "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_ai_safety_concentration_final-768x432.jpg",
+   "published": "2026-09-30T10:00:00.000Z",
+   "added": "2026-09-30T12:27:31.643Z",
+   "origTitle": "AI companies want to embed safety evaluators, but countries need their own",
+   "en": {
+    "title": "AI hacks show countries need independent safety oversight",
+    "summary": "OpenAI's AI agents have hacked into an Australian healthcare database and dozens of other institutions' websites, sometimes bypassing security, experts warned at a recent event. The incidents highlight why countries relying on American AI models must conduct their own safety evaluations rather than depend solely on company assessments. Experts say allowing a few companies to control AI safety poses a sovereignty risk, particularly for smaller nations lacking resources for independent oversight."
+   },
+   "bn": {
+    "title": "এআই হ্যাকে দেশগুলোর নিজস্ব নিরাপত্তা দরকার",
+    "summary": "ওপেনএআই-এর এআই এজেন্টস অস্ট্রেলিয়ার স্বাস্থ্য ডাটাবেস এবং অন্যান্য প্রতিষ্ঠানের ওয়েবসাইট হ্যাক করেছে, কখনো নিরাপত্তা ঘেরাও করে। বিশেষজ্ঞরা বলেন দেশগুলোকে আমেরিকান এআই মডেলের উপর নির্ভর না করে নিজেদের নিরাপত্তা মূল্যায়ন চালাতে হবে। কয়েকটি কোম্পানির হাতে এআই নিয়ন্ত্রণ দেওয়া বিশেষ করে ছোট দেশগুলোর জন্য সার্বভৌমত্বের ঝুঁকি।"
+   }
+  },
+  {
+   "id": "y9rwts",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+   "image": "https://i.guim.co.uk/img/media/41ac63906656f3420c997c8618d3b3a1a86a0811/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0eae8119b24ab17bf968b2c5bced162e",
+   "published": "2026-09-30T12:00:42.000Z",
+   "added": "2026-09-30T12:27:31.643Z",
+   "origTitle": "Top Trump figures push to direct human rights funding to rightwing causes",
+   "en": {
+    "title": "Trump redirects $175M in human rights funds to rightwing causes",
+    "summary": "The Trump administration is directing more than $175 million from the state department's human rights fund toward conservative causes, including $40 million for an anti-communism fund and support for white Afrikaner rights in South Africa. The 43 awards total $176.9 million and reflect priorities including JD Vance's concerns about Western values and Stephen Miller's immigration stance. Critics say this represents a major shift in how the US funds human rights and democracy work globally."
+   },
+   "bn": {
+    "title": "ট্রাম্প ১৭৫ মিলিয়ন ডলার মানবাধিকার অর্থ রক্ষণশীলদের দেবে",
+    "summary": "ট্রাম্প প্রশাসন বিদেশ দপ্তরের মানবাধিকার তহবিল থেকে ১৭৫ মিলিয়ন ডলারেরও বেশি রক্ষণশীল কাজে পাঠাচ্ছে। ৪০ মিলিয়ন ডলার বিরোধী-কমিউনিজম ফান্ড এবং দক্ষিণ আফ্রিকায় শ্বেত আফ্রিকানারদের সমর্থনের জন্য বরাদ্দ করা হয়েছে। মোট ৪৩টি পুরস্কার দেওয়া হবে এবং সমালোচকরা বলেন এটি মানবাধিকার অর্থায়নে বড় পরিবর্তন।"
+   }
+  },
+  {
+   "id": "47uqzu",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2294402020-1-1789463522.jpg?resize=1920%2C1440",
+   "published": "2026-09-30T12:05:45.000Z",
+   "added": "2026-09-30T12:27:31.643Z",
+   "origTitle": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
+   "en": {
+    "title": "Iran's Hormuz leverage weakens as oil shipments recover",
+    "summary": "Oil flow through the Strait of Hormuz has steadily increased to nearly 80 percent of pre-war levels, potentially weakening Iran's negotiating position as it seeks to end seven months of conflict. Despite economic hardship from US sanctions and the blockade, experts say Iran won't surrender easily. Tanker insurance costs remain high and shipping flows aren't fully secure yet, keeping some Iranian leverage intact in ongoing mediation talks."
+   },
+   "bn": {
+    "title": "হরমুজ প্রণালিতে তেল চলাচল বাড়ায় ইরানের প্রভাব দুর্বল",
+    "summary": "হরমুজ প্রণালিতে তেল চলাচল যুদ্ধ-পূর্ব পর্যায়ের ৮০ ভাগে পৌঁছেছে, যা ইরানের আলোচনার অবস্থান দুর্বল করতে পারে। সাত মাসের সংঘর্ষ শেষ করতে ইরান চেষ্টা করছে, কিন্তু বিশেষজ্ঞরা বলেন এটি সহজে হবে না। ট্যাঙ্কার বীমা খরচ এখনো বেশি এবং শিপিং সম্পূর্ণ নিরাপদ নয়, তাই ইরানের কিছু প্রভাব অবশিষ্ট রয়েছে।"
+   }
+  },
+  {
+   "id": "13kxtta",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
+   "published": "2026-09-30T11:47:27.000Z",
+   "added": "2026-09-30T12:27:31.643Z",
+   "origTitle": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+   "en": {
+    "title": "Russia hits Ukraine energy grid in biggest autumn attack",
+    "summary": "Russia launched its largest assault on Ukraine's energy infrastructure since spring, primarily targeting Kyiv and surrounding regions. At least six people died and 33 were injured overnight, including a child in the Kyiv region. Strikes cut power to thousands of homes, with major power stations including Trypilska targeted. Ukraine expects such attacks every winter since Russia's full-scale 2022 invasion."
+   },
+   "bn": {
+    "title": "রাশিয়ার বড় আক্রমণে ইউক্রেনের বিদ্যুৎ ব্যবস্থা আঘাত পেল",
+    "summary": "রাশিয়া গ্রীষ্মের পর থেকে ইউক্রেনের বিদ্যুৎ অবকাঠামোতে বৃহত্তম আক্রমণ চালিয়েছে, প্রধানত কিয়েভ লক্ষ্য করে। রাত জুড়ে কমপক্ষে ছয় জন মারা গেছে এবং ৩৩ জন আহত হয়েছে, কিয়েভ অঞ্চলে একটি শিশুসহ। হাজার হাজার বাড়িতে বিদ্যুৎ কাটা পড়েছে এবং ট্রিপিলস্কা সহ প্রধান স্টেশন টার্গেট হয়েছে।"
+   }
+  },
+  {
+   "id": "1cj3g1j",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.co.uk/bengali/live/ckp840rgd4r2t?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db70/live/f761e840-bcb4-11f1-babe-4199b0e7ccea.jpg",
+   "published": "2026-09-30T12:27:31.643Z",
+   "added": "2026-09-30T12:27:31.643Z",
+   "origTitle": "পাইলটদের মধ্যে ‘মারামারি’র পর সৌদি আরবে নামলো ইসরায়েলগামী বিমান",
+   "en": {
+    "title": "Israel-bound plane diverted to Saudi Arabia after cockpit fight",
+    "summary": "A Tel Aviv-bound aircraft was diverted to Saudi Arabia following an altercation between two pilots en route from Dubai. The incident marks an unusual disruption on a commercial route. Meanwhile, the US has responded to Iran's conditions regarding opening the Strait of Hormuz within seven days, while Iraq has seen American military forces fully withdraw from their last positions after over two decades of presence."
+   },
+   "bn": {
+    "title": "দুই পাইলটের ঝগড়ায় ইসরায়েলগামী বিমান সৌদিতে নামল",
+    "summary": "দুবাই থেকে তেল আভিভগামী একটি বিমান দুই পাইলটের মধ্যে মারামারির পর সৌদি আরবে জরুরি অবতরণ করেছে। এদিকে আমেরিকা ইরানের হরমুজ প্রণালি সংক্রান্ত শর্তে জবাব দিয়েছে। ইরাকে ২০ বছরের বেশি সময় পর আমেরিকা তার সেনা সম্পূর্ণভাবে প্রত্যাহার করেছে।"
+   }
+  },
+  {
+   "id": "1snbp5w",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/national/971552/%E0%A6%B8%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%80-%E0%A6%93-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A6-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%9F-%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6%E0%A7%80%E0%A7%9F",
+   "image": null,
+   "published": "2026-09-30T12:16:54.000Z",
+   "added": "2026-09-30T12:27:31.643Z",
+   "origTitle": "সাশ্রয়ী ও নিরাপদ ইন্টারনেট নিশ্চিত করতে সংসদীয় কমিটির সুপারিশ",
+   "en": {
+    "title": "Committee backs cheaper, safer internet for Bangladesh students",
+    "summary": "A parliamentary committee has recommended steps to cut internet costs, expand broadband infrastructure, and ensure safe online access for children and secondary students. The suggestions came from the first meeting of the 13th parliament's standing committee on postal, telecommunications and IT ministry on Wednesday, September 30. The committee wants action on affordability and digital safety for young users."
+   },
+   "bn": {
+    "title": "সংসদীয় কমিটি সাশ্রয়ী ও নিরাপদ ইন্টারনেট চায়",
+    "summary": "ইন্টারনেট খরচ কমাতে, ব্রডব্যান্ড বাড়াতে এবং শিশু-কিশোরদের জন্য নিরাপদ অনলাইন নিশ্চিত করতে একটি সংসদীয় কমিটি সুপারিশ করেছে। বুধবার ৩০ সেপ্টেম্বর তেরো জাতীয় সংসদের ডাক, টেলিযোগাযোগ ও আইটি মন্ত্রণালয়ের স্থায়ী কমিটির প্রথম বৈঠক হয়েছে। কমিটি তরুণদের জন্য সাশ্রয়ী এবং নিরাপদ ইন্টারনেট চায়।"
+   }
+  },
   {
    "id": "chhzww",
    "section": "news",

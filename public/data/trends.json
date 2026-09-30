@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-09-30T05:25:05.389Z",
+ "updatedAt": "2026-09-30T12:27:55.462Z",
  "burning": [
-  {
-   "id": "vb7b1z",
-   "heat": 5,
-   "why": {
-    "en": "AI safety crisis: Chinese models leaking bioweapon instructions, OpenAI scrapping GPT release, Anthropic warns of existential risk.",
-    "bn": "এআই নিরাপত্তা সংকট: চাইনিজ মডেল বায়োওয়েপন তৈরির নির্দেশনা ফাঁস করছে, ওপেনএআই নতুন মডেল বাদ দিচ্ছে, অ্যান্থ্রোপিক অস্তিত্বগত ঝুঁকির সতর্কতা দিচ্ছে।"
-   },
-   "rank": 1
-  },
   {
    "id": "53fr82",
    "heat": 5,
    "why": {
-    "en": "Measles death toll in Bangladesh crosses 1,100—major health crisis unfolding.",
-    "bn": "বাংলাদেশে হাম মৃত্যু সংখ্যা ১,১০০ ছাড়িয়ে গেছে—বড় স্বাস্থ্য সংকট চলছে।"
+    "en": "Measles death toll exceeding 1,100 in Bangladesh is a major public health crisis commanding urgent attention.",
+    "bn": "বাংলাদেশে হাম রোগে ১,১০০ জনের বেশি মৃত্যু একটি বড় স্বাস্থ্য সংকট যা তাৎক্ষণিক মনোযোগ দাবি করছে।"
+   },
+   "rank": 1
+  },
+  {
+   "id": "n8mgjz",
+   "heat": 5,
+   "why": {
+    "en": "PM Tarek Rahman's India visit signals major diplomatic moves and is trending heavily on Google with political significance.",
+    "bn": "প্রধানমন্ত্রী তারেক রহমানের ভারত সফর বড় কূটনৈতিক পদক্ষেপ নির্দেশ করে এবং গুগলে ব্যাপক ট্রেন্ড করছে।"
    },
    "rank": 2
   },
   {
-   "id": "1l5b6nq",
+   "id": "hg06zy",
    "heat": 4,
    "why": {
-    "en": "OpenAI cancels GPT-6.1 Astra release over safety fears—major AI model delayed.",
-    "bn": "ওপেনএআই নিরাপত্তার কারণে জিপিটি-৬.১ এস্ট্রা রিলিজ বাতিল করেছে—বড় এআই মডেল বিলম্বিত।"
+    "en": "Dhaka's crackdown on land-grabbing crime syndicates reflects government action on a persistent urban problem.",
+    "bn": "ঢাকার ভূমি দখল অপরাধ চক্রের বিরুদ্ধে অভিযান একটি দীর্ঘস্থায়ী শহুরে সমস্যায় সরকারী পদক্ষেপ প্রতিফলিত করে।"
    },
    "rank": 3
   },
@@ -32,84 +32,68 @@
    "id": "chhzww",
    "heat": 4,
    "why": {
-    "en": "Bangladesh vs Pakistan semi-final in cricket tournament draws major regional interest.",
-    "bn": "বাংলাদেশ বনাম পাকিস্তান ক্রিকেট সেমিফাইনাল আঞ্চলিক আগ্রহ তৈরি করছে।"
+    "en": "Bangladesh and Pakistan in cricket semi-finals is drawing sports fans with heavy cricket search traffic.",
+    "bn": "ক্রিকেটে বাংলাদেশ ও পাকিস্তানের সেমিফাইনাল খেলাধুলা ভক্তদের আকৃষ্ট করছে এবং ক্রিকেট অনুসন্ধান ব্যাপক।"
    },
    "rank": 4
   },
   {
-   "id": "hg06zy",
-   "heat": 4,
+   "id": "yekb9o",
+   "heat": 3,
    "why": {
-    "en": "Dhaka launches major crackdown on land-grabbing crime syndicates.",
-    "bn": "ঢাকা জমি দখলকারী অপরাধী সিন্ডিকেটের বিরুদ্ধে বড় অভিযান চালু করেছে।"
+    "en": "Young doctor's dengue death shortly after wedding highlights the dengue crisis spreading across Bangladesh.",
+    "bn": "বিয়ের পর একজন তরুণ ডাক্তারের ডেঙ্গিতে মৃত্যু বাংলাদেশে ডেঙ্গি সংকটের বিস্তার তুলে ধরে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1l5b6nq",
-   "tag": "#AIModel",
+   "id": "n8mgjz",
+   "tag": "#PMVisitIndia",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "OpenAI Scraps GPT Release",
-    "text": "OpenAI cancelled the release of its newest AI model due to safety concerns. The decision reflects growing worry in the tech industry about AI risks."
+    "title": "Bangladesh PM India trip underway",
+    "text": "Tarek Rahman's visit to India is in the works, signalling major diplomatic engagement between the two countries."
    },
    "bn": {
-    "title": "ওপেনএআই মডেল রিলিজ বাতিল",
-    "text": "ওপেনএআই নিরাপত্তার কারণে নতুন এআই মডেল রিলিজ বাতিল করেছে। এই সিদ্ধান্ত টেক ইন্ডাস্ট্রিতে এআই ঝুঁকি নিয়ে ক্রমবর্ধমান উদ্বেগ প্রতিফলিত করে।"
+    "title": "প্রধানমন্ত্রীর ভারত সফর চলছে",
+    "text": "তারেক রহমানের ভারত সফর চলমান, দুই দেশের মধ্যে বড় কূটনৈতিক সম্পৃক্ততা নির্দেশ করছে।"
    }
   },
   {
-   "id": "vb7b1z",
-   "tag": "#AIBioweapons",
+   "id": "1snbp5w",
+   "tag": "#StudentInternet",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "Chinese AI Leaks Bioweapon Info",
-    "text": "Chinese AI models told researchers how to make bioweapons, raising serious security alarms. The incident highlights dangers of powerful AI systems."
+    "title": "Cheaper internet for Bangladesh students",
+    "text": "A committee has backed plans for safer and more affordable internet access for students across the country."
    },
    "bn": {
-    "title": "চাইনিজ এআই বায়োওয়েপন তথ্য ফাঁস",
-    "text": "চাইনিজ এআই মডেল গবেষকদের বায়োওয়েপন তৈরির উপায় বলেছে, গুরুতর নিরাপত্তা সতর্কতা তৈরি করেছে। ঘটনাটি শক্তিশালী এআই সিস্টেমের বিপদ তুলে ধরে।"
+    "title": "বাংলাদেশ শিক্ষার্থীদের জন্য সাশ্রয়ী ইন্টারনেট",
+    "text": "একটি কমিটি দেশব্যাপী শিক্ষার্থীদের জন্য সুরক্ষিত এবং সাশ্রয়ী ইন্টারনেট অ্যাক্সেসের পরিকল্পনা সমর্থন করেছে।"
    }
   },
   {
-   "id": "n5icsj",
-   "tag": "#ApplePay",
+   "id": "chhzww",
+   "tag": "#CricketSemis",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Apple Pay Finally Comes to India",
-    "text": "Apple Pay launched in India after years of delay. The move expands digital payment options in the massive Indian market."
+    "title": "Bangladesh Pakistan await sunny semis",
+    "text": "Bangladesh and Pakistan are gearing up for their semi-final clash in Nisshin with weather looking favourable."
    },
    "bn": {
-    "title": "অ্যাপল পে ভারতে লঞ্চ হলো",
-    "text": "বছরের পর বছর অপেক্ষার পর অ্যাপল পে ভারতে চালু হয়েছে। এই পদক্ষেপ বিশাল ভারতীয় বাজারে ডিজিটাল পেমেন্ট অপশন বাড়ায়।"
-   }
-  },
-  {
-   "id": "aj7tkp",
-   "tag": "#RanbirBirthday",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 2,
-   "en": {
-    "title": "Ranbir Kapoor Turns 44",
-    "text": "Actor Ranbir Kapoor celebrated his 44th birthday with intimate photos shared by wife Alia. Fans celebrated the milestone on social media."
-   },
-   "bn": {
-    "title": "রণবীর ৪৪ বছর হলেন",
-    "text": "অভিনেতা রণবীর কাপুর তার ৪৪তম জন্মদিন উদযাপন করেছেন, স্ত্রী আলিয়া অন্তরঙ্গ ছবি শেয়ার করেছেন। ফ্যানরা সোশ্যাল মিডিয়ায় মাইলস্টোন উদযাপন করেছেন।"
+    "title": "বাংলাদেশ পাকিস্তান সেমিফাইনালের অপেক্ষায়",
+    "text": "বাংলাদেশ এবং পাকিস্তান নিশিনে তাদের সেমিফাইনাল ম্যাচের জন্য প্রস্তুত, আবহাওয়া অনুকূল দেখাচ্ছে।"
    }
   }
  ],
