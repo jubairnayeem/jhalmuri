@@ -1,6 +1,248 @@
 {
- "updatedAt": "2026-10-01T08:48:06.974Z",
+ "updatedAt": "2026-10-01T16:21:04.842Z",
  "items": [
+  {
+   "id": "1hu7c8w",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "serious",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
+   "image": "https://images.aeonmedia.co/images/7fec3aaf-c6f3-4905-abda-0123fa6565d4/sz-brain-scan-tumor.jpg?top=109&left=0&cropWidth=2096&cropHeight=1179&width=1200&quality=75&format=jpeg",
+   "published": "2026-10-01T10:00:00.000Z",
+   "added": "2026-10-01T16:21:04.842Z",
+   "origTitle": "Why long-brewing physical and mental breakdowns feel so sudden",
+   "en": {
+    "title": "Why health breakdowns feel sudden but develop quietly for years",
+    "summary": "When major illnesses or breakdowns happen, they often feel shockingly sudden—but the biological process behind them usually builds up slowly over years. A neurosurgeon who received news of his mother's brain metastases between surgeries reflects on how living systems hide accumulating strain through homeostasis until they suddenly fail. What looks like abrupt collapse is almost always delayed visibility of hidden damage."
+   },
+   "bn": {
+    "title": "স্বাস্থ্যগত সংকট কেন হঠাৎ মনে হয় কিন্তু বছরের পর বছর লুকিয়ে থাকে",
+    "summary": "যখন বড় অসুখ বা মানসিক সংকট ঘটে তখন তা অবিশ্বাস্যভাবে হঠাৎ মনে হয়—কিন্তু এর পেছনের জৈবিক প্রক্রিয়া সাধারণত বছরের পর বছর ধরে ধীরে ধীরে গড়ে ওঠে। একজন নিউরোসার্জন যিনি তার মায়ের মস্তিষ্কের ক্যান্সার সম্পর্কে খবর পেয়েছিলেন তিনি প্রতিফলিত করেন যে জীবিত সিস্টেম হোমিওস্টেসিসের মাধ্যমে জমা হওয়া চাপ লুকিয়ে রাখে। যা দেখতে হঠাৎ ব্যর্থতা মনে হয় তা সবসময় লুকানো ক্ষতির দেরিতে দৃশ্যমানতা।"
+   }
+  },
+  {
+   "id": "szi02x",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/video/bangladesh/hezzspaf7z",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-01/adxo5jct/WEB1.jpg",
+   "published": "2026-10-01T16:09:41.000Z",
+   "added": "2026-10-01T16:21:04.842Z",
+   "origTitle": "সেটেলমেন্ট অফিসে ঘুষ লেনদেন, গোপন ক্যামেরায় ধরা পড়ল টাকা নেওয়ার দৃশ্য",
+   "en": {
+    "title": "Settlement office officials caught taking bribes on hidden camera",
+    "summary": "Two officials at the Settlement Office in Natore upazila have been accused of taking bribes from people seeking services. Hidden camera footage allegedly captured them accepting money. The allegations highlight corruption in local administrative offices where citizens go for land and property matters."
+   },
+   "bn": {
+    "title": "নাটোর সেটেলমেন্ট অফিসে ঘুষের অভিযোগ, লুকানো ক্যামেরায় ধরা পড়েছে",
+    "summary": "নাটোর সদর উপজেলার সেটেলমেন্ট অফিসের দুজন কর্মকর্তা ও কর্মচারী সেবা নিতে আসা মানুষের কাছ থেকে ঘুষ নেওয়ার অভিযোগে জড়িত। গোপন ক্যামেরায় তাদের টাকা নেওয়ার দৃশ্য ধরা পড়েছে বলে দাবি করা হচ্ছে। এটি স্থানীয় প্রশাসনিক অফিসে দুর্নীতির একটি গুরুতর উদাহরণ।"
+   }
+  },
+  {
+   "id": "gtcc68",
+   "section": "news",
+   "cat": "khela",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/sports/football/mfhpwl7m78",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-01/4fq8jnj6/prothomalo-bangla2026-10-01qrk5yqjbGeminiGeneratedImage2w3gda2w3gda2w3g.avif",
+   "published": "2026-10-01T14:33:57.000Z",
+   "added": "2026-10-01T16:21:04.842Z",
+   "origTitle": "Indonesia beat Bangladesh 9-2 in ASEAN Cup",
+   "en": {
+    "title": "Indonesia thrash Bangladesh 9-2 in ASEAN Cup semi-final",
+    "summary": "Bangladesh lost 9-2 to Indonesia in their FIFA ASEAN Cup match on Thursday. Mitchell Lee Baker scored twice in the opening 20 minutes, with Rizky Ridho adding a third. Bangladesh's Shahriar Emon pulled one back, but Baker completed a hat-trick before the break and Indonesia added more goals. The match became heated after Bangladesh's second goal. Indonesia advanced to the final."
+   },
+   "bn": {
+    "title": "ASEAN কাপে ইন্দোনেশিয়া বাংলাদেশকে ৯-২ গোলে পরাজিত করল",
+    "summary": "বৃহস্পতিবার FIFA ASEAN কাপ ম্যাচে বাংলাদেশ ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে। শুরু ২০ মিনিটে মিচেল লি বেকার দুটি গোল করেন, রিজকি রিধো তৃতীয় গোল করেন। বাংলাদেশের শাহরিয়ার এমন একটি গোল ফিরিয়ে এনেছে কিন্তু বেকার হাফটাইমের আগে হ্যাট্রিক সম্পূর্ণ করেন। ম্যাচটি বাংলাদেশের দ্বিতীয় গোলের পরে উত্তেজনাপূর্ণ হয়ে ওঠে। ইন্দোনেশিয়া ফাইনালে প্রবেশ করেছে।"
+   }
+  },
+  {
+   "id": "4x9h6a",
+   "section": "hasi",
+   "cat": "khela",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/nba-players-share-the-one-thing-theyd-change-about-the-league-if-they-were-commissioner-for-a-day-2/",
+   "image": "https://theonion.com/wp-content/uploads/2026/09/NBA-Players_Share-Header.jpg",
+   "published": "2026-10-01T13:00:00.000Z",
+   "added": "2026-10-01T16:21:04.842Z",
+   "origTitle": "NBA Players Share The One Thing They’d Change About The League If They Were Commissioner For A Day",
+   "en": {
+    "title": "NBA players pitch hilarious ideas as commissioner for one day",
+    "summary": "The Onion asked NBA players what they'd change if they ran the league for 24 hours. Ideas ranged from introducing a secret basket worth 11 points to legalising one bite per game. Some got surreal: one player wanted AI to create five clone versions of Alex Caruso, another wanted a companion to share his burden. Pure absurdist comedy gold."
+   },
+   "bn": {
+    "title": "NBA খেলোয়াড়রা কমিশনার হলে কী করতেন তার হাস্যরস আইডিয়া",
+    "summary": "দ্য অনিয়ন NBA খেলোয়াড়দের জিজ্ঞাসা করেছে যে তারা ২৪ ঘণ্টার জন্য লিগ চালালে কী পরিবর্তন করতেন। আইডিয়াগুলো ছিল অদ্ভুত: গোপন ঝুড়ি যা ১১ পয়েন্ট দেয়, প্রতি ম্যাচে একটি কামড় করার অনুমতি। কিছু সম্পূর্ণ হাস্যকর: একজন খেলোয়াড় পাঁচটি Alex Caruso ক্লোন তৈরি করতে চেয়েছেন। শুদ্ধ অবান্তব কমেডি।"
+   }
+  },
+  {
+   "id": "1gwrrvr",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
+   "image": "https://images.aeonmedia.co/images/f4924920-abd2-4426-9711-66a5ce51c4a7/green-tree-ants-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-01T10:01:00.000Z",
+   "added": "2026-10-01T16:21:04.842Z",
+   "origTitle": "Green tree ants are famous in the tropics",
+   "en": {
+    "title": "Green tree ants have copycat insects trying to fool them",
+    "summary": "Green tree ants in tropical forests from India to Australia are so successful that other insects and spiders have evolved to look and smell like them. Some use the disguise to avoid being eaten by predators, while others use it to sneak up and hunt the ants themselves. It's a wild evolutionary arms race where fake ants get real survival advantages."
+   },
+   "bn": {
+    "title": "সবুজ গাছের পিঁপড়াদের নকল করছে অন্যান্য পোকা",
+    "summary": "ভারত থেকে অস্ট্রেলিয়া পর্যন্ত গ্রীষ্মমণ্ডলীয় জঙ্গলে সবুজ গাছের পিঁপড়া এত সফল যে অন্যান্য পোকা এবং মাকড়সা তাদের মতো দেখতে ও গন্ধ পেতে বিবর্তিত হয়েছে। কেউ শিকারীদের কাছ থেকে বাঁচতে ছদ্মবেশ ব্যবহার করে, আবার কেউ পিঁপড়াদের শিকার করতে কাছে যাওয়ার জন্য ব্যবহার করে। এটা একটি অবিশ্বাস্য বিবর্তনীয় যুদ্ধ যেখানে নকল পিঁপড়া সত্যিকারের বেঁচে থাকার সুবিধা পায়।"
+   }
+  },
+  {
+   "id": "vzg6jb",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/elon-tesla-getty.jpg?resize=1200,799",
+   "published": "2026-10-01T15:50:10.000Z",
+   "added": "2026-10-01T16:20:38.180Z",
+   "origTitle": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+   "en": {
+    "title": "Tesla's 'amazing abundance' remains delightfully undefined",
+    "summary": "A year after Elon Musk promised a detailed Tesla Master Plan 4, the company still can't define what \"amazing abundance\"—his rebranded vision for the future—actually means. Musk promised to add specifics but never did. Tesla execs keep mentioning humanoid robots, AI doctors, and flying taxis as part of this grand goal, yet the mission remains wonderfully vague after 12+ months."
+   },
+   "bn": {
+    "title": "টেসলার 'অবিশ্বাস্য সমৃদ্ধি' এখনও ঠিক কী তা অস্পষ্ট",
+    "summary": "এক বছর আগে এলন মাস্ক টেসলার চতুর্থ মাস্টার প্ল্যান বিস্তারিত করার প্রতিশ্রুতি দেয়, কিন্তু 'অবিশ্বাস্য সমৃদ্ধি' শব্দটির আসল অর্থ এখনও অস্পষ্ট। মাস্ক বিস্তারিত যোগ করার কথা বলেছিল কিন্তু করেনি। রোবট, এআই ডাক্তার এবং উড়ন্ত ট্যাক্সির কথা বলা হয় এই ভবিষ্যতের অংশ হিসেবে, কিন্তু ১২ মাস পর লক্ষ্য আরও অস্পষ্ট রয়েছে।"
+   }
+  },
+  {
+   "id": "ry68hj",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "Rest of World",
+   "srcLang": "en",
+   "url": "https://restofworld.org/2026/saudi-arabia-ceer-motors-ev-exobot-pif-lucid-byd/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "image": "https://restofworld.org/wp-content/uploads/2026/09/ceer1-768x432.png",
+   "published": "2026-10-01T10:00:00.000Z",
+   "added": "2026-10-01T16:20:38.180Z",
+   "origTitle": "Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls",
+   "en": {
+    "title": "Saudi Arabia's EV startup takes on Lucid it already owns",
+    "summary": "Saudi Arabia's new Ceer Motors, majority-owned by its Public Investment Fund, revealed two electric car models on September 21, targeting deliveries by March 2027. The awkward twist: the PIF also owns a majority stake in California-based Lucid, which has lost 60% of its share value this year. Ceer represents a hedge against Lucid's struggles as Chinese EVs dominate the Saudi market."
+   },
+   "bn": {
+    "title": "সৌদি আরবের নতুন ইভি ব্র্যান্ড যার মালিক নিজেই বড় শেয়ারহোল্ডার",
+    "summary": "সৌদি আরবের নতুন ইলেকট্রিক গাড়ি নির্মাতা সিয়ার মোটরস সেপ্টেম্বর ২১ তে দুটি গাড়ির মডেল প্রকাশ করে মার্চ ২০২৭ সালের মধ্যে ডেলিভারি দেওয়ার প্রতিশ্রুতি দিয়েছে। মজার ব্যাপার হলো সৌদি পাবলিক ইনভেস্টমেন্ট ফান্ড শুধু সিয়ারে নয়, ক্যালিফোর্নিয়ার লুসিডেও বড় বিনিয়োগকারী, যেখানে লুসিডের শেয়ার এ বছর ৬০ ভাগ পড়ে গেছে। চীনা বিভিড় সৌদি বাজার দখল করছে বলে এটি একটি ঝুঁকি কমানোর পদক্ষেপ।"
+   }
+  },
+  {
+   "id": "1ls6r9z",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6abe70da-1790865626.jpg?resize=1920%2C1412",
+   "published": "2026-10-01T15:47:23.000Z",
+   "added": "2026-10-01T16:20:38.180Z",
+   "origTitle": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
+   "en": {
+    "title": "Flydubai hijacking bid boosts Netanyahu's security message",
+    "summary": "An attempted hijacking of flight FZ1073 from Dubai to Tel Aviv on Wednesday—where the co-pilot stabbed the captain—has given Israeli PM Netanyahu a security narrative ahead of elections later this month. Netanyahu has blamed Iran and its proxies, claiming the co-pilot had undergone radical Islamist indoctrination, though the motive remains unclear. Critics say the framing may overshadow uncomfortable domestic issues like October 7 anniversary discussions."
+   },
+   "bn": {
+    "title": "ফ্লাইডুবাই হাইজ্যাক প্রচেষ্টায় নেতানিয়াহুর নিরাপত্তা বার্তা শক্তিশালী",
+    "summary": "দুবাই থেকে তেল আভিবে যাওয়া ফ্লাইডুবাই বিমানে সহ-পাইলট ক্যাপ্টেনকে ছুরি মেরে হাইজ্যাক করার চেষ্টা করে। ইসরায়েলি প্রধানমন্ত্রী নেতানিয়াহু এটিকে ইরানের দায়িত্ব বলে দাবি করছেন এবং এই ঘটনা তার নিরাপত্তা বার্তাকে শক্তিশালী করছে মাসের শেষে অনুষ্ঠিত নির্বাচনের আগে। বিশেষজ্ঞরা বলছেন এই কাহিনী অক্টোবর সাত নিয়ে অস্বস্তিকর আলোচনা দূরে সরিয়ে দিতে পারে।"
+   }
+  },
+  {
+   "id": "1xwg7mp",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/govt-plans-borrow-tk30107cr-through-treasury-bills-bonds-oct-dec-1560121",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/20/liquidity_bank_0.png",
+   "published": "2026-10-01T15:55:00.000Z",
+   "added": "2026-10-01T16:20:38.180Z",
+   "origTitle": "Govt plans to borrow Tk30,107cr through treasury bills, bonds in Oct-Dec",
+   "en": {
+    "title": "Govt to borrow Tk30,107cr in Oct-Dec quarter",
+    "summary": "The government plans to borrow Tk30,107 crore from banks through treasury bills and bonds in the final quarter, down from Tk35,000 crore in the previous quarter. The borrowing comes as tax revenue fell short by Tk29,000 crore and new pay scales for 4.5 million government employees require an extra Tk37,372 crore this year. Economists warn higher bank borrowing could raise interest costs."
+   },
+   "bn": {
+    "title": "অক্টোবর-ডিসেম্বরে ৩০ হাজার কোটি টাকা ধার নেবে সরকার",
+    "summary": "সরকার অক্টোবর থেকে ডিসেম্বর পর্যন্ত ব্যাংকিং সেক্টর থেকে ৩০ হাজার ১০৭ কোটি টাকা ধার নেওয়ার পরিকল্পনা করছে। রাজস্ব সংগ্রহে ২৯ হাজার কোটি টাকার ঘাটতি এবং সরকারি কর্মচারীদের নতুন বেতন কাঠামো বাস্তবায়নের কারণে এই ধার বাড়ছে। অর্থনীতিবিদরা বলছেন বেশি ধার সুদের খরচ বাড়াতে পারে।"
+   }
+  },
+  {
+   "id": "1hb8gbv",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157f/live/2045a3b0-bdae-11f1-8373-27235719cf2a.jpg",
+   "published": "2026-10-01T15:43:05.000Z",
+   "added": "2026-10-01T16:20:38.180Z",
+   "origTitle": "Tennessee halts executions after death row inmate Christa Pike survives hers",
+   "en": {
+    "title": "Tennessee halts executions after failed lethal injection",
+    "summary": "Tennessee Governor Bill Lee halted all executions for the remainder of the year after two failed attempts to execute death row inmate Christa Pike by lethal injection on Wednesday. Pike, 50, survived the procedure and was hospitalized. Lee ordered an independent review of the state's execution procedures. Pike was sentenced to death in 1996 for murdering 19-year-old Colleen Slemmer when Pike was 18."
+   },
+   "bn": {
+    "title": "মৃত্যুদণ্ড প্রচেষ্টা ব্যর্থ হওয়ায় টেনেসি বন্ধ করল এক্সিকিউশন",
+    "summary": "টেনেসির গভর্নর বিল লি বছরের বাকি সময়ের জন্য সব এক্সিকিউশন বন্ধ করে দিয়েছেন। বুধবার মৃত্যুদণ্ডাধীন ক্রিস্তা পাইকের উপর দুইবার লেথাল ইনজেকশন দেওয়ার চেষ্টা ব্যর্থ হয়। পঞ্চাশ বছর বয়সী পাইক ১৯৯৬ সালে একজন ১৯ বছর বয়সী নারীকে খুন করার জন্য মৃত্যুদণ্ড পান। গভর্নর এক্সিকিউশন প্রক্রিয়া নিয়ে স্বাধীন তদন্ত দাবি করেছেন।"
+   }
+  },
+  {
+   "id": "qvjkkw",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/ckeq8qygdg74o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/065d/live/2d2c4040-bd89-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-01T12:16:23.000Z",
+   "added": "2026-10-01T16:20:38.180Z",
+   "origTitle": "অভিযোগের 'সত্যতা' মেলায় পদ হারালেন এমপি ফেরদৌসী আহমেদ মিষ্টি",
+   "en": {
+    "title": "MP Ferdausi Ahmed Misty resigns after assault probe",
+    "summary": "Ferdausi Ahmed Misty, a female MP who took office in May, resigned Thursday on Prime Minister Tarek Rahman's orders. She faced allegations of involvement in an assault at a private health centre in Dhaka's Mirpur area, which she denied. An initial investigation found the allegations to be true, leading to her resignation. The BNP government says it tolerates no crime and will take further action."
+   },
+   "bn": {
+    "title": "রোডস্ট্রো হামলায় জড়িতের অভিযোগে সংসদ সদস্যপদ ছেড়ে গেলেন এমপি ফেরদৌসী",
+    "summary": "মে মাসে শপথ নেওয়ার পাঁচ মাস পর বৃহস্পতিবার সংসদ সদস্যপদ থেকে পদত্যাগ করেছেন মিরপুরের একটি স্বাস্থ্যকেন্দ্রে হামলা সম্পর্কিত অভিযোগের মুখোমুখি হওয়া নারী সংসদ সদস্য ফেরদৌসী আহমেদ মিষ্টি। প্রাথমিক তদন্তে তার বিরুদ্ধে অভিযোগের সত্যতা পাওয়া গেছে বলে জানানো হয়েছে। প্রধানমন্ত্রী তারেক রহমানের নির্দেশে এই পদক্ষেপ নেওয়া হয়েছে। বিএনপি বলছে কোনো অপরাধীকে তারা প্রশ্রয় দেয় না।"
+   }
+  },
   {
    "id": "f0ps2s",
    "section": "news",

@@ -1,8 +1,89 @@
 {
- "updatedAt": "2026-09-30T18:25:59.440Z",
+ "updatedAt": "2026-10-01T16:21:19.301Z",
  "english": {
   "source": "Apple Music · most played (US)",
-  "items": []
+  "items": [
+   {
+    "rank": 1,
+    "title": "Patient Zero",
+    "artist": "Taylor Swift",
+    "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
+    "key": "patient zero|taylor swift",
+    "prev": null
+   },
+   {
+    "rank": 2,
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+    "key": "choosin' texas|ella langley",
+    "prev": null
+   },
+   {
+    "rank": 3,
+    "title": "BbY WOW",
+    "artist": "KAROL G, Judeline & rusowsky",
+    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+    "key": "bby wow|karol g, judeline & rusowsky",
+    "prev": null
+   },
+   {
+    "rank": 4,
+    "title": "Last Thing You Need",
+    "artist": "Morgan Wallen",
+    "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+    "key": "last thing you need|morgan wallen",
+    "prev": null
+   },
+   {
+    "rank": 5,
+    "title": "Babylon",
+    "artist": "Taylor Swift",
+    "url": "https://music.apple.com/us/album/babylon/6814995859?i=6814996163",
+    "key": "babylon|taylor swift",
+    "prev": null
+   },
+   {
+    "rank": 6,
+    "title": "Pink Clouding",
+    "artist": "Taylor Swift",
+    "url": "https://music.apple.com/us/album/pink-clouding/6814997249?i=6814997428",
+    "key": "pink clouding|taylor swift",
+    "prev": null
+   },
+   {
+    "rank": 7,
+    "title": "Cleveland!",
+    "artist": "Taylor Swift",
+    "url": "https://music.apple.com/us/album/cleveland/6814995859?i=6814996161",
+    "key": "cleveland!|taylor swift",
+    "prev": null
+   },
+   {
+    "rank": 8,
+    "title": "Janice STFU",
+    "artist": "Drake",
+    "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+    "key": "janice stfu|drake",
+    "prev": null
+   },
+   {
+    "rank": 9,
+    "title": "Nicole Kidman",
+    "artist": "ADÉLA",
+    "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088",
+    "key": "nicole kidman|adéla",
+    "prev": null
+   },
+   {
+    "rank": 10,
+    "title": "Been By Now",
+    "artist": "Morgan Wallen",
+    "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+    "key": "been by now|morgan wallen",
+    "prev": null
+   }
+  ]
  },
  "bangla": {
   "source": null,

@@ -1,90 +1,99 @@
 {
- "updatedAt": "2026-10-01T08:48:20.724Z",
+ "updatedAt": "2026-10-01T16:21:17.364Z",
  "burning": [
   {
-   "id": "nbnrw5",
+   "id": "1rio8od",
    "heat": 5,
    "why": {
-    "en": "India's Asian Games cricket semi-final win is dominating social signals with 50000+ searches.",
-    "bn": "ভারতের এশিয়ান গেমস ক্রিকেট সেমিফাইনাল জয় সোশ্যাল মিডিয়ায় ভাইরাল, ৫০০০০+ সার্চ।"
+    "en": "Flight diverted after cockpit assault — covered by multiple outlets, major international story.",
+    "bn": "কক্পিটে হামলার পর ফ্লাইট ডাইভার্ট — একাধিক আউটলেটে কভার, বড় আন্তর্জাতিক খবর।"
    },
    "rank": 1
   },
   {
-   "id": "6s9und",
+   "id": "gtcc68",
    "heat": 4,
    "why": {
-    "en": "PM orders BNP MP to resign over clinic vandalism incident tied to trending resignation story.",
-    "bn": "প্রধানমন্ত্রীর ক্লিনিক ভাঙচুর বিষয়ে বিএনপি এমপিকে পদত্যাগের নির্দেশ।"
+    "en": "Bangladesh thrashed 9-2 in ASEAN Cup semi — major sports story, heavy coverage.",
+    "bn": "এশিয়ান কাপ সেমিফাইনালে বাংলাদেশ ৯-২ গোলে হারল — বড় ক্রীড়া খবর।"
    },
    "rank": 2
   },
   {
-   "id": "1enp9n4",
+   "id": "1rtakzi",
    "heat": 4,
    "why": {
-    "en": "Bangladesh cricket updates from semi-final push, part of broader Asian Games cricket momentum.",
-    "bn": "বাংলাদেশ ক্রিকেটের সেমিফাইনাল আপডেট এশিয়ান গেমস ট্রেন্ডের অংশ।"
+    "en": "Google launches Gemini 4 Argon — 5000+ searches in Bangladesh, major tech news.",
+    "bn": "গুগল জেমিনি ৪ আর্গন লঞ্চ করল — বাংলাদেশে ৫০০০+ সার্চ, বড় টেক খবর।"
    },
    "rank": 3
   },
   {
-   "id": "1irgvfc",
+   "id": "szi02x",
    "heat": 3,
    "why": {
-    "en": "Tech startup funding story amid broader AI and WhatsApp trends showing tech interest.",
-    "bn": "টেক স্টার্টআপ ফান্ডিং খবর এআই ট্রেন্ডের অংশ।"
+    "en": "Settlement office officials caught on hidden camera taking bribes — corruption story.",
+    "bn": "নিষ্পত্তি অফিসের কর্মকর্তারা লুকানো ক্যামেরায় ধরা পড়ল রিশ্বত নিতে।"
    },
    "rank": 4
+  },
+  {
+   "id": "qvjkkw",
+   "heat": 3,
+   "why": {
+    "en": "MP resigns after assault probe — political accountability story.",
+    "bn": "সাংসদ হামলা অনুসন্ধানের পর পদত্যাগ করেন।"
+   },
+   "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "nbnrw5",
-   "tag": "#IndiaVsSriLanka",
+   "id": "1rtakzi",
+   "tag": "#AI",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Google's new AI model drops",
+    "text": "Google launched Gemini 4 Argon and it's hitting 5000+ searches in Bangladesh. Everyone wants to know what the new AI can do."
+   },
+   "bn": {
+    "title": "গুগলের নতুন এআই মডেল আসল",
+    "text": "গুগল জেমিনি ৪ আর্গন লঞ্চ করেছে এবং বাংলাদেশে ৫০০০+ সার্চ হচ্ছে। সবাই জানতে চায় নতুন এআই কী করতে পারে।"
+   }
+  },
+  {
+   "id": "1rio8od",
+   "tag": "#FlightDrama",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "India crushes Sri Lanka in semi",
-    "text": "India hammered Sri Lanka to reach the Asian Games cricket final. The match is the top trending story across Bangladesh with 50000+ searches on Google."
+    "title": "Cockpit fight diverts Israel plane",
+    "text": "A co-pilot stabbed the captain on a Flydubai flight headed to Tel Aviv. The plane got diverted to Saudi Arabia mid-air — it's the talk of the internet."
    },
    "bn": {
-    "title": "ভারত সিলংকা হারিয়ে ফাইনালে",
-    "text": "ভারত এশিয়ান গেমস সেমিফাইনালে সিলংকাকে হারিয়ে ফাইনালে পৌঁছেছে। এটি বাংলাদেশে সবচেয়ে বেশি ট্রেন্ডিং খবর।"
+    "title": "সহ-পাইলট ক্যাপ্টেনকে ছুরিকাঘাত করেন",
+    "text": "ফ্লাইডুবাই ফ্লাইটে সহ-পাইলট ক্যাপ্টেনকে ছুরিকাঘাত করেছেন। প্লেন সৌদি আরবে ডাইভার্ট হয়েছে — সবার মুখে খবর।"
    }
   },
   {
-   "id": "6s9und",
-   "tag": "#ক্লিনিকভাঙচুর",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "MP ordered to resign over clinic",
-    "text": "PM orders a BNP MP to resign following a clinic vandalism incident. The resignation is trending heavily on Google with 2000+ searches."
-   },
-   "bn": {
-    "title": "ক্লিনিক ভাঙচুরে এমপি পদত্যাগ",
-    "text": "প্রধানমন্ত্রী ক্লিনিক ভাঙচুর বিষয়ে একজন বিএনপি এমপিকে পদত্যাগের নির্দেশ দিয়েছেন। এটি গুগলে ২০০০+ সার্চ পেয়ে ট্রেন্ডিং।"
-   }
-  },
-  {
-   "id": "1snbp5w",
-   "tag": "#InternetForStudents",
+   "id": "1enp9n4",
+   "tag": "#ক্রিকেট",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Cheaper, safer internet for students",
-    "text": "A committee backs a plan to provide more affordable and secure internet access for Bangladesh students."
+    "title": "Bangladesh loses early wickets",
+    "text": "Bangladesh has lost three wickets including Parvez in their match. Tough start for the team."
    },
    "bn": {
-    "title": "শিক্ষার্থীদের সাশ্রয়ী ইন্টারনেট",
-    "text": "একটি কমিটি বাংলাদেশের শিক্ষার্থীদের জন্য সাশ্রয়ী এবং নিরাপদ ইন্টারনেট সংযোগের প্রস্তাব সমর্থন করেছে।"
+    "title": "বাংলাদেশ তিন উইকেট হারিয়েছে",
+    "text": "বাংলাদেশ তিনটি উইকেট হারিয়েছে যার মধ্যে পার্বেজও রয়েছেন। দলের জন্য শুরু কঠিন।"
    }
   }
  ],
