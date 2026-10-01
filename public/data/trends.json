@@ -1,99 +1,90 @@
 {
- "updatedAt": "2026-10-01T02:03:30.083Z",
+ "updatedAt": "2026-10-01T08:48:20.724Z",
  "burning": [
   {
-   "id": "chhzww",
+   "id": "nbnrw5",
    "heat": 5,
    "why": {
-    "en": "Bangladesh cricket semi-final is dominating sports trends across the region.",
-    "bn": "বাংলাদেশের ক্রিকেট সেমিফাইনাল সারা অঞ্চলে ট্রেন্ড করছে।"
+    "en": "India's Asian Games cricket semi-final win is dominating social signals with 50000+ searches.",
+    "bn": "ভারতের এশিয়ান গেমস ক্রিকেট সেমিফাইনাল জয় সোশ্যাল মিডিয়ায় ভাইরাল, ৫০০০০+ সার্চ।"
    },
    "rank": 1
+  },
+  {
+   "id": "6s9und",
+   "heat": 4,
+   "why": {
+    "en": "PM orders BNP MP to resign over clinic vandalism incident tied to trending resignation story.",
+    "bn": "প্রধানমন্ত্রীর ক্লিনিক ভাঙচুর বিষয়ে বিএনপি এমপিকে পদত্যাগের নির্দেশ।"
+   },
+   "rank": 2
   },
   {
    "id": "1enp9n4",
    "heat": 4,
    "why": {
-    "en": "Live cricket updates from Bangladesh match are getting heavy engagement.",
-    "bn": "বাংলাদেশের ম্যাচ লাইভ আপডেট ভালো এনগেজমেন্ট পাচ্ছে।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "hajxlg",
-   "heat": 4,
-   "why": {
-    "en": "Pilot stabbing incident on Israel flight covered by multiple outlets, serious news spike.",
-    "bn": "ইসরাইলগামী ফ্লাইটে পাইলট স্ট্যাব করার ঘটনা একাধিক আউটলেট কভার করছে।"
+    "en": "Bangladesh cricket updates from semi-final push, part of broader Asian Games cricket momentum.",
+    "bn": "বাংলাদেশ ক্রিকেটের সেমিফাইনাল আপডেট এশিয়ান গেমস ট্রেন্ডের অংশ।"
    },
    "rank": 3
   },
   {
-   "id": "1yah20",
+   "id": "1irgvfc",
    "heat": 3,
    "why": {
-    "en": "Nusrat murder case conviction appeal draws domestic news focus.",
-    "bn": "নুসরাত হত্যা মামলার আবেদন দেশীয় খবরে ফোকাস পাচ্ছে।"
+    "en": "Tech startup funding story amid broader AI and WhatsApp trends showing tech interest.",
+    "bn": "টেক স্টার্টআপ ফান্ডিং খবর এআই ট্রেন্ডের অংশ।"
    },
    "rank": 4
-  },
-  {
-   "id": "1j6rjkp",
-   "heat": 3,
-   "why": {
-    "en": "Hall renaming marks shift after political transition in Bangladesh.",
-    "bn": "হল পুনর্নামকরণ বাংলাদেশে রাজনৈতিক পরিবর্তন চিহ্নিত করছে।"
-   },
-   "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "chhzww",
-   "tag": "#BangladeshCricket",
+   "id": "nbnrw5",
+   "tag": "#IndiaVsSriLanka",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Bangladesh eyes semi-final win",
-    "text": "Bangladesh and Pakistan are waiting for sunny weather in their Nisshin semi-finals. The cricket match is trending heavily across the region."
+    "title": "India crushes Sri Lanka in semi",
+    "text": "India hammered Sri Lanka to reach the Asian Games cricket final. The match is the top trending story across Bangladesh with 50000+ searches on Google."
    },
    "bn": {
-    "title": "বাংলাদেশের সেমিফাইনাল স্বপ্ন",
-    "text": "বাংলাদেশ আর পাকিস্তান নিশ্চিনে সেমিফাইনালে রোদ খোঁজাখুঁজি করছে। ম্যাচটা সারা অঞ্চলে ভাইরাল হয়ে আছে।"
+    "title": "ভারত সিলংকা হারিয়ে ফাইনালে",
+    "text": "ভারত এশিয়ান গেমস সেমিফাইনালে সিলংকাকে হারিয়ে ফাইনালে পৌঁছেছে। এটি বাংলাদেশে সবচেয়ে বেশি ট্রেন্ডিং খবর।"
    }
   },
   {
-   "id": "x4s9i9",
-   "tag": "#AnkanSong",
+   "id": "6s9und",
+   "tag": "#ক্লিনিকভাঙচুর",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "MP ordered to resign over clinic",
+    "text": "PM orders a BNP MP to resign following a clinic vandalism incident. The resignation is trending heavily on Google with 2000+ searches."
+   },
+   "bn": {
+    "title": "ক্লিনিক ভাঙচুরে এমপি পদত্যাগ",
+    "text": "প্রধানমন্ত্রী ক্লিনিক ভাঙচুর বিষয়ে একজন বিএনপি এমপিকে পদত্যাগের নির্দেশ দিয়েছেন। এটি গুগলে ২০০০+ সার্চ পেয়ে ট্রেন্ডিং।"
+   }
+  },
+  {
+   "id": "1snbp5w",
+   "tag": "#InternetForStudents",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Ankan's rainy night hits millions",
-    "text": "Ankan's new song 'Rainy Night' crossed 3.3 million views in just days, becoming a quick viral hit."
+    "title": "Cheaper, safer internet for students",
+    "text": "A committee backs a plan to provide more affordable and secure internet access for Bangladesh students."
    },
    "bn": {
-    "title": "আনকানের বৃষ্টি রাত ভাইরাল",
-    "text": "আনকানের নতুন গান মাত্র কয়েক দিনে ৩.৩ মিলিয়ন ভিউ ছাড়িয়ে গেছে।"
-   }
-  },
-  {
-   "id": "n8mgjz",
-   "tag": "#PMVisit",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Bangladesh PM India trip in works",
-    "text": "Bangladesh PM Tarek Rahman's visit to India is reportedly being arranged, signalling diplomatic engagement between the two countries."
-   },
-   "bn": {
-    "title": "বিডিএর পিএম ভারত যাত্রা",
-    "text": "বাংলাদেশের পিএম তারেক রহমানের ভারত সফর আয়োজন করা হচ্ছে বলে জানা যাচ্ছে।"
+    "title": "শিক্ষার্থীদের সাশ্রয়ী ইন্টারনেট",
+    "text": "একটি কমিটি বাংলাদেশের শিক্ষার্থীদের জন্য সাশ্রয়ী এবং নিরাপদ ইন্টারনেট সংযোগের প্রস্তাব সমর্থন করেছে।"
    }
   }
  ],

@@ -1,6 +1,248 @@
 {
- "updatedAt": "2026-10-01T02:03:17.931Z",
+ "updatedAt": "2026-10-01T08:48:06.974Z",
  "items": [
+  {
+   "id": "f0ps2s",
+   "section": "news",
+   "cat": "campus",
+   "tone": "serious",
+   "satire": false,
+   "src": "New Age",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlViVHZ5TGpQeDVZUGJ5bWNwaGxyN28xMEhIYTRwYldCaXllT21HMnBKbjNMMjcwSXRvRXhpanBxUFppOFJBRjZvbTZiR3J2dkNld1BSd2xMRGhRUnVHMlRUT25nZDhlbzFBZkJOelFuZ2M2REpTVFU2SDdhaFNydGhGb0lsdUQ1MWZjX0xpTi1GWjFXWnU1Qw?oc=5",
+   "image": null,
+   "published": "2026-10-01T04:43:00.000Z",
+   "added": "2026-10-01T08:48:06.974Z",
+   "origTitle": "Chhatra Dal Dhaka west unit committee dissolved",
+   "en": {
+    "title": "Chhatra Dal Dhaka west unit dissolved",
+    "summary": "The Dhaka west unit committee of Chhatra Dal (student organisation) has been dissolved. No further details were provided about the reasons or timeline."
+   },
+   "bn": {
+    "title": "ছাত্রদল ঢাকা পশ্চিম ইউনিট কমিটি বিলুপ্ত",
+    "summary": "ছাত্রদলের ঢাকা পশ্চিম ইউনিট কমিটি বিলুপ্ত করা হয়েছে। এর কারণ বা সময়সীমা সম্পর্কে আর বিস্তারিত জানানো হয়নি।"
+   }
+  },
+  {
+   "id": "198i1vo",
+   "section": "news",
+   "cat": "campus",
+   "tone": "serious",
+   "satire": false,
+   "src": "যুগান্তর",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaajRsbHRuZk9JQ2JZTm9BbVdTR3ZhNkVnaFB0REFlaFZmTjh0V0xneUF5NS1UOGhibU5kUnJhRzBDcmQxQ21XelBZaGtCd2JDNkFr?oc=5",
+   "image": null,
+   "published": "2026-09-30T15:28:16.000Z",
+   "added": "2026-10-01T08:48:06.974Z",
+   "origTitle": "‘মেয়েদের সঙ্গে অবাধ বিচরণ’সহ যেসব অভিযোগে শিবিরের পদ হারান আম্মার",
+   "en": {
+    "title": "Student leader stripped of position over misconduct allegations",
+    "summary": "A leader from Shibir (student wing) has lost his position following allegations including inappropriate conduct with female members. The decision came from the organisation. The allegations point to serious disciplinary violations within the group."
+   },
+   "bn": {
+    "title": "শিবিরের নেতা অসংগত আচরণের অভিযোগে পদ হারালেন",
+    "summary": "শিবিরের একজন নেতা মহিলা সদস্যদের সাথে অসংগত আচরণসহ বিভিন্ন অভিযোগে তার পদ হারিয়েছেন। সংগঠন এই সিদ্ধান্ত নিয়েছে। অভিযোগ দলের মধ্যে গুরুতর শৃঙ্খলা লঙ্ঘনের দিকে ইঙ্গিত করে।"
+   }
+  },
+  {
+   "id": "nbnrw5",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1556732.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423200/423281.jpg",
+   "published": "2026-10-01T08:27:18.000Z",
+   "added": "2026-10-01T08:48:06.974Z",
+   "origTitle": "India enter Asian Games final after Kishan and Bumrah ride roughshod over Sri Lanka",
+   "en": {
+    "title": "India crushes Sri Lanka to reach Asian Games final",
+    "summary": "India beat Sri Lanka with strong performances from Kishan and Bumrah, securing a spot in the Asian Games cricket final. The win sets up the first India vs Pakistan final of the year. The gold medal is now within reach for India. This is a big deal for Asian cricket."
+   },
+   "bn": {
+    "title": "এশিয়ান গেমস ফাইনালে ভারত, পাকিস্তানের বিপরীতে খেলবে",
+    "summary": "কিশান আর বুমরাহের দুর্দান্ত খেলায় ভারত শ্রীলঙ্কাকে হারিয়ে এশিয়ান গেমস ক্রিকেট ফাইনালে পৌঁছেছে। ফাইনালে ভারত-পাকিস্তানের মুখোমুখি হবে। সোনার পদক জেতার সুযোগ এখন ভারতের সামনে। এশিয়ান ক্রিকেটের জন্য এটা বড় ব্যাপার।"
+   }
+  },
+  {
+   "id": "45lk4p",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Yb0Z5VmNFRkVDMmotV1Z2Ty14QWk2aWUwVDVoa2ZOY0tETEtiODBjdFhqQzBfLXFLcE9wVTQxREtWVDZtOEI1ancwemlFbDhwUFZ5X3FSbWFWckdvbXc?oc=5",
+   "image": null,
+   "published": "2026-10-01T03:06:00.000Z",
+   "added": "2026-10-01T08:48:06.974Z",
+   "origTitle": "নানাবাড়ি ফেনীর পথে প্রধানমন্ত্রী",
+   "en": {
+    "title": "Prime Minister heads to Nanabari in Feni",
+    "summary": "Bangladesh's Prime Minister is travelling to Nanabari in Feni. The visit details and purpose were not provided in the report."
+   },
+   "bn": {
+    "title": "প্রধানমন্ত্রী ফেনীর নানাবাড়িতে যাচ্ছেন",
+    "summary": "বাংলাদেশের প্রধানমন্ত্রী ফেনীর নানাবাড়িতে ভ্রমণ করছেন। এই সফরের বিস্তারিত তথ্য খবরে দেওয়া হয়নি।"
+   }
+  },
+  {
+   "id": "fx9ldw",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "Bangladesh Post",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGxNbWhWcWh4Q1JoM2JEdlltckF4UHNyZ016ZURxWFd5VUg2akR0Z1E1TnJwZ0xjUS1fU0d6SkZmSHE4aVZWSU1mTzh4U0Jjc2ItY2VsT3VQck1RU1AybnFLYlhaSTBJZTAxQnBVLWlJdTBxQWprWjZyVndnYm5yaW5MZk4xaW1HanUycThibGRJdEhRaVNXd2x5N1Z6VjFoLXBQV2pGdG1KbEVoaGxTN3p1cDc?oc=5",
+   "image": null,
+   "published": "2026-09-30T12:55:32.000Z",
+   "added": "2026-10-01T08:48:06.974Z",
+   "origTitle": "Parliamentary committee recommends boosting domestic fertiliser production",
+   "en": {
+    "title": "Bangladesh should make more fertiliser at home",
+    "summary": "A parliamentary committee says Bangladesh needs to boost its own fertiliser production instead of relying on imports. The move could save money and help the country become more self-sufficient. Better domestic production means farmers get supplies more reliably and cheaply. It's part of making the economy stronger."
+   },
+   "bn": {
+    "title": "দেশে সার উৎপাদন বাড়ানোর সুপারিশ সংসদ কমিটির",
+    "summary": "সংসদের একটি কমিটি দেশীয় সার উৎপাদন বাড়ানোর পরামর্শ দিয়েছে। বিদেশ থেকে আমদানির ওপর নির্ভরতা কমলে অর্থ সাশ্রয় হবে এবং দেশ আরও স্বনির্ভর হবে। কৃষকরা সময়মতো ও সাশ্রয়ী দামে সার পাবেন। এটা অর্থনীতি শক্তিশালী করার একটা অংশ।"
+   }
+  },
+  {
+   "id": "1oe7yle",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/ybd37tmj0e",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/772i540m/DIPU0159063849.JPG",
+   "published": "2026-10-01T08:34:32.000Z",
+   "added": "2026-10-01T08:47:53.593Z",
+   "origTitle": "খায়রুজ্জামান লিটনসহ ৩৪ আসামিকে আত্মসমর্পণ করতে সংবাদপত্রে বিজ্ঞপ্তি প্রকাশের নির্দেশ",
+   "en": {
+    "title": "Former Rajshahi mayor among 34 accused ordered to surrender",
+    "summary": "Former Rajshahi City Mayor A.H.M. Khairul Zaman Liton and 33 others have been ordered to surrender in a crimes-against-humanity case relating to July uprising violence in Rajshahi. Of 38 total accused, four including former MP Asaduzzaman Asad have been arrested. The remaining 34, including former police commissioner Biplob Bijoy Talukdar, remain at large and have been ordered to appear via newspaper notice."
+   },
+   "bn": {
+    "title": "সাবেক মেয়র লিটনসহ ৩৪ জনকে আত্মসমর্পণের নোটিস",
+    "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজশাহীতে সংঘটিত মানবতাবিরোধী অপরাধের মামলায় সাবেক মেয়র খায়রুজ্জামান লিটনসহ ৩৪ জনকে আত্মসমর্পণের নির্দেশ দেওয়া হয়েছে। ৩৮ জন আসামির মধ্যে চারজন গ্রেপ্তার আছেন, যাদের মধ্যে রয়েছেন সাবেক সংসদ সদস্য আসাদুজ্জামান আসাদ। বাকি ৩৪ জনকে সংবাদপত্রে বিজ্ঞপ্তির মাধ্যমে ট্রাইব্যুনালে হাজির হতে বলা হয়েছে।"
+   }
+  },
+  {
+   "id": "lwe7w4",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/politics/e94vsn3snn",
+   "image": "https://media.prothomalo.com/prothomalo-english/2025-11-15/xx1lxc0g/prothomalo-bangla2020-092be4a6df-b82a-4cc6-abf6-f9d73cb6a839frame1600X1067.avif",
+   "published": "2026-10-01T08:10:47.000Z",
+   "added": "2026-10-01T08:47:53.592Z",
+   "origTitle": "BNP steps up activities amid opposition programmes",
+   "en": {
+    "title": "BNP ramps up activities as opposition programs intensify",
+    "summary": "The ruling Bangladesh Nationalist Party is stepping up political and organizational activities amid programs by opposition parties led by Jamaat-e-Islami and ongoing Awami League activities. BNP leaders say recent fuel price hikes and economic pressures have created internal unease. Government officials told journalists that the PM's personal image is currently the government's main asset as its overall reputation declines."
+   },
+   "bn": {
+    "title": "বিরোধী দলের কর্মসূচির মধ্যে বিএনপি তৎপরতা বাড়াচ্ছে",
+    "summary": "সংসদীয় জামাত-ই-ইসলামি ও নিষিদ্ধ আওয়ামী লীগের কর্মসূচির মধ্যে বিএনপি তার রাজনৈতিক কার্যক্রম বৃদ্ধি করছে। জ্বালানি মূল্য বৃদ্ধি এবং অর্থনৈতিক চাপ পার্টির ভেতরে অস্থিরতা সৃষ্টি করেছে। সরকারি কর্মকর্তারা আনুষ্ঠানিকভাবে জানিয়েছেন যে প্রধানমন্ত্রীর ব্যক্তিগত চিত্র বর্তমানে সরকারের প্রধান সম্পদ।"
+   }
+  },
+  {
+   "id": "1u3w47l",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-Sudan-outside-image-thubmnail-1790832704.png?resize=1200%2C630",
+   "published": "2026-10-01T08:23:44.000Z",
+   "added": "2026-10-01T08:47:53.592Z",
+   "origTitle": "The battle for Kordofan: The corridor linking Sudan’s east and west",
+   "en": {
+    "title": "Kordofan region becomes Sudan's intensifying battleground",
+    "summary": "Fighting in Sudan's Kordofan region has intensified since late 2025, becoming a major battleground between the Sudanese Armed Forces and the Rapid Support Forces in their fourth-year conflict. The vast region, comprising three states, connects the army-held center with RSF-controlled Darfur. Since April 2023, one in five recorded attacks in Sudan occurred in Kordofan, increasingly involving drone strikes on towns and civilian infrastructure."
+   },
+   "bn": {
+    "title": "সুদানের কর্দোফান অঞ্চল ধ্বংসের দ্বারপ্রান্তে",
+    "summary": "সুদানের কর্দোফান অঞ্চলে ২০২৫ সালের শেষ থেকে লড়াই তীব্র হয়েছে। এই বিস্তৃত অঞ্চলটি সেনাবাহিনী ও দ্রুত সহায়তা বাহিনীর নিয়ন্ত্রিত এলাকার মধ্যে অবস্থিত। ড্রোন স্ট্রাইক ক্রমাগত বাড়ছে এবং বেসামরিক অবকাঠামো ক্ষতিগ্রস্ত হচ্ছে। এপ্রিল ২০২৩ থেকে সুদানের এক পঞ্চমাংশ আক্রমণ এখানে সংঘটিত হয়েছে।"
+   }
+  },
+  {
+   "id": "f0hrvl",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b6b/live/4ce5c930-bd5a-11f1-babe-4199b0e7ccea.jpg",
+   "published": "2026-10-01T07:01:16.000Z",
+   "added": "2026-10-01T08:47:53.592Z",
+   "origTitle": "US death row inmate survives execution attempt after two lethal injections",
+   "en": {
+    "title": "US execution attempt fails after two lethal injections",
+    "summary": "Tennessee death row inmate Christa Pike survived a botched execution attempt after two doses of pentobarbital failed to kill her. Her legal team filed an emergency motion to halt the execution, reporting that Pike remained conscious with a heartbeat and audible breathing. She was hospitalized for life-saving measures. Pike was sentenced to death in 1996 for murdering 19-year-old Colleen Slemmer in 1994."
+   },
+   "bn": {
+    "title": "দুটি প্রাণঘাতী ইনজেকশন সত্ত্বেও আমেরিকান বন্দী বাঁচে",
+    "summary": "টেনেসি ডেথ রো থেকে ৫০ বছর বয়সী ক্রিস্টা পাইক দুটি পেন্টোবারবিটাল ডোজ দেওয়ার পরেও বেঁচে থাকলেন। তার আইনজীবীরা নজিয়ে তোলেন যে তিনি সচেতন ছিলেন এবং হৃদস্পন্দন ছিল। জরুরি আদেশে কার্যকর করা বাতিল করা হয় এবং তাকে হাসপাতালে নিয়ে যাওয়া হয়। তিনি ১৯৯৬ সালে এক ঘটনায় মৃত্যুদন্ড পেয়েছিলেন।"
+   }
+  },
+  {
+   "id": "6s9und",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.co.uk/bengali/live/crgjqj8qz01vt?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0302/live/85c2c300-bd6b-11f1-9513-05ca1cec8073.jpg",
+   "published": "2026-10-01T08:47:53.592Z",
+   "added": "2026-10-01T08:47:53.592Z",
+   "origTitle": "সংরক্ষিত এমপি ফেরদৌসী আহমেদ মিষ্টিকে পদত্যাগের নির্দেশ প্রধানমন্ত্রীর",
+   "en": {
+    "title": "PM orders BNP MP to resign over clinic vandalism incident",
+    "summary": "Prime Minister Tarique Rahman ordered BNP reserved women's seat MP Ferdausi Ahmed Mistee to resign following violence and vandalism at a healthcare center in Mirpur, Dhaka. An investigation is underway into the incident. A police officer was found negligent and immediately withdrawn, with departmental action initiated against him. The incident has raised questions about political involvement."
+   },
+   "bn": {
+    "title": "ক্লিনিক ভাঙচুরে সংশ্লিষ্ট বিএনপি এমপিকে পদত্যাগের নির্দেশ প্রধানমন্ত্রীর",
+    "summary": "সংরক্ষিত নারী আসনের বিএনপি সংসদ সদস্য ফেরদৌসী আহমেদ মিষ্টিকে পদত্যাগের নির্দেশ দিয়েছেন প্রধানমন্ত্রী তারেক রহমান। মিরপুরে রাড্ডা এমসিএইচ-এফপি সেন্টারে হামলা ও ভাঙচুরের ঘটনায় এই নির্দেশ এসেছে। একজন পুলিশ কর্মকর্তার দায়িত্বে অবহেলা পাওয়া গেছে এবং তৎক্ষণাৎ তাকে প্রত্যাহার করা হয়েছে। তদন্ত চলছে এবং গ্রেপ্তারকৃতদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়া হচ্ছে।"
+   }
+  },
+  {
+   "id": "1rbwvl6",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/guardian-detained-after-allegedly-slamming-sixth-grader-sons-classmate-inside-classroom",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/untitled_design_25.jpg",
+   "published": "2026-10-01T08:35:00.000Z",
+   "added": "2026-10-01T08:47:53.592Z",
+   "origTitle": "Guardian detained after allegedly slamming sixth-grader son's classmate inside classroom",
+   "en": {
+    "title": "Father detained after assaulting classmate in school classroom",
+    "summary": "Police detained a man after he allegedly slammed his son's classmate to the floor inside a sixth-grade classroom at Rajdia Abhoy Pilot School in Munshiganj on October 1. The father entered the classroom believing his son had been assaulted by the classmate. A video of the alleged assault went viral on social media. Teachers intervened and reported the incident to police, who arrested the father."
+   },
+   "bn": {
+    "title": "ছাত্রের বাবা ক্লাসরুমে সহপাঠীকে আক্রমণ করে গ্রেপ্তার",
+    "summary": "মুন্সিগঞ্জের রাজডিয়া অভয় পাইলট স্কুলে একজন বাবাকে গ্রেপ্তার করা হয়েছে তার ছেলের সহপাঠীকে ক্লাসরুমে তিনবার মেঝেতে ছুড়ে ফেলার দায়ে। ঘটনাটি ১ অক্টোবর সকাল দশটার দিকে ঘটেছিল। তার ছেলেকে নিয়ে বিরোধ হয়েছে বলে বাবা স্কুলে গিয়েছিলেন। ভিডিওটি সোশ্যাল মিডিয়ায় ভাইরাল হয়েছে এবং শিক্ষকরা পুলিশকে খবর দিয়েছেন।"
+   }
+  },
   {
    "id": "1j6rjkp",
    "section": "news",
