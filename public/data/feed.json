@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-10-01T16:21:04.842Z",
+ "updatedAt": "2026-10-01T21:47:10.731Z",
  "items": [
+  {
+   "id": "pfb5xs",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/court/hc-issues-rule-remove-illegal-brick-kilns-two-upazilas-lakshmipur-1560181",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/15/brick_kilns.jpg",
+   "published": "2026-10-01T20:05:00.000Z",
+   "added": "2026-10-01T21:47:10.730Z",
+   "origTitle": "HC issues rule to remove illegal brick kilns in two upazilas of Lakshmipur",
+   "en": {
+    "title": "High Court orders removal of illegal brick kilns in Lakshmipur",
+    "summary": "Bangladesh's High Court has ordered authorities to explain why illegal brick kilns in Lakshmipur's Ramgati and Kamalnagar upazilas should not be removed. The rule was issued by a bench of Justice Razik-Al-Jalil and Justice Debasish Roy Chowdhury after hearing a writ petition by Ashraful Alam Hannan. Respondents have four weeks to reply."
+   },
+   "bn": {
+    "title": "লক্ষ্মীপুরে অবৈধ ইট ভাটা সরানোর নির্দেশ",
+    "summary": "হাইকোর্ট লক্ষ্মীপুরের রামগতি এবং কমলনগর উপজেলার অবৈধ ইট ভাটা সরানোর আদেশ দিয়েছে। জাস্টিস রাজিক-আল-জলিল এবং জাস্টিস দেবাশীষ রায় চৌধুরীর বেঞ্চ এই রুল জারি করেছে। আশ্রাফুল আলম হান্নান নামের একজন যাত্রী এই আবেদন দায়ের করেছিলেন।"
+   }
+  },
+  {
+   "id": "3jltoj",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/sport/football/971858/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A7%9F-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0",
+   "image": null,
+   "published": "2026-10-01T21:16:24.000Z",
+   "added": "2026-10-01T21:47:10.730Z",
+   "origTitle": "সার্বিয়াকে হারিয়ে স্বস্তির জয় জার্মানির",
+   "en": {
+    "title": "Germany beats Serbia, finally gets first Klopp win",
+    "summary": "Germany beat Serbia 2-0 in the UEFA Nations League on Thursday at Munich's Allianz Arena under new coach Jürgen Klopp. It was their first win in three matches. Tom Bissuma scored after Florian Wirtz's shot hit the post. The hosts controlled the match from the start."
+   },
+   "bn": {
+    "title": "সার্বিয়াকে হারিয়ে জার্মানির প্রথম জয়",
+    "summary": "জার্মানি ইউয়েফা নেশন্স লিগে সার্বিয়াকে ২-০ গোলে হারিয়েছে। এটি ক্লপের তত্ত্বাবধানে তৃতীয় ম্যাচে প্রথম জয়। বৃহস্পতিবার মিউনিখের আলিয়াঞ্জ অ্যারেনায় ম্যাচ হয়েছিল। ফ্লোরিয়ান ভির্টজের শট পোস্টে লেগে ফিরে এলে টম বিসফ গোল দেন।"
+   }
+  },
   {
    "id": "1hu7c8w",
    "section": "bhabna",
@@ -2397,270 +2441,6 @@
    "bn": {
     "title": "সম্মতি ছাড়াই পদে নিয়োগ দিয়ে এনসিপি অফিসিয়াল পদত্যাগ",
     "summary": "জাতীয় নাগরিক পার্টির খুলনা জেলা কমিটির সিনিয়র যুগ্ম আহ্বায়ক মোল্যা শওকত হোসেন বাবুল তার পদ থেকে পদত্যাগ করেছেন। সোমবার (২৮ সেপ্টেম্বর) প্রেস বিজ্ঞপ্তিতে তিনি জানান, তার মতামত না নিয়েই তাকে এই পদে নিয়োগ দেওয়া হয়েছে। বাবুল এই সিদ্ধান্তকে অনাকাঙ্ক্ষিত ও অনভিপ্রেত বলে অভিহিত করেছেন।"
-   }
-  },
-  {
-   "id": "nw23mb",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/taylor-swift-surpasses-geppetto-the-incredible-waltzing-horse-as-most-awarded-vmas-artist/",
-   "image": "https://theonion.com/wp-content/uploads/2026/09/Taylor_Swift_NIB_G_GR.jpg",
-   "published": "2026-09-28T19:52:57.000Z",
-   "added": "2026-09-28T20:36:10.907Z",
-   "origTitle": "Taylor Swift Surpasses Geppetto The Incredible Waltzing Horse As Most-Awarded VMAs Artist",
-   "en": {
-    "title": "Taylor Swift Finally Beats Geppetto's VMA Record (Satire)",
-    "summary": "In this satire piece, Taylor Swift surpassed Geppetto the Incredible Waltzing Horse as the most-awarded VMA artist. The 15-year-old stallion's 12 trophies from 2021 had seemed untouchable, but he was sidelined by equine colic and label disputes. A tragic note: he was humanely euthanized after tripping on the red carpet last year."
-   },
-   "bn": {
-    "title": "টেইলর সুইফট অবশেষে জেপেটোর ভিএমএ রেকর্ড ভাঙলেন (ব্যঙ্গ)",
-    "summary": "এই ব্যঙ্গাত্মক খবরে টেইলর সুইফট অবিশ্বাস্য নৃত্যশীল ঘোড়া জেপেটোকে সবচেয়ে পুরস্কার প্রাপ্ত ভিএমএ শিল্পী হিসেবে ছাড়িয়ে গেছেন। ১৫ বছর বয়সী জেপেটোর ২০২১ থেকে ১২টি ট্রফি ছাড়িয়ে যাওয়া অসম্ভব মনে হয়েছিল, কিন্তু সে ঘোড়ার কলিক এবং লেবেল বিরোধে বাধাগ্রস্ত হয়েছিল। দুর্ভাগ্যবশত গত বছর রেড কার্পেটে পড়ে তার পা ভেঙে যায় এবং তাকে মানবিকভাবে euthanized করা হয়েছিল।"
-   }
-  },
-  {
-   "id": "lq0j9f",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/gjaydhcoc0",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-08-27/gszuvrl3/NEPAL-FLOODS.JPG",
-   "published": "2026-09-28T16:16:44.000Z",
-   "added": "2026-09-28T20:36:10.907Z",
-   "origTitle": "Bangladesh issues travel advisory for tourists visiting Nepal",
-   "en": {
-    "title": "Bangladesh Warns Tourists to Avoid Nepal Amid Floods, Landslides",
-    "summary": "The Bangladesh Embassy in Kathmandu has warned Bangladeshi tourists and trekkers to be careful in Nepal's flood and landslide-hit areas, and to postpone trips if possible. Heavy rainfall and snowfall have blocked roads in tourist zones like Manang, Pisang and Chame, making rescue operations difficult. Nepal has suspended trekking in several areas including Tilicho Lake and Thorong La Pass. The embassy advised travelers to check road conditions, avoid riverbanks, and stay in safe locations."
-   },
-   "bn": {
-    "title": "বাংলাদেশ পর্যটকদের বন্যা-দুর্গম নেপাল এড়াতে সতর্ক করেছে",
-    "summary": "কাঠমান্ডুতে বাংলাদেশ দূতাবাস বাংলাদেশি পর্যটক এবং ট্রেকারদের নেপালের বন্যা ও ভূমিধসপ্রবণ এলাকায় সতর্কতা অবলম্বন করতে বলেছে। ভারী বৃষ্টি এবং তুষার মানাং, পিসাং ও চামের মতো পর্যটন এলাকায় রাস্তা বন্ধ করেছে, যা উদ্ধার কাজ কঠিন করে তুলেছে। নেপাল তিলিচো লেক এবং থোরং লা পাসের মতো এলাকায় ট্রেকিং স্থগিত করেছে। দূতাবাস ভ্রমণকারীদের রাস্তার অবস্থা যাচাই করতে, নদীর পাড় এড়াতে এবং নিরাপদ স্থানে থাকতে পরামর্শ দিয়েছে।"
-   }
-  },
-  {
-   "id": "16bajs1",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/middle-east/8f6emj0p5t",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-07-01/uamvl2hi/Iran-and-US-flags.avif",
-   "published": "2026-09-28T20:15:15.000Z",
-   "added": "2026-09-28T20:36:10.907Z",
-   "origTitle": "‘ভয়ংকর’ যুদ্ধের জন্য প্রস্তুত ইরান",
-   "en": {
-    "title": "Iran Says It's Ready for 'Destructive' War If Attacked Again",
-    "summary": "Iran says it wants peace through talks with the US, but is prepared for a devastating conflict if attacked. Foreign Minister Abbas Araghchi told NBC News on Sunday that Iran is ready for any challenge, even a war that could destroy everything. This comes after the US rejected Iran's peace proposal at the UN General Assembly, though President Trump has since suggested talks could restart. Iran has denied involvement in a bomb scare near a US military base in the UK."
-   },
-   "bn": {
-    "title": "ইরান বলছে আবার হামলা হলে 'ভয়ংকর' যুদ্ধের জন্য প্রস্তুত",
-    "summary": "ইরান যুক্তরাষ্ট্রের সাথে আলোচনার মাধ্যমে শান্তি চায়, কিন্তু আবার হামলা হলে ধ্বংসাত্মক যুদ্ধের জন্য প্রস্তুত। বিদেশমন্ত্রী আব্বাস আরাগচি রবিবার এনবিসি নিউজকে বলেছেন ইরান যেকোনো চ্যালেঞ্জ মোকাবিলা করতে প্রস্তুত, এমনকি সবকিছু ধ্বংস হওয়ার মতো যুদ্ধেও। এটা আসে জাতিসংঘের সাধারণ অধিবেশনে আমেরিকার ইরানের শান্তি প্রস্তাব প্রত্যাখ্যানের পর, যদিও ট্রাম্প সম্প্রতি আলোচনা পুনরায় শুরু হতে পারে বলেছেন।"
-   }
-  },
-  {
-   "id": "16i7fkw",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/09/28/Guinness-World-Records-Lego-World-Map-duo/5361790618362/",
-   "image": "https://cdnph.upi.com/ph/st/th/5361790618362/2026/i/17906185494898/v1.5/California-duo-set-Lego-World-Map-record-in-under-5-hours.jpg",
-   "published": "2026-09-28T18:03:16.000Z",
-   "added": "2026-09-28T20:36:10.907Z",
-   "origTitle": "California duo set Lego World Map record in under 5 hours",
-   "en": {
-    "title": "California Friends Break Lego World Map Speed Record",
-    "summary": "Two California friends set a Guinness World Record by assembling all 11,695 pieces of the Lego World Map in just under 5 hours—specifically 4 hours, 59 minutes and 51 seconds. Pretty solid afternoon."
-   },
-   "bn": {
-    "title": "ক্যালিফোর্নিয়ার বন্ধুরা লেগো ওয়ার্ল্ড ম্যাপ রেকর্ড ভাঙলেন",
-    "summary": "দুই ক্যালিফোর্নিয়ান বন্ধু লেগো ওয়ার্ল্ড ম্যাপের সব ১১,৬৯৫ পিস মাত্র ৫ ঘণ্টার নিচে জোড়া দিয়ে গিনেস বিশ্ব রেকর্ড তৈরি করেছেন। নির্ভুলভাবে ৪ ঘণ্টা ৫৯ মিনিট ৫১ সেকেন্ড লেগেছে।"
-   }
-  },
-  {
-   "id": "wk0sej",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Rest of World",
-   "srcLang": "en",
-   "url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "image": "https://restofworld.org/wp-content/uploads/2026/09/SK-Hynix-Samsung-2-768x432.jpg",
-   "published": "2026-09-28T10:00:00.000Z",
-   "added": "2026-09-28T20:36:10.907Z",
-   "origTitle": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
-   "en": {
-    "title": "South Korea's Chip Giants Race to Power America's AI Boom",
-    "summary": "SK Hynix and Samsung control 83% of the global memory chip market and are fighting for dominance in high-bandwidth memory—the crucial component AI processors need to work fast. Over the past year, Samsung more than doubled its market share, stealing business from SK Hynix. For US AI firms like Nvidia and OpenAI, this rivalry matters because whoever controls these chips controls how quickly and cheaply they build AI infrastructure."
-   },
-   "bn": {
-    "title": "দক্ষিণ কোরিয়ার চিপ দৈত্যরা আমেরিকার এআই বুমকে শক্তি দিতে প্রতিদ্বন্দ্বিতা করছে",
-    "summary": "এসকে হাইনিক্স এবং স্যামসাং বৈশ্বিক মেমোরি চিপ বাজারের ৮৩% নিয়ন্ত্রণ করে এবং উচ্চ-ব্যান্ডউইথ মেমোরিতে আধিপত্য নিয়ে লড়াই করছে। এই চিপ এআই প্রসেসরকে দ্রুত কাজ করতে দেয়। গত বছর স্যামসাং বাজার দ্বিগুণেরও বেশি করে এসকে হাইনিক্সের ব্যবসা নিয়ে নিয়েছে। নিভিডিয়া এবং ওপেনএআইয়ের মতো আমেরিকান ফার্মগুলোর জন্য এটা গুরুত্বপূর্ণ কারণ চিপ নিয়ন্ত্রণকারী তাদের এআই অবকাঠামো কত দ্রুত এবং সস্তায় তৈরি হবে তা নির্ধারণ করে।"
-   }
-  },
-  {
-   "id": "aqract",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities",
-   "image": "https://images.aeonmedia.co/images/a094cb1f-18b9-4c12-9b8e-db903de73d0c/affect-theory-landscape-1.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-09-28T10:01:00.000Z",
-   "added": "2026-09-28T20:36:10.907Z",
-   "origTitle": "Affect theory",
-   "en": {
-    "title": "How Your Body, Not Just Your Brain, Makes You You",
-    "summary": "Since the 1990s, philosophers have challenged the idea that language alone shapes who we are. Instead, they looked at how our bodies, emotions and physical sensations actually build our sense of self. Thinkers like Brian Massumi and Eve Sedgwick explored how feeling and thinking are tangled together. It's a dense topic, but it asks: what does building yourself cost you?"
-   },
-   "bn": {
-    "title": "আপনার শরীর কীভাবে আপনাকে তৈরি করে—শুধু মন নয়",
-    "summary": "১৯৯০এর পর থেকে দর্শকরা চ্যালেঞ্জ করছেন যে শুধু ভাষা দিয়ে আমরা তৈরি হই। আসলে আমাদের শরীর, অনুভূতি এবং শারীরিক অভিজ্ঞতা আমাদের পরিচয় গড়ে তোলে। ব্রায়ান ম্যাসুমি এবং ইভ সেডগুইকের মতো চিন্তকরা দেখালেন অনুভূতি এবং চিন্তা আসলে জড়িত। এটা বোঝা মানে নিজেকে তৈরিতে আসল খরচটা বুঝা।"
-   }
-  },
-  {
-   "id": "git9fq",
-   "section": "news",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/education/sylhet-engineering-college-teachers-freed-after-33hrs-amid-student-protest",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/sylhet_engineering_clg_students_protest.jpg",
-   "published": "2026-09-28T19:30:00.000Z",
-   "added": "2026-09-28T20:35:38.280Z",
-   "origTitle": "Sylhet Engineering College teachers freed after 33hrs amid student protest",
-   "en": {
-    "title": "Sylhet Engineering College teachers freed after 33-hour student lockdown",
-    "summary": "Teachers and staff at Sylhet Engineering College were released Monday night after 33 hours confined by students protesting Sunday. The students demand the college separate from the Directorate of Technical Education and affiliate with Shahjalal University. Classes remain suspended as students continue demonstrations until the Education Ministry formally approves the separation."
-   },
-   "bn": {
-    "title": "শিক্ষার্থী অবরোধে ৩৩ ঘণ্টা পর শিলচর ইঞ্জিনিয়ারিং কলেজের শিক্ষক মুক্ত",
-    "summary": "শিলচর ইঞ্জিনিয়ারিং কলেজের শিক্ষার্থীরা প্রযুক্তিগত শিক্ষা অধিদপ্তর থেকে বিচ্ছিন্ন হয়ে শাহজালাল বিজ্ঞান প্রযুক্তি বিশ্ববিদ্যালয়ের অধিভুক্ত হওয়ার দাবিতে আন্দোলন করছে। সোমবার রাতে শিক্ষক ও কর্মচারীরা ৩৩ ঘণ্টার অবরোধের পর মুক্ত হন। শিক্ষার্থীরা শিক্ষা মন্ত্রণালয়ের নোটিফিকেশন না হওয়া পর্যন্ত আন্দোলন অব্যাহত রাখবে বলে জানিয়েছে।"
-   }
-  },
-  {
-   "id": "tawqn1",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/c34gd105l1xlo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d024/live/75a5e990-bb3e-11f1-a9b8-670e5d9d8eee.jpg",
-   "published": "2026-09-28T13:20:43.000Z",
-   "added": "2026-09-28T20:35:38.280Z",
-   "origTitle": "'খুঁটির সাথে বাবা বাঁধা, চা-রুটি খাওয়াচ্ছে শিশু কন্যা' ভিডিও ভাইরাল, কী ঘটেছিল সেখানে",
-   "en": {
-    "title": "Viral video: daughter feeds bound father accused of theft in Barishal",
-    "summary": "A video from Uzipur, Barishal, showing a young girl feeding her father tea-soaked bread while he was tied to a pole spread widely on social media. The man was detained by locals on theft charges, though he denies it, claiming the incident stems from a land dispute. After media coverage, authorities sent him to rehabilitation and began support for his daughter's education."
-   },
-   "bn": {
-    "title": "বরিশালে বাঁধা বাবাকে খাবার খাওয়ানো শিশুর ভাইরাল ভিডিও",
-    "summary": "উজিরপুর, বরিশালে এক ব্যক্তি চুরির অভিযোগে স্থানীয়দের কাছে আটক হয় এবং একটি খুঁটির সাথে বাঁধা হয়। তার ছোট কন্যা তাকে চায়ে ভেজানো রুটি খাইয়ে দেওয়ার ভিডিও ভাইরাল হয়। অভিযুক্ত চুরির অভিযোগ অস্বীকার করে বলে এটি জমি বিরোধের ফলাফল। প্রশাসন তাকে পুনর্বাসন কেন্দ্রে পাঠায় এবং শিশুটির শিক্ষা সহায়তা শুরু করে।"
-   }
-  },
-  {
-   "id": "ac7omv",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ababecd-1790623437.jpg?resize=1920%2C1440",
-   "published": "2026-09-28T20:11:30.000Z",
-   "added": "2026-09-28T20:35:38.280Z",
-   "origTitle": "Apple ordered to pay $5.7bn in patent infringement case",
-   "en": {
-    "title": "Apple ordered to pay $5.7bn for haptic feedback patent infringement",
-    "summary": "A California jury ruled Apple infringed two patents owned by San Diego-based Taction Technology that powers iPhone haptic vibrations. The case began in 2021, with a federal judge initially dismissing it before an appeals court revived it last year. Apple denied wilful infringement, saying its Taptic Engine is fundamentally different from Taction's technology."
-   },
-   "bn": {
-    "title": "হ্যাপটিক প্যাটেন্ট লঙ্ঘনে অ্যাপলকে ৫.৭ বিলিয়ন ডলার দিতে হবে",
-    "summary": "ক্যালিফোর্নিয়ার একটি জুরি অ্যাপলকে আইফোনের হ্যাপটিক ভাইব্রেশন তৈরিতে ট্যাকশন টেকনোলজির দুটি পেটেন্ট লঙ্ঘন করার জন্য দোষী সাব্যস্ত করেছে। মামলাটি ২০২১ সালে শুরু হয়েছিল এবং গত বছর আবেদন আদালত এটি পুনরুদ্ধার করে। অ্যাপল জানায় তার ট্যাপটিক ইঞ্জিন প্রযুক্তিগতভাবে আলাদা।"
-   }
-  },
-  {
-   "id": "1ecgju6",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-   "image": "https://i.guim.co.uk/img/media/61403a8dd74d017285bb8150e824df568d851630/836_0_6055_4846/master/6055.jpg?width=140&quality=85&auto=format&fit=max&s=41d903cf360614a19b7345908d84be0a",
-   "published": "2026-09-28T15:54:25.000Z",
-   "added": "2026-09-28T20:35:38.280Z",
-   "origTitle": "DRC politician beaten to death after radio appearance about Ebola outbreak",
-   "en": {
-    "title": "DRC politician beaten to death after radio Ebola awareness campaign",
-    "summary": "Marie-Celestin Karondwa, acting president of the UDPS party's federal executive committee in Butembo, DRC, was beaten to death on Sunday after appearing on radio to promote Ebola prevention measures. The attackers also stole his belongings and set his house on fire. The killing follows a series of attacks on healthcare workers fuelled by misinformation about the disease."
-   },
-   "bn": {
-    "title": "ইবোলা সচেতনতা প্রচারে রেডিও উপস্থিতির পর ডিআরসি রাজনীতিবিদ নিহত",
-    "summary": "মারি-সেলেস্টিন কারোনদওয়া, ডিআরসির বুটেমবোতে ইউডিপিএস পার্টির সিনিয়র নেতা, রবিবার ইবোলা প্রতিরোধমূলক ব্যবস্থা প্রচারের জন্য রেডিও অনুষ্ঠানে অংশ নেওয়ার পর নিহত হন। আক্রমণকারীরা তার সামগ্রী চুরি করে তার বাড়িতে আগুন জ্বালায়। রোগ সম্পর্কে ভুল তথ্যের কারণে স্বাস্থ্যসেবা কর্মীদের উপর আক্রমণ বৃদ্ধি পাচ্ছে।"
-   }
-  },
-  {
-   "id": "1lzoam2",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03e/live/dca633d0-bab6-11f1-aa85-8f10bc212c53.jpg",
-   "published": "2026-09-27T21:16:31.000Z",
-   "added": "2026-09-28T20:35:38.280Z",
-   "origTitle": "Inside Yemen's front-line city as Houthis battle for control",
-   "en": {
-    "title": "Inside Yemen's battle as Houthis seize key shipping chokepoint",
-    "summary": "Saudi-backed government forces are fighting Houthis near Taiz in south-western Yemen after the militant group swept down the Red Sea coast, taking control of a major shipping route. Residents near the front line have fled or sent families to displacement camps due to shelling and gunfire. Some who stayed behind risk starvation if they abandon their livestock for safety."
-   },
-   "bn": {
-    "title": "তাইজের যুদ্ধে হুথিরা গুরুত্বপূর্ণ শিপিং রুট নিয়ন্ত্রণ করছে",
-    "summary": "সৌদি সমর্থিত ইয়েমেনী সরকারি বাহিনী দক্ষিণপশ্চিম তাইজে হুথি মিলিশিয়ার বিরুদ্ধে যুদ্ধ করছে। হুথিরা রেড সি উপকূলে একটি প্রধান শিপিং পথ নিয়ন্ত্রণ করে নিয়েছে। সীমান্তবর্তী এলাকার বাসিন্দারা গোলাগুলির কারণে বাস্তুচ্যুত হয়েছে বা তাদের পরিবারদের শিবিরে পাঠিয়েছে।"
-   }
-  },
-  {
-   "id": "1043pqh",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/971205/%E2%80%98%E0%A6%85%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A7%80%E2%80%99-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%87%E0%A6%89%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B2%E0%A7%87%E0%A6%B0",
-   "image": null,
-   "published": "2026-09-28T20:33:24.000Z",
-   "added": "2026-09-28T20:35:38.280Z",
-   "origTitle": "‘অসমাপ্ত আত্মজীবনী’ বিক্রি বন্ধের চাপ, ইউপিএলের দুই কর্মীকে আটকের পর মুক্তি",
-   "en": {
-    "title": "UPL staff detained after pressure to stop selling Mujib memoir",
-    "summary": "The University Press Limited's sales centre in Bangla Bazar was locked after pressure to stop selling Bangabandhu's 'Unfinished Memoirs'. Two workers, Aminul Islam and Humayun Kabir, were detained but later released by police after intervention. The incident happened on Monday, 28 September."
-   },
-   "bn": {
-    "title": "বঙ্গবন্ধুর বই বন্ধের চাপে ইউপিএল কর্মী আটক ও মুক্তি",
-    "summary": "বঙ্গবন্ধু শেখ মুজিবুর রহমানের 'অসমাপ্ত আত্মজীবনী' বই বিক্রি বন্ধের চাপে ইউনিভার্সিটি প্রেস লিমিটেডের বাংলাবাজার বিক্রয়কেন্দ্রে তালা দেওয়া হয়। দুই কর্মী আমিনুল ইসলাম ও হুমায়ূন কবীরকে আটক করা হয় কিন্তু পুলিশের হস্তক্ষেপে তাদের ছাড়া দেওয়া হয়। ঘটনাটি সোমবার ২৮ সেপ্টেম্বর বিকালে ঘটে।"
    }
   }
  ]

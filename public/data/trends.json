@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-10-01T16:21:17.364Z",
+ "updatedAt": "2026-10-01T21:47:23.616Z",
  "burning": [
   {
-   "id": "1rio8od",
+   "id": "hajxlg",
    "heat": 5,
    "why": {
-    "en": "Flight diverted after cockpit assault — covered by multiple outlets, major international story.",
-    "bn": "কক্পিটে হামলার পর ফ্লাইট ডাইভার্ট — একাধিক আউটলেটে কভার, বড় আন্তর্জাতিক খবর।"
+    "en": "Flydubai pilot stabbing went viral globally; multiple outlets covering the same incident with security and political angles.",
+    "bn": "ফ্লাইডুবাই পাইলট স্ট্যাবিং ভাইরাল হয়েছে; একাধিক মিডিয়া একই ঘটনা কভার করছে নিরাপত্তা এবং রাজনৈতিক দৃষ্টিকোণ থেকে।"
    },
    "rank": 1
   },
   {
-   "id": "gtcc68",
+   "id": "3jltoj",
    "heat": 4,
    "why": {
-    "en": "Bangladesh thrashed 9-2 in ASEAN Cup semi — major sports story, heavy coverage.",
-    "bn": "এশিয়ান কাপ সেমিফাইনালে বাংলাদেশ ৯-২ গোলে হারল — বড় ক্রীড়া খবর।"
+    "en": "Germany's first Klopp win trending hard on Google; football fans heavily engaged with this historic moment.",
+    "bn": "ক্লপের প্রথম জয় গুগলে ট্রেন্ডিং; ফুটবল ফ্যানরা এই ঐতিহাসিক মুহূর্ত নিয়ে ব্যস্ত।"
    },
    "rank": 2
   },
   {
-   "id": "1rtakzi",
-   "heat": 4,
+   "id": "gtcc68",
+   "heat": 3,
    "why": {
-    "en": "Google launches Gemini 4 Argon — 5000+ searches in Bangladesh, major tech news.",
-    "bn": "গুগল জেমিনি ৪ আর্গন লঞ্চ করল — বাংলাদেশে ৫০০০+ সার্চ, বড় টেক খবর।"
+    "en": "Bangladesh's heavy ASEAN Cup loss to Indonesia; notable sports result for local audience.",
+    "bn": "বাংলাদেশের ASEAN কাপে ইন্দোনেশিয়ার কাছে বড় হার; স্থানীয় দর্শকদের জন্য গুরুত্বপূর্ণ।"
    },
    "rank": 3
   },
@@ -32,68 +32,68 @@
    "id": "szi02x",
    "heat": 3,
    "why": {
-    "en": "Settlement office officials caught on hidden camera taking bribes — corruption story.",
-    "bn": "নিষ্পত্তি অফিসের কর্মকর্তারা লুকানো ক্যামেরায় ধরা পড়ল রিশ্বত নিতে।"
+    "en": "Corruption caught on hidden camera; governance and accountability story resonates locally.",
+    "bn": "লুকানো ক্যামেরায় দুর্নীতি ধরা পড়া; স্থানীয় দর্শকদের কাছে জবাবদিহিতা গুরুত্বপূর্ণ।"
    },
    "rank": 4
   },
   {
-   "id": "qvjkkw",
-   "heat": 3,
+   "id": "1enp9n4",
+   "heat": 2,
    "why": {
-    "en": "MP resigns after assault probe — political accountability story.",
-    "bn": "সাংসদ হামলা অনুসন্ধানের পর পদত্যাগ করেন।"
+    "en": "Bangladesh cricket live play-by-play; steady sports interest but lower trending volume.",
+    "bn": "বাংলাদেশ ক্রিকেট লাইভ খেলা; স্থির খেলার আগ্রহ কিন্তু কম ট্রেন্ড।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1rtakzi",
-   "tag": "#AI",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Google's new AI model drops",
-    "text": "Google launched Gemini 4 Argon and it's hitting 5000+ searches in Bangladesh. Everyone wants to know what the new AI can do."
-   },
-   "bn": {
-    "title": "গুগলের নতুন এআই মডেল আসল",
-    "text": "গুগল জেমিনি ৪ আর্গন লঞ্চ করেছে এবং বাংলাদেশে ৫০০০+ সার্চ হচ্ছে। সবাই জানতে চায় নতুন এআই কী করতে পারে।"
-   }
-  },
-  {
-   "id": "1rio8od",
-   "tag": "#FlightDrama",
+   "id": "hajxlg",
+   "tag": "#FlydubaiPilot",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Cockpit fight diverts Israel plane",
-    "text": "A co-pilot stabbed the captain on a Flydubai flight headed to Tel Aviv. The plane got diverted to Saudi Arabia mid-air — it's the talk of the internet."
+    "title": "Israeli flight stabbing shocks world",
+    "text": "A co-pilot attacked the captain on a Flydubai flight, forcing an emergency diversion to Saudi Arabia. The Indian pilot became an unexpected hero."
    },
    "bn": {
-    "title": "সহ-পাইলট ক্যাপ্টেনকে ছুরিকাঘাত করেন",
-    "text": "ফ্লাইডুবাই ফ্লাইটে সহ-পাইলট ক্যাপ্টেনকে ছুরিকাঘাত করেছেন। প্লেন সৌদি আরবে ডাইভার্ট হয়েছে — সবার মুখে খবর।"
+    "title": "ফ্লাইডুবাই ফ্লাইটে স্ট্যাবিং",
+    "text": "একজন সহ-পাইলট ক্যাপ্টেনকে আক্রমণ করেন এবং বিমানটি সৌদি আরবে জরুরি অবতরণ করে। ভারতীয় পাইলট হিরো হয়ে উঠেন।"
    }
   },
   {
-   "id": "1enp9n4",
-   "tag": "#ক্রিকেট",
+   "id": "3jltoj",
+   "tag": "#KloppWin",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Klopp gets first Germany win",
+    "text": "New coach Jürgen Klopp notched his first victory with Germany, beating Serbia 2-0 in a Nations League clash that got fans buzzing."
+   },
+   "bn": {
+    "title": "ক্লপের প্রথম জয় জার্মানির সাথে",
+    "text": "নতুন কোচ ক্লপ জার্মানির সাথে তার প্রথম জয় পেয়েছেন, সার্বিয়াকে ২-০ গোলে হারিয়ে।"
+   }
+  },
+  {
+   "id": "gtcc68",
+   "tag": "#ASEANCup",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Bangladesh loses early wickets",
-    "text": "Bangladesh has lost three wickets including Parvez in their match. Tough start for the team."
+    "title": "Bangladesh crashes out of ASEAN Cup",
+    "text": "Indonesia thrashed Bangladesh 9-2 in the semi-final, ending the team's hopes for a strong showing in the tournament."
    },
    "bn": {
-    "title": "বাংলাদেশ তিন উইকেট হারিয়েছে",
-    "text": "বাংলাদেশ তিনটি উইকেট হারিয়েছে যার মধ্যে পার্বেজও রয়েছেন। দলের জন্য শুরু কঠিন।"
+    "title": "আসিয়ান কাপ থেকে বাংলাদেশ বাদ",
+    "text": "ইন্দোনেশিয়া সেমিফাইনালে বাংলাদেশকে ৯-২ গোলে হারিয়েছে।"
    }
   }
  ],

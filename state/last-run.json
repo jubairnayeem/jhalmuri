@@ -1,7 +1,7 @@
 {
- "at": "2026-10-01T16:21:04.842Z",
- "collected": 2123,
+ "at": "2026-10-01T21:47:10.730Z",
+ "collected": 2060,
  "picked": 14,
- "batchesOk": 2,
- "error": null
+ "batchesOk": 1,
+ "error": "Expected ',' or '}' after property value in JSON at position 469 (line 9 column 294)"
 }
