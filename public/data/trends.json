@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-02T01:37:35.751Z",
+ "updatedAt": "2026-10-02T08:25:44.484Z",
  "burning": [
   {
    "id": "gtcc68",
    "heat": 5,
    "why": {
-    "en": "Indonesia thrashed Bangladesh 9-2 in ASEAN Cup semi-final—huge sports shock.",
-    "bn": "ASEAN কাপ সেমিফাইনালে ইন্দোনেশিয়া বাংলাদেশকে ৯-২ গোলে হারিয়েছে।"
+    "en": "Bangladesh lost 9-2 to Indonesia in ASEAN Cup semi-final, major sports upset.",
+    "bn": "বাংলাদেশ এশিয়ান কাপ সেমিফাইনালে ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে।"
    },
    "rank": 1
   },
   {
-   "id": "1hls7jx",
+   "id": "1cs30j4",
    "heat": 4,
    "why": {
-    "en": "UK-Mauritius Chagos deal stalls as Trump opposes sovereignty return—major geopolitical shift.",
-    "bn": "ট্রাম্প বিরোধিতার কারণে ব্রিটেন-মরিশাস চাগোস চুক্তি থেমে যাচ্ছে।"
+    "en": "252 women and girls faced violence in September, serious public safety concern.",
+    "bn": "সেপ্টেম্বরে ২৫২ জন নারী ও কিশোরী সহিংসতার শিকার হয়েছেন।"
    },
    "rank": 2
   },
   {
-   "id": "1rio8od",
+   "id": "8gv63v",
    "heat": 4,
    "why": {
-    "en": "Co-pilot attacks captain mid-flight to Tel Aviv, diverted to Saudi Arabia—viral crisis at 30,000 feet.",
-    "bn": "টেল আভিভের ফ্লাইটে সহ-পাইলট ক্যাপ্টেনকে আক্রমণ করে সৌদি আরবে বিমান ফেরত যায়।"
+    "en": "Remittances jumped 13% this quarter, strong economic indicator for Bangladesh.",
+    "bn": "এই ত্রৈমাসিকে রেমিট্যান্স ১৩% বৃদ্ধি পেয়েছে, অর্থনৈতিক সংকেত শক্তিশালী।"
    },
    "rank": 3
   },
   {
-   "id": "nbnrw5",
+   "id": "1svvify",
    "heat": 3,
    "why": {
-    "en": "India crushes Sri Lanka to reach Asian Games final—cricket domination.",
-    "bn": "এশিয়ান গেমসে শ্রীলঙ্কাকে হারিয়ে ভারত ফাইনালে পৌঁছেছে।"
+    "en": "Flydubai cockpit incident gets multiple outlet coverage globally.",
+    "bn": "ফ্লাইডুবাই কক্পিট ঘটনা বিশ্বব্যাপী একাধিক মাধ্যমে কভারেজ পাচ্ছে।"
    },
    "rank": 4
   },
   {
-   "id": "szi02x",
+   "id": "17k81ng",
    "heat": 3,
    "why": {
-    "en": "Settlement office officials caught taking bribes on hidden camera—corruption exposure.",
-    "bn": "নিবন্ধন অফিসের কর্মচারীরা লুকানো ক্যামেরায় ঘুষ নেওয়ার সময় ধরা পড়ে।"
+    "en": "Fish farm catastrophe with major economic loss gets local attention.",
+    "bn": "মৎস্য খামারে বিশাল সম্পদ হারানোর ঘটনা স্থানীয় মনোযোগ আকর্ষণ করছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1rio8od",
-   "tag": "#FlydubaiIncident",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Pilot stabbed mid-flight drama",
-    "text": "A co-pilot attacked the captain on a Flydubai flight to Tel Aviv. The aircraft was diverted to Saudi Arabia and passengers overpowered the attacker."
-   },
-   "bn": {
-    "title": "ফ্লাইটে পাইলট আক্রমণের ঘটনা",
-    "text": "টেল আভিভের দিকে যাওয়া ফ্লাইটে সহ-পাইলট ক্যাপ্টেনকে হামলা করেছেন। বিমানটি সৌদি আরবে জরুরি অবতরণ করে এবং যাত্রীরা আক্রমণকারীকে নিয়ন্ত্রণ করে।"
-   }
-  },
-  {
-   "id": "gtcc68",
-   "tag": "#ASEANCupShock",
+   "id": "1q7yia3",
+   "tag": "#সেলিব্রিটিড্রামা",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh crushed 9-2 in semi",
-    "text": "Indonesia dominated Bangladesh in the ASEAN Cup semi-final with a stunning 9-2 victory. A heavy defeat that shocked local fans."
+    "title": "Content creator in-law's liquor bust",
+    "text": "Warehouse sealed over illegal alcohol storage linked to a content creator's family member."
    },
    "bn": {
-    "title": "বাংলাদেশ ৯-২ গোলে হারে",
-    "text": "ASEAN কাপ সেমিফাইনালে ইন্দোনেশিয়া বাংলাদেশকে ৯-২ গোলে পরাজিত করে। স্থানীয় ভক্তদের জন্য বিশাল ধাক্কা।"
+    "title": "কন্টেন্ট ক্রিয়েটরের পরিবারের সদস্য জড়িত",
+    "text": "অবৈধ মদ্যপান সংরক্ষণের জন্য একজন কন্টেন্ট ক্রিয়েটরের আইন সদস্যের গুদাম সিল করা হয়েছে।"
    }
   },
   {
-   "id": "nbnrw5",
-   "tag": "#AsianGamesCricket",
+   "id": "fwof6e",
+   "tag": "#চার্চ",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "India crushes Sri Lanka for final",
-    "text": "India beat Sri Lanka in the Asian Games cricket semi-final to secure a spot in the final. A commanding performance by the Indian team."
+    "title": "Stolen church bell recovered",
+    "text": "Police recovered a brass bell that was stolen from a Dhaka church."
    },
    "bn": {
-    "title": "এশিয়ান গেমসে ভারত ফাইনালে",
-    "text": "এশিয়ান গেমসের সেমিফাইনালে শ্রীলঙ্কাকে হারিয়ে ভারত ফাইনালে প্রবেশ করেছে। ভারতীয় দল চমৎকার পারফরম্যান্স দিয়েছে।"
+    "title": "ঢাকা চার্চের চুরি করা ঘণ্টা উদ্ধার",
+    "text": "পুলিশ ঢাকার একটি চার্চ থেকে চুরি করা পিতলের ঘণ্টা উদ্ধার করেছে।"
+   }
+  },
+  {
+   "id": "szi02x",
+   "tag": "#দুর্নীতি",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Settlement officials caught taking bribes",
+    "text": "Hidden camera footage exposed officials accepting bribes at a settlement office."
+   },
+   "bn": {
+    "title": "নিস্পত্তি অফিসে দুর্নীতি ধরা পড়েছে",
+    "text": "লুকানো ক্যামেরায় অফিসারদের ঘুষ নেওয়ার দৃশ্য ধরা পড়েছে।"
    }
   }
  ],

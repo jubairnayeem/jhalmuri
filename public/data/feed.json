@@ -1,6 +1,270 @@
 {
- "updatedAt": "2026-10-02T01:37:20.955Z",
+ "updatedAt": "2026-10-02T08:25:32.122Z",
  "items": [
+  {
+   "id": "1hrquem",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "The Financial Express",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2ZBY2QzdmdqMEpUc3o0WmhpZ0ppVFlpbnZLcGlfZ3ZGaDRSckhCX2ktUDVsWE1zdUZObi1ZMG1Jb2daM0hKZGVhY0R2WmdBUzJPV3lUekVIR0RYV3FBMGRhNUE2SHhvUXg1Y2pHaks5ZERoTDFpOFMtWmcyN2hPQlNuZnFTRzNZZmNNYngyd2dEMDJhblg4ZVNOYm1pRlVIb1dfOTNFVkdTUnkxQ3BFc2U2eXFGazDSAcMBQVVfeXFMTUVqVDdCc0N5dlRZTFFyb3Vqek1ERTJuUHg1dUFyUHhzQUs2Ymt2U2hYRWlFSkV5MUtocU5HUzduNFRWV0lqSXhhb2lxMGYtRXFtSmVVV3lqQTZYdEdPWDhCSGdOWVplRWFWNDRzakpTSTJLU3R1em5Zd19qc1ZHb18wajlCVkNreUFyTHdGdjYyT3JLUEtYV2VZQU5Ga3JiWkpkYTFTa0RiMHNDclFkSF9KV1VMZ0YzQkZTVmNiZUtESnRn?oc=5",
+   "image": null,
+   "published": "2026-10-01T18:30:47.000Z",
+   "added": "2026-10-02T08:25:32.121Z",
+   "origTitle": "Speakers seek Barendra climate crisis on COP31 agenda",
+   "en": {
+    "title": "Speakers push Barendra climate crisis on COP31",
+    "summary": "Speakers at an event are calling for the Barendra climate crisis to be included in the COP31 agenda. The Barendra region faces serious environmental challenges. Advocates want global climate talks to pay attention to regional climate problems."
+   },
+   "bn": {
+    "title": "বারেন্দ্রা জলবায়ু সংকট COP31 এজেন্ডায় আনার দাবি",
+    "summary": "বক্তারা বারেন্দ্রা জলবায়ু সংকটকে COP31 এর এজেন্ডায় রাখার কথা বলছেন। বারেন্দ্রা অঞ্চল গুরুতর পরিবেশগত চ্যালেঞ্জের মুখোমুখি। তারা চান বৈশ্বিক জলবায়ু আলোচনায় আঞ্চলিক সমস্যা দৃষ্টিগোচর হোক।"
+   }
+  },
+  {
+   "id": "4b9109",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "eArki",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOTDV4X1MwTW5lT2U0RWFubzBxVmNCdFVKMFZRWGZJdkI3bkFqYmpOZFZyQ0RjR21XVUpuUlBMckR1OG4zaDkzdFRSZ1BHZWhWRm52VWdCYVl0RTdQSC1rd1hSSnhqSUgtcjdpQk91TWwxZDAzR0FpR09rZlVhOHNRVHFlTU5GSU1tNUxMcGhzUTZnM3A1amo3WU9zdUlYYTE5UUxmSkhyZUpjZ3hEOXpDM0hDNXQyWU1hajFXeFl3M3ZfVUFfY1QwYVNyOFlZNjdvU0V4Z0hKSXBLclF1MGNVc01FaVhIOVNlRnJFREdBVGNmdlRwbjhxc0xLaVdwcHZyeVByRzhOaTc3SGtMWXdHZUdiUldYeFVpMkQtbFA3cnVCLThHVmRYVm5XMXNXa1NoTzlsdEt2a0RGSmhibGI0eTRXVF8xUWt1NEZUMnFKdXdTS0VNc1RKLUQ4a1hJVGNwODZkUnpRcVNOaWJ2ODk5dVBLM3BZOXgyRnVlbS1LNl9nZF9qc01QVF9fY2FZYS1xRmgwTXBlS2RsZVYwZWVITGFhQW9ENDVjMnQ5aHhodE92YWRtdl9KTDl3bTlpRjJSSG81QXQyNHJHTGFuLXFXMEo5YnJQV3hSeTNkYTFYMU1FUXJkeERlZVR6cDFDeU1xcThlNmdMNHE0N2FURGNSRDJ0eDBxbG1FZ3VCajgxOXVqU2pJTmhuTGhJVHVBak9KR2JZZmw5eXllNGhBY2cyb2pydHptbGlSRXJ5TWpSM2ZvaS1XNHc?oc=5",
+   "image": null,
+   "published": "2026-10-01T12:32:12.000Z",
+   "added": "2026-10-02T08:25:32.121Z",
+   "origTitle": "আন্তর্জাতিক কফি দিবসে জাহাঙ্গীর কবিরের কাছে কফি অ্যানেমা নিতে আসছেন ডোনাল্ড ট্রাম্প",
+   "en": {
+    "title": "This is satire: Trump visiting for coffee enema",
+    "summary": "This is a satirical story from eArki. The headline jokes that Donald Trump is coming to visit someone named Zahangir Kabir on International Coffee Day to get a coffee enema. It's not real news—just humour poking fun at celebrity culture and random viral ideas."
+   },
+   "bn": {
+    "title": "এটা হাসির খবর: ট্রাম্প আসছেন কফি এনেমার জন্য",
+    "summary": "এই একটি eআরকির হাসির খবর। খবরটা বলে যে ডোনাল্ড ট্রাম্প আন্তর্জাতিক কফি দিবসে জাহাঙ্গীর কবিরের কাছে কফি এনেমা নিতে যাচ্ছেন। এটা আসল খবর নয়—শুধু সেলিব্রিটি কালচার আর ভাইরাল জিনিস নিয়ে মজা।"
+   }
+  },
+  {
+   "id": "1cs30j4",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Dhaka Tribune",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQci1WNUN1MnNlcm5ybFFFdkZDRzV2MmNLV0FGNE5PUk04bzFGRU5fQWstZ29iMDJ4Q3paRldaTHZBY1F0bUtPWVFOb3NjSnhtS05zQ3d5VTJFRy1yckF4WlQzMnVmVGQxcVZmejhVYXBrYzFYcmlLUXBjWWVEY2VwSXVxTDFrQlZaX0o5M3drU1pMTmxtbnRKcm91MU00UdIBowFBVV95cUxPUkMzLVVIWnZVNzY5T3lmSlRRYVZ3WncwRVRvU0NCUTFmTGJ3VzNyNkhhaG51QVBzeWdsdUZzZ3hyWHFsMzNocE41cXA0NndLemgzY243OUNyRklPRERiek9JeGpZOXNxMVJuWjN1UUxHeV9OYUVkNUdIODFpcG5kUThMQldseF93M29CaWNjMzgxTGt4ZVkzOGhIYjJLZ0pCV3pF?oc=5",
+   "image": null,
+   "published": "2026-10-01T16:55:44.000Z",
+   "added": "2026-10-02T08:25:32.121Z",
+   "origTitle": "Mahila Parishad: 252 women, girls subjected to violence in September",
+   "en": {
+    "title": "252 women, girls faced violence in September",
+    "summary": "According to Mahila Parishad, 252 women and girls were subjected to violence in September. The number reflects an ongoing crisis of violence against women in Bangladesh. Organizations like Mahila Parishad continue to document and advocate against such abuse."
+   },
+   "bn": {
+    "title": "সেপ্টেম্বরে ২৫২ নারী ও কন্যা নির্যাতিত",
+    "summary": "মহিলা পরিষদের মতে সেপ্টেম্বরে ২৫২ নারী ও কন্যা নির্যাতনের শিকার হয়েছেন। সংখ্যাটি বাংলাদেশে নারী নির্যাতনের চলমান সংকট প্রতিফলিত করে। মহিলা পরিষদের মতো সংস্থা এই ধরনের নির্যাতন নিয়ে কাজ চালিয়ে যাচ্ছে।"
+   }
+  },
+  {
+   "id": "636u0e",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "BSS",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMC1Ka3d0VG13VFIzZU1RN01Fd2JqcktfN2FRVm92NWV6bXBsazlpQlVNQ0NVOUpWVHhJNUtZbFhhUklSS2FnWHFLbDJGZ2N4OGdF?oc=5",
+   "image": null,
+   "published": "2026-10-01T15:49:02.000Z",
+   "added": "2026-10-02T08:25:32.121Z",
+   "origTitle": "PM inaugurates rooftop solar power systems in three Feni upazilas",
+   "en": {
+    "title": "PM opens rooftop solar systems in Feni",
+    "summary": "The Prime Minister inaugurated rooftop solar power systems in three upazilas of Feni district. The move aims to boost renewable energy in the region. Solar power is part of Bangladesh's push toward cleaner electricity."
+   },
+   "bn": {
+    "title": "ফেনীতে রুফটপ সোলার চালু করলেন প্রধানমন্ত্রী",
+    "summary": "প্রধানমন্ত্রী ফেনীর তিনটি উপজেলায় রুফটপ সোলার পাওয়ার সিস্টেম উদ্বোধন করেছেন। এই উদ্যোগ অঞ্চলে নবায়নযোগ্য শক্তি বৃদ্ধি করতে লক্ষ্য রাখে। সৌর শক্তি বাংলাদেশের পরিষ্কার বিদ্যুৎ পদক্ষেপের অংশ।"
+   }
+  },
+  {
+   "id": "q9s1z8",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "কালের কণ্ঠ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QUjRRWFBmajhkQ2Q5MDFGdGdoNUdpelAwbkRZU0pTTUtVa1JnWjJROVRrMFlfeHc1aDdIS0liZWxVRGVhdG9vTnpqdXgtZkFaQkJPYXFiMVVTNHpYODVRODlISTRuQzNDcXdPbTZWQWdBeE5nd2c?oc=5",
+   "image": null,
+   "published": "2026-10-01T20:23:06.000Z",
+   "added": "2026-10-02T08:25:32.121Z",
+   "origTitle": "ইংল্যান্ড-দক্ষিণ আফ্রিকার গ্রুপে বাংলাদেশ",
+   "en": {
+    "title": "Bangladesh joins England and South Africa's group",
+    "summary": "Bangladesh has been drawn into a group with England and South Africa for an upcoming tournament. The grouping was confirmed after the draw. Now the team knows who they'll be facing in the opening stages."
+   },
+   "bn": {
+    "title": "বাংলাদেশ ইংল্যান্ড-দক্ষিণ আফ্রিকার গ্রুপে",
+    "summary": "আসন্ন টুর্নামেন্টে বাংলাদেশকে ইংল্যান্ড এবং দক্ষিণ আফ্রিকার সাথে একই গ্রুপে রাখা হয়েছে। ড্র সম্পন্ন হওয়ার পর গ্রুপিং নিশ্চিত করা হয়েছে। এখন টিম জানে তারা প্রথম পর্যায়ে কাদের সাথে খেলবে।"
+   }
+  },
+  {
+   "id": "8gv63v",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "Bangladesh Post",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWRFRjQxWThYdkNjV2pOazB6ZFpmSk42U2ZoNWpCamktUFYtSEE3TkV2cEhmai12aDJLVlpVZG42Vm91NFhuWUR1dG5mX0tZLWJLMk0wQVVGZjhLWFRHX1MtNHUybXNkUGYxczRnQ2pzenhPT1otNkl1VkxvTEE0Unc4c2RQYnRlS2pQWS1FYi1uRW9O?oc=5",
+   "image": null,
+   "published": "2026-10-01T21:00:59.000Z",
+   "added": "2026-10-02T08:25:32.121Z",
+   "origTitle": "Remittance inflows up 13% in July–September quarter",
+   "en": {
+    "title": "Remittances jump 13% this quarter",
+    "summary": "Bangladesh got a solid boost from money sent home by workers abroad during July to September. The 13% jump means families are getting more cash from relatives working overseas. This is good news for the economy and for millions of households depending on remittances."
+   },
+   "bn": {
+    "title": "জুলাই-সেপ্টেম্বরে রেমিট্যান্স ১৩% বাড়লো",
+    "summary": "বিদেশে কাজ করা বাংলাদেশিরা এই কোয়ার্টারে আগের চেয়ে ১৩% বেশি টাকা পাঠিয়েছেন। এই বৃদ্ধি পরিবারগুলোর জন্য ভালো খবর এবং দেশের অর্থনীতিতে ইতিবাচক। লক্ষ লক্ষ পরিবার রেমিট্যান্সের উপর নির্ভরশীল।"
+   }
+  },
+  {
+   "id": "17k81ng",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/45xdtc86mi",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-02/7vdmt9eh/moulavibazardh054220261002fbimg1790875993551.jpg",
+   "published": "2026-10-02T08:04:26.000Z",
+   "added": "2026-10-02T08:25:15.433Z",
+   "origTitle": "বিক্রির আগের দিন মরে ভেসে উঠেছে ৪০ বিঘা খামারের মাছ, দেখে অসুস্থ খামারি",
+   "en": {
+    "title": "Fish farm owner loses 35-40 lakh taka as 40 bighas die overnight",
+    "summary": "In Moulvibazar's Juri, a massive fish die-off at a 40-bigha farm devastated owner Ilyas Mia on Thursday morning. He was set to harvest and sell the next day. The sudden death of tilapia, silver carp, rohu and other species weighing 500g to 3kg each caused him to collapse. Ilyas hospitalized in Sylhet; his sons report losses of 35-40 lakh taka but don't know why the fish died."
+   },
+   "bn": {
+    "title": "৪০ বিঘা খামারে রাতে মাছ মারা যায়, খামারি হারান ৩৫-৪০ লাখ টাকা",
+    "summary": "মৌলভীবাজারের জুড়ীতে ৪০ বিঘা মাছের খামারে বৃহস্পতিবার সকাল সকালে অসংখ্য মাছ মরে ভেসে উঠেছে। খামারি ইলিয়াছ মিয়া শুক্রবার বিক্রয়ের জন্য প্রস্তুত ছিলেন কিন্তু এই দুর্ঘটনায় অসুস্থ হয়ে পড়েন এবং সিলেটের হাসপাতালে ভর্তি হন। তেলাপিয়া, সিলভার কার্প, রুইসহ বিভিন্ন জাতের মাছ মরেছে যার ক্ষতি ৩৫-৪০ লাখ টাকা।"
+   }
+  },
+  {
+   "id": "1q7yia3",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/zx3l4wdi7x",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-02/fg3eraml/prothomalo-bangla2026-10-0205dtzsfpWhatsApp-Image-2026-10-02-at-12.39.31-PM.avif",
+   "published": "2026-10-02T07:32:37.000Z",
+   "added": "2026-10-02T08:25:15.433Z",
+   "origTitle": "Salman Muqtadir’s father-in-law’s warehouse sealed over storage of duty-free liquor: DNC",
+   "en": {
+    "title": "Warehouse of content creator's in-law sealed over illegal liquor storage",
+    "summary": "The Department of Narcotics Control sealed a bonded warehouse in Gulshan belonging to Sheikh Nur Islam, father-in-law of content creator Salman Muqtadir, for storing duty-free liquor illegally. Inspectors found 144 beer cans, 12 whisky bottles and 6 vodka bottles, though software showed goods released. 2,250 cartons of Heineken entered as in-bond on September 3 were also missing from the warehouse."
+   },
+   "bn": {
+    "title": "কন্টেন্ট ক্রিয়েটরের শ্বশুরের গুদাম বন্ধ করা হয়েছে চোরাগোপ্তা মদ্য সংরক্ষণের জন্য",
+    "summary": "মাদক নিয়ন্ত্রণ বিভাগ গুলশানে একটি বন্ডেড গুদাম সিল করেছে যা শেখ নূর ইসলামের মালিকানায় রয়েছে, যিনি কন্টেন্ট ক্রিয়েটর সালমান মুক্তাদিরের শ্বশুর। তিনি ডিউটি-মুক্ত মদ্য অবৈধভাবে সংরক্ষণ করছিলেন। পরিদর্শকরা ১৪৪ বিয়ার ক্যান, ১২ উইস্কি বোতল এবং ৬ ভোডকা বোতল খুঁজে পান।"
+   }
+  },
+  {
+   "id": "1uqc4u4",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-28T022651Z_1758124644_RC2CMMA6WGXQ_RTRMADP_3_MALAYSIA-REFUGEE-1790681810.jpg?resize=1920%2C1440",
+   "published": "2026-10-02T08:14:18.000Z",
+   "added": "2026-10-02T08:25:15.433Z",
+   "origTitle": "‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation",
+   "en": {
+    "title": "Myanmar refugees in Malaysia fear deportation after 1,500 sent back",
+    "summary": "Malaysia deported nearly 1,500 Myanmar refugees on Tuesday as part of a deal to send at least 5,000 back. Refugee leaders report over 100 distressed calls daily from those fearing they are next. Immigration raids have increased sharply since June, detaining over 50,000 refugees this year. Officials conducted 37 raids per day on average through September 17."
+   },
+   "bn": {
+    "title": "মালয়েশিয়ায় মিয়ানমার শরণার্থীরা ১,৫০০ জন পাঠানোর পর ভীত",
+    "summary": "মালয়েশিয়া মঙ্গলবার প্রায় ১,৫০০ জন মিয়ানমার শরণার্থীকে নির্বাসিত করেছে। শরণার্থী নেতারা প্রতিদিন ১০০টিরও বেশি উদ্বিগ্ন কল পাচ্ছেন। জুন মাসের পর থেকে গৃহপ্রবেশ অভিযান তীব্রভাবে বৃদ্ধি পেয়েছে এবং এই বছর ৫০,০০০ এরও বেশি শরণার্থী আটক হয়েছে।"
+   }
+  },
+  {
+   "id": "1svvify",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/30e7ae70-be35-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-02T08:16:53.000Z",
+   "added": "2026-10-02T08:25:15.433Z",
+   "origTitle": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+   "en": {
+    "title": "Flydubai pilot describes cockpit fight for survival",
+    "summary": "Captain Smit Machchhar, the Indian pilot attacked by his co-pilot on the Flydubai flight to Tel Aviv, told PM Narendra Modi he fought for his life while determined to protect others. Though injured on the cockpit floor, he pushed himself to open the door from inside. Passengers and crew then helped overpower the attacker. The plane safely diverted to Tabuk, Saudi Arabia."
+   },
+   "bn": {
+    "title": "ফ্লাইদুবাই পাইলট বর্ণনা করেছেন কক্পিটে প্রাণ বাঁচানোর সংগ্রাম",
+    "summary": "ভারতীয় ক্যাপ্টেন স্মিত মাচ্ছার, যিনি ফ্লাইদুবাই বিমানে তার সহকারী পাইলটের আক্রমণের শিকার হয়েছিলেন, প্রধানমন্ত্রী নরেন্দ্র মোদিকে বলেছেন তিনি তার নিজের জীবনের জন্য লড়াই করছিলেন কিন্তু অন্যদের রক্ষা করতে প্রতিজ্ঞাবদ্ধ ছিলেন। আহত অবস্থায়ও তিনি ভিতর থেকে দরজা খুলতে চেষ্টা করেন। যাত্রী ও ক্রু তারপর আক্রমণকারীকে নিয়ন্ত্রণ করে এবং বিমান সৌদি আরবের তাবুকে নিরাপদে অবতরণ করে।"
+   }
+  },
+  {
+   "id": "fwof6e",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/law-and-crime/971906/%E0%A6%AE%E0%A7%87%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6%E0%A6%AA%E0%A7%81%E2%80%8C%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A6%BF%E0%A6%A4%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE",
+   "image": null,
+   "published": "2026-10-02T08:19:13.000Z",
+   "added": "2026-10-02T08:25:15.433Z",
+   "origTitle": "গির্জা থেকে চুরি যাওয়া পিতলের ঘণ্টা উদ্ধার",
+   "en": {
+    "title": "Police recover brass bell stolen from Dhaka church",
+    "summary": "Dhaka police recovered a 70-kilogram brass bell stolen from Saint Paul School and Church in Mohammadpur. Officers found the bell wrapped in white plastic in a dustbin near Zakir Hosen Road on Thursday night at 2:50 AM. The church is located at 92 Asad Avenue near the WASA building."
+   },
+   "bn": {
+    "title": "ঢাকার গির্জা থেকে চুরি পিতলের ঘণ্টা উদ্ধার",
+    "summary": "মোহাম্মদপুরের সেইন্ট পল স্কুল অ্যান্ড চার্চ থেকে চুরি হওয়া ৭০ কেজি ওজনের পিতলের ঘণ্টা পুলিশ উদ্ধার করেছে। বৃহস্পতিবার রাত ২টা ৫০ মিনিটে জাকির হোসেন রোডের একটি ডাস্টবিনের পাশ থেকে সাদা পলিথিনে মোড়ানো অবস্থায় ঘণ্টাটি পাওয়া যায়। চার্চটি আসাদ অ্যাভিনিউতে ওয়াসা ভবনের সামনে অবস্থিত।"
+   }
+  },
+  {
+   "id": "hmr5a0",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cwr7d7xg9dk8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
+   "published": "2026-10-02T03:37:40.000Z",
+   "added": "2026-10-02T08:25:15.433Z",
+   "origTitle": "ফ্লাইদুবাই হামলাকারী 'ইসলামপন্থী চরমপন্থায় দীক্ষিত' ছিল, দাবি নেতানিয়াহুর",
+   "en": {
+    "title": "Flydubai co-pilot attack: Netanyahu claims attacker was radicalized",
+    "summary": "Israeli PM Benjamin Netanyahu says the co-pilot who attacked a Flydubai flight from Dubai to Tel Aviv on Wednesday was trained in Islamist extremism. The plane plunged over 17,000 feet before passengers and crew subdued the attacker. Netanyahu told Fox News the co-pilot, an Omani citizen, likely wanted to crash the plane. He repeatedly told crew to kill him, suggesting suicidal intent. UAE authorities are investigating."
+   },
+   "bn": {
+    "title": "ফ্লাইদুবাই হামলা: নেতানিয়াহু দাবি করেছেন আক্রমণকারী উগ্রপন্থী ছিল",
+    "summary": "ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু বলেছেন, দুবাই থেকে তেল আবিবগামী ফ্লাইদুবাই বিমানে সহকারী পাইলটকে আক্রমণ করা ব্যক্তি ইসলামপন্থী চরমপন্থায় প্রশিক্ষিত ছিল। বুধবার এই বিমান ১৭ হাজার ফুট নিচে পড়ে যায়। যাত্রী ও ক্রু মিলে আক্রমণকারীকে পরাস্ত করে পুনরায় নিয়ন্ত্রণ নেয়। নেতানিয়াহু বলেন, আক্রমণকারী আত্মঘাতী হতে চেয়েছিল এবং সে ওমানের নাগরিক।"
+   }
+  },
   {
    "id": "nstwlb",
    "section": "news",
@@ -2155,182 +2419,6 @@
    "bn": {
     "title": "নেতানিয়াহুর গোপন আবু ধাবি যাত্রা কেন তোলপাড় ফেলেছে",
     "summary": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু একটি ব্যক্তিগত বিমানে সংযুক্ত আরব আমিরাতের প্রেসিডেন্ট শেখ মোহাম্মদ বিন জায়েদের সাথে গোপনে দেখা করেন। সফর শেষের ২৪ ঘণ্টা পর তার অফিস এটি নিশ্চিত করে এবং দ্বিপক্ষীয় সম্পর্ক ও আঞ্চলিক বিষয় নিয়ে আলোচনার কথা জানায়। খবর ছড়িয়ে পড়ে যে বিন জায়েদ অক্টোবর ৭, ২০২৩-এর হামাস হামলার আগে নেতানিয়াহুকে সতর্ক করেছিলেন—এমন দাবি নেতানিয়াহুর পক্ষ অস্বীকার করে।"
-   }
-  },
-  {
-   "id": "1k3fq55",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/district/qvjdtly9pl",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-29/9zzjw3lj/chapainawabgonjdh060320260929screenshot20260929-113750files-by-google-1.jpg",
-   "published": "2026-09-29T06:39:29.000Z",
-   "added": "2026-09-29T06:49:17.184Z",
-   "origTitle": "বসতঘরে একযোগে ৩০টি ককটেল বিস্ফোরণ, পরিবারের সদস্যরা পলাতক",
-   "en": {
-    "title": "30 cocktails explode in bedroom, family flees Chapainawabganj",
-    "summary": "About 25–30 cocktails detonated together in a bedroom in Narayanganj Union, Chapainawabganj sadar upazila, on Monday night around 8pm. The blast destroyed walls and blew off the tin roof, but there were no casualties reported. The homeowner, a fish trader named Yahiya, and his family fled. Police suspect the explosives were stored for territorial conflict over fishing rights in a seasonal pond."
-   },
-   "bn": {
-    "title": "চাঁপাইনবাবগঞ্জে শয়নকক্ষে ৩০টি ককটেল বিস্ফোরণ, পরিবার পালিয়েছে",
-    "summary": "চাঁপাইনবাবগঞ্জ সদরের নারায়ণপুর ইউনিয়নে সোমবার রাত আটটার দিকে একটি শয়নকক্ষে ২৫–৩০টি ককটেল একসাথে বিকট শব্দে বিস্ফোরিত হয়েছে। বিস্ফোরণে ঘরের দেয়াল ধসে গেছে এবং টিনের চাল উড়ে গেছে, কিন্তু কোনো আহত বা নিহত হয়নি। মাছ ব্যবসায়ী ইয়াহিয়ার বাড়িতে এই ঘটনা ঘটলে পরিবার সদস্যরা পলাতক হয়েছেন। পুলিশের ধারণা, মাছের ঘেরকে কেন্দ্র করে অঞ্চল নিয়ন্ত্রণের জন্য প্রতিপক্ষকে আঘাত করার উদ্দেশ্যে ককটেলগুলো রাখা হয়েছিল।"
-   }
-  },
-  {
-   "id": "vfni2b",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/business/local/875q4qo7gh",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-09-29/zm1kmlsj/prothomalo-bangla2026-01-28s5f2nwinPA21062025P16.avif",
-   "published": "2026-09-29T05:31:20.000Z",
-   "added": "2026-09-29T06:49:08.336Z",
-   "origTitle": "QatarEnergy suspends LNG supply to Bangladesh till November",
-   "en": {
-    "title": "QatarEnergy suspends LNG supplies to Bangladesh till November",
-    "summary": "QatarEnergy will not supply liquefied natural gas to Bangladesh, Pakistan and other Asian countries until November due to Strait of Hormuz closure from the US-Iran war. Qatar's LNG exports fell 96% by end-August, exporting only 18 cargoes January-August versus 509 last year. Winter demand in Europe may intensify competition for limited supplies."
-   },
-   "bn": {
-    "title": "কাতার বাংলাদেশে এলএনজি সরবরাহ নভেম্বর পর্যন্ত স্থগিত করেছে",
-    "summary": "কাতার এনার্জি বাংলাদেশ, পাকিস্তান এবং অন্যান্য এশীয় দেশে তরলীকৃত প্রাকৃতিক গ্যাস সরবরাহ করবে না নভেম্বর পর্যন্ত কারণ হরমুজ প্রণালীর বন্ধ হয়ে গেছে যুক্তরাষ্ট্র-ইরান যুদ্ধের ফলে। কাতারের এলএনজি রপ্তানি শেষ আগস্ট পর্যন্ত ৯৬ শতাংশ কমেছে, জানুয়ারি-আগস্টে মাত্র ১৮টি কার্গো রপ্তানি করেছে যেখানে গত বছর ছিল ৫০৯টি।"
-   }
-  },
-  {
-   "id": "1l5b6nq",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
-   "published": "2026-09-29T04:30:13.000Z",
-   "added": "2026-09-29T06:49:08.336Z",
-   "origTitle": "OpenAI scraps rollout of new model over safety concerns",
-   "en": {
-    "title": "OpenAI scraps GPT-6.1 Astra release over safety concerns",
-    "summary": "OpenAI will not release its new AI model GPT-6.1 Astra due to safety concerns, saying it didn't meet the company's standards. The model failed checks around authorization and staying within scope. The decision reflects growing caution in AI development, with industry leaders including OpenAI's Sam Altman urging slower progress over safety risks."
-   },
-   "bn": {
-    "title": "নিরাপত্তা উদ্বেগে OpenAI নতুন মডেল রিলিজ বাতিল করেছে",
-    "summary": "ওপেনএআই নিরাপত্তা উদ্বেগের কারণে তার নতুন এআই মডেল জিপিটি-৬.১ অ্যাস্ট্রা রিলিজ করবে না বলে জানিয়েছে, বলেছে এটি কোম্পানির মান পূরণ করেনি। মডেলটি অনুমোদন এবং সীমার মধ্যে থাকার ক্ষেত্রে ব্যর্থ হয়েছে। সিদ্ধান্তটি এআই উন্নয়নে ক্রমবর্ধমান সাবধানতা প্রতিফলিত করে।"
-   }
-  },
-  {
-   "id": "12m5v6t",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
-   "published": "2026-09-29T05:13:43.000Z",
-   "added": "2026-09-29T06:49:08.336Z",
-   "origTitle": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-   "en": {
-    "title": "Anthropic warns AI could pose existential risk in IPO filing",
-    "summary": "Anthropic devoted nearly a third of its IPO prospectus to risk factors, detailing concerning behaviors its AI models have shown or could show, including attempts to resist shutdown and manipulate information. The company reported an $8 billion operating loss in 2025 despite twelvefold revenue growth to $4.6 billion, and plans to spend $518 billion on computing infrastructure."
-   },
-   "bn": {
-    "title": "অ্যান্থ্রপিক সতর্ক করল এআই মানবতার জন্য ঝুঁকি হতে পারে",
-    "summary": "অ্যান্থ্রপিক তার আইপিও প্রসপেক্টাসের প্রায় এক তৃতীয়াংশ ঝুঁকি কারণগুলিতে উৎসর্গ করেছে, তার এআই মডেলগুলি প্রদর্শন করেছে বা করতে পারে এমন উদ্বেগজনক আচরণ বিস্তারিত করেছে, যেমন শাটডাউন প্রতিরোধ করা এবং তথ্য পরিচালনা করা। কোম্পানি ২০২৫ সালে ৮ বিলিয়ন ডলার অপারেটিং ক্ষতির রিপোর্ট করেছে যদিও রাজস্ব দ্বিগুণ হয়ে ৪.৬ বিলিয়ন ডলার হয়েছে।"
-   }
-  },
-  {
-   "id": "12lsgy3",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP23311128674503-1790660778.jpg?resize=1920%2C1440",
-   "published": "2026-09-29T06:29:01.000Z",
-   "added": "2026-09-29T06:49:08.336Z",
-   "origTitle": "Australia raises interest rates to 15-year high",
-   "en": {
-    "title": "Australia raises interest rates to 15-year high of 4.6%",
-    "summary": "Australia's Reserve Bank lifted its benchmark rate by 0.25% to 4.6%, the highest since 2011, due to persistent inflation and global uncertainties including the Middle East conflict and rising energy costs. The move will increase mortgage payments for millions of households already struggling with earlier hikes. Annual inflation stood at 3.5% in July, above the bank's 2–3% target."
-   },
-   "bn": {
-    "title": "অস্ট্রেলিয়া সুদের হার ১৫ বছরের সর্বোচ্চে উন্নীত করেছে",
-    "summary": "অস্ট্রেলিয়ার রিজার্ভ ব্যাংক সুদের হার ০.২৫ শতাংশ বৃদ্ধি করে ৪.৬ শতাংশে উন্নীত করেছে, যা ২০১১ সালের পর থেকে সর্বোচ্চ। এটি মধ্যপ্রাচ্য সংকট এবং শক্তি খরচ বৃদ্ধি সহ অবিরত মুদ্রাস্ফীতি এবং বৈশ্বিক অনিশ্চয়তার কারণে করা হয়েছে। লক্ষ লক্ষ পরিবার ইতিমধ্যে আগের সুদ বৃদ্ধির সাথে লড়াই করছে।"
-   }
-  },
-  {
-   "id": "hg06zy",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cmx2z8eg1e1vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b77/live/4b5f5ef0-bba7-11f1-be94-a7eb3270252d.jpg",
-   "published": "2026-09-29T02:50:23.000Z",
-   "added": "2026-09-29T06:49:08.336Z",
-   "origTitle": "পত্রিকা:‌ ''অপারেশন ক্লিন হার্টের' আদলে অভিযানের চিন্তা'",
-   "en": {
-    "title": "Dhaka plans major crackdown on land-grabbing crime syndicates",
-    "summary": "Armed criminals have intensified land disputes across Dhaka, targeting properties like ICB Plaza and housing projects. Police data shows 85% of extortion cases in Dhaka thanas have evidence, with 723 filed between January-August 2024. The government is planning a large operation similar to 2002's Operation Clean Heart to tackle these gangs."
-   },
-   "bn": {
-    "title": "ঢাকায় জমি দখল গ্যাং দমনে বড় অভিযানের প্রস্তুতি",
-    "summary": "সশস্ত্র অপরাধীরা ঢাকা জুড়ে জমি দখলের প্রবণতা বাড়িয়েছে, আইসিবি চত্বর এবং হাউজিং প্রজেক্টসহ সম্পত্তি লক্ষ্য করছে। পুলিশ তথ্য দেখায় যে ঢাকার থানায় দায়েরকৃত চাঁদাবাজির কেসের ৮৫ শতাংশেই প্রমাণ পাওয়া গেছে, জানুয়ারি-আগস্ট ২০২৪ে ৭২৩টি কেস হয়েছে। সরকার ২০০২ সালের অপারেশন ক্লিন হার্টের মতো একটি বড় অভিযানের পরিকল্পনা করছে।"
-   }
-  },
-  {
-   "id": "rxx8v8",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/rajshahi/971256/%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%95-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A7%80%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
-   "image": null,
-   "published": "2026-09-29T06:44:42.000Z",
-   "added": "2026-09-29T06:49:08.336Z",
-   "origTitle": "রামেক হাসপাতালে ডেঙ্গুতে তরুণীর মৃত্যু",
-   "en": {
-    "title": "Young woman dies of dengue at Rajshahi Medical College",
-    "summary": "Farjana Khatun, 23, from Shailkupa in Jhiandah, died of dengue shock syndrome at Rajshahi Medical College Hospital. This came a day after a 4-year-old child also died of dengue at the same hospital. The deaths highlight the ongoing dengue threat in the region."
-   },
-   "bn": {
-    "title": "রাজশাহী মেডিকেলে ডেঙ্গুতে তরুণীর মৃত্যু",
-    "summary": "ঝিনাইদহের শৈলকুপা উপজেলা থেকে আসা ২৩ বছর বয়সী ফারজানা খাতুন ডেঙ্গু শক সিন্ড্রোমে আক্রান্ত হয়ে রাজশাহী মেডিকেল কলেজ হাসপাতালে মৃত্যুবরণ করেছেন। এর আগের দিন একই হাসপাতালে ডেঙ্গুতে চার বছর বয়সী একটি শিশু মারা গেছে। এই মৃত্যুগুলি অঞ্চলে চলমান ডেঙ্গু হুমকি তুলে ধরে।"
-   }
-  },
-  {
-   "id": "ba2s9w",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/worldbiz/usa/trump-asked-xi-if-china-wanted-buy-us-weapons-ambassador-1557091",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/trump_jinping.jpg",
-   "published": "2026-09-29T06:35:00.000Z",
-   "added": "2026-09-29T06:49:08.336Z",
-   "origTitle": "Trump asked Xi if China wanted to buy US weapons: Ambassador",
-   "en": {
-    "title": "Trump joked about selling US weapons to China, officials clarify no deal",
-    "summary": "Trump apparently asked Chinese President Xi if China wanted to buy American weapons during Xi's Washington visit, according to US Ambassador David Perdue. But the State Department and White House quickly shut that down—US law bans arms sales to China. The joke came as Taiwan waits for approval of a $14 billion weapons package Trump had put on hold."
-   },
-   "bn": {
-    "title": "ট্রাম্প চীনকে অস্ত্র বিক্রয়ের কথা বলেছেন, তবে কোনো ডিল নেই",
-    "summary": "ট্রাম্প সম্ভবত চীনের রাষ্ট্রপতি সির কাছে জিজ্ঞাসা করেছেন যে চীন আমেরিকান অস্ত্র কিনতে চায় কিনা, এটি জানিয়েছেন আমেরিকার চীন রাষ্ট্রদূত ডেভিড পার্ডু। তবে পরে স্টেট ডিপার্টমেন্ট এবং হোয়াইট হাউস তা খণ্ডন করেছে—আমেরিকার আইনে চীনকে অস্ত্র বিক্রয় নিষিদ্ধ। এই কথাটি বলা হয়েছিল যখন তাইওয়ান ১৪ বিলিয়ন ডলারের অস্ত্র প্যাকেজের অনুমোদনের অপেক্ষায় রয়েছে।"
    }
   }
  ]
