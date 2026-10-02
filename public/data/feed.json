@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-02T15:44:55.763Z",
+ "updatedAt": "2026-10-02T20:40:20.153Z",
  "items": [
+  {
+   "id": "b2f6ot",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Bangladesh Post",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWZqc25uRzgzNF9sZHgwZHA3dy1sZ2k0c0NSUmpQTVI0Z3dSY25sT0sxN1FZRkFVZFBmUG9uaThrZ0tNYWQyLWU4RTVieUNHcXZKMWRkSFJyVWpwWjcxc3hWek42Zms1c3BhWk1DR0tFYzI1cjB3T0xzOWFlZk1tMk10THMtSEJqakZCb19QNGFJUQ?oc=5",
+   "image": null,
+   "published": "2026-10-02T13:01:57.000Z",
+   "added": "2026-10-02T20:40:20.152Z",
+   "origTitle": "Four Children Die as Measles Cases Rise by 1,242",
+   "en": {
+    "title": "Four Children Die as Measles Cases Jump 1,242",
+    "summary": "Bangladesh is facing a measles outbreak with 1,242 new cases reported. Four children have died from the disease. Measles is a serious viral infection that spreads quickly and can cause severe complications, especially in young children without vaccination protection."
+   },
+   "bn": {
+    "title": "হাম রোগে চার শিশু মারা গেছে, ১,২৪২ নতুন রোগী",
+    "summary": "বাংলাদেশে হাম রোগের প্রাদুর্ভাব বাড়ছে। ১,২৪২টি নতুন রোগ পাওয়া গেছে এবং চারজন শিশু মারা গেছে। হাম একটি গুরুতর ভাইরাল রোগ যা দ্রুত ছড়ায় এবং বিশেষ করে টিকা ছাড়া শিশুদের জন্য খুবই বিপজ্জনক।"
+   }
+  },
+  {
+   "id": "fzx1ps",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/k3plbadp50",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-02/fqmv980g/C7.jpeg",
+   "published": "2026-10-02T20:29:38.000Z",
+   "added": "2026-10-02T20:40:20.152Z",
+   "origTitle": "কিশোর গ্যাংয়ের ‘বড় ভাই’ বদলেছে, বেড়েছে উৎপাত",
+   "en": {
+    "title": "Teen Gangs Switch Political Patrons After Government Change",
+    "summary": "A Chattogram gang leader with 16 criminal cases, who had protection from an Awami League youth leader, is now seen with BNP youth wing leaders. Police say at least 11 gangs operate in the city. Last week, a 16-year-old vegetable seller was killed in gang violence. Over 7.5 years, gangs have been linked to 635 crimes including 39 murders."
+   },
+   "bn": {
+    "title": "সরকার বদল, কিশোর গ্যাংয়ের রাজনৈতিক আশ্রয়ও বদল",
+    "summary": "চট্টগ্রামের একজন কিশোর গ্যাং নেতা, যার ১৬টি মামলা আছে এবং আওয়ামী লীগ যুবলীগ নেতার আশ্রয়ে ছিল, এখন বিএনপি যুবদলের নেতাদের সাথে দেখা যাচ্ছে। পুলিশের মতে শহরে কমপক্ষে ১১টি গ্যাং কাজ করে। গত সপ্তাহে একজন ১৬ বছরের কিশোর সবজি বিক্রয় করতে গিয়ে গ্যাং সংঘর্ষে মারা গেছে। গত সাড়ে সাত বছরে গ্যাং সংযুক্ত অপরাধ ৬৩৫টি, যার মধ্যে ৩৯টি খুনের ঘটনা।"
+   }
+  },
+  {
+   "id": "1ujn3wf",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/chump-to-receive-no-compensation-for-rescuing-children-from-fire/",
+   "image": null,
+   "published": "2026-10-02T20:15:02.000Z",
+   "added": "2026-10-02T20:40:20.152Z",
+   "origTitle": "Chump To Receive No Compensation For Rescuing Children From Fire",
+   "en": {
+    "title": "Man Saves Kids From Fire, Gets Zero Money",
+    "summary": "This is satire from The Onion, poking fun at how society ignores heroes. A guy rescues children from a burning building but receives no payment, fame, or recognition. It's a joke about how we celebrate celebrities while actual brave people get nothing."
+   },
+   "bn": {
+    "title": "আগুন থেকে বাচ্চা বাঁচালো, কোনো টাকা পেলো না",
+    "summary": "এটি দ্য অনিয়নের ব্যঙ্গাত্মক খবর। একজন লোক আগুনে জ্বলন্ত বাড়ি থেকে শিশুদের বাঁচায়, কিন্তু কোনো পুরস্কার, টাকা বা স্বীকৃতি পায় না। মজাটা হলো সমাজ কীভাবে সেলিব্রিটিদের উদযাপন করে কিন্তু সত্যিকারের বীর মানুষকে ভুলে যায় সেটা নিয়ে।"
+   }
+  },
+  {
+   "id": "1uygaf6",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/02/estate-sale-painting-gertrude-abercrombie-auctioned/6081790959629/",
+   "image": "https://cdnph.upi.com/ph/st/th/6081790959629/2026/i/17909598232179/v1.5/Painting-bought-for-30-at-estate-sale-auctioned-for-135-million.jpg",
+   "published": "2026-10-02T16:50:45.000Z",
+   "added": "2026-10-02T20:40:07.419Z",
+   "origTitle": "Watch: Painting bought for $30 at estate sale auctioned for $1.35 million",
+   "en": {
+    "title": "Hidden gem: Lost painting sells for $1.35 million",
+    "summary": "A painting by Chicago artist Gertrude Abercrombie that was bought for just $30 at a Michigan estate sale has been auctioned for $1.35 million. The long-lost artwork turned out to be far more valuable than anyone realized at the thrift purchase. Talk about a lucky find—someone's yard sale score of a lifetime."
+   },
+   "bn": {
+    "title": "লুকানো ধন: হারানো ছবি ১৩৫ মিলিয়নে বিক্রি",
+    "summary": "শিকাগো শিল্পী গার্ট্রুড অ্যাবারক্রম্বির একটি ছবি যা মিশিগান এস্টেট সেলে ৩০ ডলারে কেনা হয়েছিল তা এখন নিলামে ১৩৫ মিলিয়ন ডলারে বিক্রি হয়েছে। এই দীর্ঘ-হারানো শিল্পকর্ম প্রত্যাশার চেয়ে অনেক বেশি মূল্যবান ছিল। জীবনের সেরা গ্যারেজ সেল খুঁজে পাওয়ার গল্প এটি।"
+   }
+  },
+  {
+   "id": "1pfp713",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790964553.jpg?resize=1920%2C1080&quality=80",
+   "published": "2026-10-02T20:17:50.000Z",
+   "added": "2026-10-02T20:40:07.419Z",
+   "origTitle": "Could conflict in Ethiopia expand across the region?",
+   "en": {
+    "title": "Ethiopia conflict risks spreading across Horn of Africa region",
+    "summary": "Ethiopia's government has accused Eritrea, Sudan, and Egypt of backing armed groups opposed to Prime Minister Abiy Ahmed. Fresh fighting between the military and an alliance of armed groups has raised fears of regional conflict expansion. Eritrea and Ethiopia have severed diplomatic ties following the accusations. The escalation comes after the collapse of an agreement that ended the previous war with Tigrayan forces nearly four years ago. Cairo and Khartoum deny involvement."
+   },
+   "bn": {
+    "title": "ইথিওপিয়া সংঘর্ষ অঞ্চলজুড়ে ছড়িয়ে পড়ার আশঙ্কা",
+    "summary": "ইথিওপিয়ার সরকার এরিত্রিয়া, সুদান এবং মিশরকে বিরোধী সশস্ত্র গোষ্ঠীগুলিকে সমর্থন করার অভিযোগ করেছে। সামরিক বাহিনী এবং সশস্ত্র জোটের মধ্যে নতুন সংঘর্ষ অঞ্চলব্যাপী সংঘাতের ঝুঁকি বাড়িয়েছে। অভিযোগের পর ইরিত্রিয়া এবং ইথিওপিয়া কূটনৈতিক সম্পর্ক ছিন্ন করেছে। এটি প্রায় চার বছর আগে টিগ্রে বাহিনীর সাথে শেষ যুদ্ধ সমাপ্ত চুক্তি ভেঙ্গে পড়ার পরেই ঘটেছে।"
+   }
+  },
+  {
+   "id": "1j0nqq5",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg",
+   "published": "2026-10-02T17:43:10.000Z",
+   "added": "2026-10-02T20:40:07.419Z",
+   "origTitle": "Riot police clash with students as education protests rage in France",
+   "en": {
+    "title": "French students clash with riot police over education",
+    "summary": "Thousands of French high school students protested education standards on Friday, disrupting over 700 schools across the country. Police clashed with demonstrators who complained of teacher shortages, overcrowded classrooms, and crumbling buildings. A 17-year-old was arrested in Belfort after a police officer was attacked. At least 65 staff members were injured, and authorities deployed tear gas in multiple cities including Paris, Strasbourg, and Marseille."
+   },
+   "bn": {
+    "title": "শিক্ষা নিয়ে ফ্রান্সে শিক্ষার্থী-পুলিশ সংঘর্ষ",
+    "summary": "শুক্রবার ফ্রান্সজুড়ে হাজার হাজার উচ্চ বিদ্যালয়ের শিক্ষার্থী শিক্ষামান নিয়ে প্রতিবাদ করেছে এবং ৭০০টিরও বেশি স্কুল বন্ধ করেছে। শিক্ষক স্বল্পতা, অতিভিড় ক্লাসরুম এবং জরাজীর্ণ স্থাপনার বিরুদ্ধে প্রতিবাদকারীদের সাথে পুলিশের সংঘর্ষ হয়েছে। বেলফোর্টে একজন পুলিশ অফিসারকে আক্রমণের পর একজন ১৭ বছর বয়সী গ্রেফতার হয়েছে। ন্যূনতম ৬৫ জন কর্মচারী আহত হয়েছেন এবং পেরিস, স্ট্রাসবার্গসহ একাধিক শহরে টিয়ার গ্যাস ছোড়া হয়েছে।"
+   }
+  },
+  {
+   "id": "1hscdcw",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cm0e08nnneero?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5518/live/05fbdc90-be71-11f1-8a45-cd59664d243b.png",
+   "published": "2026-10-02T16:18:45.000Z",
+   "added": "2026-10-02T20:40:07.419Z",
+   "origTitle": "বিমানবন্দরে কোন ঘটনায় গ্রেফতার আখতারুজ্জামান?",
+   "en": {
+    "title": "Former MP arrested for airport disturbance and threatening officials",
+    "summary": "Major (retired) Akhtar Uzzaman, a former BNP MP and Jamaat collaborator, was arrested on charges of creating chaos at Hazrat Shahjalal airport, threatening officials, and obstructing government work. Dhaka Metropolitan Police picked him up from a Cantonment residence after multiple videos of him arguing and threatening airport staff went viral on social media. The incident stemmed from luggage and trolley shortages during his arrival from Medina."
+   },
+   "bn": {
+    "title": "বিমানবন্দরে বিশৃঙ্খলা সৃষ্টির অভিযোগে সাবেক সাংসদ গ্রেফতার",
+    "summary": "জামায়াত সহযোগী এবং বিএনপির সাবেক সাংসদ মেজর (অব.) আখতারুজ্জামান শাহজালাল বিমানবন্দরে বিশৃঙ্খলা, কর্মকর্তাকে হুমকি এবং সরকারি কাজে বাধা দেওয়ার অভিযোগে গ্রেফতার হয়েছেন। ঢাকা মহানগর গোয়েন্দা পুলিশ তাকে ক্যান্টনমেন্ট বাসা থেকে ধরে এনেছে। মেদিনা থেকে আসার সময় লাগেজ ও ট্রলি সংকটে উত্তেজনা হয়েছিল যা ভাইরাল ভিডিওতে দেখা গেছে।"
+   }
+  },
+  {
+   "id": "82z1dk",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/energy/special-cargo-flight-carrying-rooppur-nuclear-fuel-lands-dhaka-1560881",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/28/rooppur_a_0.jpeg",
+   "published": "2026-10-02T20:20:00.000Z",
+   "added": "2026-10-02T20:40:07.419Z",
+   "origTitle": "Special cargo flight carrying Rooppur nuclear fuel lands in Dhaka",
+   "en": {
+    "title": "Nuclear fuel for Rooppur arrives in Dhaka",
+    "summary": "A cargo flight carrying uranium fuel for Bangladesh's first nuclear power plant landed at Hazrat Shahjalal International Airport late Friday night. The shipment was originally scheduled to arrive on 24 September but was delayed after Pakistan didn't grant airspace clearance. The fuel will power Rooppur's first unit. The aircraft, a Russian-made Ilyushin Il-76, touched down around 11:43pm."
+   },
+   "bn": {
+    "title": "রূপপুরের পারমাণবিক জ্বালানি ঢাকায় পৌঁছেছে",
+    "summary": "বাংলাদেশের প্রথম পারমাণবিক বিদ্যুৎ কেন্দ্র রূপপুরের জন্য ইউরেনিয়াম জ্বালানি বহনকারী একটি কার্গো বিমান শুক্রবার রাতে শাহজালাল আন্তর্জাতিক বিমানবন্দরে অবতরণ করেছে। আগে ২৪ সেপ্টেম্বরে আসার কথা ছিল কিন্তু পাকিস্তান এয়ারস্পেস ক্লিয়ারেন্স না দিয়ে দেরি হয়েছে। এই জ্বালানি প্লান্টের প্রথম ইউনিট চালু করবে। রাত ১১টা ৪৩ মিনিটে রুশ-নির্মিত ইলিউশিন বিমান ল্যান্ড করেছে।"
+   }
+  },
   {
    "id": "17xrup5",
    "section": "bhabna",
@@ -2309,226 +2485,6 @@
    "bn": {
     "title": "ইরানকে অস্ত্র কিনতে সাহায্যকারীদের বিরুদ্ধে যুক্তরাষ্ট্রের নিষেধাজ্ঞা",
     "summary": "যুক্তরাষ্ট্রের ট্রেজারি বিভাগ চীন, হংকং এবং পাকিস্তানে অবস্থিত ১০ জন ব্যক্তি ও সংস্থার বিরুদ্ধে নিষেধাজ্ঞা দিয়েছে, যারা ইরানের প্রতিরক্ষা মন্ত্রণালয়কে অস্ত্র ও যন্ত্রাংশ ক্রয়ে সহায়তা করেছে। ট্রাম্প প্রশাসন বলছে এটি ইরানকে অর্থনৈতিকভাবে বিচ্ছিন্ন করার বৃহত্তর প্রচেষ্টার অংশ। ট্রেজারি বলেছে এই পদক্ষেপ ইরানের অস্ত্র কর্মসূচি দুর্বল করতে এবং সমর্থনকারীদের শাস্তি দিতে লক্ষ্য করে।"
-   }
-  },
-  {
-   "id": "1is03kn",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Daily Sun",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUi13b2JGMVBtSzhYTjFPaUR3dFJnQmgwOV90N2tJWElZNVhoUWZmZEJIYnBGMlZBdjFGU0RhaVZuamZOd1NJZ0Y0RElLQk9CTmplbWgzaGZHY1Mya3JHazdLQnhpdkh6?oc=5",
-   "image": null,
-   "published": "2026-09-29T18:00:00.000Z",
-   "added": "2026-09-29T19:20:30.093Z",
-   "origTitle": "Germany intends to block sale of logistics firm to China’s Cosco - daily-sun.com",
-   "en": {
-    "title": "Germany plans to block Chinese sale of German logistics firm",
-    "summary": "Germany intends to block the sale of a German logistics company to China's Cosco, a major shipping firm. The decision reflects growing concerns about foreign investment in strategic sectors. Germany aims to protect key infrastructure from foreign control."
-   },
-   "bn": {
-    "title": "জার্মানি চায় চীনের কাছে লজিস্টিক্স কোম্পানি বিক্রয় আটকাতে",
-    "summary": "জার্মানি একটি জার্মান লজিস্টিক্স কোম্পানি চীনের কসকোর কাছে বিক্রয় রোধ করতে চায়। সিদ্ধান্তটি কৌশলগত খাতে বিদেশি বিনিয়োগের উদ্বেগ প্রতিফলিত করে। জার্মানি গুরুত্বপূর্ণ অবকাঠামো বিদেশি নিয়ন্ত্রণ থেকে রক্ষা করতে চায়।"
-   }
-  },
-  {
-   "id": "6mxor1",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BSS",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6NGVoUVFHdVQ4UGpROFgza00xcGp3Ujk5bnAtZHJTY0lDVnhqRkdnSnVvendjNi1kekYtWEEtdFljY0tKUkNoekU5bFltM0lkRzJYMnU2cw?oc=5",
-   "image": null,
-   "published": "2026-09-29T03:01:24.000Z",
-   "added": "2026-09-29T19:20:30.093Z",
-   "origTitle": "Trump denies he offered Iran sanctions relief, release of frozen funds",
-   "en": {
-    "title": "Trump denies offering Iran sanctions relief and frozen funds",
-    "summary": "Former US President Trump has denied claims that he offered Iran sanctions relief and the release of frozen funds. The denial comes amid broader discussions about US-Iran relations and potential negotiations. Details of the alleged offer remain unclear."
-   },
-   "bn": {
-    "title": "ট্রাম্প ইরানকে নিষেধাজ্ঞা শিথিলকরণের প্রস্তাব দেওয়ার অস্বীকার করেছেন",
-    "summary": "সাবেক নেতা ট্রাম্প ইরানকে নিষেধাজ্ঞা শিথিল করার এবং হিমায়িত তহবিল মুক্ত করার প্রস্তাব দেওয়ার দাবি অস্বীকার করেছেন। এই বিবৃতি আসেনি যুক্তরাষ্ট্র-ইরান সম্পর্কের বিস্তৃত আলোচনার মধ্যে। প্রস্তাবের বিস্তারিত এখনও অস্পষ্ট।"
-   }
-  },
-  {
-   "id": "6349u6",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "UNB",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFBfd3N3WVBjY184ZTJneDlWYXZSOWY4a08xRmUwX2tKZENHZ3BYQmw5NVJaQWMyaDZya0JiWnl3OGY1ZHRyc2FkYVkwV283NmdjSThpQXNQSDNCaEpKbjRSUnFsaWZpOEtrLVFzLURscFE0eDV4M3ZGMTZUT3VDak5xc0xYbkxRSVE3UEs3dVZub29QZXRYNFBiMDhzVlY0TVpEZ0FqNDJzbG9TVkRB?oc=5",
-   "image": null,
-   "published": "2026-09-29T06:22:38.000Z",
-   "added": "2026-09-29T19:20:30.093Z",
-   "origTitle": "US ban on nearly $1b Canadian imports takes effect amid trade tensions",
-   "en": {
-    "title": "US trade ban on Canadian imports takes effect",
-    "summary": "The United States has implemented a ban on nearly $1 billion worth of Canadian imports, marking an escalation in trade tensions between the two countries. The move reflects ongoing disputes over trade policies. Canada may consider retaliatory measures in response."
-   },
-   "bn": {
-    "title": "যুক্তরাষ্ট্র কানাডার পণ্যে প্রায় এক বিলিয়ন ডলার নিষেধাজ্ঞা কার্যকর করেছে",
-    "summary": "যুক্তরাষ্ট্র কানাডা থেকে আমদানিকৃত প্রায় এক বিলিয়ন ডলার মূল্যের পণ্যে নিষেধাজ্ঞা চালু করেছে। এটি দুই দেশের মধ্যে বাণিজ্য উত্তেজনা বাড়াচ্ছে। কানাডা প্রতিশোধমূলক পদক্ষেপ বিবেচনা করতে পারে।"
-   }
-  },
-  {
-   "id": "53fr82",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Bangladesh Post",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjZQRzZDbGZpNmt5cElsUEN0Zy1iWi1SZTZITmd1d2gxa3UzN2ZEZzBFNHdIRXgyS3Q0VHQ2eGJIdVlVcUpKcUttSGtUZ1ptVXFIeU1qTW1wYmFsTkFCaHJTUjUtaTRSd2hIQlZ5MVF2QklyU0hYMVZMTzlXVW5XU0ZrUVdOdXFpRU1pbFJkQy14VmpXZF81Ym1n?oc=5",
-   "image": null,
-   "published": "2026-09-29T12:47:19.000Z",
-   "added": "2026-09-29T19:20:30.093Z",
-   "origTitle": "Measles-related death toll crosses 1,100 in Bangladesh",
-   "en": {
-    "title": "Measles death toll in Bangladesh exceeds 1,100",
-    "summary": "The number of measles-related deaths in Bangladesh has crossed 1,100. This marks a serious public health concern requiring urgent attention. Vaccination and preventive measures remain critical to control the outbreak."
-   },
-   "bn": {
-    "title": "বাংলাদেশে হাম রোগে মৃত্যু ১,১০০ ছাড়িয়ে গেছে",
-    "summary": "বাংলাদেশে হাম রোগজনিত মৃত্যু ১,১০০ অতিক্রম করেছে। এটি একটি গুরুতর স্বাস্থ্য সংকট যার জরুরি মনোযোগ প্রয়োজন। টিকাকরণ এবং প্রতিরোধমূলক ব্যবস্থা রোগ নিয়ন্ত্রণে অপরিহার্য।"
-   }
-  },
-  {
-   "id": "17emjj5",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/09/29/tortoise-wandering-Monroe-Township-New-Jersey/9821790704899/",
-   "image": "https://cdnph.upi.com/ph/st/th/9821790704899/2026/i/17907052852410/v1.5/Large-tortoise-found-wandering-loose-in-New-Jersey.jpg",
-   "published": "2026-09-29T18:08:24.000Z",
-   "added": "2026-09-29T19:20:30.093Z",
-   "origTitle": "Look: Large tortoise found wandering loose in New Jersey",
-   "en": {
-    "title": "Giant tortoise caught wandering loose in New Jersey",
-    "summary": "Police in New Jersey found a large tortoise roaming free and are trying to track down its owner. They joked about the \"very slow-moving suspect\" in their search. The tortoise is safe but clearly took a wrong turn somewhere."
-   },
-   "bn": {
-    "title": "নিউ জার্সিতে বিশাল কচ্ছপ রাস্তায় ঘুরছিল",
-    "summary": "নিউ জার্সির পুলিশ একটি বড় কচ্ছপ রাস্তায় ঘুরতে পেয়েছে এবং এর মালিক খুঁজছে। তারা এই ঘটনাকে নিয়ে হালকা মেজাজে মন্তব্য করেছে। কচ্ছপটি নিরাপদ কিন্তু স্পষ্টতই পথ হারিয়েছে।"
-   }
-  },
-  {
-   "id": "ufcf7h",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/n3epbmaye4",
-   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-29%2Fxbtx9290%2Fuimage-20.jpg?rect=0%2C39%2C1064%2C559&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-   "published": "2026-09-29T18:56:18.000Z",
-   "added": "2026-09-29T19:20:30.093Z",
-   "origTitle": "সামাজিক নিরাপত্তায় সুবিধাভোগী বাছাইয়ে রাজনৈতিক বিবেচনা না করার পরামর্শ সংসদীয় কমিটির",
-   "en": {
-    "title": "Parliament committee warns against political bias in welfare selection",
-    "summary": "A parliamentary committee told the Social Welfare Ministry to pick beneficiaries of social safety programmes based on genuine need, not political connections. The Family Card scheme is currently running in 56 wards across 54 upazilas in 52 districts. The committee wants the ministry to work as a unified team to reach marginalised communities fairly."
-   },
-   "bn": {
-    "title": "সামাজিক সুবিধা বাছাইয়ে রাজনীতির হস্তক্ষেপ বন্ধের নির্দেশ",
-    "summary": "সংসদের স্থায়ী কমিটি সমাজকল্যাণ মন্ত্রণালয়কে সত্যিকারের দরিদ্রদের চিহ্নিত করতে বলেছে, রাজনৈতিক প্রভাব ছাড়াই। ফ্যামিলি কার্ড প্রকল্প এখন ৫২টি জেলার ৫৪টি উপজেলায় চলছে। কমিটি চায় মন্ত্রণালয় দলীয় স্বার্থ ছাড়াই সবার কল্যাণে কাজ করুক।"
-   }
-  },
-  {
-   "id": "jeotxl",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/nations-93-year-olds-announce-plan-to-crash-car-into-side-of-bank/",
-   "image": "https://theonion.com/wp-content/uploads/2026/09/Nations_93_Year_Olds_NIB_IHA-GR.jpg",
-   "published": "2026-09-29T17:42:57.000Z",
-   "added": "2026-09-29T19:20:11.841Z",
-   "origTitle": "Nation’s 93-Year-Olds Announce Plan To Crash Car Into Side Of Bank",
-   "en": {
-    "title": "Nation's 93-year-olds plan massive bank car-crash mission",
-    "summary": "[SATIRE] In a joint statement, hundreds of thousands of American 93-year-olds announced they plan to crash their cars into banks. The group promised confusion, cataracts, and complete disregard for traffic laws would not stop their mission. They vowed to cause massive structural damage while somehow walking away unscathed."
-   },
-   "bn": {
-    "title": "দেশের ৯৩ বছর বয়সীরা ব্যাংকে গাড়ি চালানোর পরিকল্পনা করছে",
-    "summary": "[এটি হাস্যরস] যৌথ বিবৃতিতে লক্ষ লক্ষ আমেরিকান ৯৩ বছর বয়সী ব্যক্তি ঘোষণা করেছেন তারা ব্যাংকে গাড়ি চালানোর পরিকল্পনা করছেন। এই দলটি বলেছে যে বিভ্রান্তি, ছানি এবং ট্রাফিক আইন অমান্য করা তাদের লক্ষ্য রোধ করতে পারবে না।"
-   }
-  },
-  {
-   "id": "174coes",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/sports/football/aw7ywg0f03",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-09-29/2febelqi/562866-01-02.jpg",
-   "published": "2026-09-29T16:38:14.000Z",
-   "added": "2026-09-29T19:20:11.841Z",
-   "origTitle": "Brazil come from behind to beat Australia 4-2 in friendly",
-   "en": {
-    "title": "Brazil beats Australia 4-2 in Brisbane friendly",
-    "summary": "Brazil came from behind to defeat Australia 4-2 in a friendly match in Brisbane before over 52,000 fans. Australia took a 2-1 lead early, but Brazil equalized via penalty and scored twice more in the second half. Brazil manager Carlo Ancelotti praised Australia's intensity and quality."
-   },
-   "bn": {
-    "title": "ব্রিসবেনে ব্রাজিল অস্ট্রেলিয়াকে ৪-২ গোলে হারিয়েছে",
-    "summary": "ব্রাজিল ব্রিসবেনে বন্ধুত্বপূর্ণ ম্যাচে অস্ট্রেলিয়াকে ৪-২ গোলে পরাজিত করেছে, যেখানে ৫২,০০০েরও বেশি দর্শক উপস্থিত ছিল। অস্ট্রেলিয়া প্রথমে ২-১ এগিয়ে গিয়েছিল কিন্তু ব্রাজিল পেনাল্টি থেকে সমান করে দ্বিতীয় অর্ধে দুই গোল করে জয় নিশ্চিত করেছে।"
-   }
-  },
-  {
-   "id": "19snru3",
-   "section": "news",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/others/971410/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A7%81%E0%A7%9C%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A7%9F",
-   "image": null,
-   "published": "2026-09-29T19:15:49.000Z",
-   "added": "2026-09-29T19:20:11.841Z",
-   "origTitle": "আবারও শুরু হচ্ছে নতুন কুড়ি প্রতিযোগিতা, কবে কোথায় জেনে নিন",
-   "en": {
-    "title": "Bangladesh TV opens talent hunt for kids: Naun Kuri 2026",
-    "summary": "Bangladesh Television announced registrations for Naun Kuri 2026, a talent search for children and teens. Applications open October 1st. Contestants can compete in acting, recitation, storytelling, public speaking, and dance. Winners will get a platform to showcase their skills on national television."
-   },
-   "bn": {
-    "title": "বাংলাদেশ টিভি শিশুদের জন্য ট্যালেন্ট হান্ট খুলছে: নতুন কুঁড়ি ২০২৬",
-    "summary": "বাংলাদেশ টেলিভিশন 'নতুন কুঁড়ি ২০২৬' ঘোষণা করেছে যা শিশু-কিশোরদের জন্য একটি প্রতিভা অনুসন্ধান প্রতিযোগিতা। আবেদন প্রক্রিয়া ১ অক্টোবর থেকে শুরু হবে। অভিনয়, আবৃত্তি, গল্পবলা, উপস্থিত বক্তৃতা এবং নৃত্যে অংশগ্রহণ করা যাবে।"
-   }
-  },
-  {
-   "id": "665tgw",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg",
-   "published": "2026-09-29T16:23:58.000Z",
-   "added": "2026-09-29T19:20:11.841Z",
-   "origTitle": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-   "en": {
-    "title": "Spain bans evictions until 2030 after housing crisis protests",
-    "summary": "Spain's government approved a ban on evictions until 2030 following protests over the eviction of an 87-year-old woman. The measures also include rolling over rental contracts until 2028 and banning investment firms from buying housing. Health Minister Mónica García said the policies would help over five million people, though opposition parties raised concerns about small landlords."
-   },
-   "bn": {
-    "title": "স্পেন আবাসন সংকটের পর ২০৩০ পর্যন্ত উচ্ছেদ নিষিদ্ধ করেছে",
-    "summary": "একজন ৮৭ বছর বয়সী নারীর উচ্ছেদের বিরুদ্ধে প্রতিবাদের পর স্পেনের সরকার ২০৩০ পর্যন্ত উচ্ছেদ নিষিদ্ধ করার অনুমোদন দিয়েছে। এই ব্যবস্থায় ভাড়া চুক্তি ২০২৮ পর্যন্ত স্থায়ী করা এবং বিনিয়োগ কোম্পানিগুলোকে বাড়ি কেনা নিষিদ্ধ করা অন্তর্ভুক্ত। স্বাস্থ্য মন্ত্রী মোনিকা গার্সিয়া বলেন এই নীতি ৫০ লাখেরও বেশি মানুষকে সাহায্য করবে।"
    }
   }
  ]

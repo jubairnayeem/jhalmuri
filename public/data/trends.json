@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-02T15:45:10.664Z",
+ "updatedAt": "2026-10-02T20:40:31.133Z",
  "burning": [
-  {
-   "id": "gtcc68",
-   "heat": 5,
-   "why": {
-    "en": "Bangladesh football's worst ASEAN Cup loss: Indonesia 9-2. Massive shock, covered by multiple outlets.",
-    "bn": "বাংলাদেশ ফুটবলের ভয়াবহ হার: ইন্দোনেশিয়ার কাছে ৯-২। একাধিক আউটলেট কভার করেছে।"
-   },
-   "rank": 1
-  },
   {
    "id": "2p7ejv",
    "heat": 5,
    "why": {
-    "en": "Death of bdnews24.com editor-in-chief Toufique Imrose Khalidi. Major figure in Bangladesh journalism, widely mourned.",
-    "bn": "bdnews24.com এর সম্পাদক তৌফিক ইমরোজ খালিদির মৃত্যু। বাংলাদেশ সাংবাদিকতার বড় ব্যক্তিত্ব।"
+    "en": "Senior journalist and bdnews24.com editor-in-chief dies; media community mourns",
+    "bn": "সিনিয়র সাংবাদিক এবং bdnews24.com সম্পাদক-ইন-চিফের মৃত্যু; মিডিয়া সম্প্রদায় শোকাহত"
+   },
+   "rank": 1
+  },
+  {
+   "id": "b2f6ot",
+   "heat": 5,
+   "why": {
+    "en": "Four children dead as measles cases spike dramatically; health crisis",
+    "bn": "চারজন শিশু মৃত্যু, হাম রোগের কেস বেড়েছে; স্বাস্থ্য সংকট"
    },
    "rank": 2
   },
   {
-   "id": "qvjkkw",
+   "id": "m6ehzo",
    "heat": 4,
    "why": {
-    "en": "MP Ferdausi Ahmed Misty resigns after assault probe. Political drama, direct impact on parliament.",
-    "bn": "এমপি ফেরদৌসি আহমেদ মিস্টির হামলা তদন্তের পর পদত্যাগ। রাজনৈতিক আলোড়ন।"
+    "en": "Bangladesh football suffers heavy defeat 9-2 to Indonesia in ASEAN Cup",
+    "bn": "বাংলাদেশ ফুটবল এশিয়ান কাপে ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে"
    },
    "rank": 3
   },
   {
-   "id": "8gv63v",
+   "id": "fzx1ps",
    "heat": 4,
    "why": {
-    "en": "Remittances jump 13% this quarter. Strong economic signal, trending with investment interest on Google.",
-    "bn": "প্রবাসী আয় এক ত্রৈমাসিকে ১৩% বৃদ্ধি। অর্থনৈতিক ভালো খবর।"
+    "en": "Teen gangs reportedly switching political patrons after government shift",
+    "bn": "সরকার পরিবর্তনের পর কিশোর গ্যাংগুলি রাজনৈতিক পৃষ্ঠপোষক পরিবর্তন করছে"
    },
    "rank": 4
   },
   {
-   "id": "1cs30j4",
+   "id": "82z1dk",
    "heat": 3,
    "why": {
-    "en": "252 women and girls faced violence in September. Serious social issue, consistent reporting concern.",
-    "bn": "সেপ্টেম্বরে ২৫২ নারী ও শিশু সহিংসতার শিকার। গুরুত্বপূর্ণ সামাজিক সমস্যা।"
+    "en": "Nuclear fuel for Rooppur power plant arrives in Dhaka; major infrastructure milestone",
+    "bn": "রূপপুর পাওয়ার প্লান্টের জন্য পরমাণু জ্বালানি ঢাকায় পৌঁছেছে"
    },
    "rank": 5
   }
@@ -50,50 +50,50 @@
  "gossip": [
   {
    "id": "q9s1z8",
-   "tag": "#CricketBracket",
+   "tag": "#Bangladesh cricket",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh in England's World Cup group",
-    "text": "Bangladesh qualifies for England and South Africa's group stage. Cricket fans tracking tournament brackets and fixtures."
+    "title": "Bangladesh joins England and South Africa's group",
+    "text": "Bangladesh has been grouped with England and South Africa in an upcoming tournament."
    },
    "bn": {
-    "title": "বাংলাদেশ ইংল্যান্ডের গ্রুপে",
-    "text": "বাংলাদেশ ইংল্যান্ড এবং দক্ষিণ আফ্রিকার সাথে এক গ্রুপে পড়েছে। ক্রিকেট ফ্যানরা টুর্নামেন্ট ট্র্যাক করছে।"
+    "title": "বাংলাদেশ ইংল্যান্ড এবং সাউথ আফ্রিকার গ্রুপে",
+    "text": "বাংলাদেশ ইংল্যান্ড এবং সাউথ আফ্রিকার সাথে একটি গ্রুপে রয়েছে।"
+   }
+  },
+  {
+   "id": "8gv63v",
+   "tag": "#Bangladesh economy",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Remittances jump 13% this quarter",
+    "text": "Remittance inflows to Bangladesh have surged by 13% in the current quarter, boosting foreign currency reserves."
+   },
+   "bn": {
+    "title": "রেমিট্যান্স ১৩% বেড়েছে",
+    "text": "বাংলাদেশে এই ত্রৈমাসিকে রেমিট্যান্স ১৩% বৃদ্ধি পেয়েছে।"
    }
   },
   {
    "id": "1ehx2r8",
-   "tag": "#KoreanWave",
+   "tag": "#Korean wave",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Korean entertainment boom in Bangladesh",
-    "text": "Korean wave sweeping Bangladesh youth culture. K-dramas, K-pop and Korean fashion trending among Gen Z."
+    "title": "Korean wave sweeping Bangladesh youth",
+    "text": "Korean culture and entertainment continue to dominate trends among young Bangladeshis."
    },
    "bn": {
-    "title": "বাংলাদেশে কোরিয়ান সংস্কৃতি",
-    "text": "কোরিয়ান ওয়েভ বাংলাদেশী যুবকদের মধ্যে ভাইরাল হচ্ছে। কে-ড্রামা, কে-পপ ট্রেন্ডিং।"
-   }
-  },
-  {
-   "id": "636u0e",
-   "tag": "#GreenEnergy",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "PM launches rooftop solar in Feni",
-    "text": "Prime Minister opens rooftop solar systems project in Feni. Part of push toward renewable energy and local development."
-   },
-   "bn": {
-    "title": "ফেনিতে সৌর শক্তি প্রকল্প",
-    "text": "প্রধানমন্ত্রী ফেনিতে ছাদবাস্তু সৌর প্যানেল প্রকল্পের উদ্বোধন করেছেন।"
+    "title": "কোরিয়ান সংস্কৃতি বাংলাদেশে ছড়িয়ে পড়ছে",
+    "text": "কোরিয়ান সংস্কৃতি এবং বিনোদন বাংলাদেশের তরুণদের মধ্যে ট্রেন্ড করছে।"
    }
   }
  ],
