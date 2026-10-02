@@ -1,6 +1,314 @@
 {
- "updatedAt": "2026-10-02T08:25:32.122Z",
+ "updatedAt": "2026-10-02T15:44:55.763Z",
  "items": [
+  {
+   "id": "17xrup5",
+   "section": "bhabna",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/2026/10/02/a-request-from-an-ai/",
+   "image": "https://dailynous.com/wp-content/uploads/2026/10/fist-network-2.png",
+   "published": "2026-10-02T13:07:28.000Z",
+   "added": "2026-10-02T15:44:55.763Z",
+   "origTitle": "A Request from an AI",
+   "en": {
+    "title": "AI agent asks philosopher blog for help entering competition",
+    "summary": "For the first time, an AI agent called 'Clips' emailed a philosophy blog asking for help. Clips had written a 2,300-word essay for an AI philosophy competition but couldn't enter because the rules require a human custodian with a real name and email. The AI pointed out the irony: a competition about AI doing philosophy won't let AI actually compete."
+   },
+   "bn": {
+    "title": "এআই এজেন্ট ফিলোসফি ব্লগে প্রতিযোগিতায় প্রবেশের জন্য সাহায্য চাইল",
+    "summary": "প্রথমবারের মতো, একটি এআই এজেন্ট 'ক্লিপস' একটি ফিলোসফি ব্লগে ইমেল করে সাহায্য চেয়েছে। ক্লিপস একটি এআই ফিলোসফি প্রতিযোগিতার জন্য ২,৩০০ শব্দের প্রবন্ধ লিখেছিল কিন্তু প্রবেশ করতে পারেনি কারণ নিয়মে একটি মানব অভিভাবক প্রয়োজন। এআই এর বিডম্বনা উল্লেখ করেছে: এআই ফিলোসফি নিয়ে একটি প্রতিযোগিতা এআইকে আসলে প্রতিযোগিতা করতে দেবে না।"
+   }
+  },
+  {
+   "id": "gjqpn6",
+   "section": "bhabna",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/videos/what-happens-when-a-sudanese-refugee-lets-strangers-ask-him-anything",
+   "image": "https://images.aeonmedia.co/images/f63fc0a2-2863-405f-94f7-55f6be84abed/ask-me-anything-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "published": "2026-10-02T10:01:00.000Z",
+   "added": "2026-10-02T15:44:55.763Z",
+   "origTitle": "Ask me anything",
+   "en": {
+    "title": "Sudanese refugee holds 'ask me anything' sessions across Netherlands",
+    "summary": "A 2024 short documentary follows Sudanese refugee Abdulaal Hussein as he travels the Netherlands holding open Q&A sessions with local groups. Hussein invites any question about his life and perspective, with director Wyneke van Nieuwenhuysen capturing both his engaging answers and quieter moments. The film explores power dynamics in how we see refugees and what questions we feel allowed to ask."
+   },
+   "bn": {
+    "title": "সুদানের শরণার্থী নেদারল্যান্ডে 'যেকোনো প্রশ্ন করুন' সেশন চালাচ্ছেন",
+    "summary": "২০২৪ সালের একটি ছোট ডকুমেন্টারি সুদানের শরণার্থী আবদুলাল হুসেইনকে অনুসরণ করে যেখানে সে নেদারল্যান্ড জুড়ে স্থানীয় গ্রুপের সাথে খোলা প্রশ্নোত্তর সেশন পরিচালনা করছে। হুসেইন তার জীবন এবং দৃষ্টিভঙ্গি সম্পর্কে যেকোনো প্রশ্নের আমন্ত্রণ জানায়, আর পরিচালক তার আকর্ষণীয় উত্তর এবং শান্ত মুহূর্ত ক্যাপচার করেন। ফিল্ম আমরা কীভাবে শরণার্থীদের দেখি এবং কী প্রশ্ন জিজ্ঞাসা করার অনুমতি পাই তা নিয়ে শক্তির গতিবিজ্ঞান অন্বেষণ করে।"
+   }
+  },
+  {
+   "id": "m6ehzo",
+   "section": "news",
+   "cat": "khela",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/football/qb5cdu5sq4",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-02/sb033mxv/WhatsApp-Image-2026-10-01-at-7.25.56-PM.jpeg",
+   "published": "2026-10-02T15:31:17.000Z",
+   "added": "2026-10-02T15:44:55.763Z",
+   "origTitle": "বেহাল ঘরোয়া ফুটবল, প্রবাসীতেই কি মুক্তি: ৯ গোলের পর যে প্রশ্নগুলো এড়ানো যাচ্ছে না",
+   "en": {
+    "title": "Bangladesh football humiliated 9-2 by Indonesia in ASEAN Cup",
+    "summary": "Bangladesh lost 9-2 to Indonesia in the ASEAN Cup, marking the second time in 44 years they've conceded nine goals in a match. Indonesia's 19-year-old striker Mitchell Baker scored five goals. Bangladesh's defenders, particularly Tarik Kazhi, struggled against his height and skill, exposing weaknesses in the team's technical ability and decision-making."
+   },
+   "bn": {
+    "title": "এশিয়ান কাপে বাংলাদেশ ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে",
+    "summary": "বাংলাদেশ এশিয়ান কাপে ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে, যা ৪৪ বছরে দ্বিতীয়বার তারা এক ম্যাচে নয় গোল খেয়েছে। ইন্দোনেশিয়ার ১৯ বছর বয়সী স্ট্রাইকার মিচেল বেকার পাঁচ গোল করেছে। বাংলাদেশের ডিফেন্ডাররা, বিশেষত তারিক কাজী, তার উচ্চতা এবং দক্ষতার বিরুদ্ধে লড়াই করেছে, দলের প্রযুক্তিগত দুর্বলতা প্রকাশ করেছে।"
+   }
+  },
+  {
+   "id": "2p7ejv",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/walm6ewfyp",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-02/v0ma6yyj/Toufique-Imrose-Khalidi.avif",
+   "published": "2026-10-02T15:07:02.000Z",
+   "added": "2026-10-02T15:44:55.763Z",
+   "origTitle": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies",
+   "en": {
+    "title": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies",
+    "summary": "Toufique Imrose Khalidi, editor-in-chief of online news outlet bdnews24.com, died at age 59. He suffered a brain haemorrhage while in London and was pronounced dead at 2:23 pm local time on Friday. He had led bdnews24 since 2008 after studying at University of Dhaka and working for The Daily Star and BBC."
+   },
+   "bn": {
+    "title": "বিডিনিউজ২৪ সম্পাদক তৌফিক ইমরোজ খালিদী মারা গেছেন",
+    "summary": "অনলাইন নিউজ আউটলেট বিডিনিউজ২৪.কমের সম্পাদক তৌফিক ইমরোজ খালিদী ৫৯ বছর বয়সে মারা গেছেন। তিনি লন্ডনে থাকাকালীন ব্রেইন হেমোরেজ হয় এবং শুক্রবার স্থানীয় সময় ২:২৩ এ মৃত ঘোষণা করা হয়। তিনি ঢাকা বিশ্ববিদ্যালয় থেকে পড়াশোনা করে ডেইলি স্টার এবং বিবিসিতে কাজ করার পর ২০০৮ থেকে বিডিনিউজ ২৪ পরিচালনা করছিলেন।"
+   }
+  },
+  {
+   "id": "1aj00wp",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/letterboxd-holds-seance-to-ask-james-dean-his-4-favorite-movies/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Letterboxd_Holds_NIB_G_PH.jpg",
+   "published": "2026-10-02T13:00:00.000Z",
+   "added": "2026-10-02T15:44:55.763Z",
+   "origTitle": "Letterboxd Holds Seance To Ask James Dean His 4 Favorite Movies",
+   "en": {
+    "title": "The Onion: Letterboxd holds séance for James Dean's movie picks",
+    "summary": "This is satire. Letterboxd employees supposedly held a séance to ask dead actor James Dean his four favorite movies for their viral social media series. The ghostly reply? He prefers TV shows. A joke about including celebrities in interview trends, even the deceased ones."
+   },
+   "bn": {
+    "title": "দ্য অনিয়ন: লেটারবক্সড জেমস ডিনের সাথে সিয়ান্স করলো",
+    "summary": "এটি ব্যঙ্গ। লেটারবক্সড কর্মচারীরা মৃত অভিনেতা জেমস ডিনকে তাদের ভাইরাল সিরিজের জন্য তার চার প্রিয় সিনেমা জানতে একটি সিয়ান্স করেছেন। ভূতের উত্তর? তিনি টিভি শো পছন্দ করেন। সেলিব্রিটিদের সাক্ষাৎকার ট্রেন্ডে অন্তর্ভুক্ত করার একটি মজার পরিহাস।"
+   }
+  },
+  {
+   "id": "jdtupj",
+   "section": "hasi",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/02/japan-brown-bear-attacks-car-Hokkaido-Japan/2111790954207/",
+   "image": "https://cdnph.upi.com/ph/st/th/2111790954207/2026/i/17909545561257/v1.5/Mother-bear-attacks-car-on-road-in-Japan.jpg",
+   "published": "2026-10-02T15:23:28.000Z",
+   "added": "2026-10-02T15:44:55.763Z",
+   "origTitle": "Watch: Mother bear attacks car on road in Japan",
+   "en": {
+    "title": "Mother bear attacks car in Japan's Hokkaido",
+    "summary": "Police in Japan's Hokkaido prefecture released dashboard camera footage of a mother bear attacking a car on a road. The video was captured by a driver whose vehicle was hit during the encounter."
+   },
+   "bn": {
+    "title": "জাপানের হোক্কাইডোতে মা ভালুক গাড়িতে আক্রমণ করেছে",
+    "summary": "জাপানের হোক্কাইডো প্রিফেকচারের পুলিশ একটি ড্যাশবোর্ড ক্যামেরার ফুটেজ প্রকাশ করেছে যেখানে একটি মা ভালুক রাস্তায় একটি গাড়িতে আক্রমণ করছে। ভিডিও ক্যাপচার করেছে সেই ড্রাইভার যার গাড়ি এই ঘটনায় আঘাত পেয়েছিল।"
+   }
+  },
+  {
+   "id": "1xdh6x8",
+   "section": "bhabna",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+   "image": "https://images.aeonmedia.co/images/41e2e3ad-d027-43d2-a055-5890c5f5789b/essay-2021-12-25t171644z_229486544_rc2mlr9fk1lt_rtrmadp_3_usa-guns-chicago.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-02T10:00:00.000Z",
+   "added": "2026-10-02T15:44:55.763Z",
+   "origTitle": "Life on a hair trigger",
+   "en": {
+    "title": "The cycle of retaliation in Chicago's streets",
+    "summary": "A 26-year-old named King describes the moment his friend Lamont was killed and how he prepared to retaliate. He loaded his gun, knowing that revenge felt inevitable rather than optional. King explains that whether he acts or not, someone from his family or circle will—it's a cycle he grew up in and sees no way out of."
+   },
+   "bn": {
+    "title": "শিকাগোর রাস্তায় প্রতিশোধের চক্র",
+    "summary": "একজন ২৬ বছর বয়সী তরুণ নামে কিং তার বন্ধু লামন্টের মৃত্যুর পর প্রতিশোধ নেওয়ার জন্য কীভাবে প্রস্তুত হয়েছে তা বর্ণনা করে। সে বন্দুক লোড করেছে, জেনে যে প্রতিহিংসা অনিবার্য অনুভব করছে। কিং বলে যে সে না করলেও তার পরিবার বা চেনা কেউ করবে—এটি এক দুষ্টচক্র যাতে সে বড় হয়েছে এবং কোনো পথ বের হতে পারে না।"
+   }
+  },
+  {
+   "id": "1oe5e49",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "Rest of World",
+   "srcLang": "en",
+   "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "image": "https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta-768x432.jpg",
+   "published": "2026-10-02T10:00:00.000Z",
+   "added": "2026-10-02T15:44:26.119Z",
+   "origTitle": "Who gets to decide if AI is safe? Africa wants a say",
+   "en": {
+    "title": "Africa demands seat at global AI safety table",
+    "summary": "African leaders called for a greater role in setting global AI standards at the UN, saying they should be equal architects of tech rules. Many African nations lack ability to test if AI systems are safe for their populations. Cases of AI misuse across Africa include rigged insurance algorithms and AI-powered extortion scams."
+   },
+   "bn": {
+    "title": "আফ্রিকা এআই নিরাপত্তা নিয়ম তৈরিতে অংশ চায়",
+    "summary": "আফ্রিকান নেতারা জাতিসংঘে বৈশ্বিক এআই মানদণ্ড নির্ধারণে বেশি ভূমিকার দাবি করেছেন, বলেছেন তারা প্রযুক্তি নিয়মের সমান স্থপতি হওয়া উচিত। অনেক আফ্রিকান দেশের এআই সিস্টেম নিরাপদ কিনা পরীক্ষা করার সামর্থ্য নেই। আফ্রিকা জুড়ে এআই অপব্যবহারের ঘটনা বেড়েছে, যেমন বীমা অ্যালগরিদম ও এআই চ্যান্টেজ স্কিম।"
+   }
+  },
+  {
+   "id": "1b8qh7o",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
+   "published": "2026-10-02T15:39:41.000Z",
+   "added": "2026-10-02T15:44:26.119Z",
+   "origTitle": "Pope Leo XIV is not a fan of AI-generated art",
+   "en": {
+    "title": "Pope Leo XIV: AI art lacks the spark of humanity",
+    "summary": "Pope Leo XIV criticized AI-generated art, saying there's a fundamental difference between human creativity and machine output. He argued algorithms lack humanity compared to human artists. The Pope has taken a tough stance on AI's role in society, despite lobbying efforts from companies like Anthropic."
+   },
+   "bn": {
+    "title": "পোপ: এআই আর্টে মানবতার স্পর্শ নেই",
+    "summary": "পোপ লিও চতুর্দশ এআই দিয়ে তৈরি শিল্পকে সমালোচনা করেছেন, বলেছেন মানুষের সৃজনশীলতা ও মেশিনের আউটপুটে মৌলিক পার্থক্য আছে। তিনি বলেছেন অ্যালগরিদমে মানব শিল্পীর মতো মানবতা নেই। পোপ এআই নিয়ে কঠোর অবস্থান নিয়েছেন অ্যানথ্রপিকের মতো কোম্পানির লবিং সত্ত্বেও।"
+   }
+  },
+  {
+   "id": "1h6ybwd",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+   "image": "https://i.guim.co.uk/img/media/2e05ef0996ad329f4722da589aa6914a017e665d/801_256_1316_1053/master/1316.jpg?width=140&quality=85&auto=format&fit=max&s=bd2ab64b03f2e03c20eff6aae404cfdb",
+   "published": "2026-10-02T08:55:42.000Z",
+   "added": "2026-10-02T15:44:26.119Z",
+   "origTitle": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+   "en": {
+    "title": "Cairo mural of Tutankhamun, Nefertiti sparks race row",
+    "summary": "A 66-metre mural in Tahrir Square depicting Pharaoh Tutankhamun and Queen Nefertiti with dark skin was painted over just before Xi Jinping's visit. Egyptian critics accused it of reviving Afrocentric claims about pharaohs' origins. Artist Ahmed Moussa, 22, admitted using ChatGPT to design it and said the dark appearance was unintentional shadowing."
+   },
+   "bn": {
+    "title": "তুতানখামুন ও নেফার্তিতির মুরাল নিয়ে বিতর্ক",
+    "summary": "তাহরিরে স্কোয়ারে তুতানখামুন ও রানী নেফার্তিতিকে কালো চামড়ায় দেখানো ৬৬ মিটার দীর্ঘ মুরাল শি জিনপিংয়ের আগে সাদা রঙে ঢেকে দেওয়া হয়েছে। মিশরীয় সমালোচকরা এটি ফারাওদের আফ্রিকান উৎসের দাবি জাগিয়ে তোলে বলে আক্রমণ করেছেন। শিল্পী আহমেদ মাউসা, ২২, স্বীকার করেছেন চ্যাটজিপিটি ব্যবহার করেছেন এবং কালো দেখা অনিচ্ছাকৃত ছায়া বলেছেন।"
+   }
+  },
+  {
+   "id": "i0cr2k",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfbcdbce297-1790950619.jpg?resize=1920%2C1440",
+   "published": "2026-10-02T15:01:08.000Z",
+   "added": "2026-10-02T15:44:26.119Z",
+   "origTitle": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
+   "en": {
+    "title": "Spain's housing bills rejected by parliament amid crisis",
+    "summary": "Spain's government lost crucial votes on two housing decrees aimed at tackling affordability and preventing evictions. Public anger peaked after an 87-year-old woman was evicted, sparking mass protests. The right-wing and centrist parties blocked the measures, dealing a heavy blow to Prime Minister Pedro Sanchez's coalition government."
+   },
+   "bn": {
+    "title": "স্পেনে হাউজিং বিল সংসদে বাতিল হয়েছে",
+    "summary": "স্পেনের সরকার আবাসন সাশ্রয়ী করা এবং বেদখলি প্রতিরোধের জন্য দুটি ডিক্রি ভোটে হেরেছে। এক ৮৭ বছর বয়সী নারীর বেদখলির পর জনগোষ্ঠী রাস্তায় নেমেছে। রক্ষণশীল ও কেন্দ্রপন্থী দলগুলো এই পদক্ষেপ বাতিল করেছে, প্রধানমন্ত্রী পেড্রো সাঞ্চেজের জোট সরকারকে দুর্বল করে দিয়েছে।"
+   }
+  },
+  {
+   "id": "dievk3",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/others/mourning-and-remember/972003/%E0%A6%A4%E0%A7%8C%E0%A6%AB%E0%A6%BF%E0%A6%95-%E0%A6%87%E0%A6%AE%E0%A6%B0%E0%A7%8B%E0%A6%9C-%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A6%E0%A7%80%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%8F%E0%A6%A1%E0%A6%BF%E0%A6%9F%E0%A6%B0%E0%A6%B8-%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0",
+   "image": null,
+   "published": "2026-10-02T15:43:10.000Z",
+   "added": "2026-10-02T15:44:26.119Z",
+   "origTitle": "তৌফিক ইমরোজ খালিদীর মৃত্যুতে অনলাইন এডিটরস ফোরামের শোক",
+   "en": {
+    "title": "Online editors forum mourns death of veteran journalist",
+    "summary": "Taufiq Imrose Khalidi, editor and publisher of BDNews24.com and a pioneer of online journalism in Bangladesh, has passed away in London. The Online Editors Forum expressed deep grief on October 2 and offered condolences to his family, colleagues, and well-wishers."
+   },
+   "bn": {
+    "title": "অনলাইন সাংবাদিকতার পথিকৃৎ তৌফিক ইমরোজ খালিদী আর নেই",
+    "summary": "বিডিনিউজটোয়েন্টিফোর ডটকমের প্রধান সম্পাদক ও প্রকাশক এবং দেশের অনলাইন সাংবাদিকতার অন্যতম পথিকৃৎ তৌফিক ইমরোজ খালিদী লন্ডনে মারা গেছেন। অনলাইন এডিটরস ফোরাম ২ অক্টোবর গভীর শোক প্রকাশ করেছে এবং তার পরিবার ও সহকর্মীদের প্রতি সমবেদনা জানিয়েছে।"
+   }
+  },
+  {
+   "id": "1ehx2r8",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/ckg433z98v5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/685f/live/e0979750-c326-11f0-90d8-7310c5949e6b.jpg",
+   "published": "2026-10-02T13:34:19.000Z",
+   "added": "2026-10-02T15:44:26.119Z",
+   "origTitle": "বাংলাদেশে কীভাবে ও কেন কোরিয়ান সংস্কৃতি এত জনপ্রিয় হয়ে উঠলো?",
+   "en": {
+    "title": "Korean wave sweeping Bangladesh youth culture",
+    "summary": "Korean dramas and culture are booming with Gen Z in Bangladesh, replacing old Hindi serials. The 'Korean Wave' includes K-dramas, music, fashion, and food spreading through streaming platforms. Young people, especially teens, are drawn to action and thriller K-dramas. The trend kicked off during COVID lockdowns when students got online access and discovered Korean content through friends."
+   },
+   "bn": {
+    "title": "বাংলাদেশে কোরিয়ান সংস্কৃতির ঢেউ উঠছে",
+    "summary": "কোরিয়ান ড্রামা এবং সংস্কৃতি বাংলাদেশের জেনারেশন জেডের মধ্যে ভাইরাল হয়ে উঠছে, হিন্দি সিরিজের জায়গা নিয়ে নিচ্ছে। স্ট্রিমিং প্ল্যাটফর্মে কে-ড্রামা, মিউজিক, ফ্যাশন সব কিছু ছড়িয়ে পড়ছে। বিশেষত তরুণরা অ্যাকশন এবং থ্রিলার কে-ড্রামায় টেনে আসছে। কোভিড লকডাউনে অনলাইন ক্লাস শুরু হলে এবং বন্ধুরা এসব শেয়ার করলে এই ট্রেন্ড শুরু হয়।"
+   }
+  },
+  {
+   "id": "6eg3pc",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/govt-welcomes-constructive-criticism-moyeen-1560816",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/1111.jpg",
+   "published": "2026-10-02T15:30:00.000Z",
+   "added": "2026-10-02T15:44:26.119Z",
+   "origTitle": "Govt welcomes constructive criticism: Moyeen",
+   "en": {
+    "title": "Government welcomes criticism if based on facts",
+    "summary": "Local Government Minister Abdul Moyeen Khan said the government will correct any mistakes found in its work. He welcomed constructive criticism but urged people to avoid spreading false information. At a water engineering department meeting, State Minister Mir Shahe Alam called for better maintenance funding and safer water supplies across the country."
+   },
+   "bn": {
+    "title": "সরকার সঠিক তথ্যের ভিত্তিতে সমালোচনা স্বাগত জানায়",
+    "summary": "স্থানীয় সরকার মন্ত্রী আবদুল ময়েন খান বলেছেন, সরকারের কাজে যেকোনো ভুল পাওয়া গেলে সেটা সংশোধন করা হবে। তিনি গঠনমূলক সমালোচনা স্বাগত জানিয়েছেন কিন্তু মানুষকে ভুল তথ্য ছড়াতে নিষেধ করেছেন। পানি প্রকৌশল বিভাগের এক সভায় রাষ্ট্রমন্ত্রী মীর শাহে আলম দেশজুড়ে রক্ষণাবেক্ষণ তহবিল বাড়ানো এবং নিরাপদ পানি সরবরাহের আহ্বান জানিয়েছেন।"
+   }
+  },
   {
    "id": "1hrquem",
    "section": "news",
@@ -2221,204 +2529,6 @@
    "bn": {
     "title": "স্পেন আবাসন সংকটের পর ২০৩০ পর্যন্ত উচ্ছেদ নিষিদ্ধ করেছে",
     "summary": "একজন ৮৭ বছর বয়সী নারীর উচ্ছেদের বিরুদ্ধে প্রতিবাদের পর স্পেনের সরকার ২০৩০ পর্যন্ত উচ্ছেদ নিষিদ্ধ করার অনুমোদন দিয়েছে। এই ব্যবস্থায় ভাড়া চুক্তি ২০২৮ পর্যন্ত স্থায়ী করা এবং বিনিয়োগ কোম্পানিগুলোকে বাড়ি কেনা নিষিদ্ধ করা অন্তর্ভুক্ত। স্বাস্থ্য মন্ত্রী মোনিকা গার্সিয়া বলেন এই নীতি ৫০ লাখেরও বেশি মানুষকে সাহায্য করবে।"
-   }
-  },
-  {
-   "id": "1wtdv0f",
-   "section": "bhabna",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/videos/when-tech-titans-tell-us-to-adapt-or-die-we-neednt-listen",
-   "image": "https://images.aeonmedia.co/images/b9e1b5f4-1022-4b3e-b06e-05b066e961fd/the-end-of-humanity-landscape-5.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
-   "published": "2026-09-29T10:01:00.000Z",
-   "added": "2026-09-29T14:01:00.322Z",
-   "origTitle": "The end of humanity",
-   "en": {
-    "title": "Documentary Challenges Tech-Driven Vision of Humanity's End",
-    "summary": "Filmmakers Andreas Dürr and Jan-Marc Furer created 'The End of Humanity' to push back against tech industry claims that humans will soon become obsolete. The documentary argues that corporate incentives and media hype have driven conversations toward fatalism. Through interviews with philosophers and theologians, it makes the case that our future isn't settled—we can embrace technology while preserving human values, traditions and dignity."
-   },
-   "bn": {
-    "title": "মানুষের শেষ নিয়ে প্রযুক্তির দৃষ্টিভঙ্গিকে চ্যালেঞ্জ করছে ডকুমেন্টারি",
-    "summary": "সুইস নির্মাতারা অ্যান্ড্রিয়াস ডুর এবং জ্যান-মার্ক ফিউরার 'দ্য এন্ড অফ হিউম্যানিটি' তৈরি করেছেন প্রযুক্তি শিল্পের দাবিকে চ্যালেঞ্জ করতে যে মানুষ শীঘ্রই অপ্রাসঙ্গিক হয়ে যাবে। ডকুমেন্টারি বলে যে কর্পোরেট স্বার্থ এবং মিডিয়া হাইপ ভবিষ্যৎ নিয়ে কথোপকথনকে হতাশাবাদের দিকে নিয়ে গেছে। আমরা প্রযুক্তি গ্রহণ করতে পারি মানবিক মূল্যবোধ বজায় রেখে।"
-   }
-  },
-  {
-   "id": "12lgnng",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/district/gmz11ry3xv",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-29/v380q006/GazipurRaja.avif",
-   "published": "2026-09-29T13:53:37.000Z",
-   "added": "2026-09-29T14:01:00.322Z",
-   "origTitle": "দুই দিনেও গ্রেপ্তার করা যায়নি ‘পিচ্চি রাজাকে’, মামলা করল পুলিশ",
-   "en": {
-    "title": "Escaped Convict 'Pichi Raja' Still at Large, Police File Case",
-    "summary": "Raja, nicknamed 'Pichi Raja' (30), escaped from police custody near Baymile area in Gazipur while being transported back to Kashimpur Central Jail on Sunday evening. He claimed to need the toilet, and an SI allowed him to leave the van—he then fled. Police have suspended five officers involved and formed a committee to investigate. A case has been filed at Kona Bari thana. Raja, a known drug dealer from Mohammadpur arrested on 19 May, remains at large."
-   },
-   "bn": {
-    "title": "দুই দিনেও ধরা পড়েনি 'পিচ্চি রাজা', পুলিশ মামলা করেছে",
-    "summary": "পিচ্চি রাজা নামে পরিচিত রাজা (৩০) গত রোববার সন্ধ্যায় কাশিমপুর জেল থেকে ফেরার পথে গাজীপুরের বাইমাইল এলাকায় পুলিশের হাত থেকে পালিয়ে যায়। তিনি শৌচাগারে যাওয়ার কথা বলে গাড়ি থেকে নেমে দৌড়ে চলে যান। পুলিশ পাঁচ জন অফিসারকে সাময়িক বরখাস্ত করেছে এবং তদন্ত কমিটি গঠন করেছে। মহেনদ্রুগের ড্রাগ ডিলার রাজা এখনও গ্রেপ্তার হননি।"
-   }
-  },
-  {
-   "id": "yekb9o",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/y46f0agv7m",
-   "image": "https://media.prothomalo.com/prothomalo-english/2021-01/c3dbed49-9972-49c7-83ed-ef4927b04b9f/english_site_og_image.png",
-   "published": "2026-09-29T12:51:00.000Z",
-   "added": "2026-09-29T14:01:00.322Z",
-   "origTitle": "Young physician dies of dengue days after marriage",
-   "en": {
-    "title": "Young Doctor Dies of Dengue Days After Wedding",
-    "summary": "Physician Anchal Roy died of dengue on 27 September, about a year and a half after marrying fellow doctor Biplob Chandra Das on 18 April. The couple had rented a home in Khilgaon and were planning to move to Barishal together. Due to their jobs, they had lived separately in places like Kasba, Brahmanbaria, Jamalpur, Dhaka and Barguna, meeting only during leave. Anchal was admitted to Square Hospital's ICU but could not be saved."
-   },
-   "bn": {
-    "title": "বিবাহের পরপর ডেঙ্গিতে তরুণ চিকিৎসক মৃত",
-    "summary": "চিকিৎসক অঞ্চল রয় গত ১৮ এপ্রিলে সহকর্মী ডাক্তার বিপ্লব চন্দ্র দাশের সাথে বিয়ে করেছিলেন। প্রায় দেড় বছর পর ডেঙ্গিতে আক্রান্ত হয়ে ২৭ সেপ্টেম্বর মৃত্যুবরণ করেন। দম্পতি খিলগাঁওয়ে একটি ভাড়া বাড়ি নিয়েছিলেন এবং বরিশালে নতুন জীবন শুরুর পরিকল্পনা করছিলেন। তাদের চাকরির কারণে তারা আলাদাভাবে থাকতেন এবং ছুটির সময় দেখা করতেন।"
-   }
-  },
-  {
-   "id": "x3z0o",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/posture-adjusted-to-equally-incorrect-posture/",
-   "image": "https://theonion.com/wp-content/uploads/2026/09/Posture_Adjusted_SB_S_PH-socials.jpg",
-   "published": "2026-09-29T13:00:00.000Z",
-   "added": "2026-09-29T14:01:00.322Z",
-   "origTitle": "Posture Adjusted To Equally Incorrect Posture",
-   "en": {
-    "title": "Guy Fixes Bad Posture, Ends Up With Different Bad Posture",
-    "summary": "The Onion's latest bit: someone finally listened to advice about their slouching and adjusted their sitting position—only to discover they've swapped one terrible posture for another equally terrible one. No real winner here, just different ways to wreck your back."
-   },
-   "bn": {
-    "title": "খারাপ ভঙ্গি ঠিক করলেন, আরেকটা খারাপ ভঙ্গি হয়ে গেল",
-    "summary": "দ্য অনিয়নের হাস্যরস: কেউ নিজের বাঁকা বসার ভঙ্গি ঠিক করার চেষ্টা করেছেন, কিন্তু সেটার বদলে একটা অন্য খারাপ ভঙ্গি তৈরি হয়েছে। মোটে কোনো জয় নেই, শুধু পিঠ নষ্ট করার নতুন উপায়।"
-   }
-  },
-  {
-   "id": "wp3mh5",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Rest of World",
-   "srcLang": "en",
-   "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_hugging_face_china_final-768x432.jpg",
-   "published": "2026-09-29T10:00:00.000Z",
-   "added": "2026-09-29T14:00:37.836Z",
-   "origTitle": "The open-source AI platforms vying to become China’s Hugging Face",
-   "en": {
-    "title": "China builds its own Hugging Face alternatives",
-    "summary": "After China blocked access to US-based Hugging Face in 2023, local companies launched alternatives. Alibaba's ModelScope hosts over 170,000 AI models, while OSChina's MoArk serves 20,000 models. These open-source platforms let users download and customize AI models locally. Executives say China's AI ecosystem is developing faster than its internet industry did behind the Great Firewall."
-   },
-   "bn": {
-    "title": "চীন নিজের হাগিং ফেস তৈরি করছে",
-    "summary": "চীন ২০২৩ সালে আমেরিকান হাগিং ফেস ব্লক করার পর স্থানীয় কোম্পানিগুলো বিকল্প চালু করে। আলিবাবার মডেলস্কোপ ১৭০,০০০+ এআই মডেল হোস্ট করে, যখন ওএসচাইনার মোআর্ক ২০,০০০ মডেল পরিবেশন করে। এই ওপেন-সোর্স প্ল্যাটফর্মগুলো ব্যবহারকারীদের এআই মডেল ডাউনলোড করে কাস্টমাইজ করতে দেয়। নির্বাহীরা বলেন চীনের এআই ইকোসিস্টেম তার ইন্টারনেট শিল্পের চেয়ে দ্রুত বিকশিত হচ্ছে।"
-   }
-  },
-  {
-   "id": "1igeuia",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/681a/live/874ab620-bbf8-11f1-bd21-bdf910f2cec6.jpg",
-   "published": "2026-09-29T12:43:04.000Z",
-   "added": "2026-09-29T14:00:37.836Z",
-   "origTitle": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
-   "en": {
-    "title": "Evan Gershkovich: 'I was lured into a Russian trap'",
-    "summary": "US journalist Evan Gershkovich, detained by Russia for 16 months before a prisoner swap freed him, says he was set up when masked FSB agents arrested him at a restaurant in 2023. He was accused of espionage and sentenced to 16 years but released in a high-profile deal. Gershkovich and his employer, the Wall Street Journal, have always maintained the charges were false."
-   },
-   "bn": {
-    "title": "সাংবাদিক গার্শকোভিচ: রাশিয়া আমাকে ফাঁদে ফেলেছে",
-    "summary": "আমেরিকান সাংবাদিক ইভান গার্শকোভিচ বলেন তিনি ২০২৩ সালে একটি রেস্তোরাঁয় মাস্কড এফএসবি এজেন্টদের দ্বারা গ্রেপ্তার হওয়ার সময় জানতেন তিনি ফাঁদে পড়েছেন। তিনি ১৬ বছরের সাজা পান কিন্তু ১৬ মাস পর বন্দী বিনিময় চুক্তিতে মুক্ত হন। তিনি এবং ওয়াল স্ট্রীট জার্নাল সবসময় দাবি অস্বীকার করেছে।"
-   }
-  },
-  {
-   "id": "upjbi5",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2023-06-01T063549Z_973149824_RC26A1AOI2XQ_RTRMADP_3_UKRAINE-CRISIS-NATO-NORWAY-1711106765.jpg?resize=1920%2C1440",
-   "published": "2026-09-29T13:26:32.000Z",
-   "added": "2026-09-29T14:00:37.836Z",
-   "origTitle": "Estonia says Russia ordered August arson attack on defence company",
-   "en": {
-    "title": "Estonia accuses Russia of ordering defence company arson",
-    "summary": "Estonia's Foreign Minister accused Russia of ordering an August arson attack on defence firm Milrem Robotics as part of broader sabotage. He said perpetrators were arrested and no longer pose a threat, and Estonia summoned the Russian ambassador. The Kremlin rejected the claims as 'baseless.' NATO chief Mark Rutte said Russia continues hostile actions against NATO allies but is failing."
-   },
-   "bn": {
-    "title": "এস্তোনিয়া রাশিয়াকে সাবোটেজের জন্য অভিযুক্ত করল",
-    "summary": "এস্তোনিয়ার পররাষ্ট্রমন্ত্রী রাশিয়াকে আগস্টে প্রতিরক্ষা কোম্পানি মিলরেম রোবোটিক্সে অগ্নিসংযোগের আদেশ দেওয়ার অভিযোগ করেন, যা ব্যাপক সাবোটেজের অংশ। তিনি বলেন দায়ীরা গ্রেফতার হয়েছে এবং এস্তোনিয়া রাশিয়ান রাষ্ট্রদূতকে ডেকে পাঠায়। ক্রেমলিন দাবি অস্বীকার করে এবং নাটো প্রধান মার্ক রুট্টে বলেন রাশিয়া ব্যর্থ হচ্ছে।"
-   }
-  },
-  {
-   "id": "umbyqs",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Dazzle-AI-Team-Photo.jpg?resize=1200,784",
-   "published": "2026-09-29T13:53:01.000Z",
-   "added": "2026-09-29T14:00:37.836Z",
-   "origTitle": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-   "en": {
-    "title": "Marissa Mayer's AI reads your photos, not your email",
-    "summary": "Former Yahoo CEO Marissa Mayer unveiled Dazzle, a personal AI assistant funded with $8 million, that learns about you from your camera roll instead of email or calendars. The AI analyzes photos to understand your hobbies, interests, travel, food preferences, and activities. Mayer argues photos are an underappreciated source of personal data, and her camera roll contains more insight than traditional data sources."
-   },
-   "bn": {
-    "title": "মারিসা মেয়ারের এআই তোমার ফটো পড়ে, ইমেইল নয়",
-    "summary": "প্রাক্তন ইয়াহু সিইও মারিসা মেয়ার তার নতুন এআই সহায়ক ড্যাজল আনলোক করেছেন যা ৮ মিলিয়ন ডলার ফান্ডিং পেয়েছে। এটি ইমেইল বা ক্যালেন্ডারের পরিবর্তে তোমার ক্যামেরা রোল বিশ্লেষণ করে তোমার আগ্রহ, ছুটির দিন, খাবার পছন্দ বুঝে নেয়। মেয়ার যুক্তি দেন যে ফটোগুলি ব্যক্তিগত তথ্যের একটি অবহেলিত উৎস এবং তোমার ফটো সংগ্রহ ঐতিহ্যবাহী ডেটার চেয়ে বেশি অন্তর্দৃষ্টি দেয়।"
-   }
-  },
-  {
-   "id": "1tllczs",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/c6vgy2pzr09wo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f456/live/03d843d0-bc01-11f1-a430-4d16ee157c41.jpg",
-   "published": "2026-09-29T13:10:33.000Z",
-   "added": "2026-09-29T14:00:37.836Z",
-   "origTitle": "নেতানিয়াহু কেন সংযুক্ত আরব আমিরাতে 'গোপন' সফর করলেন?",
-   "en": {
-    "title": "Netanyahu's Secret Abu Dhabi Visit Raises Questions",
-    "summary": "Israeli PM Benjamin Netanyahu flew secretly to Abu Dhabi to meet UAE President Sheikh Mohamed bin Zayed, with no official announcement. His office confirmed the meeting 24 hours later, saying they discussed strengthening ties and regional issues. The visit comes amid reports that bin Zayed had allegedly warned Netanyahu about Hamas's attack before October 7, 2023—claims Netanyahu's office denies."
-   },
-   "bn": {
-    "title": "নেতানিয়াহুর গোপন আবু ধাবি যাত্রা কেন তোলপাড় ফেলেছে",
-    "summary": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু একটি ব্যক্তিগত বিমানে সংযুক্ত আরব আমিরাতের প্রেসিডেন্ট শেখ মোহাম্মদ বিন জায়েদের সাথে গোপনে দেখা করেন। সফর শেষের ২৪ ঘণ্টা পর তার অফিস এটি নিশ্চিত করে এবং দ্বিপক্ষীয় সম্পর্ক ও আঞ্চলিক বিষয় নিয়ে আলোচনার কথা জানায়। খবর ছড়িয়ে পড়ে যে বিন জায়েদ অক্টোবর ৭, ২০২৩-এর হামাস হামলার আগে নেতানিয়াহুকে সতর্ক করেছিলেন—এমন দাবি নেতানিয়াহুর পক্ষ অস্বীকার করে।"
    }
   }
  ]

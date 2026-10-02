@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-02T08:25:44.484Z",
+ "updatedAt": "2026-10-02T15:45:10.664Z",
  "burning": [
   {
    "id": "gtcc68",
    "heat": 5,
    "why": {
-    "en": "Bangladesh lost 9-2 to Indonesia in ASEAN Cup semi-final, major sports upset.",
-    "bn": "বাংলাদেশ এশিয়ান কাপ সেমিফাইনালে ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে।"
+    "en": "Bangladesh football's worst ASEAN Cup loss: Indonesia 9-2. Massive shock, covered by multiple outlets.",
+    "bn": "বাংলাদেশ ফুটবলের ভয়াবহ হার: ইন্দোনেশিয়ার কাছে ৯-২। একাধিক আউটলেট কভার করেছে।"
    },
    "rank": 1
   },
   {
-   "id": "1cs30j4",
-   "heat": 4,
+   "id": "2p7ejv",
+   "heat": 5,
    "why": {
-    "en": "252 women and girls faced violence in September, serious public safety concern.",
-    "bn": "সেপ্টেম্বরে ২৫২ জন নারী ও কিশোরী সহিংসতার শিকার হয়েছেন।"
+    "en": "Death of bdnews24.com editor-in-chief Toufique Imrose Khalidi. Major figure in Bangladesh journalism, widely mourned.",
+    "bn": "bdnews24.com এর সম্পাদক তৌফিক ইমরোজ খালিদির মৃত্যু। বাংলাদেশ সাংবাদিকতার বড় ব্যক্তিত্ব।"
    },
    "rank": 2
+  },
+  {
+   "id": "qvjkkw",
+   "heat": 4,
+   "why": {
+    "en": "MP Ferdausi Ahmed Misty resigns after assault probe. Political drama, direct impact on parliament.",
+    "bn": "এমপি ফেরদৌসি আহমেদ মিস্টির হামলা তদন্তের পর পদত্যাগ। রাজনৈতিক আলোড়ন।"
+   },
+   "rank": 3
   },
   {
    "id": "8gv63v",
    "heat": 4,
    "why": {
-    "en": "Remittances jumped 13% this quarter, strong economic indicator for Bangladesh.",
-    "bn": "এই ত্রৈমাসিকে রেমিট্যান্স ১৩% বৃদ্ধি পেয়েছে, অর্থনৈতিক সংকেত শক্তিশালী।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "1svvify",
-   "heat": 3,
-   "why": {
-    "en": "Flydubai cockpit incident gets multiple outlet coverage globally.",
-    "bn": "ফ্লাইডুবাই কক্পিট ঘটনা বিশ্বব্যাপী একাধিক মাধ্যমে কভারেজ পাচ্ছে।"
+    "en": "Remittances jump 13% this quarter. Strong economic signal, trending with investment interest on Google.",
+    "bn": "প্রবাসী আয় এক ত্রৈমাসিকে ১৩% বৃদ্ধি। অর্থনৈতিক ভালো খবর।"
    },
    "rank": 4
   },
   {
-   "id": "17k81ng",
+   "id": "1cs30j4",
    "heat": 3,
    "why": {
-    "en": "Fish farm catastrophe with major economic loss gets local attention.",
-    "bn": "মৎস্য খামারে বিশাল সম্পদ হারানোর ঘটনা স্থানীয় মনোযোগ আকর্ষণ করছে।"
+    "en": "252 women and girls faced violence in September. Serious social issue, consistent reporting concern.",
+    "bn": "সেপ্টেম্বরে ২৫২ নারী ও শিশু সহিংসতার শিকার। গুরুত্বপূর্ণ সামাজিক সমস্যা।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1q7yia3",
-   "tag": "#সেলিব্রিটিড্রামা",
+   "id": "q9s1z8",
+   "tag": "#CricketBracket",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Content creator in-law's liquor bust",
-    "text": "Warehouse sealed over illegal alcohol storage linked to a content creator's family member."
+    "title": "Bangladesh in England's World Cup group",
+    "text": "Bangladesh qualifies for England and South Africa's group stage. Cricket fans tracking tournament brackets and fixtures."
    },
    "bn": {
-    "title": "কন্টেন্ট ক্রিয়েটরের পরিবারের সদস্য জড়িত",
-    "text": "অবৈধ মদ্যপান সংরক্ষণের জন্য একজন কন্টেন্ট ক্রিয়েটরের আইন সদস্যের গুদাম সিল করা হয়েছে।"
+    "title": "বাংলাদেশ ইংল্যান্ডের গ্রুপে",
+    "text": "বাংলাদেশ ইংল্যান্ড এবং দক্ষিণ আফ্রিকার সাথে এক গ্রুপে পড়েছে। ক্রিকেট ফ্যানরা টুর্নামেন্ট ট্র্যাক করছে।"
    }
   },
   {
-   "id": "fwof6e",
-   "tag": "#চার্চ",
+   "id": "1ehx2r8",
+   "tag": "#KoreanWave",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Stolen church bell recovered",
-    "text": "Police recovered a brass bell that was stolen from a Dhaka church."
+    "title": "Korean entertainment boom in Bangladesh",
+    "text": "Korean wave sweeping Bangladesh youth culture. K-dramas, K-pop and Korean fashion trending among Gen Z."
    },
    "bn": {
-    "title": "ঢাকা চার্চের চুরি করা ঘণ্টা উদ্ধার",
-    "text": "পুলিশ ঢাকার একটি চার্চ থেকে চুরি করা পিতলের ঘণ্টা উদ্ধার করেছে।"
+    "title": "বাংলাদেশে কোরিয়ান সংস্কৃতি",
+    "text": "কোরিয়ান ওয়েভ বাংলাদেশী যুবকদের মধ্যে ভাইরাল হচ্ছে। কে-ড্রামা, কে-পপ ট্রেন্ডিং।"
    }
   },
   {
-   "id": "szi02x",
-   "tag": "#দুর্নীতি",
+   "id": "636u0e",
+   "tag": "#GreenEnergy",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Settlement officials caught taking bribes",
-    "text": "Hidden camera footage exposed officials accepting bribes at a settlement office."
+    "title": "PM launches rooftop solar in Feni",
+    "text": "Prime Minister opens rooftop solar systems project in Feni. Part of push toward renewable energy and local development."
    },
    "bn": {
-    "title": "নিস্পত্তি অফিসে দুর্নীতি ধরা পড়েছে",
-    "text": "লুকানো ক্যামেরায় অফিসারদের ঘুষ নেওয়ার দৃশ্য ধরা পড়েছে।"
+    "title": "ফেনিতে সৌর শক্তি প্রকল্প",
+    "text": "প্রধানমন্ত্রী ফেনিতে ছাদবাস্তু সৌর প্যানেল প্রকল্পের উদ্বোধন করেছেন।"
    }
   }
  ],
