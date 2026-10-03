@@ -1,83 +1,67 @@
 {
- "updatedAt": "2026-10-03T00:25:12.753Z",
+ "updatedAt": "2026-10-03T06:24:19.022Z",
  "burning": [
   {
-   "id": "q9s1z8",
+   "id": "m6ehzo",
    "heat": 5,
    "why": {
-    "en": "Bangladesh cricket dominates trends with Asian Games bronze match against Sri Lanka drawing massive search traffic.",
-    "bn": "এশিয়ান গেমস ব্রোঞ্জ ম্যাচে বাংলাদেশ vs শ্রীলঙ্কা ক্রিকেট ম্যাচ গুগলে ১০,০০০+ ট্রাফিক পাচ্ছে।"
+    "en": "Bangladesh football crushed 9-2 by Indonesia; massive upset sparking national reaction.",
+    "bn": "বাংলাদেশ ফুটবল ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে; বিশাল লজ্জাজনক মুহূর্ত।"
    },
    "rank": 1
   },
   {
-   "id": "m6ehzo",
+   "id": "erw331",
    "heat": 4,
    "why": {
-    "en": "Bangladesh football's heavy loss to Indonesia in ASEAN Cup is a major talking point in sports news.",
-    "bn": "এশিয়ান কাপে ইন্দোনেশিয়ার কাছে বাংলাদেশের ভারী পরাজয় খেলার জগতে বড় আলোচনা সৃষ্টি করেছে।"
+    "en": "Asian Games bronze match: Bangladesh fields first after losing toss; high-stakes cricket moment.",
+    "bn": "এশিয়ান গেমস ব্রোঞ্জ ম্যাচ: বাংলাদেশ টস হারিয়ে ফিল্ডিং করছে।"
    },
    "rank": 2
   },
   {
-   "id": "b2f6ot",
+   "id": "2p7ejv",
    "heat": 4,
    "why": {
-    "en": "Measles outbreak with four child deaths and 1,242 case jump is a serious health crisis drawing urgent attention.",
-    "bn": "চার শিশুর মৃত্যু এবং ১,২৪২ জনের মিজলস সংক্রমণ একটি গুরুতর স্বাস্থ্য সংকট।"
+    "en": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies; senior journalist passes away.",
+    "bn": "বিডিনিউজ২৪ এর সম্পাদক তৌফিক ইমরোজ খালিদী মারা গেছেন।"
    },
    "rank": 3
-  },
-  {
-   "id": "2p7ejv",
-   "heat": 3,
-   "why": {
-    "en": "Death of bdnews24 editor-in-chief Toufique Imrose Khalidi is a significant loss to Bangladesh's media landscape.",
-    "bn": "বিডিনিউজ২৪ সম্পাদক তৌফিক ইমরোজ খালিদির মৃত্যু বাংলাদেশের সংবাদ মাধ্যমের জন্য বড় ক্ষতি।"
-   },
-   "rank": 4
   },
   {
    "id": "82z1dk",
    "heat": 3,
    "why": {
-    "en": "Nuclear fuel arrival for Rooppur plant marks a major milestone in Bangladesh's energy infrastructure.",
-    "bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জন্য জ্বালানি পৌঁছানো বাংলাদেশের শক্তি খাতে বড় মাইলফলক।"
+    "en": "Nuclear fuel for Rooppur power plant arrives in Dhaka; major infrastructure milestone.",
+    "bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জ্বালানি ঢাকায় এসেছে।"
+   },
+   "rank": 4
+  },
+  {
+   "id": "b2f6ot",
+   "heat": 3,
+   "why": {
+    "en": "Four children die as measles cases surge to 1,242; public health crisis emerging.",
+    "bn": "হামের কারণে চার শিশু মরেছে; রোগ ছড়ানোর আশঙ্কা বাড়ছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "q9s1z8",
-   "tag": "#BDvsSL",
+   "id": "m6ehzo",
+   "tag": "#BDFootball",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Bangladesh cricket Bronze Medal clash",
-    "text": "Bangladesh faces Sri Lanka in the Asian Games 2026 bronze medal match. The country lost the toss and will field first."
+    "title": "Bangladesh humbled 9-2 by Indonesia",
+    "text": "The national football team suffered a shocking 9-2 defeat to Indonesia in the ASEAN Cup. The massive loss has sparked widespread reaction across the country."
    },
    "bn": {
-    "title": "বাংলাদেশ শ্রীলঙ্কার বিরুদ্ধে",
-    "text": "এশিয়ান গেমসে বাংলাদেশ শ্রীলঙ্কার বিরুদ্ধে ব্রোঞ্জ মেডেল ম্যাচ খেলছে। টস হেরে প্রথমে মাঠে নামবে বাংলাদেশ।"
-   }
-  },
-  {
-   "id": "180opm3",
-   "tag": "#OilPrices",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "G7 releases 100M oil barrels",
-    "text": "G7 leaders agreed to release up to 100 million barrels of diesel and crude oil to calm fuel prices worldwide."
-   },
-   "bn": {
-    "title": "জি৭ তেল রিজার্ভ খোলা",
-    "text": "জি৭ নেতারা ডিজেল ও কাঁচা তেল মূল্য নিয়ন্ত্রণে ১০ কোটি ব্যারেল ছাড়ার সিদ্ধান্ত নিয়েছেন।"
+    "title": "বাংলাদেশ ইন্দোনেশিয়ার কাছে ৯-২ তে হেরেছে",
+    "text": "এশিয়ান কাপে জাতীয় দল ইন্দোনেশিয়ার কাছে ৯-২ গোলে ধুলায় মিশে গেছে। এত বড় হার দেখে সারাদেশ হৈচৈ করছে।"
    }
   },
   {
@@ -88,12 +72,12 @@
    ],
    "heat": 3,
    "en": {
-    "title": "Korean wave sweeping BD youth",
-    "text": "Korean pop culture and entertainment are gaining massive popularity among young people in Bangladesh."
+    "title": "Korean wave sweeping Bangladesh youth",
+    "text": "South Korean culture and entertainment are rapidly gaining popularity among young Bangladeshis, reshaping local trends and preferences."
    },
    "bn": {
-    "title": "কোরিয়ান সংস্কৃতি বাংলাদেশে",
-    "text": "কোরিয়ান পপ কালচার এবং বিনোদন বাংলাদেশের তরুণদের মধ্যে বিপুল জনপ্রিয়তা পাচ্ছে।"
+    "title": "কোরিয়ান কালচার বাংলাদেশে ভাইরাল",
+    "text": "দক্ষিণ কোরিয়ার সংস্কৃতি এবং বিনোদন বাংলাদেশী তরুণদের মধ্যে দ্রুত ছড়িয়ে পড়ছে।"
    }
   },
   {
@@ -105,11 +89,11 @@
    "heat": 2,
    "en": {
     "title": "Remittances jump 13% this quarter",
-    "text": "Bangladesh saw a significant 13% increase in remittances this quarter, boosting the economy."
+    "text": "Money sent home by Bangladeshis abroad has increased significantly, boosting household incomes across the country."
    },
    "bn": {
-    "title": "প্রবাসী আয় ১৩ শতাংশ বৃদ্ধি",
-    "text": "বাংলাদেশে এই ত্রৈমাসিকে প্রবাসীদের অর্থ প্রেরণ ১৩ শতাংশ বেড়েছে।"
+    "title": "রেমিট্যান্স ১৩% বেড়েছে",
+    "text": "বিদেশ থেকে আসা টাকা এই কোয়ার্টারে উল্লেখযোগ্য হারে বেড়েছে।"
    }
   }
  ],

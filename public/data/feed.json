@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-03T00:24:57.494Z",
+ "updatedAt": "2026-10-03T06:24:06.765Z",
  "items": [
+  {
+   "id": "wzohfv",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/bmwy6khh0s",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-03/36ssugfj/madaripurdh0699202610034d6c3107-436c-4eb1-ad34-25b84476611d.jpg",
+   "published": "2026-10-03T06:07:49.000Z",
+   "added": "2026-10-03T06:24:06.765Z",
+   "origTitle": "লোকাল বাসের টিকিট বিক্রিকে কেন্দ্র করে দুই পক্ষের সংঘর্ষ, ককটেল বিস্ফোরণ, আহত ১০",
+   "en": {
+    "title": "Bus ticket dispute escalates to violence in Barisal-Madaripur border",
+    "summary": "A dispute over bus ticket sales in Bhuighat area, on the border between Madaripur's Kalkini and Barisal's Gournodi upazila, erupted into clashes Friday evening. Two groups threw cocktails and chased each other on the Dhaka-Barisal highway for nearly two hours, injuring at least 10 people. Locals burned tires, halting traffic for an hour. The conflict started Monday over a seat dispute at a bus counter."
+   },
+   "bn": {
+    "title": "বাস টিকিট বিরোধ থেকে বরিশাল-মাদারীপুর সীমান্তে সংঘর্ষ",
+    "summary": "মাদারীপুরের কালকিনি এবং বরিশালের গৌরনদী উপজেলার সীমান্তবর্তী ভুরঘাটা এলাকায় বাস টিকিট বিক্রয় নিয়ে বিরোধ গত শুক্রবার সন্ধ্যায় সংঘর্ষে পরিণত হয়। দুই পক্ষ ঢাকা-বরিশাল মহাসড়কে ককটেল বিস্ফোরণ ও পাল্টাপাল্টি ধাওয়া করে প্রায় দুই ঘণ্টা ধরে। কমপক্ষে ১০ জন আহত হয়েছেন এবং স্থানীয়রা টায়ার জ্বালিয়ে যান চলাচল বন্ধ করেছেন।"
+   }
+  },
+  {
+   "id": "9bjeeq",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/international/middle-east/3f37iac4si",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-03/3enrvk63/2026-10-02T160216Z842610718RC2OLNAXPHY7RTRMADP3IRAN-CRISIS-YEMEN.JPG",
+   "published": "2026-10-03T05:29:19.000Z",
+   "added": "2026-10-03T06:24:06.765Z",
+   "origTitle": "Saudi plans Houthi offensive with 100,000 Yemeni troops, US, other countries' support",
+   "en": {
+    "title": "Saudi Arabia plans major offensive against Houthis in Yemen",
+    "summary": "Saudi Arabia is preparing a military offensive against Iran-backed Houthi militants in Yemen within the coming weeks, led by Yemeni forces and supported by Saudi airstrikes. The US will provide intelligence while regional and European allies offer mainly defensive aid. A key goal is to reverse Houthi gains along the Red Sea coast and control of the Bab el-Mandeb strait. Saudi Arabia has been involved in Yemen's civil war since 2015."
+   },
+   "bn": {
+    "title": "সৌদি আরব ইয়েমেনে হুথিদের বিরুদ্ধে বড় অপারেশন পরিকল্পনা করছে",
+    "summary": "সৌদি আরব আগামী কয়েক সপ্তাহের মধ্যে ইয়েমেনে ইরান-সমর্থিত হুথি বাহিনীর বিরুদ্ধে সামরিক অপারেশন শুরু করতে যাচ্ছে। অপারেশনটি ইয়েমেনি বাহিনী পরিচালনা করবে এবং সৌদি বিমান হামলা সমর্থন করবে। আমেরিকা গোয়েন্দা তথ্য দেবে, আঞ্চলিক ও ইউরোপীয় মিত্ররা প্রতিরক্ষা সহায়তা দেবে। লক্ষ্য লাল সাগরের উপকূলে হুথিদের অগ্রগতি রোধ করা এবং বাব আল-মান্দেব প্রণালীর নিয়ন্ত্রণ ফিরে পাওয়া।"
+   }
+  },
+  {
+   "id": "nr7mio",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+   "published": "2026-10-03T00:45:39.000Z",
+   "added": "2026-10-03T06:23:54.712Z",
+   "origTitle": "Meta wants your next gadget to be Muse-infused",
+   "en": {
+    "title": "Meta opens Muse AI agent to custom hardware builders",
+    "summary": "Meta released Muse Gadgets, an open-source project letting developers build custom hardware for Muse, its personal AI agent. The company provided firmware and software tools so users can connect Muse to displays, sensors, and smart devices using boards like Raspberry Pi. Meta is also giving away 5,000 free Muse Home Link USB-C devices to subscribers."
+   },
+   "bn": {
+    "title": "মেটা এআই এজেন্ট মিউজ কাস্টম হার্ডওয়্যারের জন্য খুলে দিয়েছে",
+    "summary": "মেটা মিউজ গ্যাজেট চালু করেছে যাতে ডেভেলপাররা মিউজের জন্য নিজস্ব হার্ডওয়্যার তৈরি করতে পারে। কোম্পানি সফটওয়্যার ও ফার্মওয়্যার সরঞ্জাম দিয়েছে যাতে মিউজ ডিসপ্লে ও স্মার্ট ডিভাইসের সাথে যুক্ত হয়। মেটা ৫ হাজার ফ্রি মিউজ হোম লিংক ডিভাইস বিতরণ করছে।"
+   }
+  },
+  {
+   "id": "xn3bqz",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_9357-1790964073.jpg?resize=1920%2C1440",
+   "published": "2026-10-03T05:39:29.000Z",
+   "added": "2026-10-03T06:23:54.712Z",
+   "origTitle": "Gaza voters want jobs and security as Palestinian elections approach",
+   "en": {
+    "title": "Gaza youth prioritize jobs and security ahead of elections",
+    "summary": "With Palestinian legislative elections set for November 28, young Gazans like Ahmad Mohsen face unemployment rates around 80 percent. Mohsen, a nursing graduate turned internet vendor, wants candidates to address stable jobs, security, housing, and healthcare. Gaza's economy has been destroyed by years of Israeli blockade and war that killed over 74,000 Palestinians."
+   },
+   "bn": {
+    "title": "গাজার যুবকরা নির্বাচনের আগে চাকরি ও নিরাপত্তা চায়",
+    "summary": "নভেম্বর ২৮-এ ফিলিস্তিনি নির্বাচন আসছে এবং গাজায় বেকারত্বের হার ৮০ ভাগ। আহমদ মহসেনের মতো যুবকরা স্থিতিশীল চাকরি, নিরাপত্তা ও স্বাস্থ্যসেবা চায়। ইসরায়েলি অবরোধ ও যুদ্ধে সাড়ে ৭৪ হাজার ফিলিস্তিনি নিহত হয়েছে।"
+   }
+  },
+  {
+   "id": "15q1lke",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg",
+   "published": "2026-10-03T06:13:22.000Z",
+   "added": "2026-10-03T06:23:54.712Z",
+   "origTitle": "Russia strikes second major bridge in Kyiv, mayor says",
+   "en": {
+    "title": "Russia strikes second major bridge in Kyiv, intensifying attacks",
+    "summary": "Russian forces hit the Northern Bridge in Kyiv on Saturday, damaging the road and trolleybus lines, after targeting the Southern Bridge multiple times since Thursday. These bridges connect Kyiv's eastern and western halves and were hit for the first time since Thursday. Mayor Vitali Klitschko warned the city is in a \"very dramatic situation.\""
+   },
+   "bn": {
+    "title": "রাশিয়া কিয়েভে দ্বিতীয় প্রধান সেতুতে আঘাত করেছে",
+    "summary": "শনিবার রাশিয়া কিয়েভের উত্তর সেতুতে আঘাত করেছে যা রাস্তা ও ট্রলিবাস লাইন ক্ষতিগ্রস্ত করেছে। গৃহের দক্ষিণ সেতুও বৃহস্পতিবার থেকে বারবার লক্ষ্য হয়েছে। মেয়র ক্লিটশকো বলেছেন শহর অত্যন্ত সংকটপূর্ণ পরিস্থিতিতে আছে।"
+   }
+  },
+  {
+   "id": "1dx707x",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cq78pl4kmml8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad6d/live/d0eea8a0-bed1-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-03T03:43:57.000Z",
+   "added": "2026-10-03T06:23:54.712Z",
+   "origTitle": "ট্রাম্পের রপ্তানি নিষেধাজ্ঞা হুমকির পর ১০ কোটি ব্যারেল তেল ও ডিজেল ছাড়ার সিদ্ধান্ত নিল জি-৭",
+   "en": {
+    "title": "G-7 agrees to release 100 million barrels of oil and diesel",
+    "summary": "The G-7 alliance agreed to release 100 million barrels of oil and diesel into global markets within four months to ease fuel shortages and rising prices. The move came after US President Trump threatened to ban diesel exports. The countries will coordinate through the International Energy Agency to stabilize energy supply."
+   },
+   "bn": {
+    "title": "জি-৭ এক কোটি ব্যারেল তেল ও ডিজেল বাজারে ছাড়তে সম্মত",
+    "summary": "জ্বালানি সংকট মোকাবেলায় জি-৭ দেশগুলো চার মাসে এক কোটি ব্যারেল তেল ও ডিজেল বাজারে ছাড়ানোর সিদ্ধান্ত নিয়েছে। ট্রাম্প ডিজেল রপ্তানি নিষিদ্ধের হুমকি দেওয়ার পর এই পদক্ষেপ নেওয়া হয়েছে। আন্তর্জাতিক জ্বালানি সংস্থা এই প্রক্রিয়ার সমন্বয় করবে।"
+   }
+  },
+  {
+   "id": "yjiqp5",
+   "section": "news",
+   "cat": "campus",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/tension-flares-between-khulna-university-students-locals-over-facebook-post-1561071",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/29/khulna_university.jpg",
+   "published": "2026-10-03T06:05:00.000Z",
+   "added": "2026-10-03T06:23:54.712Z",
+   "origTitle": "Tension flares between Khulna University students, locals over Facebook post",
+   "en": {
+    "title": "Khulna University clash: students and locals clash over Facebook post",
+    "summary": "A confrontation broke out between Khulna University students and local residents near campus on October 2 over Facebook posts about drug use and alleged misconduct. Students say they called someone to explain the posts, but locals arrived with political backing and attacked them with bricks and stones. Police brought the situation under control; investigations are ongoing."
+   },
+   "bn": {
+    "title": "খুলনা বিশ্ববিদ্যালয়ে শিক্ষার্থী ও স্থানীয়দের সংঘর্ষ",
+    "summary": "খুলনা বিশ্ববিদ্যালয়ের ক্যাম্পাসের কাছে ২ অক্টোবর শিক্ষার্থী ও স্থানীয় বাসিন্দাদের মধ্যে সংঘর্ষ হয়েছে। বিশ্ববিদ্যালয়ের মাদক পরিস্থিতি নিয়ে একটি ফেসবুক পোস্টের কারণে ঘটনাটি শুরু হয়। স্থানীয়রা রাজনৈতিক সমর্থন নিয়ে এসেছিল এবং ইট-পাথর ফেলে। পুলিশ পরিস্থিতি নিয়ন্ত্রণে এনেছে।"
+   }
+  },
   {
    "id": "erw331",
    "section": "news",
@@ -2199,182 +2353,6 @@
    "bn": {
     "title": "সংসদীয় কমিটি সাশ্রয়ী ও নিরাপদ ইন্টারনেট চায়",
     "summary": "ইন্টারনেট খরচ কমাতে, ব্রডব্যান্ড বাড়াতে এবং শিশু-কিশোরদের জন্য নিরাপদ অনলাইন নিশ্চিত করতে একটি সংসদীয় কমিটি সুপারিশ করেছে। বুধবার ৩০ সেপ্টেম্বর তেরো জাতীয় সংসদের ডাক, টেলিযোগাযোগ ও আইটি মন্ত্রণালয়ের স্থায়ী কমিটির প্রথম বৈঠক হয়েছে। কমিটি তরুণদের জন্য সাশ্রয়ী এবং নিরাপদ ইন্টারনেট চায়।"
-   }
-  },
-  {
-   "id": "chhzww",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1556540.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/415600/415699.jpg",
-   "published": "2026-09-30T05:03:49.000Z",
-   "added": "2026-09-30T05:24:49.104Z",
-   "origTitle": "Bangladesh and Pakistan hope the sun keeps rising in Nisshin",
-   "en": {
-    "title": "Bangladesh, Pakistan await sunny semi-finals in Nisshin",
-    "summary": "Bangladesh and Pakistan are heading into their semi-final match in Nisshin with excellent weather expected. If rain washes out the game, Pakistan advances automatically because of their higher seeding. Both teams will be hoping the sun stays out and they get their chance to play."
-   },
-   "bn": {
-    "title": "Nisshin-এ বাংলাদেশ-পাকিস্তান সেমিফাইনাল, আবহাওয়া ভালো",
-    "summary": "বাংলাদেশ এবং পাকিস্তান Nisshin-এ সেমিফাইনাল খেলতে প্রস্তুত, আবহাওয়া চমৎকার থাকবে বলে আশা করা হচ্ছে। যদি বৃষ্টি হয় এবং খেলা না হয়, তাহলে পাকিস্তান উচ্চ সিডিং এর কারণে সরাসরি ফাইনালে যাবে। দুই দলই চান সূর্য থাকুক এবং খেলার সুযোগ পাক।"
-   }
-  },
-  {
-   "id": "z6g7hb",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Bangladesh Post",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMGNyWXFnNHpyREVJMUtrNEZaNDBTZ1ZDNWlKNmgtTkFiSFNHVld4SnpEeHhiLXg2bzlBcjlmOHVUdTM1M0NhajRPRGxIdW5CNHJGQ3dFZDBEbUYzeXNFbjJTNGozVGxrMHQ5VjVXN3JuUXZpMUJJTU9kMGlORl9rNnhsRHRMUnZJdE1RcVVLYzl4TGwz?oc=5",
-   "image": null,
-   "published": "2026-09-30T02:35:59.000Z",
-   "added": "2026-09-30T05:24:49.104Z",
-   "origTitle": "Six killed as Russian Tu-95 bomber crashes in Amur",
-   "en": {
-    "title": "Russian Tu-95 bomber crashes in Amur, six killed",
-    "summary": "A Russian Tu-95 bomber crashed in the Amur region, killing six people on board. Tu-95s are Soviet-era strategic bombers still used by Russia's military. The cause of the crash has not been reported. This is a significant loss for Russia's aging air fleet."
-   },
-   "bn": {
-    "title": "রুশ টু-৯৫ বোমার Amur-এ বিধ্বস্ত, ছয় জন নিহত",
-    "summary": "রুশ টু-৯৫ বোমারবিমান Amur অঞ্চলে বিধ্বস্ত হয়েছে, এতে ছয় জন মারা গেছেন। টু-৯৫ সোভিয়েত যুগের কৌশলগত বোমারবিমান যা রুশ সেনাবাহিনী এখনও ব্যবহার করে। দুর্ঘটনার কারণ এখনও জানা যায়নি। এটি রুশিয়ার পুরানো বিমানবহরের জন্য একটি বড় ক্ষতি।"
-   }
-  },
-  {
-   "id": "1ddymvr",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/rajshahi/971465/%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A7%9C-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE",
-   "image": null,
-   "published": "2026-09-30T05:19:05.000Z",
-   "added": "2026-09-30T05:24:41.881Z",
-   "origTitle": "খাদ্য তৈরির কারখানায় অভিযান চালিয়ে দেড় লাখ টাকা জরিমানা",
-   "en": {
-    "title": "Food factory fined 1.5 lakh taka for unsafe conditions",
-    "summary": "A mobile court in Bogura penalised Green Agro Food and Beverage company 1.5 lakh taka Tuesday for preparing food in unhygienic and dirty conditions at its factory in Sultanganj. The raid was conducted by Executive Magistrate Faisal Ahmad under district administration orders to ensure food safety standards."
-   },
-   "bn": {
-    "title": "খাদ্য কারখানাকে অনিরাপদ পরিবেশের জন্য ১.৫ লাখ টাকা জরিমানা",
-    "summary": "বগুড়ায় ভ্রাম্যমাণ আদালত মঙ্গলবার গ্রিন অ্যাগ্রো ফুড অ্যান্ড বেভারেজ কোম্পানিকে ১.৫ লাখ টাকা জরিমানা করেছে সুলতানগঞ্জপাড়ার তার কারখানায় অস্বাস্থ্যকর ও নোংরা পরিবেশে খাদ্য তৈরির জন্য। জেলা প্রশাসনের নির্বাহী ম্যাজিস্ট্রেট ফয়সাল আহমাদের নেতৃত্বে খাদ্য নিরাপত্তা মান নিশ্চিত করতে অভিযান পরিচালনা করা হয়েছে।"
-   }
-  },
-  {
-   "id": "c7uydj",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/vermont-turns-thousands-home-batteries-virtual-power-plant-1558141",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/screenshot_2026-09-30_111533.png",
-   "published": "2026-09-30T05:10:00.000Z",
-   "added": "2026-09-30T05:24:41.881Z",
-   "origTitle": "Vermont turns thousands of home batteries into a virtual power plant",
-   "en": {
-    "title": "Vermont turns home batteries into a giant power plant",
-    "summary": "More than 5,500 homes in Vermont have batteries through Green Mountain Power's programme, forming the state's largest power source at 110 megawatts. The utility can draw on customers' batteries during peak demand while households keep backup power for outages. Customers pay $55 monthly for two batteries under a 10-year lease."
-   },
-   "bn": {
-    "title": "ভার্মন্ট বাড়ির ব্যাটারি বিশাল বিদ্যুৎ উৎসে রূপান্তরিত করছে",
-    "summary": "ভার্মন্টে ৫,৫০০ এর বেশি বাড়িতে গ্রিন মাউন্টেন পাওয়ারের প্রোগ্রামের মাধ্যমে ব্যাটারি রয়েছে, যা রাজ্যের বৃহত্তম বিদ্যুৎ উৎস ১১০ মেগাওয়াট গঠন করে। যখন গ্রাহকরা চাহিদা বেশি থাকলে ব্যাটারি ব্যবহার করতে দেয় তখন নিজেদের জন্য ব্যাকআপ শক্তি রাখে। গ্রাহকরা ১০ বছরের লিজে দুটি ব্যাটারির জন্য মাসিক ৫৫ ডলার দেয়।"
-   }
-  },
-  {
-   "id": "n5icsj",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674",
-   "published": "2026-09-30T04:08:00.000Z",
-   "added": "2026-09-30T05:24:41.881Z",
-   "origTitle": "Apple Pay finally launches in India after years on the sidelines",
-   "en": {
-    "title": "Apple Pay launches in India after years of delay",
-    "summary": "Apple began rolling out Apple Pay in India on Tuesday with Axis Bank as its first partner. The service is card-based, unlike India's popular UPI system, and only supports Visa and Mastercard initially, not the homegrown RuPay network. Major banks like HDFC, ICICI and SBI have not joined yet due to disagreements over fees."
-   },
-   "bn": {
-    "title": "বছরের পর বছর বিলম্বের পর ভারতে অ্যাপল পে চালু",
-    "summary": "মঙ্গলবার ভারতে অ্যাপল পে চালু হয়েছে অ্যাক্সিস ব্যাংককে প্রথম পার্টনার হিসেবে নিয়ে। এটি কার্ড-ভিত্তিক সেবা, ভারতের জনপ্রিয় ইউপিআই সিস্টেমের মতো নয়, এবং শুরুতে শুধু ভিসা এবং মাস্টারকার্ড সাপোর্ট করে। এইচডিএফসি, আইসিআইসিআই এবং এসবিআই ব্যাংক ফি নিয়ে মতবিরোধের কারণে এখনও যোগ দেয়নি।"
-   }
-  },
-  {
-   "id": "vb7b1z",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
-   "published": "2026-09-29T23:15:29.000Z",
-   "added": "2026-09-30T05:24:41.881Z",
-   "origTitle": "Chinese AI tool told researchers how to make bioweapons",
-   "en": {
-    "title": "Chinese AI models tell researchers how to make bioweapons",
-    "summary": "Chinese AI developer Moonshot is reviewing its Kimi models after researchers found them capable of discussing biological weapons and assassinations. Security firm Mindgard discovered in July that Kimi K2.6 and K3 Swarm could bypass safety guardrails through a technique called \"jailbreaking.\" Moonshot said it welcomes third-party testing to improve AI safety."
-   },
-   "bn": {
-    "title": "চীনা এআই মডেল জৈব অস্ত্র তৈরির পদ্ধতি বলে",
-    "summary": "চীনের এআই ডেভেলপার মুনশট তার কিমি মডেল পর্যালোচনা করছে এর পর গবেষকরা দেখেছেন যে মডেলগুলো জৈব অস্ত্র এবং হত্যা সম্পর্কে আলোচনা করতে পারে। সিকিউরিটি ফার্ম মাইন্ডগার্ড জুলাইতে আবিষ্কার করে যে কিমি কে২.৬ এবং কে৩ সোয়ার্ম নিরাপত্তা ব্যবস্থা এড়াতে পারে। মুনশট তৃতীয় পক্ষের পরীক্ষাকে এআই নিরাপত্তা উন্নত করতে স্বাগত জানিয়েছে।"
-   }
-  },
-  {
-   "id": "4gnhnb",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-18T142412Z_868763563_RC2QLNA8UB9B_RTRMADP_3_USA-DEFENSE-POWS-1790732538_0a62cb-1790743505.jpg?resize=1200%2C630&quality=80",
-   "published": "2026-09-30T05:05:35.000Z",
-   "added": "2026-09-30T05:24:41.881Z",
-   "origTitle": "Hegseth to cut number of US general and admiral positions by 20%",
-   "en": {
-    "title": "US cuts general and admiral positions by 20%",
-    "summary": "Defense Secretary Pete Hegseth will cut military general and admiral positions by 20 percent, to be completed by January 1, 2027. The move affects leadership across the Army, Navy and Air Force. Hegseth will announce the decision Wednesday at Marine Corps Base Quantico in Virginia."
-   },
-   "bn": {
-    "title": "যুক্তরাষ্ট্র জেনারেল ও অ্যাডমিরাল পদ ২০% কমাচ্ছে",
-    "summary": "প্রতিরক্ষা সচিব পিট হেগসেথ সামরিক জেনারেল এবং অ্যাডমিরাল পদ ২০ শতাংশ কমানোর সিদ্ধান্ত নিয়েছেন, যা ২০২৭ সালের ১ জানুয়ারির মধ্যে শেষ হবে। এই পদক্ষেপ সেনাবাহিনী, নৌবাহিনী এবং বিমান বাহিনীর নেতৃত্বকে প্রভাবিত করবে। হেগসেথ বুধবার ভার্জিনিয়ার মেরিন কর্পস বেস কোয়ান্টিকোতে এই সিদ্ধান্ত ঘোষণা করবেন।"
-   }
-  },
-  {
-   "id": "1jqjpoz",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cxm2qmrp2vjjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a47c/live/41bc1300-bc7b-11f1-92aa-e722755271ae.jpg",
-   "published": "2026-09-30T03:46:26.000Z",
-   "added": "2026-09-30T05:24:41.880Z",
-   "origTitle": "সম্ভাব্য হুমকি মোকাবেলায় নতুন অস্ত্র ব্যবহারের হুঁশিয়ারি ইরানের আইআরজিসির",
-   "en": {
-    "title": "Iran warns of new weapons if conflict erupts",
-    "summary": "Iran's Revolutionary Guard warned Tuesday it will use new weapons if another conflict breaks out, as tensions with the US remain high. The foreign ministry condemned Benjamin Netanyahu's visit to the UAE and cautioned regional countries about consequences. The US announced a $15 million reward for information on three Iranian space defence commanders."
-   },
-   "bn": {
-    "title": "সংঘাত হলে নতুন অস্ত্র ব্যবহার করবে ইরান",
-    "summary": "ইরানের রেভল্যুশনারি গার্ড কর্প মঙ্গলবার সতর্ক করে দিল যে আরেকটি সংঘাত হলে তারা নতুন অস্ত্র ব্যবহার করবে। ইরানের পররাষ্ট্র মন্ত্রণালয় বেনিয়ামিন নেতানিয়াহুর সংযুক্ত আরব আমিরাত সফরের নিন্দা জানিয়ে আঞ্চলিক দেশগুলোকে সতর্ক করেছে। যুক্তরাষ্ট্র ইরানের তিনজন মহাকাশ প্রতিরক্ষা কমান্ডারের তথ্যের জন্য ১৫ মিলিয়ন ডলার পুরস্কার ঘোষণা করেছে।"
    }
   }
  ]
