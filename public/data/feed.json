@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-03T12:28:02.341Z",
+ "updatedAt": "2026-10-03T17:13:24.360Z",
  "items": [
+  {
+   "id": "alfb84",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/technology/w2fahwnmt2",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-03/s6hrt0nw/bin01.jpeg",
+   "published": "2026-10-03T17:00:44.000Z",
+   "added": "2026-10-03T17:13:24.360Z",
+   "origTitle": "৪৪ উদ্ভাবন পেল বাংলাদেশ আইসিটি অ্যান্ড ইনোভেশন পুরস্কার",
+   "en": {
+    "title": "Bangladesh honors 44 ICT innovations with national awards",
+    "summary": "The Bangladesh ICT and Innovation Network recognized 44 tech projects out of 355 submissions at an awards ceremony in Dhaka on Saturday. Nine were named innovation champions, ten as winners, and 25 earned merit awards. Tech Minister Fakir Mahbub Anam urged the country to turn young people's ideas into real products, noting that around 700,000 graduates enter the workforce yearly."
+   },
+   "bn": {
+    "title": "বাংলাদেশ আইসিটি অ্যাওয়ার্ডসে ৪৪টি প্রযুক্তি প্রকল্প স্বীকৃতি পেল",
+    "summary": "বাংলাদেশ আইসিটি অ্যান্ড ইনোভেশন নেটওয়ার্ক ৩৫৫টি প্রকল্প থেকে ৪৪টিকে পুরস্কৃত করেছে। ঢাকায় শনিবার অনুষ্ঠানে ৯টি চ্যাম্পিয়ন, ১০টি উইনার এবং ২৫টি মেরিট পুরস্কার দেওয়া হয়েছে। প্রযুক্তিমন্ত্রী ফকির মাহবুব আনাম বলেন, প্রতি বছর সাত লাখ স্নাতক বের হচ্ছে এবং তাদের উদ্ভাবনী চিন্তা বাস্তবায়ন করতে হবে।"
+   }
+  },
+  {
+   "id": "17ri9kg",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/sports/football/alosgrg73f",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-03/hral3l25/590082-01-02.jpg",
+   "published": "2026-10-03T16:10:34.000Z",
+   "added": "2026-10-03T17:13:17.048Z",
+   "origTitle": "Brazil beat India 4–0 in Kolkata friendly",
+   "en": {
+    "title": "Brazil thrashes India 4-0 in Kolkata friendly",
+    "summary": "Brazil defeated India 4-0 in an international friendly at Salt Lake Stadium in Kolkata. Estêvão scored first in the 28th minute, Pedro added a second in the 42nd, and Samuel Lino scored twice more in the second half. India pushed back after halftime but couldn't find the net."
+   },
+   "bn": {
+    "title": "কলকাতায় ভারতকে ৪-০ ধরে দিল ব্রাজিল",
+    "summary": "ব্রাজিল কলকাতার সল্ট লেক স্টেডিয়ামে একটি বন্ধুত্বপূর্ণ খেলায় ভারতকে ৪-০ গোলে পরাজিত করেছে। ইস্তেভাও ২৮ মিনিটে প্রথম গোল করেন, পেড্রো ৪২ মিনিটে দ্বিতীয় গোল দেন, এবং সামুয়েল লিনো দ্বিতীয় হাফে দুটি গোল করেন। ভারত হাফটাইমের পর আক্রমণাত্মক ছিল কিন্তু গোল করতে পারেনি।"
+   }
+  },
+  {
+   "id": "1e1zawk",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+   "published": "2026-10-03T16:30:01.000Z",
+   "added": "2026-10-03T17:13:17.048Z",
+   "origTitle": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "en": {
+    "title": "OpenAI safety researcher quits, calls company 'broken'",
+    "summary": "David Robinson, an OpenAI employee for three-and-a-half years who led safety report writing, resigned and published an essay in The Atlantic saying the company's culture is broken. He argues the issue goes beyond rules or laws—it's systemic across Silicon Valley. His departure echoes concerns raised by other AI researchers about safety at leading companies."
+   },
+   "bn": {
+    "title": "OpenAI নিরাপত্তা গবেষক পদত্যাগ, কোম্পানি 'ভেঙে পড়েছে'",
+    "summary": "ডেভিড রবিনসন, OpenAI-এর তিন সাড়ে তিন বছরের কর্মচারী যিনি নিরাপত্তা প্রতিবেদন লেখার নেতৃত্ব দিয়েছিলেন, পদত্যাগ করেছেন এবং দ্য আটলান্টিকে একটি প্রবন্ধ প্রকাশ করেছেন যেখানে তিনি বলেন কোম্পানির সংস্কৃতি ভেঙে পড়েছে। তার মতে এটি শুধু নিয়ম বা আইনের সমস্যা নয়—সারা সিলিকন ভ্যালিতেই এটি একটি সমস্যা।"
+   }
+  },
+  {
+   "id": "12zdjnj",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac1214d-1791041869_b03600-1791042527.jpg?resize=1200%2C630&quality=80",
+   "published": "2026-10-03T16:25:03.000Z",
+   "added": "2026-10-03T17:13:17.048Z",
+   "origTitle": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+   "en": {
+    "title": "Somalia rejects Israeli naval base plans, president says",
+    "summary": "Somali President Hassan Sheikh Mohamud told Al Jazeera that Somalia will reject Israeli presence under any circumstances. He accused Israel of planning a naval base in Berbera and seeking airport access to get closer to the Gulf and Iran. Mohamud said Israel's moves threaten Somalia and violate international law."
+   },
+   "bn": {
+    "title": "ইসরাইলের উপস্থিতি গ্রহণ করবে না সোমালিয়া, রাষ্ট্রপতি",
+    "summary": "সোমালিয়ার রাষ্ট্রপতি হাসান শেখ মোহামুদ আল জাজিরাকে বলেছেন যে সোমালিয়া কোনো পরিস্থিতিতেই ইসরাইলের উপস্থিতি মেনে নেবে না। তিনি অভিযোগ করেছেন ইসরাইল বারবেরায় একটি নৌঘাঁটি এবং বিমানবন্দর নিয়ন্ত্রণের পরিকল্পনা করছে। মোহামুদ বলেন এই পদক্ষেপগুলি সোমালিয়ার জন্য হুমকি এবং আন্তর্জাতিক আইন ভাঙে।"
+   }
+  },
+  {
+   "id": "i050c3",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
+   "published": "2026-10-03T16:57:02.000Z",
+   "added": "2026-10-03T17:13:17.048Z",
+   "origTitle": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+   "en": {
+    "title": "Tennessee prison chief resigns after failed execution",
+    "summary": "Tennessee's prisons commissioner Frank Strada resigned after Christa Pike's failed execution on Wednesday. Pike, sentenced to death in 1996 for murder, survived two lethal injections and is now in critical condition at a Nashville hospital. Governor Bill Lee ordered an independent review and halted all state executions for the year. Doctors are working to remove the drugs from her body."
+   },
+   "bn": {
+    "title": "বিফল মৃত্যুদণ্ডের পর টেনেসি কারাগার প্রধান পদত্যাগ",
+    "summary": "টেনেসি অঙ্গরাজ্যের কারাগার বিভাগের প্রধান ফ্রাঙ্ক স্ট্রাডা বুধবার ক্রিস্টা পাইকের বিফল মৃত্যুদণ্ডের পর পদত্যাগ করেছেন। ১৯৯৬ সালে একটি হত্যার জন্য মৃত্যুদণ্ডপ্রাপ্ত পাইক দুটি মারাত্মক ইনজেকশন সহ্য করে বেঁচে গেছেন এবং এখন নাশভিলে হাসপাতালে গুরুতর অবস্থায় আছেন। গভর্নর বিল লি স্বাধীন তদন্ত আদেশ করেছেন এবং সারা বছরের জন্য সব মৃত্যুদণ্ড স্থগিত করেছেন।"
+   }
+  },
+  {
+   "id": "x8vexl",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/law-and-crime/972200/%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81",
+   "image": null,
+   "published": "2026-10-03T17:07:23.000Z",
+   "added": "2026-10-03T17:13:17.048Z",
+   "origTitle": "শাহজালালে তিন অভিযানে মিললো যা কিছু",
+   "en": {
+    "title": "Dhaka airport security: gold, phones seized in three raids",
+    "summary": "Airport Armed Police seized nearly 781.3 grams of gold jewelry, 10 mobile phones, two laptops and three cartons of cigarettes in three separate operations at Shahjalal International Airport on the night of October 2. Seven people were arrested. The raids happened across a few hours at the terminal."
+   },
+   "bn": {
+    "title": "শাহজালালে তিন অভিযানে সোনা, ফোন জব্দ",
+    "summary": "২ অক্টোবরের রাতে শাহজালাল আন্তর্জাতিক বিমানবন্দরে তিনটি আলাদা অভিযানে এয়ারপোর্ট আর্মড পুলিশ ৭৮১ দশমিক ৩ গ্রাম সোনার অলংকার, ১০টি মোবাইল ফোন, দুটি ল্যাপটপ এবং তিন কার্টন সিগারেট জব্দ করেছে। এই ঘটনায় সাত জন গ্রেফতার হয়েছেন।"
+   }
+  },
+  {
+   "id": "nv46z7",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c34g1q7lqj2yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/501a/live/027926c0-bf27-11f1-b10d-f956452c9061.jpg",
+   "published": "2026-10-03T13:44:07.000Z",
+   "added": "2026-10-03T17:13:17.048Z",
+   "origTitle": "কর্মীদের 'অপরাধ' নিয়ন্ত্রণ কি বিএনপির জন্য কঠিন হয়ে উঠছে?",
+   "en": {
+    "title": "Can BNP control its own members' violent acts?",
+    "summary": "A private health center in Dhaka's Mirpur was demolished allegedly by BNP activists, with accusations of an MP's involvement. A content creator's studio was also attacked. After public outcry, PM and BNP Chair Tarek Rahman asked MP Ferdausi Ahmed Misthi to resign; she stepped down October 1. But critics say incidents keep happening and question whether the government has real control."
+   },
+   "bn": {
+    "title": "বিএনপি নিজের কর্মীদের অপরাধ নিয়ন্ত্রণ করতে পারছে?",
+    "summary": "ঢাকার মিরপুরে একটি বেসরকারি স্বাস্থ্যকেন্দ্র ভাঙা হয়েছে বলে বিএনপি কর্মীদের বিরুদ্ধে অভিযোগ উঠেছে, একজন এমপি জড়িত ছিলেন বলে আলোচনা হয়েছে। একজন কন্টেন্ট ক্রিয়েটরের স্টুডিওও হামলার শিকার হয়েছিল। প্রধানমন্ত্রী ও তারেক রহমান সেই এমপিকে পদ ছাড়তে বলেন; তিনি ১ অক্টোবর পদত্যাগ করেন। কিন্তু সমালোচকরা বলছেন এমন ঘটনা এখনও থেমে নেই এবং সরকারের নিয়ন্ত্রণ নিয়ে প্রশ্ন উঠছে।"
+   }
+  },
   {
    "id": "kar64q",
    "section": "news",

@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-03T06:24:19.022Z",
+ "updatedAt": "2026-10-03T17:13:38.774Z",
  "burning": [
   {
-   "id": "m6ehzo",
+   "id": "urdsq5",
    "heat": 5,
    "why": {
-    "en": "Bangladesh football crushed 9-2 by Indonesia; massive upset sparking national reaction.",
-    "bn": "বাংলাদেশ ফুটবল ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে; বিশাল লজ্জাজনক মুহূর্ত।"
+    "en": "Measles outbreak killing children across Bangladesh, multiple outlets reporting escalating death toll.",
+    "bn": "বাংলাদেশে পরিমাপযোগ্য মৃত্যুর হার বাড়ছে, একাধিক আউটলেট কভারেজ দিচ্ছে।"
    },
    "rank": 1
   },
   {
-   "id": "erw331",
-   "heat": 4,
+   "id": "gwqdc9",
+   "heat": 5,
    "why": {
-    "en": "Asian Games bronze match: Bangladesh fields first after losing toss; high-stakes cricket moment.",
-    "bn": "এশিয়ান গেমস ব্রোঞ্জ ম্যাচ: বাংলাদেশ টস হারিয়ে ফিল্ডিং করছে।"
+    "en": "Flydubai co-pilot attack on captain with crash axe is major international aviation incident covered by multiple outlets.",
+    "bn": "ফ্লাইডুবাই কো-পাইলট ক্র্যাশ অ্যাক্স দিয়ে ক্যাপ্টেনকে আক্রমণ করেছে, বড় ঘটনা।"
    },
    "rank": 2
+  },
+  {
+   "id": "15q1lke",
+   "heat": 4,
+   "why": {
+    "en": "Russia intensifying attacks on Kyiv infrastructure, second major bridge strike signals escalation.",
+    "bn": "রাশিয়া কিয়েভে দ্বিতীয় বড় সেতু আক্রমণ করছে, যুদ্ধ তীব্র হচ্ছে।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "m6ehzo",
+   "heat": 4,
+   "why": {
+    "en": "Bangladesh football team's 9-2 humiliation in ASEAN Cup is major sports embarrassment.",
+    "bn": "বাংলাদেশ ফুটবল টিম ASEAN কাপে ৯-২ গোলে হারিয়েছে, বড় ঘটনা।"
+   },
+   "rank": 4
   },
   {
    "id": "2p7ejv",
    "heat": 4,
    "why": {
-    "en": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies; senior journalist passes away.",
-    "bn": "বিডিনিউজ২৪ এর সম্পাদক তৌফিক ইমরোজ খালিদী মারা গেছেন।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "82z1dk",
-   "heat": 3,
-   "why": {
-    "en": "Nuclear fuel for Rooppur power plant arrives in Dhaka; major infrastructure milestone.",
-    "bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জ্বালানি ঢাকায় এসেছে।"
-   },
-   "rank": 4
-  },
-  {
-   "id": "b2f6ot",
-   "heat": 3,
-   "why": {
-    "en": "Four children die as measles cases surge to 1,242; public health crisis emerging.",
-    "bn": "হামের কারণে চার শিশু মরেছে; রোগ ছড়ানোর আশঙ্কা বাড়ছে।"
+    "en": "Death of bdnews24.com editor-in-chief Toufique Imrose Khalidi, veteran journalist remembered across media.",
+    "bn": "বিডিনিউজ২৪ এর সম্পাদক তৌফিক ইমরোজ খালিদির মৃত্যু, বেতার মিডিয়াতে শোক।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "m6ehzo",
-   "tag": "#BDFootball",
+   "id": "kar64q",
+   "tag": "#AussieCricket",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "Bangladesh humbled 9-2 by Indonesia",
-    "text": "The national football team suffered a shocking 9-2 defeat to Indonesia in the ASEAN Cup. The massive loss has sparked widespread reaction across the country."
+    "title": "Harper called to Test squad",
+    "text": "Australian wicketkeeper Harper gets surprise Test selection. Cricket fans buzzing about the callup."
    },
    "bn": {
-    "title": "বাংলাদেশ ইন্দোনেশিয়ার কাছে ৯-২ তে হেরেছে",
-    "text": "এশিয়ান কাপে জাতীয় দল ইন্দোনেশিয়ার কাছে ৯-২ গোলে ধুলায় মিশে গেছে। এত বড় হার দেখে সারাদেশ হৈচৈ করছে।"
+    "title": "অস্ট্রেলিয়ান উইকেটকিপার টেস্ট স্কোয়াডে",
+    "text": "হার্পার টেস্ট ম্যাচের জন্য বেছে নেওয়া হয়েছে, ক্রিকেট ফ্যানরা এটি নিয়ে কথা বলছে।"
    }
   },
   {
-   "id": "1ehx2r8",
-   "tag": "#KoreanWave",
+   "id": "1lc76uw",
+   "tag": "#SinnerOut",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Korean wave sweeping Bangladesh youth",
-    "text": "South Korean culture and entertainment are rapidly gaining popularity among young Bangladeshis, reshaping local trends and preferences."
+    "title": "Sinner withdraws from Shanghai",
+    "text": "Tennis star Sinner pulls out of Shanghai Masters due to knee injury, concerns grow over fitness."
    },
    "bn": {
-    "title": "কোরিয়ান কালচার বাংলাদেশে ভাইরাল",
-    "text": "দক্ষিণ কোরিয়ার সংস্কৃতি এবং বিনোদন বাংলাদেশী তরুণদের মধ্যে দ্রুত ছড়িয়ে পড়ছে।"
+    "title": "সিনার শাংহাই থেকে বেরিয়েছে",
+    "text": "টেনিস তারকা সিনার হাঁটুর আঘাতের কারণে শাংহাই মাস্টার্স বাদ দিয়েছেন।"
    }
   },
   {
-   "id": "8gv63v",
-   "tag": "#Remittances",
+   "id": "1e1zawk",
+   "tag": "#OpenAIchaos",
    "platforms": [
     "Google"
    ],
-   "heat": 2,
+   "heat": 3,
    "en": {
-    "title": "Remittances jump 13% this quarter",
-    "text": "Money sent home by Bangladeshis abroad has increased significantly, boosting household incomes across the country."
+    "title": "OpenAI safety researcher quits",
+    "text": "Prominent safety researcher leaves OpenAI, accuses company of being 'broken.' Major tech industry drama."
    },
    "bn": {
-    "title": "রেমিট্যান্স ১৩% বেড়েছে",
-    "text": "বিদেশ থেকে আসা টাকা এই কোয়ার্টারে উল্লেখযোগ্য হারে বেড়েছে।"
+    "title": "OpenAI এর গবেষক চলে গেছেন",
+    "text": "নিরাপত্তা গবেষক OpenAI কে 'ভাঙা' বলে অভিযোগ করে চলে গেছেন।"
+   }
+  },
+  {
+   "id": "alfb84",
+   "tag": "#BangladeshTech",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "44 ICT innovations awarded",
+    "text": "Bangladesh honors 44 tech innovations with national awards, showcasing local startup momentum."
+   },
+   "bn": {
+    "title": "বাংলাদেশে ৪৪টি প্রযুক্তি পুরস্কার",
+    "text": "দেশীয় আইসিটি উদ্যোগগুলো জাতীয় পুরস্কার পেয়েছে।"
    }
   }
  ],
