@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-03T17:13:24.360Z",
+ "updatedAt": "2026-10-03T21:08:52.708Z",
  "items": [
+  {
+   "id": "10gmitb",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Financial Express",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOXzFRWWlab1ZjX1djZ2ZOamhVU25JMUMyajc3ZnYwOXFHV1hqZ0FuQy15VW1lcTZCaElQLWh5U2JkRXFzS28zYmt0UTRISUNDbTN3Y3RtU3NyUUJRclBWdWE4c1JKakhzQUhnNXlEdDIzY3RqQlduMTY1RGp5V3ZVQ3hETmtVNVZOeXJMYUNEVG02Szc3Y2JWUHpFWURGMi0tTmhGdC1kQ1liVnFCMkFobm1hcEZDSnd5Vk1RczhhdWY3ZWlkamJyclBqZUIwMFZhb2lWTzEwalBQNGPSAdsBQVVfeXFMTl8xUVlpWm9WY19XY2dmTmpoVVNuSTFDMmo3N2Z2MDlxR1dYamdBbkMteVVtZXE2QmhJUC1oeVNiZEVxc0tvM2JrdFE0SElDQ20zd2N0bVNzclFCUXJQVnVhOHNSSmpIc0FIZzV5RHQyM2N0akJXbjE2NURqeVd2VUN4RE5rVTVWTnlyTGFDRFRtNks3N2NiVlB6RVlERjItLU5oRnQtZENZYlZxQjJBaG5tYXBGQ0p3eVZNUXM4YXVmN2VpZGpicnJQamVCMDBWYW9pVk8xMGpQUDRj?oc=5",
+   "image": null,
+   "published": "2026-10-03T18:00:00.000Z",
+   "added": "2026-10-03T21:08:52.708Z",
+   "origTitle": "BRAC BANK, PCC & MEC AND AGRIPULSE PARTNER TO STRENGTHEN AGRI FINANCE",
+   "en": {
+    "title": "BRAC Bank partners with PCC, MEC, AgriPulse for farm finance",
+    "summary": "BRAC Bank has partnered with PCC and MEC alongside AgriPulse to boost agricultural financing. The collaboration aims to make farm loans and support more accessible to farmers. This partnership could help strengthen the agri-finance ecosystem across Bangladesh."
+   },
+   "bn": {
+    "title": "ব্র্যাক ব্যাংক কৃষি অর্থায়নে পিসিসি, এমইসি এবং এগ্রিপালসের সাথে কাজ করছে",
+    "summary": "ব্র্যাক ব্যাংক কৃষি অর্থায়ন শক্তিশালী করতে পিসিসি, এমইসি এবং এগ্রিপালসের সাথে পার্টনারশিপ করেছে। এই সহযোগিতা কৃষকদের জন্য ঋণ এবং সহায়তা আরও সহজলভ্য করবে। এই পার্টনারশিপ বাংলাদেশে কৃষি অর্থায়ন ব্যবস্থা আরও শক্তিশালী করতে পারে।"
+   }
+  },
+  {
+   "id": "1mcyiq6",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Daily Star",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX0tna3dVX1dYd3pWekFmRlZuRTV2ZmE5RWRZTUxYRkF3Z2VQdVYzZG1CaFplM2FNUnRIeXNpOVFQMmNXdGY5d2xmdjVBYTJGRlFtcUJrVHFWLVMwQXdlS2hyeGxEV2ZoNldUdWpKNlBUMkNTVGNVX3FobWNzZm9BcE4tYVYxQjNGeWNrb0dqQWZDdkwybWQydjlWbnU?oc=5",
+   "image": null,
+   "published": "2026-10-03T03:16:01.000Z",
+   "added": "2026-10-03T21:08:52.708Z",
+   "origTitle": "Bangladesh Daycare Centres Shortage | Childcare a major hurdle for working mothers",
+   "en": {
+    "title": "Bangladesh lacks childcare centers, making work harder for mothers",
+    "summary": "Bangladesh faces a serious shortage of daycare and childcare centers. Working mothers struggle to find safe, affordable options for their children. The lack of proper childcare facilities is a major barrier keeping many women out of the workforce."
+   },
+   "bn": {
+    "title": "বাংলাদেশে ডেকেয়ার কেন্দ্র কম, মায়েদের কাজ কঠিন করছে",
+    "summary": "বাংলাদেশে ডেকেয়ার এবং শিশু যত্ন কেন্দ্রের বড় অভাব রয়েছে। কর্মজীবী মায়েরা তাদের সন্তানদের জন্য নিরাপদ এবং সাশ্রয়ী বিকল্প খুঁজে পেতে কষ্ট করছেন। এই সুবিধার অভাব হাজার হাজার নারীকে চাকরি করা থেকে দূরে রাখছে।"
+   }
+  },
+  {
+   "id": "d0pcsh",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "যুগান্তর",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iekpFSUFqQ2F0SWhwSTFpYVNtZjlmWjVmRElUQUxNY2Rhc2o2RU9wVUZTZVB6Y1VZc3pFM201UTFQMFRncTgtVFZYLVNWSTBaNUZlSk5VcHhGdw?oc=5",
+   "image": null,
+   "published": "2026-10-03T05:28:02.000Z",
+   "added": "2026-10-03T21:08:52.708Z",
+   "origTitle": "মধ্যপ্রাচ্যে সেনা-রণতরী পাঠাচ্ছে যুক্তরাষ্ট্র, ইরান যুদ্ধ কি আরও তীব্র হচ্ছে",
+   "en": {
+    "title": "US sends military forces to Middle East amid Iran tensions",
+    "summary": "The United States is deploying military troops and warships to the Middle East. The move reflects growing concerns about escalating tensions with Iran. The situation raises questions about whether conflict in the region could intensify further."
+   },
+   "bn": {
+    "title": "ইরান টেনশনের মধ্যে যুক্তরাষ্ট্র মধ্যপ্রাচ্যে সেনা পাঠাচ্ছে",
+    "summary": "যুক্তরাষ্ট্র মধ্যপ্রাচ্যে সৈন্য এবং যুদ্ধজাহাজ মোতায়েন করছে। এই পদক্ষেপ ইরানের সাথে তেনশনের সম্ভাবনা নিয়ে উদ্বেগ দেখাচ্ছে। অঞ্চলটিতে সংঘর্ষ আরও বাড়ার আশঙ্কা তৈরি হয়েছে।"
+   }
+  },
+  {
+   "id": "ptjxwa",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94U2Rrbm1KZFE3Um5aUTdvZHExRXF6bUZSYWFSenQzM3JsSFlxR0tNU2pZTXg5MVBJeUdLVmZNbi1aeVYtLTgtc3lkUnFvbmhHRnJWUHhoUUJBbEtSeHloetIBbkFVX3lxTE9wckV4RU9BSkozZFB5Z1JoUG16V1MzNzFEYTJ5Y3Bkc1RjaDVRYjNTaVNqc1lXWkFHbU93ZUtqRnJnanBoNExaOFVmc2VQdEFxamxtZG1ENUNxR1BpeGlMenNteGJWdUhONnJpa2JR?oc=5",
+   "image": null,
+   "published": "2026-10-03T03:28:36.000Z",
+   "added": "2026-10-03T21:08:52.708Z",
+   "origTitle": "Asian Games: Sri Lanka beat Bangladesh by 63 runs to win bronze",
+   "en": {
+    "title": "Sri Lanka beats Bangladesh by 63 runs for Asian Games bronze",
+    "summary": "Sri Lanka took the bronze medal in cricket at the Asian Games after beating Bangladesh by 63 runs. This was a competitive match that came down to the wire. Bangladesh fought hard but couldn't quite close the gap in the end."
+   },
+   "bn": {
+    "title": "এশিয়ান গেমসে শ্রীলংকা ৬৩ রানে বাংলাদেশকে হারিয়ে ব্রোঞ্জ জিতেছে",
+    "summary": "এশিয়ান গেমসে ক্রিকেটে শ্রীলংকা বাংলাদেশকে ৬৩ রানে হারিয়ে ব্রোঞ্জ মেডেল জিতেছে। ম্যাচটা বেশ প্রতিযোগিতামূলক ছিল এবং শেষ পর্যন্ত টানটান ছিল। বাংলাদেশ ভালো খেলেছে কিন্তু শেষমেশ এগিয়ে আসতে পারেনি।"
+   }
+  },
+  {
+   "id": "1n79odo",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/5o2u6w3ikh",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-03/g1vv9w7e/Raunak-Jahan.jpeg",
+   "published": "2026-10-03T20:56:23.000Z",
+   "added": "2026-10-03T21:08:40.348Z",
+   "origTitle": "‘প্রচলিত প্রবৃদ্ধি মডেলে অসন্তুষ্ট তরুণেরা’",
+   "en": {
+    "title": "Young Bangladeshis frustrated with traditional growth model, says scholar",
+    "summary": "Political scientist Rounaq Jahan said Asia's economic growth has increased inequality among youth, with young people in Bangladesh, India and elsewhere dissatisfied with current models. She called for translating youth demands for justice and equality into policy. Information Minister Parthо noted a generation has been alienated from politics over 17 years."
+   },
+   "bn": {
+    "title": "প্রচলিত বৃদ্ধি মডেলে অসন্তুষ্ট তরুণেরা, বলেন রওনক জাহান",
+    "summary": "রাষ্ট্রবিজ্ঞানী রওনক জাহান বলেছেন এশিয়ার অর্থনৈতিক বৃদ্ধি তরুণদের মধ্যে বৈষম্য বাড়িয়েছে, এবং বাংলাদেশ ও ভারতের তরুণেরা বর্তমান মডেলে অসন্তুষ্ট। তিনি ন্যায় ও সমতার জন্য তরুণদের দাবিগুলিকে নীতিতে রূপান্তরিত করার আহ্বান করেছেন। তথ্যমন্ত্রী বলেছেন গত ১৭ বছরে একটি প্রজন্মকে রাজনীতি থেকে দূরে রাখা হয়েছে।"
+   }
+  },
+  {
+   "id": "udqihs",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+   "published": "2026-10-03T19:33:15.000Z",
+   "added": "2026-10-03T21:08:40.348Z",
+   "origTitle": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+   "en": {
+    "title": "Federal judge rules Flock mass surveillance violated Fourth Amendment rights",
+    "summary": "A federal judge in Oklahoma ruled that police violated a woman's constitutional rights by searching Flock's license plate database without a warrant. Judge Sara Hill called warrantless Flock searches 'indiscriminate mass surveillance' and suppressed evidence from the search. The ruling marks one of the first times a court has found such searches unconstitutional."
+   },
+   "bn": {
+    "title": "ফ্লক সার্চ সংবিধান লঙ্ঘন করেছে বলে ফেডারেল জজের রায়",
+    "summary": "অক্লাহোমার একজন ফেডারেল জজ রুল দিয়েছেন যে পুলিশ ফ্লক লাইসেন্স প্লেট ডেটাবেস ওয়ারেন্ট ছাড়াই সার্চ করে একজন নারীর সাংবিধানিক অধিকার লঙ্ঘন করেছে। জজ সারা হিল বলেছেন এই ধরনের সার্চ 'অবিচ্ছিন্ন গণ নজরদারি'। এটি প্রথমবারের মতো কোনো আদালত এই সার্চকে অসাংবিধানিক বলে রায় দিয়েছে।"
+   }
+  },
+  {
+   "id": "1llludi",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac14c3e85b15-1791052862.jpg?resize=1920%2C1440",
+   "published": "2026-10-03T20:16:50.000Z",
+   "added": "2026-10-03T21:08:40.348Z",
+   "origTitle": "Trump ramps up pressure on US Republicans to end US clock switching",
+   "en": {
+    "title": "Trump pushes Senate Republicans to end clock-switching tradition",
+    "summary": "President Trump publicly pressured Senator Tom Cotton to stop blocking the Sunshine Protection Act, which would make Daylight Saving Time permanent. Trump posted Cotton's phone number on social media and urged Arkansas residents to contact him. The House passed the bill 308-117 in July."
+   },
+   "bn": {
+    "title": "ট্রাম্প সেনেট রিপাবলিকানদের ঘড়ি পরিবর্তন বন্ধ করতে চাপ দিচ্ছেন",
+    "summary": "রাষ্ট্রপতি ট্রাম্প সেনেটর টম কটনকে সানশাইন প্রোটেকশন অ্যাক্ট ব্লক করা বন্ধ করতে প্রকাশ্যে চাপ দিয়েছেন, যা দিনের আলো সাশ্রয়ী সময় স্থায়ী করবে। ট্রাম্প সোশ্যাল মিডিয়ায় কটনের ফোন নম্বর পোস্ট করেছেন এবং আর্কানসাসের বাসিন্দাদের তার সাথে যোগাযোগ করতে অনুরোধ করেছেন। হাউস জুলাইয়ে ৩০৮-১১৭ ভোটে বিল পাস করেছে।"
+   }
+  },
+  {
+   "id": "gp6l",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/dhaka/972215/%E0%A6%86.%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87",
+   "image": null,
+   "published": "2026-10-03T20:41:00.000Z",
+   "added": "2026-10-03T21:08:40.348Z",
+   "origTitle": "আ.লীগের বিরুদ্ধে মিছিল করতে গিয়ে বিএনপির দুই পক্ষের সংঘর্ষ, আহত ৫",
+   "en": {
+    "title": "BNP factions clash during rally against Awami League in Dhaka",
+    "summary": "In Dhamrai, Dhaka, two BNP groups clashed on Saturday while staging a protest rally against the Awami League. The conflict involved supporters of Tamiz Uddin, an MP and BNP subdistrict chief, and followers of Yaseen Ferdous Murad, head of the district youth wing. At least five people were injured in the confrontation."
+   },
+   "bn": {
+    "title": "আওয়ামী লীগ বিরোধী মিছিলে বিএনপির দুই গোষ্ঠীর সংঘর্ষ, পাঁচজন আহত",
+    "summary": "ঢাকার ধামরাইয়ে শনিবার আওয়ামী লীগের বিরুদ্ধে প্রতিবাদ মিছিলের সময় বিএনপির দুটি দল সংঘর্ষে জড়িয়ে পড়েছে। সংসদ সদস্য ও উপজেলা বিএনপি সভাপতি তমিজ উদ্দিন এবং যুবদল সভাপতি ইয়াসিন ফেরদৌস মুরাদের অনুসারীরা এতে জড়িত ছিলেন। সংঘর্ষে অন্তত পাঁচজন আহত হয়েছেন।"
+   }
+  },
+  {
+   "id": "12qem93",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/stocks/dsex-posts-shallowest-decline-among-regional-peers-sept-amid-global-volatility",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/06/09/stock-exchange-tbs.jpg",
+   "published": "2026-10-03T19:50:00.000Z",
+   "added": "2026-10-03T21:08:40.348Z",
+   "origTitle": "DSEX posts shallowest decline among regional peers in Sept amid global volatility",
+   "en": {
+    "title": "Bangladesh stock market posts smallest regional drop in September",
+    "summary": "The DSEX benchmark fell just 0.85% in September, the smallest decline among major Asian stock markets. Indonesia's market dropped 6.57%, India's 5.82%, and Malaysia's 4.33%. However, Bangladesh's resilience came with weak trading activity and broad-based selling pressure."
+   },
+   "bn": {
+    "title": "সেপ্টেম্বরে ডিএসইএক্স সবচেয়ে কম পড়েছে এশিয়ায়",
+    "summary": "সেপ্টেম্বরে ঢাকা স্টক এক্সচেঞ্জের ডিএসইএক্স বেঞ্চমার্ক মাত্র ০.৮৫% পড়েছে, যা এশিয়ার প্রধান বাজারগুলোর মধ্যে সবচেয়ে কম। ইন্দোনেশিয়ার বাজার ৬.৫৭%, ভারতের ৫.৮২% এবং মালয়েশিয়ার ৪.৩৩% পড়েছে। তবে বাংলাদেশের এই স্থিতিস্থাপকতা দুর্বল ট্রেডিং কার্যকলাপ এবং ব্যাপক বিক্রয় চাপের সাথে এসেছে।"
+   }
+  },
   {
    "id": "alfb84",
    "section": "news",
@@ -2309,204 +2507,6 @@
    "bn": {
     "title": "হংকং সাংবাদিক বিদ্রোহমূলক মন্তব্যের অভিযোগে গ্রেপ্তার",
     "summary": "হংকং পুলিশ স্বাধীন সাংবাদিক ট্যাং হো-উইংকে বুধবার গ্রেপ্তার করেছে। তিনি বুম নিউজের প্রতিষ্ঠাতা এবং ২০১৯ সালের একটি প্রতিবাদ ঘটনা নিয়ে মিথ্যা তথ্য ছড়িয়েছেন বলে অভিযোগ। এই গ্রেপ্তার বেইজিংয়ের ২০২০ জাতীয় নিরাপত্তা আইন এবং ২০২৪ স্থানীয় আইনের পর সাংবাদিকদের স্বাধীনতার নতুন সংকট। আপল ডেইলির প্রতিষ্ঠাতা জিমি লাই এ বছর ২০ বছরের সাজা পেয়েছেন।"
-   }
-  },
-  {
-   "id": "hq4pm",
-   "section": "bhabna",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/09/30/overwhelming-cheating/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/09/Arbus-screaming-woman.jpg",
-   "published": "2026-09-30T18:12:37.000Z",
-   "added": "2026-09-30T18:25:30.482Z",
-   "origTitle": "Overwhelming Cheating",
-   "en": {
-    "title": "Universities drowning in AI-powered cheating crisis",
-    "summary": "Professors report overwhelming levels of AI-enabled academic cheating in both online and in-person courses. In one extreme case, 24 students enrolled but only 3 completed honest work—10 were caught using AI despite warnings and repeated turning-in. Even when professors take steps to prevent cheating, the problem persists. The challenge now is what to do about the cheating that remains after detection."
-   },
-   "bn": {
-    "title": "বিশ্ববিদ্যালয়ে AI ব্যবহার করে নকল পরীক্ষার ঝড়",
-    "summary": "শিক্ষকরা অনলাইন এবং অফলাইন উভয় ক্লাসে AI দিয়ে ধরা পড়ার হার অসংখ্য বাড়ছে বলে জানাচ্ছেন। একটি চরম ঘটনায় ২৪ জন শিক্ষার্থীর মধ্যে শুধু ৩ জন সৎভাবে কাজ করেছে—১০ জনকে সতর্ক করার পরেও AI ব্যবহার করতে দেখা গেছে। শিক্ষকরা যখন নকল রোধের ব্যবস্থা নেন তারপরেও সমস্যা থেকে যায়। এখন চ্যালেঞ্জ হলো ধরা পড়ার পরেও থাকা নকলের সাথে কী করতে হবে।"
-   }
-  },
-  {
-   "id": "nw14fe",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/business/zmh9rm7fqo",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-30/e8wvty7s/modhu-city-1.jpeg",
-   "published": "2026-09-30T18:13:33.000Z",
-   "added": "2026-09-30T18:25:30.482Z",
-   "origTitle": "মধু সিটি: আধুনিক নগরায়ণ ও পরিকল্পিত আবাসনের নতুন সম্ভাবনা",
-   "en": {
-    "title": "Madhu City brings modern housing to Dhaka suburbs",
-    "summary": "Madhu City is building planned housing near Dhanmondi and Mohammadpur with transparent land deals and proper legal paperwork. The project includes mosques, playgrounds, community centers, schools, and a lakeside walkway. Buyers can get plots in sizes of 3, 5, 7, and 10 kathas. The company focuses on making land purchase easier and ensuring all documents are properly verified and registered."
-   },
-   "bn": {
-    "title": "ঢাকার প্রান্তে পরিকল্পিত আবাসন প্রকল্প 'মধু সিটি'",
-    "summary": "মধু সিটি ধানমন্ডি ও মোহাম্মদপুরের কাছাকাছি স্বচ্ছ জমি লেনদেন এবং আইনি কাগজপত্র নিশ্চিত করে আবাসন তৈরি করছে। প্রকল্পে রয়েছে মসজিদ, খেলার মাঠ, কমিউনিটি সেন্টার, স্কুল এবং লেকের পাশে ওয়াকওয়ে। ক্রেতারা ৩, ৫, ৭ এবং ১০ কাঠার প্লট কিনতে পারবেন। কোম্পানি জমি কেনার প্রক্রিয়া সহজ এবং সব দলিল যাচাই করে দেওয়ার উপর জোর দেয়।"
-   }
-  },
-  {
-   "id": "1e5ixjj",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/xol639y4vx",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-09-30/3ntnylm6/Migration-7.jpeg",
-   "published": "2026-09-30T15:41:07.000Z",
-   "added": "2026-09-30T18:25:30.482Z",
-   "origTitle": "Best environment prevailing to go to Italy through the legal process: Expert",
-   "en": {
-    "title": "Italy recruiting 150,000 workers: legal route now safer",
-    "summary": "Italy's migration expert says now is the best time for Bangladeshi workers to migrate legally on employment visas. Italy will recruit 150,000 skilled workers next year and Bangladesh is on the list. A visa costs only 65 euros, but migration agents in Bangladesh charge 2-3 million taka for illegal routes. The EU's Talent Partnership Programme with Bangladesh can help skilled professionals find jobs in Europe."
-   },
-   "bn": {
-    "title": "ইতালিতে ১ লক্ষ ৫০ হাজার চাকরি: আইনি পথ এখন নিরাপদ",
-    "summary": "ইতালির মাইগ্রেশন বিশেষজ্ঞ বলছেন, বাংলাদেশী শ্রমিকদের জন্য এখনই ইতালিতে আইনি পথে কাজ করার সেরা সময়। আগামী বছর ইতালি ১ লক্ষ ৫০ হাজার দক্ষ শ্রমিক নিয়োগ দেবে এবং বাংলাদেশ তালিকায় আছে। ভিসার খরচ মাত্র ৬৫ ইউরো কিন্তু দেশের এজেন্টরা অবৈধ পথে ২-৩ মিলিয়ন টাকা নেয়। ইউরোপীয় ইউনিয়নের ট্যালেন্ট পার্টনারশিপ প্রোগ্রাম বাংলাদেশী পেশাদারদের চাকরি পেতে সাহায্য করতে পারে।"
-   }
-  },
-  {
-   "id": "p7mn79",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/09/30/shark-flooded-road-Surf-City-new-jersey/2471790789410/",
-   "image": "https://cdnph.upi.com/ph/st/th/2471790789410/2026/i/17907897582016/v1.5/Shark-caught-on-camera-swimming-through-flooded-New-Jersey-road.jpg",
-   "published": "2026-09-30T17:36:24.000Z",
-   "added": "2026-09-30T18:25:14.957Z",
-   "origTitle": "Watch: Shark caught on camera swimming through flooded New Jersey road",
-   "en": {
-    "title": "Shark spotted swimming through flooded New Jersey street",
-    "summary": "A New Jersey man captured video of a shark casually swimming down a flooded neighborhood road during a powerful nor'easter that battered the East Coast. The footage shows the shark navigating through the floodwaters as the storm dumped heavy rain across the region."
-   },
-   "bn": {
-    "title": "বন্যায় ডুবা রাস্তায় শার্ক দেখা গেছে নিউ জার্সিতে",
-    "summary": "নিউ জার্সির একজন ব্যক্তি তার ভিডিওতে ধরেছেন কীভাবে একটি শার্ক বন্যায় ডুবা এক আবাসিক রাস্তায় সাঁতার কাটছে। এই ঘটনা ঘটেছে যখন পূর্ব উপকূলে একটি শক্তিশালী ঝড় আঘাত হেনেছিল। ভিডিওটিতে দেখা যায় শার্ক কীভাবে বন্যার জলে তার পথ তৈরি করছে।"
-   }
-  },
-  {
-   "id": "hr7jsz",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-   "published": "2026-09-30T18:23:57.000Z",
-   "added": "2026-09-30T18:25:14.957Z",
-   "origTitle": "AI voice startup ElevenLabs doubles valuation to $22B",
-   "en": {
-    "title": "AI voice startup ElevenLabs doubles value to 22 billion dollars",
-    "summary": "Voice AI company ElevenLabs announced its valuation has doubled to $22 billion, up from $11 billion in February. The jump came from a $300 million employee share sale led by Wellington and T. Rowe Price. Founded in 2022, ElevenLabs creates ultra-realistic human voices and sound effects. The move helps retain staff in a competitive AI market."
-   },
-   "bn": {
-    "title": "এআই ভয়েস কোম্পানি ইলেভেনল্যাবসের মূল্য দ্বিগুণ হয়েছে",
-    "summary": "ভয়েস এআই কোম্পানি ইলেভেনল্যাবস ঘোষণা করেছে তার মূল্যায়ন দ্বিগুণ হয়ে ২২ বিলিয়ন ডলারে পৌঁছেছে, যা ফেব্রুয়ারিতে ১১ বিলিয়ন ছিল। এই বৃদ্ধি ৩০০ মিলিয়ন ডলারের কর্মচারী শেয়ার বিক্রয়ের মাধ্যমে এসেছে। ২০২২ সালে প্রতিষ্ঠিত ইলেভেনল্যাবস অতি বাস্তবসম্মত মানব কণ্ঠস্বর তৈরি করে। এই পদক্ষেপ প্রতিযোগিতামূলক এআই বাজারে কর্মীদের ধরে রাখতে সাহায্য করে।"
-   }
-  },
-  {
-   "id": "1s5t95",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2017-12-19T134853Z_428447843_RC1BD7140C50_RTRMADP_3_GLOBAL-POY-MYANMAR-ROHINGYA-1783407685.jpg?resize=1920%2C1440",
-   "published": "2026-09-30T17:55:59.000Z",
-   "added": "2026-09-30T18:25:14.957Z",
-   "origTitle": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
-   "en": {
-    "title": "Malaysia faces outcry over forcing Rohingya back to Myanmar",
-    "summary": "Malaysia is sending thousands of Rohingya refugees back to Myanmar, claiming the process is voluntary and coordinated with Myanmar's government. But human rights groups say this violates international law—Rohingya risk prosecution and torture. Over 100,000 Rohingya fled Myanmar to Malaysia nearly a decade ago to escape persecution and war. Malaysia denies accusations of forced deportation."
-   },
-   "bn": {
-    "title": "মালয়েশিয়া রোহিঙ্গা শরণার্থীদের মিয়ানমারে ফেরত পাঠাচ্ছে",
-    "summary": "মালয়েশিয়া হাজার হাজার রোহিঙ্গা শরণার্থীকে মিয়ানমারে ফেরত পাঠাচ্ছে, যদিও সরকার বলছে এটি স্বেচ্ছামূলক এবং মিয়ানমারের সাথে সমন্বিত। মানবাধিকার সংস্থাগুলো বলছে এটি আন্তর্জাতিক আইন ভাঙা—রোহিঙ্গারা নিপীড়ন এবং নির্যাতনের ঝুঁকিতে রয়েছে। একদশক আগে ১ লাখেরও বেশি রোহিঙ্গা নিপীড়ন থেকে বাঁচতে মিয়ানমার থেকে মালয়েশিয়ায় আশ্রয় নিয়েছিল।"
-   }
-  },
-  {
-   "id": "hajxlg",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-09-30T17:51:49.000Z",
-   "added": "2026-09-30T18:25:14.957Z",
-   "origTitle": "What we know about stabbing on Flydubai flight to Israel",
-   "en": {
-    "title": "Flydubai pilot stabbed co-pilot, diverted flight to Saudi Arabia",
-    "summary": "A Flydubai flight from Dubai to Tel Aviv was diverted to Saudi Arabia on 30 September after one pilot stabbed the other and attempted to crash the plane, Israeli PM Netanyahu said. Both pilots were injured and hospitalized. The plane carried at least 150 people, mostly Israeli. The arrested pilot is being questioned by Saudi authorities. Israel's defence minister called it an attempted jihadist attack."
-   },
-   "bn": {
-    "title": "দুবাই থেকে ইসরাইলের ফ্লাইটে পাইলট একে অপরকে ছুরিকাঘাত করেছে",
-    "summary": "দুবাই থেকে তেল আভিভের দিকে যাওয়া ফ্লাইডুবাই বিমান ৩০ সেপ্টেম্বর সৌদি আরবে ফিরিয়ে নেওয়া হয়েছে। এক পাইলট অন্য পাইলটকে ছুরিকাঘাত করে বিমান ধ্বংস করার চেষ্টা করেছে বলে ইসরাইলের প্রধানমন্ত্রী নেতানিয়াহু বলেছেন। বিমানে কমপক্ষে ১৫০ জন ছিল, যাদের বেশিরভাগই ইসরাইলি। গ্রেফতার পাইলটকে সৌদি কর্তৃপক্ষ জিজ্ঞাসাবাদ করছে। ইসরাইলের প্রতিরক্ষা মন্ত্রী এটিকে জঙ্গি হামলা বলেছেন।"
-   }
-  },
-  {
-   "id": "jpy1s0",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/971634/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0",
-   "image": null,
-   "published": "2026-09-30T18:04:31.000Z",
-   "added": "2026-09-30T18:25:14.957Z",
-   "origTitle": "গ্রেফতার শুনানিতে সাবেক স্বরাষ্ট্রমন্ত্রী কামালের ভগ্নিপতি, ‘ছাত্রশিবিরে জড়িত ছিলাম’",
-   "en": {
-    "title": "Ex-home minister Kamal's relative arrested in attempted murder case",
-    "summary": "Latif Bhuiya Kamal, brother-in-law of former Home Minister Asaduzzaman Khan Kamal and ex-chairman of Cumilla's Barura upazila, was arrested on 30 September in connection with an attempted murder case during July's demonstrations. He was allegedly involved in stabbing someone named Shamim Mia in the Bhataara area. A metropolitan magistrate in Dhaka approved his arrest after the investigation officer's request."
-   },
-   "bn": {
-    "title": "সাবেক স্বরাষ্ট্রমন্ত্রী কামালের ভাইকে গ্রেফতার করা হয়েছে",
-    "summary": "সাবেক স্বরাষ্ট্রমন্ত্রী আসাদুজ্জামান খান কামালের ভগ্নিপতি ও কুমিল্লার বরুড়া উপজেলার সাবেক চেয়ারম্যান লতিফ ভূইয়া কামাল ৩০ সেপ্টেম্বর গ্রেফতার হয়েছেন। তাকে জুলাই আন্দোলনের সময় ভাটারা এলাকায় শামিম মিয়ার উপর হত্যাচেষ্টার মামলায় জড়িত হওয়ার অভিযোগে ধরা হয়েছে। ঢাকার একজন ম্যাজিস্ট্রেট তদন্ত কর্মকর্তার আবেদনের পরে তার গ্রেফতার অনুমোদন করেছেন।"
-   }
-  },
-  {
-   "id": "12bcbql",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/education/no-separate-notification-mpo-teachers-under-new-pay-scale-education-secretary",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/edu_secy.png",
-   "published": "2026-09-30T17:50:00.000Z",
-   "added": "2026-09-30T18:25:14.957Z",
-   "origTitle": "No separate notification for MPO teachers under new pay scale: Education secretary",
-   "en": {
-    "title": "Private school teachers get pay scale without new notification",
-    "summary": "MPO-listed private school teachers don't need a separate order to get the new pay scale—the government gazette for all employees covers them too. The education secretary also said the government is speeding up retirement benefits that teachers used to wait years for. The plan includes training five lakh MPO teachers to boost education quality."
-   },
-   "bn": {
-    "title": "এমপিও শিক্ষকদের জন্য আলাদা অর্ডার নেই, নতুন বেতন স্কেল পাবেন",
-    "summary": "এমপিও তালিকাভুক্ত প্রাইভেট স্কুলের শিক্ষকদের নতুন বেতন স্কেল পেতে আলাদা নোটিফিকেশনের দরকার নেই—সরকারি কর্মচারীদের জন্য যে গেজেট বের হয়েছে তাতেই তারা অন্তর্ভুক্ত। শিক্ষা সচিব বলেছেন, অবসর সুবিধা দ্রুত দেওয়ার ব্যাপারে সরকার পদক্ষেপ নিয়েছে যা আগে বছরের পর বছর বিলম্ব হতো। সরকার পাঁচ লাখ এমপিও শিক্ষকদের প্রশিক্ষণ দেবে শিক্ষার মান উন্নয়নের জন্য।"
    }
   }
  ]

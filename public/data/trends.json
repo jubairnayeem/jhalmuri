@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-03T17:13:38.774Z",
+ "updatedAt": "2026-10-03T21:09:07.231Z",
  "burning": [
   {
    "id": "urdsq5",
    "heat": 5,
    "why": {
-    "en": "Measles outbreak killing children across Bangladesh, multiple outlets reporting escalating death toll.",
-    "bn": "বাংলাদেশে পরিমাপযোগ্য মৃত্যুর হার বাড়ছে, একাধিক আউটলেট কভারেজ দিচ্ছে।"
+    "en": "Measles outbreak death toll reaches 1,122; multiple outlets covering crisis as cases surge.",
+    "bn": "হাজারেরও বেশি মানুষ মাম্পস ভাইরাসে মারা গেছে; সংকট বাড়ছে প্রতিদিন।"
    },
    "rank": 1
   },
   {
-   "id": "gwqdc9",
+   "id": "2p7ejv",
    "heat": 5,
    "why": {
-    "en": "Flydubai co-pilot attack on captain with crash axe is major international aviation incident covered by multiple outlets.",
-    "bn": "ফ্লাইডুবাই কো-পাইলট ক্র্যাশ অ্যাক্স দিয়ে ক্যাপ্টেনকে আক্রমণ করেছে, বড় ঘটনা।"
+    "en": "Veteran journalist Toufique Imrose Khalidi dies; bdnews24.com editor-in-chief's death trending across Bangladesh.",
+    "bn": "সাংবাদিক তৌফিক ইমরোজ খালিদী মারা গেছেন; পুরো দেশে ট্রেন্ডিং।"
    },
    "rank": 2
   },
   {
-   "id": "15q1lke",
+   "id": "ptjxwa",
    "heat": 4,
    "why": {
-    "en": "Russia intensifying attacks on Kyiv infrastructure, second major bridge strike signals escalation.",
-    "bn": "রাশিয়া কিয়েভে দ্বিতীয় বড় সেতু আক্রমণ করছে, যুদ্ধ তীব্র হচ্ছে।"
+    "en": "Bangladesh loses to Sri Lanka by 63 runs in Asian Games bronze medal match.",
+    "bn": "এশিয়ান গেমসে বাংলাদেশ শ্রীলঙ্কায় ৬৩ রানে হেরে গেল।"
    },
    "rank": 3
   },
   {
-   "id": "m6ehzo",
+   "id": "82z1dk",
    "heat": 4,
    "why": {
-    "en": "Bangladesh football team's 9-2 humiliation in ASEAN Cup is major sports embarrassment.",
-    "bn": "বাংলাদেশ ফুটবল টিম ASEAN কাপে ৯-২ গোলে হারিয়েছে, বড় ঘটনা।"
+    "en": "Nuclear fuel for Rooppur power plant arrives in Dhaka, major infrastructure milestone.",
+    "bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জ্বালানি ঢাকায় পৌঁছেছে।"
    },
    "rank": 4
   },
   {
-   "id": "2p7ejv",
-   "heat": 4,
+   "id": "1n79odo",
+   "heat": 3,
    "why": {
-    "en": "Death of bdnews24.com editor-in-chief Toufique Imrose Khalidi, veteran journalist remembered across media.",
-    "bn": "বিডিনিউজ২৪ এর সম্পাদক তৌফিক ইমরোজ খালিদির মৃত্যু, বেতার মিডিয়াতে শোক।"
+    "en": "Scholar notes young Bangladeshis frustrated with traditional economic growth model.",
+    "bn": "গবেষকরা বলছেন তরুণরা ঐতিহ্যবাহী উন্নয়ন মডেলে বিরক্ত।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "kar64q",
-   "tag": "#AussieCricket",
+   "id": "2p7ejv",
+   "tag": "#সাংবাদিক",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Editor of bdnews24 dies",
+    "text": "Toufique Imrose Khalidi, editor-in-chief of bdnews24.com, has passed away. He was a prominent veteran journalist."
+   },
+   "bn": {
+    "title": "বিডিনিউজ সম্পাদক প্রয়াত",
+    "text": "বিডিনিউজ২৪ডটকমের সম্পাদক তৌফিক ইমরোজ খালিদী মারা গেছেন। তিনি একজন প্রভাবশালী অভিজ্ঞ সাংবাদিক ছিলেন।"
+   }
+  },
+  {
+   "id": "urdsq5",
+   "tag": "#স্বাস্থ্য",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Measles outbreak death toll jumps",
+    "text": "The measles outbreak death toll has reached 1,122 in Bangladesh as cases continue to surge across the country."
+   },
+   "bn": {
+    "title": "মাম্পসে মৃত্যু বাড়ছে",
+    "text": "বাংলাদেশে মাম্পস ভাইরাসে আক্রান্তদের মৃত্যু এখন ১ হাজার ১ শতাধিক। প্রতিদিন নতুন কেস বাড়ছে।"
+   }
+  },
+  {
+   "id": "ptjxwa",
+   "tag": "#ক্রিকেট",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Harper called to Test squad",
-    "text": "Australian wicketkeeper Harper gets surprise Test selection. Cricket fans buzzing about the callup."
+    "title": "Bangladesh loses bronze medal match",
+    "text": "Bangladesh fell to Sri Lanka by 63 runs in the Asian Games bronze medal match cricket game."
    },
    "bn": {
-    "title": "অস্ট্রেলিয়ান উইকেটকিপার টেস্ট স্কোয়াডে",
-    "text": "হার্পার টেস্ট ম্যাচের জন্য বেছে নেওয়া হয়েছে, ক্রিকেট ফ্যানরা এটি নিয়ে কথা বলছে।"
+    "title": "এশিয়ান গেমসে হার",
+    "text": "এশিয়ান গেমসের ব্রোঞ্জ ম্যাচে বাংলাদেশ শ্রীলঙ্কার কাছে ৬৩ রানে পরাজিত হয়েছে।"
    }
   },
   {
-   "id": "1lc76uw",
-   "tag": "#SinnerOut",
+   "id": "82z1dk",
+   "tag": "#শক্তি",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Sinner withdraws from Shanghai",
-    "text": "Tennis star Sinner pulls out of Shanghai Masters due to knee injury, concerns grow over fitness."
+    "title": "Rooppur nuclear fuel arrives",
+    "text": "Nuclear fuel for the Rooppur power plant has arrived in Dhaka, marking progress on the major infrastructure project."
    },
    "bn": {
-    "title": "সিনার শাংহাই থেকে বেরিয়েছে",
-    "text": "টেনিস তারকা সিনার হাঁটুর আঘাতের কারণে শাংহাই মাস্টার্স বাদ দিয়েছেন।"
-   }
-  },
-  {
-   "id": "1e1zawk",
-   "tag": "#OpenAIchaos",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "OpenAI safety researcher quits",
-    "text": "Prominent safety researcher leaves OpenAI, accuses company of being 'broken.' Major tech industry drama."
-   },
-   "bn": {
-    "title": "OpenAI এর গবেষক চলে গেছেন",
-    "text": "নিরাপত্তা গবেষক OpenAI কে 'ভাঙা' বলে অভিযোগ করে চলে গেছেন।"
-   }
-  },
-  {
-   "id": "alfb84",
-   "tag": "#BangladeshTech",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "44 ICT innovations awarded",
-    "text": "Bangladesh honors 44 tech innovations with national awards, showcasing local startup momentum."
-   },
-   "bn": {
-    "title": "বাংলাদেশে ৪৪টি প্রযুক্তি পুরস্কার",
-    "text": "দেশীয় আইসিটি উদ্যোগগুলো জাতীয় পুরস্কার পেয়েছে।"
+    "title": "রূপপুরে পারমাণবিক জ্বালানি",
+    "text": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জন্য জ্বালানি ঢাকায় পৌঁছেছে। এটি একটি বড় মাইলফলক।"
    }
   }
  ],
