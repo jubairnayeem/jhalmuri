@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-10-04T00:31:38.714Z",
+ "updatedAt": "2026-10-04T06:47:08.016Z",
  "items": [
+  {
+   "id": "1to3izv",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/khulna/972252/%E0%A6%A1%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A6%BE%E0%A6%87-%E0%A6%A8%E0%A6%9B%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87",
+   "image": null,
+   "published": "2026-10-04T06:23:27.000Z",
+   "added": "2026-10-04T06:47:08.016Z",
+   "origTitle": "ডাববোঝাই নছিমনকে অতিক্রম করতে গিয়ে দুই মোটরসাইকেলের সংঘর্ষ, নিহত ৩",
+   "en": {
+    "title": "Three motorcyclists killed in collision with overloaded truck in Bagerhat",
+    "summary": "Two motorcycles collided with an overloaded bus on the Morelganj-Bogra highway in Bagerhat on Saturday evening. Three motorcyclists died: Limon Molla (24), Mo. Amin Khan (23), and Soheb (16). Six others were injured in the crash."
+   },
+   "bn": {
+    "title": "বাগেরহাটে মোটরসাইকেল-নছিমনের সংঘর্ষে তিন নিহত",
+    "summary": "শনিবার সন্ধ্যায় বাগেরহাটের মোরেলগঞ্জে দুটি মোটরসাইকেল এবং একটি ডাববোঝাই নছিমনের সংঘর্ষে তিনজন মারা গেছেন। নিহতরা হলেন লিমন মোল্লা (২৪), মো. আমিন খান (২৩) এবং সোহেব (১৬)। এই ঘটনায় আরও ছয়জন আহত হয়েছেন।"
+   }
+  },
+  {
+   "id": "1wzmpe5",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c3vgxe295rjvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e5d/live/8f06a810-bf90-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-04T02:44:23.000Z",
+   "added": "2026-10-04T06:47:08.016Z",
+   "origTitle": "পত্রিকা: 'চট্টগ্রাম বন্দরের সব টার্মিনাল যাচ্ছে বিদেশিদের হাতে'",
+   "en": {
+    "title": "Chittagong port terminals shifting to foreign operators, press reports",
+    "summary": "Dhaka newspapers report that Chittagong port's container terminals are being handed over to foreign operators one by one. Four terminals already went or are set to go to foreign companies. Now discussions include Chittagong Container Terminal, General Cargo Berth, and Bay Port terminals. Opposition groups are launching fresh protests."
+   },
+   "bn": {
+    "title": "চট্টগ্রাম বন্দরের টার্মিনাল বিদেশিদের হাতে যাচ্ছে: সংবাদপত্র",
+    "summary": "ঢাকার সংবাদপত্রে প্রতিবেদন অনুযায়ী চট্টগ্রাম বন্দরের কনটেইনার টার্মিনালগুলো একে একে বিদেশি কোম্পানিগুলোর হাতে চলে যাচ্ছে। চারটি টার্মিনাল ইতিমধ্যে বিদেশিদের কাছে দেওয়া বা দেওয়ার জন্য অনুমোদিত হয়েছে। এখন চট্টগ্রাম কনটেইনার টার্মিনাল, জেনারেল কার্গো বার্থ আর বে পোর্টেও এমনটি নিয়ে আলোচনা চলছে। বিরোধী সংগঠনগুলো নতুন আন্দোলন ঘোষণা করেছে।"
+   }
+  },
+  {
+   "id": "1inq2xo",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "সমকাল",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMitgVBVV95cUxQdW85T2ExbzFkV1owcnppblBGTWU3V3Y3RzFJakF3RHNCVDNBNEw1dThVUzBrel9pVmExT25EUzlUNU5uSUNMVEpjdUpicjg5SWVUczNnalcxYXdwemZ1MlRucm9JODBLalNqWGpIckk1Qk45Yll4MGV0aDQwTHBfZzkwQkdMNkJySW84OFdGR0h5TEtRQ1kzV1cwV200VFZfY0Etd3M1eGdtVVVIYzVucWhiTVdDdWd5Vl8zbEdFSlcxSnhhY2h3aC1jbEJkVUZ5dXFtdVhDa00xdG9iaWZXWkJGRkdIUWRBZFAzanVqQVJyRk5abUstUmZubGkwamlXRXUtYzZiTDJ4LXh0RlExMzhFS3VTMlU5WjlnUWZGSFlwS1hZSUdwSkd2UHdfNUc1WXpNbVRCMWFGWWFzNmpEYS1FN3hVa3A4TU5vZnFvTFFrRWQ5eUt0TnNFWHhZYlEzRWNVTWgxTmJjQ1E0WW9Ic244TXl6RWFkeDBoZXNDaXNXS3pzSFFMdEstU09Lc3IwTTdndVc1SVVEcUJfeTk4Nk1yTWMzb0plSVJGUGg5Ti1ubFYzM3RxdGhKUjE2N0x4SHdxanpZT0QzbFo1TVFSWkJJemppM2I0M1VybUJpdC1nSk1uSWFJOGlqVXdzYVNBVE56a19YQlJfRnprOWdKODZHUmFUcFYtRGoxdGM5RkFaRmx6V1Bvd2xVLWl3dnJZMl9YaUdDdkUzdUlCZHVlX2hXUE1OQkg1eVA5UlNrTFRvVUdPdlRRcGZJOGoxMDFaajQwQnE2WGM3cDA2RUFCS2QyWDl6VllYUlpzbUtFV0dBM21wQjBHTkptakpxWERSeWZQSXR1SWhraHlObHlEa0J6MFNqYkhlUzU4Yl9TYzVFSzRvTnpPY0ZuY1lIVkl2NUs1SFZn?oc=5",
+   "image": null,
+   "published": "2026-10-03T15:57:00.000Z",
+   "added": "2026-10-04T06:47:08.016Z",
+   "origTitle": "রূপগঞ্জে বন্ধুকে আটকে রেখে কিশোরীকে ধর্ষণ, ৩ যুবক গ্রেপ্তার",
+   "en": {
+    "title": "Three youths arrested for rape in Rupganj",
+    "summary": "Three young men have been arrested in Rupganj for raping a teenage girl. According to police, they restrained her friend while committing the crime. The case is being investigated and details are still emerging."
+   },
+   "bn": {
+    "title": "রূপগঞ্জে কিশোরীর প্রতি ধর্ষণে তিনজন গ্রেপ্তার",
+    "summary": "রূপগঞ্জে একটি কিশোরীর বিরুদ্ধে ধর্ষণের অভিযোগে তিনজন যুবককে গ্রেপ্তার করা হয়েছে। পুলিশ জানায় তারা তার বন্ধুকে আটকে রেখে এই অপরাধ করেছে। তদন্ত চলছে এবং আরও বিস্তারিত সামনে আসবে।"
+   }
+  },
+  {
+   "id": "7besc5",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1557029.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423300/423355.jpg",
+   "published": "2026-10-04T03:12:47.000Z",
+   "added": "2026-10-04T06:47:08.016Z",
+   "origTitle": "Shreyas Iyer 'ecstatic' after 'collective effort and comprehensive win' over Pakistan",
+   "en": {
+    "title": "Shreyas Iyer praises India's champion mindset after Pakistan win",
+    "summary": "India beat Pakistan at the Asian Games, and captain Shreyas Iyer was thrilled about how his team handled things. He said they didn't complain about rain or make excuses—that's what champions do. The win showed real collective effort and composure under pressure."
+   },
+   "bn": {
+    "title": "পাকিস্তানের বিরুদ্ধে জয়ে শ্রেয়াস আইয়ারের আনন্দ",
+    "summary": "এশিয়ান গেমসে পাকিস্তানকে হারিয়ে ভারত জিতেছে আর শ্রেয়াস আইয়ার খুব খুশি। তিনি বলেছেন তার টিম বৃষ্টি নিয়ে কোনো অভিযোগ করেনি বা অজুহাত খুঁজেনি—এটাই চ্যাম্পিয়ন টিমের কাজ। এই জয় দেখায় কতটা সম্মিলিত প্রচেষ্টা আর দৃঢ়তা ছিল।"
+   }
+  },
+  {
+   "id": "1aoipd",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/football/7yl4wngnou",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-04/zzxzbrek/594441-01-02-1.jpg",
+   "published": "2026-10-04T06:27:22.000Z",
+   "added": "2026-10-04T06:46:53.807Z",
+   "origTitle": "আর্জেন্টিনা কতবার ৭ গোল করেছে, কোন মাসে ৭ গোল বেশি",
+   "en": {
+    "title": "Argentina scores 7 goals again, October their lucky month",
+    "summary": "Argentina thrashed Burkina Faso 7-0 in a friendly at Buenos Aires, their biggest win in nearly three years under coach Lionel Scaloni. They last scored 7 goals in a friendly against Curaçao on March 28, 2023. Historically, Argentina's biggest win was 12-0 against Ecuador in 1942 Copa America, with legend José Manuel Moreno scoring five goals. October has been Argentina's luckiest month for 7-goal wins—they've done it five times."
+   },
+   "bn": {
+    "title": "আর্জেন্টিনার অক্টোবর মাস, সাত গোলের রেকর্ড বাড়িল",
+    "summary": "আর্জেন্টিনা বুয়েনস এইরেসে বুরকিনা ফাসোকে ৭-০ গোলে পরাজিত করেছে এবং এটি স্কালোনি যুগে তিন বছরে তাদের বড়তম জয়। তারা আগে ২০২৩ সালে কুরাসাওয়ের বিপক্ষেও ৭-০ জিতেছিল। আর্জেন্টিনার ফুটবল ইতিহাসে সবচেয়ে বড় জয় ছিল ১৯৪২ কোপা আমেরিকায় ইকুয়েডরের বিপক্ষে ১২-০। অক্টোবর মাসেই আর্জেন্টিনা পাঁচবার সাত গোল করেছে, যা অন্য কোনো মাসের চেয়ে বেশি।"
+   }
+  },
+  {
+   "id": "1k46yt4",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/lut8myx7a6",
+   "image": "https://media.prothomalo.com/prothomalo-english/2025-10-03/hulov4dk/Bangladesh-Government.jpg",
+   "published": "2026-10-04T04:39:39.000Z",
+   "added": "2026-10-04T06:46:53.807Z",
+   "origTitle": "Govt employees to get 3 months’ salary arrears with October pay, calculation starts tomorrow",
+   "en": {
+    "title": "Government workers get 3 months' arrears with October salary",
+    "summary": "Government employees will receive nearly three months' salary arrears in one lump sum with their October pay under the new salary structure. The pay fixation process begins tomorrow and must be completed by October 20. Employees will log into the iBAS++ portal to enter personal details and confirm their information. The exact arrears amount depends on each person's grade, basic salary, and the new fixation date."
+   },
+   "bn": {
+    "title": "সরকারি কর্মচারীরা অক্টোবর বেতনে তিন মাসের বকেয়া পাবেন",
+    "summary": "সরকারি কর্মচারীরা নতুন বেতন কাঠামোয় অক্টোবর বেতনের সাথে তিন মাসের বকেয়া এককালীন পাবেন। পে ফিক্সেশনের প্রক্রিয়া সোমবার থেকে শুরু হবে এবং ২০ অক্টোবরের মধ্যে শেষ করতে হবে। প্রতিটি কর্মচারীকে আইবিএএস++ পোর্টালে ব্যক্তিগত তথ্য প্রবেশ করতে হবে। প্রতিটি ব্যক্তির বকেয়ার পরিমাণ তাদের গ্রেড, বেতন এবং নতুন ফিক্সেশন তারিখের উপর নির্ভর করবে।"
+   }
+  },
+  {
+   "id": "4eoyn6",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/middle-east/war-isnt-over-al-qaeda-calls-copycat-attacks-us-israeli-planes-after-flydubai",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/plane_israel_0.jpg",
+   "published": "2026-10-04T06:30:00.000Z",
+   "added": "2026-10-04T06:46:53.807Z",
+   "origTitle": "‘War isn’t over’: Al-Qaeda calls for ‘copycat attacks’ on US, Israeli planes after flydubai plot",
+   "en": {
+    "title": "Al-Qaeda calls for copycat attacks on US, Israeli planes",
+    "summary": "Al-Qaeda's al-Bayan publication called for copycat attacks on American and Israeli airliners, invoking 9/11 while praising an alleged hijacker of a flydubai flight. The Arabic-language weekly, launched in July, warned that planes carrying 'Zionists, Americans and infidels' remain targets. The rhetoric appeared on Al-Qaeda-linked Telegram channels and invoked a 2009 CIA suicide bombing. The call came after posts allegedly linked to the Omani co-pilot accused of the hijacking."
+   },
+   "bn": {
+    "title": "আল-কায়েদা আমেরিকা-ইজরায়েল বিমানে হামলার আহ্বান জানিয়েছে",
+    "summary": "আল-কায়েদার আল-বায়ান প্রকাশনা আমেরিকা এবং ইজরায়েলের বিমানে অনুরূপ হামলার জন্য আহ্বান জানিয়েছে। তারা ৯/১১ ইতিহাস টেনে আনীয়া ফ্লাইড়ুবাই হাইজ্যাকারকে সাধুবাদ জানিয়েছে। জুলাইয়ে চালু হওয়া এই আরবি সাপ্তাহিক প্রকাশনা বলেছে যে আমেরিকান ও সিয়োনিস্ট বাহক বিমান এখনও লক্ষ্যবস্তু। এই ডাক আল-কায়েদা সংযুক্ত টেলিগ্রাম চ্যানেলে প্রকাশিত হয়েছে।"
+   }
+  },
+  {
+   "id": "1uh8kyt",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261003__D26H69M__v1__MidRes__CricketIndWisOdi-1791090387.jpg?resize=1200%2C630",
+   "published": "2026-10-04T05:28:38.000Z",
+   "added": "2026-10-04T06:46:53.807Z",
+   "origTitle": "West Indies beat India in record chase as Hope hits 162 in third ODI",
+   "en": {
+    "title": "West Indies chase 352 to beat India, Hope scores 162",
+    "summary": "West Indies pulled off their biggest ODI run chase, reaching 352-5 to beat India by five wickets in Chandigarh with 10 balls spare. Captain Shai Hope, who kept wicket during India's innings, then smashed an unbeaten 162 to lead the chase. India had already won the series 2-0, but West Indies broke their losing streak since 2023. Hope's 143-ball knock included 17 boundaries and three sixes."
+   },
+   "bn": {
+    "title": "ওয়েস্ট ইন্ডিজ ইতিহাসের বড় চেজ করে ভারতকে হারাল",
+    "summary": "ওয়েস্ট ইন্ডিজ চন্ডীগড়ে ৩৫২ রানের চেজ ধরে ভারতকে পাঁচ উইকেটে হারিয়েছে। ক্যাপ্টেন শাই হোপ ১৬২ রান করে দল জয়ে নেতৃত্ব দিয়েছেন। হোপ ভারতের সব ওভার রেখেপাল করার পরও এত বড় ইনিংস খেলেছেন। এটি ওয়েস্ট ইন্ডিজের সর্বোচ্চ ওডিআই চেজ এবং তারা ২০২৩ সালের পর প্রথমবার ভারতকে হারিয়েছে।"
+   }
+  },
+  {
+   "id": "pkexs2",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/law-and-crime/972253/%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%9C%E0%A7%81%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%87%E0%A6%A4%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A7%A7%E0%A7%AC-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF",
+   "image": null,
+   "published": "2026-10-04T06:38:26.000Z",
+   "added": "2026-10-04T06:46:53.807Z",
+   "origTitle": "শাহজালালে দুই বিমানকর্মীর জুতার ভেতর মিললো ১৬ কোটি টাকার স্বর্ণ",
+   "en": {
+    "title": "80 gold bars worth 16 crore taka found in airport workers' shoes",
+    "summary": "Customs intelligence officials found 80 gold bars hidden inside the shoes of two aircraft workers at Hazrat Shahjalal International Airport. The gold weighed 9.34 kilograms and was valued at approximately 16 crore 25 lakh taka. The discovery was made on the runway based on secret intelligence. The National Board of Revenue confirmed the seizure on Sunday, September 4."
+   },
+   "bn": {
+    "title": "শাহজালালে দুই কর্মীর জুতায় মিলেছে ১৬ কোটি টাকার সোনা",
+    "summary": "শাহজালাল আন্তর্জাতিক বিমানবন্দরের রানওয়েতে দুই বিমানকর্মীর জুতার ভেতর থেকে ৮০টি স্বর্ণবার পাওয়া গেছে। সোনার ওজন ৯.৩৪ কেজি এবং বাজারমূল্য প্রায় ১৬ কোটি ২৫ লাখ টাকা। কাস্টমস গোয়েন্দা বিভাগ গোপন সংবাদের ভিত্তিতে এটি উদ্ধার করেছে। জাতীয় রাজস্ব বোর্ড রবিবার এই তথ্য নিশ্চিত করেছে।"
+   }
+  },
+  {
+   "id": "1crj1jb",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/ck62y42q28r2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4835/live/715c8f40-bfa0-11f1-babe-4199b0e7ccea.jpg",
+   "published": "2026-10-04T03:42:56.000Z",
+   "added": "2026-10-04T06:46:53.807Z",
+   "origTitle": "যুক্তরাষ্ট্রের সম্ভাব্য আক্রমণের জন্য কানাডা কেন প্রস্তুত হচ্ছে",
+   "en": {
+    "title": "Canada prepares for possible US military threat under Trump",
+    "summary": "Canada's PM Mark Carney said last week he's preparing for a scenario once unthinkable: a US military attack on Canada. He stressed the risk is very low and the chance extremely unlikely. The worry stems from Trump's global tariff policies and repeated comments about making Canada America's 51st state. Trump said military force against Canada is 'unlikely,' preferring economic pressure instead."
+   },
+   "bn": {
+    "title": "ট্রাম্পের যুগে আমেরিকার সম্ভাব্য আক্রমণের জন্য কানাডা প্রস্তুত",
+    "summary": "কানাডার প্রধানমন্ত্রী মার্ক কার্নি স্বীকার করেছেন যে তিনি যুক্তরাষ্ট্রের সম্ভাব্য সামরিক আক্রমণের জন্য পরিকল্পনা করছেন। তবে তিনি জানিয়েছেন এই ঝুঁকি খুবই কম এবং ঘটার সম্ভাবনা অত্যন্ত ক্ষীণ। ট্রাম্পের শুল্কনীতি এবং কানাডাকে '৫১তম অঙ্গরাজ্য' বানানোর মন্তব্যই এই প্রস্তুতির কারণ। ট্রাম্পের পক্ষ থেকে বলা হয়েছে তারা অর্থনৈতিক চাপ ব্যবহার করবে, সামরিক শক্তি নয়।"
+   }
+  },
   {
    "id": "1pmobw0",
    "section": "hasi",
@@ -2265,160 +2485,6 @@
    "bn": {
     "title": "ছাত্রের বাবা ক্লাসরুমে সহপাঠীকে আক্রমণ করে গ্রেপ্তার",
     "summary": "মুন্সিগঞ্জের রাজডিয়া অভয় পাইলট স্কুলে একজন বাবাকে গ্রেপ্তার করা হয়েছে তার ছেলের সহপাঠীকে ক্লাসরুমে তিনবার মেঝেতে ছুড়ে ফেলার দায়ে। ঘটনাটি ১ অক্টোবর সকাল দশটার দিকে ঘটেছিল। তার ছেলেকে নিয়ে বিরোধ হয়েছে বলে বাবা স্কুলে গিয়েছিলেন। ভিডিওটি সোশ্যাল মিডিয়ায় ভাইরাল হয়েছে এবং শিক্ষকরা পুলিশকে খবর দিয়েছেন।"
-   }
-  },
-  {
-   "id": "1j6rjkp",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "ইত্তেফাক",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxOS0ZoRG1nTHdPcEticTNPcTBWd3ptZ0I1c3lUNTVjSlZVTXZyVTcxV2JFOFBfZk5RYnRRWkd5dVR4VmNCSTE5TkJuMllnQmV2Tko0NUVENHN0WGdQRjI3R3lKMWZaZGxVbUFuS1BRcTc5WmhXYW5pZ1lqSzZlTko3ZnpmMkxuT1JESlJTY1R4SWxoRC05cmZUdXJmbEdmT1g4OVVPUWd3VXRCYXc0MnZ5WE5EMUE1MlZMUjR3cTIzZlBqZ3NTWmplblRleXBOT2xkeDlIMjhIOFhVdUVScEFsNktUbWpRTGNXLUZORXJGQUYta3c1d2VMWU5vWjZfOWdJN3FHQlBjMWtrckxXZFF2WnRaWVQ1aURoUUREdVFBSWJfQTFzRk1Ld3VqeUZSQVJGSDVqaWNOdFpZbDE1RDBUa1E1T2tpUWtPckMxVEtHVncxLUI0MlMtcmRzQVh2S05QYTJ4SkxIcVNuZWNYTFF2ank5SUxGNG85c01vN2Q5UVVkcHd1N0hZZF9ZSHBpWVJKbDJ3VVVJMmRRWkdpWTNxTzJLR0N3Zm43UTI3TnpBSklpMkNGb1EwN0dieGtTRDFZS2VleFNIMWN6VEswV1JZWlctMS0wU1c0ajZ4cXFHdWNCaFZjRGpmcXJnOVRZZ05IRlAtTmFRNTRJcTMxZGhOczBidmJ4WFZyY1FjMm9nZ1ljUnhtckFwRzZxeHJsLVc1OEJDeTNWT1o0blVjRVdpcV9lOGpRY201U0o5R1ZDMjdzQkFFcUdHbW5SelLSAdIEQVVfeXFMTjE5NVNOa2NCX3MzZlpJQzRGbjVULUdKenN6Ym0taU85WHlpMDVxQkE1WURwblJGSkRmS2FKQUdpSFRuTFVaWEZsZWhJaTNTbTVhNEU2cjNTUmlvbzZSaHQwQU5xMHg2LVJ1QXQtVDZuQWd2NktZbjVPT2FsMlhMbjlJR0NtN0hKYTB4c2ZpeFNxZlVFb3Bsb080SXhQS1ZRVVk3NW5zd24zc1pFR2Y0MXI5ODNnWm5ZV2pIRl84SlRnVWpuTC0zWXh4WXZ5dV9ybW83Sld1enlBX0dZMmdfZkpfUzFzcEl3M1FYYjYtVXp2aUhVUlZOQ1RmYmIwTDlPc09pbHVNeVZ5bGpFUHRFeFpKTlQ3aW5jN09tUm5NS0l2bU8yU0VuX3JkTlZxSy1EV3paeUdFNDBpRHV6YW1kdHBwY0ZIcHRzbDBMNmI3Ym82c0JDRUwtTkRONXAtUEgzQnFRbzJFdHJhcFpFeXhEZnhqYnUtWlNjRWU4WUh3MTd0cjZ0YkdBU1Q1bmVKNjZmR3p6QThPM0gxYS1leW1tUDhBelp0WHJXU1dMSzA5cGx4SmNORUFzY1l2YjEzdUdPWGxHLXJsNWQ0Tmp0X0Fubk84MzhfbTJEM1pEeW9rOTFTZHdjVm9FOE93OWdJb2NMU0swTnoteFdaWm5zZDY4aEJaaVN1XzQwb250Mnp0RE40UExFcExXUGJwVks0bnJ5ZU5qTTk2cUVwLUwxOVBGcmtVMUlZa2JRU2t1WXdRYk5PaVRBZEtVNFFyd1E1bVF1Vkh3?oc=5",
-   "image": null,
-   "published": "2026-09-30T09:37:11.000Z",
-   "added": "2026-10-01T02:03:17.930Z",
-   "origTitle": "হাদির নাম মুছে আগের নামেই ফিরছে ‘শেখ মুজিবুর রহমান হল’",
-   "en": {
-    "title": "Hall renamed Sheikh Mujibur Rahman after Hadi era ends",
-    "summary": "A university hall that had been renamed during a recent period is now reverting to its original name, Sheikh Mujibur Rahman Hall. The change marks a shift following recent political developments. The renaming reflects how campus spaces reflect broader national changes."
-   },
-   "bn": {
-    "title": "হাদির নাম মুছে হল আগের নামে ফিরছে",
-    "summary": "একটি বিশ্ববিদ্যালয় হল যা সাম্প্রতিক সময়ে পুনর্নামকরণ করা হয়েছিল, এখন তার আসল নাম শেখ মুজিবুর রহমান হল-এ ফিরে যাচ্ছে। পরিবর্তনটি সাম্প্রতিক রাজনৈতিক উন্নয়নের পর একটি স্থানান্তর চিহ্নিত করে। এটি দেখায় কিভাবে ক্যাম্পাস স্থানগুলি জাতীয় পরিবর্তন প্রতিফলিত করে।"
-   }
-  },
-  {
-   "id": "17okej5",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1556662.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423200/423269.jpg",
-   "published": "2026-10-01T00:58:22.000Z",
-   "added": "2026-10-01T02:03:17.930Z",
-   "origTitle": "Green and Renshaw suffer injury concerns ahead of Test series",
-   "en": {
-    "title": "Green and Renshaw battle injuries before Test series",
-    "summary": "Fast bowler Green suffered a groin blow while batting and sat out the field despite being set to bowl. Opener Renshaw copped a wrist injury and had to leave the field without returning. Both players face uncertainty heading into the upcoming Test series."
-   },
-   "bn": {
-    "title": "টেস্ট সিরিজের আগে গ্রিন এবং রেনশ আঘাতের সম্মুখীন",
-    "summary": "ফাস্ট বোলার গ্রিন ব্যাটিং করার সময় কুঁচকিতে আঘাত পেয়েছেন এবং মাঠে বল করার জন্য প্রস্তুত থাকলেও খেলেননি। ওপেনার রেনশো হাতের কব্জিতে আঘাত পেয়ে মাঠ থেকে বেরিয়ে এসেছেন। উভয় খেলোয়াড় আসন্ন টেস্ট সিরিজের জন্য সংশয়ের মধ্যে আছেন।"
-   }
-  },
-  {
-   "id": "113hd1j",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "New Age",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVVE5TTY5YUxXZnFlQVg0NENZYUZBWHJieENtS1NTSF9QZjRncE5uT2EwRWlrMHdJNzZ1b3VhUVd1WTByRHZZZV9oT1p3RHJKVnlNdkdHT1JUZHRsdFZ6cFUxWDVxVy1xWm1lVmtZV1RibHlnamk4SHZUSmpKR0lLdzduQmFhMTd4YlhxQ3R6UjRzY3pzY1Z0U1Z5aUZ2dFN3R0NBN2oxSzA4RUdyQUNQQQ?oc=5",
-   "image": null,
-   "published": "2026-09-30T07:10:00.000Z",
-   "added": "2026-10-01T02:03:17.930Z",
-   "origTitle": "Sagar-Runi murder case report submission deferred for 130th time",
-   "en": {
-    "title": "Sagar-Runi murder case report delayed again",
-    "summary": "The report submission in the Sagar-Runi murder case has been deferred for the 130th time. The case, which has dragged on for years, continues to face repeated delays. This marks another setback in what has become an achingly slow legal process."
-   },
-   "bn": {
-    "title": "সাগর-রুনি হত্যা মামলার রিপোর্ট আবারও পিছিয়ে গেল",
-    "summary": "সাগর-রুনি হত্যা মামলার রিপোর্ট সাবমিশন ১৩০ বার পেছানো হয়েছে। বছরের পর বছর ধরে চলা এই মামলা এখনও অসংখ্য বিলম্বের শিকার হচ্ছে। আইনি প্রক্রিয়া অত্যন্ত ধীরগতিতে এগিয়ে যাচ্ছে।"
-   }
-  },
-  {
-   "id": "1enp9n4",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/cricket/ub1hfxe88b",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-30/2tiwe3fa/82893942415657110514097907229228534586388551n.jpg",
-   "published": "2026-09-30T23:39:38.000Z",
-   "added": "2026-10-01T02:03:07.773Z",
-   "origTitle": "এবার আউট পারভেজ, তিন উইকেট হারিয়ে বিপদে বাংলাদেশ",
-   "en": {
-    "title": "Bangladesh loses three wickets, Parvez out",
-    "summary": "Bangladesh lost three wickets in their T20 innings: Tanzid Hassan caught off Arafat Minhas, Liton Das bowled by Saud Shakeel, and Parvez Hossain caught off Wasim Jr. Saif Hassan hit two sixes off Ahmed Daniel and Abrar Ahmed. Tawhid Hridoy is unbeaten at 11 off 10 balls."
-   },
-   "bn": {
-    "title": "বাংলাদেশ তিন উইকেট হারিয়ে বিপদে",
-    "summary": "বাংলাদেশ টি২০ ম্যাচে তিন উইকেট হারিয়েছে। তানজিদ হাসান, লিটন দাস ও পারভেজ হোসেন আউট হয়েছেন। সাইফ হাসান দুটি ছক্কা মেরেছেন। তাওহিদ হৃদয় এখন অপরাজিত।"
-   }
-  },
-  {
-   "id": "1rtakzi",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-   "published": "2026-09-30T23:43:07.000Z",
-   "added": "2026-10-01T02:03:07.773Z",
-   "origTitle": "Google releases Gemini 4 Argon, called its most powerful model yet",
-   "en": {
-    "title": "Google launches Gemini 4 Argon AI model",
-    "summary": "Google's Alphabet released Gemini 4 Argon, its most powerful AI model yet, designed for coding, research, writing, and especially cybersecurity. Argon can autonomously find and patch software vulnerabilities and parse visuals. Rolling out through Google's Fairwind security program, it's already used by Google staff for daily work including debugging and migrations."
-   },
-   "bn": {
-    "title": "গুগল লঞ্চ করল জেমিনি ৪ আর্গন এআই",
-    "summary": "গুগল তার সবচেয়ে শক্তিশালী এআই মডেল জেমিনি ৪ আর্গন লঞ্চ করেছে। এটি কোডিং, গবেষণা ও সাইবার নিরাপত্তায় পারদর্শী। আর্গন স্বয়ংক্রিয়ভাবে সফটওয়্যার দুর্বলতা খুঁজে বের করতে এবং মেরামত করতে পারে। এটি ইতিমধ্যে গুগল কর্মীদের দৈনন্দিন কাজে ব্যবহৃত হচ্ছে।"
-   }
-  },
-  {
-   "id": "eqtfnx",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ac/live/21ee8c40-bcff-11f1-babe-4199b0e7ccea.jpg",
-   "published": "2026-10-01T01:59:11.000Z",
-   "added": "2026-10-01T02:03:07.773Z",
-   "origTitle": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
-   "en": {
-    "title": "Pilot stabbed mid-flight, passengers overpower attacker",
-    "summary": "A pilot stabbed the flight captain on a Flydubai plane from Dubai to Tel Aviv, then allegedly tried to crash it. Passengers and crew overpowered the attacker, safely landing at Tabuk, Saudi Arabia with 174 people aboard. Captain Smit Machchhar, an Indian national, was hospitalized in stable condition. Israeli PM Netanyahu called him a \"true hero\" for saving all lives."
-   },
-   "bn": {
-    "title": "বিমানে পাইলটকে ছুরিকাঘাত, যাত্রীরা নিয়ন্ত্রণ নিলেন",
-    "summary": "ডুবাই থেকে তেল আবিবগামী ফ্লাইডুবাই বিমানে একজন পাইলট অপর পাইলটকে ছুরিকাঘাত করে বিমান ক্র্যাশ করার চেষ্টা করে। যাত্রী ও ক্রু সদস্যরা আক্রমণকারীকে নিয়ন্ত্রণ করে সৌদি আরবের তাবুক বিমানবন্দরে নিরাপদে অবতরণ করে। আহত পাইলট ভারতীয় ক্যাপ্টেন স্মিত ম্যাচ্ছার হাসপাতালে স্থিতিশীল অবস্থায় আছেন।"
-   }
-  },
-  {
-   "id": "1k95if9",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cq8e300xel1po?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1256/live/2cf94aa0-bcdf-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-01T01:19:59.000Z",
-   "added": "2026-10-01T02:03:07.773Z",
-   "origTitle": "সেন্টমার্টিন ভ্রমণে বিধিনিষেধে কোন ধরনের পরিবর্তন আসছে?",
-   "en": {
-    "title": "St. Martin rules to change by mid-October",
-    "summary": "The government will revise restrictions on St. Martin island tourism that were set by the interim government. Changes to overnight stays and travel times are expected. Officials will finalize new guidelines by October 15 after consulting residents, environmentalists, and tourism stakeholders. The goal is to balance island protection with residents' livelihoods."
-   },
-   "bn": {
-    "title": "সেন্টমার্টিনে ভ্রমণ বিধিতে পরিবর্তন আসছে",
-    "summary": "সরকার অন্তর্বর্তী আমলের সেন্টমার্টিন পর্যটন বিধিনিষেধে কিছু পরিবর্তন আনতে চায়। রাত্রিযাপন ও ভ্রমণের সময়সীমায় পরিবর্তন হতে পারে। পরিবেশ মন্ত্রণালয় আগামী ১৫ অক্টোবরের মধ্যে নতুন নীতিমালা চূড়ান্ত করবে। এতে বাসিন্দাদের জীবিকা এবং দ্বীপের পরিবেশ সুরক্ষা দুটোই নিশ্চিত করার লক্ষ্য আছে।"
    }
   }
  ]

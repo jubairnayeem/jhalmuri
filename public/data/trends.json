@@ -1,115 +1,74 @@
 {
- "updatedAt": "2026-10-04T00:31:54.216Z",
+ "updatedAt": "2026-10-04T06:47:21.479Z",
  "burning": [
   {
    "id": "urdsq5",
    "heat": 5,
    "why": {
-    "en": "Measles death toll keeps climbing—1,122 dead, multiple stories covering the outbreak.",
-    "bn": "হাম রোগে মৃত্যু ১,১২২-এ পৌঁছেছে, একাধিক মাধ্যম এই ফ্ল্যাশ কভার করছে।"
+    "en": "Measles death toll hits 1,122 — ongoing public health crisis dominating coverage.",
+    "bn": "মিজলস মৃত্যু ১,১২২ এ পৌঁছেছে — চলমান স্বাস্থ্য সংকট সবচেয়ে বেশি আলোচিত।"
    },
    "rank": 1
   },
   {
-   "id": "ptjxwa",
+   "id": "gp6l",
    "heat": 4,
    "why": {
-    "en": "Sri Lanka beat Bangladesh in Asian Games bronze—sports fans are following the match.",
-    "bn": "এশিয়ান গেমসে ব্রোঞ্জ ম্যাচে শ্রীলঙ্কা জিতেছে বাংলাদেশকে ৬৩ রানে।"
+    "en": "BNP factional clashes in Dhaka rally drawing political attention and debate.",
+    "bn": "ঢাকার র‍্যালিতে বিএনপি দলীয় সংঘর্ষ রাজনীতিতে আলোড়ন সৃষ্টি করছে।"
    },
    "rank": 2
   },
   {
-   "id": "1xciyqg",
-   "heat": 4,
+   "id": "1k46yt4",
+   "heat": 3,
    "why": {
-    "en": "Two children drown in Kishoreganj—tragic incident getting attention across outlets.",
-    "bn": "কিশোরগঞ্জে দুই শিশু পুকুরে ডুবে মারা গেছে।"
+    "en": "Government workers receive 3 months arrears with October salary — direct public relief.",
+    "bn": "সরকারি কর্মীরা অক্টোবর বেতনে ৩ মাসের বকেয়া পাচ্ছেন — সরাসরি জনকল্যাণ।"
    },
    "rank": 3
   },
   {
-   "id": "gp6l",
+   "id": "1wzmpe5",
    "heat": 3,
    "why": {
-    "en": "BNP rally factions clash in Dhaka—political tensions remain newsworthy.",
-    "bn": "ঢাকায় বিএনপির সমাবেশে গুষ্টি সংঘর্ষ হয়েছে।"
+    "en": "Chattogram port terminals shifting to foreign operators — major economic policy story.",
+    "bn": "চট্টগ্রাম বন্দরের টার্মিনাল বিদেশি অপারেটরদের কাছে স্থানান্তর — গুরুত্বপূর্ণ নীতি সংক্রান্ত খবর।"
    },
    "rank": 4
-  },
-  {
-   "id": "pw8ayo",
-   "heat": 3,
-   "why": {
-    "en": "Gas cylinder price crackdown across 16 districts—consumer issue affecting many.",
-    "bn": "১৬ জেলায় গ্যাস সিলিন্ডারের দাম লঙ্ঘন নিয়ে অভিযান চলছে।"
-   },
-   "rank": 5
   }
  ],
  "gossip": [
   {
    "id": "urdsq5",
-   "tag": "#measles",
+   "tag": "#MeaslesOutbreak",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Measles deaths soar to 1,122",
-    "text": "The outbreak continues to spread across Bangladesh with the death toll climbing steadily. Health authorities are urging vaccination and monitoring."
+    "title": "Measles death toll climbs to 1,122",
+    "text": "Bangladesh facing ongoing measles outbreak with death toll continuing to rise. Public health response remains a critical concern as cases spread."
    },
    "bn": {
-    "title": "হাম মহামারীতে ১,১২২ মৃত্যু",
-    "text": "হাম রোগের প্রাদুর্ভাব বাংলাদেশে ছড়িয়ে পড়ছে এবং মৃত্যু সংখ্যা বাড়ছে। স্বাস্থ্য কর্তৃপক্ষ টিকাকরণ এবং নজরদারি জোরালো করছে।"
-   }
-  },
-  {
-   "id": "ptjxwa",
-   "tag": "#AsianGames",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Bangladesh cricket: bronze medal slip",
-    "text": "Sri Lanka defeated Bangladesh by 63 runs in the Asian Games bronze match, ending hopes for a medal in the tournament."
-   },
-   "bn": {
-    "title": "এশিয়ান গেমস ব্রোঞ্জ ম্যাচ ফলাফল",
-    "text": "শ্রীলঙ্কা ৬৩ রানে বাংলাদেশকে হারিয়ে ব্রোঞ্জ মেডেল জিতেছে টুর্নামেন্টে।"
+    "title": "মিজলসে মৃত্যু ১,১২২ এ পৌঁছেছে",
+    "text": "বাংলাদেশে মিজলস আউটব্রেক চলছে এবং মৃত্যুর সংখ্যা বাড়ছে। জনস্বাস্থ্য প্রতিক্রিয়া এখনও গুরুত্বপূর্ণ চিন্তার বিষয়।"
    }
   },
   {
    "id": "1mcyiq6",
-   "tag": "#childcare",
+   "tag": "#ChildcareGap",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Childcare shortage blocks working mothers",
-    "text": "Bangladesh lacks adequate childcare centers, making it harder for mothers to balance work and family responsibilities."
+    "title": "Bangladesh childcare shortage hits mothers",
+    "text": "Lack of childcare centers making it harder for mothers to work and participate in the economy. Infrastructure gap becoming a social issue."
    },
    "bn": {
-    "title": "শিশু যত্ন কেন্দ্রের অভাব",
-    "text": "বাংলাদেশে শিশু যত্ন কেন্দ্রের স্বল্পতা মা-দের কাজ করতে বাধা দিচ্ছে।"
-   }
-  },
-  {
-   "id": "alfb84",
-   "tag": "#ICT innovation",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Bangladesh recognizes 44 tech innovations",
-    "text": "The government honored 44 ICT innovations with national awards, boosting the country's tech sector."
-   },
-   "bn": {
-    "title": "৪৪টি আইসিটি উদ্ভাবনে সম্মাননা",
-    "text": "সরকার ৪৪টি আইসিটি উদ্ভাবনকে জাতীয় পুরস্কার দিয়ে সম্মানিত করেছে।"
+    "title": "শিশু দেখাশোনার সুবিধার ঘাটতি",
+    "text": "বাংলাদেশে শিশু দেখাশোনার কেন্দ্রের অভাব মায়েদের কাজ করতে বাধা দিচ্ছে। অবকাঠামোর এই ফাঁক সামাজিক সমস্যা হয়ে উঠেছে।"
    }
   }
  ],
