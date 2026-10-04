@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-04T18:06:31.228Z",
+ "updatedAt": "2026-10-04T21:19:24.082Z",
  "items": [
+  {
+   "id": "sbc1g0",
+   "section": "news",
+   "cat": "politics",
+   "tone": "light",
+   "satire": false,
+   "src": "সমকাল",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrakxoUU5oaTU2QTdScHNsUG1zc2pPZ2FPVXBmT0toYzdvWDBEVjFHQWwzWXZzbUpvRXBOR1ZfY0tDVGV1OEJNaDdvaExRMUhOOXpJdW5CZUNJelFLT1E?oc=5",
+   "image": null,
+   "published": "2026-10-04T12:25:31.000Z",
+   "added": "2026-10-04T21:19:24.082Z",
+   "origTitle": "দল মনে করলে মেয়র নির্বাচন করতে প্রস্তুত আছি: প্রতিমন্ত্রী ইশরাক",
+   "en": {
+    "title": "Deputy minister ready for mayoral race if party wants",
+    "summary": "Deputy Minister Ishraq said he is prepared to run for mayor if his party decides to field him. The comment comes as discussions about municipal elections continue. He did not specify which position or city is in question."
+   },
+   "bn": {
+    "title": "দল চাইলে মেয়র নির্বাচনে প্রস্তুত: প্রতিমন্ত্রী ইশরাক",
+    "summary": "প্রতিমন্ত্রী ইশরাক বলেছেন দল চাইলে তিনি মেয়র নির্বাচনে দাঁড়াতে প্রস্তুত। পৌরসভা নির্বাচন নিয়ে আলোচনা চলছে। তিনি নির্দিষ্ট কোনো শহর বা পদ উল্লেখ করেননি।"
+   }
+  },
+  {
+   "id": "185mo19",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJWDRMSVJRZ2lLdEs3amJveTBIQVZJWFVIOHdEMTB6ZjNuaGJ3ZmFqMk94SDRzOFRpcUJLS0FJdnJWdjVTT1NtdS1QcExIYXFXd0VfNjdKVVB0QnR5ekE?oc=5",
+   "image": null,
+   "published": "2026-10-04T06:22:00.000Z",
+   "added": "2026-10-04T21:19:24.082Z",
+   "origTitle": "শাহজালালে ১৬ কোটি টাকার সোনাসহ ধরা বিমানের ২ কর্মী",
+   "en": {
+    "title": "Two airport workers held with 16 crore taka in gold",
+    "summary": "Two employees of an airline were arrested at Shahjalal International Airport with gold worth 16 crore taka. The smuggling attempt was discovered during routine checks. The workers are now in custody for interrogation."
+   },
+   "bn": {
+    "title": "শাহজালালে ১৬ কোটি টাকার সোনা নিয়ে ধরা বিমানের ২ কর্মী",
+    "summary": "শাহজালালে একটি বিমানের দুজন কর্মচারী ১৬ কোটি টাকার সোনা নিয়ে ধরা পড়েছে। রুটিন চেকের সময় এই স্মাগলিং প্রচেষ্টা ধরা পড়ে। এখন তারা জেরার জন্য হেফাজতে আছে।"
+   }
+  },
+  {
+   "id": "1hxy4pu",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/football/n7q2cpugoe",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-04/sk8zna60/portugalvnorway-uefanationsleague202627groupa4md4-6.jpeg",
+   "published": "2026-10-04T20:48:44.000Z",
+   "added": "2026-10-04T21:19:16.869Z",
+   "origTitle": "কোয়ার্টার ফাইনালে ওঠার পথে রোনালদোকে ‘মিস’ করল না পর্তুগাল",
+   "en": {
+    "title": "Portugal beats Norway, reaches Nations League quarter-finals",
+    "summary": "Portugal beat Norway 2-1 to secure a quarter-final spot in the Nations League with four straight wins. Gonçalo Ramos scored the winning goal in the 79th minute, replacing Cristiano Ronaldo. However, winger Francisco Conceição was sent off in the 86th minute with a red card."
+   },
+   "bn": {
+    "title": "নরওয়ে জয়ে পর্তুগাল কোয়ার্টার ফাইনালে",
+    "summary": "পর্তুগাল নরওয়েকে ২-১ গোলে পরাজিত করে নেশনস লিগের কোয়ার্টার ফাইনালে উঠেছে চারটি ম্যাচের সব জিতে। ৭৯ মিনিটে গনসালো রামোস জয়ের গোল করেছেন, যিনি রোনালদোর স্থলে খেলছিলেন। তবে ৮৬ মিনিটে পর্তুগালের উইঙ্গার ফ্রান্সিসকো কনসেইসাও লাল কার্ড পেয়ে বের হয়ে যান।"
+   }
+  },
+  {
+   "id": "wwg27",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac29a62-1791138402.jpg?resize=1920%2C1440",
+   "published": "2026-10-04T20:38:56.000Z",
+   "added": "2026-10-04T21:19:16.869Z",
+   "origTitle": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+   "en": {
+    "title": "Israel condemns UK Green Party defining Zionism as racism",
+    "summary": "The UK's Green Party voted to define Zionism as an ethnonationalist political project that constitutes racism. Israel's government and Jewish groups responded with anger, with Israel declaring the Greens give legitimacy to terrorism. Israeli President Isaac Herzog called it a disgrace, while the Green Party reaffirmed support for Palestinian liberation and BDS."
+   },
+   "bn": {
+    "title": "জায়োনিজমকে বর্ণবাদ ঘোষণায় ইসরায়েল ক্ষুব্ধ",
+    "summary": "যুক্তরাজ্যের গ্রিন পার্টি জায়োনিজমকে নৃতাত্ত্বিক জাতীয়তাবাদী রাজনৈতিক প্রকল্প হিসেবে সংজ্ঞায়িত করেছে যা বর্ণবাদ। ইসরায়েল সরকার এবং ইহুদি গোষ্ঠী ক্ষুব্ধ সাড়া দিয়েছেন। ইসরায়েলের রাষ্ট্রপতি এটিকে লজ্জাজনক বলেছেন, যখন গ্রিন পার্টি ফিলিস্তিনি মুক্তির সমর্থন পুনরায় জানিয়েছে।"
+   }
+  },
+  {
+   "id": "5aaspf",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+   "published": "2026-10-04T20:31:07.000Z",
+   "added": "2026-10-04T21:19:16.869Z",
+   "origTitle": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+   "en": {
+    "title": "Google pauses open source bug bounty over AI spam",
+    "summary": "Google has frozen its Open Source Software Vulnerability Rewards Program until Q1 2027 due to a massive surge in AI-generated submissions. Most reports were invalid or contained hallucinations from AI tools. Google engineers and open source maintainers were overwhelmed by the flood of low-quality automated submissions."
+   },
+   "bn": {
+    "title": "এআই স্প্যামের কারণে গুগলের বাগ বাউন্টি প্রোগ্রাম বন্ধ",
+    "summary": "গুগল তার ওপেন সোর্স সফটওয়্যার ভালনারেবিলিটি রিওয়ার্ডস প্রোগ্রাম ২০২৭ সালের প্রথম কোয়ার্টার পর্যন্ত স্থগিত করেছে। এআই টুলস থেকে তৈরি স্প্যাম জমা দেওয়ার সংখ্যা দ্রুত বেড়েছে। গুগলের ইঞ্জিনিয়াররা এবং ওপেন সোর্স রক্ষণাবেক্ষণকারীরা অবৈধ এবং হ্যালুসিনেশন-পূর্ণ রিপোর্টের বন্যায় ডুবে গেছেন।"
+   }
+  },
+  {
+   "id": "166h38v",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/govts-changed-fight-press-freedom-remains-matiur-rahman-1562791",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/30/daily_sun_prothom_alo_editor_matiur_rahman_picture.jpg",
+   "published": "2026-10-04T19:10:00.000Z",
+   "added": "2026-10-04T21:19:16.869Z",
+   "origTitle": "Govts changed, but fight for press freedom remains: Matiur Rahman",
+   "en": {
+    "title": "Press freedom fight continues under new government",
+    "summary": "Prothom Alo's editor Matiur Rahman says the BNP government hasn't kept its election promises on media reform, despite pledging to repeal restrictive laws and protect fearless journalism. Under the previous Awami League government, he faced 80 cases, an ad boycott, and military pressure. The interim government also failed on media reform. Rahman urged the current administration to fulfil its commitments."
+   },
+   "bn": {
+    "title": "সাংবাদিকতার স্বাধীনতা: নতুন সরকারেও একই সংগ্রাম",
+    "summary": "প্রথম আলোর সম্পাদক মাতিউর রহমান বলেছেন, নির্বাচনী প্রতিশ্রুতি সত্ত্বেও বর্তমান বিএনপি সরকার মিডিয়া সংস্কার করেনি। আওয়ামী লীগ আমলে তিনি ৮০টি মামলা, বিজ্ঞাপন বয়কট এবং সামরিক চাপের মুখোমুখি হয়েছেন। অন্তর্বর্তী সরকারও মিডিয়া সংস্কারে ব্যর্থ হয়েছিল। তিনি বর্তমান সরকারকে প্রতিশ্রুতি পূরণের আহ্বান জানিয়েছেন।"
+   }
+  },
   {
    "id": "83yu5d",
    "section": "news",
