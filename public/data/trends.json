@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-03T21:09:07.231Z",
+ "updatedAt": "2026-10-04T00:31:54.216Z",
  "burning": [
   {
    "id": "urdsq5",
    "heat": 5,
    "why": {
-    "en": "Measles outbreak death toll reaches 1,122; multiple outlets covering crisis as cases surge.",
-    "bn": "হাজারেরও বেশি মানুষ মাম্পস ভাইরাসে মারা গেছে; সংকট বাড়ছে প্রতিদিন।"
+    "en": "Measles death toll keeps climbing—1,122 dead, multiple stories covering the outbreak.",
+    "bn": "হাম রোগে মৃত্যু ১,১২২-এ পৌঁছেছে, একাধিক মাধ্যম এই ফ্ল্যাশ কভার করছে।"
    },
    "rank": 1
-  },
-  {
-   "id": "2p7ejv",
-   "heat": 5,
-   "why": {
-    "en": "Veteran journalist Toufique Imrose Khalidi dies; bdnews24.com editor-in-chief's death trending across Bangladesh.",
-    "bn": "সাংবাদিক তৌফিক ইমরোজ খালিদী মারা গেছেন; পুরো দেশে ট্রেন্ডিং।"
-   },
-   "rank": 2
   },
   {
    "id": "ptjxwa",
    "heat": 4,
    "why": {
-    "en": "Bangladesh loses to Sri Lanka by 63 runs in Asian Games bronze medal match.",
-    "bn": "এশিয়ান গেমসে বাংলাদেশ শ্রীলঙ্কায় ৬৩ রানে হেরে গেল।"
+    "en": "Sri Lanka beat Bangladesh in Asian Games bronze—sports fans are following the match.",
+    "bn": "এশিয়ান গেমসে ব্রোঞ্জ ম্যাচে শ্রীলঙ্কা জিতেছে বাংলাদেশকে ৬৩ রানে।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "1xciyqg",
+   "heat": 4,
+   "why": {
+    "en": "Two children drown in Kishoreganj—tragic incident getting attention across outlets.",
+    "bn": "কিশোরগঞ্জে দুই শিশু পুকুরে ডুবে মারা গেছে।"
    },
    "rank": 3
   },
   {
-   "id": "82z1dk",
-   "heat": 4,
+   "id": "gp6l",
+   "heat": 3,
    "why": {
-    "en": "Nuclear fuel for Rooppur power plant arrives in Dhaka, major infrastructure milestone.",
-    "bn": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জ্বালানি ঢাকায় পৌঁছেছে।"
+    "en": "BNP rally factions clash in Dhaka—political tensions remain newsworthy.",
+    "bn": "ঢাকায় বিএনপির সমাবেশে গুষ্টি সংঘর্ষ হয়েছে।"
    },
    "rank": 4
   },
   {
-   "id": "1n79odo",
+   "id": "pw8ayo",
    "heat": 3,
    "why": {
-    "en": "Scholar notes young Bangladeshis frustrated with traditional economic growth model.",
-    "bn": "গবেষকরা বলছেন তরুণরা ঐতিহ্যবাহী উন্নয়ন মডেলে বিরক্ত।"
+    "en": "Gas cylinder price crackdown across 16 districts—consumer issue affecting many.",
+    "bn": "১৬ জেলায় গ্যাস সিলিন্ডারের দাম লঙ্ঘন নিয়ে অভিযান চলছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "2p7ejv",
-   "tag": "#সাংবাদিক",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Editor of bdnews24 dies",
-    "text": "Toufique Imrose Khalidi, editor-in-chief of bdnews24.com, has passed away. He was a prominent veteran journalist."
-   },
-   "bn": {
-    "title": "বিডিনিউজ সম্পাদক প্রয়াত",
-    "text": "বিডিনিউজ২৪ডটকমের সম্পাদক তৌফিক ইমরোজ খালিদী মারা গেছেন। তিনি একজন প্রভাবশালী অভিজ্ঞ সাংবাদিক ছিলেন।"
-   }
-  },
-  {
    "id": "urdsq5",
-   "tag": "#স্বাস্থ্য",
+   "tag": "#measles",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Measles outbreak death toll jumps",
-    "text": "The measles outbreak death toll has reached 1,122 in Bangladesh as cases continue to surge across the country."
+    "title": "Measles deaths soar to 1,122",
+    "text": "The outbreak continues to spread across Bangladesh with the death toll climbing steadily. Health authorities are urging vaccination and monitoring."
    },
    "bn": {
-    "title": "মাম্পসে মৃত্যু বাড়ছে",
-    "text": "বাংলাদেশে মাম্পস ভাইরাসে আক্রান্তদের মৃত্যু এখন ১ হাজার ১ শতাধিক। প্রতিদিন নতুন কেস বাড়ছে।"
+    "title": "হাম মহামারীতে ১,১২২ মৃত্যু",
+    "text": "হাম রোগের প্রাদুর্ভাব বাংলাদেশে ছড়িয়ে পড়ছে এবং মৃত্যু সংখ্যা বাড়ছে। স্বাস্থ্য কর্তৃপক্ষ টিকাকরণ এবং নজরদারি জোরালো করছে।"
    }
   },
   {
    "id": "ptjxwa",
-   "tag": "#ক্রিকেট",
+   "tag": "#AsianGames",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh loses bronze medal match",
-    "text": "Bangladesh fell to Sri Lanka by 63 runs in the Asian Games bronze medal match cricket game."
+    "title": "Bangladesh cricket: bronze medal slip",
+    "text": "Sri Lanka defeated Bangladesh by 63 runs in the Asian Games bronze match, ending hopes for a medal in the tournament."
    },
    "bn": {
-    "title": "এশিয়ান গেমসে হার",
-    "text": "এশিয়ান গেমসের ব্রোঞ্জ ম্যাচে বাংলাদেশ শ্রীলঙ্কার কাছে ৬৩ রানে পরাজিত হয়েছে।"
+    "title": "এশিয়ান গেমস ব্রোঞ্জ ম্যাচ ফলাফল",
+    "text": "শ্রীলঙ্কা ৬৩ রানে বাংলাদেশকে হারিয়ে ব্রোঞ্জ মেডেল জিতেছে টুর্নামেন্টে।"
    }
   },
   {
-   "id": "82z1dk",
-   "tag": "#শক্তি",
+   "id": "1mcyiq6",
+   "tag": "#childcare",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Rooppur nuclear fuel arrives",
-    "text": "Nuclear fuel for the Rooppur power plant has arrived in Dhaka, marking progress on the major infrastructure project."
+    "title": "Childcare shortage blocks working mothers",
+    "text": "Bangladesh lacks adequate childcare centers, making it harder for mothers to balance work and family responsibilities."
    },
    "bn": {
-    "title": "রূপপুরে পারমাণবিক জ্বালানি",
-    "text": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জন্য জ্বালানি ঢাকায় পৌঁছেছে। এটি একটি বড় মাইলফলক।"
+    "title": "শিশু যত্ন কেন্দ্রের অভাব",
+    "text": "বাংলাদেশে শিশু যত্ন কেন্দ্রের স্বল্পতা মা-দের কাজ করতে বাধা দিচ্ছে।"
+   }
+  },
+  {
+   "id": "alfb84",
+   "tag": "#ICT innovation",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Bangladesh recognizes 44 tech innovations",
+    "text": "The government honored 44 ICT innovations with national awards, boosting the country's tech sector."
+   },
+   "bn": {
+    "title": "৪৪টি আইসিটি উদ্ভাবনে সম্মাননা",
+    "text": "সরকার ৪৪টি আইসিটি উদ্ভাবনকে জাতীয় পুরস্কার দিয়ে সম্মানিত করেছে।"
    }
   }
  ],

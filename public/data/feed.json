@@ -1,6 +1,116 @@
 {
- "updatedAt": "2026-10-03T21:08:52.708Z",
+ "updatedAt": "2026-10-04T00:31:38.714Z",
  "items": [
+  {
+   "id": "1pmobw0",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "eArki",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdE9EVTNMMUJIU2dpSGRRU1NHVEtFQlZNYnRHMkd1bW5zNnBwanZTN1RsdTJ0V0tyZEpncEZ6enRLQUVjYURsX3pBaXdjU2lmNzdKLTFPbXZpSDFwdjdJUWtaTTZObTVrZngwSUpFNE45ZTVQZzU1WjF2dThFWWRZc1F4SHRLcm00aUIzZzVPZ1Y0NFl0SXlZQXhWOTVPTEVJSllGOTRXLXUyWkRTQ2dQXzVpaXFUbHFlNVZJbURVOExWM0JoVFlUREdFd3NNLVFsNkNMQkdZOEJzUUlqQ1lqdXJ6d2d5MU1yYWpUUWdETjhITldGd3N6SENGcTl5MHByaXk4NWxLVmpaWmc?oc=5",
+   "image": null,
+   "published": "2026-10-03T12:09:03.000Z",
+   "added": "2026-10-04T00:31:38.713Z",
+   "origTitle": "পিংক কারও বাপের না!",
+   "en": {
+    "title": "Pink doesn't belong to anyone",
+    "summary": "This is satire. A humorous take, likely playing on celebrity drama or social media culture where people claim ownership over trends, colors, or attitudes. The joke works as a cheeky commentary on how young people online fight over who gets to 'own' something."
+   },
+   "bn": {
+    "title": "পিংক কারও বাপের না!",
+    "summary": "এটা ব্যঙ্গ। সেলিব্রিটি বা সোশ্যাল মিডিয়া কালচার নিয়ে মজাদার কমেন্টারি, যেখানে মানুষ রং বা ট্রেন্ড নিয়ে ঝগড়া করে। তরুণরা অনলাইনে কে কিসের 'মালিক' হতে পারে তা নিয়ে লড়াই করে।"
+   }
+  },
+  {
+   "id": "1xciyqg",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "কালের কণ্ঠ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00Z3RKT1J1R1pVbFptTU5UNkpBYS1iaDZOckMtNEtUbnZLWFZieWkzdzNVZlJZaXdQblhBSHBZU1liYmgzWWt0VE9OX2hoc0Y5V1V0Y0Jpd0tUUlYzUW1UNTJsamVZNzdhRWtyeGl5WnFWR2JQ?oc=5",
+   "image": null,
+   "published": "2026-10-03T10:23:02.000Z",
+   "added": "2026-10-04T00:31:38.713Z",
+   "origTitle": "কিশোরগঞ্জে পুকুরে ডুবে ২ শিশুর মৃত্যু",
+   "en": {
+    "title": "Two children drown in pond in Kishoreganj",
+    "summary": "Two children died after drowning in a pond in Kishoreganj. The incident highlights the ongoing risk of water-related accidents in rural areas where ponds are common. Authorities have not released further details about the circumstances."
+   },
+   "bn": {
+    "title": "কিশোরগঞ্জে পুকুরে ডুবে দুই শিশুর মৃত্যু",
+    "summary": "কিশোরগঞ্জে একটি পুকুরে ডুবে দুটি শিশু মারা গেছে। গ্রামীণ এলাকায় পুকুর নিয়ে জলে ডোবার ঘটনা নিয়মিত ঘটে থাকে। কর্তৃপক্ষ এখনো বিস্তারিত তথ্য জানায়নি।"
+   }
+  },
+  {
+   "id": "1ps6lpn",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/south-america/q1ye1xbg6z",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-03/75fqukx1/5.jpg",
+   "published": "2026-10-03T22:00:00.000Z",
+   "added": "2026-10-04T00:31:31.846Z",
+   "origTitle": "লুলা ও বলসোনারোর মধ্যে শক্ত প্রতিদ্বন্দ্বিতা হতে পারে",
+   "en": {
+    "title": "Brazil votes Sunday: Lula and Bolsonaro family set for tight race",
+    "summary": "Brazilians voted on Sunday for president, deciding whether Latin America's largest country would lean right-wing or choose its own path. 13 candidates ran. If no one got 50%, a runoff was set for October 25. Polls showed Lula slightly ahead but possibly without a first-round majority."
+   },
+   "bn": {
+    "title": "ব্রাজিল নির্বাচনে লুলা ও বলসোনারো পরিবারের প্রতিদ্বন্দ্বিতা",
+    "summary": "রোববার ব্রাজিলের প্রেসিডেন্ট নির্বাচনে ভোটাররা সিদ্ধান্ত দিয়েছে দেশটি রক্ষণশীল পথে এগাবে নাকি নিজের রাস্তা খুঁজবে। ১৩ জন প্রার্থী প্রতিদ্বন্দ্বিতা করছেন। কোনো প্রার্থী ৫০ শতাংশ না পেলে ২৫ অক্টোবরে দ্বিতীয় দফা হবে। বর্তমান প্রেসিডেন্ট লুলা সামান্য এগিয়ে আছেন তবে প্রথম দফায় জয় নিশ্চিত নয়।"
+   }
+  },
+  {
+   "id": "pw8ayo",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/business/power-and-fuel/972222/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A6%AA%E0%A6%BF%E0%A6%9C%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87",
+   "image": null,
+   "published": "2026-10-04T00:24:52.000Z",
+   "added": "2026-10-04T00:31:31.846Z",
+   "origTitle": "সরকার নির্ধারিত দামে এলপিজি বিক্রি নিশ্চিত করতে দেশব্যাপী অভিযান",
+   "en": {
+    "title": "Crackdown on gas cylinder price violations across 16 districts",
+    "summary": "The National Consumer Rights Commission ran nationwide checks on October 3 to ensure LPG cylinders are sold at government-set prices. Teams inspected dealers across Dhaka and 16 other districts. They fined 39 establishments a total of 426,500 taka for various violations."
+   },
+   "bn": {
+    "title": "গ্যাস সিলিন্ডার দামের নিয়মভাঙনে দেশব্যাপী অভিযান",
+    "summary": "সরকার নির্ধারিত দামে গ্যাস সিলিন্ডার বিক্রি নিশ্চিত করতে জাতীয় ভোক্তা-অধিকার সংরক্ষণ অধিদফতর ৩ অক্টোবর দেশব্যাপী অভিযান চালিয়েছে। ঢাকা এবং আরও ১৬ জেলায় ডিলার ও খুচরা বিক্রেতাদের চেক করা হয়েছে। অনিয়মের জন্য ৩৯টি প্রতিষ্ঠানকে মোট ৪ লাখ ২৬ হাজার ৫০০ টাকা জরিমানা করা হয়েছে।"
+   }
+  },
+  {
+   "id": "gs2oui",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/wide-thumb-mamdani-irish-PM-1791072381.png?resize=1920%2C1080&quality=80",
+   "published": "2026-10-04T00:07:25.000Z",
+   "added": "2026-10-04T00:31:31.846Z",
+   "origTitle": "Mamdani, Irish PM play bingo, ‘split the G’ in New York",
+   "en": {
+    "title": "NYC mayor, Irish PM ride the G, play bingo together",
+    "summary": "New York City Mayor Zohran Mamdani and Irish Prime Minister Micheal Martin hung out during UN week in September. They rode the G train subway together and made a video about the viral 'Split the G' Guinness drinking trend. They also played bingo at the New York Irish Center."
+   },
+   "bn": {
+    "title": "নিউইয়র্কে আইরিশ প্রধানমন্ত্রীর সাথে মেয়রের মজার দিন",
+    "summary": "সেপ্টেম্বরে ইউএন উইক চলাকালীন নিউইয়র্ক সিটির মেয়র জোহরান মামদানি এবং আয়ারল্যান্ডের প্রধানমন্ত্রী মাইকেল মার্টিন একসাথে সময় কাটিয়েছেন। তারা জি ট্রেনে ভাইরাল 'স্প্লিট দ্য জি' গিনেস ট্রেন্ড নিয়ে ভিডিও বানিয়েছেন। এছাড়া নিউইয়র্ক আইরিশ সেন্টারে বিঙ্গো খেলেছেন।"
+   }
+  },
   {
    "id": "10gmitb",
    "section": "news",
@@ -2309,204 +2419,6 @@
    "bn": {
     "title": "সেন্টমার্টিনে ভ্রমণ বিধিতে পরিবর্তন আসছে",
     "summary": "সরকার অন্তর্বর্তী আমলের সেন্টমার্টিন পর্যটন বিধিনিষেধে কিছু পরিবর্তন আনতে চায়। রাত্রিযাপন ও ভ্রমণের সময়সীমায় পরিবর্তন হতে পারে। পরিবেশ মন্ত্রণালয় আগামী ১৫ অক্টোবরের মধ্যে নতুন নীতিমালা চূড়ান্ত করবে। এতে বাসিন্দাদের জীবিকা এবং দ্বীপের পরিবেশ সুরক্ষা দুটোই নিশ্চিত করার লক্ষ্য আছে।"
-   }
-  },
-  {
-   "id": "1m2a9bg",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVJuVDV5RmpFdnpMVzdNWFFVQW1yRmRtSmVhbEJra0JHdTNOTFJBMVREUDhZeUdZZkdEbTdFbHJGclJDdnZnN0RHR3BFeXFmT0VmX1pQLVFLeU13RWRETm9jUkJtQ3VBYzRiVUVaSFplQ2h5bE01OTM0UGR0aWxIZ0hRbzQ4NnRLeWtYdG5JcGsyUQ?oc=5",
-   "image": null,
-   "published": "2026-09-30T10:33:29.000Z",
-   "added": "2026-09-30T22:58:21.579Z",
-   "origTitle": "ACI Wellness & Hygiene redesignates Khandaker Ishtiak Ahmed as COO",
-   "en": {
-    "title": "Khandaker Ishtiak Ahmed becomes COO at ACI Wellness",
-    "summary": "Khandaker Ishtiak Ahmed has been redesignated as Chief Operating Officer at ACI Wellness & Hygiene. The move marks a shift in the company's leadership structure. Ahmed will now oversee operational matters at the wellness and hygiene firm."
-   },
-   "bn": {
-    "title": "এসিআই ওয়েলনেস এ খান্দকার ইশতিয়াক সিওও হয়েছেন",
-    "summary": "এসিআই ওয়েলনেস ও হাইজিনে খান্দকার ইশতিয়াক আহমেদ চিফ অপারেটিং অফিসার হিসেবে পুনর্নিয়োগ পেয়েছেন। এটি কোম্পানির নেতৃত্ব কাঠামোতে একটি পরিবর্তন। তিনি এখন সেই প্রতিষ্ঠানের পরিচালনামূলক কাজকর্ম দেখাশোনা করবেন।"
-   }
-  },
-  {
-   "id": "1y4yx3e",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "কালের কণ্ঠ",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xaHA5RXljM3lvWkdZVFZrX29oOVFEc1lxekpfQjdFSXJaRzdfaDh0a3NwQTY5NjBwSlUzYngzWDFjVWY2dV9jeEpLSVB0RkoycnZ4UDB4ajRRYkNHRVd4RmdLS2p5LXctVzE0?oc=5",
-   "image": null,
-   "published": "2026-09-30T17:05:02.000Z",
-   "added": "2026-09-30T22:58:21.579Z",
-   "origTitle": "গিল ২২৩*, ভারত ২ উইকেটে ৪০৬, রেকর্ড বই ওলট-পালট",
-   "en": {
-    "title": "Gill's 223 propels India to 406 for 2 wickets",
-    "summary": "Shubman Gill scored a massive 223 not out to lead India to 406 runs with only 2 wickets lost. The performance has rewritten the record books in the process. Gill's knock was a batting masterclass that put India in a commanding position."
-   },
-   "bn": {
-    "title": "গিলের ২২৩, ভারত ২ উইকেটে ৪০৬",
-    "summary": "শুভমন গিল ২২৩ রান নট আউট করে ভারতকে ২ উইকেটে ৪০৬ রানে নিয়ে গেছেন। এই পারফরম্যান্সটি রেকর্ড বই সম্পূর্ণভাবে বদলে দিয়েছে। গিলের এই ইনিংস ছিল ব্যাটিং এর একটি মাস্টারক্লাস।"
-   }
-  },
-  {
-   "id": "d3l9q2",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1556616.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423200/423273.jpg",
-   "published": "2026-09-30T21:54:01.000Z",
-   "added": "2026-09-30T22:58:21.579Z",
-   "origTitle": "Craig Overton, Sophie Luff land top honours at PCA Awards",
-   "en": {
-    "title": "Craig Overton, Sophie Luff win big at PCA Awards",
-    "summary": "Craig Overton and Sophie Luff took home the top honours at the PCA Awards, an end-of-season celebration held in White City. Baker and Corteen-Coleman also got recognition, picking up the young player awards of the night. It's the kind of win that caps off a solid year in English cricket."
-   },
-   "bn": {
-    "title": "ক্রেগ ওভারটন এবং সোফি লাফ পিসিএ পুরস্কার জিতেছেন",
-    "summary": "হোয়াইট সিটিতে অনুষ্ঠিত পিসিএ পুরস্কার অনুষ্ঠানে ক্রেগ ওভারটন এবং সোফি লাফ শীর্ষ সম্মাননা জিতেছেন। বেকার এবং কর্টিন-কোলম্যান তরুণ খেলোয়াড় পুরস্কার পেয়েছেন। ইংরেজ ক্রিকেটে এটি একটি শক্তিশালী বছরের সমাপ্তি।"
-   }
-  },
-  {
-   "id": "pq5w83",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/middle-east/f07mzlcimp",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-03-30/htaaf3uz/prothomalo_bangla_2024_04_9dbd7b96_800e_420e_816f_12382277bd6f_Netanyahu.avif",
-   "published": "2026-09-30T22:46:30.000Z",
-   "added": "2026-09-30T22:58:11.646Z",
-   "origTitle": "ইসরায়েলগামী উড়োজাহাজে ছুরিকাহত পাইলট ভারতীয়, ধন্যবাদ জানালেন নেতানিয়াহু",
-   "en": {
-    "title": "Stabbed pilot on Israel flight is Indian, Netanyahu thanks him",
-    "summary": "Captain Smit Machar, the Indian pilot stabbed by a co-pilot aboard the Dubai-to-Tel Aviv flight Wednesday, saved 174 passengers' lives. Israeli PM Benjamin Netanyahu thanked him on X for resisting the attacker and opening the cockpit door, allowing passengers to restrain the co-pilot. Machar is hospitalized in Tabuk, Saudi Arabia."
-   },
-   "bn": {
-    "title": "ইসরায়েলগামী ফ্লাইটের ছুরিকাহত পাইলট ভারতীয়, নেতানিয়াহু ধন্যবাদ জানিয়েছেন",
-    "summary": "বুধবার দুবাই থেকে তেলআবিবগামী ফ্লাইটে ছুরিকাহত ক্যাপ্টেন স্মিত মচ্ছর একজন ভারতীয় পাইলট। তিনি ১৭৪ যাত্রীর জীবন বাঁচিয়েছেন। ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু তাকে এক্স পোস্টে ধন্যবাদ জানিয়েছেন। মচ্ছর এখন সৌদি আরবের তাবুক শহরে হাসপাতালে চিকিৎসা নিচ্ছেন।"
-   }
-  },
-  {
-   "id": "bguf6j",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/nation-horrified-to-think-sexual-assault-could-happen-on-college-campus/",
-   "image": "https://theonion.com/wp-content/uploads/2026/09/Nation_Horrified_NIB_G_PH.jpg",
-   "published": "2026-09-30T18:59:54.000Z",
-   "added": "2026-09-30T22:58:11.646Z",
-   "origTitle": "Nation Horrified To Think Sexual Assault Could Happen On College Campus",
-   "en": {
-    "title": "Nation shocked sexual assault could happen on college campus",
-    "summary": "The Onion reports Americans were horrified to discover sexual assault might occur at universities. The satirical piece mocks widespread denial about campus safety, with residents calling for colleges to \"become vigilant\" to prevent the unthinkable. The joke: perpetrators supposedly face life sentences, so surely the problem is solved."
-   },
-   "bn": {
-    "title": "কলেজ ক্যাম্পাসে যৌন নিপীড়ন হতে পারে জেনে দেশ স্তব্ধ",
-    "summary": "দ্য অনিয়ন রিপোর্ট করছে আমেরিকানরা বিশ্ববিদ্যালয়ে যৌন নিপীড়ন হতে পারে জেনে হতাশ হয়েছেন। এটি হাস্যরস লেখা যা ক্যাম্পাস নিরাপত্তার বিষয়ে সবার সাধারণ অস্বীকৃতি নিয়ে মজা করে। জনগণ কলেজগুলোকে 'সতর্ক থাকতে' বলছেন, কারণ 'দোষীরা যাবজ্জীবন কারাদণ্ডের মুখোমুখি হবে'।"
-   }
-  },
-  {
-   "id": "1rio8od",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/pilot-brawl-then-rapid-descent-passengers-recount-chaos-flydubai-flight-1559121",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/plane_israel.jpg",
-   "published": "2026-09-30T19:30:00.000Z",
-   "added": "2026-09-30T22:58:11.646Z",
-   "origTitle": "A pilot brawl, then a rapid descent: passengers recount chaos on flydubai flight",
-   "en": {
-    "title": "Co-pilot attacks captain on flight to Tel Aviv, diverted to Saudi Arabia",
-    "summary": "A co-pilot stabbed the captain aboard flydubai flight FZ1073 from Dubai to Tel Aviv on Wednesday, attempting to crash the plane carrying over 170 people. Passengers and crew restrained the attacker after the wounded captain managed to open the cockpit door. The plane diverted and landed safely in Saudi Arabia."
-   },
-   "bn": {
-    "title": "দুবাই-তেলআবিব ফ্লাইটে সহপাইলট ক্যাপ্টেনকে ছুরিকাঘাত করে বিমান বিধ্বস্ত করতে চেয়েছিল",
-    "summary": "বুধবার দুবাই থেকে তেলআবিবগামী ফ্লাইটে সহপাইলট ক্যাপ্টেনকে ছুরিকাঘাত করে বিমানটি বিধ্বস্ত করার চেষ্টা করেন। বিমানে ১৭০ জনেরও বেশি যাত্রী ছিলেন। আহত ক্যাপ্টেনের দরজা খোলার পরে যাত্রী ও ক্রু সদস্যরা সহপাইলটকে নিয়ন্ত্রণ করেন। বিমানটি সৌদি আরবে নিরাপদে অবতরণ করে।"
-   }
-  },
-  {
-   "id": "t26moo",
-   "section": "news",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/my-campus/971647/%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B0%E2%80%8D%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%BF%E0%A6%82%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A7%AA%E0%A7%AE",
-   "image": null,
-   "published": "2026-09-30T21:15:25.000Z",
-   "added": "2026-09-30T22:58:11.646Z",
-   "origTitle": "বরিশাল বিশ্ববিদ্যালয়ে র‍্যাগিংয়ের অভিযোগে ৪৮ শিক্ষার্থী বহিষ্কার ও অর্থদণ্ড",
-   "en": {
-    "title": "Barishal University expels 48 students for ragging",
-    "summary": "Barishal University expelled and fined 48 students from four departments on Tuesday for ragging, following investigation into hazing incidents. Acting Registrar Dr. Abdul Alim Bashire issued separate notices detailing punishments proportional to offense severity. The action was announced publicly Wednesday evening."
-   },
-   "bn": {
-    "title": "বরিশাল বিশ্ববিদ্যালয়ে র‍্যাগিংয়ে ৪৮ শিক্ষার্থী বহিষ্কার",
-    "summary": "বরিশাল বিশ্ববিদ্যালয় চার বিভাগের ৪৮ শিক্ষার্থীকে বুধবার র‍্যাগিংয়ের জন্য বহিষ্কার ও অর্থদণ্ড দিয়েছে। ভারপ্রাপ্ত রেজিস্ট্রার ড. আবদুল আলিম বছির পৃথক পত্রের মাধ্যমে শাস্তি জানান। অপরাধের মাত্রা অনুযায়ী বিভিন্ন মেয়াদের শাস্তি দেওয়া হয়েছে।"
-   }
-  },
-  {
-   "id": "1irgvfc",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-   "published": "2026-09-30T21:07:40.000Z",
-   "added": "2026-09-30T22:58:11.646Z",
-   "origTitle": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-   "en": {
-    "title": "Flow Engineering raises $50M for AI hardware design tools",
-    "summary": "San Francisco startup Flow Engineering closed a $50 million Series B at a $750 million valuation Wednesday. Valar Equity Partners and Atreides Management co-led the round, with Sequoia Capital also participating. Flow uses AI agents to automate CAD design work, serving customers like Rivian, GM, and Joby Aviation."
-   },
-   "bn": {
-    "title": "AI হার্ডওয়্যার ডিজাইন স্টার্টআপ Flow ৫০ মিলিয়ন ডলার সংগ্রহ করেছে",
-    "summary": "সানফ্রান্সিসকোর স্টার্টআপ ফ্লো ইঞ্জিনিয়ারিং বুধবার ৭৫০ মিলিয়ন ডলার ভ্যালুয়েশনে ৫০ মিলিয়ন ডলার সংগ্রহ করেছে। ভালর ইক্যুইটি পার্টনার্স এবং অ্যাট্রেইডেস ম্যানেজমেন্ট এই রাউন্ড কো-লিড করেছে। ফ্লো AI ব্যবহার করে ক্যাড ডিজাইনকে স্বয়ংক্রিয় করে এবং রিভিয়ান ও জোবি এভিয়েশনের মতো ক্লায়েন্ট রয়েছে।"
-   }
-  },
-  {
-   "id": "an0up3",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6abd6060325d-1790795872.jpg?resize=1920%2C1440",
-   "published": "2026-09-30T22:16:01.000Z",
-   "added": "2026-09-30T22:58:11.646Z",
-   "origTitle": "Hong Kong journalist arrested on sedition charge",
-   "en": {
-    "title": "Hong Kong journalist arrested on sedition charge",
-    "summary": "Hong Kong police arrested independent journalist Tang Ho-wing, founder of Boom News, on Wednesday for spreading disinformation about a 2019 protest clash. The arrest is the latest crackdown on press freedom following Beijing's 2020 national security law and a 2024 local statute. A second activist, Lee Ying-chi, was also arrested. Apple Daily founder Jimmy Lai received a 20-year sentence earlier this year."
-   },
-   "bn": {
-    "title": "হংকং সাংবাদিক বিদ্রোহমূলক মন্তব্যের অভিযোগে গ্রেপ্তার",
-    "summary": "হংকং পুলিশ স্বাধীন সাংবাদিক ট্যাং হো-উইংকে বুধবার গ্রেপ্তার করেছে। তিনি বুম নিউজের প্রতিষ্ঠাতা এবং ২০১৯ সালের একটি প্রতিবাদ ঘটনা নিয়ে মিথ্যা তথ্য ছড়িয়েছেন বলে অভিযোগ। এই গ্রেপ্তার বেইজিংয়ের ২০২০ জাতীয় নিরাপত্তা আইন এবং ২০২৪ স্থানীয় আইনের পর সাংবাদিকদের স্বাধীনতার নতুন সংকট। আপল ডেইলির প্রতিষ্ঠাতা জিমি লাই এ বছর ২০ বছরের সাজা পেয়েছেন।"
    }
   }
  ]
