@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-04T13:10:22.482Z",
+ "updatedAt": "2026-10-04T18:06:46.999Z",
  "burning": [
   {
-   "id": "9o97zk",
+   "id": "urdsq5",
    "heat": 5,
    "why": {
-    "en": "LPG price spike dominating conversation with 1000+ search traffic and multiple outlets covering the same story.",
-    "bn": "এলপিজি দাম নিয়ে ১০০০+ সার্চ ট্রাফিক এবং একাধিক মিডিয়া একই খবর দিচ্ছে।"
+    "en": "Measles outbreak death toll now at 1,122—major public health crisis unfolding.",
+    "bn": "হাম রোগের মহামারী এখন ১,১২২ জন মৃত্যু—বড় স্বাস্থ্য সংকট চলছে।"
    },
    "rank": 1
   },
   {
-   "id": "pkexs2",
+   "id": "9o97zk",
    "heat": 4,
    "why": {
-    "en": "Gold smuggling at Dhaka airport with 2000+ search traffic for 'সোনা', major corruption story.",
-    "bn": "'সোনা' নিয়ে ২০০০+ সার্চ ট্রাফিক, শাহজালাল বিমানবন্দরে ১৬ কোটি টাকার সোনা পাচার।"
+    "en": "LPG prices jump 252 taka—hitting household budgets hard across the country.",
+    "bn": "এলপিজি দাম ২৫২ টাকা বাড়ল—পুরো দেশে ঘরোয়া খরচ বাড়ছে।"
    },
    "rank": 2
   },
   {
-   "id": "11aeg9a",
+   "id": "1i8jz0l",
    "heat": 4,
    "why": {
-    "en": "Russia-Ukraine war escalation with multiple outlets covering bridge strikes and Germany's diplomatic moves.",
-    "bn": "রাশিয়া-ইউক্রেইন যুদ্ধ, মার্জ কিয়েভ ভ্রমণ এবং ব্রিজ আক্রমণ নিয়ে একাধিক আউটলেট।"
+    "en": "Doctor's 8-year-old daughter dies of dengue with no warning signs—tragic and shocking.",
+    "bn": "চিকিৎসকের ৮ বছরের মেয়ে ডেঙ্গুতে মারা গেল কোনো লক্ষণ ছাড়াই—করুণ ঘটনা।"
    },
    "rank": 3
   },
   {
-   "id": "urdsq5",
+   "id": "1to3izv",
    "heat": 3,
    "why": {
-    "en": "Measles outbreak death toll at 1,122, serious public health crisis in Bangladesh.",
-    "bn": "বাংলাদেশে হাম মহামারীতে ১,১২২ জনের মৃত্যু, জনস্বাস্থ্য সংকট।"
+    "en": "Three motorcyclists killed in Bagerhat truck collision—road safety issue continues.",
+    "bn": "বাগেরহাটে ট্রাকের সাথে টক্করে তিন মোটরসাইকেল চালক মৃত।"
    },
    "rank": 4
   },
   {
-   "id": "gwqdc9",
+   "id": "pkexs2",
    "heat": 3,
    "why": {
-    "en": "Flydubai co-pilot attack with crash axe, dramatic aviation incident covered by multiple sources.",
-    "bn": "ফ্লাইডুবাই সহ-পাইলট ক্র্যাশ এক্স দিয়ে আক্রমণ, আন্তর্জাতিক মিডিয়ায় ব্যাপক কভারেজ।"
+    "en": "80 gold bars worth 16 crore taka found in airport workers' shoes—smuggling bust.",
+    "bn": "বিমানবন্দরে জুতায় লুকানো ১৬ কোটি টাকার ৮০ সোনার বার মিল।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1k46yt4",
-   "tag": "#Salary",
+   "id": "7besc5",
+   "tag": "#IndiaVsPakistan",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 5,
    "en": {
-    "title": "Government workers get arrears",
-    "text": "Government employees received 3 months of back pay with their October salary. Relief for many facing financial strain."
+    "title": "India beats Pakistan in Asian Games cricket",
+    "text": "India's Shreyas Iyer praised the team's champion mindset in their victory over Pakistan at the Asian Games. Cricket fans across the region have been following the match closely."
    },
    "bn": {
-    "title": "সরকারি কর্মীরা পাবেন বকেয়া",
-    "text": "সরকারি কর্মচারীরা অক্টোবর বেতনের সাথে ৩ মাসের বকেয়া পেলেন। আর্থিক সংকটে পড়া অনেকের জন্য স্বস্তি।"
+    "title": "এশিয়ান গেমসে ভারত পাকিস্তানকে হারাল",
+    "text": "ভারতের শ্রেয়াস আইয়ার এই জয়ে দলের চ্যাম্পিয়ন মানসিকতার প্রশংসা করেছেন। এই ম্যাচ অনুসরণ করছেন অনেক ক্রিকেট ফ্যান।"
    }
   },
   {
-   "id": "1n79odo",
-   "tag": "#GenZ",
+   "id": "17ri9kg",
+   "tag": "#BrazilVsIndia",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Young Bangladeshis frustrated with growth model",
-    "text": "A scholar notes Gen Z is increasingly frustrated with traditional economic growth strategies. New generation seeking different paths."
+    "title": "Brazil thrashes India 4-0 in Kolkata",
+    "text": "Brazil dominated India with a 4-0 victory in a friendly football match in Kolkata. The result has sparked discussion among Indian football fans about the team's performance."
    },
    "bn": {
-    "title": "তরুণরা ঐতিহ্যবাহী মডেলে হতাশ",
-    "text": "গবেষকরা বলছেন, বাংলাদেশের তরুণরা ঐতিহ্যবাহী অর্থনৈতিক মডেলে হতাশ। নতুন প্রজন্ম নতুন পথ খুঁজছে।"
+    "title": "কলকাতায় ব্রাজিল ভারতকে ৪-০ হারাল",
+    "text": "ব্রাজিল কলকাতায় বন্ধুত্বপূর্ণ খেলায় ভারতকে ৪-০ গোলে হারিয়েছে। ভারতীয় ফুটবল ভক্তদের মধ্যে দলের পারফরম্যান্স নিয়ে আলোচনা হচ্ছে।"
    }
   },
   {
-   "id": "ptjxwa",
-   "tag": "#Sports",
+   "id": "alfb84",
+   "tag": "#BangladeshTech",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Sri Lanka beats Bangladesh at Games",
-    "text": "Sri Lanka defeated Bangladesh by 63 runs in Asian Games competition to claim bronze. Another tough loss for the team."
+    "title": "Bangladesh honors 44 ICT innovations",
+    "text": "The government recognized 44 information and communication technology innovations with national awards. This shows the country's growing tech ecosystem and startup culture."
    },
    "bn": {
-    "title": "এশিয়ান গেমসে শ্রীলঙ্কার কাছে হার",
-    "text": "শ্রীলঙ্কা বাংলাদেশকে ৬৩ রানে হারিয়ে ব্রোঞ্জ জিতেছে। দলের জন্য আরেকটি কঠিন পরাজয়।"
+    "title": "বাংলাদেশ ৪৪টি আইসিটি উদ্ভাবনের সম্মাননা দিল",
+    "text": "সরকার ৪৪টি তথ্য ও যোগাযোগ প্রযুক্তি উদ্ভাবনকে জাতীয় পুরস্কার দিয়ে সম্মানিত করেছে। এটা দেশের বর্ধনশীল টেক ইকোসিস্টেম দেখায়।"
    }
   }
  ],
