@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-05T06:55:30.922Z",
+ "updatedAt": "2026-10-05T15:55:53.510Z",
  "burning": [
   {
-   "id": "1vmorpb",
+   "id": "nyq7qs",
    "heat": 5,
    "why": {
-    "en": "World Teachers' Day celebrated globally today, massive search traffic across Bangladesh.",
-    "bn": "আজ বিশ্ব শিক্ষক দিবস পালিত হয়েছে, বাংলাদেশে বিশাল সার্চ ট্রাফিক।"
+    "en": "Two outlets covering Durga Puja break approval, trending heavily on Google Trends.",
+    "bn": "দুর্গাপূজার ছুটি নিয়ে দুটি আউটলেট কভার করেছে, গুগল ট্রেন্ডে ভাইরাল।"
    },
    "rank": 1
   },
   {
-   "id": "1hxy4pu",
+   "id": "skr28l",
    "heat": 4,
    "why": {
-    "en": "Portugal-Norway football match trending heavily on social signals, Nations League quarter-finals.",
-    "bn": "পর্তুগাল-নরওয়ে ফুটবল ম্যাচ সোশ্যাল সিগনালে ট্রেন্ড করছে, নেশনস লিগ কোয়ার্টার-ফাইনালে।"
+    "en": "Military plane crash with 32 people aboard gets international news coverage.",
+    "bn": "৩২ জন নিয়ে সামরিক বিমান বিধ্বস্ত হওয়ায় আন্তর্জাতিক খবর।"
    },
    "rank": 2
   },
   {
-   "id": "pkexs2",
+   "id": "185mo19",
    "heat": 4,
    "why": {
-    "en": "Airport gold smuggling bust with 80 bars and 16 crore taka catches major local attention.",
-    "bn": "বিমানবন্দরে ৮০ বার সোনা ও ১৬ কোটি টাকা আটক, স্থানীয় মনোযোগ আকর্ষণ করছে।"
+    "en": "Airport gold smuggling bust with large amount catches local attention.",
+    "bn": "বিমানবন্দরে ১৬ কোটি টাকার সোনা জব্দ, স্থানীয় মনোযোগ পাচ্ছে।"
    },
    "rank": 3
+  },
+  {
+   "id": "x4oxia",
+   "heat": 3,
+   "why": {
+    "en": "Apex Foods profit surge and share jump signals market movement.",
+    "bn": "এপেক্স ফুডসের লাভ ১২১% বেড়েছে, শেয়ার ১৯% উঠেছে।"
+   },
+   "rank": 4
   },
   {
    "id": "1i8jz0l",
    "heat": 3,
    "why": {
-    "en": "Dengue death of physician's young daughter without warning signs raises health concerns.",
-    "bn": "চিকিৎসকের মেয়ের ডেঙ্গু মৃত্যু কোনো লক্ষণ ছাড়াই স্বাস্থ্য উদ্বেগ বাড়াচ্ছে।"
-   },
-   "rank": 4
-  },
-  {
-   "id": "fgv4nq",
-   "heat": 3,
-   "why": {
-    "en": "Australia rejecting record Bangladesh student visas affects young people planning abroad education.",
-    "bn": "অস্ট্রেলিয়া বাংলাদেশি ছাত্রদের রেকর্ড সংখ্যক ভিসা প্রত্যাখ্যান করছে, বিদেশ শিক্ষার পরিকল্পনা প্রভাবিত।"
+    "en": "Dengue death of physician's child highlights health crisis urgency.",
+    "bn": "ডাক্তারের সন্তান ডেঙ্গুতে মারা গেছে, স্বাস্থ্য সংকট তুলে ধরে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1vmorpb",
-   "tag": "#WorldTeachersDay",
+   "id": "nyq7qs",
+   "tag": "#দুর্গাপূজা",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Teachers day celebrated globally",
-    "text": "World Teachers' Day marked today with 1000+ search traffic in Bangladesh. Teachers celebrated for their role in shaping society."
+    "title": "Five straight days off for Puja",
+    "text": "Bangladesh approved a five-day Durga Puja break in October. The move is sparking conversation about holiday schedules and celebration time."
    },
    "bn": {
-    "title": "বিশ্ব শিক্ষক দিবস পালিত",
-    "text": "আজ বিশ্ব শিক্ষক দিবসে বাংলাদেশে ১০০০+ সার্চ ট্রাফিক। শিক্ষকদের সমাজ গঠনে ভূমিকার জন্য সম্মানিত করা হয়েছে।"
+    "title": "দুর্গাপূজায় পাঁচ দিনের ছুটি",
+    "text": "বাংলাদেশ অক্টোবরে দুর্গাপূজার জন্য টানা পাঁচ দিনের ছুটি অনুমোদন করেছে। ছুটির সময়সূচী নিয়ে কথোপকথন বাড়ছে।"
    }
   },
   {
-   "id": "1hxy4pu",
-   "tag": "#FootballFever",
+   "id": "9o97zk",
+   "tag": "#এলপিজি",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 3,
    "en": {
-    "title": "Portugal beats Norway, advances",
-    "text": "Portugal reached Nations League quarter-finals after beating Norway, with 1000+ search traffic. Big W for the team."
+    "title": "Gas cylinder prices jump",
+    "text": "LPG cylinder prices spiked by 252 taka, now at 1,837 taka. Rising fuel costs are hitting household budgets hard."
    },
    "bn": {
-    "title": "পর্তুগাল নরওয়ে হারাল",
-    "text": "নেশনস লিগ কোয়ার্টার-ফাইনালে পৌঁছেছে পর্তুগাল নরওয়ে জয়ের মাধ্যমে। ১০০০+ সার্চ ট্রাফিক এসেছে।"
+    "title": "এলপিজি দাম লাফিয়ে বেড়েছে",
+    "text": "সিলিন্ডারের দাম ২৫২ টাকা বেড়ে এখন ১,৮৩৭ টাকা। জ্বালানি খরচ বাড়ছে, পরিবারের বাজেট চাপ পড়ছে।"
    }
   },
   {
-   "id": "pkexs2",
-   "tag": "#GoldSmuggle",
+   "id": "s0z8qb",
+   "tag": "#ক্রিকেট",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 3,
    "en": {
-    "title": "Airport workers held with 16 crore gold",
-    "text": "Two airport workers arrested with 80 gold bars worth 16 crore taka hidden in shoes. Major customs bust at Dhaka airport."
+    "title": "West Indies call up replacement",
+    "text": "West Indies brought in Amir Jangoo to replace injured Jewel Andrew. Squad changes are keeping cricket fans watching."
    },
    "bn": {
-    "title": "বিমানবন্দরে ১৬ কোটি টাকার সোনা",
-    "text": "দুই বিমানবন্দর কর্মী ৮০ বার সোনা লুকিয়ে রেখে ধরা পড়েছেন, মূল্য ১৬ কোটি টাকা। ঢাকা বিমানবন্দরে বড় আটক।"
+    "title": "ওয়েস্ট ইন্ডিজ নতুন খেলোয়াড়",
+    "text": "আমির জাঙ্গুকে ডাকা হয়েছে জুয়েল অ্যান্ড্রুর জায়গায়। দলের পরিবর্তন নিয়ে ক্রিকেট ভক্তরা নজর রাখছেন।"
    }
   }
  ],

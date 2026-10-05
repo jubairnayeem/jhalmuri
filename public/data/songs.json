@@ -1,8 +1,89 @@
 {
- "updatedAt": "2026-10-04T13:10:37.508Z",
+ "updatedAt": "2026-10-05T15:55:55.103Z",
  "english": {
   "source": "Apple Music · most played (US)",
-  "items": []
+  "items": [
+   {
+    "rank": 1,
+    "title": "Solar Eclipse",
+    "artist": "Drake & Don Toliver",
+    "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+    "key": "solar eclipse|drake & don toliver",
+    "prev": null
+   },
+   {
+    "rank": 2,
+    "title": "Quebec",
+    "artist": "Drake",
+    "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
+    "key": "quebec|drake",
+    "prev": null
+   },
+   {
+    "rank": 3,
+    "title": "Cold Shoulder",
+    "artist": "Drake, Don Toliver & Yebba",
+    "url": "https://music.apple.com/us/album/cold-shoulder/6818209777?i=6818209992",
+    "key": "cold shoulder|drake, don toliver & yebba",
+    "prev": null
+   },
+   {
+    "rank": 4,
+    "title": "BbY WOW",
+    "artist": "KAROL G, Judeline & rusowsky",
+    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+    "key": "bby wow|karol g, judeline & rusowsky",
+    "prev": null
+   },
+   {
+    "rank": 5,
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+    "key": "choosin' texas|ella langley",
+    "prev": null
+   },
+   {
+    "rank": 6,
+    "title": "Patient Zero",
+    "artist": "Taylor Swift",
+    "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
+    "key": "patient zero|taylor swift",
+    "prev": null
+   },
+   {
+    "rank": 7,
+    "title": "Janice STFU",
+    "artist": "Drake",
+    "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+    "key": "janice stfu|drake",
+    "prev": null
+   },
+   {
+    "rank": 8,
+    "title": "Last Thing You Need",
+    "artist": "Morgan Wallen",
+    "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+    "key": "last thing you need|morgan wallen",
+    "prev": null
+   },
+   {
+    "rank": 9,
+    "title": "Nicole Kidman",
+    "artist": "ADÉLA",
+    "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088",
+    "key": "nicole kidman|adéla",
+    "prev": null
+   },
+   {
+    "rank": 10,
+    "title": "Been By Now",
+    "artist": "Morgan Wallen",
+    "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+    "key": "been by now|morgan wallen",
+    "prev": null
+   }
+  ]
  },
  "bangla": {
   "source": null,

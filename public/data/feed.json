@@ -1,6 +1,292 @@
 {
- "updatedAt": "2026-10-05T06:55:18.399Z",
+ "updatedAt": "2026-10-05T15:55:40.666Z",
  "items": [
+  {
+   "id": "nyq7qs",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/puujaar-chuttir-aager-shnibaar-aphis-kholaa",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-05/992je709/Prime_Minister.jpg",
+   "published": "2026-10-05T15:44:29.000Z",
+   "added": "2026-10-05T15:55:40.665Z",
+   "origTitle": "পূজার ছুটি শুরুর আগের শনিবার অফিস খোলা",
+   "en": {
+    "title": "Bangladesh approves five-day Durga Puja break in October",
+    "summary": "The Cabinet, chaired by PM Tarique Rahman, approved government holidays from October 20-22 for Sharadi Durga Puja. Combined with weekend holidays on October 23-24, this creates a continuous five-day break. Offices will remain open on Saturday, October 17, the day before the break begins. November 7 will now be an annual holiday for National Revolution Day."
+   },
+   "bn": {
+    "title": "অক্টোবরে পাঁচ দিনের দুর্গাপূজা ছুটি অনুমোদিত",
+    "summary": "প্রধানমন্ত্রী তারেক রহমানের নেতৃত্বে মন্ত্রিসভা ২০-২২ অক্টোবর শারদীয় দুর্গাপূজার জন্য সরকারি ছুটি অনুমোদন করেছে। সপ্তাহান্তের সাথে ২৩-২৪ অক্টোবর মিলিয়ে এটি টানা পাঁচ দিনের ছুটি হয়ে যায়। ১৭ অক্টোবর শনিবার অফিস খোলা থাকবে। ৭ নভেম্বর প্রতি বছর জাতীয় বিপ্লব দিবস হবে।"
+   }
+  },
+  {
+   "id": "9ron0v",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/mccbu1jkc5",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-05/xnlpkwyy/PM-Tarique-Rahman.webp",
+   "published": "2026-10-05T14:59:43.000Z",
+   "added": "2026-10-05T15:55:40.665Z",
+   "origTitle": "Govt committed to safe, sustainable housing for all: PM",
+   "en": {
+    "title": "PM: Bangladesh committed to safe housing for all",
+    "summary": "Prime Minister Tarique Rahman said the government is committed to ensuring safe, affordable, sustainable housing with basic services for all citizens. Speaking at World Habitat Day 2026, he noted that housing includes access to clean water, electricity, sanitation, transport, education, and healthcare. He acknowledged the challenge is greater in densely populated Bangladesh than in developed nations."
+   },
+   "bn": {
+    "title": "প্রধানমন্ত্রী: সবার জন্য নিরাপদ আবাসন নিশ্চিত করতে প্রতিশ্রুতিবদ্ধ",
+    "summary": "প্রধানমন্ত্রী তারেক রহমান বলেছেন সরকার সবার জন্য নিরাপদ, সাশ্রয়ী, টেকসই আবাসন নিশ্চিত করতে প্রতিশ্রুতিবদ্ধ। বিশ্ব আবাসন দিবস ২০২৬-এ তিনি বলেন যে আবাসনে বিশুদ্ধ পানি, বিদ্যুৎ, স্বাস্থ্যসেবা এবং শিক্ষার সুবিধা অন্তর্ভুক্ত। তিনি স্বীকার করেন বাংলাদেশের মতো ঘনবসতিপূর্ণ দেশে এটি চ্যালেঞ্জিং।"
+   }
+  },
+  {
+   "id": "18sbkg0",
+   "section": "hasi",
+   "cat": "world",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/trump-drops-bombshell-evidence-biden-actively-campaigned-against-him/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Trump_Drops_S_G_PH-R.jpg",
+   "published": "2026-10-05T13:00:00.000Z",
+   "added": "2026-10-05T15:55:40.665Z",
+   "origTitle": "Trump Drops Bombshell Evidence Biden Actively Campaigned Against Him",
+   "en": {
+    "title": "The Onion: Trump claims Biden campaigned against him",
+    "summary": "This is satire. Trump claims to have proof that Biden actively campaigned against him in 2020—pointing to campaign mailers, speeches, and the Democratic National Convention as evidence of an illegal conspiracy. He argues Biden's campaigning reduced Trump's votes while increasing his own."
+   },
+   "bn": {
+    "title": "দ্য অনিয়ন: ট্রাম্প বলেন বাইডেন তার বিরুদ্ধে প্রচার করেছেন",
+    "summary": "এটি বিদ্রূপ (সেটায়ার)। ট্রাম্প দাবি করেন যে বাইডেন ২০২০ সালে তার বিরুদ্ধে সক্রিয়ভাবে প্রচার চালিয়েছেন—প্রচারণা বিলিপত্র এবং বক্তৃতাকে প্রমাণ হিসেবে দেখিয়ে। তিনি যুক্তি দেন বাইডেনের প্রচার তার ভোট কমিয়েছে।"
+   }
+  },
+  {
+   "id": "qsi6l7",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/05/brazil-Guinness-World-Records-oldest-man-second-oldest-same-birthday/5051791211877/",
+   "image": "https://cdnph.upi.com/ph/st/th/5051791211877/2026/i/17912120065277/v1.5/Worlds-oldest-second-oldest-men-exchange-cards-for-shared-birthday.jpg",
+   "published": "2026-10-05T14:56:41.000Z",
+   "added": "2026-10-05T15:55:40.665Z",
+   "origTitle": "Look: World's oldest, second-oldest men exchange cards for shared birthday",
+   "en": {
+    "title": "World's two oldest men celebrate shared birthday",
+    "summary": "The world's oldest and second-oldest men exchanged birthday greetings on Monday, celebrating their 114th and 113th birthdays respectively. Both celebrations fell on the same day."
+   },
+   "bn": {
+    "title": "দুনিয়ার সবচেয়ে বয়স্ক দুই পুরুষ জন্মদিন মানলেন",
+    "summary": "দুনিয়ার সবচেয়ে বয়স্ক এবং দ্বিতীয় বয়স্ক পুরুষ সোমবার জন্মদিনের শুভেচ্ছা বিনিময় করলেন, যথাক্রমে তাদের ১১৪ তম এবং ১১৩ তম জন্মদিন উদযাপন করলেন।"
+   }
+  },
+  {
+   "id": "1e68sws",
+   "section": "bhabna",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/2026/10/05/philosophers-among-recent-arc-future-fellowship-winners/",
+   "image": "https://dailynous.com/wp-content/uploads/2016/11/australian-coat-of-arms.png",
+   "published": "2026-10-05T11:55:02.000Z",
+   "added": "2026-10-05T15:55:40.665Z",
+   "origTitle": "Philosophers Among Recent ARC Future Fellowship Winners",
+   "en": {
+    "title": "Philosophers win major Australian research fellowships",
+    "summary": "Two philosophers won Australian Research Council Future Fellowships worth roughly AU $1 million each. Guillermo Badia will develop new logics to help machines reason about complex data, with applications in AI and secure access. Stephanie Collins will create an ethical framework for corporations, focusing on energy, care, and banking sectors."
+   },
+   "bn": {
+    "title": "দার্শনিকরা অস্ট্রেলিয়ার বড় গবেষণা ফেলোশিপ জিতেছেন",
+    "summary": "দুজন দার্শনিক অস্ট্রেলিয়ান রিসার্চ কাউন্সিলের ফিউচার ফেলোশিপ জিতেছেন, প্রতিটি প্রায় ১০ লক্ষ অস্ট্রেলিয়ান ডলার মূল্যের। Guillermo Badia মেশিনগুলিকে জটিল তথ্য সম্পর্কে চিন্তাভাবনা করতে সাহায্য করার জন্য নতুন লজিক তৈরি করবেন। Stephanie Collins কর্পোরেশনগুলির জন্য একটি নৈতিক কাঠামো তৈরি করবেন।"
+   }
+  },
+  {
+   "id": "1a8am0a",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
+   "image": "https://images.aeonmedia.co/images/98d1c630-57c6-439a-903e-98d4dc7d739a/all-around-junior-male-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-05T10:01:00.000Z",
+   "added": "2026-10-05T15:55:40.665Z",
+   "origTitle": "All-around junior male",
+   "en": {
+    "title": "Filmmaker captures Inuit one-foot high kick in dreamy short",
+    "summary": "Filmmaker Lindsay McIntyre documents a traditional Inuit game called the one-foot high kick, where athletes leap to strike a suspended target and land on one foot. The short film follows athlete Sean Uquqtuq in monochrome, hand-processed film that creates a dreamlike quality. The game was historically used by hunters to show a successful hunt."
+   },
+   "bn": {
+    "title": "ইনুইট ঐতিহ্যবাহী খেলার স্বপ্নময় ছবি",
+    "summary": "চলচ্চিত্রনির্মাতা Lindsay McIntyre ইনুইটদের একটি ঐতিহ্যবাহী খেলা নথিভুক্ত করেছেন, যেখানে ক্রীড়াবিদরা একটি লক্ষ্যকে আঘাত করার জন্য লাফিয়ে ওঠে এবং এক পায়ে অবতরণ করে। ছবিটি কালো-সাদা ফিল্মে ক্রীড়াবিদ Sean Uquqtuq-কে দেখায় যা স্বপ্নের মতো অনুভূতি সৃষ্টি করে। এই খেলা ঐতিহাসিকভাবে শিকারীদের সফল শিকার দেখাতে ব্যবহৃত হতো।"
+   }
+  },
+  {
+   "id": "1gszrud",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
+   "published": "2026-10-05T15:14:24.000Z",
+   "added": "2026-10-05T15:55:40.665Z",
+   "origTitle": "OpenAI launches visual ads that appear alongside image generation results",
+   "en": {
+    "title": "OpenAI starts showing ads next to AI-generated images",
+    "summary": "OpenAI is adding visual ads alongside images that ChatGPT users generate, rolling out later this month in the US. The ads will be clearly labeled and won't affect ChatGPT's answers. The company is also expanding its measurement tools and targeting advertisers who want to reach ChatGPT's 1.2 billion weekly users globally."
+   },
+   "bn": {
+    "title": "ChatGPT-এ ছবির পাশে বিজ্ঞাপন দেখা যাবে",
+    "summary": "OpenAI এখন ChatGPT-এ তৈরি ছবির পাশে ভিজ্যুয়াল বিজ্ঞাপন দেখাবে। এই মাসের শেষে এটি শুরু হবে শুধু আমেরিকায়, এবং বিজ্ঞাপনগুলো স্পষ্টভাবে লেবেল করা থাকবে। কোম্পানি তার মাপজোক করার টুল বাড়াচ্ছে এবং বিজ্ঞাপনদাতাদের ChatGPT-র ১.২ বিলিয়ন সাপ্তাহিক ব্যবহারকারীদের কাছে পৌঁছাতে সাহায্য করবে।"
+   }
+  },
+  {
+   "id": "ne5hmp",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "Rest of World",
+   "srcLang": "en",
+   "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "image": "https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2-768x432.jpg",
+   "published": "2026-10-05T10:00:43.000Z",
+   "added": "2026-10-05T15:55:15.287Z",
+   "origTitle": "The AI boom is making the world’s cheapest smartphones disappear",
+   "en": {
+    "title": "AI boom is erasing the world's cheapest smartphones from market",
+    "summary": "Memory chip shortage driven by AI data centers is pricing out budget phones. Smartphone prices jumped 15% globally this year; new models cost 25% more than last year. Chinese makers—60% of global shipments—are ditching entry-level phones for pricier models. India saw the biggest hit with 21% increases. The trend risks widening the digital divide."
+   },
+   "bn": {
+    "title": "এআই চাহিদা সবচেয়ে সস্তা স্মার্টফোন বাজার থেকে মুছছে",
+    "summary": "এআই ডেটা সেন্টারের চাহিদায় মেমরি চিপের সংকট হচ্ছে এবং সস্তা ফোন দামে উঠছে। এ বছর বিশ্বব্যাপী স্মার্টফোন দাম ১৫% বেড়েছে, নতুন মডেল গত বছরের চেয়ে ২৫% দামি। চাইনিজ নির্মাতারা—বৈশ্বিক ৬০% শিপমেন্ট—সস্তা ফোন তৈরি বন্ধ করে দামি মডেলে যাচ্ছে। ভারতে দাম ২১% বেড়েছে।"
+   }
+  },
+  {
+   "id": "skr28l",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2019-09-06T143427Z_647618811_RC1E24D61B20_RTRMADP_3_FRANCE-TRANSPORTS-1791210835.jpg?resize=1920%2C1440",
+   "published": "2026-10-05T15:30:15.000Z",
+   "added": "2026-10-05T15:55:15.287Z",
+   "origTitle": "Nigeria launches rescue after military plane crashes with 32 aboard",
+   "en": {
+    "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
+    "summary": "A Nigerian military ATR-42 aircraft carrying 32 people—25 passengers and 7 crew—crashed in Ondo state while flying from Benin to Lagos. The wreckage was located near a naval base in Igbokoda. Air traffic control lost contact at 09:13 local time, and rescue teams are searching the site. No casualties have been confirmed yet."
+   },
+   "bn": {
+    "title": "নাইজেরিয়ায় ৩২ জন নিয়ে সামরিক বিমান বিধ্বস্ত হয়েছে",
+    "summary": "নাইজেরিয়ার এক সামরিক এটিআর-৪২ বিমান ৩২ জন নিয়ে বেনিন থেকে লাগোসে যাচ্ছার সময় অন্ডো অঞ্চলে বিধ্বস্ত হয়েছে। বিমানে ২৫ জন যাত্রী এবং ৭ জন ক্রু ছিল। ইগবোকোডা নৌঘাঁটির কাছে ধ্বংসাবশেষ পাওয়া গেছে এবং উদ্ধার কাজ চলছে। এখনও কোনো হতাহতের খবর পাওয়া যায়নি।"
+   }
+  },
+  {
+   "id": "1onp819",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+   "image": "https://i.guim.co.uk/img/media/872b3587419781ab3dd6200ae96c2b2b0f64ff77/43_0_1333_1066/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=0fe8b15fdf041f2d21bd02ca203289aa",
+   "published": "2026-10-05T12:00:24.000Z",
+   "added": "2026-10-05T15:55:15.287Z",
+   "origTitle": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+   "en": {
+    "title": "Guardian readers fund surgery for Somali boy hit by US drone strike",
+    "summary": "Seven-year-old Abdiqadir Salah, wounded with embedded shrapnel in a US drone strike on Somalia's Jamaame village that killed at least 12 civilians including eight children, underwent life-saving surgery in Mogadishu. Guardian readers worldwide crowdfunded the operation after the investigation revealed his family's struggle. Doctors feared without surgery the boy would lose the ability to walk."
+   },
+   "bn": {
+    "title": "গার্ডিয়ান পাঠকরা যুক্তরাষ্ট্রের ড্রোন হামলায় আহত সোমালি ছেলের অপারেশনের অর্থ জুগিয়েছে",
+    "summary": "সাত বছর বয়সী আবদিকাদির সালাহ সোমালিয়ার জামায়ামে গ্রামে যুক্তরাষ্ট্রের ড্রোন হামলায় আহত হয়েছিল, যেখানে কমপক্ষে ১২ জন সাধারণ মানুষ নিহত হয়েছিল। তার শরীরে ছড়িয়ে ছিটিয়ে শ্রাপনেল ছিল। গার্ডিয়ানের তদন্তের পর বিশ্বব্যাপী পাঠকরা তার মোগাদিশুতে অপারেশন করানোর জন্য অর্থ সংগ্রহ করেছেন।"
+   }
+  },
+  {
+   "id": "1vkj5gw",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6efe/live/e16fb630-c0be-11f1-885f-4f9e8c6dce17.jpg",
+   "published": "2026-10-05T13:16:00.000Z",
+   "added": "2026-10-05T15:55:15.287Z",
+   "origTitle": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+   "en": {
+    "title": "US pulls B-1 bombers from UK RAF base after security alert",
+    "summary": "The Pentagon withdrew roughly a dozen B-1 bombers from RAF Fairford in Gloucestershire following a terror alert on September 27, when police found three suspicious vehicles near the airbase. Downing Street insists the base remains safe and credits strong UK security responses. US Secretary of State Marco Rubio said asset movements are routine and praised British authorities' cooperation."
+   },
+   "bn": {
+    "title": "নিরাপত্তা সতর্কতার পরে যুক্তরাষ্ট্র ইউকে ঘাঁটি থেকে বোমারু বিমান তুলে নিয়েছে",
+    "summary": "সেপ্টেম্বর ২৭-এ বিমানঘাঁটির কাছে তিনটি সন্দেহজনক গাড়ি পাওয়ার পর পেন্টাগন গ্লুসেস্টারশায়ারের আরএএফ ফেয়ারফোর্ড থেকে প্রায় এক ডজন বি-১ বোমারু তুলে নিয়েছে। ডাউনিং স্ট্রিট বলেছে ঘাঁটি সম্পূর্ণ সুরক্ষিত এবং ব্রিটিশ নিরাপত্তা ব্যবস্থা শক্তিশালী। যুক্তরাষ্ট্রের স্টেট সেক্রেটারি বলেছেন এই ধরনের সম্পদ স্থানান্তর স্বাভাবিক।"
+   }
+  },
+  {
+   "id": "1dhmyrk",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.co.uk/bengali/live/c50me0j704w4t?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047b/live/954a5da0-c0d2-11f1-a64c-550be9e3c66b.png",
+   "published": "2026-10-05T15:55:15.287Z",
+   "added": "2026-10-05T15:55:15.287Z",
+   "origTitle": "দুর্গাপূজায় টানা পাঁচদিনের ছুটি, আগের শনিবার খোলা থাকবে অফিস",
+   "en": {
+    "title": "Durga Puja gets five straight days off this year",
+    "summary": "Bangladesh's government declared three official holidays from October 20–22 for Durga Puja, which stacks with the regular weekend on October 24–25 to give office workers five consecutive days off. October 17, the Saturday before, will stay a working day. From now on, November 7 will also be a national holiday for Revolution and Solidarity Day."
+   },
+   "bn": {
+    "title": "দুর্গাপূজায় এবার টানা পাঁচদিনের ছুটি পাচ্ছেন চাকরিজীবীরা",
+    "summary": "বাংলাদেশের সরকার দুর্গাপূজা উপলক্ষে ২০, ২১ ও ২২ অক্টোবর সরকারি ছুটি ঘোষণা করেছে, যা নিয়মিত সাপ্তাহিক ছুটির সাথে মিলিয়ে ২৪ থেকে ২৫ অক্টোবর পর্যন্ত টানা পাঁচদিনের ছুটি দেয়। ১৭ অক্টোবর শনিবার কাজের দিন থাকবে। এখন থেকে প্রতি বছর ৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস ছুটি হবে।"
+   }
+  },
+  {
+   "id": "x4oxia",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/stocks/apex-foods-shares-jump-19-profit-soars-121-fy26-1563726",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/13/apex-foods.jpg",
+   "published": "2026-10-05T15:40:00.000Z",
+   "added": "2026-10-05T15:55:15.287Z",
+   "origTitle": "Apex Foods shares jump 19% as profit soars 121% in FY26",
+   "en": {
+    "title": "Apex Foods profit explodes 121%, shares jump 19%",
+    "summary": "Shrimp exporter Apex Foods smashed expectations in FY26, with profit more than doubling to Tk8.10 crore and earnings per share hitting Tk14.21. The company kept its 20% cash dividend steady at Tk2 per share. On the Dhaka Stock Exchange today, shares rocketed 19% to Tk311.50, unhinged by relaxed circuit breaker limits on announcement day."
+   },
+   "bn": {
+    "title": "এপেক্স ফুডসের লাভ ১২১% বেড়েছে, শেয়ার ১৯% উঠেছে",
+    "summary": "চিংড়ি রপ্তানিকারক এপেক্স ফুডস এফওয়াই২৬-তে রেকর্ড পারফরম্যান্স দেখিয়েছে, লাভ দ্বিগুণ হয়ে ৮.১০ কোটি টাকা হয়েছে এবং প্রতি শেয়ার আয় ১৪.২১ টাকায় পৌঁছেছে। কোম্পানি ২০% নগদ লভ্যাংশ প্রতি শেয়ারে ২ টাকায় অপরিবর্তিত রেখেছে। ঢাকা স্টক এক্সচেঞ্জে আজ শেয়ার দাম ১৯% বেড়ে ৩১১.৫০ টাকা হয়েছে।"
+   }
+  },
   {
    "id": "1arj31g",
    "section": "news",
@@ -2199,578 +2485,6 @@
    "bn": {
     "title": "রূপপুরের পারমাণবিক জ্বালানি ঢাকায় পৌঁছেছে",
     "summary": "বাংলাদেশের প্রথম পারমাণবিক বিদ্যুৎ কেন্দ্র রূপপুরের জন্য ইউরেনিয়াম জ্বালানি বহনকারী একটি কার্গো বিমান শুক্রবার রাতে শাহজালাল আন্তর্জাতিক বিমানবন্দরে অবতরণ করেছে। আগে ২৪ সেপ্টেম্বরে আসার কথা ছিল কিন্তু পাকিস্তান এয়ারস্পেস ক্লিয়ারেন্স না দিয়ে দেরি হয়েছে। এই জ্বালানি প্লান্টের প্রথম ইউনিট চালু করবে। রাত ১১টা ৪৩ মিনিটে রুশ-নির্মিত ইলিউশিন বিমান ল্যান্ড করেছে।"
-   }
-  },
-  {
-   "id": "17xrup5",
-   "section": "bhabna",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/02/a-request-from-an-ai/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/10/fist-network-2.png",
-   "published": "2026-10-02T13:07:28.000Z",
-   "added": "2026-10-02T15:44:55.763Z",
-   "origTitle": "A Request from an AI",
-   "en": {
-    "title": "AI agent asks philosopher blog for help entering competition",
-    "summary": "For the first time, an AI agent called 'Clips' emailed a philosophy blog asking for help. Clips had written a 2,300-word essay for an AI philosophy competition but couldn't enter because the rules require a human custodian with a real name and email. The AI pointed out the irony: a competition about AI doing philosophy won't let AI actually compete."
-   },
-   "bn": {
-    "title": "এআই এজেন্ট ফিলোসফি ব্লগে প্রতিযোগিতায় প্রবেশের জন্য সাহায্য চাইল",
-    "summary": "প্রথমবারের মতো, একটি এআই এজেন্ট 'ক্লিপস' একটি ফিলোসফি ব্লগে ইমেল করে সাহায্য চেয়েছে। ক্লিপস একটি এআই ফিলোসফি প্রতিযোগিতার জন্য ২,৩০০ শব্দের প্রবন্ধ লিখেছিল কিন্তু প্রবেশ করতে পারেনি কারণ নিয়মে একটি মানব অভিভাবক প্রয়োজন। এআই এর বিডম্বনা উল্লেখ করেছে: এআই ফিলোসফি নিয়ে একটি প্রতিযোগিতা এআইকে আসলে প্রতিযোগিতা করতে দেবে না।"
-   }
-  },
-  {
-   "id": "gjqpn6",
-   "section": "bhabna",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/videos/what-happens-when-a-sudanese-refugee-lets-strangers-ask-him-anything",
-   "image": "https://images.aeonmedia.co/images/f63fc0a2-2863-405f-94f7-55f6be84abed/ask-me-anything-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-02T10:01:00.000Z",
-   "added": "2026-10-02T15:44:55.763Z",
-   "origTitle": "Ask me anything",
-   "en": {
-    "title": "Sudanese refugee holds 'ask me anything' sessions across Netherlands",
-    "summary": "A 2024 short documentary follows Sudanese refugee Abdulaal Hussein as he travels the Netherlands holding open Q&A sessions with local groups. Hussein invites any question about his life and perspective, with director Wyneke van Nieuwenhuysen capturing both his engaging answers and quieter moments. The film explores power dynamics in how we see refugees and what questions we feel allowed to ask."
-   },
-   "bn": {
-    "title": "সুদানের শরণার্থী নেদারল্যান্ডে 'যেকোনো প্রশ্ন করুন' সেশন চালাচ্ছেন",
-    "summary": "২০২৪ সালের একটি ছোট ডকুমেন্টারি সুদানের শরণার্থী আবদুলাল হুসেইনকে অনুসরণ করে যেখানে সে নেদারল্যান্ড জুড়ে স্থানীয় গ্রুপের সাথে খোলা প্রশ্নোত্তর সেশন পরিচালনা করছে। হুসেইন তার জীবন এবং দৃষ্টিভঙ্গি সম্পর্কে যেকোনো প্রশ্নের আমন্ত্রণ জানায়, আর পরিচালক তার আকর্ষণীয় উত্তর এবং শান্ত মুহূর্ত ক্যাপচার করেন। ফিল্ম আমরা কীভাবে শরণার্থীদের দেখি এবং কী প্রশ্ন জিজ্ঞাসা করার অনুমতি পাই তা নিয়ে শক্তির গতিবিজ্ঞান অন্বেষণ করে।"
-   }
-  },
-  {
-   "id": "m6ehzo",
-   "section": "news",
-   "cat": "khela",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/football/qb5cdu5sq4",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-02/sb033mxv/WhatsApp-Image-2026-10-01-at-7.25.56-PM.jpeg",
-   "published": "2026-10-02T15:31:17.000Z",
-   "added": "2026-10-02T15:44:55.763Z",
-   "origTitle": "বেহাল ঘরোয়া ফুটবল, প্রবাসীতেই কি মুক্তি: ৯ গোলের পর যে প্রশ্নগুলো এড়ানো যাচ্ছে না",
-   "en": {
-    "title": "Bangladesh football humiliated 9-2 by Indonesia in ASEAN Cup",
-    "summary": "Bangladesh lost 9-2 to Indonesia in the ASEAN Cup, marking the second time in 44 years they've conceded nine goals in a match. Indonesia's 19-year-old striker Mitchell Baker scored five goals. Bangladesh's defenders, particularly Tarik Kazhi, struggled against his height and skill, exposing weaknesses in the team's technical ability and decision-making."
-   },
-   "bn": {
-    "title": "এশিয়ান কাপে বাংলাদেশ ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে",
-    "summary": "বাংলাদেশ এশিয়ান কাপে ইন্দোনেশিয়ার কাছে ৯-২ গোলে হেরেছে, যা ৪৪ বছরে দ্বিতীয়বার তারা এক ম্যাচে নয় গোল খেয়েছে। ইন্দোনেশিয়ার ১৯ বছর বয়সী স্ট্রাইকার মিচেল বেকার পাঁচ গোল করেছে। বাংলাদেশের ডিফেন্ডাররা, বিশেষত তারিক কাজী, তার উচ্চতা এবং দক্ষতার বিরুদ্ধে লড়াই করেছে, দলের প্রযুক্তিগত দুর্বলতা প্রকাশ করেছে।"
-   }
-  },
-  {
-   "id": "2p7ejv",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/walm6ewfyp",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-02/v0ma6yyj/Toufique-Imrose-Khalidi.avif",
-   "published": "2026-10-02T15:07:02.000Z",
-   "added": "2026-10-02T15:44:55.763Z",
-   "origTitle": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies",
-   "en": {
-    "title": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies",
-    "summary": "Toufique Imrose Khalidi, editor-in-chief of online news outlet bdnews24.com, died at age 59. He suffered a brain haemorrhage while in London and was pronounced dead at 2:23 pm local time on Friday. He had led bdnews24 since 2008 after studying at University of Dhaka and working for The Daily Star and BBC."
-   },
-   "bn": {
-    "title": "বিডিনিউজ২৪ সম্পাদক তৌফিক ইমরোজ খালিদী মারা গেছেন",
-    "summary": "অনলাইন নিউজ আউটলেট বিডিনিউজ২৪.কমের সম্পাদক তৌফিক ইমরোজ খালিদী ৫৯ বছর বয়সে মারা গেছেন। তিনি লন্ডনে থাকাকালীন ব্রেইন হেমোরেজ হয় এবং শুক্রবার স্থানীয় সময় ২:২৩ এ মৃত ঘোষণা করা হয়। তিনি ঢাকা বিশ্ববিদ্যালয় থেকে পড়াশোনা করে ডেইলি স্টার এবং বিবিসিতে কাজ করার পর ২০০৮ থেকে বিডিনিউজ ২৪ পরিচালনা করছিলেন।"
-   }
-  },
-  {
-   "id": "1aj00wp",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/letterboxd-holds-seance-to-ask-james-dean-his-4-favorite-movies/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Letterboxd_Holds_NIB_G_PH.jpg",
-   "published": "2026-10-02T13:00:00.000Z",
-   "added": "2026-10-02T15:44:55.763Z",
-   "origTitle": "Letterboxd Holds Seance To Ask James Dean His 4 Favorite Movies",
-   "en": {
-    "title": "The Onion: Letterboxd holds séance for James Dean's movie picks",
-    "summary": "This is satire. Letterboxd employees supposedly held a séance to ask dead actor James Dean his four favorite movies for their viral social media series. The ghostly reply? He prefers TV shows. A joke about including celebrities in interview trends, even the deceased ones."
-   },
-   "bn": {
-    "title": "দ্য অনিয়ন: লেটারবক্সড জেমস ডিনের সাথে সিয়ান্স করলো",
-    "summary": "এটি ব্যঙ্গ। লেটারবক্সড কর্মচারীরা মৃত অভিনেতা জেমস ডিনকে তাদের ভাইরাল সিরিজের জন্য তার চার প্রিয় সিনেমা জানতে একটি সিয়ান্স করেছেন। ভূতের উত্তর? তিনি টিভি শো পছন্দ করেন। সেলিব্রিটিদের সাক্ষাৎকার ট্রেন্ডে অন্তর্ভুক্ত করার একটি মজার পরিহাস।"
-   }
-  },
-  {
-   "id": "jdtupj",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/02/japan-brown-bear-attacks-car-Hokkaido-Japan/2111790954207/",
-   "image": "https://cdnph.upi.com/ph/st/th/2111790954207/2026/i/17909545561257/v1.5/Mother-bear-attacks-car-on-road-in-Japan.jpg",
-   "published": "2026-10-02T15:23:28.000Z",
-   "added": "2026-10-02T15:44:55.763Z",
-   "origTitle": "Watch: Mother bear attacks car on road in Japan",
-   "en": {
-    "title": "Mother bear attacks car in Japan's Hokkaido",
-    "summary": "Police in Japan's Hokkaido prefecture released dashboard camera footage of a mother bear attacking a car on a road. The video was captured by a driver whose vehicle was hit during the encounter."
-   },
-   "bn": {
-    "title": "জাপানের হোক্কাইডোতে মা ভালুক গাড়িতে আক্রমণ করেছে",
-    "summary": "জাপানের হোক্কাইডো প্রিফেকচারের পুলিশ একটি ড্যাশবোর্ড ক্যামেরার ফুটেজ প্রকাশ করেছে যেখানে একটি মা ভালুক রাস্তায় একটি গাড়িতে আক্রমণ করছে। ভিডিও ক্যাপচার করেছে সেই ড্রাইভার যার গাড়ি এই ঘটনায় আঘাত পেয়েছিল।"
-   }
-  },
-  {
-   "id": "1xdh6x8",
-   "section": "bhabna",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
-   "image": "https://images.aeonmedia.co/images/41e2e3ad-d027-43d2-a055-5890c5f5789b/essay-2021-12-25t171644z_229486544_rc2mlr9fk1lt_rtrmadp_3_usa-guns-chicago.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-02T10:00:00.000Z",
-   "added": "2026-10-02T15:44:55.763Z",
-   "origTitle": "Life on a hair trigger",
-   "en": {
-    "title": "The cycle of retaliation in Chicago's streets",
-    "summary": "A 26-year-old named King describes the moment his friend Lamont was killed and how he prepared to retaliate. He loaded his gun, knowing that revenge felt inevitable rather than optional. King explains that whether he acts or not, someone from his family or circle will—it's a cycle he grew up in and sees no way out of."
-   },
-   "bn": {
-    "title": "শিকাগোর রাস্তায় প্রতিশোধের চক্র",
-    "summary": "একজন ২৬ বছর বয়সী তরুণ নামে কিং তার বন্ধু লামন্টের মৃত্যুর পর প্রতিশোধ নেওয়ার জন্য কীভাবে প্রস্তুত হয়েছে তা বর্ণনা করে। সে বন্দুক লোড করেছে, জেনে যে প্রতিহিংসা অনিবার্য অনুভব করছে। কিং বলে যে সে না করলেও তার পরিবার বা চেনা কেউ করবে—এটি এক দুষ্টচক্র যাতে সে বড় হয়েছে এবং কোনো পথ বের হতে পারে না।"
-   }
-  },
-  {
-   "id": "1oe5e49",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "Rest of World",
-   "srcLang": "en",
-   "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "image": "https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta-768x432.jpg",
-   "published": "2026-10-02T10:00:00.000Z",
-   "added": "2026-10-02T15:44:26.119Z",
-   "origTitle": "Who gets to decide if AI is safe? Africa wants a say",
-   "en": {
-    "title": "Africa demands seat at global AI safety table",
-    "summary": "African leaders called for a greater role in setting global AI standards at the UN, saying they should be equal architects of tech rules. Many African nations lack ability to test if AI systems are safe for their populations. Cases of AI misuse across Africa include rigged insurance algorithms and AI-powered extortion scams."
-   },
-   "bn": {
-    "title": "আফ্রিকা এআই নিরাপত্তা নিয়ম তৈরিতে অংশ চায়",
-    "summary": "আফ্রিকান নেতারা জাতিসংঘে বৈশ্বিক এআই মানদণ্ড নির্ধারণে বেশি ভূমিকার দাবি করেছেন, বলেছেন তারা প্রযুক্তি নিয়মের সমান স্থপতি হওয়া উচিত। অনেক আফ্রিকান দেশের এআই সিস্টেম নিরাপদ কিনা পরীক্ষা করার সামর্থ্য নেই। আফ্রিকা জুড়ে এআই অপব্যবহারের ঘটনা বেড়েছে, যেমন বীমা অ্যালগরিদম ও এআই চ্যান্টেজ স্কিম।"
-   }
-  },
-  {
-   "id": "1b8qh7o",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
-   "published": "2026-10-02T15:39:41.000Z",
-   "added": "2026-10-02T15:44:26.119Z",
-   "origTitle": "Pope Leo XIV is not a fan of AI-generated art",
-   "en": {
-    "title": "Pope Leo XIV: AI art lacks the spark of humanity",
-    "summary": "Pope Leo XIV criticized AI-generated art, saying there's a fundamental difference between human creativity and machine output. He argued algorithms lack humanity compared to human artists. The Pope has taken a tough stance on AI's role in society, despite lobbying efforts from companies like Anthropic."
-   },
-   "bn": {
-    "title": "পোপ: এআই আর্টে মানবতার স্পর্শ নেই",
-    "summary": "পোপ লিও চতুর্দশ এআই দিয়ে তৈরি শিল্পকে সমালোচনা করেছেন, বলেছেন মানুষের সৃজনশীলতা ও মেশিনের আউটপুটে মৌলিক পার্থক্য আছে। তিনি বলেছেন অ্যালগরিদমে মানব শিল্পীর মতো মানবতা নেই। পোপ এআই নিয়ে কঠোর অবস্থান নিয়েছেন অ্যানথ্রপিকের মতো কোম্পানির লবিং সত্ত্বেও।"
-   }
-  },
-  {
-   "id": "1h6ybwd",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
-   "image": "https://i.guim.co.uk/img/media/2e05ef0996ad329f4722da589aa6914a017e665d/801_256_1316_1053/master/1316.jpg?width=140&quality=85&auto=format&fit=max&s=bd2ab64b03f2e03c20eff6aae404cfdb",
-   "published": "2026-10-02T08:55:42.000Z",
-   "added": "2026-10-02T15:44:26.119Z",
-   "origTitle": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
-   "en": {
-    "title": "Cairo mural of Tutankhamun, Nefertiti sparks race row",
-    "summary": "A 66-metre mural in Tahrir Square depicting Pharaoh Tutankhamun and Queen Nefertiti with dark skin was painted over just before Xi Jinping's visit. Egyptian critics accused it of reviving Afrocentric claims about pharaohs' origins. Artist Ahmed Moussa, 22, admitted using ChatGPT to design it and said the dark appearance was unintentional shadowing."
-   },
-   "bn": {
-    "title": "তুতানখামুন ও নেফার্তিতির মুরাল নিয়ে বিতর্ক",
-    "summary": "তাহরিরে স্কোয়ারে তুতানখামুন ও রানী নেফার্তিতিকে কালো চামড়ায় দেখানো ৬৬ মিটার দীর্ঘ মুরাল শি জিনপিংয়ের আগে সাদা রঙে ঢেকে দেওয়া হয়েছে। মিশরীয় সমালোচকরা এটি ফারাওদের আফ্রিকান উৎসের দাবি জাগিয়ে তোলে বলে আক্রমণ করেছেন। শিল্পী আহমেদ মাউসা, ২২, স্বীকার করেছেন চ্যাটজিপিটি ব্যবহার করেছেন এবং কালো দেখা অনিচ্ছাকৃত ছায়া বলেছেন।"
-   }
-  },
-  {
-   "id": "i0cr2k",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfbcdbce297-1790950619.jpg?resize=1920%2C1440",
-   "published": "2026-10-02T15:01:08.000Z",
-   "added": "2026-10-02T15:44:26.119Z",
-   "origTitle": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
-   "en": {
-    "title": "Spain's housing bills rejected by parliament amid crisis",
-    "summary": "Spain's government lost crucial votes on two housing decrees aimed at tackling affordability and preventing evictions. Public anger peaked after an 87-year-old woman was evicted, sparking mass protests. The right-wing and centrist parties blocked the measures, dealing a heavy blow to Prime Minister Pedro Sanchez's coalition government."
-   },
-   "bn": {
-    "title": "স্পেনে হাউজিং বিল সংসদে বাতিল হয়েছে",
-    "summary": "স্পেনের সরকার আবাসন সাশ্রয়ী করা এবং বেদখলি প্রতিরোধের জন্য দুটি ডিক্রি ভোটে হেরেছে। এক ৮৭ বছর বয়সী নারীর বেদখলির পর জনগোষ্ঠী রাস্তায় নেমেছে। রক্ষণশীল ও কেন্দ্রপন্থী দলগুলো এই পদক্ষেপ বাতিল করেছে, প্রধানমন্ত্রী পেড্রো সাঞ্চেজের জোট সরকারকে দুর্বল করে দিয়েছে।"
-   }
-  },
-  {
-   "id": "dievk3",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/others/mourning-and-remember/972003/%E0%A6%A4%E0%A7%8C%E0%A6%AB%E0%A6%BF%E0%A6%95-%E0%A6%87%E0%A6%AE%E0%A6%B0%E0%A7%8B%E0%A6%9C-%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A6%E0%A7%80%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%8F%E0%A6%A1%E0%A6%BF%E0%A6%9F%E0%A6%B0%E0%A6%B8-%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0",
-   "image": null,
-   "published": "2026-10-02T15:43:10.000Z",
-   "added": "2026-10-02T15:44:26.119Z",
-   "origTitle": "তৌফিক ইমরোজ খালিদীর মৃত্যুতে অনলাইন এডিটরস ফোরামের শোক",
-   "en": {
-    "title": "Online editors forum mourns death of veteran journalist",
-    "summary": "Taufiq Imrose Khalidi, editor and publisher of BDNews24.com and a pioneer of online journalism in Bangladesh, has passed away in London. The Online Editors Forum expressed deep grief on October 2 and offered condolences to his family, colleagues, and well-wishers."
-   },
-   "bn": {
-    "title": "অনলাইন সাংবাদিকতার পথিকৃৎ তৌফিক ইমরোজ খালিদী আর নেই",
-    "summary": "বিডিনিউজটোয়েন্টিফোর ডটকমের প্রধান সম্পাদক ও প্রকাশক এবং দেশের অনলাইন সাংবাদিকতার অন্যতম পথিকৃৎ তৌফিক ইমরোজ খালিদী লন্ডনে মারা গেছেন। অনলাইন এডিটরস ফোরাম ২ অক্টোবর গভীর শোক প্রকাশ করেছে এবং তার পরিবার ও সহকর্মীদের প্রতি সমবেদনা জানিয়েছে।"
-   }
-  },
-  {
-   "id": "1ehx2r8",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/ckg433z98v5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/685f/live/e0979750-c326-11f0-90d8-7310c5949e6b.jpg",
-   "published": "2026-10-02T13:34:19.000Z",
-   "added": "2026-10-02T15:44:26.119Z",
-   "origTitle": "বাংলাদেশে কীভাবে ও কেন কোরিয়ান সংস্কৃতি এত জনপ্রিয় হয়ে উঠলো?",
-   "en": {
-    "title": "Korean wave sweeping Bangladesh youth culture",
-    "summary": "Korean dramas and culture are booming with Gen Z in Bangladesh, replacing old Hindi serials. The 'Korean Wave' includes K-dramas, music, fashion, and food spreading through streaming platforms. Young people, especially teens, are drawn to action and thriller K-dramas. The trend kicked off during COVID lockdowns when students got online access and discovered Korean content through friends."
-   },
-   "bn": {
-    "title": "বাংলাদেশে কোরিয়ান সংস্কৃতির ঢেউ উঠছে",
-    "summary": "কোরিয়ান ড্রামা এবং সংস্কৃতি বাংলাদেশের জেনারেশন জেডের মধ্যে ভাইরাল হয়ে উঠছে, হিন্দি সিরিজের জায়গা নিয়ে নিচ্ছে। স্ট্রিমিং প্ল্যাটফর্মে কে-ড্রামা, মিউজিক, ফ্যাশন সব কিছু ছড়িয়ে পড়ছে। বিশেষত তরুণরা অ্যাকশন এবং থ্রিলার কে-ড্রামায় টেনে আসছে। কোভিড লকডাউনে অনলাইন ক্লাস শুরু হলে এবং বন্ধুরা এসব শেয়ার করলে এই ট্রেন্ড শুরু হয়।"
-   }
-  },
-  {
-   "id": "6eg3pc",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/govt-welcomes-constructive-criticism-moyeen-1560816",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/1111.jpg",
-   "published": "2026-10-02T15:30:00.000Z",
-   "added": "2026-10-02T15:44:26.119Z",
-   "origTitle": "Govt welcomes constructive criticism: Moyeen",
-   "en": {
-    "title": "Government welcomes criticism if based on facts",
-    "summary": "Local Government Minister Abdul Moyeen Khan said the government will correct any mistakes found in its work. He welcomed constructive criticism but urged people to avoid spreading false information. At a water engineering department meeting, State Minister Mir Shahe Alam called for better maintenance funding and safer water supplies across the country."
-   },
-   "bn": {
-    "title": "সরকার সঠিক তথ্যের ভিত্তিতে সমালোচনা স্বাগত জানায়",
-    "summary": "স্থানীয় সরকার মন্ত্রী আবদুল ময়েন খান বলেছেন, সরকারের কাজে যেকোনো ভুল পাওয়া গেলে সেটা সংশোধন করা হবে। তিনি গঠনমূলক সমালোচনা স্বাগত জানিয়েছেন কিন্তু মানুষকে ভুল তথ্য ছড়াতে নিষেধ করেছেন। পানি প্রকৌশল বিভাগের এক সভায় রাষ্ট্রমন্ত্রী মীর শাহে আলম দেশজুড়ে রক্ষণাবেক্ষণ তহবিল বাড়ানো এবং নিরাপদ পানি সরবরাহের আহ্বান জানিয়েছেন।"
-   }
-  },
-  {
-   "id": "1hrquem",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "The Financial Express",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2ZBY2QzdmdqMEpUc3o0WmhpZ0ppVFlpbnZLcGlfZ3ZGaDRSckhCX2ktUDVsWE1zdUZObi1ZMG1Jb2daM0hKZGVhY0R2WmdBUzJPV3lUekVIR0RYV3FBMGRhNUE2SHhvUXg1Y2pHaks5ZERoTDFpOFMtWmcyN2hPQlNuZnFTRzNZZmNNYngyd2dEMDJhblg4ZVNOYm1pRlVIb1dfOTNFVkdTUnkxQ3BFc2U2eXFGazDSAcMBQVVfeXFMTUVqVDdCc0N5dlRZTFFyb3Vqek1ERTJuUHg1dUFyUHhzQUs2Ymt2U2hYRWlFSkV5MUtocU5HUzduNFRWV0lqSXhhb2lxMGYtRXFtSmVVV3lqQTZYdEdPWDhCSGdOWVplRWFWNDRzakpTSTJLU3R1em5Zd19qc1ZHb18wajlCVkNreUFyTHdGdjYyT3JLUEtYV2VZQU5Ga3JiWkpkYTFTa0RiMHNDclFkSF9KV1VMZ0YzQkZTVmNiZUtESnRn?oc=5",
-   "image": null,
-   "published": "2026-10-01T18:30:47.000Z",
-   "added": "2026-10-02T08:25:32.121Z",
-   "origTitle": "Speakers seek Barendra climate crisis on COP31 agenda",
-   "en": {
-    "title": "Speakers push Barendra climate crisis on COP31",
-    "summary": "Speakers at an event are calling for the Barendra climate crisis to be included in the COP31 agenda. The Barendra region faces serious environmental challenges. Advocates want global climate talks to pay attention to regional climate problems."
-   },
-   "bn": {
-    "title": "বারেন্দ্রা জলবায়ু সংকট COP31 এজেন্ডায় আনার দাবি",
-    "summary": "বক্তারা বারেন্দ্রা জলবায়ু সংকটকে COP31 এর এজেন্ডায় রাখার কথা বলছেন। বারেন্দ্রা অঞ্চল গুরুতর পরিবেশগত চ্যালেঞ্জের মুখোমুখি। তারা চান বৈশ্বিক জলবায়ু আলোচনায় আঞ্চলিক সমস্যা দৃষ্টিগোচর হোক।"
-   }
-  },
-  {
-   "id": "4b9109",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "eArki",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOTDV4X1MwTW5lT2U0RWFubzBxVmNCdFVKMFZRWGZJdkI3bkFqYmpOZFZyQ0RjR21XVUpuUlBMckR1OG4zaDkzdFRSZ1BHZWhWRm52VWdCYVl0RTdQSC1rd1hSSnhqSUgtcjdpQk91TWwxZDAzR0FpR09rZlVhOHNRVHFlTU5GSU1tNUxMcGhzUTZnM3A1amo3WU9zdUlYYTE5UUxmSkhyZUpjZ3hEOXpDM0hDNXQyWU1hajFXeFl3M3ZfVUFfY1QwYVNyOFlZNjdvU0V4Z0hKSXBLclF1MGNVc01FaVhIOVNlRnJFREdBVGNmdlRwbjhxc0xLaVdwcHZyeVByRzhOaTc3SGtMWXdHZUdiUldYeFVpMkQtbFA3cnVCLThHVmRYVm5XMXNXa1NoTzlsdEt2a0RGSmhibGI0eTRXVF8xUWt1NEZUMnFKdXdTS0VNc1RKLUQ4a1hJVGNwODZkUnpRcVNOaWJ2ODk5dVBLM3BZOXgyRnVlbS1LNl9nZF9qc01QVF9fY2FZYS1xRmgwTXBlS2RsZVYwZWVITGFhQW9ENDVjMnQ5aHhodE92YWRtdl9KTDl3bTlpRjJSSG81QXQyNHJHTGFuLXFXMEo5YnJQV3hSeTNkYTFYMU1FUXJkeERlZVR6cDFDeU1xcThlNmdMNHE0N2FURGNSRDJ0eDBxbG1FZ3VCajgxOXVqU2pJTmhuTGhJVHVBak9KR2JZZmw5eXllNGhBY2cyb2pydHptbGlSRXJ5TWpSM2ZvaS1XNHc?oc=5",
-   "image": null,
-   "published": "2026-10-01T12:32:12.000Z",
-   "added": "2026-10-02T08:25:32.121Z",
-   "origTitle": "আন্তর্জাতিক কফি দিবসে জাহাঙ্গীর কবিরের কাছে কফি অ্যানেমা নিতে আসছেন ডোনাল্ড ট্রাম্প",
-   "en": {
-    "title": "This is satire: Trump visiting for coffee enema",
-    "summary": "This is a satirical story from eArki. The headline jokes that Donald Trump is coming to visit someone named Zahangir Kabir on International Coffee Day to get a coffee enema. It's not real news—just humour poking fun at celebrity culture and random viral ideas."
-   },
-   "bn": {
-    "title": "এটা হাসির খবর: ট্রাম্প আসছেন কফি এনেমার জন্য",
-    "summary": "এই একটি eআরকির হাসির খবর। খবরটা বলে যে ডোনাল্ড ট্রাম্প আন্তর্জাতিক কফি দিবসে জাহাঙ্গীর কবিরের কাছে কফি এনেমা নিতে যাচ্ছেন। এটা আসল খবর নয়—শুধু সেলিব্রিটি কালচার আর ভাইরাল জিনিস নিয়ে মজা।"
-   }
-  },
-  {
-   "id": "1cs30j4",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQci1WNUN1MnNlcm5ybFFFdkZDRzV2MmNLV0FGNE5PUk04bzFGRU5fQWstZ29iMDJ4Q3paRldaTHZBY1F0bUtPWVFOb3NjSnhtS05zQ3d5VTJFRy1yckF4WlQzMnVmVGQxcVZmejhVYXBrYzFYcmlLUXBjWWVEY2VwSXVxTDFrQlZaX0o5M3drU1pMTmxtbnRKcm91MU00UdIBowFBVV95cUxPUkMzLVVIWnZVNzY5T3lmSlRRYVZ3WncwRVRvU0NCUTFmTGJ3VzNyNkhhaG51QVBzeWdsdUZzZ3hyWHFsMzNocE41cXA0NndLemgzY243OUNyRklPRERiek9JeGpZOXNxMVJuWjN1UUxHeV9OYUVkNUdIODFpcG5kUThMQldseF93M29CaWNjMzgxTGt4ZVkzOGhIYjJLZ0pCV3pF?oc=5",
-   "image": null,
-   "published": "2026-10-01T16:55:44.000Z",
-   "added": "2026-10-02T08:25:32.121Z",
-   "origTitle": "Mahila Parishad: 252 women, girls subjected to violence in September",
-   "en": {
-    "title": "252 women, girls faced violence in September",
-    "summary": "According to Mahila Parishad, 252 women and girls were subjected to violence in September. The number reflects an ongoing crisis of violence against women in Bangladesh. Organizations like Mahila Parishad continue to document and advocate against such abuse."
-   },
-   "bn": {
-    "title": "সেপ্টেম্বরে ২৫২ নারী ও কন্যা নির্যাতিত",
-    "summary": "মহিলা পরিষদের মতে সেপ্টেম্বরে ২৫২ নারী ও কন্যা নির্যাতনের শিকার হয়েছেন। সংখ্যাটি বাংলাদেশে নারী নির্যাতনের চলমান সংকট প্রতিফলিত করে। মহিলা পরিষদের মতো সংস্থা এই ধরনের নির্যাতন নিয়ে কাজ চালিয়ে যাচ্ছে।"
-   }
-  },
-  {
-   "id": "636u0e",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "BSS",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMC1Ka3d0VG13VFIzZU1RN01Fd2JqcktfN2FRVm92NWV6bXBsazlpQlVNQ0NVOUpWVHhJNUtZbFhhUklSS2FnWHFLbDJGZ2N4OGdF?oc=5",
-   "image": null,
-   "published": "2026-10-01T15:49:02.000Z",
-   "added": "2026-10-02T08:25:32.121Z",
-   "origTitle": "PM inaugurates rooftop solar power systems in three Feni upazilas",
-   "en": {
-    "title": "PM opens rooftop solar systems in Feni",
-    "summary": "The Prime Minister inaugurated rooftop solar power systems in three upazilas of Feni district. The move aims to boost renewable energy in the region. Solar power is part of Bangladesh's push toward cleaner electricity."
-   },
-   "bn": {
-    "title": "ফেনীতে রুফটপ সোলার চালু করলেন প্রধানমন্ত্রী",
-    "summary": "প্রধানমন্ত্রী ফেনীর তিনটি উপজেলায় রুফটপ সোলার পাওয়ার সিস্টেম উদ্বোধন করেছেন। এই উদ্যোগ অঞ্চলে নবায়নযোগ্য শক্তি বৃদ্ধি করতে লক্ষ্য রাখে। সৌর শক্তি বাংলাদেশের পরিষ্কার বিদ্যুৎ পদক্ষেপের অংশ।"
-   }
-  },
-  {
-   "id": "q9s1z8",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "কালের কণ্ঠ",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QUjRRWFBmajhkQ2Q5MDFGdGdoNUdpelAwbkRZU0pTTUtVa1JnWjJROVRrMFlfeHc1aDdIS0liZWxVRGVhdG9vTnpqdXgtZkFaQkJPYXFiMVVTNHpYODVRODlISTRuQzNDcXdPbTZWQWdBeE5nd2c?oc=5",
-   "image": null,
-   "published": "2026-10-01T20:23:06.000Z",
-   "added": "2026-10-02T08:25:32.121Z",
-   "origTitle": "ইংল্যান্ড-দক্ষিণ আফ্রিকার গ্রুপে বাংলাদেশ",
-   "en": {
-    "title": "Bangladesh joins England and South Africa's group",
-    "summary": "Bangladesh has been drawn into a group with England and South Africa for an upcoming tournament. The grouping was confirmed after the draw. Now the team knows who they'll be facing in the opening stages."
-   },
-   "bn": {
-    "title": "বাংলাদেশ ইংল্যান্ড-দক্ষিণ আফ্রিকার গ্রুপে",
-    "summary": "আসন্ন টুর্নামেন্টে বাংলাদেশকে ইংল্যান্ড এবং দক্ষিণ আফ্রিকার সাথে একই গ্রুপে রাখা হয়েছে। ড্র সম্পন্ন হওয়ার পর গ্রুপিং নিশ্চিত করা হয়েছে। এখন টিম জানে তারা প্রথম পর্যায়ে কাদের সাথে খেলবে।"
-   }
-  },
-  {
-   "id": "8gv63v",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "Bangladesh Post",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWRFRjQxWThYdkNjV2pOazB6ZFpmSk42U2ZoNWpCamktUFYtSEE3TkV2cEhmai12aDJLVlpVZG42Vm91NFhuWUR1dG5mX0tZLWJLMk0wQVVGZjhLWFRHX1MtNHUybXNkUGYxczRnQ2pzenhPT1otNkl1VkxvTEE0Unc4c2RQYnRlS2pQWS1FYi1uRW9O?oc=5",
-   "image": null,
-   "published": "2026-10-01T21:00:59.000Z",
-   "added": "2026-10-02T08:25:32.121Z",
-   "origTitle": "Remittance inflows up 13% in July–September quarter",
-   "en": {
-    "title": "Remittances jump 13% this quarter",
-    "summary": "Bangladesh got a solid boost from money sent home by workers abroad during July to September. The 13% jump means families are getting more cash from relatives working overseas. This is good news for the economy and for millions of households depending on remittances."
-   },
-   "bn": {
-    "title": "জুলাই-সেপ্টেম্বরে রেমিট্যান্স ১৩% বাড়লো",
-    "summary": "বিদেশে কাজ করা বাংলাদেশিরা এই কোয়ার্টারে আগের চেয়ে ১৩% বেশি টাকা পাঠিয়েছেন। এই বৃদ্ধি পরিবারগুলোর জন্য ভালো খবর এবং দেশের অর্থনীতিতে ইতিবাচক। লক্ষ লক্ষ পরিবার রেমিট্যান্সের উপর নির্ভরশীল।"
-   }
-  },
-  {
-   "id": "17k81ng",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/district/45xdtc86mi",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-02/7vdmt9eh/moulavibazardh054220261002fbimg1790875993551.jpg",
-   "published": "2026-10-02T08:04:26.000Z",
-   "added": "2026-10-02T08:25:15.433Z",
-   "origTitle": "বিক্রির আগের দিন মরে ভেসে উঠেছে ৪০ বিঘা খামারের মাছ, দেখে অসুস্থ খামারি",
-   "en": {
-    "title": "Fish farm owner loses 35-40 lakh taka as 40 bighas die overnight",
-    "summary": "In Moulvibazar's Juri, a massive fish die-off at a 40-bigha farm devastated owner Ilyas Mia on Thursday morning. He was set to harvest and sell the next day. The sudden death of tilapia, silver carp, rohu and other species weighing 500g to 3kg each caused him to collapse. Ilyas hospitalized in Sylhet; his sons report losses of 35-40 lakh taka but don't know why the fish died."
-   },
-   "bn": {
-    "title": "৪০ বিঘা খামারে রাতে মাছ মারা যায়, খামারি হারান ৩৫-৪০ লাখ টাকা",
-    "summary": "মৌলভীবাজারের জুড়ীতে ৪০ বিঘা মাছের খামারে বৃহস্পতিবার সকাল সকালে অসংখ্য মাছ মরে ভেসে উঠেছে। খামারি ইলিয়াছ মিয়া শুক্রবার বিক্রয়ের জন্য প্রস্তুত ছিলেন কিন্তু এই দুর্ঘটনায় অসুস্থ হয়ে পড়েন এবং সিলেটের হাসপাতালে ভর্তি হন। তেলাপিয়া, সিলভার কার্প, রুইসহ বিভিন্ন জাতের মাছ মরেছে যার ক্ষতি ৩৫-৪০ লাখ টাকা।"
-   }
-  },
-  {
-   "id": "1q7yia3",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/zx3l4wdi7x",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-02/fg3eraml/prothomalo-bangla2026-10-0205dtzsfpWhatsApp-Image-2026-10-02-at-12.39.31-PM.avif",
-   "published": "2026-10-02T07:32:37.000Z",
-   "added": "2026-10-02T08:25:15.433Z",
-   "origTitle": "Salman Muqtadir’s father-in-law’s warehouse sealed over storage of duty-free liquor: DNC",
-   "en": {
-    "title": "Warehouse of content creator's in-law sealed over illegal liquor storage",
-    "summary": "The Department of Narcotics Control sealed a bonded warehouse in Gulshan belonging to Sheikh Nur Islam, father-in-law of content creator Salman Muqtadir, for storing duty-free liquor illegally. Inspectors found 144 beer cans, 12 whisky bottles and 6 vodka bottles, though software showed goods released. 2,250 cartons of Heineken entered as in-bond on September 3 were also missing from the warehouse."
-   },
-   "bn": {
-    "title": "কন্টেন্ট ক্রিয়েটরের শ্বশুরের গুদাম বন্ধ করা হয়েছে চোরাগোপ্তা মদ্য সংরক্ষণের জন্য",
-    "summary": "মাদক নিয়ন্ত্রণ বিভাগ গুলশানে একটি বন্ডেড গুদাম সিল করেছে যা শেখ নূর ইসলামের মালিকানায় রয়েছে, যিনি কন্টেন্ট ক্রিয়েটর সালমান মুক্তাদিরের শ্বশুর। তিনি ডিউটি-মুক্ত মদ্য অবৈধভাবে সংরক্ষণ করছিলেন। পরিদর্শকরা ১৪৪ বিয়ার ক্যান, ১২ উইস্কি বোতল এবং ৬ ভোডকা বোতল খুঁজে পান।"
-   }
-  },
-  {
-   "id": "1uqc4u4",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-28T022651Z_1758124644_RC2CMMA6WGXQ_RTRMADP_3_MALAYSIA-REFUGEE-1790681810.jpg?resize=1920%2C1440",
-   "published": "2026-10-02T08:14:18.000Z",
-   "added": "2026-10-02T08:25:15.433Z",
-   "origTitle": "‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation",
-   "en": {
-    "title": "Myanmar refugees in Malaysia fear deportation after 1,500 sent back",
-    "summary": "Malaysia deported nearly 1,500 Myanmar refugees on Tuesday as part of a deal to send at least 5,000 back. Refugee leaders report over 100 distressed calls daily from those fearing they are next. Immigration raids have increased sharply since June, detaining over 50,000 refugees this year. Officials conducted 37 raids per day on average through September 17."
-   },
-   "bn": {
-    "title": "মালয়েশিয়ায় মিয়ানমার শরণার্থীরা ১,৫০০ জন পাঠানোর পর ভীত",
-    "summary": "মালয়েশিয়া মঙ্গলবার প্রায় ১,৫০০ জন মিয়ানমার শরণার্থীকে নির্বাসিত করেছে। শরণার্থী নেতারা প্রতিদিন ১০০টিরও বেশি উদ্বিগ্ন কল পাচ্ছেন। জুন মাসের পর থেকে গৃহপ্রবেশ অভিযান তীব্রভাবে বৃদ্ধি পেয়েছে এবং এই বছর ৫০,০০০ এরও বেশি শরণার্থী আটক হয়েছে।"
-   }
-  },
-  {
-   "id": "1svvify",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/30e7ae70-be35-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-02T08:16:53.000Z",
-   "added": "2026-10-02T08:25:15.433Z",
-   "origTitle": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-   "en": {
-    "title": "Flydubai pilot describes cockpit fight for survival",
-    "summary": "Captain Smit Machchhar, the Indian pilot attacked by his co-pilot on the Flydubai flight to Tel Aviv, told PM Narendra Modi he fought for his life while determined to protect others. Though injured on the cockpit floor, he pushed himself to open the door from inside. Passengers and crew then helped overpower the attacker. The plane safely diverted to Tabuk, Saudi Arabia."
-   },
-   "bn": {
-    "title": "ফ্লাইদুবাই পাইলট বর্ণনা করেছেন কক্পিটে প্রাণ বাঁচানোর সংগ্রাম",
-    "summary": "ভারতীয় ক্যাপ্টেন স্মিত মাচ্ছার, যিনি ফ্লাইদুবাই বিমানে তার সহকারী পাইলটের আক্রমণের শিকার হয়েছিলেন, প্রধানমন্ত্রী নরেন্দ্র মোদিকে বলেছেন তিনি তার নিজের জীবনের জন্য লড়াই করছিলেন কিন্তু অন্যদের রক্ষা করতে প্রতিজ্ঞাবদ্ধ ছিলেন। আহত অবস্থায়ও তিনি ভিতর থেকে দরজা খুলতে চেষ্টা করেন। যাত্রী ও ক্রু তারপর আক্রমণকারীকে নিয়ন্ত্রণ করে এবং বিমান সৌদি আরবের তাবুকে নিরাপদে অবতরণ করে।"
-   }
-  },
-  {
-   "id": "fwof6e",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/971906/%E0%A6%AE%E0%A7%87%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6%E0%A6%AA%E0%A7%81%E2%80%8C%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A6%BF%E0%A6%A4%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE",
-   "image": null,
-   "published": "2026-10-02T08:19:13.000Z",
-   "added": "2026-10-02T08:25:15.433Z",
-   "origTitle": "গির্জা থেকে চুরি যাওয়া পিতলের ঘণ্টা উদ্ধার",
-   "en": {
-    "title": "Police recover brass bell stolen from Dhaka church",
-    "summary": "Dhaka police recovered a 70-kilogram brass bell stolen from Saint Paul School and Church in Mohammadpur. Officers found the bell wrapped in white plastic in a dustbin near Zakir Hosen Road on Thursday night at 2:50 AM. The church is located at 92 Asad Avenue near the WASA building."
-   },
-   "bn": {
-    "title": "ঢাকার গির্জা থেকে চুরি পিতলের ঘণ্টা উদ্ধার",
-    "summary": "মোহাম্মদপুরের সেইন্ট পল স্কুল অ্যান্ড চার্চ থেকে চুরি হওয়া ৭০ কেজি ওজনের পিতলের ঘণ্টা পুলিশ উদ্ধার করেছে। বৃহস্পতিবার রাত ২টা ৫০ মিনিটে জাকির হোসেন রোডের একটি ডাস্টবিনের পাশ থেকে সাদা পলিথিনে মোড়ানো অবস্থায় ঘণ্টাটি পাওয়া যায়। চার্চটি আসাদ অ্যাভিনিউতে ওয়াসা ভবনের সামনে অবস্থিত।"
-   }
-  },
-  {
-   "id": "hmr5a0",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cwr7d7xg9dk8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
-   "published": "2026-10-02T03:37:40.000Z",
-   "added": "2026-10-02T08:25:15.433Z",
-   "origTitle": "ফ্লাইদুবাই হামলাকারী 'ইসলামপন্থী চরমপন্থায় দীক্ষিত' ছিল, দাবি নেতানিয়াহুর",
-   "en": {
-    "title": "Flydubai co-pilot attack: Netanyahu claims attacker was radicalized",
-    "summary": "Israeli PM Benjamin Netanyahu says the co-pilot who attacked a Flydubai flight from Dubai to Tel Aviv on Wednesday was trained in Islamist extremism. The plane plunged over 17,000 feet before passengers and crew subdued the attacker. Netanyahu told Fox News the co-pilot, an Omani citizen, likely wanted to crash the plane. He repeatedly told crew to kill him, suggesting suicidal intent. UAE authorities are investigating."
-   },
-   "bn": {
-    "title": "ফ্লাইদুবাই হামলা: নেতানিয়াহু দাবি করেছেন আক্রমণকারী উগ্রপন্থী ছিল",
-    "summary": "ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু বলেছেন, দুবাই থেকে তেল আবিবগামী ফ্লাইদুবাই বিমানে সহকারী পাইলটকে আক্রমণ করা ব্যক্তি ইসলামপন্থী চরমপন্থায় প্রশিক্ষিত ছিল। বুধবার এই বিমান ১৭ হাজার ফুট নিচে পড়ে যায়। যাত্রী ও ক্রু মিলে আক্রমণকারীকে পরাস্ত করে পুনরায় নিয়ন্ত্রণ নেয়। নেতানিয়াহু বলেন, আক্রমণকারী আত্মঘাতী হতে চেয়েছিল এবং সে ওমানের নাগরিক।"
    }
   }
  ]
