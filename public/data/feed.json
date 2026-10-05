@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-04T21:19:24.082Z",
+ "updatedAt": "2026-10-05T00:48:41.670Z",
  "items": [
+  {
+   "id": "1ljllv2",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/south-asia-needs-regional-energy-partnership-withstand-global-trade-shocks-experts",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/south_asia_energy_partnership_global_trade.png",
+   "published": "2026-10-04T18:55:00.000Z",
+   "added": "2026-10-05T00:48:41.669Z",
+   "origTitle": "South Asia needs regional energy partnership to withstand global trade shocks: Experts",
+   "en": {
+    "title": "South Asia needs stronger energy and trade ties",
+    "summary": "Experts at the Bay of Bengal Conversation 2026 in Dhaka say South Asian countries must deepen regional partnerships in energy, trade and investment to handle global disruptions. They pointed to the US-China trade war, Israel-Iran conflict, and Russia-Ukraine war as major shocks. Leaders called for reviving SAARC cooperation and building a regional power hub with Bangladesh, India, Nepal and Bhutan."
+   },
+   "bn": {
+    "title": "দক্ষিণ এশিয়া চায় শক্তিশালী আঞ্চলিক সহযোগিতা",
+    "summary": "ঢাকায় অনুষ্ঠিত বে অফ বেঙ্গল কথোপকথনে বিশেষজ্ঞরা বলেছেন, বৈশ্বিক বাণিজ্যের ধাক্কা মোকাবেলায় দক্ষিণ এশীয় দেশগুলোকে শক্তি, বাণিজ্য ও বিনিয়োগে আঞ্চলিক সহযোগিতা গভীর করতে হবে। আমেরিকা-চীন বাণিজ্য যুদ্ধ, ইসরায়েল-ইরান দ্বন্দ্ব এবং রাশিয়া-ইউক্রেইন যুদ্ধ এই সংকটের কারণ বলে তারা চিহ্নিত করেছেন। তারা সার্ক পুনরুজ্জীবন এবং বাংলাদেশ, ভারত, নেপাল ও ভুটান নিয়ে একটি আঞ্চলিক শক্তি কেন্দ্র গঠনের আহ্বান জানিয়েছেন।"
+   }
+  },
+  {
+   "id": "1u903px",
+   "section": "hasi",
+   "cat": "world",
+   "tone": "light",
+   "satire": true,
+   "src": "eArki",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxOWWQxZlVYUV83cWNhYmRqRDI4Rm1MbktjSU5CTVhfT3lVekRJYmRXSGVLOW1uMFIwVEpPeDZzbElvTll4cXI0aUcyWHIwNWNkNFhpQXBpdU5SYzVqYWU3MEtIV25lMmFhMTMwSm9OOWJZRjExSGJ5NFJ2aUFwQzNIcVh0SEZpU096SDJhWG5DdVBYb0JtY2wwVGU4bnJVQW9iT2VuZy1XWHRwU0N1ZExYMGRGZHR0Z0dxSW42UDl0VXZBcVFGUFZQNXFGUzdPRWZpTWRqaF9SWVJHZk8tN3draW9aOWxsd0tiWW0tU2wtR09iZDlnSkhnMllRNHE3MHhUSXVNa0N1ZjVnWVRUbjI3U0FqUnhMRzFvaG5HS1V1djZOVm4xdzlvQzNOQVFCck1kNjZLV3gwLXgwLXdwcmFHc3o5U0RsUHNaRjd1NG03Q2N0U3ZXc0JUNk1HSy1kZnl5TS1sRUh4a3NYVDRCOGo0MHdSV1QxUGN1Y0tYZXY4S2hQd3F1bHdiNF81UlpGV29kYWhwRGotNmxpUV84MEJvZkl0OWxqTUxoYzhaanVZQi1jbHI0bG43WFlZa1FxVDBiWFl2dWxFbG0yN2RBd2owaHAwcnBBSGJEbUxkT0UyR3VLMV92RUtwb1ZWdmc0U0FYOHZHZEZZTmE5d0hUb2dkUkFibnpOVWpTb20tYkZ2MDNsREFIS1RkRVVNaHptYWdlaVhkTWppbDIzZGhfN3g3ZFUwS1A5d0RyLXV4Wnc3UXpaYXg0?oc=5",
+   "image": null,
+   "published": "2026-10-04T09:55:22.000Z",
+   "added": "2026-10-05T00:48:41.669Z",
+   "origTitle": "সব রাজাকারের বাচ্চারা আন্দোলন করতেছে: ফ্রান্সের চলমান ছাত্র আন্দোলন প্রসঙ্গে মাখোঁ",
+   "en": {
+    "title": "Satire: eArki on France student protests",
+    "summary": "[SATIRE] This is satire from eArki making a joke about France's student movement. Not a real news story—just a funny take on current events. Read for laughs, not facts."
+   },
+   "bn": {
+    "title": "ব্যঙ্গ: ফ্রান্সের ছাত্র আন্দোলন নিয়ে eআরকির মন্তব্য",
+    "summary": "[ব্যঙ্গাত্মক সংবাদ] এটা eআরকির তরফ থেকে ফ্রান্সের ছাত্র আন্দোলন নিয়ে একটি হাসির মন্তব্য মাত্র। এটা বাস্তব খবর নয়—শুধু বর্তমান ঘটনা নিয়ে মজার কথা। হাসির জন্য পড়ুন, তথ্যের জন্য নয়।"
+   }
+  },
+  {
+   "id": "fgv4nq",
+   "section": "news",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "The Financial Express",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMEQwWUhVQmxNNUFUeWJCaUZOV21LdnJ6OFNBd1ZZUFNxVHFMdWJxYWhEVGNBRVZXU2tzM0Y5UVlqMVhoNW1Od2ttb01VUTBMajlSUGhINzN6ak1OM0JyRUdwTFpNbmJjRENGelFEdTZJYUoySHlMMndJb2tSZ0VhVWFEMWdrZU5wZzl1MlZiZTRaX0pGNWhRb2ZNQkQxZlZteG9majZhRElYdlZwVWxOc1Z3cmE3ZGpwNThsQ25hdWNmMEtNSF9TYjFacU7SAcwBQVVfeXFMTjBEMFlIVUJsTTVBVHliQmlGTldtS3ZyejhTQXdWWVBTcVRxTHVicWFoRFRjQUVWV1NrczNGOVFZajFYaDVtTndrbW9NVVEwTGo5UlBoSDczempNTjNCckVHcExaTW5iY0RDRnpRRHU2SWFKMkh5TDJ3SW9rUmdFYVVhRDFna2VOcGc5dTJWYmU0Wl9KRjVoUW9mTUJEMWZWbXhvZmo2YURJWHZWcFVsTnNWd3JhN2RqcDU4bENuYXVjZjBLTUhfU2IxWnFO?oc=5",
+   "image": null,
+   "published": "2026-10-04T18:00:00.000Z",
+   "added": "2026-10-05T00:48:41.669Z",
+   "origTitle": "Bangladesh 'at risk' as Australia rejects record student visas",
+   "en": {
+    "title": "Australia rejecting record Bangladesh student visas",
+    "summary": "Australia is turning down a record number of student visa applications from Bangladesh, putting the country's education dreams at risk. No specific numbers or reasons are given in the report, but this could affect thousands of young people planning to study abroad. The rejection rate marks a shift in Australia's approach to international students."
+   },
+   "bn": {
+    "title": "অস্ট্রেলিয়া বাংলাদেশি শিক্ষার্থীদের ভিসা অস্বীকার করছে রেকর্ড সংখ্যায়",
+    "summary": "অস্ট্রেলিয়া এখন বাংলাদেশি শিক্ষার্থীদের স্টুডেন্ট ভিসার আবেদন রেকর্ড সংখ্যায় প্রত্যাখ্যান করছে, যা শিক্ষার্থীদের বিদেশে পড়ার স্বপ্নে বাধা সৃষ্টি করছে। এই পরিস্থিতি হাজার হাজার তরুণকে প্রভাবিত করতে পারে। অস্ট্রেলিয়ার আন্তর্জাতিক শিক্ষার্থী নীতিতে একটি বড় পরিবর্তন আসছে দেখাচ্ছে এটি।"
+   }
+  },
+  {
+   "id": "9iji04",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Daily Star",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGlzMlo1RUk3WnU4LVQ4YXN0Rl9xWndTdkVzNF9ULV8yZDY2ZnVBTVRpVUxuWmkxeUtpaVV6ZlRtdGpwNk0wTVVnLVRDajBvWTdYVDZUVktiSjlXdmNZUlE1T1pWZHdhcjF0SHE5QlR0djJaUkl3cFJvaEpLdmU1X0pnNDR2RFJUcHlXdm5pVHo5ZHc5M3YzVjhZUGx2WkpyZ1Q3Qk95MFg1U1RjMjh4Z193?oc=5",
+   "image": null,
+   "published": "2026-10-04T19:30:52.000Z",
+   "added": "2026-10-05T00:48:28.808Z",
+   "origTitle": "Spare parts, equipment shortages leave Biman ‘vulnerable’",
+   "en": {
+    "title": "Biman Bangladesh faces spare parts shortage",
+    "summary": "Biman Bangladesh Airlines is facing critical shortages of spare parts and equipment, leaving the national carrier in a vulnerable position. The lack of maintenance resources is affecting operational efficiency and reliability."
+   },
+   "bn": {
+    "title": "বিমান বাংলাদেশ যন্ত্রাংশের সংকটে",
+    "summary": "বিমান বাংলাদেশ এয়ারলাইন্স যন্ত্রাংশ ও সরঞ্জামের সংকটে ভুগছে। এর ফলে জাতীয় বিমান সংস্থা দুর্বল অবস্থানে রয়েছে। রক্ষণাবেক্ষণ সরঞ্জামের অভাব পরিচালনায় সমস্যা সৃষ্টি করছে।"
+   }
+  },
+  {
+   "id": "oeofcl",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1557128.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/420700/420784.jpg",
+   "published": "2026-10-04T15:10:10.000Z",
+   "added": "2026-10-05T00:48:28.808Z",
+   "origTitle": "Labuschagne scores century in low-intensity Potchefstroom warm-up",
+   "en": {
+    "title": "Labuschagne scores century in warm-up match",
+    "summary": "Marnus Labuschagne hit a century during a warm-up match in Potchefstroom ahead of Australia's first Test against South Africa next week in Durban. The strong form suggests he is likely to keep his spot at number three in the batting order for the opening Test."
+   },
+   "bn": {
+    "title": "ওয়ার্ম-আপে ল্যাবুসচান শতক করলেন",
+    "summary": "মার্নাস ল্যাবুসচান পটচেফস্ট্রুমে একটি ওয়ার্ম-আপ ম্যাচে শতক করেছেন। এটি পরের সপ্তাহে ডারবানে দক্ষিণ আফ্রিকার বিরুদ্ধে অস্ট্রেলিয়ার প্রথম টেস্টের আগে। এই ফর্ম দেখে মনে হচ্ছে তিনি নম্বর তিনে তার স্থান ধরে রাখবেন।"
+   }
+  },
+  {
+   "id": "1gkcx0q",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-04T160843Z_936785478_RC2EWNAY0MJL_RTRMADP_3_IRAN-CRISIS-YEMEN-1791157330.jpg?resize=1920%2C1440",
+   "published": "2026-10-05T00:00:00.000Z",
+   "added": "2026-10-05T00:48:28.808Z",
+   "origTitle": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+   "en": {
+    "title": "Yemen fighting escalates; Iran readies defense",
+    "summary": "Yemen's government has announced a major offensive against Houthi forces as regional tensions rise. Iran says it is prepared to defend itself if attacked by the US. The escalation marks an intensification of the ongoing conflict in the region."
+   },
+   "bn": {
+    "title": "ইয়েমেনে লড়াই তীব্র; ইরান প্রস্তুত",
+    "summary": "ইয়েমেনের সরকার হুতিবাহিনীর বিরুদ্ধে বড় আক্রমণ ঘোষণা করেছে। ইরান বলেছে যে যদি আমেরিকা আক্রমণ করে, তারা নিজেদের রক্ষা করতে প্রস্তুত। অঞ্চলে সংঘাতের তীব্রতা বাড়ছে।"
+   }
+  },
+  {
+   "id": "nih466",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/dhaka/972440/%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF-%E0%A6%AC%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8-%E2%80%98%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE",
+   "image": null,
+   "published": "2026-10-05T00:35:00.000Z",
+   "added": "2026-10-05T00:48:28.808Z",
+   "origTitle": "সাংবাদিকদের ডেকে বিএনপির এমপি বললেন, ‘সাংবাদিকতা শিখিয়ে দেবো’",
+   "en": {
+    "title": "BNP MP threatens journalists over coverage",
+    "summary": "Tamizuddin, MP for Dhaka-20 (Dhamrai), called journalists to his rice mill on Sunday and warned them against future critical reporting on political matters or BNP. He said he would 'teach them journalism' if they reported 'unfairly' against BNP. The incident happened at a press conference he organized at his own facility."
+   },
+   "bn": {
+    "title": "সাংবাদিকদের হুমকি দিলেন বিএনপি এমপি",
+    "summary": "ঢাকা-২০ (ধামরাই) আসনের সংসদ সদস্য তমিজ উদ্দিন রবিবার সাংবাদিকদের তার চাল কল মিল কিষান কোল্ড স্টোরেজে ডেকে নিয়েছেন। সেখানে তিনি বলেন, যদি সাংবাদিকরা রাজনৈতিক বিষয়ে বা বিএনপির বিপক্ষে 'অন্যায়ভাবে' কিছু বলেন, তাহলে তিনি তাদের 'সাংবাদিকতা শিখিয়ে দেবেন'। এটি তার নিজস্ব আয়োজিত সংবাদ সম্মেলনে ঘটেছে।"
+   }
+  },
   {
    "id": "sbc1g0",
    "section": "news",
@@ -2507,50 +2661,6 @@
    "bn": {
     "title": "ট্রাম্পের বিরোধে চাগোস চুক্তি আটকে আছে",
     "summary": "যুক্তরাজ্য এবং মরিশাসের মধ্যে ২০২৫ সালের মে মাসে স্বাক্ষরিত একটি চুক্তি চাগোসিয়ানদের তাদের ভারত মহাসাগরীয় দ্বীপে ফিরে যেতে দেবে, কিন্তু আমেরিকার রাষ্ট্রপতি ট্রাম্পের বিরোধের কারণে চুক্তিটি এখনো কার্যকর হয়নি। ১৯৬৮ থেকে ১৯৭৩ সালের মধ্যে ব্রিটেন প্রায় ১,৪০০ থেকে ১,৭০০ চাগোসিয়ানকে জোরপূর্বক সরিয়ে নিয়েছিল। চাগোস শরণার্থীরা বলছেন, ২০১৯ সালের আন্তর্জাতিক আদালতের মতামত এবং ২০২১ সালের একটি ট্রাইব্যুনালের রায় তাদের অধিকার সমর্থন করে।"
-   }
-  },
-  {
-   "id": "pfb5xs",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/court/hc-issues-rule-remove-illegal-brick-kilns-two-upazilas-lakshmipur-1560181",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/15/brick_kilns.jpg",
-   "published": "2026-10-01T20:05:00.000Z",
-   "added": "2026-10-01T21:47:10.730Z",
-   "origTitle": "HC issues rule to remove illegal brick kilns in two upazilas of Lakshmipur",
-   "en": {
-    "title": "High Court orders removal of illegal brick kilns in Lakshmipur",
-    "summary": "Bangladesh's High Court has ordered authorities to explain why illegal brick kilns in Lakshmipur's Ramgati and Kamalnagar upazilas should not be removed. The rule was issued by a bench of Justice Razik-Al-Jalil and Justice Debasish Roy Chowdhury after hearing a writ petition by Ashraful Alam Hannan. Respondents have four weeks to reply."
-   },
-   "bn": {
-    "title": "লক্ষ্মীপুরে অবৈধ ইট ভাটা সরানোর নির্দেশ",
-    "summary": "হাইকোর্ট লক্ষ্মীপুরের রামগতি এবং কমলনগর উপজেলার অবৈধ ইট ভাটা সরানোর আদেশ দিয়েছে। জাস্টিস রাজিক-আল-জলিল এবং জাস্টিস দেবাশীষ রায় চৌধুরীর বেঞ্চ এই রুল জারি করেছে। আশ্রাফুল আলম হান্নান নামের একজন যাত্রী এই আবেদন দায়ের করেছিলেন।"
-   }
-  },
-  {
-   "id": "3jltoj",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/sport/football/971858/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A7%9F-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0",
-   "image": null,
-   "published": "2026-10-01T21:16:24.000Z",
-   "added": "2026-10-01T21:47:10.730Z",
-   "origTitle": "সার্বিয়াকে হারিয়ে স্বস্তির জয় জার্মানির",
-   "en": {
-    "title": "Germany beats Serbia, finally gets first Klopp win",
-    "summary": "Germany beat Serbia 2-0 in the UEFA Nations League on Thursday at Munich's Allianz Arena under new coach Jürgen Klopp. It was their first win in three matches. Tom Bissuma scored after Florian Wirtz's shot hit the post. The hosts controlled the match from the start."
-   },
-   "bn": {
-    "title": "সার্বিয়াকে হারিয়ে জার্মানির প্রথম জয়",
-    "summary": "জার্মানি ইউয়েফা নেশন্স লিগে সার্বিয়াকে ২-০ গোলে হারিয়েছে। এটি ক্লপের তত্ত্বাবধানে তৃতীয় ম্যাচে প্রথম জয়। বৃহস্পতিবার মিউনিখের আলিয়াঞ্জ অ্যারেনায় ম্যাচ হয়েছিল। ফ্লোরিয়ান ভির্টজের শট পোস্টে লেগে ফিরে এলে টম বিসফ গোল দেন।"
    }
   }
  ]

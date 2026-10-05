@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-04T21:19:38.907Z",
+ "updatedAt": "2026-10-05T00:48:54.075Z",
  "burning": [
   {
-   "id": "1hxy4pu",
+   "id": "oeofcl",
    "heat": 5,
    "why": {
-    "en": "Portugal vs Norway UEFA Nations League match dominating search with 50,000+ traffic; multiple outlets covering.",
-    "bn": "পর্তুগাল বনাম নরওয়ে ম্যাচ ৫০,০০০+ সার্চ ট্রেন্ডিং; বহু আউটলেট কভার করছে।"
+    "en": "Portugal-Norway match dominated Google Trends with 20,000+ searches; major sports story of the day.",
+    "bn": "পর্তুগাল-নরওয়ে ম্যাচ গুগল ট্রেন্ডে ২০,০০০+ সার্চ পেয়েছে; দিনের বড় খেলাধুলার গল্প।"
    },
    "rank": 1
   },
   {
-   "id": "9o97zk",
+   "id": "185mo19",
    "heat": 5,
    "why": {
-    "en": "LPG cylinder price spike (Tk 252 jump) trending at 200+ searches; consumer impact story dominating.",
-    "bn": "এলপিজি সিলিন্ডার দাম বৃদ্ধি (২৫২ টাকা) ২০০+ সার্চে ট্রেন্ডিং; ভোক্তা প্রভাব বড় খবর।"
+    "en": "Airport gold smuggling case (16 crore taka) covered by multiple outlets with growing details.",
+    "bn": "বিমানবন্দরে সোনা পাচার (১৬ কোটি টাকা) একাধিক মিডিয়ায় আপডেট হচ্ছে।"
    },
    "rank": 2
   },
   {
-   "id": "1uh8kyt",
+   "id": "obkvsa",
    "heat": 4,
    "why": {
-    "en": "West Indies cricket match against India with Chase's 162 runs getting coverage; sports engagement high.",
-    "bn": "ওয়েস্ট ইন্ডিজ ভারত ক্রিকেট ম্যাচ; চেজের ১৬২ রানের গল্প।"
+    "en": "LPG price jump (252 taka) trending with 500+ searches; direct impact on households.",
+    "bn": "এলপিজি দাম বৃদ্ধি (২৫২ টাকা) ৫০০+ সার্চ পেয়েছে; মানুষের জীবনে সরাসরি প্রভাব।"
    },
    "rank": 3
   },
   {
-   "id": "17ri9kg",
+   "id": "83yu5d",
    "heat": 4,
    "why": {
-    "en": "Brazil 4-0 thrashing India in Kolkata friendly matching trending Brazil football search (500+).",
-    "bn": "ব্রাজিল ভারতকে ৪-০ গোলে হারিয়েছে কোলকাতায়; ব্রাজিল ফুটবল ট্রেন্ড চলছে।"
+    "en": "Pritam-Shetaj marriage split trending on Google with 100+ searches; major celeb news.",
+    "bn": "প্রীতম-শেহতাজ বিবাহবিচ্ছেদ গুগলে ট্রেন্ডিং (১০০+ সার্চ); বড় সেলিব্রিটি খবর।"
    },
    "rank": 4
   },
   {
-   "id": "185mo19",
+   "id": "1i8jz0l",
    "heat": 3,
    "why": {
-    "en": "Airport gold smuggling arrest (16 crore taka) widely covered; domestic security story.",
-    "bn": "এয়ারপোর্টে ১৬ কোটি টাকার সোনা জব্দ; দেশব্যাপী নিরাপত্তা খবর।"
+    "en": "Dengue death of child without warning signs raises public health concern.",
+    "bn": "কোনো লক্ষণ ছাড়াই শিশুর ডেঙ্গু মৃত্যু জনস্বাস্থ্য উদ্বেগ তৈরি করছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1hxy4pu",
-   "tag": "#PortugalFootball",
+   "id": "oeofcl",
+   "tag": "#ফুটবল",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Portugal reaches Nations League quarters",
-    "text": "Portugal beat Norway and secured a spot in the UEFA Nations League quarter-finals. The match is trending massively with 50,000+ searches."
+    "title": "Portugal beats Norway in Nations League",
+    "text": "Gonçalo Ramos scored a late winner as Portugal advanced to the Nations League quarter-finals with a 2-1 victory over Norway."
    },
    "bn": {
-    "title": "পর্তুগাল চূড়ান্ত পর্যায়ে",
-    "text": "পর্তুগাল নরওয়েকে হারিয়ে ইউরোপীয়ান নেশনস লিগ কোয়ার্টারফাইনালে উঠেছে। ৫০,০০০+ সার্চ ট্রেন্ডিং।"
+    "title": "পর্তুগাল নরওয়েকে হারিয়ে এগিয়ে",
+    "text": "গোনসালো রামোস দেরিতে গোল করে পর্তুগালকে নেশনস লিগ কোয়ার্টারে নিয়ে গেলেন। স্কোর ২-১।"
    }
   },
   {
-   "id": "9o97zk",
-   "tag": "#GasPriceHike",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "LPG cylinder jumps 252 taka",
-    "text": "A 12kg LPG cylinder now costs Tk 1,837 after a Tk 252 price spike. Consumers are already paying far above the official rate in many areas."
-   },
-   "bn": {
-    "title": "এলপিজির দাম ২৫২ টাকা বেড়েছে",
-    "text": "১২ কেজি এলপিজি সিলিন্ডার এখন ১,৮৩৭ টাকায়। ভোক্তারা অনেক জায়গায় আরও বেশি দাম দিচ্ছেন।"
-   }
-  },
-  {
-   "id": "1uh8kyt",
-   "tag": "#WestIndiesCricket",
+   "id": "83yu5d",
+   "tag": "#সেলিব্রিটি",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "West Indies chase down 352 vs India",
-    "text": "West Indies beat India by chasing 352 runs. Hope played a match-winning knock of 162 runs in a thrilling cricket encounter."
+    "title": "Pritam and Shetaj end 10-year marriage",
+    "text": "The couple announced their separation after a decade together, citing personal differences as the reason for their split."
    },
    "bn": {
-    "title": "ওয়েস্ট ইন্ডিজ ভারতকে হারিয়েছে",
-    "text": "চেজ করে ৩৫২ রান তাড়িয়ে ভারতকে হারিয়েছে ওয়েস্ট ইন্ডিজ। হোপ ১৬২ রান করেছেন।"
+    "title": "প্রীতম-শেহতাজ ১০ বছরের বিয়ে শেষ",
+    "text": "দম্পতি ব্যক্তিগত মতানৈক্যের কারণে বিয়ে শেষ করার ঘোষণা দিয়েছেন।"
    }
   },
   {
-   "id": "17ri9kg",
-   "tag": "#BrazilFootball",
+   "id": "obkvsa",
+   "tag": "#এলপিজি",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Brazil crushes India 4-0 in Kolkata",
-    "text": "Brazil thrashed India 4-0 in a friendly match in Kolkata. Brazil football searches are trending at 500+ right now."
+    "title": "Gas cylinder prices spike by 252 taka",
+    "text": "LPG cylinder prices jumped sharply as fuel costs increased, pushing a 12kg cylinder to 1,837 taka and hitting household budgets."
    },
    "bn": {
-    "title": "ব্রাজিল ভারতকে ৪-০ গোলে হারিয়েছে",
-    "text": "কোলকাতায় বন্ধুত্বপূর্ণ ম্যাচে ব্রাজিল ভারতকে ৪-০ গোল দিয়ে হারিয়েছে।"
+    "title": "এলপিজি দাম ২৫২ টাকা বেড়েছে",
+    "text": "জ্বালানি খরচ বাড়ায় সিলিন্ডার দাম উল্লেখযোগ্যভাবে বৃদ্ধি পেয়েছে। ১২ কেজি সিলিন্ডার এখন ১,৮৩৭ টাকায়।"
    }
   }
  ],
