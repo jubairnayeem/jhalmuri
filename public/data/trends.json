@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-05T15:55:53.510Z",
+ "updatedAt": "2026-10-05T22:34:34.508Z",
  "burning": [
   {
-   "id": "nyq7qs",
+   "id": "1dhmyrk",
    "heat": 5,
    "why": {
-    "en": "Two outlets covering Durga Puja break approval, trending heavily on Google Trends.",
-    "bn": "দুর্গাপূজার ছুটি নিয়ে দুটি আউটলেট কভার করেছে, গুগল ট্রেন্ডে ভাইরাল।"
+    "en": "Durga Puja break approved—major cultural news covered by multiple outlets.",
+    "bn": "দুর্গা পূজার ছুটি অনুমোদিত হয়েছে—একাধিক আউটলেট থেকে বড় সাংস্কৃতিক খবর।"
    },
    "rank": 1
   },
   {
-   "id": "skr28l",
-   "heat": 4,
+   "id": "11rsc5v",
+   "heat": 5,
    "why": {
-    "en": "Military plane crash with 32 people aboard gets international news coverage.",
-    "bn": "৩২ জন নিয়ে সামরিক বিমান বিধ্বস্ত হওয়ায় আন্তর্জাতিক খবর।"
+    "en": "Mass casualty crisis in Yemen drawing international attention.",
+    "bn": "ইয়েমেনে বড় ক্ষতির ঘটনা আন্তর্জাতিক মনোযোগ আকর্ষণ করছে।"
    },
    "rank": 2
+  },
+  {
+   "id": "1arj31g",
+   "heat": 4,
+   "why": {
+    "en": "Jamaat mayoral candidates announcement sparks political discussion.",
+    "bn": "জামাত নির্বাচনী প্রার্থী ঘোষণা রাজনীতিতে আলোচনা সৃষ্টি করছে।"
+   },
+   "rank": 3
   },
   {
    "id": "185mo19",
    "heat": 4,
    "why": {
-    "en": "Airport gold smuggling bust with large amount catches local attention.",
-    "bn": "বিমানবন্দরে ১৬ কোটি টাকার সোনা জব্দ, স্থানীয় মনোযোগ পাচ্ছে।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "x4oxia",
-   "heat": 3,
-   "why": {
-    "en": "Apex Foods profit surge and share jump signals market movement.",
-    "bn": "এপেক্স ফুডসের লাভ ১২১% বেড়েছে, শেয়ার ১৯% উঠেছে।"
+    "en": "Large gold smuggling bust at airport—major crime story.",
+    "bn": "বিমানবন্দরে বড় স্বর্ণ চোরাচালানি ধরা পড়েছে।"
    },
    "rank": 4
   },
   {
-   "id": "1i8jz0l",
-   "heat": 3,
+   "id": "1fy3g7o",
+   "heat": 4,
    "why": {
-    "en": "Dengue death of physician's child highlights health crisis urgency.",
-    "bn": "ডাক্তারের সন্তান ডেঙ্গুতে মারা গেছে, স্বাস্থ্য সংকট তুলে ধরে।"
+    "en": "University hall principal suspended over journalist assault—press freedom issue.",
+    "bn": "সাংবাদিক নিপীড়নে বিশ্ববিদ্যালয় প্রশাসক স্থগিত—সংবাদ স্বাধীনতার প্রশ্ন।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "nyq7qs",
-   "tag": "#দুর্গাপূজা",
+   "id": "dvxpti",
+   "tag": "#BrazilElection",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Five straight days off for Puja",
-    "text": "Bangladesh approved a five-day Durga Puja break in October. The move is sparking conversation about holiday schedules and celebration time."
+    "title": "Brazil's right wing surges",
+    "text": "Bolsonaro-backed candidate leads Brazil's first-round presidential vote, making waves globally. The election is dominating search trends across multiple regions."
    },
    "bn": {
-    "title": "দুর্গাপূজায় পাঁচ দিনের ছুটি",
-    "text": "বাংলাদেশ অক্টোবরে দুর্গাপূজার জন্য টানা পাঁচ দিনের ছুটি অনুমোদন করেছে। ছুটির সময়সূচী নিয়ে কথোপকথন বাড়ছে।"
-   }
-  },
-  {
-   "id": "9o97zk",
-   "tag": "#এলপিজি",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Gas cylinder prices jump",
-    "text": "LPG cylinder prices spiked by 252 taka, now at 1,837 taka. Rising fuel costs are hitting household budgets hard."
-   },
-   "bn": {
-    "title": "এলপিজি দাম লাফিয়ে বেড়েছে",
-    "text": "সিলিন্ডারের দাম ২৫২ টাকা বেড়ে এখন ১,৮৩৭ টাকা। জ্বালানি খরচ বাড়ছে, পরিবারের বাজেট চাপ পড়ছে।"
+    "title": "ব্রাজিলে ডান পন্থার উত্থান",
+    "text": "বলসোনারো সমর্থিত প্রার্থী ব্রাজিলের প্রথম রাউন্ডের নির্বাচনে এগিয়ে আছে। এই নির্বাচন বিশ্বজুড়ে আলোচনা সৃষ্টি করছে।"
    }
   },
   {
    "id": "s0z8qb",
-   "tag": "#ক্রিকেট",
+   "tag": "#CricketNews",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "West Indies cricket reshuffle",
+    "text": "West Indies call up Amir Jangoo to replace injured Jewel Andrew. Sports fans tracking squad changes ahead of upcoming matches."
+   },
+   "bn": {
+    "title": "ওয়েস্ট ইন্ডিজ দল পরিবর্তন",
+    "text": "ওয়েস্ট ইন্ডিজ আমির জাঙ্গো কে আহ্বান জানিয়েছে আহত জুয়েল অ্যান্ড্রুর স্থানে। ক্রীড়া প্রেমীরা আসন্ন ম্যাচের দল নিয়ে আলোচনা করছে।"
+   }
+  },
+  {
+   "id": "hjll3d",
+   "tag": "#NobelPrize",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "West Indies call up replacement",
-    "text": "West Indies brought in Amir Jangoo to replace injured Jewel Andrew. Squad changes are keeping cricket fans watching."
+    "title": "Nobel Prize for brain science",
+    "text": "Nobel Prize awarded for research on brain emotions and behavior. Major recognition for groundbreaking neuroscience work."
    },
    "bn": {
-    "title": "ওয়েস্ট ইন্ডিজ নতুন খেলোয়াড়",
-    "text": "আমির জাঙ্গুকে ডাকা হয়েছে জুয়েল অ্যান্ড্রুর জায়গায়। দলের পরিবর্তন নিয়ে ক্রিকেট ভক্তরা নজর রাখছেন।"
+    "title": "মস্তিষ্ক গবেষণায় নোবেল",
+    "text": "মস্তিষ্কের আবেগ এবং আচরণ গবেষণায় নোবেল পুরস্কার প্রদান করা হয়েছে।"
+   }
+  },
+  {
+   "id": "9iji04",
+   "tag": "#BimanCrisis",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Biman Bangladesh spare parts shortage",
+    "text": "National carrier faces critical spare parts shortage affecting operations. Infrastructure challenge putting pressure on domestic aviation."
+   },
+   "bn": {
+    "title": "বিমান বাংলাদেশের যন্ত্রাংশ সংকট",
+    "text": "জাতীয় বিমান সংস্থা যন্ত্রাংশের অভাবে মুখোমুখি হচ্ছে যা পরিচালনাকে প্রভাবিত করছে।"
    }
   }
  ],
