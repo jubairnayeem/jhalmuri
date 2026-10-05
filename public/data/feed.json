@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-05T00:48:41.670Z",
+ "updatedAt": "2026-10-05T06:55:18.399Z",
  "items": [
+  {
+   "id": "1arj31g",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "New Age",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQktkdzVDaEpWTUJ3MmRsQk9nLUprdUlVdXQxekFreDQ2aHFpUEFXdzBNdnB2Y2Q1SFp3MGR0VVY4YnpCeERfbkk1bFViX21DWXZmaUhQZ1FZRWRfQWhfbk02aEMtMko1b2FkRE5MMkJub193NDh0QmFNcnpOQVdZNXNJaWZrQnpPbnJNSHlPdG1tOU1Lc0ZfeUFmTTdRd1pERzUyOG94Vi1BaUhHM3VWbGZEbVBTUjBacVBEMmhn?oc=5",
+   "image": null,
+   "published": "2026-10-04T11:50:00.000Z",
+   "added": "2026-10-05T06:55:18.398Z",
+   "origTitle": "Jamaat amir introduces Selim Uddin, Shadik Kayem as Dhaka mayor candidates",
+   "en": {
+    "title": "Jamaat announces Selim Uddin, Shadik Kayem as Dhaka mayor candidates",
+    "summary": "Jamaat-e-Islami's leader has introduced two candidates for the Dhaka mayoral election: Selim Uddin and Shadik Kayem. The party is preparing for the upcoming municipal elections. This is the first official announcement of their slate for the capital's top civic post."
+   },
+   "bn": {
+    "title": "ঢাকা মেয়রের জন্য জামাতের দুই প্রার্থী সেলিম ও শাদিক",
+    "summary": "জামাতের আমির ঢাকা মেয়রের পদের জন্য দুইজন প্রার্থী উপস্থাপন করেছেন—সেলিম উদ্দিন এবং শাদিক কায়েম। পার্টি আসন্ন পৌর নির্বাচনের জন্য প্রস্তুতি নিচ্ছে। রাজধানীর সর্বোচ্চ পৌর পদের জন্য এটি তাদের প্রথম সরকারি ঘোষণা।"
+   }
+  },
+  {
+   "id": "xaofkx",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/court/prosecution-appeals-death-penalty-hasanul-haq-inu-1563036",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/30/732137509_2439566146871349_1571354883978018845_n.jpg",
+   "published": "2026-10-05T06:30:00.000Z",
+   "added": "2026-10-05T06:55:18.398Z",
+   "origTitle": "Prosecution appeals for death penalty for Hasanul Haq Inu",
+   "en": {
+    "title": "Prosecution seeks death penalty for Hasanul Haq Inu",
+    "summary": "The prosecution at the International Crimes Tribunal has appealed to the Supreme Court's Appellate Division to upgrade Hasanul Haq Inu's sentence. Inu, president of Jatiya Samajtantrik Dal and former information minister, was sentenced to 10 years for crimes against humanity during the July Mass Uprising. The prosecution is now requesting the death penalty."
+   },
+   "bn": {
+    "title": "হাসানুল হক ইনুর মৃত্যুদণ্ডের আবেদন প্রসিকিউশনের",
+    "summary": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের প্রসিকিউশন সুপ্রিম কোর্টের আপিল বিভাগে হাসানুল হক ইনুর সাজা বাড়ানোর জন্য আবেদন করেছে। জাসাদ প্রেসিডেন্ট এবং সাবেক তথ্যমন্ত্রী ইনুকে জুলাই গণঅভ্যুত্থানের সময় মানবতার বিরুদ্ধে অপরাধের জন্য ১০ বছরের সাজা দেওয়া হয়েছিল। প্রসিকিউশন এখন মৃত্যুদণ্ড দাবি করছে।"
+   }
+  },
+  {
+   "id": "s0z8qb",
+   "section": "news",
+   "cat": "khela",
+   "tone": "serious",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1557148.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423129.jpg",
+   "published": "2026-10-05T06:37:33.000Z",
+   "added": "2026-10-05T06:55:18.398Z",
+   "origTitle": "West Indies add Amir Jangoo as cover for the injured Jewel Andrew for India T20Is",
+   "en": {
+    "title": "West Indies call up Amir Jangoo to replace injured Jewel Andrew",
+    "summary": "Jewel Andrew, West Indies batter, sustained a finger injury during the third ODI against India. The injury was assessed and a fracture has been ruled out. Andrew is under medical supervision. West Indies have added Amir Jangoo to their squad as cover for the upcoming India T20Is."
+   },
+   "bn": {
+    "title": "ওয়েস্ট ইন্ডিজ আমির জঙ্গুকে ডাকল আন্ডারু'র জায়গায়",
+    "summary": "ওয়েস্ট ইন্ডিজের ব্যাটার জুয়েল অ্যান্ড্রু ভারতের বিরুদ্ধে তৃতীয় ওডিতে ফিঙ্গার ইনজুরি পেয়েছেন। ফ্র্যাকচার দূর করা হয়েছে এবং তিনি মেডিক্যাল টিমের নজরে আছেন। ওয়েস্ট ইন্ডিজ ভারতের বিরুদ্ধে আসন্ন টি২০তে তার বদলে আমির জঙ্গুকে যোগ করেছে।"
+   }
+  },
+  {
+   "id": "j8ng2f",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/cricket/to96qafhzj",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-08-21/lfx8b542/WhatsApp-Image-2026-08-21-at-9.22.35-AM.jpeg",
+   "published": "2026-10-05T06:48:32.000Z",
+   "added": "2026-10-05T06:55:05.812Z",
+   "origTitle": "আফগানিস্তানের বিপক্ষে টেস্ট খেলতে আজ যাচ্ছেন নাজমুল",
+   "en": {
+    "title": "Bangladesh captain Nazmul heads to Dubai for Afghanistan test",
+    "summary": "Nazmul Hossain, Bangladesh's test captain, is leaving for Dubai today after recovering from fever contracted at the Asian Games in Japan. He'll join the team in Abu Dhabi with two days to prepare before Bangladesh plays Afghanistan in their only test match on October 9 at Sheikh Zayed Cricket Stadium."
+   },
+   "bn": {
+    "title": "আফগানিস্তান টেস্টে নাজমুল দুবাইয়ে ছুটছেন",
+    "summary": "বাংলাদেশের টেস্ট অধিনায়ক নাজমুল হোসেন জাপানে জ্বরের পর সুস্থ হয়ে আজ দুবাইয়ের উদ্দেশে রওনা হচ্ছেন। আবুধাবিতে পৌঁছে দুই দিনের প্রস্তুতি নিয়ে ৯ অক্টোবর আফগানিস্তানের বিপক্ষে একমাত্র টেস্টে খেলবেন বাংলাদেশ।"
+   }
+  },
+  {
+   "id": "1yes5cs",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/photo/bangladesh/bj3tafdwdq",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-05/rw0rseko/prothomalo-bangla2026-10-04lqofrs848.-Bogurawetland-fishhigh-demandChalan-Beel-fishtradingmarket05102026.webp",
+   "published": "2026-10-05T06:44:14.000Z",
+   "added": "2026-10-05T06:55:05.812Z",
+   "origTitle": "Morning market comes alive with fresh catch from Chalan Beel",
+   "en": {
+    "title": "Fresh Chalan Beel fish draws crowds to Bogura market",
+    "summary": "Early morning buyers at Pallimangal fish market near Bogura Sadar upazila are rushing to buy fresh native fish brought from Chalan Beel in Natore. The catch commands higher prices and creates a huge crowd as sellers unload their daily haul for eager customers."
+   },
+   "bn": {
+    "title": "চলন বিলের তাজা মাছে ভিড়, বগুড়ার হাটে",
+    "summary": "বগুড়া সদরের পল্লিমঙ্গল এলাকার সকালের মাছের বাজারে ক্রেতাদের ভিড় পড়েছে। নাটোরের চলন বিল থেকে আনা তাজা মাছ বেশি দামে বিকছে এবং দ্রুত শেষ হয়ে যাচ্ছে। স্থানীয় মানুষ বেশি দাম দিয়ে হলেও এই মাছ কিনতে আগ্রহী।"
+   }
+  },
+  {
+   "id": "dvxpti",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c6ewe1jpldeko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3257/live/5dc67e10-c067-11f1-babe-4199b0e7ccea.jpg",
+   "published": "2026-10-05T03:30:52.000Z",
+   "added": "2026-10-05T06:55:05.812Z",
+   "origTitle": "ব্রাজিলের নির্বাচনের প্রথম দফায় ডানপন্থী ফ্লাভিও বলসোনারোর জয়",
+   "en": {
+    "title": "Rightist Bolsonaro leads Brazil's first-round presidential vote",
+    "summary": "Flavio Bolsonaro, a right-wing candidate and son of former president Jair Bolsonaro, won Brazil's first-round presidential election on Sunday with 47.24% of the vote. Incumbent leftist president Luiz Inácio Lula da Silva came second with 44.91%. Neither reached the 50% needed to win outright, so a runoff is set for October 25."
+   },
+   "bn": {
+    "title": "ব্রাজিলে প্রথম দফায় ডানপন্থী বলসোনারোর জয়",
+    "summary": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে সাবেক প্রেসিডেন্ট জাইর বলসোনারোর ছেলে ফ্লাভিও বলসোনারো ৪৭.২৪ শতাংশ ভোট নিয়ে এগিয়ে আছেন। বর্তমান বামপন্থী প্রেসিডেন্ট লুলা ৪৪.৯১ শতাংশ পেয়েছেন। কেউই ৫০ শতাংশ পায়নি, তাই ২৫ অক্টোবরে দ্বিতীয় দফার ভোট হবে।"
+   }
+  },
+  {
+   "id": "qd70hd",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac33565-1791178085.jpg?resize=1920%2C1440",
+   "published": "2026-10-05T05:56:13.000Z",
+   "added": "2026-10-05T06:55:05.812Z",
+   "origTitle": "Djokovic defeats top seed Zverev to reach China Open semifinals",
+   "en": {
+    "title": "Djokovic beats Zverev to reach China Open semis",
+    "summary": "Novak Djokovic defeated top seed Alexander Zverev 4-6, 6-4, 6-4 at the China Open in Beijing on Sunday. Despite a rough start with two early double faults, the six-time champion fought back to claim his place in the semifinals and extend his unbeaten record at the tournament since 2015."
+   },
+   "bn": {
+    "title": "জোকোভিচ জেভারেভকে হারিয়ে সেমিতে উঠলেন",
+    "summary": "নোভাক জোকোভিচ বেইজিংয়ের চায়না ওপেনে শীর্ষ তৃণীয় আলেক্সান্ডার জেভারেভকে ৪-৬, ৬-৪, ৬-৪ এ পরাজিত করেছেন। খারাপ শুরু সত্ত্বেও ছয়বার চ্যাম্পিয়ন জোকোভিচ ফিরে এসে সেমিফাইনালে জায়গা করে নিয়েছেন এবং ২০১৫ সালের পর থেকে টুর্নামেন্টে তার অপরাজেয় রেকর্ড রক্ষা করেছেন।"
+   }
+  },
+  {
+   "id": "1wcsgcd",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+   "image": "https://i.guim.co.uk/img/media/f54f34b47d0deeea19f81320d80840dd69b6d283/0_29_3549_2841/master/3549.jpg?width=140&quality=85&auto=format&fit=max&s=8cb25fa9b80de9cade238955a241ac8f",
+   "published": "2026-10-05T04:00:48.000Z",
+   "added": "2026-10-05T06:55:05.812Z",
+   "origTitle": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
+   "en": {
+    "title": "Ancient Egypt: servants may have been sacrificed with kings",
+    "summary": "A study of 46 skulls from a 3,000-year-old royal cemetery at Umm el-Qa'ab near Abydos suggests that court officials and craftspeople may have been sacrificed when their rulers died. Researchers from Purdue University found fractures on several skulls, backing up a 100-year-old theory by Egyptologist Flinders Petrie that had been debated for decades."
+   },
+   "bn": {
+    "title": "প্রাচীন মিশরে রাজা মৃত্যুতে সেবকদের উৎসর্গ করা হতো?",
+    "summary": "আবিডোসের কাছে Umm el-Qa'ab রাজকীয় সমাধিক্ষেত্র থেকে পাওয়া ৪৬টি মাথার খুলি নিয়ে পারডিউ বিশ্ববিদ্যালয়ের গবেষকরা একটি অধ্যয়ন করেছেন। এই গবেষণা দেখায় যে রাজার মৃত্যুর সময় তার দরবারের সদস্যরা উৎসর্গ করা হতো। এক শতকের পুরাতত্ত্ববিদ ফ্লিন্ডার্স পেট্রির তত্ত্ব এখন প্রমাণিত হচ্ছে।"
+   }
+  },
+  {
+   "id": "b6f00u",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg",
+   "published": "2026-10-05T04:58:56.000Z",
+   "added": "2026-10-05T06:55:05.812Z",
+   "origTitle": "US air force removes all bombers from British military base RAF Fairford",
+   "en": {
+    "title": "US pulls all bombers from UK base after security scare",
+    "summary": "The US has withdrawn about a dozen B-1 bombers from RAF Fairford in Gloucestershire and sent them back to America. The move follows a September 27 incident when police investigated three suspicious vehicles near the airbase and arrested six men on suspicion of terror offences. All were later released on bail. UK Prime Minister Andy Burnham said there were \"strong indications\" Iran was involved, but Tehran denies this."
+   },
+   "bn": {
+    "title": "নিরাপত্তা সতর্কতার পর যুক্তরাষ্ট্র বোমারু বিমান সরিয়ে নিল",
+    "summary": "যুক্তরাষ্ট্র RAF ফেয়ারফোর্ড থেকে প্রায় এক ডজন B-1 বোমারু বিমান আমেরিকায় ফেরত নিয়ে গেছে। ২৭ সেপ্টেম্বর ঘাঁটির কাছে সন্দেহজনক গাড়ি দেখা গিয়েছিল এবং ছয় জনকে সন্ত্রাসবাদী অপরাধের সন্দেহে গ্রেপ্তার করা হয়েছিল। সবাই পরে জামিনে মুক্তি পেয়েছে। প্রধানমন্ত্রী বলেছেন ইরানের জড়িত থাকার শক্তিশালী সূচনা আছে, কিন্তু ইরান এটি অস্বীকার করেছে।"
+   }
+  },
   {
    "id": "1ljllv2",
    "section": "news",
@@ -2573,94 +2771,6 @@
    "bn": {
     "title": "ফ্লাইদুবাই হামলা: নেতানিয়াহু দাবি করেছেন আক্রমণকারী উগ্রপন্থী ছিল",
     "summary": "ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু বলেছেন, দুবাই থেকে তেল আবিবগামী ফ্লাইদুবাই বিমানে সহকারী পাইলটকে আক্রমণ করা ব্যক্তি ইসলামপন্থী চরমপন্থায় প্রশিক্ষিত ছিল। বুধবার এই বিমান ১৭ হাজার ফুট নিচে পড়ে যায়। যাত্রী ও ক্রু মিলে আক্রমণকারীকে পরাস্ত করে পুনরায় নিয়ন্ত্রণ নেয়। নেতানিয়াহু বলেন, আক্রমণকারী আত্মঘাতী হতে চেয়েছিল এবং সে ওমানের নাগরিক।"
-   }
-  },
-  {
-   "id": "nstwlb",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.kishoralo.com/feature/0h1c7dtoff",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-29/cgn1mhsl/1106.avif",
-   "published": "2026-10-02T01:00:00.000Z",
-   "added": "2026-10-02T01:37:19.763Z",
-   "origTitle": "শহরের খালে আটকে পড়া হাঙর দেখতে ছুটল ছয় লাখ মানুষ",
-   "en": {
-    "title": "Six lakh people rush to see shark stuck in Busan city canal",
-    "summary": "A 3.5-metre bronze whaler shark got trapped in a narrow canal in Busan, South Korea, on September 18 and became a massive attraction. Between September 19-28, about 607,000 people visited the park to watch the shark, compared to the usual 2,000 daily visitors. Experts warned against forcing the shark out of fear of injury or aggression. Mayor Chun Jae-su praised the shark's star power, while residents developed emotional connections to the stranded animal."
-   },
-   "bn": {
-    "title": "বুসানের খালে আটকা হাঙর দেখতে ছয় লাখ মানুষ",
-    "summary": "দক্ষিণ কোরিয়ার বুসান শহরের একটি সরু খালে সাড়ে তিন মিটার লম্বা একটি ব্রোঞ্জ হুইলার হাঙর ১৮ সেপ্টেম্বর আটকে যায় এবং বিশাল আকর্ষণে পরিণত হয়। ১৯ থেকে ২৮ সেপ্টেম্বর পর্যন্ত প্রায় ৬ লাখ ৭ হাজার মানুষ সেই পার্কে হাঙর দেখতে ভিড় করে, যেখানে সাধারণত দিনে ২ হাজার মানুষ আসেন। বিশেষজ্ঞরা হাঙরকে জোর করে বের করতে না করতে সতর্ক করেছিলেন আঘাত বা আক্রমণের আশঙ্কায়। শহরবাসীরা হাঙরটির প্রতি আবেগময় সম্বন্ধ তৈরি করেছিল।"
-   }
-  },
-  {
-   "id": "p5q8a8",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/six-flags-closes-x2-roller-coaster-due-to-brain-injuries/",
-   "image": "https://theonion.com/wp-content/uploads/2025/02/AmericanVoice_OG_FINAL.jpg",
-   "published": "2026-10-01T20:48:33.000Z",
-   "added": "2026-10-02T01:37:19.763Z",
-   "origTitle": "Six Flags Closes X2 Roller Coaster Due To Brain Injuries",
-   "en": {
-    "title": "The Onion: Six Flags closes X2 coaster over brain injuries",
-    "summary": "This is satire from The Onion. The article jokes that Six Flags Magic Mountain permanently closed its famous X2 roller coaster due to a history of riders getting brain injuries. The piece includes a comedic reader quote about selling expensive fountain sodas to people with full cognition."
-   },
-   "bn": {
-    "title": "দ্য অনিয়ন: সিক্স ফ্ল্যাগস রোলার কোস্টার বন্ধ করেছে (ব্যঙ্গাত্মক)",
-    "summary": "এটি দ্য অনিয়নের একটি ব্যঙ্গাত্মক লেখা। নিবন্ধটি রসিয়ে বলছে যে সিক্স ফ্ল্যাগস ম্যাজিক মাউন্টেইন তার বিখ্যাত এক্স২ রোলার কোস্টার স্থায়ীভাবে বন্ধ করেছে কারণ রাইডাররা মস্তিষ্কের আঘাত পাচ্ছিল। প্রবন্ধটিতে একজন পাঠকের হাস্যরস উদ্ধৃতি রয়েছে যারা সম্পূর্ণ সচেতন মানুষদের কাছে ২৭ ডলারের ফাউন্টেইন সোডা বিক্রি করার বিষয়ে।"
-   }
-  },
-  {
-   "id": "5onbjs",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
-   "published": "2026-10-02T00:57:57.000Z",
-   "added": "2026-10-02T01:37:19.763Z",
-   "origTitle": "Robotaxi operators will face fines for blocking first responders",
-   "en": {
-    "title": "California law fines robotaxi firms for blocking first responders",
-    "summary": "California Governor Gavin Newsom signed Senate Bill 1246, requiring autonomous vehicle companies like Tesla, Waymo, and Zoox to support first responders when their robotaxis malfunction. Companies face penalties if a robotaxi blocks police or firefighters for over 30 minutes. The law follows multiple incidents where robotaxis broke down, disrupted traffic, or hampered emergency response. Waymo, the largest US robotaxi operator with 4,000 vehicles, has had several high-profile breakdowns requiring manual rescue."
-   },
-   "bn": {
-    "title": "ক্যালিফোর্নিয়া রোবোট্যাক্সিকে জরিমানা করবে জরুরি সেবা বাধাগ্রস্ত করলে",
-    "summary": "ক্যালিফোর্নিয়ার গভর্নর গ্যাভিন নিউসম সিনেট বিল ১২৪৬ স্বাক্ষর করেছেন, যা টেসলা, ওয়েমো এবং জুক্সের মতো স্বয়ংক্রিয় যানবাহন কোম্পানিগুলোকে তাদের রোবোট্যাক্সি খারাপ হলে জরুরি সেবাকর্মীদের সহায়তা প্রদান করতে বাধ্য করে। রোবোট্যাক্সি ৩০ মিনিটের বেশি পুলিশ বা ফায়ারফাইটারদের বাধাগ্রস্ত করলে কোম্পানিগুলো জরিমানার সম্মুখীন হবে। আইনটি এমন একাধিক ঘটনার পরে আসে যেখানে রোবোট্যাক্সি খারাপ হয়ে গেছে বা জরুরি সেবায় বাধা সৃষ্টি করেছে।"
-   }
-  },
-  {
-   "id": "1hls7jx",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/blood-money-base-1790861991.jpg?resize=1920%2C1440",
-   "published": "2026-10-02T00:29:57.000Z",
-   "added": "2026-10-02T01:37:19.763Z",
-   "origTitle": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
-   "en": {
-    "title": "UK-Mauritius Chagos deal stalls as Trump opposes sovereignty return",
-    "summary": "Britain and Mauritius signed a treaty in May 2025 to let Chagossians return to their Indian Ocean homeland, but the deal hasn't taken effect due to opposition from US President Donald Trump. Between 1968 and 1973, Britain forcibly removed around 1,400 to 1,700 Chagossians from the islands. Chagos refugees say international law backs their rights, citing a 2019 ICJ opinion and a 2021 tribunal ruling. The agreement would allow resettlement on islands except Diego Garcia, which remains a US military base."
-   },
-   "bn": {
-    "title": "ট্রাম্পের বিরোধে চাগোস চুক্তি আটকে আছে",
-    "summary": "যুক্তরাজ্য এবং মরিশাসের মধ্যে ২০২৫ সালের মে মাসে স্বাক্ষরিত একটি চুক্তি চাগোসিয়ানদের তাদের ভারত মহাসাগরীয় দ্বীপে ফিরে যেতে দেবে, কিন্তু আমেরিকার রাষ্ট্রপতি ট্রাম্পের বিরোধের কারণে চুক্তিটি এখনো কার্যকর হয়নি। ১৯৬৮ থেকে ১৯৭৩ সালের মধ্যে ব্রিটেন প্রায় ১,৪০০ থেকে ১,৭০০ চাগোসিয়ানকে জোরপূর্বক সরিয়ে নিয়েছিল। চাগোস শরণার্থীরা বলছেন, ২০১৯ সালের আন্তর্জাতিক আদালতের মতামত এবং ২০২১ সালের একটি ট্রাইব্যুনালের রায় তাদের অধিকার সমর্থন করে।"
    }
   }
  ]
