@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-10-06T10:08:00.594Z",
+ "updatedAt": "2026-10-06T16:46:48.042Z",
  "burning": [
   {
-   "id": "1dhmyrk",
+   "id": "1obnxj2",
    "heat": 5,
    "why": {
-    "en": "Durga Puja break approved with massive public interest and multiple outlets covering it.",
-    "bn": "দুর্গাপূজা ছুটির অনুমোদন নিয়ে ব্যাপক জনসাড়া এবং একাধিক আউটলেট কভার করছে।"
+    "en": "Nine dengue deaths in one day signals a health crisis hitting Bangladesh hard right now.",
+    "bn": "এক দিনে নয় জন ডেঙ্গুতে মারা গেছে—এটা বাংলাদেশের জন্য একটা বড় স্বাস্থ্য সংকট।"
    },
    "rank": 1
   },
   {
-   "id": "1mrqr9r",
+   "id": "1cvxamp",
    "heat": 5,
    "why": {
-    "en": "Laos visa halt for Bangladesh workers is urgent news affecting thousands of migrants.",
-    "bn": "লাওস বাংলাদেশি শ্রমিক ভিসা বন্ধ করা হাজার হাজার মানুষকে প্রভাবিত করছে।"
+    "en": "Gandhi cousins arrested at Delhi protest is major political news trending across the region.",
+    "bn": "দিল্লিতে গান্ধী চাচাতো ভাইদের গ্রেপ্তার একটা বড় রাজনৈতিক খবর যা সারা অঞ্চলে আলোড়ন ফেলছে।"
    },
    "rank": 2
   },
   {
-   "id": "1obnxj2",
+   "id": "15yl67i",
    "heat": 4,
    "why": {
-    "en": "Dengue crisis with nine deaths in one day and 1,900 hospitalisations is breaking news.",
-    "bn": "এক দিনে নয় জন ডেঙ্গিতে মৃত্যু এবং ১৯০০ জনের হাসপাতালভর্তি চলমান সংকট।"
+    "en": "India's protest wave challenging Modi is significant regional political news with broad coverage.",
+    "bn": "ভারতের প্রতিবাদ আন্দোলন মোদীর কর্তৃত্বে চ্যালেঞ্জ ফেলছে—এটা অঞ্চলব্যাপী একটা বড় রাজনৈতিক খবর।"
    },
    "rank": 3
   },
@@ -32,84 +32,68 @@
    "id": "16b2y46",
    "heat": 4,
    "why": {
-    "en": "Over 21 migrant worker bodies returning daily reflects ongoing humanitarian concern.",
-    "bn": "প্রতিদিন গড়ে ২১ জন শ্রমিকের মৃতদেহ প্রত্যাবর্তন গুরুতর মানবিক সমস্যা।"
+    "en": "Over 21 migrant worker bodies returning daily is a recurring tragedy affecting many Bangladeshi families.",
+    "bn": "প্রতিদিন গড়ে ২১ জন প্রবাসী শ্রমিকের লাশ দেশে ফিরছে—এটা হাজারো বাংলাদেশি পরিবারকে স্পর্শ করে।"
    },
    "rank": 4
   },
   {
-   "id": "hjll3d",
+   "id": "1mrqr9r",
    "heat": 3,
    "why": {
-    "en": "Nobel Prize in brain research is trending globally with strong social signal in Bangladesh.",
-    "bn": "মস্তিষ্ক গবেষণায় নোবেল পুরস্কার বৈশ্বিকভাবে ট্রেন্ড করছে।"
+    "en": "Laos halting Bangladesh worker visas for four months directly impacts migrant workers' livelihoods.",
+    "bn": "লাওস চার মাসের জন্য বাংলাদেশি শ্রমিক ভিসা বন্ধ করেছে—এটা প্রবাসীদের জীবিকায় সরাসরি প্রভাব ফেলবে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
+   "id": "1qokw2l",
+   "tag": "#EbolaAlert",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Kenya's first Ebola death confirmed",
+    "text": "Kenya has confirmed its first Ebola death with 28 contacts identified. This is a major health alert for the region."
+   },
+   "bn": {
+    "title": "কেনিয়ায় ইবোলায় প্রথম মৃত্যু",
+    "text": "কেনিয়ায় ইবোলায় প্রথম মৃত্যু নিশ্চিত হয়েছে এবং ২৮ জন যোগাযোগকারী চিহ্নিত হয়েছে। এটা অঞ্চলের জন্য একটা গুরুতর সতর্কতা।"
+   }
+  },
+  {
+   "id": "asqabx",
+   "tag": "#TechWar",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "China overtakes US in critical tech research",
+    "text": "A major shift in global tech power as China moves ahead of the US in critical technology research."
+   },
+   "bn": {
+    "title": "চীন মার্কিনদের টেক গবেষণায় এগিয়ে গেছে",
+    "text": "বৈশ্বিক প্রযুক্তিতে একটা বড় শিফট—চীন সংকটপূর্ণ গবেষণায় আমেরিকাকে পেছনে ফেলেছে।"
+   }
+  },
+  {
    "id": "nyq7qs",
-   "tag": "#দুর্গাপূজা",
+   "tag": "#DurgaPuja2025",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 3,
    "en": {
-    "title": "Durga Puja gets five full days off",
-    "text": "Bangladesh has approved a five-day Durga Puja break in October, with shops and malls staying open late for festival shopping."
+    "title": "Bangladesh approves five-day Durga Puja break",
+    "text": "The government has approved a five-day consecutive holiday for Durga Puja in October, a major relief for the festival."
    },
    "bn": {
-    "title": "দুর্গাপূজায় পাঁচ দিন ছুটি",
-    "text": "বাংলাদেশ অক্টোবরে দুর্গাপূজার জন্য পাঁচ দিন ছুটি অনুমোদন করেছে এবং দোকানপাট রাত দশটা পর্যন্ত খোলা থাকবে।"
-   }
-  },
-  {
-   "id": "1mrqr9r",
-   "tag": "#প্রবাসী",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Laos halts Bangladesh worker visas",
-    "text": "Laos has suspended visa approvals for Bangladesh workers for four months, affecting thousands of migrant labourers."
-   },
-   "bn": {
-    "title": "লাওসে বাংলাদেশি কর্মী ভিসা বন্ধ",
-    "text": "লাওস চার মাসের জন্য বাংলাদেশি শ্রমিকদের ভিসা প্রক্রিয়া স্থগিত করেছে।"
-   }
-  },
-  {
-   "id": "hjll3d",
-   "tag": "#নোবেলপুরস্কার",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Nobel Prize for brain research",
-    "text": "Nobel Prize awarded for research on emotion and behaviour in the brain, trending globally as major scientific achievement."
-   },
-   "bn": {
-    "title": "মস্তিষ্ক গবেষণায় নোবেল",
-    "text": "মস্তিষ্কের আবেগ এবং আচরণ গবেষণায় নোবেল পুরস্কার প্রদান করা হয়েছে।"
-   }
-  },
-  {
-   "id": "1obnxj2",
-   "tag": "#ডেঙ্গি",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Dengue spike: 9 deaths in one day",
-    "text": "Nine dengue deaths reported in a single day with over 1,900 people hospitalised, signalling a serious outbreak."
-   },
-   "bn": {
-    "title": "এক দিনে নয় জনের ডেঙ্গি মৃত্যু",
-    "text": "এক দিনে নয় জনের ডেঙ্গিতে মৃত্যু এবং ১৯০০ জনেরও বেশি হাসপাতালে ভর্তি।"
+    "title": "দুর্গা পূজায় পাঁচ দিনের ছুটি অনুমোদিত",
+    "text": "সরকার অক্টোবরে দুর্গা পূজার জন্য পাঁচ দিনের লাগাতার ছুটি অনুমোদন করেছে।"
    }
   }
  ],
