@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-06T02:55:05.366Z",
+ "updatedAt": "2026-10-06T10:08:00.594Z",
  "burning": [
   {
-   "id": "1obnxj2",
+   "id": "1dhmyrk",
    "heat": 5,
    "why": {
-    "en": "Nine deaths in one day signals a serious dengue spike—major public health crisis.",
-    "bn": "একদিনে নয় জন মারা গেছে—এটা ডেঙ্গু জরুরি অবস্থা।"
+    "en": "Durga Puja break approved with massive public interest and multiple outlets covering it.",
+    "bn": "দুর্গাপূজা ছুটির অনুমোদন নিয়ে ব্যাপক জনসাড়া এবং একাধিক আউটলেট কভার করছে।"
    },
    "rank": 1
   },
   {
    "id": "1mrqr9r",
-   "heat": 4,
+   "heat": 5,
    "why": {
-    "en": "Laos halt on worker visas affects thousands of Bangladeshi migrants in a major labor market.",
-    "bn": "লাওসের ভিসা বন্ধ লক্ষ লক্ষ বাংলাদেশি শ্রমিকদের প্রভাবিত করবে।"
+    "en": "Laos visa halt for Bangladesh workers is urgent news affecting thousands of migrants.",
+    "bn": "লাওস বাংলাদেশি শ্রমিক ভিসা বন্ধ করা হাজার হাজার মানুষকে প্রভাবিত করছে।"
    },
    "rank": 2
+  },
+  {
+   "id": "1obnxj2",
+   "heat": 4,
+   "why": {
+    "en": "Dengue crisis with nine deaths in one day and 1,900 hospitalisations is breaking news.",
+    "bn": "এক দিনে নয় জন ডেঙ্গিতে মৃত্যু এবং ১৯০০ জনের হাসপাতালভর্তি চলমান সংকট।"
+   },
+   "rank": 3
   },
   {
    "id": "16b2y46",
    "heat": 4,
    "why": {
-    "en": "Over 21 migrant bodies returning daily is a persistent humanitarian crisis getting wider coverage.",
-    "bn": "প্রতিদিন ২১+ প্রবাসীর লাশ ফেরত আসা—একটা চলমান ট্র্যাজেডি।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "nyq7qs",
-   "heat": 3,
-   "why": {
-    "en": "Durga Puja holiday approval matters to millions; covered across multiple outlets.",
-    "bn": "দুর্গা পূজার ছুটি—লক্ষ লক্ষ মানুষের জন্য গুরুত্বপূর্ণ।"
+    "en": "Over 21 migrant worker bodies returning daily reflects ongoing humanitarian concern.",
+    "bn": "প্রতিদিন গড়ে ২১ জন শ্রমিকের মৃতদেহ প্রত্যাবর্তন গুরুতর মানবিক সমস্যা।"
    },
    "rank": 4
   },
   {
-   "id": "5o7uxq",
+   "id": "hjll3d",
    "heat": 3,
    "why": {
-    "en": "Mishu Biswas's IRONMAN record is a notable national sports achievement.",
-    "bn": "মিশু বিশ্বাসের আইরনম্যান রেকর্ড একটা বড় খেলার ঘটনা।"
+    "en": "Nobel Prize in brain research is trending globally with strong social signal in Bangladesh.",
+    "bn": "মস্তিষ্ক গবেষণায় নোবেল পুরস্কার বৈশ্বিকভাবে ট্রেন্ড করছে।"
    },
    "rank": 5
   }
@@ -50,66 +50,66 @@
  "gossip": [
   {
    "id": "nyq7qs",
-   "tag": "#DurgaPujaBreak",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Puja holiday gazetted",
-    "text": "Bangladesh approves five straight days off in October for Durga Puja. Students and workers already planning."
-   },
-   "bn": {
-    "title": "পূজার ছুটি অনুমোদিত",
-    "text": "বাংলাদেশ অক্টোবরে দুর্গা পূজার জন্য পাঁচ দিনের ছুটি অনুমোদন করেছে। সবাই পরিকল্পনা করছে।"
-   }
-  },
-  {
-   "id": "1obnxj2",
-   "tag": "#DengueCrisis",
+   "tag": "#দুর্গাপূজা",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Dengue deaths spike sharply",
-    "text": "Nine deaths in one day with over 1,900 hospitalised. Health alerts spreading across the country."
+    "title": "Durga Puja gets five full days off",
+    "text": "Bangladesh has approved a five-day Durga Puja break in October, with shops and malls staying open late for festival shopping."
    },
    "bn": {
-    "title": "ডেঙ্গু মৃত্যু বাড়ছে",
-    "text": "একদিনে নয় জন মারা গেছেন, ১,৯০০+ হাসপাতালে। সবাই সতর্ক হচ্ছে।"
+    "title": "দুর্গাপূজায় পাঁচ দিন ছুটি",
+    "text": "বাংলাদেশ অক্টোবরে দুর্গাপূজার জন্য পাঁচ দিন ছুটি অনুমোদন করেছে এবং দোকানপাট রাত দশটা পর্যন্ত খোলা থাকবে।"
    }
   },
   {
    "id": "1mrqr9r",
-   "tag": "#MigrantWorkers",
+   "tag": "#প্রবাসী",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Laos halts Bangladesh worker visas",
+    "text": "Laos has suspended visa approvals for Bangladesh workers for four months, affecting thousands of migrant labourers."
+   },
+   "bn": {
+    "title": "লাওসে বাংলাদেশি কর্মী ভিসা বন্ধ",
+    "text": "লাওস চার মাসের জন্য বাংলাদেশি শ্রমিকদের ভিসা প্রক্রিয়া স্থগিত করেছে।"
+   }
+  },
+  {
+   "id": "hjll3d",
+   "tag": "#নোবেলপুরস্কার",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Laos halts worker visas",
-    "text": "Four-month visa freeze on Bangladesh workers from major labour destination. Thousands affected."
+    "title": "Nobel Prize for brain research",
+    "text": "Nobel Prize awarded for research on emotion and behaviour in the brain, trending globally as major scientific achievement."
    },
    "bn": {
-    "title": "লাওসে ভিসা বন্ধ",
-    "text": "চার মাসের জন্য বাংলাদেশি শ্রমিকদের ভিসা বন্ধ। হাজার হাজার জন প্রভাবিত হবে।"
+    "title": "মস্তিষ্ক গবেষণায় নোবেল",
+    "text": "মস্তিষ্কের আবেগ এবং আচরণ গবেষণায় নোবেল পুরস্কার প্রদান করা হয়েছে।"
    }
   },
   {
-   "id": "5o7uxq",
-   "tag": "#IRONMANChamp",
+   "id": "1obnxj2",
+   "tag": "#ডেঙ্গি",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Bangladesh IRONMAN record set",
-    "text": "Mishu Biswas breaks national record in endurance athletics. Local sports community buzzing."
+    "title": "Dengue spike: 9 deaths in one day",
+    "text": "Nine dengue deaths reported in a single day with over 1,900 people hospitalised, signalling a serious outbreak."
    },
    "bn": {
-    "title": "আইরনম্যান রেকর্ড ভেঙে গেছে",
-    "text": "মিশু বিশ্বাস বাংলাদেশের রেকর্ড স্থাপন করেছেন। সবাই উত্সাহিত।"
+    "title": "এক দিনে নয় জনের ডেঙ্গি মৃত্যু",
+    "text": "এক দিনে নয় জনের ডেঙ্গিতে মৃত্যু এবং ১৯০০ জনেরও বেশি হাসপাতালে ভর্তি।"
    }
   }
  ],

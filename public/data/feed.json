@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-06T02:54:52.235Z",
+ "updatedAt": "2026-10-06T10:07:45.398Z",
  "items": [
+  {
+   "id": "blkn25",
+   "section": "bhabna",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/2026/10/06/philosopher-among-new-ai2050-senior-fellows/",
+   "image": "https://dailynous.com/wp-content/uploads/2026/10/Danks-David.png",
+   "published": "2026-10-06T09:30:00.000Z",
+   "added": "2026-10-06T10:07:45.398Z",
+   "origTitle": "Philosopher Among New AI2050 Senior Fellows",
+   "en": {
+    "title": "Philosopher wins $1M to study how humans and AI shape each other",
+    "summary": "David Danks, a philosophy professor at University of Virginia, got a three-year fellowship from Schmidt Sciences to research how human values and AI values will change each other over time. The $1 million project tackles a real problem: AI systems learn from us, and we learn from them, so both sides are constantly shifting. Understanding this coevolution matters for building AI that stays beneficial in the future, not just today."
+   },
+   "bn": {
+    "title": "দেড় কোটি টাকা পেলেন দার্শনিক, মানুষ আর এআই কীভাবে একে অপরকে বদলায় তা নিয়ে গবেষণায়",
+    "summary": "ভার্জিনিয়া বিশ্ববিদ্যালয়ের অধ্যাপক ডেভিড ডাঙ্কস তিন বছরের ফেলোশিপ পেয়েছেন, যেখানে তিনি দেখাবেন কীভাবে মানুষের মূল্যবোধ আর এআইর মূল্যবোধ একে অপরকে পরিবর্তন করে। এআই সিস্টেম আমাদের থেকে শিখছে, আমরাও তাদের থেকে শিখছি—দুটোই ক্রমাগত বদলাচ্ছে। এই সম্পর্ক বুঝা খুবই গুরুত্বপূর্ণ যাতে এআই ভবিষ্যতেও মানুষের জন্য ভালো থাকে।"
+   }
+  },
+  {
+   "id": "14kcrx9",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/guides/a-psychological-guide-to-climbing-out-of-debt",
+   "image": "https://images.aeonmedia.co/images/8e55a13e-1426-425d-b027-effc86a923fd/debt-nn11433187.jpg?top=1094&left=0&cropWidth=4992&cropHeight=2808&width=1200&quality=75&format=jpeg",
+   "published": "2026-10-06T10:00:00.000Z",
+   "added": "2026-10-06T10:07:39.064Z",
+   "origTitle": "A psychological guide to climbing out of debt",
+   "en": {
+    "title": "The emotional side of getting out of debt",
+    "summary": "Debt is more than money—it carries shame and fear that stops people from seeking help. Many avoid checking their bank app or opening letters because facing the numbers feels impossible. But ignoring debt makes it worse emotionally and financially. The real solution involves addressing both the practical money problem and the fear underneath."
+   },
+   "bn": {
+    "title": "ঋণ থেকে বেরিয়ে আসার আবেগপূর্ণ দিক",
+    "summary": "ঋণ শুধু টাকা নয়—এটি লজ্জা এবং ভয় নিয়ে আসে যা মানুষকে সাহায্য চাইতে বাধা দেয়। অনেকে ব্যাংক অ্যাপ চেক করতে বা চিঠি খুলতে এড়িয়ে চলে কারণ সংখ্যার মুখোমুখি হওয়া অসম্ভব মনে হয়। কিন্তু ঋণ উপেক্ষা করলে এটি আবেগপূর্ণ এবং আর্থিক উভয় দিক থেকেই খারাপ হয়। প্রকৃত সমাধান ব্যবহারিক এবং মানসিক দুই সমস্যা মোকাবেলা করে।"
+   }
+  },
+  {
+   "id": "15r93od",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
+   "image": "https://images.aeonmedia.co/images/12748f11-e0ce-47d8-8b35-d2d1018380bc/essay-2016-10-10t000000z_1858079971_d1aeugejeiaa_rtrmadp_3_health-cancer-immunotherapy.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-06T10:00:00.000Z",
+   "added": "2026-10-06T10:07:39.064Z",
+   "origTitle": "How to assemble science",
+   "en": {
+    "title": "Why conflicting science news shouldn't scare you",
+    "summary": "Science headlines often seem to contradict each other—coffee is good one week, bad the next. The real problem is that individual studies get reported in isolation rather than as part of the bigger picture. In 2025, researchers published 19,000 studies daily. A better approach is weighing new findings against all existing evidence instead of treating each study as separate truth."
+   },
+   "bn": {
+    "title": "বিজ্ঞান খবর বিরোধিতা আপনাকে ভয় পাইয়ে দেবে না",
+    "summary": "বিজ্ঞান শিরোনাম প্রায়শই একে অপরের সাথে সাংঘর্ষিক মনে হয়—এক সপ্তাহে কফি ভালো, পরের সপ্তাহে খারাপ। সমস্যা হল স্বতন্ত্র গবেষণা বড় চিত্রের অংশ হিসাবে নয় বরং আলাদাভাবে রিপোর্ট করা হয়। ২০২৫ সালে প্রতিদিন ১৯,০০০ গবেষণা প্রকাশিত হয়েছে। প্রতিটি গবেষণাকে আলাদা সত্য হিসাবে বিবেচনা না করে সমস্ত বিদ্যমান প্রমাণের বিরুদ্ধে ওজন করা ভালো।"
+   }
+  },
+  {
+   "id": "1qokw2l",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+   "image": "https://i.guim.co.uk/img/media/7ede8ff970717866698f77b694a00dd375607d4a/447_0_4339_3473/master/4339.jpg?width=140&quality=85&auto=format&fit=max&s=abb6f70235fa8ea2a180b012987ef78d",
+   "published": "2026-10-06T09:35:12.000Z",
+   "added": "2026-10-06T10:07:39.064Z",
+   "origTitle": "Kenya confirms first Ebola case and says patient has died",
+   "en": {
+    "title": "Kenya confirms first Ebola death; 28 contacts identified",
+    "summary": "Kenya has recorded its first-ever confirmed Ebola case in a Kenyan citizen who arrived from the Democratic Republic of Congo on Saturday. The patient has died, and 28 contacts including family and health workers have been identified. The DRC is battling its largest outbreak with over 8,000 cases and 4,000 deaths since May."
+   },
+   "bn": {
+    "title": "কেনিয়ায় প্রথম ইবোলা মৃত্যু; ২৮ জন সংযোগ চিহ্নিত",
+    "summary": "কেনিয়া তার প্রথম নিশ্চিত ইবোলা কেস নিবন্ধন করেছে একজন কেনিয়ান নাগরিকের, যিনি কঙ্গো গণতান্ত্রিক প্রজাতন্ত্র থেকে শনিবার এসেছিলেন। রোগী মারা গেছেন এবং পরিবার ও স্বাস্থ্যকর্মী সহ ২৮ জন সংযোগ চিহ্নিত হয়েছে। ডিসি-তে মে থেকে ৮,০০০ এর বেশি কেস এবং ৪,০০০ মৃত্যু হয়েছে।"
+   }
+  },
+  {
+   "id": "asqabx",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "Rest of World",
+   "srcLang": "en",
+   "url": "https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "image": "https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final-768x432.jpg",
+   "published": "2026-10-06T10:00:00.000Z",
+   "added": "2026-10-06T10:07:39.064Z",
+   "origTitle": "Not just AI. China is building technologies that challenge U.S. dominance",
+   "en": {
+    "title": "China overtakes US in critical technology research",
+    "summary": "China now leads research in nearly 90% of crucial technologies, from AI to nuclear energy and synthetic biology, according to a December 2025 tracker. Chinese investors spent nearly $1 trillion on clean energy in 2024, making 70% of global EVs and controlling 85% of solar manufacturing. This reverses a trend from 25 years ago when US scientists led in over 90% of technologies."
+   },
+   "bn": {
+    "title": "চীন গুরুত্বপূর্ণ প্রযুক্তিতে যুক্তরাষ্ট্রকে ছাড়িয়ে গেছে",
+    "summary": "ডিসেম্বর ২০২৫ ট্র্যাকার অনুযায়ী চীন এআই থেকে পরমাণু শক্তি এবং সিন্থেটিক জীববিজ্ঞান পর্যন্ত গুরুত্বপূর্ণ প্রযুক্তির প্রায় ৯০ শতাংশে গবেষণায় নেতৃত্ব দিচ্ছে। চীনা বিনিয়োগকারীরা ২০২৪ সালে পরিচ্ছন্ন শক্তিতে প্রায় ১ ট্রিলিয়ন ডলার খরচ করেছেন এবং এখন বৈশ্বিক ইভি এর ৭০ শতাংশ তৈরি করছে।"
+   }
+  },
+  {
+   "id": "15yl67i",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac4c151bc-1791279441.jpg?resize=1920%2C1440",
+   "published": "2026-10-06T09:39:03.000Z",
+   "added": "2026-10-06T10:07:39.064Z",
+   "origTitle": "India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility",
+   "en": {
+    "title": "India's protest wave challenges Modi's political dominance",
+    "summary": "Thousands of Indians are protesting across the country against various issues. Supporters of the Cockroach Janta Party are demanding the resignation of Chief Election Commissioner Gyanesh Kumar over voter roll manipulation claims. Young women are also protesting in Delhi over safety after a girl was allegedly gang-raped, while IIT Bombay parents are demanding arrests over caste-based harassment."
+   },
+   "bn": {
+    "title": "ভারতে প্রতিবাদ ঢেউ মোদীর প্রভাব চ্যালেঞ্জ করছে",
+    "summary": "ভারতজুড়ে হাজার হাজার মানুষ বিভিন্ন বিষয়ে প্রতিবাদ করছেন। ককরোচ জান্তা পার্টির সমর্থকরা নির্বাচন কমিশনার গ্যানেশ কুমারের পদত্যাগ দাবি করছেন ভোটার তালিকা ম্যানিপুলেশনের অভিযোগে। দিল্লিতে নারী নিরাপত্তা নিয়ে মহিলারা প্রতিবাদ করছেন এবং আইআইটি বম্বে-তে পিতামাতারা জাতিভিত্তিক হয়রানির অভিযোগে গ্রেফতারের দাবি করছেন।"
+   }
+  },
+  {
+   "id": "1ulsgw7",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.co.uk/bengali/live/c370p45wkgqgt?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4825/live/7fc2da50-c165-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-06T10:07:39.064Z",
+   "added": "2026-10-06T10:07:39.064Z",
+   "origTitle": "ঢাকার সিএমএম আদালত থেকে এক আসামি পালিয়ে গেছে",
+   "en": {
+    "title": "Accused escapes from Dhaka court",
+    "summary": "An accused named Shariful Islam Shafiq fled from Dhaka's Chief Metropolitan Magistrate Court. A prosecution officer from Dhaka Metropolitan Police confirmed the escape. Meanwhile, India's High Commissioner to Bangladesh met Prime Minister Modi in Delhi on Tuesday to discuss bilateral issues including a possible visit by PM Tarek Rahman and the extradition of former PM Sheikh Hasina."
+   },
+   "bn": {
+    "title": "ঢাকা আদালত থেকে আসামি পালিয়ে গেছে",
+    "summary": "শরিফুল ইসলাম শফিক নামে এক আসামি ঢাকার চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট আদালত থেকে পালিয়ে গেছেন। ঢাকা মেট্রোপলিটন পুলিশের একজন কর্মকর্তা এটি নিশ্চিত করেছেন। এদিকে ভারতের হাইকমিশনার দীনেশ ত্রিবেদী মঙ্গলবার দিল্লিতে প্রধানমন্ত্রী নরেন্দ্র মোদীর সাথে দেখা করেছেন তারেক রহমানের ভারত সফর এবং শেখ হাসিনার প্রত্যর্পণ সহ দ্বিপাক্ষিক বিষয় নিয়ে।"
+   }
+  },
   {
    "id": "ymqxio",
    "section": "news",
@@ -2463,160 +2617,6 @@
    "bn": {
     "title": "চট্টগ্রাম পোর্টের চারটি কন্টেইনার টার্মিনাল কী কী",
     "summary": "চট্টগ্রাম পোর্টে চার্যুক্ত চারটি কন্টেইনার টার্মিনাল আছে: এনসিটি (সবচেয়ে বড়, ৪৪% ট্রাফিক হ্যান্ডেল করে), সিসিটি (১৬%), জিসিবি (৩৬%) এবং পিসিটি (৪%)। পঞ্চম টার্মিনাল এলসিটি এখনও তৈরি হচ্ছে। সরকার এখন এনসিটি আপগ্রেড করতে ১৫ বছরের জন্য একটি বিদেশি অপারেটর আনার পরিকল্পনা করছে।"
-   }
-  },
-  {
-   "id": "wzohfv",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/district/bmwy6khh0s",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-03/36ssugfj/madaripurdh0699202610034d6c3107-436c-4eb1-ad34-25b84476611d.jpg",
-   "published": "2026-10-03T06:07:49.000Z",
-   "added": "2026-10-03T06:24:06.765Z",
-   "origTitle": "লোকাল বাসের টিকিট বিক্রিকে কেন্দ্র করে দুই পক্ষের সংঘর্ষ, ককটেল বিস্ফোরণ, আহত ১০",
-   "en": {
-    "title": "Bus ticket dispute escalates to violence in Barisal-Madaripur border",
-    "summary": "A dispute over bus ticket sales in Bhuighat area, on the border between Madaripur's Kalkini and Barisal's Gournodi upazila, erupted into clashes Friday evening. Two groups threw cocktails and chased each other on the Dhaka-Barisal highway for nearly two hours, injuring at least 10 people. Locals burned tires, halting traffic for an hour. The conflict started Monday over a seat dispute at a bus counter."
-   },
-   "bn": {
-    "title": "বাস টিকিট বিরোধ থেকে বরিশাল-মাদারীপুর সীমান্তে সংঘর্ষ",
-    "summary": "মাদারীপুরের কালকিনি এবং বরিশালের গৌরনদী উপজেলার সীমান্তবর্তী ভুরঘাটা এলাকায় বাস টিকিট বিক্রয় নিয়ে বিরোধ গত শুক্রবার সন্ধ্যায় সংঘর্ষে পরিণত হয়। দুই পক্ষ ঢাকা-বরিশাল মহাসড়কে ককটেল বিস্ফোরণ ও পাল্টাপাল্টি ধাওয়া করে প্রায় দুই ঘণ্টা ধরে। কমপক্ষে ১০ জন আহত হয়েছেন এবং স্থানীয়রা টায়ার জ্বালিয়ে যান চলাচল বন্ধ করেছেন।"
-   }
-  },
-  {
-   "id": "9bjeeq",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/international/middle-east/3f37iac4si",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-03/3enrvk63/2026-10-02T160216Z842610718RC2OLNAXPHY7RTRMADP3IRAN-CRISIS-YEMEN.JPG",
-   "published": "2026-10-03T05:29:19.000Z",
-   "added": "2026-10-03T06:24:06.765Z",
-   "origTitle": "Saudi plans Houthi offensive with 100,000 Yemeni troops, US, other countries' support",
-   "en": {
-    "title": "Saudi Arabia plans major offensive against Houthis in Yemen",
-    "summary": "Saudi Arabia is preparing a military offensive against Iran-backed Houthi militants in Yemen within the coming weeks, led by Yemeni forces and supported by Saudi airstrikes. The US will provide intelligence while regional and European allies offer mainly defensive aid. A key goal is to reverse Houthi gains along the Red Sea coast and control of the Bab el-Mandeb strait. Saudi Arabia has been involved in Yemen's civil war since 2015."
-   },
-   "bn": {
-    "title": "সৌদি আরব ইয়েমেনে হুথিদের বিরুদ্ধে বড় অপারেশন পরিকল্পনা করছে",
-    "summary": "সৌদি আরব আগামী কয়েক সপ্তাহের মধ্যে ইয়েমেনে ইরান-সমর্থিত হুথি বাহিনীর বিরুদ্ধে সামরিক অপারেশন শুরু করতে যাচ্ছে। অপারেশনটি ইয়েমেনি বাহিনী পরিচালনা করবে এবং সৌদি বিমান হামলা সমর্থন করবে। আমেরিকা গোয়েন্দা তথ্য দেবে, আঞ্চলিক ও ইউরোপীয় মিত্ররা প্রতিরক্ষা সহায়তা দেবে। লক্ষ্য লাল সাগরের উপকূলে হুথিদের অগ্রগতি রোধ করা এবং বাব আল-মান্দেব প্রণালীর নিয়ন্ত্রণ ফিরে পাওয়া।"
-   }
-  },
-  {
-   "id": "nr7mio",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-   "published": "2026-10-03T00:45:39.000Z",
-   "added": "2026-10-03T06:23:54.712Z",
-   "origTitle": "Meta wants your next gadget to be Muse-infused",
-   "en": {
-    "title": "Meta opens Muse AI agent to custom hardware builders",
-    "summary": "Meta released Muse Gadgets, an open-source project letting developers build custom hardware for Muse, its personal AI agent. The company provided firmware and software tools so users can connect Muse to displays, sensors, and smart devices using boards like Raspberry Pi. Meta is also giving away 5,000 free Muse Home Link USB-C devices to subscribers."
-   },
-   "bn": {
-    "title": "মেটা এআই এজেন্ট মিউজ কাস্টম হার্ডওয়্যারের জন্য খুলে দিয়েছে",
-    "summary": "মেটা মিউজ গ্যাজেট চালু করেছে যাতে ডেভেলপাররা মিউজের জন্য নিজস্ব হার্ডওয়্যার তৈরি করতে পারে। কোম্পানি সফটওয়্যার ও ফার্মওয়্যার সরঞ্জাম দিয়েছে যাতে মিউজ ডিসপ্লে ও স্মার্ট ডিভাইসের সাথে যুক্ত হয়। মেটা ৫ হাজার ফ্রি মিউজ হোম লিংক ডিভাইস বিতরণ করছে।"
-   }
-  },
-  {
-   "id": "xn3bqz",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_9357-1790964073.jpg?resize=1920%2C1440",
-   "published": "2026-10-03T05:39:29.000Z",
-   "added": "2026-10-03T06:23:54.712Z",
-   "origTitle": "Gaza voters want jobs and security as Palestinian elections approach",
-   "en": {
-    "title": "Gaza youth prioritize jobs and security ahead of elections",
-    "summary": "With Palestinian legislative elections set for November 28, young Gazans like Ahmad Mohsen face unemployment rates around 80 percent. Mohsen, a nursing graduate turned internet vendor, wants candidates to address stable jobs, security, housing, and healthcare. Gaza's economy has been destroyed by years of Israeli blockade and war that killed over 74,000 Palestinians."
-   },
-   "bn": {
-    "title": "গাজার যুবকরা নির্বাচনের আগে চাকরি ও নিরাপত্তা চায়",
-    "summary": "নভেম্বর ২৮-এ ফিলিস্তিনি নির্বাচন আসছে এবং গাজায় বেকারত্বের হার ৮০ ভাগ। আহমদ মহসেনের মতো যুবকরা স্থিতিশীল চাকরি, নিরাপত্তা ও স্বাস্থ্যসেবা চায়। ইসরায়েলি অবরোধ ও যুদ্ধে সাড়ে ৭৪ হাজার ফিলিস্তিনি নিহত হয়েছে।"
-   }
-  },
-  {
-   "id": "15q1lke",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg",
-   "published": "2026-10-03T06:13:22.000Z",
-   "added": "2026-10-03T06:23:54.712Z",
-   "origTitle": "Russia strikes second major bridge in Kyiv, mayor says",
-   "en": {
-    "title": "Russia strikes second major bridge in Kyiv, intensifying attacks",
-    "summary": "Russian forces hit the Northern Bridge in Kyiv on Saturday, damaging the road and trolleybus lines, after targeting the Southern Bridge multiple times since Thursday. These bridges connect Kyiv's eastern and western halves and were hit for the first time since Thursday. Mayor Vitali Klitschko warned the city is in a \"very dramatic situation.\""
-   },
-   "bn": {
-    "title": "রাশিয়া কিয়েভে দ্বিতীয় প্রধান সেতুতে আঘাত করেছে",
-    "summary": "শনিবার রাশিয়া কিয়েভের উত্তর সেতুতে আঘাত করেছে যা রাস্তা ও ট্রলিবাস লাইন ক্ষতিগ্রস্ত করেছে। গৃহের দক্ষিণ সেতুও বৃহস্পতিবার থেকে বারবার লক্ষ্য হয়েছে। মেয়র ক্লিটশকো বলেছেন শহর অত্যন্ত সংকটপূর্ণ পরিস্থিতিতে আছে।"
-   }
-  },
-  {
-   "id": "1dx707x",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cq78pl4kmml8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad6d/live/d0eea8a0-bed1-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-03T03:43:57.000Z",
-   "added": "2026-10-03T06:23:54.712Z",
-   "origTitle": "ট্রাম্পের রপ্তানি নিষেধাজ্ঞা হুমকির পর ১০ কোটি ব্যারেল তেল ও ডিজেল ছাড়ার সিদ্ধান্ত নিল জি-৭",
-   "en": {
-    "title": "G-7 agrees to release 100 million barrels of oil and diesel",
-    "summary": "The G-7 alliance agreed to release 100 million barrels of oil and diesel into global markets within four months to ease fuel shortages and rising prices. The move came after US President Trump threatened to ban diesel exports. The countries will coordinate through the International Energy Agency to stabilize energy supply."
-   },
-   "bn": {
-    "title": "জি-৭ এক কোটি ব্যারেল তেল ও ডিজেল বাজারে ছাড়তে সম্মত",
-    "summary": "জ্বালানি সংকট মোকাবেলায় জি-৭ দেশগুলো চার মাসে এক কোটি ব্যারেল তেল ও ডিজেল বাজারে ছাড়ানোর সিদ্ধান্ত নিয়েছে। ট্রাম্প ডিজেল রপ্তানি নিষিদ্ধের হুমকি দেওয়ার পর এই পদক্ষেপ নেওয়া হয়েছে। আন্তর্জাতিক জ্বালানি সংস্থা এই প্রক্রিয়ার সমন্বয় করবে।"
-   }
-  },
-  {
-   "id": "yjiqp5",
-   "section": "news",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/tension-flares-between-khulna-university-students-locals-over-facebook-post-1561071",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/29/khulna_university.jpg",
-   "published": "2026-10-03T06:05:00.000Z",
-   "added": "2026-10-03T06:23:54.712Z",
-   "origTitle": "Tension flares between Khulna University students, locals over Facebook post",
-   "en": {
-    "title": "Khulna University clash: students and locals clash over Facebook post",
-    "summary": "A confrontation broke out between Khulna University students and local residents near campus on October 2 over Facebook posts about drug use and alleged misconduct. Students say they called someone to explain the posts, but locals arrived with political backing and attacked them with bricks and stones. Police brought the situation under control; investigations are ongoing."
-   },
-   "bn": {
-    "title": "খুলনা বিশ্ববিদ্যালয়ে শিক্ষার্থী ও স্থানীয়দের সংঘর্ষ",
-    "summary": "খুলনা বিশ্ববিদ্যালয়ের ক্যাম্পাসের কাছে ২ অক্টোবর শিক্ষার্থী ও স্থানীয় বাসিন্দাদের মধ্যে সংঘর্ষ হয়েছে। বিশ্ববিদ্যালয়ের মাদক পরিস্থিতি নিয়ে একটি ফেসবুক পোস্টের কারণে ঘটনাটি শুরু হয়। স্থানীয়রা রাজনৈতিক সমর্থন নিয়ে এসেছিল এবং ইট-পাথর ফেলে। পুলিশ পরিস্থিতি নিয়ন্ত্রণে এনেছে।"
    }
   }
  ]
