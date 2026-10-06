@@ -1,39 +1,39 @@
 {
- "updatedAt": "2026-10-06T16:46:48.042Z",
+ "updatedAt": "2026-10-06T21:36:16.174Z",
  "burning": [
   {
    "id": "1obnxj2",
    "heat": 5,
    "why": {
-    "en": "Nine dengue deaths in one day signals a health crisis hitting Bangladesh hard right now.",
-    "bn": "এক দিনে নয় জন ডেঙ্গুতে মারা গেছে—এটা বাংলাদেশের জন্য একটা বড় স্বাস্থ্য সংকট।"
+    "en": "Nine dengue deaths in one day—public health crisis dominating news.",
+    "bn": "এক দিনে নয় জন ডেঙ্গু মৃত্যু—জনস্বাস্থ্য সংকট সংবাদে শীর্ষে।"
    },
    "rank": 1
   },
   {
-   "id": "1cvxamp",
+   "id": "cf6c7c",
    "heat": 5,
    "why": {
-    "en": "Gandhi cousins arrested at Delhi protest is major political news trending across the region.",
-    "bn": "দিল্লিতে গান্ধী চাচাতো ভাইদের গ্রেপ্তার একটা বড় রাজনৈতিক খবর যা সারা অঞ্চলে আলোড়ন ফেলছে।"
+    "en": "Body of bdnews24 editor Toufique arrives in Bangladesh—major media story.",
+    "bn": "bdnews24 সম্পাদক তৌফিক্বের লাশ বাংলাদেশে আসছে—বড় মিডিয়া খবর।"
    },
    "rank": 2
   },
   {
-   "id": "15yl67i",
+   "id": "13s5cgw",
    "heat": 4,
    "why": {
-    "en": "India's protest wave challenging Modi is significant regional political news with broad coverage.",
-    "bn": "ভারতের প্রতিবাদ আন্দোলন মোদীর কর্তৃত্বে চ্যালেঞ্জ ফেলছে—এটা অঞ্চলব্যাপী একটা বড় রাজনৈতিক খবর।"
+    "en": "Messi's final Argentina match—global football moment covered widely.",
+    "bn": "মেসির শেষ আর্জেন্টিনা ম্যাচ—বিশ্বব্যাপী ফুটবল মুহূর্ত।"
    },
    "rank": 3
   },
   {
-   "id": "16b2y46",
+   "id": "1mjd6gq",
    "heat": 4,
    "why": {
-    "en": "Over 21 migrant worker bodies returning daily is a recurring tragedy affecting many Bangladeshi families.",
-    "bn": "প্রতিদিন গড়ে ২১ জন প্রবাসী শ্রমিকের লাশ দেশে ফিরছে—এটা হাজারো বাংলাদেশি পরিবারকে স্পর্শ করে।"
+    "en": "US charges man for aiding Canadian school shooter—serious crime story.",
+    "bn": "কানাডিয়ান স্কুল শুটারকে সাহায্যের জন্য আমেরিকা অভিযোগ—গুরুতর অপরাধ।"
    },
    "rank": 4
   },
@@ -41,59 +41,75 @@
    "id": "1mrqr9r",
    "heat": 3,
    "why": {
-    "en": "Laos halting Bangladesh worker visas for four months directly impacts migrant workers' livelihoods.",
-    "bn": "লাওস চার মাসের জন্য বাংলাদেশি শ্রমিক ভিসা বন্ধ করেছে—এটা প্রবাসীদের জীবিকায় সরাসরি প্রভাব ফেলবে।"
+    "en": "Laos halts Bangladesh worker visas for four months—migrant concern.",
+    "bn": "লাওস বাংলাদেশ কর্মী ভিসা চার মাসের জন্য বন্ধ করেছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1qokw2l",
-   "tag": "#EbolaAlert",
+   "id": "13s5cgw",
+   "tag": "#MessiFinal",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "Kenya's first Ebola death confirmed",
-    "text": "Kenya has confirmed its first Ebola death with 28 contacts identified. This is a major health alert for the region."
+    "title": "Messi plays his last Argentina game",
+    "text": "Global football is watching as Lionel Messi takes the pitch for his final match wearing the Argentina shirt. A moment fans have been waiting for and dreading."
    },
    "bn": {
-    "title": "কেনিয়ায় ইবোলায় প্রথম মৃত্যু",
-    "text": "কেনিয়ায় ইবোলায় প্রথম মৃত্যু নিশ্চিত হয়েছে এবং ২৮ জন যোগাযোগকারী চিহ্নিত হয়েছে। এটা অঞ্চলের জন্য একটা গুরুতর সতর্কতা।"
+    "title": "মেসি তার শেষ আর্জেন্টিনা ম্যাচ খেলছেন",
+    "text": "বিশ্বব্যাপী ফুটবল ফ্যানরা দেখছেন লিওনেল মেসি আর্জেন্টিনার পোশাকে তার শেষ ম্যাচ খেলছেন। ফ্যানরা যা অপেক্ষা করছিলেন।"
    }
   },
   {
-   "id": "asqabx",
-   "tag": "#TechWar",
+   "id": "1obnxj2",
+   "tag": "#DengueCrisis",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Dengue spike: nine deaths in 24 hours",
+    "text": "Bangladesh is facing a severe dengue outbreak with nine deaths in a single day and over 1,900 people hospitalised. Health authorities are on high alert."
+   },
+   "bn": {
+    "title": "ডেঙ্গু বৃদ্ধি: ২৪ ঘণ্টায় নয় মৃত্যু",
+    "text": "বাংলাদেশ গুরুতর ডেঙ্গু মহামারীর মুখোমুখি—এক দিনে নয় জন মৃত এবং ১৯০০+ জন হাসপাতালে ভর্তি। স্বাস্থ্য কর্তৃপক্ষ সর্বোচ্চ সতর্কতায়।"
+   }
+  },
+  {
+   "id": "16b2y46",
+   "tag": "#MigrantCrisis",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "China overtakes US in critical tech research",
-    "text": "A major shift in global tech power as China moves ahead of the US in critical technology research."
+    "title": "Over 21 migrant worker bodies daily",
+    "text": "Bangladesh faces an ongoing tragedy as more than 21 migrant worker bodies return home every day on average, raising serious concerns about worker safety abroad."
    },
    "bn": {
-    "title": "চীন মার্কিনদের টেক গবেষণায় এগিয়ে গেছে",
-    "text": "বৈশ্বিক প্রযুক্তিতে একটা বড় শিফট—চীন সংকটপূর্ণ গবেষণায় আমেরিকাকে পেছনে ফেলেছে।"
+    "title": "প্রতিদিন ২১+ প্রবাসী মৃত্যু",
+    "text": "বাংলাদেশ একটি চলমান বিয়োগ মোকাবেলা করছে যেখানে গড়ে প্রতিদিন ২১+ জন প্রবাসী কর্মীর লাশ দেশে ফেরে। বিদেশে কর্মী নিরাপত্তা নিয়ে গভীর উদ্বেগ।"
    }
   },
   {
    "id": "nyq7qs",
-   "tag": "#DurgaPuja2025",
+   "tag": "#DurgaPuja",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Bangladesh approves five-day Durga Puja break",
-    "text": "The government has approved a five-day consecutive holiday for Durga Puja in October, a major relief for the festival."
+    "title": "Bangladesh approves Durga Puja holiday break",
+    "text": "Bangladesh has approved a five-day continuous break in October for Durga Puja celebrations, giving communities time to observe the major festival."
    },
    "bn": {
-    "title": "দুর্গা পূজায় পাঁচ দিনের ছুটি অনুমোদিত",
-    "text": "সরকার অক্টোবরে দুর্গা পূজার জন্য পাঁচ দিনের লাগাতার ছুটি অনুমোদন করেছে।"
+    "title": "দুর্গা পূজার ছুটি অনুমোদিত",
+    "text": "বাংলাদেশ অক্টোবরে দুর্গা পূজার জন্য পাঁচ দিনের ছুটি অনুমোদন করেছে যাতে সম্প্রদায়গুলি এই বড় উৎসব পালন করতে পারে।"
    }
   }
  ],
