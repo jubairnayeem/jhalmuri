@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-05T22:34:20.254Z",
+ "updatedAt": "2026-10-06T02:54:52.235Z",
  "items": [
+  {
+   "id": "ymqxio",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1557244.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/397400/397480.jpg",
+   "published": "2026-10-06T00:11:28.000Z",
+   "added": "2026-10-06T02:54:52.234Z",
+   "origTitle": "Pakistan withdraw from World Championship of Legends after PCB refuse NOCs",
+   "en": {
+    "title": "Pakistan pulls out of World Championship of Legends",
+    "summary": "Pakistan has withdrawn from this year's World Championship of Legends after the PCB declined to provide no-objection certificates (NOCs) for players. The tournament began on October 3, and Pakistan's match against Bangladesh had already been postponed. It's unclear if Pakistan will compete further in the event."
+   },
+   "bn": {
+    "title": "ওয়ার্ল্ড চ্যাম্পিয়নশিপ অফ লেজেন্ডস থেকে পাকিস্তান সরে গেছে",
+    "summary": "পিসিবি খেলোয়াড়দের এনওসি না দেওয়ায় পাকিস্তান ওয়ার্ল্ড চ্যাম্পিয়নশিপ অফ লেজেন্ডস থেকে বেরিয়ে এসেছে। টুর্নামেন্ট তিন অক্টোবর শুরু হয়েছিল এবং পাকিস্তান বনাম বাংলাদেশ ম্যাচ আগেই পিছিয়ে দেওয়া হয়েছিল। পাকিস্তান আর টুর্নামেন্টে খেলবে কিনা তা পরিষ্কার নয়।"
+   }
+  },
+  {
+   "id": "1obnxj2",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "ইত্তেফাক",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPQklDRjF1cjQ3b1llejVpM0phUXB3WkF6YktrNnNkRVJXaWFsSW1PR2loTWM4YXppMGtuN3RDNTFQbHlnbHVNTHpDcTJoU1FhX2FYcjFvS2gxZnJidnVoV20xWlRSSlJLd2dBbGZmcDNYeGhsdllscU43aUVCV1BhbFNfRDBUR3BXbVBoRlc0czJhUG1OeGtTbExTbFpWRHk4QlZqRGFYd09TOE5SbEhuMUpsOXkxRmtJTF9OdW5ZVzBXcHpHMHZMTkRudlIwa1JMNTV3cllfcmJzRnNKNGhJd3Exb3lmb05rYzRLbWwyTjN1THFPLTNSekdsMFJpcmJSSXFhOW04STJjTFlDRWs0NU5Gcm5NLXZuV1Izd1NSUUVlbzhCOURHeEhoTEw2MTY5Z1dFZjl2SWxoam04QVk2Umx3QWRlNTdSTVRfNUlEbmJLQ2F5WS1FU1VzSWpxdkxFODZqVHVTZW4tLVl6Z0hZRGhfaGJvem1lWDNxdHN0eEZjaHBfbnJMWHdoY2IxZGJlaWlQOGtvNDREZUFMLVh4R3BVcXhxeFQxM0NXSE4tN2ZSdkUxWUk3Y1JlMjBNVVVuWjBVVjRhbThXaW5POTdkQ1d0ZnJxc0x3ZS01VUNadXdJMi1TaldfWEdaOTlpYVBoZWRJY2RzWC0yRDV5eVc4OEkwUVpMall4TUl0UXdqUVhua19yTnNkVktqOVUtckV0SUR3elBjN2h2M0hPSzZSVkRwd9IBuARBVV95cUxQMTNmXzFCMHpsMTNvcm5FVHFNTG9ia1RkVHc4aUpteEptV3BjUWt6SDQ0dTZLQ3pJc0VjNDBOTUVtdkNKN05hZ3VQU0duVHRjLVNpZ2Y2WmtEV3QwemNmZXU3bk44WXFYakd2NnRnZTdwa21ZS0RHSktYalhGSGdBWUxNMHFiTE1HMGlaRFdPZlZVZVUtUE5HWm0taTZ3ZFhXNTM2LWVMSndDZTBMdTFVUno1dmIwUzQxV1JGcXdHMG53MEtGck43NU9SQTJvVTRCRjRhRVVvMWo1N2xIZTc1ZExZbm9lblEtalpTSkRMUExDRzNBWi1reVAyQm55cG9mTFRnZ1dZa3FBbW1mYi1Zb3lxTld6NmNGSkF2Y0lqN2w2RWRRVnJESG1DUDhqZ0xGUDNSOFY4eVpleGJ6V3VUWnUtRGQ2R1RJLVhxQ0RXZDl2V3ExNjJtWk96WVBfa2ZxcldsQWY2ZjVta0dwaXB6U3g4V1ZodllQOTVNa1JqZHUzekVPNUFKNV9NdGxQbTlXU0pEYks1am5iMC1PTi1TTXBscGgwWGZMdnZXOFNSU3hZRlpTOGdVSzA4MUstendYZVR0UThqZnk1OXJtS1dQckVyQjJ0VElUS3ZzUGxIeGsxbkloNHpNSW1YT2R5R3FKQUdSVG54RGFnanFjem8yc0NmbXd4ek5CUV90YUxBbFN2LVNXaTVnQlNzcDVNMnE0cDRNUlRJUC13c1VYYWdhaHUtZU41cjJR?oc=5",
+   "image": null,
+   "published": "2026-10-05T11:46:23.000Z",
+   "added": "2026-10-06T02:54:52.234Z",
+   "origTitle": "ডেঙ্গুতে একদিনে ৯ জনের মৃত্যু, হাসপাতালে ভর্তি ১ হাজার ৯০২",
+   "en": {
+    "title": "Nine dengue deaths in one day, over 1,900 hospitalised",
+    "summary": "Nine people died from dengue in a single day, with 1,902 hospitalisations reported. The spike reflects the ongoing dengue outbreak affecting Bangladesh. Health authorities continue monitoring cases as the situation remains critical."
+   },
+   "bn": {
+    "title": "একদিনে নয়জনের ডেঙ্গু মৃত্যু, ১ হাজার ৯০২ জন হাসপাতালে",
+    "summary": "ডেঙ্গুতে একদিনে নয়জন মারা গেছেন এবং ১ হাজার ৯০২ জন হাসপাতালে ভর্তি হয়েছেন। বাংলাদেশে ডেঙ্গু আক্রমণ চলমান এবং মামলা বাড়ছে। স্বাস্থ্য কর্তৃপক্ষ পরিস্থিতি নিয়ে সতর্ক নজরদারি চালিয়ে যাচ্ছে।"
+   }
+  },
+  {
+   "id": "5o7uxq",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Dhaka Tribune",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkFnNzd4VTVzVTlMQVpLY0lHU2dFeXRTcWpEUG1aTDJIemx5R25VS0pYcndaQmlHdGlTMUd1TFpoM2xFNzBIRkxxRE5hODdKaVZSLUxXcnVwOVFzZjVYMDBBR0FzemxoNkYxT0tpMTRmbzNzZkNTQk1peFMxWlRXbFd0S1dCcWRFRjNsYkE4V1lTS1NvazVDbmMwNFBRZ9IBowFBVV95cUxQZktyNndaaWI0SWNpaU9hNlVLblRTOHU5ZXhCQXdnSDBKN2dvVEJCeGd0MlZta1JWOHVfX0N3dkNxdk5rYUVfQk9KNmcwd3NITWlrZWEwVzdkRk1DcmE2US1lU254cEt2Z3R6UUVxWWNBenhDbENNc0RXdWFjZnpTNFNNd0o2aENkck54dVI0dS02STZVX25tRnpodEE0TG9XcmlJ?oc=5",
+   "image": null,
+   "published": "2026-10-05T13:27:05.000Z",
+   "added": "2026-10-06T02:54:52.234Z",
+   "origTitle": "Mishu Biswas sets new national record in full-distance IRONMAN",
+   "en": {
+    "title": "Mishu Biswas sets Bangladesh IRONMAN record",
+    "summary": "Mishu Biswas has set a new national record in full-distance IRONMAN. The achievement marks a major milestone for endurance sports in Bangladesh. IRONMAN is one of the toughest athletic challenges—combining a 2.4-mile swim, 112-mile bike ride, and marathon run all in one day."
+   },
+   "bn": {
+    "title": "মিশু বিশ্বাস সম্পূর্ণ দূরত্বের আইরনম্যানে নতুন রেকর্ড করেছেন",
+    "summary": "মিশু বিশ্বাস বাংলাদেশে সম্পূর্ণ দূরত্বের আইরনম্যানে নতুন জাতীয় রেকর্ড স্থাপন করেছেন। এটা এথলেটিক্সে একটা বড় মাইলস্টোন। আইরনম্যান এক্সপ্রিমলি কঠিন একটা স্পোর্টস—সাঁতার, বাইক এবং ম্যারাথন রান সব একসাথে।"
+   }
+  },
+  {
+   "id": "16b2y46",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/ms35nsib27",
+   "image": "https://media.prothomalo.com/prothomalo-english/2024-05/a9e25cc3-bfc3-415b-8b7a-4f28b7f32733/20240502_SH_0009054855.JPG",
+   "published": "2026-10-06T02:32:30.000Z",
+   "added": "2026-10-06T02:54:41.957Z",
+   "origTitle": "Over 21 bodies return home every day on average",
+   "en": {
+    "title": "Over 21 migrant worker bodies return daily on average",
+    "summary": "Al Amin from Pabna died in Cambodia after being crushed by tiles at work in April 2025, but his body returned to Bangladesh only in September—after 18 months. Legal workers' bodies return faster, but undocumented workers face delays. The Wage Earners' Welfare Board handles repatriation."
+   },
+   "bn": {
+    "title": "প্রতিদিন গড়ে ২১টিরও বেশি শ্রমিকের মৃতদেহ ফেরত আসে",
+    "summary": "পাবনার আল আমিন কম্বোডিয়ায় কাজ করার সময় ২০২৫ সালের এপ্রিলে টাইলসের নিচে মারা গিয়েছিলেন, কিন্তু তার মৃতদেহ ১৮ মাস পর সেপ্টেম্বরে বাংলাদেশে ফিরে এসেছে। নথিভুক্ত শ্রমিকদের মৃতদেহ দ্রুত আসে, কিন্তু অনথিভুক্ত শ্রমিকদের ক্ষেত্রে বিলম্ব ঘটে।"
+   }
+  },
+  {
+   "id": "1co7mnv",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/africa/i87oxbzohv",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-06/yaa0l7uj/nigeria.jpg",
+   "published": "2026-10-06T01:48:30.000Z",
+   "added": "2026-10-06T02:54:41.957Z",
+   "origTitle": "নাইজেরিয়ায় সামরিক উড়োজাহাজ বিধ্বস্ত হয়ে নিহত ৩২",
+   "en": {
+    "title": "Nigeria military aircraft crashes, 32 die",
+    "summary": "A Nigerian military plane crashed in Ondo State on Monday, killing all 32 people aboard—25 passengers and 7 crew. The aircraft was flying from Benin City to Lagos. President Tinubu expressed deep condolences and ordered the air force to investigate."
+   },
+   "bn": {
+    "title": "নাইজেরিয়ার সামরিক বিমান দুর্ঘটনায় ৩২ জন নিহত",
+    "summary": "নাইজেরিয়ার ওনডো রাজ্যে সোমবার একটি সামরিক বিমান বিধ্বস্ত হয়েছে, যাতে ৩২ জন মারা গেছেন। বিমানটি বেনিন থেকে লাগোসে যাচ্ছিল। প্রেসিডেন্ট তিনুবু গভীর শোক প্রকাশ করেছেন এবং বিমান বাহিনীকে তদন্তের নির্দেশ দিয়েছেন।"
+   }
+  },
+  {
+   "id": "175cacq",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-04T060611Z_134793740_RC20WNAPI0PB_RTRMADP_3_USA-TRUMP-1791249498.jpg?resize=1920%2C1440",
+   "published": "2026-10-06T01:51:32.000Z",
+   "added": "2026-10-06T02:54:41.957Z",
+   "origTitle": "Trump says taxpayers will no longer fund TV ads that praise him",
+   "en": {
+    "title": "Trump stops using taxpayer money for campaign ads",
+    "summary": "US President Donald Trump says taxpayer funds will no longer pay for TV ads featuring him, after criticism. The ads cost at least $1.5m in federal money and ran before the midterms. Trump will now fund them through his own accounts or MAGA PAC instead."
+   },
+   "bn": {
+    "title": "ট্রাম্প নিজের বিজ্ঞাপনে আর করদাতার টাকা খরচ করবেন না",
+    "summary": "ট্রাম্প বলেছেন, করদাতাদের টাকা দিয়ে তার নিজের বিজ্ঞাপন প্রচার আর করবেন না। এই বিজ্ঞাপনগুলো প্রকাশ্যে সমালোচনার মুখে পড়েছিল। ট্রাম্প এখন থেকে নিজের অর্থ বা তার MAGA PAC ব্যবহার করে এই বিজ্ঞাপনের খরচ বহন করবেন।"
+   }
+  },
+  {
+   "id": "1mrqr9r",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cm9qzv2j220vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e91a/live/4fd67510-c0be-11f1-babe-4199b0e7ccea.jpg",
+   "published": "2026-10-06T01:58:15.000Z",
+   "added": "2026-10-06T02:54:41.957Z",
+   "origTitle": "বাংলাদেশি কর্মীদের ভিসা বন্ধের বিষয়ে যেসব নির্দেশনা দিয়েছে লাওস",
+   "en": {
+    "title": "Laos halts Bangladesh worker visas for four months",
+    "summary": "Laos stopped issuing work permits and entry visas for Bangladeshi workers from September 1 to December 31. The ban affects recruitment, though Laos didn't explain why. Bangladesh suspects shrinking construction work, while officials warn workers not to hand over passports or pay fees to agencies during the freeze."
+   },
+   "bn": {
+    "title": "লাওস চার মাসের জন্য বাংলাদেশি শ্রমিক ভিসা বন্ধ করেছে",
+    "summary": "লাওস সেপ্টেম্বর থেকে ডিসেম্বর পর্যন্ত বাংলাদেশি শ্রমিকদের ওয়ার্ক পারমিট এবং এন্ট্রি ভিসা ইস্যু স্থগিত করেছে। লাওস কোনো কারণ জানায়নি, তবে বাংলাদেশ বলছে নির্মাণ কাজ কমেছে বলেই এই সিদ্ধান্ত হয়েছে। সরকার শ্রমিকদের সতর্ক করেছে যে এই সময়ে তারা যেন কোনো প্রতিষ্ঠানের কাছে পাসপোর্ট না দেয় বা টাকা না দেয়।"
+   }
+  },
   {
    "id": "hjll3d",
    "section": "news",
@@ -2463,94 +2617,6 @@
    "bn": {
     "title": "খুলনা বিশ্ববিদ্যালয়ে শিক্ষার্থী ও স্থানীয়দের সংঘর্ষ",
     "summary": "খুলনা বিশ্ববিদ্যালয়ের ক্যাম্পাসের কাছে ২ অক্টোবর শিক্ষার্থী ও স্থানীয় বাসিন্দাদের মধ্যে সংঘর্ষ হয়েছে। বিশ্ববিদ্যালয়ের মাদক পরিস্থিতি নিয়ে একটি ফেসবুক পোস্টের কারণে ঘটনাটি শুরু হয়। স্থানীয়রা রাজনৈতিক সমর্থন নিয়ে এসেছিল এবং ইট-পাথর ফেলে। পুলিশ পরিস্থিতি নিয়ন্ত্রণে এনেছে।"
-   }
-  },
-  {
-   "id": "erw331",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/cricket/otfsied5fg",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-02/mztd7czl/HTqd5BacAA7n71.jpg",
-   "published": "2026-10-02T23:36:54.000Z",
-   "added": "2026-10-03T00:24:55.410Z",
-   "origTitle": "বাংলাদেশ–শ্রীলঙ্কা: ব্রোঞ্জের লড়াইয়ে টসে হার, লিটনরা আগে ফিল্ডিংয়ে",
-   "en": {
-    "title": "Bangladesh loses toss, fields first in Asian Games bronze match",
-    "summary": "Bangladesh won the toss but chose to field first against Sri Lanka in the Asian Games bronze medal match. Mehedi Hasan took two wickets in one over early on, dismissing Sinath Jayasuriya and Crosspolle. Aliath Al Islam makes his international debut for Bangladesh, while Liton Das captains the side in the full 20-over match."
-   },
-   "bn": {
-    "title": "বাংলাদেশ টসে হেরে ফিল্ডিংয়ে নেমেছে",
-    "summary": "এশিয়ান গেমসের ব্রোঞ্জ ম্যাচে বাংলাদেশ শ্রীলঙ্কার বিপক্ষে টসে হেরে ফিল্ডিংয়ে গেছে। মেহেদী হাসান প্রথম ওভারেই দুটি উইকেট নিয়েছেন। লিটন দাস দলের অধিনায়ক, আর আলিস আল ইসলাম আন্তর্জাতিক ক্রিকেটে তার প্রথম খেলা খেলছেন।"
-   }
-  },
-  {
-   "id": "eidh4i",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
-   "published": "2026-10-03T00:21:57.000Z",
-   "added": "2026-10-03T00:24:55.410Z",
-   "origTitle": "Sanders introduces bill to ban the federal government from using Flock",
-   "en": {
-    "title": "Sanders proposes bill to ban federal use of Flock cameras",
-    "summary": "Senator Bernie Sanders introduced the Ban Flock Act on Friday to stop federal agencies from using automatic license plate readers (ALPRs). Flock, which operates over 120,000 cameras nationwide, has faced backlash from communities over privacy concerns. The bill would allow exceptions only for toll collection and would require data deletion within 48 hours if approved by Congress."
-   },
-   "bn": {
-    "title": "ফেডারেল সরকার ফ্লক ক্যামেরা ব্যবহার করতে পারবে না",
-    "summary": "সেনেটর বার্নি স্যান্ডার্স শুক্রবার 'ব্যান ফ্লক অ্যাক্ট' প্রস্তাব করেছেন, যা ফেডারেল এজেন্সিগুলোকে অটোমেটিক লাইসেন্স প্লেট রিডার ব্যবহার করতে নিষেধ করবে। ফ্লকের ১২০,০০০টিরও বেশি ক্যামেরা আছে যা গোপনীয়তা নিয়ে উদ্বেগ তৈরি করেছে। বিল টোল সংগ্রহ ছাড়া অন্য কাজে ডেটা ৪৮ ঘন্টার বেশি রাখা নিষেধ করবে।"
-   }
-  },
-  {
-   "id": "113vsog",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-02-27T221106Z_1599805176_RC293DAIPBJF_RTRMADP_3_NORTHKOREA-MISSILES-1790737147-1790982956.jpg?resize=1200%2C630&quality=80",
-   "published": "2026-10-02T23:55:24.000Z",
-   "added": "2026-10-03T00:24:55.410Z",
-   "origTitle": "North Korea fires ballistic missile towards the sea, South Korea says",
-   "en": {
-    "title": "North Korea fires ballistic missile toward east coast",
-    "summary": "North Korea fired at least one ballistic missile from the port city of Wonsan toward the sea off its east coast on Saturday morning, according to South Korea's military. The launch came after North Korea's leader's sister dismissed South Korean demands to apologize for landmine blasts that injured three South Korean soldiers. Japan issued an emergency alert about the launch as tensions continue to rise."
-   },
-   "bn": {
-    "title": "উত্তর কোরিয়া ব্যালিস্টিক মিসাইল উৎক্ষেপণ করেছে",
-    "summary": "শনিবার সকালে উত্তর কোরিয়া পূর্ব উপকূলের ওয়ন্সান বন্দর থেকে সমুদ্রের দিকে কমপক্ষে একটি ব্যালিস্টিক মিসাইল ছুড়েছে। দক্ষিণ কোরিয়া ও জাপান জরুরি সতর্কতা জারি করেছে। এই উৎক্ষেপণ হয়েছে উত্তর কোরিয়া সীমানা খনি স্থাপনের দাবি প্রত্যাখ্যান করার পর।"
-   }
-  },
-  {
-   "id": "180opm3",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg",
-   "published": "2026-10-02T20:25:19.000Z",
-   "added": "2026-10-03T00:24:55.410Z",
-   "origTitle": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-   "en": {
-    "title": "G7 releases 100M barrels of oil to calm diesel prices",
-    "summary": "The G7 countries agreed to release 100 million barrels of oil and diesel in the next four months to fight skyrocketing energy prices. The move came after Trump threatened to ban US diesel exports unless Europe released more of its own stocks. Under the deal, G7 members promised not to restrict energy exports to each other, and the release will be coordinated by the International Energy Agency."
-   },
-   "bn": {
-    "title": "ডিজেল দামের চাপ কমাতে জি৭ দেশগুলো তেল ছাড়ছে",
-    "summary": "জি৭ দেশগুলো আগামী চার মাসে ১০ কোটি ব্যারেল তেল ও ডিজেল ছাড়তে সম্মত হয়েছে। ট্রাম্পের ডিজেল রপ্তানি নিষেধের হুমকির পর ইউরোপ যখন নিজের মজুদ ছাড়ার প্রতিশ্রুতি দেয়, তখনই এই সিদ্ধান্ত হয়। চুক্তি অনুযায়ী জি৭ সদস্যরা একে অপরের কাছে শক্তি রপ্তানিতে বিধিনিষেধ লাগাবে না।"
    }
   }
  ]

@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-05T22:34:34.508Z",
+ "updatedAt": "2026-10-06T02:55:05.366Z",
  "burning": [
   {
-   "id": "1dhmyrk",
+   "id": "1obnxj2",
    "heat": 5,
    "why": {
-    "en": "Durga Puja break approved—major cultural news covered by multiple outlets.",
-    "bn": "দুর্গা পূজার ছুটি অনুমোদিত হয়েছে—একাধিক আউটলেট থেকে বড় সাংস্কৃতিক খবর।"
+    "en": "Nine deaths in one day signals a serious dengue spike—major public health crisis.",
+    "bn": "একদিনে নয় জন মারা গেছে—এটা ডেঙ্গু জরুরি অবস্থা।"
    },
    "rank": 1
   },
   {
-   "id": "11rsc5v",
-   "heat": 5,
+   "id": "1mrqr9r",
+   "heat": 4,
    "why": {
-    "en": "Mass casualty crisis in Yemen drawing international attention.",
-    "bn": "ইয়েমেনে বড় ক্ষতির ঘটনা আন্তর্জাতিক মনোযোগ আকর্ষণ করছে।"
+    "en": "Laos halt on worker visas affects thousands of Bangladeshi migrants in a major labor market.",
+    "bn": "লাওসের ভিসা বন্ধ লক্ষ লক্ষ বাংলাদেশি শ্রমিকদের প্রভাবিত করবে।"
    },
    "rank": 2
   },
   {
-   "id": "1arj31g",
+   "id": "16b2y46",
    "heat": 4,
    "why": {
-    "en": "Jamaat mayoral candidates announcement sparks political discussion.",
-    "bn": "জামাত নির্বাচনী প্রার্থী ঘোষণা রাজনীতিতে আলোচনা সৃষ্টি করছে।"
+    "en": "Over 21 migrant bodies returning daily is a persistent humanitarian crisis getting wider coverage.",
+    "bn": "প্রতিদিন ২১+ প্রবাসীর লাশ ফেরত আসা—একটা চলমান ট্র্যাজেডি।"
    },
    "rank": 3
   },
   {
-   "id": "185mo19",
-   "heat": 4,
+   "id": "nyq7qs",
+   "heat": 3,
    "why": {
-    "en": "Large gold smuggling bust at airport—major crime story.",
-    "bn": "বিমানবন্দরে বড় স্বর্ণ চোরাচালানি ধরা পড়েছে।"
+    "en": "Durga Puja holiday approval matters to millions; covered across multiple outlets.",
+    "bn": "দুর্গা পূজার ছুটি—লক্ষ লক্ষ মানুষের জন্য গুরুত্বপূর্ণ।"
    },
    "rank": 4
   },
   {
-   "id": "1fy3g7o",
-   "heat": 4,
+   "id": "5o7uxq",
+   "heat": 3,
    "why": {
-    "en": "University hall principal suspended over journalist assault—press freedom issue.",
-    "bn": "সাংবাদিক নিপীড়নে বিশ্ববিদ্যালয় প্রশাসক স্থগিত—সংবাদ স্বাধীনতার প্রশ্ন।"
+    "en": "Mishu Biswas's IRONMAN record is a notable national sports achievement.",
+    "bn": "মিশু বিশ্বাসের আইরনম্যান রেকর্ড একটা বড় খেলার ঘটনা।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "dvxpti",
-   "tag": "#BrazilElection",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Brazil's right wing surges",
-    "text": "Bolsonaro-backed candidate leads Brazil's first-round presidential vote, making waves globally. The election is dominating search trends across multiple regions."
-   },
-   "bn": {
-    "title": "ব্রাজিলে ডান পন্থার উত্থান",
-    "text": "বলসোনারো সমর্থিত প্রার্থী ব্রাজিলের প্রথম রাউন্ডের নির্বাচনে এগিয়ে আছে। এই নির্বাচন বিশ্বজুড়ে আলোচনা সৃষ্টি করছে।"
-   }
-  },
-  {
-   "id": "s0z8qb",
-   "tag": "#CricketNews",
+   "id": "nyq7qs",
+   "tag": "#DurgaPujaBreak",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "West Indies cricket reshuffle",
-    "text": "West Indies call up Amir Jangoo to replace injured Jewel Andrew. Sports fans tracking squad changes ahead of upcoming matches."
+    "title": "Puja holiday gazetted",
+    "text": "Bangladesh approves five straight days off in October for Durga Puja. Students and workers already planning."
    },
    "bn": {
-    "title": "ওয়েস্ট ইন্ডিজ দল পরিবর্তন",
-    "text": "ওয়েস্ট ইন্ডিজ আমির জাঙ্গো কে আহ্বান জানিয়েছে আহত জুয়েল অ্যান্ড্রুর স্থানে। ক্রীড়া প্রেমীরা আসন্ন ম্যাচের দল নিয়ে আলোচনা করছে।"
+    "title": "পূজার ছুটি অনুমোদিত",
+    "text": "বাংলাদেশ অক্টোবরে দুর্গা পূজার জন্য পাঁচ দিনের ছুটি অনুমোদন করেছে। সবাই পরিকল্পনা করছে।"
    }
   },
   {
-   "id": "hjll3d",
-   "tag": "#NobelPrize",
+   "id": "1obnxj2",
+   "tag": "#DengueCrisis",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Dengue deaths spike sharply",
+    "text": "Nine deaths in one day with over 1,900 hospitalised. Health alerts spreading across the country."
+   },
+   "bn": {
+    "title": "ডেঙ্গু মৃত্যু বাড়ছে",
+    "text": "একদিনে নয় জন মারা গেছেন, ১,৯০০+ হাসপাতালে। সবাই সতর্ক হচ্ছে।"
+   }
+  },
+  {
+   "id": "1mrqr9r",
+   "tag": "#MigrantWorkers",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Laos halts worker visas",
+    "text": "Four-month visa freeze on Bangladesh workers from major labour destination. Thousands affected."
+   },
+   "bn": {
+    "title": "লাওসে ভিসা বন্ধ",
+    "text": "চার মাসের জন্য বাংলাদেশি শ্রমিকদের ভিসা বন্ধ। হাজার হাজার জন প্রভাবিত হবে।"
+   }
+  },
+  {
+   "id": "5o7uxq",
+   "tag": "#IRONMANChamp",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Nobel Prize for brain science",
-    "text": "Nobel Prize awarded for research on brain emotions and behavior. Major recognition for groundbreaking neuroscience work."
+    "title": "Bangladesh IRONMAN record set",
+    "text": "Mishu Biswas breaks national record in endurance athletics. Local sports community buzzing."
    },
    "bn": {
-    "title": "মস্তিষ্ক গবেষণায় নোবেল",
-    "text": "মস্তিষ্কের আবেগ এবং আচরণ গবেষণায় নোবেল পুরস্কার প্রদান করা হয়েছে।"
-   }
-  },
-  {
-   "id": "9iji04",
-   "tag": "#BimanCrisis",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Biman Bangladesh spare parts shortage",
-    "text": "National carrier faces critical spare parts shortage affecting operations. Infrastructure challenge putting pressure on domestic aviation."
-   },
-   "bn": {
-    "title": "বিমান বাংলাদেশের যন্ত্রাংশ সংকট",
-    "text": "জাতীয় বিমান সংস্থা যন্ত্রাংশের অভাবে মুখোমুখি হচ্ছে যা পরিচালনাকে প্রভাবিত করছে।"
+    "title": "আইরনম্যান রেকর্ড ভেঙে গেছে",
+    "text": "মিশু বিশ্বাস বাংলাদেশের রেকর্ড স্থাপন করেছেন। সবাই উত্সাহিত।"
    }
   }
  ],
