@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-07T08:34:42.160Z",
+ "updatedAt": "2026-10-07T16:22:44.816Z",
  "burning": [
   {
-   "id": "1obnxj2",
+   "id": "1dagpgd",
    "heat": 5,
    "why": {
-    "en": "Nine dengue deaths in one day with over 1,900 hospitalised signals a major public health crisis.",
-    "bn": "একদিনে নয় জনের ডেঙ্গু মৃত্যু এবং ১৯০০+ হাসপাতালভর্তি একটি বিশাল জনস্বাস্থ্য সংকট।"
+    "en": "Messi's farewell match dominates sports coverage across multiple outlets today.",
+    "bn": "মেসির বিদায় ম্যাচ আজ একাধিক আউটলেটে শীর্ষ খবর।"
    },
    "rank": 1
   },
   {
-   "id": "13s5cgw",
-   "heat": 5,
+   "id": "19bxyxs",
+   "heat": 4,
    "why": {
-    "en": "Messi's final Argentina match trended across multiple sports outlets and Google searches worldwide.",
-    "bn": "মেসির শেষ ম্যাচ একাধিক স্পোর্টস আউটলেটে ভাইরাল হয়েছে বিশ্বব্যাপী।"
+    "en": "Bangladesh aircraft orders hit major infrastructure news across outlets.",
+    "bn": "বাংলাদেশের বিমান ক্রয় একাধিক মাধ্যমে শীর্ষ সংবাদ।"
    },
    "rank": 2
   },
   {
-   "id": "qvmp0e",
-   "heat": 4,
+   "id": "21xzdx",
+   "heat": 3,
    "why": {
-    "en": "Bangladesh prison overcrowding at South Asia's worst level is a significant governance and rights issue.",
-    "bn": "বাংলাদেশের কারাগার অতিভিড়ন দক্ষিণ এশিয়ায় সর্বোচ্চ একটি গুরুতর সমস্যা।"
+    "en": "Yemen humanitarian crisis draws international news attention today.",
+    "bn": "ইয়েমেনের সংকট আন্তর্জাতিক মিডিয়া কভারেজ পাচ্ছে।"
    },
    "rank": 3
   },
   {
-   "id": "1mrqr9r",
-   "heat": 4,
+   "id": "pw0dom",
+   "heat": 3,
    "why": {
-    "en": "Laos halting worker visas for four months affects thousands of Bangladeshi migrant workers.",
-    "bn": "লাওস ৪ মাসের জন্য ভিসা বন্ধ করায় লক্ষ লক্ষ বাংলাদেশি শ্রমিক প্রভাবিত।"
+    "en": "Red Sea disruptions affecting Bangladesh tech and internet sectors.",
+    "bn": "রেড সি ইস্যু বাংলাদেশের প্রযুক্তি খাতকে প্রভাবিত করছে।"
    },
    "rank": 4
   },
   {
-   "id": "16b2y46",
-   "heat": 4,
+   "id": "qvmp0e",
+   "heat": 2,
    "why": {
-    "en": "Over 21 migrant worker bodies returning daily is an ongoing tragedy demanding attention.",
-    "bn": "প্রতিদিন গড়ে ২১+ প্রবাসী শ্রমিকের মরদেহ ফেরা একটি চলমান সংকট।"
+    "en": "Prison overcrowding report raises serious domestic governance questions.",
+    "bn": "জেল উৎপীড়ন রিপোর্ট দেশের গুরুত্বপূর্ণ সমস্যা উন্মোচন করেছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "8ixha8",
-   "tag": "#তুরস্কসফর",
+   "id": "hw83fn",
+   "tag": "#PreetiSeparation",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Jamaat chief heads to Turkey",
-    "text": "Shafiqur Rahman, chief of Jamaat-e-Islami, left for a conference in Turkey. He will speak at Istanbul University."
+    "title": "Preeti breaks silence on separation",
+    "text": "Bollywood actress Preeti opens up about her personal life after keeping quiet on separation news."
    },
    "bn": {
-    "title": "জামায়াত আমির তুরস্কে",
-    "text": "জামায়াত-ই-ইসলামীর আমির শফিকুর রহমান তুরস্কের একটি সম্মেলনে যাচ্ছেন। তিনি ইস্তাম্বুল বিশ্ববিদ্যালয়ে বক্তব্য দেবেন।"
+    "title": "প্রীতি বিচ্ছেদের কথা বলেছেন",
+    "text": "বলিউড অভিনেত্রী প্রীতি তার ব্যক্তিগত জীবন সম্পর্কে কথা বলেছেন।"
    }
   },
   {
-   "id": "1cvxamp",
-   "tag": "#দিল্লিপ্রতিবাদ",
+   "id": "1rt51o8",
+   "tag": "#MessiFarewell",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Messi retires from Argentina football",
+    "text": "Lionel Messi calls his retirement from international football 'the saddest day of my career' after playing his final match."
+   },
+   "bn": {
+    "title": "মেসির অবসর সংবাদ ভাইরাল",
+    "text": "লিওনেল মেসি আর্জেন্টিনা ফুটবল থেকে অবসর নিচ্ছেন এবং এটিকে তার সবচেয়ে দুঃখজনক মুহূর্ত বলেছেন।"
+   }
+  },
+  {
+   "id": "10xn9yi",
+   "tag": "#AmazonPrivacy",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Gandhi cousins arrested in Delhi",
-    "text": "Two Gandhi cousins were arrested during a Delhi protest against the election chief."
+    "title": "Amazon's shopping profile too intimate",
+    "text": "Amazon's AI shopping profile reveals uncomfortably detailed personal assumptions about users."
    },
    "bn": {
-    "title": "দিল্লিতে গান্ধী চাচাতো ভাইরা গ্রেপ্তার",
-    "text": "দুজন গান্ধী চাচাতো ভাই নির্বাচন কমিশনার বিরোধী প্রতিবাদে দিল্লিতে গ্রেপ্তার হয়েছেন।"
-   }
-  },
-  {
-   "id": "hw83fn",
-   "tag": "#বিনোদন",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Preeti breaks her silence",
-    "text": "Preeti has spoken out about her separation for the first time."
-   },
-   "bn": {
-    "title": "প্রীতি তার নীরবতা ভাঙলেন",
-    "text": "প্রীতি প্রথমবারের মতো তার বিচ্ছেদ সম্পর্কে কথা বলেছেন।"
+    "title": "আমাজনের গোপনীয়তা নিয়ে চিন্তা",
+    "text": "আমাজনের কেনাকাটার প্রোফাইল ব্যবহারকারীদের সম্পর্কে অত্যন্ত ব্যক্তিগত তথ্য প্রকাশ করছে।"
    }
   }
  ],
