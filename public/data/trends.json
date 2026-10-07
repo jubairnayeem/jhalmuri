@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-06T21:36:16.174Z",
+ "updatedAt": "2026-10-07T01:28:24.975Z",
  "burning": [
   {
-   "id": "1obnxj2",
+   "id": "1dagpgd",
    "heat": 5,
    "why": {
-    "en": "Nine dengue deaths in one day—public health crisis dominating news.",
-    "bn": "এক দিনে নয় জন ডেঙ্গু মৃত্যু—জনস্বাস্থ্য সংকট সংবাদে শীর্ষে।"
+    "en": "Messi's farewell match dominates sports talk across multiple outlets and Google Trends.",
+    "bn": "মেসির বিদায় ম্যাচ একাধিক মাধ্যম এবং গুগল ট্রেন্ডে আধিপত্য বিস্তার করছে।"
    },
    "rank": 1
   },
   {
-   "id": "cf6c7c",
-   "heat": 5,
+   "id": "1obnxj2",
+   "heat": 4,
    "why": {
-    "en": "Body of bdnews24 editor Toufique arrives in Bangladesh—major media story.",
-    "bn": "bdnews24 সম্পাদক তৌফিক্বের লাশ বাংলাদেশে আসছে—বড় মিডিয়া খবর।"
+    "en": "Nine dengue deaths in one day is a major public health crisis affecting Bangladesh.",
+    "bn": "এক দিনে নয়জন ডেঙ্গু মৃত্যু বাংলাদেশের প্রধান স্বাস্থ্য সংকট।"
    },
    "rank": 2
-  },
-  {
-   "id": "13s5cgw",
-   "heat": 4,
-   "why": {
-    "en": "Messi's final Argentina match—global football moment covered widely.",
-    "bn": "মেসির শেষ আর্জেন্টিনা ম্যাচ—বিশ্বব্যাপী ফুটবল মুহূর্ত।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "1mjd6gq",
-   "heat": 4,
-   "why": {
-    "en": "US charges man for aiding Canadian school shooter—serious crime story.",
-    "bn": "কানাডিয়ান স্কুল শুটারকে সাহায্যের জন্য আমেরিকা অভিযোগ—গুরুতর অপরাধ।"
-   },
-   "rank": 4
   },
   {
    "id": "1mrqr9r",
    "heat": 3,
    "why": {
-    "en": "Laos halts Bangladesh worker visas for four months—migrant concern.",
-    "bn": "লাওস বাংলাদেশ কর্মী ভিসা চার মাসের জন্য বন্ধ করেছে।"
+    "en": "Laos halts Bangladesh worker visas impacts thousands of migrant workers and families.",
+    "bn": "লাওস বাংলাদেশী শ্রমিক ভিসা বন্ধ করায় হাজারো মানুষ প্রভাবিত হচ্ছে।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "cf6c7c",
+   "heat": 3,
+   "why": {
+    "en": "bdnews24 editor Toufique's body returns home, significant for Bangladesh media community.",
+    "bn": "বিডিনিউজ২৪ সম্পাদক তৌফিকের মরদেহ দেশে ফেরা বাংলাদেশ মিডিয়ার জন্য গুরুত্বপূর্ণ।"
+   },
+   "rank": 4
+  },
+  {
+   "id": "r19kse",
+   "heat": 2,
+   "why": {
+    "en": "Human trafficking story highlights ongoing migrant worker exploitation from Bangladesh.",
+    "bn": "মানব পাচার গল্প বাংলাদেশী শ্রমিকদের চলমান শোষণ তুলে ধরে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "13s5cgw",
-   "tag": "#MessiFinal",
+   "id": "1dagpgd",
+   "tag": "#MessiFarewell",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Messi plays his last Argentina game",
-    "text": "Global football is watching as Lionel Messi takes the pitch for his final match wearing the Argentina shirt. A moment fans have been waiting for and dreading."
+    "title": "Messi ends Argentina career with win",
+    "text": "Lionel Messi played his final match for Argentina against Benin, with the team winning 3-0. The farewell generated massive interest across Bangladesh with multiple trending searches."
    },
    "bn": {
-    "title": "মেসি তার শেষ আর্জেন্টিনা ম্যাচ খেলছেন",
-    "text": "বিশ্বব্যাপী ফুটবল ফ্যানরা দেখছেন লিওনেল মেসি আর্জেন্টিনার পোশাকে তার শেষ ম্যাচ খেলছেন। ফ্যানরা যা অপেক্ষা করছিলেন।"
+    "title": "মেসির আর্জেন্টিনা ক্যারিয়ারের সমাপ্তি",
+    "text": "লিওনেল মেসি বেনিনের বিপক্ষে আর্জেন্টিনার শেষ ম্যাচে খেলেছেন এবং দল ৩-০ জিতেছে। বিদায়ের এই মুহূর্ত বাংলাদেশে ব্যাপক আলোচনা সৃষ্টি করেছে।"
    }
   },
   {
-   "id": "1obnxj2",
-   "tag": "#DengueCrisis",
+   "id": "ymqxio",
+   "tag": "#Cricket",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 2,
    "en": {
-    "title": "Dengue spike: nine deaths in 24 hours",
-    "text": "Bangladesh is facing a severe dengue outbreak with nine deaths in a single day and over 1,900 people hospitalised. Health authorities are on high alert."
+    "title": "Pakistan exits World Championship",
+    "text": "Pakistan has withdrawn from the World Championship of Legends, a significant decision in the cricket calendar."
    },
    "bn": {
-    "title": "ডেঙ্গু বৃদ্ধি: ২৪ ঘণ্টায় নয় মৃত্যু",
-    "text": "বাংলাদেশ গুরুতর ডেঙ্গু মহামারীর মুখোমুখি—এক দিনে নয় জন মৃত এবং ১৯০০+ জন হাসপাতালে ভর্তি। স্বাস্থ্য কর্তৃপক্ষ সর্বোচ্চ সতর্কতায়।"
+    "title": "পাকিস্তান বিশ্ব চ্যাম্পিয়নশিপ থেকে সরে দাঁড়ায়",
+    "text": "পাকিস্তান ওয়ার্ল্ড চ্যাম্পিয়নশিপ অফ লেজেন্ডস থেকে প্রত্যাহার করেছে, যা ক্রিকেট জগতে উল্লেখযোগ্য।"
    }
   },
   {
-   "id": "16b2y46",
-   "tag": "#MigrantCrisis",
+   "id": "5o7uxq",
+   "tag": "#IRONMAN",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 2,
    "en": {
-    "title": "Over 21 migrant worker bodies daily",
-    "text": "Bangladesh faces an ongoing tragedy as more than 21 migrant worker bodies return home every day on average, raising serious concerns about worker safety abroad."
+    "title": "Mishu Biswas breaks IRONMAN record",
+    "text": "Bangladeshi athlete Mishu Biswas has set a new national IRONMAN record, a major achievement in endurance sports."
    },
    "bn": {
-    "title": "প্রতিদিন ২১+ প্রবাসী মৃত্যু",
-    "text": "বাংলাদেশ একটি চলমান বিয়োগ মোকাবেলা করছে যেখানে গড়ে প্রতিদিন ২১+ জন প্রবাসী কর্মীর লাশ দেশে ফেরে। বিদেশে কর্মী নিরাপত্তা নিয়ে গভীর উদ্বেগ।"
-   }
-  },
-  {
-   "id": "nyq7qs",
-   "tag": "#DurgaPuja",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Bangladesh approves Durga Puja holiday break",
-    "text": "Bangladesh has approved a five-day continuous break in October for Durga Puja celebrations, giving communities time to observe the major festival."
-   },
-   "bn": {
-    "title": "দুর্গা পূজার ছুটি অনুমোদিত",
-    "text": "বাংলাদেশ অক্টোবরে দুর্গা পূজার জন্য পাঁচ দিনের ছুটি অনুমোদন করেছে যাতে সম্প্রদায়গুলি এই বড় উৎসব পালন করতে পারে।"
+    "title": "মিশু বিশ্বাস আইরনম্যান রেকর্ড ভাঙেন",
+    "text": "বাংলাদেশী ক্রীড়াবিদ মিশু বিশ্বাস নতুন জাতীয় আইরনম্যান রেকর্ড স্থাপন করেছেন।"
    }
   }
  ],
