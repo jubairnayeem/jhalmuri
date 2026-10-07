@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-07T16:22:44.816Z",
+ "updatedAt": "2026-10-07T21:57:38.232Z",
  "burning": [
   {
-   "id": "1dagpgd",
+   "id": "1rt51o8",
    "heat": 5,
    "why": {
-    "en": "Messi's farewell match dominates sports coverage across multiple outlets today.",
-    "bn": "মেসির বিদায় ম্যাচ আজ একাধিক আউটলেটে শীর্ষ খবর।"
+    "en": "Messi's Argentina retirement dominates sports talk across multiple outlets and Google trends show massive football interest.",
+    "bn": "মেসির আর্জেন্টিনা থেকে অবসর একাধিক আউটলেটে ছেয়ে গেছে এবং ফুটবল ট্রেন্ড ভাইরাল।"
    },
    "rank": 1
   },
   {
-   "id": "19bxyxs",
+   "id": "1rohro4",
    "heat": 4,
    "why": {
-    "en": "Bangladesh aircraft orders hit major infrastructure news across outlets.",
-    "bn": "বাংলাদেশের বিমান ক্রয় একাধিক মাধ্যমে শীর্ষ সংবাদ।"
+    "en": "Six crore Bangladeshis facing poverty risk is a major domestic crisis story with serious social impact.",
+    "bn": "ছয় কোটি বাংলাদেশি দারিদ্র্যের ঝুঁকিতে — গুরুতর অর্থনৈতিক সংকট যা সবাইকে স্পর্শ করে।"
    },
    "rank": 2
   },
   {
-   "id": "21xzdx",
-   "heat": 3,
+   "id": "qvmp0e",
+   "heat": 4,
    "why": {
-    "en": "Yemen humanitarian crisis draws international news attention today.",
-    "bn": "ইয়েমেনের সংকট আন্তর্জাতিক মিডিয়া কভারেজ পাচ্ছে।"
+    "en": "Bangladesh prison overcrowding at worst in South Asia is a striking governance failure claim.",
+    "bn": "বাংলাদেশে জেল ভিড় দক্ষিণ এশিয়ায় সবচেয়ে বেশি — গুরুতর প্রশাসনিক সমস্যা।"
    },
    "rank": 3
   },
   {
-   "id": "pw0dom",
+   "id": "19bxyxs",
    "heat": 3,
    "why": {
-    "en": "Red Sea disruptions affecting Bangladesh tech and internet sectors.",
-    "bn": "রেড সি ইস্যু বাংলাদেশের প্রযুক্তি খাতকে প্রভাবিত করছে।"
+    "en": "Aircraft orders for Bangladesh (10 Airbus, 25 Boeing planned) signals major infrastructure investment news.",
+    "bn": "বাংলাদেশ ১০টি এয়ারবাস ও ২৫টি বোয়িং অর্ডার — বড় উন্নয়ন প্রকল্প।"
    },
    "rank": 4
   },
   {
-   "id": "qvmp0e",
-   "heat": 2,
+   "id": "5hrwmg",
+   "heat": 3,
    "why": {
-    "en": "Prison overcrowding report raises serious domestic governance questions.",
-    "bn": "জেল উৎপীড়ন রিপোর্ট দেশের গুরুত্বপূর্ণ সমস্যা উন্মোচন করেছে।"
+    "en": "City Bank headquarters seized over Tk150 crore default is a major financial sector scandal.",
+    "bn": "সিটি ব্যাংক হেডকোয়ার্টার জব্দ, ১৫০ কোটি টাকা বকেয়া — আর্থিক সংকট।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "hw83fn",
-   "tag": "#PreetiSeparation",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Preeti breaks silence on separation",
-    "text": "Bollywood actress Preeti opens up about her personal life after keeping quiet on separation news."
-   },
-   "bn": {
-    "title": "প্রীতি বিচ্ছেদের কথা বলেছেন",
-    "text": "বলিউড অভিনেত্রী প্রীতি তার ব্যক্তিগত জীবন সম্পর্কে কথা বলেছেন।"
-   }
-  },
-  {
    "id": "1rt51o8",
-   "tag": "#MessiFarewell",
+   "tag": "#MessiRetirement",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Messi retires from Argentina football",
-    "text": "Lionel Messi calls his retirement from international football 'the saddest day of my career' after playing his final match."
+    "title": "Messi says goodbye to Argentina",
+    "text": "Lionel Messi called his retirement from Argentina 'the saddest day of my career' after playing his final match. Argentina beat Benin 3-0 in the farewell game."
    },
    "bn": {
-    "title": "মেসির অবসর সংবাদ ভাইরাল",
-    "text": "লিওনেল মেসি আর্জেন্টিনা ফুটবল থেকে অবসর নিচ্ছেন এবং এটিকে তার সবচেয়ে দুঃখজনক মুহূর্ত বলেছেন।"
+    "title": "মেসি আর্জেন্টিনা ছেড়ে যাচ্ছেন",
+    "text": "লিওনেল মেসি আর্জেন্টিনা থেকে অবসরকে তার ক্যারিয়ারের 'সবচেয়ে দুঃখজনক দিন' বলেছেন। আর্জেন্টিনা বেনিনকে ৩-০ গোলে হারিয়েছে।"
    }
   },
   {
-   "id": "10xn9yi",
-   "tag": "#AmazonPrivacy",
+   "id": "x83h5l",
+   "tag": "#AIStartup",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Amazon's shopping profile too intimate",
-    "text": "Amazon's AI shopping profile reveals uncomfortably detailed personal assumptions about users."
+    "title": "AI startup hits $1.5B milestone",
+    "text": "Nous Research has reached a $1.5 billion valuation and launched new business AI agents for enterprise use."
    },
    "bn": {
-    "title": "আমাজনের গোপনীয়তা নিয়ে চিন্তা",
-    "text": "আমাজনের কেনাকাটার প্রোফাইল ব্যবহারকারীদের সম্পর্কে অত্যন্ত ব্যক্তিগত তথ্য প্রকাশ করছে।"
+    "title": "AI স্টার্টআপ বড় মাইলস্টোন",
+    "text": "Nous Research ১.৫ বিলিয়ন ডলার ভ্যালুয়েশনে পৌঁছেছে এবং নতুন বিজনেস AI এজেন্ট লঞ্চ করেছে।"
+   }
+  },
+  {
+   "id": "pw0dom",
+   "tag": "#RedSeaCrisis",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Red Sea conflict disrupts internet",
+    "text": "Fighting in the Red Sea is forcing major cloud and internet giants to reroute their global infrastructure."
+   },
+   "bn": {
+    "title": "রেড সি সংঘাত ইন্টারনেট বাধাগ্রস্ত করছে",
+    "text": "রেড সি অঞ্চলের লড়াই বড় ক্লাউড কোম্পানিগুলোকে ইন্টারনেট রুট পরিবর্তন করতে বাধ্য করছে।"
    }
   }
  ],

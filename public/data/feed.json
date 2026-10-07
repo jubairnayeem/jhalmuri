@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-07T16:22:32.712Z",
+ "updatedAt": "2026-10-07T21:57:23.078Z",
  "items": [
+  {
+   "id": "artjyd",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/phrase-its-been-real-pushes-already-great-hangout-with-friend-into-heretofore-unknown-levels-of-bliss/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Phrase_Its_NIB_S_PH.jpg",
+   "published": "2026-10-07T16:58:23.000Z",
+   "added": "2026-10-07T21:57:23.078Z",
+   "origTitle": "Phrase ‘It’s Been Real’ Pushes Already Great Hangout With Friend Into Heretofore Unknown Levels Of Bliss",
+   "en": {
+    "title": "'It's Been Real' Takes Hangout to Peak Bliss",
+    "summary": "A man's already perfect hangout with his friend reached new heights when his buddy said 'It's been real' at the end of the night. The phrase—completely unexpected—sent him into a state of pure joy. He's now walking on air, convinced these are the salad days of friendship."
+   },
+   "bn": {
+    "title": "'ইটস বিন রিয়েল' বলে বন্ধুর সাথে সময় আরও মজাদার করে দিল",
+    "summary": "একটি সাধারণ হ্যাংআউট সম্পূর্ণভাবে পরিবর্তন হয়ে গেল যখন বন্ধু রাতের শেষে 'ইটস বিন রিয়েল' বলেছেন। এই সাধারণ কথাটি মুহূর্তটিকে অসাধারণ করে তুলেছে। লোকটি এখন আনন্দে ভাসছেন এবং এটিকে জীবনের সেরা রাত মনে করছেন।"
+   }
+  },
+  {
+   "id": "183xy9n",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/europe/x1urhinsff",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-07/yc5h5mk1/High-school-students-.jpg",
+   "published": "2026-10-07T21:30:00.000Z",
+   "added": "2026-10-07T21:57:23.078Z",
+   "origTitle": "ফ্রান্সের পর শিক্ষার্থীদের বিক্ষোভে উত্তাল বেলজিয়াম, আটক ১০৭",
+   "en": {
+    "title": "Belgium Students Protest Education Costs, Over 100 Arrested",
+    "summary": "Students in Liège, Belgium are protesting rising education costs, overcrowded classrooms, and lack of learning materials. Police arrested 107 people during the demonstrations. The Belgian French-speaking region's students say they're fighting for a right, not a privilege, inspired by recent protests in neighboring France."
+   },
+   "bn": {
+    "title": "শিক্ষা খরচের বিরুদ্ধে বেলজিয়ামে শিক্ষার্থী বিক্ষোভ, ১০৭ আটক",
+    "summary": "বেলজিয়ামের লিয়েজ শহরে শিক্ষার্থীরা শিক্ষা খরচ বৃদ্ধি, শ্রেণিকক্ষে অতিরিক্ত চাপ এবং শিক্ষা উপকরণের অভাবের বিরুদ্ধে বিক্ষোভ করছেন। পুলিশ ১০৭ জনকে আটক করেছে। ফ্রান্সের আন্দোলন থেকে অনুপ্রাণিত হয়ে বেলজিয়ামের ফরাসিভাষী অঞ্চলের শিক্ষার্থীরা বলছেন তারা অধিকারের জন্য লড়ছেন।"
+   }
+  },
+  {
+   "id": "jsvr8h",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/07/Guinness-World-Records-largest-serving-french-fries/1951791396507/",
+   "image": "https://cdnph.upi.com/ph/st/th/1951791396507/2026/i/17913966378335/v1.5/1474-pounds-of-French-fries-break-world-record-in-Idaho.jpg",
+   "published": "2026-10-07T18:11:07.000Z",
+   "added": "2026-10-07T21:57:13.444Z",
+   "origTitle": "Watch: 1,474 pounds of French fries break world record in Idaho",
+   "en": {
+    "title": "Idaho breaks world record with 1,474 pounds of French fries",
+    "summary": "The Idaho Potato Commission and Spud Daddy restaurant chain cooked up 1,474 pounds of fresh-cut French fries to break a world record. A delicious achievement for potato lovers everywhere."
+   },
+   "bn": {
+    "title": "আইডাহোতে ফ্রেঞ্চ ফ্রাইজের বিশ্বরেকর্ড",
+    "summary": "আইডাহো পটেটো কমিশন এবং স্পাড ডাডি রেস্তোরাঁ চেইন ১,৪৭৪ পাউন্ড তাজা কাটা ফ্রেঞ্চ ফ্রাইজ রান্না করে বিশ্বরেকর্ড ভেঙে ফেলেছে। আলুপ্রেমীদের জন্য একটি সুস্বাদু কীর্তি।"
+   }
+  },
+  {
+   "id": "x83h5l",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+   "published": "2026-10-07T20:48:45.000Z",
+   "added": "2026-10-07T21:57:13.444Z",
+   "origTitle": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "en": {
+    "title": "Nous Research hits $1.5B valuation, launches business AI agents",
+    "summary": "Nous Research has raised $90 million in Series B funding at a $1.5 billion valuation, bringing total funding to $158 million. The startup's open-source Hermes agent has been cloned 24 million times and drives 2.5% of global AI token usage. New funding will launch Hermes for Businesses, letting companies deploy custom AI agents for workflows while keeping data secure."
+   },
+   "bn": {
+    "title": "নস রিসার্চ ১.৫ বিলিয়ন ডলার ভ্যালুয়েশনে পৌঁছেছে",
+    "summary": "নস রিসার্চ সিরিজ বি ফান্ডিংয়ে ৯০ মিলিয়ন ডলার সংগ্রহ করেছে যা কোম্পানির ভ্যালুয়েশন ১.৫ বিলিয়ন ডলারে নিয়ে গেছে। তাদের হার্মিস এজেন্ট ২৪ মিলিয়ন বার ক্লোন হয়েছে এবং বৈশ্বিক এআই টোকেন ব্যবহারের ২.৫ শতাংশ চালনা করে। নতুন অর্থ বিজনেস কাস্টমাইজড এআই এজেন্ট লঞ্চে ব্যবহৃত হবে যা কর্মপ্রবাহ হ্যান্ডেল করবে এবং ডেটা সুরক্ষিত রাখবে।"
+   }
+  },
+  {
+   "id": "iwhy1t",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg",
+   "published": "2026-10-07T21:40:24.000Z",
+   "added": "2026-10-07T21:57:13.444Z",
+   "origTitle": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+   "en": {
+    "title": "Spanish pensioner evicted over rent hike dies at 87",
+    "summary": "Maricarmen Abascal, 87, whose eviction sparked nationwide housing protests in Spain, has died. She was forcibly removed from her 70-year home on 23 September after rent jumped from €500 to €2,650 monthly. The company later offered €1,650—still €300 above her pension. Her case became a symbol of Spain's housing crisis."
+   },
+   "bn": {
+    "title": "স্পেনের ভাড়া বৃদ্ধিতে নিপীড়িত বয়স্ক মহিলা মারা গেছেন",
+    "summary": "মেরিকারমেন আবাস্কাল, ৮৭, যার উচ্ছেদ স্পেনে আবাসন সংকট নিয়ে দেশব্যাপী প্রতিবাদ জন্ম দিয়েছিল, তিনি মৃত্যুবরণ করেছেন। ২৩ সেপ্টেম্বরে তাকে তার ৭০ বছরের বাসস্থান থেকে জোরপূর্বক বের করা হয়েছিল কারণ ভাড়া ৫০০ ইউরো থেকে ২,৬৫০ ইউরোতে বেড়েছিল। পরে কোম্পানি ১,৬৫০ ইউরো কমিয়েছিল কিন্তু এটি তার পেনশনের চেয়ে ৩০০ ইউরো বেশি ছিল।"
+   }
+  },
+  {
+   "id": "1rohro4",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cw98ze839645o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8657/live/1a12df60-c251-11f1-ab30-1f92d324dff9.png",
+   "published": "2026-10-07T15:12:02.000Z",
+   "added": "2026-10-07T21:57:13.444Z",
+   "origTitle": "ছয় কোটি বাংলাদেশি যে ছয় কারণে নিম্ন মধ্যবিত্ত থেকে দরিদ্র হওয়ার ঝুঁকিতে",
+   "en": {
+    "title": "Six crore Bangladeshis at risk of slipping into poverty",
+    "summary": "The World Bank warns that 6.2 crore lower-middle-class Bangladeshis face poverty risk due to rising costs. Poverty increased by 80 lakh in four years, with 21 lakh joining the poor in the last year alone. Six key drivers identified: COVID, energy crisis, inflation, weak investment, political instability, and tax/subsidy weaknesses."
+   },
+   "bn": {
+    "title": "ছয় কোটি বাংলাদেশি দরিদ্র হওয়ার ঝুঁকিতে",
+    "summary": "বিশ্বব্যাংক সতর্ক করছে যে ৬.২ কোটি নিম্ন মধ্যবিত্ত বাংলাদেশি দারিদ্র্যে নেমে যাওয়ার ঝুঁকিতে আছেন। গত চার বছরে দেশে দরিদ্র মানুষ বেড়েছে ৮০ লাখ, শুধু গত বছরে ২১ লাখ নতুন দরিদ্র হয়েছেন। কোভিড, জ্বালানি সংকট, মুদ্রাস্ফীতি, বিনিয়োগ দুর্বলতা, রাজনৈতিক অস্থিরতা এই কারণগুলো চিহ্নিত করেছে ব্যাংক।"
+   }
+  },
+  {
+   "id": "5hrwmg",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/banking/ucb-attaches-nassa-owned-land-housing-city-bank-hq-over-tk150cr-loan-default-1565896",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/ucb_city_bank.jpg",
+   "published": "2026-10-07T19:15:00.000Z",
+   "added": "2026-10-07T21:57:13.444Z",
+   "origTitle": "UCB attaches Nassa-owned land housing City Bank HQ over Tk150cr loan default",
+   "en": {
+    "title": "UCB seizes Nassa land with City Bank HQ over Tk150cr default",
+    "summary": "United Commercial Bank has attached one bigha of Nassa Group-owned land in Dhaka's Gulshan Model Town, where City Bank's head office stands, over a Tk150 crore loan default. A subsidiary of Nassa Group owned by Nazrul Islam Mazumder borrowed from UCB but failed to repay. A Money Loan Court order on 14 September authorized the attachment."
+   },
+   "bn": {
+    "title": "সিটি ব্যাংক সদরদপ্তরের জমি জব্দ করল ইউসিবি",
+    "summary": "ইউনাইটেড কমার্শিয়াল ব্যাংক নাসা গ্রুপের গুলশানের একটি জমি জব্দ করেছে যেখানে সিটি ব্যাংকের সদরদপ্তর অবস্থিত। নাসা সাবসিডিয়ারি প্রায় ১৫০ কোটি টাকা ঋণ নিয়ে ফেরত না দেওয়ায় এই পদক্ষেপ নেওয়া হয়েছে। ১৪ সেপ্টেম্বরে মানি লোন কোর্ট জমি জব্দের নির্দেশ দিয়েছে।"
+   }
+  },
+  {
+   "id": "2nyxk9",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/others/973078/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%9A%E0%A6%B2%E0%A6%9B%E0%A7%87",
+   "image": null,
+   "published": "2026-10-07T21:36:00.000Z",
+   "added": "2026-10-07T21:57:13.444Z",
+   "origTitle": "দেশের সব শহরে মাস্টারপ্ল্যানের কাজ চলছে: গণপূর্তমন্ত্রী",
+   "en": {
+    "title": "Bangladesh cities get master plans for organized growth",
+    "summary": "The housing and public works minister says masterplans are being prepared for cities from metropolitan areas down to upazila level. He stressed that planned urban development is essential to get good results. Without specific planning, city growth won't achieve its goals."
+   },
+   "bn": {
+    "title": "সব শহরে মাস্টারপ্ল্যান দিয়ে নগরায়ন এগিয়ে যাচ্ছে",
+    "summary": "গৃহায়ন ও গণপূর্তমন্ত্রী জাকারিয়া তাহের বলেছেন, মেট্রোপলিটন থেকে উপজেলা পর্যায় পর্যন্ত পরিকল্পিত নগরায়নের জন্য মাস্টারপ্ল্যান তৈরি চলছে। তিনি জানান, নির্দিষ্ট পরিকল্পনা ছাড়া নগর উন্নয়নে কাঙ্ক্ষিত ফল পাওয়া সম্ভব নয়। এই বক্তব্য দেওয়া হয়েছে রাজধানীতে 'স্মার্ট সিটি কনক্লেভ ২০২৬' ইভেন্টে।"
+   }
+  },
   {
    "id": "43rjmo",
    "section": "news",
@@ -2089,314 +2265,6 @@
    "bn": {
     "title": "সাংবাদিকদের হুমকি দিলেন বিএনপি এমপি",
     "summary": "ঢাকা-২০ (ধামরাই) আসনের সংসদ সদস্য তমিজ উদ্দিন রবিবার সাংবাদিকদের তার চাল কল মিল কিষান কোল্ড স্টোরেজে ডেকে নিয়েছেন। সেখানে তিনি বলেন, যদি সাংবাদিকরা রাজনৈতিক বিষয়ে বা বিএনপির বিপক্ষে 'অন্যায়ভাবে' কিছু বলেন, তাহলে তিনি তাদের 'সাংবাদিকতা শিখিয়ে দেবেন'। এটি তার নিজস্ব আয়োজিত সংবাদ সম্মেলনে ঘটেছে।"
-   }
-  },
-  {
-   "id": "sbc1g0",
-   "section": "news",
-   "cat": "politics",
-   "tone": "light",
-   "satire": false,
-   "src": "সমকাল",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrakxoUU5oaTU2QTdScHNsUG1zc2pPZ2FPVXBmT0toYzdvWDBEVjFHQWwzWXZzbUpvRXBOR1ZfY0tDVGV1OEJNaDdvaExRMUhOOXpJdW5CZUNJelFLT1E?oc=5",
-   "image": null,
-   "published": "2026-10-04T12:25:31.000Z",
-   "added": "2026-10-04T21:19:24.082Z",
-   "origTitle": "দল মনে করলে মেয়র নির্বাচন করতে প্রস্তুত আছি: প্রতিমন্ত্রী ইশরাক",
-   "en": {
-    "title": "Deputy minister ready for mayoral race if party wants",
-    "summary": "Deputy Minister Ishraq said he is prepared to run for mayor if his party decides to field him. The comment comes as discussions about municipal elections continue. He did not specify which position or city is in question."
-   },
-   "bn": {
-    "title": "দল চাইলে মেয়র নির্বাচনে প্রস্তুত: প্রতিমন্ত্রী ইশরাক",
-    "summary": "প্রতিমন্ত্রী ইশরাক বলেছেন দল চাইলে তিনি মেয়র নির্বাচনে দাঁড়াতে প্রস্তুত। পৌরসভা নির্বাচন নিয়ে আলোচনা চলছে। তিনি নির্দিষ্ট কোনো শহর বা পদ উল্লেখ করেননি।"
-   }
-  },
-  {
-   "id": "185mo19",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJWDRMSVJRZ2lLdEs3amJveTBIQVZJWFVIOHdEMTB6ZjNuaGJ3ZmFqMk94SDRzOFRpcUJLS0FJdnJWdjVTT1NtdS1QcExIYXFXd0VfNjdKVVB0QnR5ekE?oc=5",
-   "image": null,
-   "published": "2026-10-04T06:22:00.000Z",
-   "added": "2026-10-04T21:19:24.082Z",
-   "origTitle": "শাহজালালে ১৬ কোটি টাকার সোনাসহ ধরা বিমানের ২ কর্মী",
-   "en": {
-    "title": "Two airport workers held with 16 crore taka in gold",
-    "summary": "Two employees of an airline were arrested at Shahjalal International Airport with gold worth 16 crore taka. The smuggling attempt was discovered during routine checks. The workers are now in custody for interrogation."
-   },
-   "bn": {
-    "title": "শাহজালালে ১৬ কোটি টাকার সোনা নিয়ে ধরা বিমানের ২ কর্মী",
-    "summary": "শাহজালালে একটি বিমানের দুজন কর্মচারী ১৬ কোটি টাকার সোনা নিয়ে ধরা পড়েছে। রুটিন চেকের সময় এই স্মাগলিং প্রচেষ্টা ধরা পড়ে। এখন তারা জেরার জন্য হেফাজতে আছে।"
-   }
-  },
-  {
-   "id": "1hxy4pu",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/football/n7q2cpugoe",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-04/sk8zna60/portugalvnorway-uefanationsleague202627groupa4md4-6.jpeg",
-   "published": "2026-10-04T20:48:44.000Z",
-   "added": "2026-10-04T21:19:16.869Z",
-   "origTitle": "কোয়ার্টার ফাইনালে ওঠার পথে রোনালদোকে ‘মিস’ করল না পর্তুগাল",
-   "en": {
-    "title": "Portugal beats Norway, reaches Nations League quarter-finals",
-    "summary": "Portugal beat Norway 2-1 to secure a quarter-final spot in the Nations League with four straight wins. Gonçalo Ramos scored the winning goal in the 79th minute, replacing Cristiano Ronaldo. However, winger Francisco Conceição was sent off in the 86th minute with a red card."
-   },
-   "bn": {
-    "title": "নরওয়ে জয়ে পর্তুগাল কোয়ার্টার ফাইনালে",
-    "summary": "পর্তুগাল নরওয়েকে ২-১ গোলে পরাজিত করে নেশনস লিগের কোয়ার্টার ফাইনালে উঠেছে চারটি ম্যাচের সব জিতে। ৭৯ মিনিটে গনসালো রামোস জয়ের গোল করেছেন, যিনি রোনালদোর স্থলে খেলছিলেন। তবে ৮৬ মিনিটে পর্তুগালের উইঙ্গার ফ্রান্সিসকো কনসেইসাও লাল কার্ড পেয়ে বের হয়ে যান।"
-   }
-  },
-  {
-   "id": "wwg27",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac29a62-1791138402.jpg?resize=1920%2C1440",
-   "published": "2026-10-04T20:38:56.000Z",
-   "added": "2026-10-04T21:19:16.869Z",
-   "origTitle": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
-   "en": {
-    "title": "Israel condemns UK Green Party defining Zionism as racism",
-    "summary": "The UK's Green Party voted to define Zionism as an ethnonationalist political project that constitutes racism. Israel's government and Jewish groups responded with anger, with Israel declaring the Greens give legitimacy to terrorism. Israeli President Isaac Herzog called it a disgrace, while the Green Party reaffirmed support for Palestinian liberation and BDS."
-   },
-   "bn": {
-    "title": "জায়োনিজমকে বর্ণবাদ ঘোষণায় ইসরায়েল ক্ষুব্ধ",
-    "summary": "যুক্তরাজ্যের গ্রিন পার্টি জায়োনিজমকে নৃতাত্ত্বিক জাতীয়তাবাদী রাজনৈতিক প্রকল্প হিসেবে সংজ্ঞায়িত করেছে যা বর্ণবাদ। ইসরায়েল সরকার এবং ইহুদি গোষ্ঠী ক্ষুব্ধ সাড়া দিয়েছেন। ইসরায়েলের রাষ্ট্রপতি এটিকে লজ্জাজনক বলেছেন, যখন গ্রিন পার্টি ফিলিস্তিনি মুক্তির সমর্থন পুনরায় জানিয়েছে।"
-   }
-  },
-  {
-   "id": "5aaspf",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
-   "published": "2026-10-04T20:31:07.000Z",
-   "added": "2026-10-04T21:19:16.869Z",
-   "origTitle": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-   "en": {
-    "title": "Google pauses open source bug bounty over AI spam",
-    "summary": "Google has frozen its Open Source Software Vulnerability Rewards Program until Q1 2027 due to a massive surge in AI-generated submissions. Most reports were invalid or contained hallucinations from AI tools. Google engineers and open source maintainers were overwhelmed by the flood of low-quality automated submissions."
-   },
-   "bn": {
-    "title": "এআই স্প্যামের কারণে গুগলের বাগ বাউন্টি প্রোগ্রাম বন্ধ",
-    "summary": "গুগল তার ওপেন সোর্স সফটওয়্যার ভালনারেবিলিটি রিওয়ার্ডস প্রোগ্রাম ২০২৭ সালের প্রথম কোয়ার্টার পর্যন্ত স্থগিত করেছে। এআই টুলস থেকে তৈরি স্প্যাম জমা দেওয়ার সংখ্যা দ্রুত বেড়েছে। গুগলের ইঞ্জিনিয়াররা এবং ওপেন সোর্স রক্ষণাবেক্ষণকারীরা অবৈধ এবং হ্যালুসিনেশন-পূর্ণ রিপোর্টের বন্যায় ডুবে গেছেন।"
-   }
-  },
-  {
-   "id": "166h38v",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/govts-changed-fight-press-freedom-remains-matiur-rahman-1562791",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/30/daily_sun_prothom_alo_editor_matiur_rahman_picture.jpg",
-   "published": "2026-10-04T19:10:00.000Z",
-   "added": "2026-10-04T21:19:16.869Z",
-   "origTitle": "Govts changed, but fight for press freedom remains: Matiur Rahman",
-   "en": {
-    "title": "Press freedom fight continues under new government",
-    "summary": "Prothom Alo's editor Matiur Rahman says the BNP government hasn't kept its election promises on media reform, despite pledging to repeal restrictive laws and protect fearless journalism. Under the previous Awami League government, he faced 80 cases, an ad boycott, and military pressure. The interim government also failed on media reform. Rahman urged the current administration to fulfil its commitments."
-   },
-   "bn": {
-    "title": "সাংবাদিকতার স্বাধীনতা: নতুন সরকারেও একই সংগ্রাম",
-    "summary": "প্রথম আলোর সম্পাদক মাতিউর রহমান বলেছেন, নির্বাচনী প্রতিশ্রুতি সত্ত্বেও বর্তমান বিএনপি সরকার মিডিয়া সংস্কার করেনি। আওয়ামী লীগ আমলে তিনি ৮০টি মামলা, বিজ্ঞাপন বয়কট এবং সামরিক চাপের মুখোমুখি হয়েছেন। অন্তর্বর্তী সরকারও মিডিয়া সংস্কারে ব্যর্থ হয়েছিল। তিনি বর্তমান সরকারকে প্রতিশ্রুতি পূরণের আহ্বান জানিয়েছেন।"
-   }
-  },
-  {
-   "id": "83yu5d",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/entertainment/song/s8r9e406rp",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/p8itt5hj/617092694185549874820243346366032934806170691n.jpg",
-   "published": "2026-10-04T17:38:59.000Z",
-   "added": "2026-10-04T18:06:31.228Z",
-   "origTitle": "প্রীতম–শেহতাজের বিবাহবিচ্ছেদ, কারণ জানালেন দুজন",
-   "en": {
-    "title": "Pritam and Shetaj end marriage after 10 years, cite differences",
-    "summary": "Musician-actor Pritam Hasan and model-singer Shetaj Monirah Hashem are divorcing after a decade together. Both announced on Facebook Sunday that major differences in understanding led them to separate amicably. They say the decision wasn't sudden but came after careful thought, family talks, and support. They're asking for privacy and respect during the process."
-   },
-   "bn": {
-    "title": "দশ বছর পর প্রীতম ও শেহতাজ আলাদা হচ্ছেন",
-    "summary": "সংগীতশিল্পী প্রীতম হাসান এবং গায়িকা শেহতাজ মনিরা হাশেম দশ বছর পর বিয়ে ভেঙে ফেলছেন। দুজনে রবিবার ফেসবুকে জানান যে পারস্পরিক বোঝাপড়ার বড় পার্থক্যের কারণে আলাদা পথে যাওয়াই ভালো। তারা বলেন এটা হঠাৎ সিদ্ধান্ত নয়, অনেক চিন্তাভাবনা ও পরিবারের সমর্থনে নিয়েছেন। এখন বিচ্ছেদের প্রক্রিয়ায় আছেন।"
-   }
-  },
-  {
-   "id": "1i8jz0l",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/city/i9uox5smk6",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-04/7222rh3f/Dengue-1.avif",
-   "published": "2026-10-04T16:09:28.000Z",
-   "added": "2026-10-04T18:06:31.227Z",
-   "origTitle": "Daughter’s dengue deteriorated rapidly without warning signs, physician parents realise too late",
-   "en": {
-    "title": "Physician's 8-year-old daughter dies of dengue with no warning signs",
-    "summary": "An anaesthesia specialist and his ophthalmologist wife lost their daughter Famiya Mashnur Rumaisa, 8, to dengue in just three days. Despite knowing the danger signs—severe stomach pain, vomiting blood, bleeding—her condition crashed without warning. She died within half an hour of reaching hospital's PICU. Her parents say they couldn't even gauge she was deteriorating."
-   },
-   "bn": {
-    "title": "ডাক্তার দম্পতির ৮ বছর বয়সী মেয়ে ডেঙ্গুতে মারা গেছেন",
-    "summary": "ঢাকার একজন চেতনানাশক বিশেষজ্ঞ এবং চোখের ডাক্তারের ৮ বছর বয়সী মেয়ে ফামিয়া মাশনুর রুমাইসা মাত্র তিন দিনে ডেঙ্গুতে মারা যায়। অভিভাবকরা জানতেন সতর্কতার লক্ষণ—তীব্র পেটের ব্যথা, বমিতে রক্ত—কিন্তু তার অবস্থা হঠাৎ খারাপ হয়। হাসপাতালে পৌঁছানোর আধা ঘণ্টায় সে মারা যায়। তারা বলেন তার অবস্থা খারাপ হচ্ছে বুঝতেই পারেননি।"
-   }
-  },
-  {
-   "id": "1ri2pko",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/transport/increase-carriages-freight-compared-passengers-railways-js-committee-1562736",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/rabiul.png",
-   "published": "2026-10-04T17:50:00.000Z",
-   "added": "2026-10-04T18:06:20.393Z",
-   "origTitle": "Increase carriages for freight compared to passengers in Railways: JS committee",
-   "en": {
-    "title": "Parliamentary committee pushes for more freight trains to boost revenue",
-    "summary": "A parliamentary standing committee recommended Bangladesh Railways increase freight carriages over passenger cars to raise revenue and make the sector profitable. The committee also urged measures to boost cargo exports via rail and transform railways from a loss-making to profitable operation. The Panchagarh-Cox's Bazar railway line progress was also discussed."
-   },
-   "bn": {
-    "title": "পণ্য পরিবহনে বেশি বগি যোগ করতে সুপারিশ",
-    "summary": "সংসদের স্থায়ী কমিটি বাংলাদেশ রেলওয়েকে যাত্রী বগির চেয়ে পণ্য পরিবহনের বগি বাড়ানোর সুপারিশ করেছে যাতে রাজস্ব বৃদ্ধি পায় এবং সেক্টর লাভজনক হয়। কমিটি রেল পথে পণ্য রপ্তানি বাড়াতে এবং রেলওয়েকে লোকসানি থেকে লাভজনক করতে ব্যবস্থা নিতে বলেছে।"
-   }
-  },
-  {
-   "id": "mbfxav",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac270a7-1791127719.jpg?resize=1920%2C1440",
-   "published": "2026-10-04T17:17:42.000Z",
-   "added": "2026-10-04T18:06:20.393Z",
-   "origTitle": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-   "en": {
-    "title": "Zelenskyy: Ukraine ready for US-brokered trilateral talks with Russia",
-    "summary": "President Volodymyr Zelenskyy said Ukraine is ready for three-way talks with the US and Russia this month to end the four-and-a-half-year war. The US is pushing for technical-level discussions by late October, possibly in the UAE. Both sides have indicated willingness but also pledged to escalate long-range attacks on military targets as winter approaches."
-   },
-   "bn": {
-    "title": "আমেরিকা মধ্যস্থতায় রাশিয়ার সাথে আলোচনায় ইউক্রেইন প্রস্তুত",
-    "summary": "প্রেসিডেন্ট জেলেনস্কি বলেছেন চার বছরেরও বেশি পুরনো যুদ্ধ শেষ করতে এই মাসে আমেরিকা, রাশিয়া ও ইউক্রেইনের তিন পক্ষীয় আলোচনার জন্য ইউক্রেইন প্রস্তুত। আমেরিকা অক্টোবরের শেষ নাগাদ প্রযুক্তিগত পর্যায়ের আলোচনার জন্য জোর দিচ্ছে। উভয় পক্ষ আগ্রহ দেখিয়েছে কিন্তু শীতকালে সামরিক লক্ষ্যে আক্রমণ বাড়ানোর প্রতিশ্রুতিও দিয়েছে।"
-   }
-  },
-  {
-   "id": "a4qsuj",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-   "image": "https://i.guim.co.uk/img/media/1fe834c7216eaf991d44faf1a59e148478cd5f86/249_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=64f0bfbe108ade269fc2c2ad78051b21",
-   "published": "2026-10-04T15:16:03.000Z",
-   "added": "2026-10-04T18:06:20.393Z",
-   "origTitle": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-   "en": {
-    "title": "Egyptian journalist charged with terrorism after newsroom raid",
-    "summary": "Egyptian authorities charged journalist Mohamed Ashraf with joining a terrorist group and spreading false news after arresting six staff from independent platform Matsadaash. The charges came after an interrogation lasting ten hours focused on the outlet's reporting. Five other journalists' whereabouts remain unknown. Rights groups call it a grave attack on press freedom."
-   },
-   "bn": {
-    "title": "মিশরে সাংবাদিক সন্ত্রাস আইনে অভিযুক্ত",
-    "summary": "স্বাধীন তথ্য-যাচাই প্ল্যাটফর্ম 'মাতসাদাশ' থেকে ছয় সাংবাদিককে গ্রেপ্তার করার পর মিশরের কর্তৃপক্ষ মোহাম্মদ আশরাফকে সন্ত্রাসী দলে যোগদান ও মিথ্যা সংবাদ ছড়ানোর অভিযোগে চার্জ করেছে। দশ ঘন্টার জিজ্ঞাসাবাদের পর এই অভিযোগ আনা হয়। বাকি পাঁচ সাংবাদিকের অবস্থান অজানা রয়েছে।"
-   }
-  },
-  {
-   "id": "ro30yb",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/zoox-waymo-getty.jpg?resize=1200,801",
-   "published": "2026-10-04T16:05:00.000Z",
-   "added": "2026-10-04T18:06:20.393Z",
-   "origTitle": "TechCrunch Mobility: Reining in robotaxis",
-   "en": {
-    "title": "California passes law to rein in robotaxis, hold companies liable",
-    "summary": "California's new Senate Bill 1246, signed by Governor Gavin Newsom, sets rules for autonomous vehicles to improve safety when they malfunction or interfere with emergency responders. Companies like Waymo and Tesla must provide local support and face penalties if robotaxis block police or firefighters for over 30 minutes. Remote drivers must be US-based with valid US licences."
-   },
-   "bn": {
-    "title": "রোবোট ট্যাক্সি নিয়ন্ত্রণে ক্যালিফোর্নিয়ার নতুন আইন",
-    "summary": "ক্যালিফোর্নিয়া নতুন আইন পাস করেছে যা রোবোট ট্যাক্সির নিরাপত্তা উন্নত করতে এবং প্রথম প্রতিক্রিয়াশীল দলের সাথে হস্তক্ষেপ কমাতে নিয়ম তৈরি করে। ওয়েমো এবং টেসলার মতো কোম্পানিগুলি স্থানীয় সহায়তা প্রদান করতে এবং ৩০ মিনিটের বেশি সময় ধরে পুলিশ বা ফায়ারফাইটারদের ব্লক করলে জরিমানার সম্মুখীন হতে পারে।"
-   }
-  },
-  {
-   "id": "1vmorpb",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/educations/972420/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8-%E0%A6%86%E0%A6%9C",
-   "image": null,
-   "published": "2026-10-04T18:01:00.000Z",
-   "added": "2026-10-04T18:06:20.393Z",
-   "origTitle": "বিশ্ব শিক্ষক দিবস আজ",
-   "en": {
-    "title": "Teachers celebrated globally on World Teachers' Day today",
-    "summary": "Today marks World Teachers' Day, observed annually on October 5 to recognise teachers' dignity, rights, and role in nation-building. Bangladesh joins the world in marking the day through various programmes. This year's theme is 'Standing with Teachers: Protecting the profession, enhancing dignity and shaping our future.'"
-   },
-   "bn": {
-    "title": "আজ বিশ্ব শিক্ষক দিবস পালিত হচ্ছে",
-    "summary": "শিক্ষকদের মর্যাদা, অধিকার ও জাতি গঠনে তাদের অবদানের স্বীকৃতি দিতে প্রতি বছর ৫ অক্টোবর বিশ্ব শিক্ষক দিবস পালিত হয়। বাংলাদেশও বিভিন্ন কর্মসূচির মাধ্যমে দিবসটি পালন করছে। এবারের থিম হল 'শিক্ষকদের পাশে দাঁড়ানো: পেশার সুরক্ষা, মর্যাদা উন্নয়ন ও আমাদের ভবিষ্যৎ গঠন'।"
-   }
-  },
-  {
-   "id": "6ikv1g",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/c6d7qxe3pwqvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9619/live/1d617e10-bff4-11f1-8c3e-3b2eab095459.jpg",
-   "published": "2026-10-04T13:21:25.000Z",
-   "added": "2026-10-04T18:06:20.393Z",
-   "origTitle": "ভারতীয় হাইকমিশনার দীনেশ ত্রিবেদী শেখ হাসিনা প্রসঙ্গে কী বুঝাতে চাইলেন",
-   "en": {
-    "title": "India's envoy hints at Hasina extradition stance amid ties thaw",
-    "summary": "India's High Commissioner in Dhaka made remarks about Sheikh Hasina's extradition, sparking debate over what New Delhi meant. Diplomats suggest he was signalling India won't get dragged into the issue or that it bears no responsibility for Hasina's military plane exit. The comments come as PM Tarek Rahman prepares a possible India visit, reflecting efforts to normalise bilateral ties strained after August's government change."
-   },
-   "bn": {
-    "title": "শেখ হাসিনা প্রত্যর্পণ বিষয়ে ভারতীয় হাইকমিশনারের ইঙ্গিত",
-    "summary": "শেখ হাসিনার প্রত্যর্পণ নিয়ে ঢাকায় ভারতের হাইকমিশনার দীনেশ ত্রিবেদীর মন্তব্য বিশ্লেষকদের মধ্যে নানা ধারণা তৈরি করেছে। কূটনীতিবিদরা বলছেন, তিনি ইঙ্গিত করেছেন যে ভারত এই বিষয়ে আটকে থাকতে চায় না অথবা এটি বাংলাদেশের দায়। তারেক রহমানের ভারত সফরের প্রস্তুতির মধ্যে এই মন্তব্য ঢাকা-দিল্লি সম্পর্ক স্বাভাবিক করার প্রচেষ্টার অংশ।"
    }
   }
  ]
