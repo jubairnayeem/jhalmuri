@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-07T01:28:09.891Z",
+ "updatedAt": "2026-10-07T08:34:27.526Z",
  "items": [
+  {
+   "id": "qvmp0e",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "কালের কণ্ঠ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rMDVRQ1RxUS0ybW9sVUh4dTZJX3VOYjFPQmpqS2xreFI3bWI1Qk5KY05PT1FVMUFOZEpaZGoteUNpMk9icFZfM2pSVGJTWlU5SWpjYnJQbUJ4MGlsX1F1dDVJaTQzb3dtOTBsYzV6TQ?oc=5",
+   "image": null,
+   "published": "2026-10-06T20:50:25.000Z",
+   "added": "2026-10-07T08:34:27.525Z",
+   "origTitle": "ধারণক্ষমতার তুলনায় কারাবন্দিতে দক্ষিণ এশিয়ায় শীর্ষে বাংলাদেশ",
+   "en": {
+    "title": "Bangladesh has highest prison overcrowding in South Asia",
+    "summary": "Bangladesh ranks first in South Asia for prison overcrowding relative to capacity. Prisons across the region are struggling with excess inmates beyond their designed limits. Bangladesh's situation stands out as the most severe among neighbouring countries in this crisis."
+   },
+   "bn": {
+    "title": "কারাগারে ভিড়ের ক্ষেত্রে বাংলাদেশ দক্ষিণ এশিয়ায় প্রথম",
+    "summary": "ধারণক্ষমতার তুলনায় বাংলাদেশের কারাগারে কারাবন্দির সংখ্যা দক্ষিণ এশিয়ায় সবচেয়ে বেশি। অতিরিক্ত বন্দীদের চাপে সব জেলখানা অপ্রতিরোধ্য পরিস্থিতিতে পড়েছে। আঞ্চলিক পর্যায়ে বাংলাদেশের এই সংকট সবচেয়ে গুরুতর।"
+   }
+  },
+  {
+   "id": "hw83fn",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো বিনোদন",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83VTJoZkdjd1FnWUxnYXR0emw4QXl2LVhiNEN4aExlNm1jblgzOXQ3TzdpcERKUHh3Mnl0U0ROcEJ4Yi1iNzFEaXpUQUFPbkpmZHBHejBucXJPMWJYTkNGZkNyNmhsNVZpNXdXMmRR0gF7QVVfeXFMUHlQbGhIVHBIQV94N19zTUZXVDE4NjQwWDBHbC1wNThrY2oxUXI5Z2xhVG0tUDAxeGNfcjdUTUdxVzl1S1l1dU5QdGFjOTE2RVJab0lyWFJoQk1fOTFoNUowdVlmNi16eThraHlERjlZRW95ZFBKTXE1X1pj?oc=5",
+   "image": null,
+   "published": "2026-10-07T07:30:00.000Z",
+   "added": "2026-10-07T08:34:27.525Z",
+   "origTitle": "‘২০২২ সাল থেকেই আলাদা ছিলাম’, বিচ্ছেদ নিয়ে মুখ খুললেন প্রীতি",
+   "en": {
+    "title": "Preeti breaks silence on separation",
+    "summary": "Actress Preeti has opened up about her split, revealing she and her husband have been living separately since 2022. She's finally choosing to address the rumours publicly now. The couple kept things quiet for a while before deciding to speak out."
+   },
+   "bn": {
+    "title": "বিচ্ছেদ নিয়ে মুখ খুললেন প্রীতি",
+    "summary": "অভিনেত্রী প্রীতি তার বিচ্ছেদের ব্যাপারে প্রথম কথা বলেছেন। তিনি জানিয়েছেন ২০২২ সাল থেকেই তারা আলাদা থাকছিলেন। দীর্ঘদিন চুপ থাকার পর এখন তিনি সবার সামনে সত্যি বলতে চাইলেন।"
+   }
+  },
+  {
+   "id": "8ixha8",
+   "section": "news",
+   "cat": "politics",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/politics/cukj5haw8a",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-27/yd97tyqv/Shafiqur-Rahman.avif",
+   "published": "2026-10-07T08:17:33.000Z",
+   "added": "2026-10-07T08:34:20.004Z",
+   "origTitle": "জামায়াতের আমির শফিকুর রহমান তুরস্ক গেছেন",
+   "en": {
+    "title": "Jamaat chief Shafiqur Rahman leaves for Turkey conference",
+    "summary": "Bangladesh Jamaat-e-Islami chief Shafiqur Rahman departed for Turkey on Wednesday morning from Dhaka airport. He will be the chief guest at the 'Second International Conference on Bangladesh Studies' at Istanbul University. After the conference, he plans to perform Umrah in Saudi Arabia and will return to Bangladesh on October 11."
+   },
+   "bn": {
+    "title": "জামায়াতের আমির শফিকুর রহমান তুরস্ক যাচ্ছেন",
+    "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমির শফিকুর রহমান বুধবার সকালে ঢাকা বিমানবন্দর থেকে তুরস্কের উদ্দেশে ছাড়েন। তিনি ইস্তাম্বুল বিশ্ববিদ্যালয়ে 'সেকেন্ড ইন্টারন্যাশনাল কনফারেন্স অন বাংলাদেশ স্টাডিজ'-এর প্রধান অতিথি হবেন। সম্মেলনের পর তিনি সৌদি আরবে ওমরাহ পালন করবেন এবং ১১ অক্টোবর দেশে ফিরবেন।"
+   }
+  },
+  {
+   "id": "1rt51o8",
+   "section": "news",
+   "cat": "khela",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/sports/football/qmyavcjri5",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-07/pucdc8v5/614791-01-02.jpg",
+   "published": "2026-10-07T08:11:17.000Z",
+   "added": "2026-10-07T08:34:20.004Z",
+   "origTitle": "Messi says Argentina retirement is “saddest day of my career”",
+   "en": {
+    "title": "Messi calls Argentina retirement 'saddest day of my career'",
+    "summary": "Lionel Messi retired from international football on Tuesday after scoring and assisting in Argentina's 3-0 victory over Benin. At the Monumental Stadium, he told fans that playing for Argentina was the most beautiful thing that could happen to him. After 20+ years wearing the jersey, he said this was the right moment despite the emotional toll of this year's grueling World Cup campaign."
+   },
+   "bn": {
+    "title": "মেসি বলেন, আর্জেন্টিনা থেকে অবসর ক্যারিয়ারের সবচেয়ে দুঃখের দিন",
+    "summary": "লিওনেল মেসি মঙ্গলবার আর্জেন্টিনার জাতীয় দল থেকে অবসর নিয়েছেন বেনিনের বিপক্ষে ৩-০ জয়ে গোল করার পর। মনুমেন্টাল স্টেডিয়ামে তিনি ভক্তদের বলেন যে আর্জেন্টিনার জন্য খেলা তার কাছে সবচেয়ে সুন্দর জিনিস। ২০ বছরের বেশি জার্সি পরার পর, তিনি বলেন এই মুহূর্ত সঠিক ছিল, যদিও এ বছরের বিশ্বকাপ খুবই পরিশ্রমী ছিল।"
+   }
+  },
+  {
+   "id": "1nq5lz2",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac5da2b-1791351339.jpg?resize=1920%2C1440",
+   "published": "2026-10-07T07:49:52.000Z",
+   "added": "2026-10-07T08:34:20.004Z",
+   "origTitle": "Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations",
+   "en": {
+    "title": "Myanmar's Min Aung Hlaing visits Malaysia for repatriation talks",
+    "summary": "Myanmar's military leader Min Aung Hlaing arrived in Malaysia on Wednesday for talks with PM Anwar Ibrahim. Malaysia wants his cooperation to repatriate thousands of Myanmar nationals, despite UN warnings that returnees could face serious danger amid ongoing civil war. Myanmar has been in turmoil since the 2021 coup, with roughly 100,000 deaths and 3.5 million displaced. This is Aung Hlaing's first Malaysia visit since becoming president in April."
+   },
+   "bn": {
+    "title": "মিয়ানমারের মিন অং হ্লাইং মালয়েশিয়ায়, ফেরত পাঠানো নিয়ে আলোচনা",
+    "summary": "মিয়ানমারের সামরিক নেতা মিন অং হ্লাইং বুধবার মালয়েশিয়ায় পৌঁছেছেন প্রধানমন্ত্রী আনোয়ার ইব্রাহিমের সাথে কথা বলতে। মালয়েশিয়া হাজার হাজার মিয়ানমার নাগরিকদের ফেরত পাঠাতে চায়, যদিও জাতিসংঘ সতর্ক করছে যে তারা গৃহযুদ্ধে বিপদে পড়বে। ২০২১ সালের অভ্যুত্থানের পর থেকে মিয়ানমারে প্রায় ১ লাখ মানুষ মারা গেছে এবং ৩৫ লাখ বাস্তুচ্যুত হয়েছে। এটি অং হ্লাইংয়ের এপ্রিলে রাষ্ট্রপতি হওয়ার পর প্রথম মালয়েশিয়া সফর।"
+   }
+  },
+  {
+   "id": "134pxyn",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/sport/football/972949/%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A7%87",
+   "image": null,
+   "published": "2026-10-07T08:30:27.000Z",
+   "added": "2026-10-07T08:34:20.004Z",
+   "origTitle": "যার সঙ্গে খেলার স্বপ্ন দেখেছিলেন, তার বিদায়ে কাঁদলেন এনজো",
+   "en": {
+    "title": "Enzo wept as Messi said goodbye to Argentina football",
+    "summary": "Lionel Messi said emotional goodbye to Argentina's national team at the Monumental Stadium after playing his final match. Manchester City midfielder Enzo Fernández couldn't hold back tears watching the legendary player's farewell. Messi, who played 20+ years for Argentina, called it the saddest day of his career but felt it was the right time after the grueling World Cup campaign."
+   },
+   "bn": {
+    "title": "মেসির বিদায়ে এনজো কেঁদে ফেলেন",
+    "summary": "লিওনেল মেসি মনুমেন্টাল স্টেডিয়ামে আর্জেন্টিনা জাতীয় দলের কাছ থেকে আবেগঘন বিদায় জানিয়েছেন তার শেষ ম্যাচের পরে। ম্যানচেস্টার সিটির মিডফিল্ডার এনজো ফার্নান্দেজ কিংবদন্তি খেলোয়াড়ের বিদায় দেখে চোখের পানি আটকাতে পারেননি। মেসি, যিনি ২০ বছরের বেশি আর্জেন্টিনার হয়ে খেলেছেন, একে তার ক্যারিয়ারের সবচেয়ে দুঃখের দিন বলেছেন কিন্তু মনে করেন সময় ছিল সঠিক।"
+   }
+  },
+  {
+   "id": "1ljg1fw",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cwn8dgpjrx31o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5e9/live/73bb7df0-c1fd-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-07T05:07:15.000Z",
+   "added": "2026-10-07T08:34:20.004Z",
+   "origTitle": "ক্রিস্টা পাইকের ব্যর্থ মৃত্যুদণ্ড কার্যকরের ঘটনায় কী ঘটেছিল - এবং এরপর কী?",
+   "en": {
+    "title": "Tennessee inmate survives failed execution by lethal injection",
+    "summary": "Christa Pike survived two attempts at lethal injection in Tennessee and is now conscious and talking in hospital, according to her lawyers. Experts call it unprecedented in medical history—she appears to be the only person ever to survive a lethal injection. Pike, convicted of a 1995 murder, remains hospitalized with recovery expected to take a long time. Governor Bill Lee has suspended executions in Tennessee for the rest of the year and ordered a third-party review."
+   },
+   "bn": {
+    "title": "টেনেসিতে বন্দী মৃত্যুদণ্ডের চেষ্টা থেকে বেঁচে গেলেন",
+    "summary": "ক্রিস্টা পাইক টেনেসিতে প্রাণঘাতী ইনজেকশনের দুটি চেষ্টা থেকে বেঁচে গেছেন এবং এখন হাসপাতালে সচেতন ও কথা বলছেন বলে তার আইনজীবীরা জানিয়েছেন। বিশেষজ্ঞরা এটি চিকিৎসা ইতিহাসে নজিরবিহীন বলছেন—তিনি সম্ভবত একমাত্র ব্যক্তি যিনি প্রাণঘাতী ইনজেকশন থেকে বেঁচেছেন। ১৯৯৫ সালের খুনের দোষে দোষী পাইক হাসপাতালে আছেন এবং সুস্থ হতে দীর্ঘ সময় লাগবে। গভর্নর টেনেসিতে বছরের বাকি সময় মৃত্যুদণ্ড স্থগিত করেছেন।"
+   }
+  },
+  {
+   "id": "55jeej",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/mayor-accused-obstructing-police-bid-arrest-bihari-boga-ctg-city-corp-building-1565166",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/ccc.jpg",
+   "published": "2026-10-07T08:25:00.000Z",
+   "added": "2026-10-07T08:34:20.004Z",
+   "origTitle": "Mayor accused of obstructing police bid to arrest 'Bihari Boga' at Ctg City Corp building",
+   "en": {
+    "title": "Chattogram mayor accused of blocking arrest at city corp",
+    "summary": "Police say they went to Chattogram City Corporation looking for wanted criminal Waqil Hossain (alias 'Bihari Boga') on October 6. Mayor Dr Shahadat Hossain denies he was inside the building and calls it a smear campaign before elections. Police confirm Boga is a wanted fugitive with multiple cases against him. There was commotion outside, with reports that the mayor's supporters pushed journalists and took a phone."
+   },
+   "bn": {
+    "title": "চট্টগ্রাম সিটি কর্পের বিল্ডিংয়ে মেয়র গ্রেফতারি বাধা দিলেন?",
+    "summary": "পুলিশ ৬ অক্টোবর চট্টগ্রাম সিটি কর্পরেশনে চাওয়া অপরাধী ওয়াকিল হোসেন ওরফে 'বিহারি বোগা'কে ধরতে গেছিল। মেয়র ডাক্তার শাহাদত হোসেন বলেন, বোগা সেখানে ছিল না এবং এটা নির্বাচনের আগে অপপ্রচার। পুলিশ নিশ্চিত করে যে বোগা একজন চাওয়া আপরাধী এবং তার বিরুদ্ধে একাধিক মামলা আছে। বাইরে হৈচৈ হয়েছিল এবং সাংবাদিকরা বলেন মেয়রের সমর্থকরা তাদের ধাক্কা দিয়েছে এবং ফোন নিয়েছে।"
+   }
+  },
   {
    "id": "jvu4s6",
    "section": "hasi",
@@ -2177,226 +2353,6 @@
    "bn": {
     "title": "ভারতীয় নাবিক গোপন তথ্য দেওয়ার অভিযোগে গ্রেফতার",
     "summary": "পাকিস্তানি মহিলা গোয়েন্দা সদস্যকে গোপন সামুদ্রিক তথ্য পাঠানোর অভিযোগে ভারতীয় নৌবাহিনীর ৩১ বছর বয়সী এক নাবিককে গ্রেফতার করা হয়েছে। সামাজিক যোগাযোগমাধ্যমভিত্তিক হানিট্র্যাপের মাধ্যমে এই গুপ্তচরবৃত্তি ঘটেছে। শনিবার অভিযুক্ত প্রদীপ মুখার্জিকে গ্রেফতার করা হয়। অন্ধ্রপ্রদেশ পুলিশের কাউন্টার ইন্টেলিজেন্স তদন্ত করছে।"
-   }
-  },
-  {
-   "id": "1to3izv",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/khulna/972252/%E0%A6%A1%E0%A6%BE%E0%A6%AC%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A6%BE%E0%A6%87-%E0%A6%A8%E0%A6%9B%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87",
-   "image": null,
-   "published": "2026-10-04T06:23:27.000Z",
-   "added": "2026-10-04T06:47:08.016Z",
-   "origTitle": "ডাববোঝাই নছিমনকে অতিক্রম করতে গিয়ে দুই মোটরসাইকেলের সংঘর্ষ, নিহত ৩",
-   "en": {
-    "title": "Three motorcyclists killed in collision with overloaded truck in Bagerhat",
-    "summary": "Two motorcycles collided with an overloaded bus on the Morelganj-Bogra highway in Bagerhat on Saturday evening. Three motorcyclists died: Limon Molla (24), Mo. Amin Khan (23), and Soheb (16). Six others were injured in the crash."
-   },
-   "bn": {
-    "title": "বাগেরহাটে মোটরসাইকেল-নছিমনের সংঘর্ষে তিন নিহত",
-    "summary": "শনিবার সন্ধ্যায় বাগেরহাটের মোরেলগঞ্জে দুটি মোটরসাইকেল এবং একটি ডাববোঝাই নছিমনের সংঘর্ষে তিনজন মারা গেছেন। নিহতরা হলেন লিমন মোল্লা (২৪), মো. আমিন খান (২৩) এবং সোহেব (১৬)। এই ঘটনায় আরও ছয়জন আহত হয়েছেন।"
-   }
-  },
-  {
-   "id": "1wzmpe5",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/c3vgxe295rjvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e5d/live/8f06a810-bf90-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-04T02:44:23.000Z",
-   "added": "2026-10-04T06:47:08.016Z",
-   "origTitle": "পত্রিকা: 'চট্টগ্রাম বন্দরের সব টার্মিনাল যাচ্ছে বিদেশিদের হাতে'",
-   "en": {
-    "title": "Chittagong port terminals shifting to foreign operators, press reports",
-    "summary": "Dhaka newspapers report that Chittagong port's container terminals are being handed over to foreign operators one by one. Four terminals already went or are set to go to foreign companies. Now discussions include Chittagong Container Terminal, General Cargo Berth, and Bay Port terminals. Opposition groups are launching fresh protests."
-   },
-   "bn": {
-    "title": "চট্টগ্রাম বন্দরের টার্মিনাল বিদেশিদের হাতে যাচ্ছে: সংবাদপত্র",
-    "summary": "ঢাকার সংবাদপত্রে প্রতিবেদন অনুযায়ী চট্টগ্রাম বন্দরের কনটেইনার টার্মিনালগুলো একে একে বিদেশি কোম্পানিগুলোর হাতে চলে যাচ্ছে। চারটি টার্মিনাল ইতিমধ্যে বিদেশিদের কাছে দেওয়া বা দেওয়ার জন্য অনুমোদিত হয়েছে। এখন চট্টগ্রাম কনটেইনার টার্মিনাল, জেনারেল কার্গো বার্থ আর বে পোর্টেও এমনটি নিয়ে আলোচনা চলছে। বিরোধী সংগঠনগুলো নতুন আন্দোলন ঘোষণা করেছে।"
-   }
-  },
-  {
-   "id": "1inq2xo",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "সমকাল",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMitgVBVV95cUxQdW85T2ExbzFkV1owcnppblBGTWU3V3Y3RzFJakF3RHNCVDNBNEw1dThVUzBrel9pVmExT25EUzlUNU5uSUNMVEpjdUpicjg5SWVUczNnalcxYXdwemZ1MlRucm9JODBLalNqWGpIckk1Qk45Yll4MGV0aDQwTHBfZzkwQkdMNkJySW84OFdGR0h5TEtRQ1kzV1cwV200VFZfY0Etd3M1eGdtVVVIYzVucWhiTVdDdWd5Vl8zbEdFSlcxSnhhY2h3aC1jbEJkVUZ5dXFtdVhDa00xdG9iaWZXWkJGRkdIUWRBZFAzanVqQVJyRk5abUstUmZubGkwamlXRXUtYzZiTDJ4LXh0RlExMzhFS3VTMlU5WjlnUWZGSFlwS1hZSUdwSkd2UHdfNUc1WXpNbVRCMWFGWWFzNmpEYS1FN3hVa3A4TU5vZnFvTFFrRWQ5eUt0TnNFWHhZYlEzRWNVTWgxTmJjQ1E0WW9Ic244TXl6RWFkeDBoZXNDaXNXS3pzSFFMdEstU09Lc3IwTTdndVc1SVVEcUJfeTk4Nk1yTWMzb0plSVJGUGg5Ti1ubFYzM3RxdGhKUjE2N0x4SHdxanpZT0QzbFo1TVFSWkJJemppM2I0M1VybUJpdC1nSk1uSWFJOGlqVXdzYVNBVE56a19YQlJfRnprOWdKODZHUmFUcFYtRGoxdGM5RkFaRmx6V1Bvd2xVLWl3dnJZMl9YaUdDdkUzdUlCZHVlX2hXUE1OQkg1eVA5UlNrTFRvVUdPdlRRcGZJOGoxMDFaajQwQnE2WGM3cDA2RUFCS2QyWDl6VllYUlpzbUtFV0dBM21wQjBHTkptakpxWERSeWZQSXR1SWhraHlObHlEa0J6MFNqYkhlUzU4Yl9TYzVFSzRvTnpPY0ZuY1lIVkl2NUs1SFZn?oc=5",
-   "image": null,
-   "published": "2026-10-03T15:57:00.000Z",
-   "added": "2026-10-04T06:47:08.016Z",
-   "origTitle": "রূপগঞ্জে বন্ধুকে আটকে রেখে কিশোরীকে ধর্ষণ, ৩ যুবক গ্রেপ্তার",
-   "en": {
-    "title": "Three youths arrested for rape in Rupganj",
-    "summary": "Three young men have been arrested in Rupganj for raping a teenage girl. According to police, they restrained her friend while committing the crime. The case is being investigated and details are still emerging."
-   },
-   "bn": {
-    "title": "রূপগঞ্জে কিশোরীর প্রতি ধর্ষণে তিনজন গ্রেপ্তার",
-    "summary": "রূপগঞ্জে একটি কিশোরীর বিরুদ্ধে ধর্ষণের অভিযোগে তিনজন যুবককে গ্রেপ্তার করা হয়েছে। পুলিশ জানায় তারা তার বন্ধুকে আটকে রেখে এই অপরাধ করেছে। তদন্ত চলছে এবং আরও বিস্তারিত সামনে আসবে।"
-   }
-  },
-  {
-   "id": "7besc5",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1557029.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423300/423355.jpg",
-   "published": "2026-10-04T03:12:47.000Z",
-   "added": "2026-10-04T06:47:08.016Z",
-   "origTitle": "Shreyas Iyer 'ecstatic' after 'collective effort and comprehensive win' over Pakistan",
-   "en": {
-    "title": "Shreyas Iyer praises India's champion mindset after Pakistan win",
-    "summary": "India beat Pakistan at the Asian Games, and captain Shreyas Iyer was thrilled about how his team handled things. He said they didn't complain about rain or make excuses—that's what champions do. The win showed real collective effort and composure under pressure."
-   },
-   "bn": {
-    "title": "পাকিস্তানের বিরুদ্ধে জয়ে শ্রেয়াস আইয়ারের আনন্দ",
-    "summary": "এশিয়ান গেমসে পাকিস্তানকে হারিয়ে ভারত জিতেছে আর শ্রেয়াস আইয়ার খুব খুশি। তিনি বলেছেন তার টিম বৃষ্টি নিয়ে কোনো অভিযোগ করেনি বা অজুহাত খুঁজেনি—এটাই চ্যাম্পিয়ন টিমের কাজ। এই জয় দেখায় কতটা সম্মিলিত প্রচেষ্টা আর দৃঢ়তা ছিল।"
-   }
-  },
-  {
-   "id": "1aoipd",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/football/7yl4wngnou",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-04/zzxzbrek/594441-01-02-1.jpg",
-   "published": "2026-10-04T06:27:22.000Z",
-   "added": "2026-10-04T06:46:53.807Z",
-   "origTitle": "আর্জেন্টিনা কতবার ৭ গোল করেছে, কোন মাসে ৭ গোল বেশি",
-   "en": {
-    "title": "Argentina scores 7 goals again, October their lucky month",
-    "summary": "Argentina thrashed Burkina Faso 7-0 in a friendly at Buenos Aires, their biggest win in nearly three years under coach Lionel Scaloni. They last scored 7 goals in a friendly against Curaçao on March 28, 2023. Historically, Argentina's biggest win was 12-0 against Ecuador in 1942 Copa America, with legend José Manuel Moreno scoring five goals. October has been Argentina's luckiest month for 7-goal wins—they've done it five times."
-   },
-   "bn": {
-    "title": "আর্জেন্টিনার অক্টোবর মাস, সাত গোলের রেকর্ড বাড়িল",
-    "summary": "আর্জেন্টিনা বুয়েনস এইরেসে বুরকিনা ফাসোকে ৭-০ গোলে পরাজিত করেছে এবং এটি স্কালোনি যুগে তিন বছরে তাদের বড়তম জয়। তারা আগে ২০২৩ সালে কুরাসাওয়ের বিপক্ষেও ৭-০ জিতেছিল। আর্জেন্টিনার ফুটবল ইতিহাসে সবচেয়ে বড় জয় ছিল ১৯৪২ কোপা আমেরিকায় ইকুয়েডরের বিপক্ষে ১২-০। অক্টোবর মাসেই আর্জেন্টিনা পাঁচবার সাত গোল করেছে, যা অন্য কোনো মাসের চেয়ে বেশি।"
-   }
-  },
-  {
-   "id": "1k46yt4",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/lut8myx7a6",
-   "image": "https://media.prothomalo.com/prothomalo-english/2025-10-03/hulov4dk/Bangladesh-Government.jpg",
-   "published": "2026-10-04T04:39:39.000Z",
-   "added": "2026-10-04T06:46:53.807Z",
-   "origTitle": "Govt employees to get 3 months’ salary arrears with October pay, calculation starts tomorrow",
-   "en": {
-    "title": "Government workers get 3 months' arrears with October salary",
-    "summary": "Government employees will receive nearly three months' salary arrears in one lump sum with their October pay under the new salary structure. The pay fixation process begins tomorrow and must be completed by October 20. Employees will log into the iBAS++ portal to enter personal details and confirm their information. The exact arrears amount depends on each person's grade, basic salary, and the new fixation date."
-   },
-   "bn": {
-    "title": "সরকারি কর্মচারীরা অক্টোবর বেতনে তিন মাসের বকেয়া পাবেন",
-    "summary": "সরকারি কর্মচারীরা নতুন বেতন কাঠামোয় অক্টোবর বেতনের সাথে তিন মাসের বকেয়া এককালীন পাবেন। পে ফিক্সেশনের প্রক্রিয়া সোমবার থেকে শুরু হবে এবং ২০ অক্টোবরের মধ্যে শেষ করতে হবে। প্রতিটি কর্মচারীকে আইবিএএস++ পোর্টালে ব্যক্তিগত তথ্য প্রবেশ করতে হবে। প্রতিটি ব্যক্তির বকেয়ার পরিমাণ তাদের গ্রেড, বেতন এবং নতুন ফিক্সেশন তারিখের উপর নির্ভর করবে।"
-   }
-  },
-  {
-   "id": "4eoyn6",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/worldbiz/middle-east/war-isnt-over-al-qaeda-calls-copycat-attacks-us-israeli-planes-after-flydubai",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/plane_israel_0.jpg",
-   "published": "2026-10-04T06:30:00.000Z",
-   "added": "2026-10-04T06:46:53.807Z",
-   "origTitle": "‘War isn’t over’: Al-Qaeda calls for ‘copycat attacks’ on US, Israeli planes after flydubai plot",
-   "en": {
-    "title": "Al-Qaeda calls for copycat attacks on US, Israeli planes",
-    "summary": "Al-Qaeda's al-Bayan publication called for copycat attacks on American and Israeli airliners, invoking 9/11 while praising an alleged hijacker of a flydubai flight. The Arabic-language weekly, launched in July, warned that planes carrying 'Zionists, Americans and infidels' remain targets. The rhetoric appeared on Al-Qaeda-linked Telegram channels and invoked a 2009 CIA suicide bombing. The call came after posts allegedly linked to the Omani co-pilot accused of the hijacking."
-   },
-   "bn": {
-    "title": "আল-কায়েদা আমেরিকা-ইজরায়েল বিমানে হামলার আহ্বান জানিয়েছে",
-    "summary": "আল-কায়েদার আল-বায়ান প্রকাশনা আমেরিকা এবং ইজরায়েলের বিমানে অনুরূপ হামলার জন্য আহ্বান জানিয়েছে। তারা ৯/১১ ইতিহাস টেনে আনীয়া ফ্লাইড়ুবাই হাইজ্যাকারকে সাধুবাদ জানিয়েছে। জুলাইয়ে চালু হওয়া এই আরবি সাপ্তাহিক প্রকাশনা বলেছে যে আমেরিকান ও সিয়োনিস্ট বাহক বিমান এখনও লক্ষ্যবস্তু। এই ডাক আল-কায়েদা সংযুক্ত টেলিগ্রাম চ্যানেলে প্রকাশিত হয়েছে।"
-   }
-  },
-  {
-   "id": "1uh8kyt",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261003__D26H69M__v1__MidRes__CricketIndWisOdi-1791090387.jpg?resize=1200%2C630",
-   "published": "2026-10-04T05:28:38.000Z",
-   "added": "2026-10-04T06:46:53.807Z",
-   "origTitle": "West Indies beat India in record chase as Hope hits 162 in third ODI",
-   "en": {
-    "title": "West Indies chase 352 to beat India, Hope scores 162",
-    "summary": "West Indies pulled off their biggest ODI run chase, reaching 352-5 to beat India by five wickets in Chandigarh with 10 balls spare. Captain Shai Hope, who kept wicket during India's innings, then smashed an unbeaten 162 to lead the chase. India had already won the series 2-0, but West Indies broke their losing streak since 2023. Hope's 143-ball knock included 17 boundaries and three sixes."
-   },
-   "bn": {
-    "title": "ওয়েস্ট ইন্ডিজ ইতিহাসের বড় চেজ করে ভারতকে হারাল",
-    "summary": "ওয়েস্ট ইন্ডিজ চন্ডীগড়ে ৩৫২ রানের চেজ ধরে ভারতকে পাঁচ উইকেটে হারিয়েছে। ক্যাপ্টেন শাই হোপ ১৬২ রান করে দল জয়ে নেতৃত্ব দিয়েছেন। হোপ ভারতের সব ওভার রেখেপাল করার পরও এত বড় ইনিংস খেলেছেন। এটি ওয়েস্ট ইন্ডিজের সর্বোচ্চ ওডিআই চেজ এবং তারা ২০২৩ সালের পর প্রথমবার ভারতকে হারিয়েছে।"
-   }
-  },
-  {
-   "id": "pkexs2",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/972253/%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%9C%E0%A7%81%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%87%E0%A6%A4%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A7%A7%E0%A7%AC-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF",
-   "image": null,
-   "published": "2026-10-04T06:38:26.000Z",
-   "added": "2026-10-04T06:46:53.807Z",
-   "origTitle": "শাহজালালে দুই বিমানকর্মীর জুতার ভেতর মিললো ১৬ কোটি টাকার স্বর্ণ",
-   "en": {
-    "title": "80 gold bars worth 16 crore taka found in airport workers' shoes",
-    "summary": "Customs intelligence officials found 80 gold bars hidden inside the shoes of two aircraft workers at Hazrat Shahjalal International Airport. The gold weighed 9.34 kilograms and was valued at approximately 16 crore 25 lakh taka. The discovery was made on the runway based on secret intelligence. The National Board of Revenue confirmed the seizure on Sunday, September 4."
-   },
-   "bn": {
-    "title": "শাহজালালে দুই কর্মীর জুতায় মিলেছে ১৬ কোটি টাকার সোনা",
-    "summary": "শাহজালাল আন্তর্জাতিক বিমানবন্দরের রানওয়েতে দুই বিমানকর্মীর জুতার ভেতর থেকে ৮০টি স্বর্ণবার পাওয়া গেছে। সোনার ওজন ৯.৩৪ কেজি এবং বাজারমূল্য প্রায় ১৬ কোটি ২৫ লাখ টাকা। কাস্টমস গোয়েন্দা বিভাগ গোপন সংবাদের ভিত্তিতে এটি উদ্ধার করেছে। জাতীয় রাজস্ব বোর্ড রবিবার এই তথ্য নিশ্চিত করেছে।"
-   }
-  },
-  {
-   "id": "1crj1jb",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/ck62y42q28r2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4835/live/715c8f40-bfa0-11f1-babe-4199b0e7ccea.jpg",
-   "published": "2026-10-04T03:42:56.000Z",
-   "added": "2026-10-04T06:46:53.807Z",
-   "origTitle": "যুক্তরাষ্ট্রের সম্ভাব্য আক্রমণের জন্য কানাডা কেন প্রস্তুত হচ্ছে",
-   "en": {
-    "title": "Canada prepares for possible US military threat under Trump",
-    "summary": "Canada's PM Mark Carney said last week he's preparing for a scenario once unthinkable: a US military attack on Canada. He stressed the risk is very low and the chance extremely unlikely. The worry stems from Trump's global tariff policies and repeated comments about making Canada America's 51st state. Trump said military force against Canada is 'unlikely,' preferring economic pressure instead."
-   },
-   "bn": {
-    "title": "ট্রাম্পের যুগে আমেরিকার সম্ভাব্য আক্রমণের জন্য কানাডা প্রস্তুত",
-    "summary": "কানাডার প্রধানমন্ত্রী মার্ক কার্নি স্বীকার করেছেন যে তিনি যুক্তরাষ্ট্রের সম্ভাব্য সামরিক আক্রমণের জন্য পরিকল্পনা করছেন। তবে তিনি জানিয়েছেন এই ঝুঁকি খুবই কম এবং ঘটার সম্ভাবনা অত্যন্ত ক্ষীণ। ট্রাম্পের শুল্কনীতি এবং কানাডাকে '৫১তম অঙ্গরাজ্য' বানানোর মন্তব্যই এই প্রস্তুতির কারণ। ট্রাম্পের পক্ষ থেকে বলা হয়েছে তারা অর্থনৈতিক চাপ ব্যবহার করবে, সামরিক শক্তি নয়।"
    }
   }
  ]

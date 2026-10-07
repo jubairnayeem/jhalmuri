@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-07T01:28:24.975Z",
+ "updatedAt": "2026-10-07T08:34:42.160Z",
  "burning": [
   {
-   "id": "1dagpgd",
+   "id": "1obnxj2",
    "heat": 5,
    "why": {
-    "en": "Messi's farewell match dominates sports talk across multiple outlets and Google Trends.",
-    "bn": "মেসির বিদায় ম্যাচ একাধিক মাধ্যম এবং গুগল ট্রেন্ডে আধিপত্য বিস্তার করছে।"
+    "en": "Nine dengue deaths in one day with over 1,900 hospitalised signals a major public health crisis.",
+    "bn": "একদিনে নয় জনের ডেঙ্গু মৃত্যু এবং ১৯০০+ হাসপাতালভর্তি একটি বিশাল জনস্বাস্থ্য সংকট।"
    },
    "rank": 1
   },
   {
-   "id": "1obnxj2",
-   "heat": 4,
+   "id": "13s5cgw",
+   "heat": 5,
    "why": {
-    "en": "Nine dengue deaths in one day is a major public health crisis affecting Bangladesh.",
-    "bn": "এক দিনে নয়জন ডেঙ্গু মৃত্যু বাংলাদেশের প্রধান স্বাস্থ্য সংকট।"
+    "en": "Messi's final Argentina match trended across multiple sports outlets and Google searches worldwide.",
+    "bn": "মেসির শেষ ম্যাচ একাধিক স্পোর্টস আউটলেটে ভাইরাল হয়েছে বিশ্বব্যাপী।"
    },
    "rank": 2
   },
   {
-   "id": "1mrqr9r",
-   "heat": 3,
+   "id": "qvmp0e",
+   "heat": 4,
    "why": {
-    "en": "Laos halts Bangladesh worker visas impacts thousands of migrant workers and families.",
-    "bn": "লাওস বাংলাদেশী শ্রমিক ভিসা বন্ধ করায় হাজারো মানুষ প্রভাবিত হচ্ছে।"
+    "en": "Bangladesh prison overcrowding at South Asia's worst level is a significant governance and rights issue.",
+    "bn": "বাংলাদেশের কারাগার অতিভিড়ন দক্ষিণ এশিয়ায় সর্বোচ্চ একটি গুরুতর সমস্যা।"
    },
    "rank": 3
   },
   {
-   "id": "cf6c7c",
-   "heat": 3,
+   "id": "1mrqr9r",
+   "heat": 4,
    "why": {
-    "en": "bdnews24 editor Toufique's body returns home, significant for Bangladesh media community.",
-    "bn": "বিডিনিউজ২৪ সম্পাদক তৌফিকের মরদেহ দেশে ফেরা বাংলাদেশ মিডিয়ার জন্য গুরুত্বপূর্ণ।"
+    "en": "Laos halting worker visas for four months affects thousands of Bangladeshi migrant workers.",
+    "bn": "লাওস ৪ মাসের জন্য ভিসা বন্ধ করায় লক্ষ লক্ষ বাংলাদেশি শ্রমিক প্রভাবিত।"
    },
    "rank": 4
   },
   {
-   "id": "r19kse",
-   "heat": 2,
+   "id": "16b2y46",
+   "heat": 4,
    "why": {
-    "en": "Human trafficking story highlights ongoing migrant worker exploitation from Bangladesh.",
-    "bn": "মানব পাচার গল্প বাংলাদেশী শ্রমিকদের চলমান শোষণ তুলে ধরে।"
+    "en": "Over 21 migrant worker bodies returning daily is an ongoing tragedy demanding attention.",
+    "bn": "প্রতিদিন গড়ে ২১+ প্রবাসী শ্রমিকের মরদেহ ফেরা একটি চলমান সংকট।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1dagpgd",
-   "tag": "#MessiFarewell",
+   "id": "8ixha8",
+   "tag": "#তুরস্কসফর",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "Messi ends Argentina career with win",
-    "text": "Lionel Messi played his final match for Argentina against Benin, with the team winning 3-0. The farewell generated massive interest across Bangladesh with multiple trending searches."
+    "title": "Jamaat chief heads to Turkey",
+    "text": "Shafiqur Rahman, chief of Jamaat-e-Islami, left for a conference in Turkey. He will speak at Istanbul University."
    },
    "bn": {
-    "title": "মেসির আর্জেন্টিনা ক্যারিয়ারের সমাপ্তি",
-    "text": "লিওনেল মেসি বেনিনের বিপক্ষে আর্জেন্টিনার শেষ ম্যাচে খেলেছেন এবং দল ৩-০ জিতেছে। বিদায়ের এই মুহূর্ত বাংলাদেশে ব্যাপক আলোচনা সৃষ্টি করেছে।"
+    "title": "জামায়াত আমির তুরস্কে",
+    "text": "জামায়াত-ই-ইসলামীর আমির শফিকুর রহমান তুরস্কের একটি সম্মেলনে যাচ্ছেন। তিনি ইস্তাম্বুল বিশ্ববিদ্যালয়ে বক্তব্য দেবেন।"
    }
   },
   {
-   "id": "ymqxio",
-   "tag": "#Cricket",
+   "id": "1cvxamp",
+   "tag": "#দিল্লিপ্রতিবাদ",
    "platforms": [
     "Google"
    ],
-   "heat": 2,
+   "heat": 3,
    "en": {
-    "title": "Pakistan exits World Championship",
-    "text": "Pakistan has withdrawn from the World Championship of Legends, a significant decision in the cricket calendar."
+    "title": "Gandhi cousins arrested in Delhi",
+    "text": "Two Gandhi cousins were arrested during a Delhi protest against the election chief."
    },
    "bn": {
-    "title": "পাকিস্তান বিশ্ব চ্যাম্পিয়নশিপ থেকে সরে দাঁড়ায়",
-    "text": "পাকিস্তান ওয়ার্ল্ড চ্যাম্পিয়নশিপ অফ লেজেন্ডস থেকে প্রত্যাহার করেছে, যা ক্রিকেট জগতে উল্লেখযোগ্য।"
+    "title": "দিল্লিতে গান্ধী চাচাতো ভাইরা গ্রেপ্তার",
+    "text": "দুজন গান্ধী চাচাতো ভাই নির্বাচন কমিশনার বিরোধী প্রতিবাদে দিল্লিতে গ্রেপ্তার হয়েছেন।"
    }
   },
   {
-   "id": "5o7uxq",
-   "tag": "#IRONMAN",
+   "id": "hw83fn",
+   "tag": "#বিনোদন",
    "platforms": [
     "Google"
    ],
-   "heat": 2,
+   "heat": 3,
    "en": {
-    "title": "Mishu Biswas breaks IRONMAN record",
-    "text": "Bangladeshi athlete Mishu Biswas has set a new national IRONMAN record, a major achievement in endurance sports."
+    "title": "Preeti breaks her silence",
+    "text": "Preeti has spoken out about her separation for the first time."
    },
    "bn": {
-    "title": "মিশু বিশ্বাস আইরনম্যান রেকর্ড ভাঙেন",
-    "text": "বাংলাদেশী ক্রীড়াবিদ মিশু বিশ্বাস নতুন জাতীয় আইরনম্যান রেকর্ড স্থাপন করেছেন।"
+    "title": "প্রীতি তার নীরবতা ভাঙলেন",
+    "text": "প্রীতি প্রথমবারের মতো তার বিচ্ছেদ সম্পর্কে কথা বলেছেন।"
    }
   }
  ],
