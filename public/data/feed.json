@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-10-08T08:51:23.081Z",
+ "updatedAt": "2026-10-08T16:25:00.428Z",
  "items": [
+  {
+   "id": "41zbwk",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/environment/climate-change/qq8g2g85o8",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-08/6gwls99f/jeat.avif",
+   "published": "2026-10-08T15:37:08.000Z",
+   "added": "2026-10-08T16:25:00.428Z",
+   "origTitle": "Bangladesh, 3 other South Asian countries launch new initiative to tackle extreme heat",
+   "en": {
+    "title": "Bangladesh Joins Heat Crisis Initiative with South Asia",
+    "summary": "India, Nepal, Bangladesh and Bhutan launched a joint initiative to tackle extreme heat as El Niño strengthens. Four country briefs assessing heatwave conditions and preparedness gaps were released at Bangkok's Global Heat Forum. Heat threatens children, elderly people, pregnant women and outdoor workers across South Asia."
+   },
+   "bn": {
+    "title": "দক্ষিণ এশিয়ার সাথে বাংলাদেশ চরম তাপ মোকাবেলায় যোগ দিল",
+    "summary": "এল নিনিও শক্তিশালী হওয়ার সাথে সাথে ভারত, নেপাল, বাংলাদেশ এবং ভুটান চরম তাপ মোকাবেলায় একটি যৌথ উদ্যোগ চালু করেছে। ব্যাংকক-এর গ্লোবাল হিট ফোরামে চারটি দেশের তাপপ্রবাহের অবস্থা এবং প্রস্তুতির ফাঁক মূল্যায়ন করে প্রতিবেদন প্রকাশ করা হয়েছে। এই তাপ দক্ষিণ এশিয়া জুড়ে শিশু, বয়স্ক মানুষ, গর্ভবতী নারী এবং বাইরে কাজ করেন এমন মানুষদের হুমকি দেয়।"
+   }
+  },
+  {
+   "id": "v2z60n",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/conversation-about-non-monogamy-chock-full-of-animal-facts/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Conversation_About_NonMonogamy_NIB_G_PH.jpg",
+   "published": "2026-10-08T15:30:36.000Z",
+   "added": "2026-10-08T16:25:00.428Z",
+   "origTitle": "Conversation About Non-Monogamy Chock-Full Of Animal Facts",
+   "en": {
+    "title": "Guy Explains Non-Monogamy Using Only Animal Facts",
+    "summary": "A husband's serious conversation about opening up the relationship somehow became a nature documentary, packed with facts about beluga whales, bonobos and hyenas. His wife went from upset to genuinely curious about animal mating habits. By the end, he had to pump the brakes."
+   },
+   "bn": {
+    "title": "স্বামী প্রাণীদের গল্প দিয়ে বহুমৈথুন বোঝাতে চেষ্টা করছে",
+    "summary": "একজন স্বামী সম্পর্ককে খোলা করার বিষয়ে গুরুতর কথোপকথন শুরু করলেন, কিন্তু তা হয়ে গেছে প্রাণীদের ডকুমেন্টারি—হাঙর, বোনোবো এবং হায়েনা সম্পর্কে পূর্ণ। তার স্ত্রী রেগে যাওয়া থেকে প্রাণীদের মৈথুন অভ্যাসের ব্যাপারে আগ্রহী হয়ে উঠলেন। শেষে স্বামীকে থামতে হয়।"
+   }
+  },
+  {
+   "id": "1vaurb",
+   "section": "bhabna",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/2026/10/08/ai-for-philosophy-progress-through-capital-intensive-philosophy-guest-post/",
+   "image": "https://dailynous.com/wp-content/uploads/2026/10/old-philosophy-pencil-paper-joke-scaled.jpg",
+   "published": "2026-10-08T12:27:59.000Z",
+   "added": "2026-10-08T16:25:00.428Z",
+   "origTitle": "AI for Philosophy: Progress through Capital-Intensive Philosophy (guest post)",
+   "en": {
+    "title": "Will AI Eventually Do Philosophy for Us?",
+    "summary": "A Cambridge researcher argues AI will transform philosophy into a capital-intensive field where AI systems drive research. While some philosophers doubt AI can produce quality philosophy papers, the argument suggests AI will eventually reshape how the discipline works. The debate hinges on whether AI can truly advance philosophical thinking."
+   },
+   "bn": {
+    "title": "এআই কি আমাদের দর্শনের কাজ করবে?",
+    "summary": "ক্যামব্রিজের একজন গবেষক যুক্তি দিচ্ছেন যে এআই দর্শনকে একটি পুঁজি-নিবিড় ক্ষেত্রে পরিণত করবে যেখানে এআই সিস্টেম গবেষণা চালাবে। কিছু দার্শনিক সন্দেহ করেন এআই মানসম্পন্ন দর্শন কাগজপত্র তৈরি করতে পারে কিনা। বিতর্কটা এটার উপর নির্ভর করে যে এআই সত্যিই দার্শনিক চিন্তা এগিয়ে নিতে পারে কিনা।"
+   }
+  },
+  {
+   "id": "1hndrd9",
+   "section": "bhabna",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/videos/manhattans-evolution-over-centuries-captured-via-meticulous-animation",
+   "image": "https://images.aeonmedia.co/images/9b83d6d1-0bee-45e5-a3e2-a1ec08edfbde/evolution-of-manhattan-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-08T10:01:00.000Z",
+   "added": "2026-10-08T16:25:00.428Z",
+   "origTitle": "Evolution of Manhattan",
+   "en": {
+    "title": "How Manhattan Transformed Over 400 Years",
+    "summary": "A YouTube channel created an 8-minute 3D animation showing Manhattan's evolution from Lenape homeland to Dutch colony to today's skyscraper city. The video, made without AI, captures how 22.7 square miles transformed through industrialisation and modern development. It's a detailed visual journey through centuries of urban change."
+   },
+   "bn": {
+    "title": "ম্যানহাটন চারশ বছরে কিভাবে বদলে গেছে",
+    "summary": "একটি ইউটিউব চ্যানেল ৮ মিনিটের একটি থ্রিডি অ্যানিমেশনে ম্যানহাটনের বিবর্তন দেখিয়েছে—লেনাপে জনগোষ্ঠীর ভূমি থেকে ডাচ উপনিবেশ থেকে আজকের আকাশচুম্বী শহর পর্যন্ত। ২২.৭ বর্গমাইলের এই দ্বীপ শিল্পায়ন এবং আধুনিক উন্নয়নের মধ্য দিয়ে কিভাবে রূপান্তরিত হয়েছে তা এতে ধরা পড়েছে। এটা শতাব্দীর শহুরে পরিবর্তনের এক বিস্তারিত ভিজ্যুয়াল যাত্রা।"
+   }
+  },
+  {
+   "id": "aar6pd",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/banking/govt-repurchases-tk1716cr-bonds-first-ever-treasury-buyback-1566911",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/treasury-bonds.png",
+   "published": "2026-10-08T16:10:00.000Z",
+   "added": "2026-10-08T16:24:40.756Z",
+   "origTitle": "Govt repurchases Tk1,716cr bonds in first-ever treasury buyback",
+   "en": {
+    "title": "Bangladesh holds first-ever treasury bond buyback",
+    "summary": "Bangladesh conducted its first treasury bond buyback on October 8, repurchasing Tk1,716 crore in two-year bonds before maturity. Twenty banks submitted 56 bids worth Tk2,016 crore; the central bank accepted Tk1,716 crore. The buyback smooths debt repayment schedules and reduces refinancing risks by easing large one-off payments when bonds mature."
+   },
+   "bn": {
+    "title": "বাংলাদেশ প্রথমবারের মতো ট্রেজারি বন্ড ফেরত কিনেছে",
+    "summary": "বাংলাদেশ ৮ অক্টোবরে প্রথমবারের মতো ট্রেজারি বন্ড বাইব্যাক করেছে, মেয়াদের আগে ১৭১৬ কোটি টাকার দুই বছরের বন্ড ফেরত কিনেছে। ২০টি ব্যাংক ২০১৬ কোটির ৫৬টি বিড জমা দিয়েছে; সেন্ট্রাল ব্যাংক ১৭১৬ কোটি গ্রহণ করেছে। এটি ঋণ পরিশোধ পরিকল্পনা মসৃণ করে এবং পুনর্নির্ধারণ ঝুঁকি কমায়।"
+   }
+  },
+  {
+   "id": "1die17d",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
+   "published": "2026-10-08T16:00:00.000Z",
+   "added": "2026-10-08T16:24:40.756Z",
+   "origTitle": "Natura’s $99 smart ring puts AI agents on your finger",
+   "en": {
+    "title": "Natura's $99 smart ring puts AI at your fingertip",
+    "summary": "Startup Natura launched Interface, a $99 smart ring designed for AI agents, letting users ask for tasks by pressing a finger instead of reaching for their phone. The ring also tracks health metrics like heart rate and sleep. Pre-orders open next month with shipping expected in December or January, connecting to AI platforms like ChatGPT and Claude."
+   },
+   "bn": {
+    "title": "৯৯ ডলারের স্মার্ট রিং এআই এজেন্ট সহ",
+    "summary": "স্টার্টআপ নাতুরা ইন্টারফেস স্মার্ট রিং লঞ্চ করেছে যা এআই এজেন্টদের জন্য ডিজাইন করা হয়েছে। এটি রিং-এ প্রেস করে কাজ দেওয়ার সুবিধা দেয় ফোন বাছাড়াই। রিং হার্ট রেট এবং ঘুমও ট্র্যাক করে। পরের মাসে প্রি-অর্ডার শুরু হবে এবং ডিসেম্বর বা জানুয়ারিতে ডেলিভারি হবে।"
+   }
+  },
+  {
+   "id": "1y3b0wc",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-19T191727Z_948764426_RC27PJAADHQQ_RTRMADP_3_USA-EPSTEIN-BRITAIN-ANDREW-1771530589.jpg?resize=1920%2C1440",
+   "published": "2026-10-08T15:53:07.000Z",
+   "added": "2026-10-08T16:24:40.756Z",
+   "origTitle": "UK ex-prince Andrew search warrants quashed after police accept legal error",
+   "en": {
+    "title": "UK court quashes search warrants on Prince Andrew",
+    "summary": "UK police agreed that warrants used to search properties linked to Prince Andrew were issued unlawfully and must be quashed. A High Court judge said Thames Valley Police made a \"significant error\" in applying for the warrants. The investigation into King Charles's brother continues despite the legal setback; he was arrested in February on suspicion of misconduct related to Jeffrey Epstein links."
+   },
+   "bn": {
+    "title": "প্রিন্স অ্যান্ড্রুর বাড়ি তল্লাশির অনুমতি বাতিল",
+    "summary": "ব্রিটেন পুলিশ স্বীকার করেছে যে প্রিন্স অ্যান্ড্রুর সম্পত্তি তল্লাশির অনুমতি অবৈধভাবে দেওয়া হয়েছিল এবং তা বাতিল করতে হবে। হাইকোর্ট বিচারক বলেছেন থেমস ভ্যালি পুলিশ বড় ভুল করেছে। তবুও রাজা চার্লসের ভাই সম্পর্কে তদন্ত অব্যাহত রয়েছে; তিনি ফেব্রুয়ারিতে জেফ্রে এপস্টেইনের সাথে সংযোগের কারণে অপব্যবহারের সন্দেহে গ্রেপ্তার হয়েছিলেন।"
+   }
+  },
+  {
+   "id": "16wkhev",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+   "image": "https://i.guim.co.uk/img/media/a80099fae73e5813db79c3007020a3e15cae6582/980_0_5315_4252/master/5315.jpg?width=140&quality=85&auto=format&fit=max&s=de2d56ea83e5c9293862eb4ed1c6ab7a",
+   "published": "2026-10-08T16:11:53.000Z",
+   "added": "2026-10-08T16:24:40.756Z",
+   "origTitle": "Researchers find 180,000 giant tortoises living on island in Seychelles",
+   "en": {
+    "title": "180,000 giant tortoises found thriving in Seychelles",
+    "summary": "A landmark survey reveals approximately 180,000 Aldabra giant tortoises living freely on an island in Seychelles—the highest count ever recorded and far more than the human population. The species had fewer than 1,000 left in the 19th century but recovered after the island became a nature reserve in 1981. Scientists call it one of the Indian Ocean's greatest conservation success stories."
+   },
+   "bn": {
+    "title": "সেশেলসে পাওয়া গেছে ১ লক্ষ ৮০ হাজার দৈত্য কচ্ছপ",
+    "summary": "সেশেলসের অ্যালডাবরা দ্বীপে একটি গবেষণায় প্রায় ১ লক্ষ ৮০ হাজার দৈত্য কচ্ছপ পাওয়া গেছে—এটি এ প্রজাতির সর্বোচ্চ রেকর্ড। আঠারো শতাব্দীতে প্রজাতিটির সংখ্যা ১০০০-র কম ছিল, কিন্তু ১৯৮১-এ দ্বীপ সংরক্ষণ অঞ্চল হওয়ার পর তা পুনরুদ্ধার হয়েছে। বিজ্ঞানীরা এটিকে ভারত মহাসাগরের সেরা সংরক্ষণ সাফল্যের গল্প বলছেন।"
+   }
+  },
+  {
+   "id": "kw1adt",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+   "published": "2026-10-08T12:43:56.000Z",
+   "added": "2026-10-08T16:24:40.756Z",
+   "origTitle": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+   "en": {
+    "title": "Russian bomb strike kills 30 on Ukraine buses",
+    "summary": "A Russian glide bomb attack on two civilian buses in the eastern city of Kramatorsk killed at least 30 people, with 18 wounded, according to officials. President Zelensky vowed a response and condemned Russia's strategy to destroy civilian life in Donbas. The attack follows a surge in Russian strikes across Ukraine, with more civilians killed this year than in all of 2023."
+   },
+   "bn": {
+    "title": "ইউক্রেনের ক্রামাটরস্কে রুশ বোমা হামলায় ৩০ জন নিহত",
+    "summary": "রুশ গ্লাইড বোম হামলায় পূর্বাঞ্চলীয় শহর ক্রামাটরস্কে দুটি সিভিলিয়ান বাস আঘাত পেয়েছে, কমপক্ষে ৩০ জন মারা গেছেন ও ১৮ জন আহত হয়েছেন। জেলেনস্কি প্রতিশোধের প্রতিশ্রুতি দিয়েছেন এবং সিভিলিয়ান জীবন ধ্বংসের জন্য রাশিয়াকে নিন্দা করেছেন। এই হামলা সারা ইউক্রেনে রুশ আক্রমণের বৃদ্ধির অংশ।"
+   }
+  },
+  {
+   "id": "18pj7ql",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cv62y3n1yer8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e05e/live/b6e07850-c320-11f1-bd97-fbe5a3482cde.jpg",
+   "published": "2026-10-08T15:57:20.000Z",
+   "added": "2026-10-08T16:24:40.756Z",
+   "origTitle": "এলাকাভেদে ভিন্ন রঙ দিয়ে নিয়ন্ত্রণ করা যাবে ঢাকার অটোরিকশা?",
+   "en": {
+    "title": "Dhaka may use different colors to zone auto-rickshaws",
+    "summary": "The government is considering a new policy to regulate battery-run auto-rickshaws in Dhaka using zone-based color coding. Some residents want them banned entirely due to accidents and electricity waste, while others argue regulation is better than a total ban. The Prime Minister has held special meetings on the issue, and experts warn success depends on proper implementation."
+   },
+   "bn": {
+    "title": "ঢাকার অটোরিকশা নিয়ন্ত্রণে জোন ভিত্তিক রঙের পরিকল্পনা",
+    "summary": "ঢাকায় ব্যাটারিচালিত অটোরিকশা নিয়ন্ত্রণে সরকার জোন ভিত্তিক রঙ ব্যবহারের পরিকল্পনা করছে। কেউ কেউ সম্পূর্ণ বন্ধ করার দাবি জানাচ্ছেন দুর্ঘটনা ও বিদ্যুৎ অপব্যবহারের কারণে, কিন্তু অন্যরা নিয়মের মধ্যে চলাচল করানোর পক্ষে। প্রধানমন্ত্রী বিশেষ বৈঠক করেছেন, তবে বিশেষজ্ঞরা বাস্তবায়নের ওপর সাফল্য নির্ভরশীল বলছেন।"
+   }
+  },
   {
    "id": "1679pvd",
    "section": "news",
@@ -2001,292 +2221,6 @@
    "bn": {
     "title": "বিছানার নিচের ভয়টা কোথায় হারিয়ে গেল?",
     "summary": "ছোটবেলায় রাতে বিছানার নিচে কী লুকিয়ে আছে এই চিন্তা করেছেন? অন্ধকারে দানবের মতো কিছু, আলমারিতে ভূত, দরজার ওপাশে কেউ—এসব ভয় তখন খুবই সত্যি মনে হতো। বড় হয়ে এখন হাসি পায় সেইসব নিয়ে, কিন্তু সেই ভয়গুলো সত্যিই চলে গেছে নাকি শুধু লুকানো আছে?"
-   }
-  },
-  {
-   "id": "nyq7qs",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/puujaar-chuttir-aager-shnibaar-aphis-kholaa",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-05/992je709/Prime_Minister.jpg",
-   "published": "2026-10-05T15:44:29.000Z",
-   "added": "2026-10-05T15:55:40.665Z",
-   "origTitle": "পূজার ছুটি শুরুর আগের শনিবার অফিস খোলা",
-   "en": {
-    "title": "Bangladesh approves five-day Durga Puja break in October",
-    "summary": "The Cabinet, chaired by PM Tarique Rahman, approved government holidays from October 20-22 for Sharadi Durga Puja. Combined with weekend holidays on October 23-24, this creates a continuous five-day break. Offices will remain open on Saturday, October 17, the day before the break begins. November 7 will now be an annual holiday for National Revolution Day."
-   },
-   "bn": {
-    "title": "অক্টোবরে পাঁচ দিনের দুর্গাপূজা ছুটি অনুমোদিত",
-    "summary": "প্রধানমন্ত্রী তারেক রহমানের নেতৃত্বে মন্ত্রিসভা ২০-২২ অক্টোবর শারদীয় দুর্গাপূজার জন্য সরকারি ছুটি অনুমোদন করেছে। সপ্তাহান্তের সাথে ২৩-২৪ অক্টোবর মিলিয়ে এটি টানা পাঁচ দিনের ছুটি হয়ে যায়। ১৭ অক্টোবর শনিবার অফিস খোলা থাকবে। ৭ নভেম্বর প্রতি বছর জাতীয় বিপ্লব দিবস হবে।"
-   }
-  },
-  {
-   "id": "9ron0v",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/mccbu1jkc5",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-05/xnlpkwyy/PM-Tarique-Rahman.webp",
-   "published": "2026-10-05T14:59:43.000Z",
-   "added": "2026-10-05T15:55:40.665Z",
-   "origTitle": "Govt committed to safe, sustainable housing for all: PM",
-   "en": {
-    "title": "PM: Bangladesh committed to safe housing for all",
-    "summary": "Prime Minister Tarique Rahman said the government is committed to ensuring safe, affordable, sustainable housing with basic services for all citizens. Speaking at World Habitat Day 2026, he noted that housing includes access to clean water, electricity, sanitation, transport, education, and healthcare. He acknowledged the challenge is greater in densely populated Bangladesh than in developed nations."
-   },
-   "bn": {
-    "title": "প্রধানমন্ত্রী: সবার জন্য নিরাপদ আবাসন নিশ্চিত করতে প্রতিশ্রুতিবদ্ধ",
-    "summary": "প্রধানমন্ত্রী তারেক রহমান বলেছেন সরকার সবার জন্য নিরাপদ, সাশ্রয়ী, টেকসই আবাসন নিশ্চিত করতে প্রতিশ্রুতিবদ্ধ। বিশ্ব আবাসন দিবস ২০২৬-এ তিনি বলেন যে আবাসনে বিশুদ্ধ পানি, বিদ্যুৎ, স্বাস্থ্যসেবা এবং শিক্ষার সুবিধা অন্তর্ভুক্ত। তিনি স্বীকার করেন বাংলাদেশের মতো ঘনবসতিপূর্ণ দেশে এটি চ্যালেঞ্জিং।"
-   }
-  },
-  {
-   "id": "18sbkg0",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/trump-drops-bombshell-evidence-biden-actively-campaigned-against-him/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Trump_Drops_S_G_PH-R.jpg",
-   "published": "2026-10-05T13:00:00.000Z",
-   "added": "2026-10-05T15:55:40.665Z",
-   "origTitle": "Trump Drops Bombshell Evidence Biden Actively Campaigned Against Him",
-   "en": {
-    "title": "The Onion: Trump claims Biden campaigned against him",
-    "summary": "This is satire. Trump claims to have proof that Biden actively campaigned against him in 2020—pointing to campaign mailers, speeches, and the Democratic National Convention as evidence of an illegal conspiracy. He argues Biden's campaigning reduced Trump's votes while increasing his own."
-   },
-   "bn": {
-    "title": "দ্য অনিয়ন: ট্রাম্প বলেন বাইডেন তার বিরুদ্ধে প্রচার করেছেন",
-    "summary": "এটি বিদ্রূপ (সেটায়ার)। ট্রাম্প দাবি করেন যে বাইডেন ২০২০ সালে তার বিরুদ্ধে সক্রিয়ভাবে প্রচার চালিয়েছেন—প্রচারণা বিলিপত্র এবং বক্তৃতাকে প্রমাণ হিসেবে দেখিয়ে। তিনি যুক্তি দেন বাইডেনের প্রচার তার ভোট কমিয়েছে।"
-   }
-  },
-  {
-   "id": "qsi6l7",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/05/brazil-Guinness-World-Records-oldest-man-second-oldest-same-birthday/5051791211877/",
-   "image": "https://cdnph.upi.com/ph/st/th/5051791211877/2026/i/17912120065277/v1.5/Worlds-oldest-second-oldest-men-exchange-cards-for-shared-birthday.jpg",
-   "published": "2026-10-05T14:56:41.000Z",
-   "added": "2026-10-05T15:55:40.665Z",
-   "origTitle": "Look: World's oldest, second-oldest men exchange cards for shared birthday",
-   "en": {
-    "title": "World's two oldest men celebrate shared birthday",
-    "summary": "The world's oldest and second-oldest men exchanged birthday greetings on Monday, celebrating their 114th and 113th birthdays respectively. Both celebrations fell on the same day."
-   },
-   "bn": {
-    "title": "দুনিয়ার সবচেয়ে বয়স্ক দুই পুরুষ জন্মদিন মানলেন",
-    "summary": "দুনিয়ার সবচেয়ে বয়স্ক এবং দ্বিতীয় বয়স্ক পুরুষ সোমবার জন্মদিনের শুভেচ্ছা বিনিময় করলেন, যথাক্রমে তাদের ১১৪ তম এবং ১১৩ তম জন্মদিন উদযাপন করলেন।"
-   }
-  },
-  {
-   "id": "1e68sws",
-   "section": "bhabna",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/05/philosophers-among-recent-arc-future-fellowship-winners/",
-   "image": "https://dailynous.com/wp-content/uploads/2016/11/australian-coat-of-arms.png",
-   "published": "2026-10-05T11:55:02.000Z",
-   "added": "2026-10-05T15:55:40.665Z",
-   "origTitle": "Philosophers Among Recent ARC Future Fellowship Winners",
-   "en": {
-    "title": "Philosophers win major Australian research fellowships",
-    "summary": "Two philosophers won Australian Research Council Future Fellowships worth roughly AU $1 million each. Guillermo Badia will develop new logics to help machines reason about complex data, with applications in AI and secure access. Stephanie Collins will create an ethical framework for corporations, focusing on energy, care, and banking sectors."
-   },
-   "bn": {
-    "title": "দার্শনিকরা অস্ট্রেলিয়ার বড় গবেষণা ফেলোশিপ জিতেছেন",
-    "summary": "দুজন দার্শনিক অস্ট্রেলিয়ান রিসার্চ কাউন্সিলের ফিউচার ফেলোশিপ জিতেছেন, প্রতিটি প্রায় ১০ লক্ষ অস্ট্রেলিয়ান ডলার মূল্যের। Guillermo Badia মেশিনগুলিকে জটিল তথ্য সম্পর্কে চিন্তাভাবনা করতে সাহায্য করার জন্য নতুন লজিক তৈরি করবেন। Stephanie Collins কর্পোরেশনগুলির জন্য একটি নৈতিক কাঠামো তৈরি করবেন।"
-   }
-  },
-  {
-   "id": "1a8am0a",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
-   "image": "https://images.aeonmedia.co/images/98d1c630-57c6-439a-903e-98d4dc7d739a/all-around-junior-male-landscape-1.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-05T10:01:00.000Z",
-   "added": "2026-10-05T15:55:40.665Z",
-   "origTitle": "All-around junior male",
-   "en": {
-    "title": "Filmmaker captures Inuit one-foot high kick in dreamy short",
-    "summary": "Filmmaker Lindsay McIntyre documents a traditional Inuit game called the one-foot high kick, where athletes leap to strike a suspended target and land on one foot. The short film follows athlete Sean Uquqtuq in monochrome, hand-processed film that creates a dreamlike quality. The game was historically used by hunters to show a successful hunt."
-   },
-   "bn": {
-    "title": "ইনুইট ঐতিহ্যবাহী খেলার স্বপ্নময় ছবি",
-    "summary": "চলচ্চিত্রনির্মাতা Lindsay McIntyre ইনুইটদের একটি ঐতিহ্যবাহী খেলা নথিভুক্ত করেছেন, যেখানে ক্রীড়াবিদরা একটি লক্ষ্যকে আঘাত করার জন্য লাফিয়ে ওঠে এবং এক পায়ে অবতরণ করে। ছবিটি কালো-সাদা ফিল্মে ক্রীড়াবিদ Sean Uquqtuq-কে দেখায় যা স্বপ্নের মতো অনুভূতি সৃষ্টি করে। এই খেলা ঐতিহাসিকভাবে শিকারীদের সফল শিকার দেখাতে ব্যবহৃত হতো।"
-   }
-  },
-  {
-   "id": "1gszrud",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
-   "published": "2026-10-05T15:14:24.000Z",
-   "added": "2026-10-05T15:55:40.665Z",
-   "origTitle": "OpenAI launches visual ads that appear alongside image generation results",
-   "en": {
-    "title": "OpenAI starts showing ads next to AI-generated images",
-    "summary": "OpenAI is adding visual ads alongside images that ChatGPT users generate, rolling out later this month in the US. The ads will be clearly labeled and won't affect ChatGPT's answers. The company is also expanding its measurement tools and targeting advertisers who want to reach ChatGPT's 1.2 billion weekly users globally."
-   },
-   "bn": {
-    "title": "ChatGPT-এ ছবির পাশে বিজ্ঞাপন দেখা যাবে",
-    "summary": "OpenAI এখন ChatGPT-এ তৈরি ছবির পাশে ভিজ্যুয়াল বিজ্ঞাপন দেখাবে। এই মাসের শেষে এটি শুরু হবে শুধু আমেরিকায়, এবং বিজ্ঞাপনগুলো স্পষ্টভাবে লেবেল করা থাকবে। কোম্পানি তার মাপজোক করার টুল বাড়াচ্ছে এবং বিজ্ঞাপনদাতাদের ChatGPT-র ১.২ বিলিয়ন সাপ্তাহিক ব্যবহারকারীদের কাছে পৌঁছাতে সাহায্য করবে।"
-   }
-  },
-  {
-   "id": "ne5hmp",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Rest of World",
-   "srcLang": "en",
-   "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "image": "https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2-768x432.jpg",
-   "published": "2026-10-05T10:00:43.000Z",
-   "added": "2026-10-05T15:55:15.287Z",
-   "origTitle": "The AI boom is making the world’s cheapest smartphones disappear",
-   "en": {
-    "title": "AI boom is erasing the world's cheapest smartphones from market",
-    "summary": "Memory chip shortage driven by AI data centers is pricing out budget phones. Smartphone prices jumped 15% globally this year; new models cost 25% more than last year. Chinese makers—60% of global shipments—are ditching entry-level phones for pricier models. India saw the biggest hit with 21% increases. The trend risks widening the digital divide."
-   },
-   "bn": {
-    "title": "এআই চাহিদা সবচেয়ে সস্তা স্মার্টফোন বাজার থেকে মুছছে",
-    "summary": "এআই ডেটা সেন্টারের চাহিদায় মেমরি চিপের সংকট হচ্ছে এবং সস্তা ফোন দামে উঠছে। এ বছর বিশ্বব্যাপী স্মার্টফোন দাম ১৫% বেড়েছে, নতুন মডেল গত বছরের চেয়ে ২৫% দামি। চাইনিজ নির্মাতারা—বৈশ্বিক ৬০% শিপমেন্ট—সস্তা ফোন তৈরি বন্ধ করে দামি মডেলে যাচ্ছে। ভারতে দাম ২১% বেড়েছে।"
-   }
-  },
-  {
-   "id": "skr28l",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2019-09-06T143427Z_647618811_RC1E24D61B20_RTRMADP_3_FRANCE-TRANSPORTS-1791210835.jpg?resize=1920%2C1440",
-   "published": "2026-10-05T15:30:15.000Z",
-   "added": "2026-10-05T15:55:15.287Z",
-   "origTitle": "Nigeria launches rescue after military plane crashes with 32 aboard",
-   "en": {
-    "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
-    "summary": "A Nigerian military ATR-42 aircraft carrying 32 people—25 passengers and 7 crew—crashed in Ondo state while flying from Benin to Lagos. The wreckage was located near a naval base in Igbokoda. Air traffic control lost contact at 09:13 local time, and rescue teams are searching the site. No casualties have been confirmed yet."
-   },
-   "bn": {
-    "title": "নাইজেরিয়ায় ৩২ জন নিয়ে সামরিক বিমান বিধ্বস্ত হয়েছে",
-    "summary": "নাইজেরিয়ার এক সামরিক এটিআর-৪২ বিমান ৩২ জন নিয়ে বেনিন থেকে লাগোসে যাচ্ছার সময় অন্ডো অঞ্চলে বিধ্বস্ত হয়েছে। বিমানে ২৫ জন যাত্রী এবং ৭ জন ক্রু ছিল। ইগবোকোডা নৌঘাঁটির কাছে ধ্বংসাবশেষ পাওয়া গেছে এবং উদ্ধার কাজ চলছে। এখনও কোনো হতাহতের খবর পাওয়া যায়নি।"
-   }
-  },
-  {
-   "id": "1onp819",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
-   "image": "https://i.guim.co.uk/img/media/872b3587419781ab3dd6200ae96c2b2b0f64ff77/43_0_1333_1066/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=0fe8b15fdf041f2d21bd02ca203289aa",
-   "published": "2026-10-05T12:00:24.000Z",
-   "added": "2026-10-05T15:55:15.287Z",
-   "origTitle": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
-   "en": {
-    "title": "Guardian readers fund surgery for Somali boy hit by US drone strike",
-    "summary": "Seven-year-old Abdiqadir Salah, wounded with embedded shrapnel in a US drone strike on Somalia's Jamaame village that killed at least 12 civilians including eight children, underwent life-saving surgery in Mogadishu. Guardian readers worldwide crowdfunded the operation after the investigation revealed his family's struggle. Doctors feared without surgery the boy would lose the ability to walk."
-   },
-   "bn": {
-    "title": "গার্ডিয়ান পাঠকরা যুক্তরাষ্ট্রের ড্রোন হামলায় আহত সোমালি ছেলের অপারেশনের অর্থ জুগিয়েছে",
-    "summary": "সাত বছর বয়সী আবদিকাদির সালাহ সোমালিয়ার জামায়ামে গ্রামে যুক্তরাষ্ট্রের ড্রোন হামলায় আহত হয়েছিল, যেখানে কমপক্ষে ১২ জন সাধারণ মানুষ নিহত হয়েছিল। তার শরীরে ছড়িয়ে ছিটিয়ে শ্রাপনেল ছিল। গার্ডিয়ানের তদন্তের পর বিশ্বব্যাপী পাঠকরা তার মোগাদিশুতে অপারেশন করানোর জন্য অর্থ সংগ্রহ করেছেন।"
-   }
-  },
-  {
-   "id": "1vkj5gw",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6efe/live/e16fb630-c0be-11f1-885f-4f9e8c6dce17.jpg",
-   "published": "2026-10-05T13:16:00.000Z",
-   "added": "2026-10-05T15:55:15.287Z",
-   "origTitle": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-   "en": {
-    "title": "US pulls B-1 bombers from UK RAF base after security alert",
-    "summary": "The Pentagon withdrew roughly a dozen B-1 bombers from RAF Fairford in Gloucestershire following a terror alert on September 27, when police found three suspicious vehicles near the airbase. Downing Street insists the base remains safe and credits strong UK security responses. US Secretary of State Marco Rubio said asset movements are routine and praised British authorities' cooperation."
-   },
-   "bn": {
-    "title": "নিরাপত্তা সতর্কতার পরে যুক্তরাষ্ট্র ইউকে ঘাঁটি থেকে বোমারু বিমান তুলে নিয়েছে",
-    "summary": "সেপ্টেম্বর ২৭-এ বিমানঘাঁটির কাছে তিনটি সন্দেহজনক গাড়ি পাওয়ার পর পেন্টাগন গ্লুসেস্টারশায়ারের আরএএফ ফেয়ারফোর্ড থেকে প্রায় এক ডজন বি-১ বোমারু তুলে নিয়েছে। ডাউনিং স্ট্রিট বলেছে ঘাঁটি সম্পূর্ণ সুরক্ষিত এবং ব্রিটিশ নিরাপত্তা ব্যবস্থা শক্তিশালী। যুক্তরাষ্ট্রের স্টেট সেক্রেটারি বলেছেন এই ধরনের সম্পদ স্থানান্তর স্বাভাবিক।"
-   }
-  },
-  {
-   "id": "1dhmyrk",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.co.uk/bengali/live/c50me0j704w4t?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047b/live/954a5da0-c0d2-11f1-a64c-550be9e3c66b.png",
-   "published": "2026-10-05T15:55:15.287Z",
-   "added": "2026-10-05T15:55:15.287Z",
-   "origTitle": "দুর্গাপূজায় টানা পাঁচদিনের ছুটি, আগের শনিবার খোলা থাকবে অফিস",
-   "en": {
-    "title": "Durga Puja gets five straight days off this year",
-    "summary": "Bangladesh's government declared three official holidays from October 20–22 for Durga Puja, which stacks with the regular weekend on October 24–25 to give office workers five consecutive days off. October 17, the Saturday before, will stay a working day. From now on, November 7 will also be a national holiday for Revolution and Solidarity Day."
-   },
-   "bn": {
-    "title": "দুর্গাপূজায় এবার টানা পাঁচদিনের ছুটি পাচ্ছেন চাকরিজীবীরা",
-    "summary": "বাংলাদেশের সরকার দুর্গাপূজা উপলক্ষে ২০, ২১ ও ২২ অক্টোবর সরকারি ছুটি ঘোষণা করেছে, যা নিয়মিত সাপ্তাহিক ছুটির সাথে মিলিয়ে ২৪ থেকে ২৫ অক্টোবর পর্যন্ত টানা পাঁচদিনের ছুটি দেয়। ১৭ অক্টোবর শনিবার কাজের দিন থাকবে। এখন থেকে প্রতি বছর ৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস ছুটি হবে।"
-   }
-  },
-  {
-   "id": "x4oxia",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/stocks/apex-foods-shares-jump-19-profit-soars-121-fy26-1563726",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/13/apex-foods.jpg",
-   "published": "2026-10-05T15:40:00.000Z",
-   "added": "2026-10-05T15:55:15.287Z",
-   "origTitle": "Apex Foods shares jump 19% as profit soars 121% in FY26",
-   "en": {
-    "title": "Apex Foods profit explodes 121%, shares jump 19%",
-    "summary": "Shrimp exporter Apex Foods smashed expectations in FY26, with profit more than doubling to Tk8.10 crore and earnings per share hitting Tk14.21. The company kept its 20% cash dividend steady at Tk2 per share. On the Dhaka Stock Exchange today, shares rocketed 19% to Tk311.50, unhinged by relaxed circuit breaker limits on announcement day."
-   },
-   "bn": {
-    "title": "এপেক্স ফুডসের লাভ ১২১% বেড়েছে, শেয়ার ১৯% উঠেছে",
-    "summary": "চিংড়ি রপ্তানিকারক এপেক্স ফুডস এফওয়াই২৬-তে রেকর্ড পারফরম্যান্স দেখিয়েছে, লাভ দ্বিগুণ হয়ে ৮.১০ কোটি টাকা হয়েছে এবং প্রতি শেয়ার আয় ১৪.২১ টাকায় পৌঁছেছে। কোম্পানি ২০% নগদ লভ্যাংশ প্রতি শেয়ারে ২ টাকায় অপরিবর্তিত রেখেছে। ঢাকা স্টক এক্সচেঞ্জে আজ শেয়ার দাম ১৯% বেড়ে ৩১১.৫০ টাকা হয়েছে।"
    }
   }
  ]

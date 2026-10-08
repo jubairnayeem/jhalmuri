@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-10-08T08:51:37.462Z",
+ "updatedAt": "2026-10-08T16:25:15.368Z",
  "burning": [
   {
-   "id": "xlcwqh",
+   "id": "1rohro4",
    "heat": 5,
    "why": {
-    "en": "Houthi attacks on Saudi airports dominating search with 1000+ traffic on সৌদি আরব",
-    "bn": "সৌদি আরবের বিমানবন্দরে হুতির হামলা Google Trends-এ ১০০০+ ট্রাফিক নিয়ে শীর্ষে"
+    "en": "Massive poverty crisis affecting 6 crore Bangladeshis is the biggest domestic story today.",
+    "bn": "ছয় কোটি বাংলাদেশী দারিদ্র্যের ঝুঁকিতে পড়ার খবর সবচেয়ে বড় দেশীয় গল্প।"
    },
    "rank": 1
   },
   {
-   "id": "1406yss",
+   "id": "1o11kbf",
    "heat": 4,
    "why": {
-    "en": "Bangladesh climate conference and investment portal aligns with জলবায়ু trending at 200+ with environment minister quotes",
-    "bn": "বাংলাদেশের জলবায়ু সম্মেলন এবং বিনিয়োগ পোর্টাল জলবায়ু ট্রেন্ডিং-এর সাথে মিলছে"
+    "en": "Auto-rickshaw driver's murder over yaba deal and five arrests capture public attention on crime.",
+    "bn": "যাবা ডিলের কারণে অটো রিকশা চালকের হত্যা এবং পাঁচজনের গ্রেপ্তার অপরাধ খবরে আলোচনা তৈরি করেছে।"
    },
    "rank": 2
   },
   {
-   "id": "1rohro4",
+   "id": "19bxyxs",
    "heat": 4,
    "why": {
-    "en": "Six crore Bangladeshis at poverty risk taps into economic concerns amid falling investment story",
-    "bn": "ছয় কোটি বাংলাদেশি দারিদ্র্যের ঝুঁকিতে বিষয়টি অর্থনৈতিক সংকটের সাথে যুক্ত"
+    "en": "Bangladesh orders 10 Airbus planes with 25 Boeing in pipeline signals major aviation expansion.",
+    "bn": "১০টি এয়ারবাস অর্ডার এবং ২৫টি বোয়িং পাইপলাইনে থাকা বিমান খাতে বড় উন্নয়নের ইঙ্গিত দেয়।"
    },
    "rank": 3
   },
@@ -32,68 +32,68 @@
    "id": "5av75h",
    "heat": 3,
    "why": {
-    "en": "Weather forecast for rain and temperature drop matches আজকের আবহাওয়া search trend at 200+",
-    "bn": "বৃষ্টি এবং তাপমাত্রা হ্রাসের পূর্বাভাস আজকের আবহাওয়া ট্রেন্ডিং-এর সাথে মেলে"
+    "en": "Rain forecast and temperature drop across Bangladesh affects daily life and public interest.",
+    "bn": "বাংলাদেশ জুড়ে বৃষ্টি এবং তাপমাত্রা হ্রাসের পূর্বাভাস দৈনন্দিন জীবনে প্রভাব ফেলে।"
    },
    "rank": 4
   },
   {
-   "id": "19bxyxs",
+   "id": "2nyxk9",
    "heat": 3,
    "why": {
-    "en": "Bangladesh aircraft orders getting traction; links to infrastructure and opinion pieces about readiness",
-    "bn": "বাংলাদেশের এয়ারক্রাফট অর্ডার অবকাঠামো এবং প্রস্তুতি নিয়ে আলোচনা সৃষ্টি করছে"
+    "en": "Master plans for organized urban growth across Bangladesh cities appeals to planning-conscious audience.",
+    "bn": "বাংলাদেশের শহরগুলোর জন্য মাস্টার প্ল্যান সংগঠিত উন্নয়নে জনগণের আগ্রহ জাগায়।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "xlcwqh",
-   "tag": "#SaudiAttacks",
+   "id": "1rohro4",
+   "tag": "#PovertyAlert",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Houthis hit Saudi airports",
-    "text": "Houthi attacks on Saudi airports kill three and injure 36, escalating Red Sea conflict. Search traffic 1000+ on Saudi Arabia."
+    "title": "6 crore Bangladeshis at poverty risk",
+    "text": "A major development warning that six crore Bangladeshis face potential poverty. The economic situation is being closely watched."
    },
    "bn": {
-    "title": "সৌদির বিমানবন্দরে হামলা",
-    "text": "হুতি বাহিনী সৌদি আরবের বিমানবন্দরে হামলা করে তিনজন নিহত এবং ৩৬ জন আহত করেছে। ট্রেন্ডিং শীর্ষে।"
+    "title": "ছয় কোটি মানুষ দারিদ্র্যের ঝুঁকিতে",
+    "text": "বাংলাদেশের ছয় কোটি মানুষ দারিদ্র্যের ঝুঁকিতে পড়তে পারে বলে সতর্কতা দেওয়া হয়েছে। অর্থনৈতিক অবস্থা নিয়ে আলোচনা চলছে।"
    }
   },
   {
-   "id": "1406yss",
-   "tag": "#জলবায়ু",
+   "id": "19bxyxs",
+   "tag": "#AviationExpansion",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh climate conference launches",
-    "text": "Bangladesh launches climate conference and digital investment portal. Environment minister stresses climate considerations in projects."
+    "title": "Bangladesh orders 35 new aircraft",
+    "text": "The country is ordering 10 Airbus planes with 25 Boeing aircraft in the pipeline, marking significant aviation sector growth."
    },
    "bn": {
-    "title": "বাংলাদেশের জলবায়ু সম্মেলন",
-    "text": "বাংলাদেশ জলবায়ু সম্মেলন এবং ডিজিটাল বিনিয়োগ পোর্টাল চালু করেছে। পরিবেশমন্ত্রী প্রকল্পে জলবায়ু বিবেচনার জন্য জোর দিচ্ছেন।"
+    "title": "বাংলাদেশ ৩৫টি নতুন বিমান অর্ডার করছে",
+    "text": "দেশ ১০টি এয়ারবাস এবং ২৫টি বোয়িং বিমান অর্ডার করছে, যা বিমান খাতে বড় সম্প্রসারণ নির্দেশ করে।"
    }
   },
   {
-   "id": "5av75h",
-   "tag": "#আবহাওয়া",
+   "id": "43rjmo",
+   "tag": "#BangladeshIndiaRelations",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Rain expected across Bangladesh",
-    "text": "Rainfall forecast across Bangladesh with temperatures expected to drop. Weather updates trending at 200+ searches."
+    "title": "Nahid Islam on bilateral ties",
+    "text": "Bangladesh must ensure its interests are protected in dealings with India, according to recent statements on bilateral relations."
    },
    "bn": {
-    "title": "বাংলাদেশে বৃষ্টির পূর্বাভাস",
-    "text": "সারাদেশে বৃষ্টি এবং তাপমাত্রা হ্রাসের সম্ভাবনা। আবহাওয়া আপডেট ট্রেন্ডিং-এ আছে।"
+    "title": "নাহিদ ইসলামের বাংলাদেশ-ভারত সম্পর্কের বার্তা",
+    "text": "বাংলাদেশকে ভারতের সাথে সম্পর্কে নিজস্ব স্বার্থ সুরক্ষিত রাখতে হবে, এমন মন্তব্য এসেছে।"
    }
   }
  ],
