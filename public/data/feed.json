@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-07T21:57:23.078Z",
+ "updatedAt": "2026-10-08T01:50:47.033Z",
  "items": [
+  {
+   "id": "1ih2aqf",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wTXctUTVnM1YyRFNnSlRkalBhakNYRkxkdlVIalJiT3MyazBHTVRGaHFEempwVUt0b2E3WUhYUk41V0lGcEhSVTZPbDZiS2dQR3pWQ1hYb2M0Mk9iUFJFNWZ2QQ?oc=5",
+   "image": null,
+   "published": "2026-10-07T12:46:52.000Z",
+   "added": "2026-10-08T01:50:47.032Z",
+   "origTitle": "পাকিস্তানে তথ্য পাচার • ভারতীয় নৌবাহিনীর ১৩ সদস্য নজরদারিতে, গ্রেফতার ২",
+   "en": {
+    "title": "Information leak: 13 Indian Navy members under watch, 2 arrested",
+    "summary": "Pakistan has reported an information leakage involving members of the Indian Navy. Thirteen personnel are under surveillance in connection with the case, and two have been arrested so far. Details about the nature of the leaked information were not provided."
+   },
+   "bn": {
+    "title": "তথ্য ফাঁস: ভারতীয় নৌবাহিনীর ১৩ জন নজরদারিতে, ২ জন গ্রেফতার",
+    "summary": "পাকিস্তান ভারতীয় নৌবাহিনীর সদস্যদের জড়িত একটি তথ্য পাচারের খবর দিয়েছে। এই ঘটনায় ১৩ জন কর্মী নজরদারিতে রয়েছেন এবং দুজন গ্রেফতার হয়েছেন। ফাঁস হওয়া তথ্যের প্রকৃতি সম্পর্কে বিস্তারিত জানানো হয়নি।"
+   }
+  },
+  {
+   "id": "cqzuxh",
+   "section": "news",
+   "cat": "khela",
+   "tone": "serious",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1557579.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423500/423507.jpg",
+   "published": "2026-10-08T00:15:28.000Z",
+   "added": "2026-10-08T01:50:47.032Z",
+   "origTitle": "Weatherald subbed out with concussion after fielding incident",
+   "en": {
+    "title": "Cricket: Weatherald out after head injury at boundary",
+    "summary": "A discarded Test opener suffered a delayed concussion after hitting his head on the boundary fence while fielding. The incident happened on day one of the season at the Junction Oval during South Africa's clash with Victoria. He was forced out of the match as a result."
+   },
+   "bn": {
+    "title": "ক্রিকেট: সীমানার ফেন্সে মাথা আঘাত করে আউট",
+    "summary": "একজন পরিত্যক্ত টেস্ট ওপেনার মাঠে ফিল্ডিং করার সময় সীমানার ফেন্সে মাথা আঘাত করে ডিলেড কনকাশন সাফার করেছেন। দক্ষিণ আফ্রিকার ভিক্টোরিয়ার বিপক্ষে সিজনের প্রথম দিনে জাংশন ওভালে এই ঘটনা ঘটে। ফলে তাকে ম্যাচ থেকে বের করে দিতে হয়েছে।"
+   }
+  },
+  {
+   "id": "122r1ij",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/entertainment/song/m0hwgqw6i7",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-25/gk77fopb/DSC00565.JPEG",
+   "published": "2026-10-08T01:00:00.000Z",
+   "added": "2026-10-08T01:50:38.725Z",
+   "origTitle": "‘আয়না’ নিয়ে আসছে দ্য রোভার",
+   "en": {
+    "title": "The Rover releases new album 'Ayna' with 18 tracks",
+    "summary": "Bangladeshi rock band The Rover released their second album 'Ayna,' which includes all nine songs from their first album plus nine new tracks and two tribute songs, totaling 18 tracks. The title track's music video dropped October 1, with remaining songs rolling out on YouTube and Spotify. All songs were recorded live at Antara Studio."
+   },
+   "bn": {
+    "title": "দ্য রোভার এনেছে নতুন অ্যালবাম 'আয়না'",
+    "summary": "বাংলাদেশি রক ব্যান্ড দ্য রোভার তাদের দ্বিতীয় অ্যালবাম 'আয়না' প্রকাশ করেছে যাতে আগের অ্যালবামের নয়টি গানের সাথে নয়টি নতুন গান এবং দুটি ট্রিবিউট গান আছে, মোট ১৮টি গান। শিরোনাম সংগীতের মিউজিক ভিডিও ১ অক্টোবর প্রকাশ পেয়েছে। সব গান অন্তরা স্টুডিওতে লাইভ রেকর্ড করা হয়েছে।"
+   }
+  },
+  {
+   "id": "11de09h",
+   "section": "bhabna",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/2026/10/07/those-openai-math-results/",
+   "image": "https://dailynous.com/wp-content/uploads/2026/10/italian-calculators-1024x668.png",
+   "published": "2026-10-07T23:16:38.000Z",
+   "added": "2026-10-08T01:50:38.725Z",
+   "origTitle": "Those OpenAI Math Results",
+   "en": {
+    "title": "OpenAI releases 722 math papers solving decades-old problems",
+    "summary": "OpenAI released 722 mathematics papers containing 337 new solutions to open problems in algebra, number theory, and topology using an advanced reasoning model. Each result took about three hours of computing. Mathematicians had mixed reactions—some found the proofs hard to read without AI help, but acknowledged valuable insights from the AI's work."
+   },
+   "bn": {
+    "title": "ওপেনএআই প্রকাশ করল ৭২২টি গণিত গবেষণা পত্র",
+    "summary": "ওপেনএআই ৭২২টি গণিত গবেষণাপত্র প্রকাশ করেছে যাতে বীজগণিত, সংখ্যা তত্ত্ব এবং সংস্থান বিদ্যায় ৩৩৭টি নতুন সমাধান রয়েছে। প্রতিটি ফলাফল তৈরিতে গড়ে তিন ঘণ্টা কম্পিউটিং সময় লেগেছে। গণিতজ্ঞরা মিশ্র প্রতিক্রিয়া দিয়েছেন কিন্তু এআই-এর কাজে মূল্যবান অন্তর্দৃষ্টি স্বীকার করেছেন।"
+   }
+  },
+  {
+   "id": "1ks5vhe",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+   "published": "2026-10-07T23:36:57.000Z",
+   "added": "2026-10-08T01:50:38.725Z",
+   "origTitle": "Robot data startup Mecka AI nabs $60M from Sequoia",
+   "en": {
+    "title": "Mecka AI raises $60M to train robots with human motion data",
+    "summary": "Mecka AI, a startup founded in 2024, raised $60 million in Series B funding led by Sequoia, with backing from Nvidia and Microsoft. The company collects human motion data to train humanoid and other robots by paying people to record themselves doing everyday tasks like making coffee or fixing cars while wearing body sensors."
+   },
+   "bn": {
+    "title": "রোবট প্রশিক্ষণে ৬০ মিলিয়ন ডলার সংগ্রহ করল মেক্কা এআই",
+    "summary": "মেক্কা এআই ২০২৪ সালে প্রতিষ্ঠিত একটি স্টার্টআপ যা মানুষের গতিবিধি ডেটা সংগ্রহ করে রোবট প্রশিক্ষণ দেয়। কোম্পানি সিকোয়েনশিয়ার নেতৃত্বে ৬০ মিলিয়ন ডলার তহবিল সংগ্রহ করেছে। এনভিডিয়া এবং মাইক্রোসফটও এই বিনিয়োগে অংশীদার।"
+   }
+  },
+  {
+   "id": "1l22auj",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ac6cf673c82-1791414119.jpg?resize=1920%2C1440",
+   "published": "2026-10-08T01:21:26.000Z",
+   "added": "2026-10-08T01:50:38.725Z",
+   "origTitle": "Democrats sue US President Trump over taxpayer-funded ad campaign",
+   "en": {
+    "title": "Democrats sue Trump over taxpayer-funded campaign ads",
+    "summary": "The Democratic National Committee and watchdog group Common Cause filed lawsuits against President Trump, claiming he misused $20 million in taxpayer funds allocated for border security to create political campaign ads. They argue the ads violate the law barring public money for propaganda and breach constitutional separation of powers. Both suits seek to halt the ads and recover the funds."
+   },
+   "bn": {
+    "title": "ট্রাম্পের বিরুদ্ধে ডেমোক্র্যাটদের মামলা, কর জনগণের টাকা ব্যয়ের দাবি",
+    "summary": "ডেমোক্র্যাটিক ন্যাশনাল কমিটি এবং সুশাসন সংস্থা কমন কজ প্রেসিডেন্ট ট্রাম্পের বিরুদ্ধে মামলা করেছে। তারা দাবি করছে যে ট্রাম্প সীমান্ত নিরাপত্তার জন্য বরাদ্দ করা ২০ মিলিয়ন ডলার রাজনৈতিক বিজ্ঞাপনে খরচ করেছেন। এটি সরকারি অর্থ প্রচার-প্রচারে ব্যবহার করা নিষেধ করে এমন আইন লঙ্ঘন করে বলে তারা মনে করে।"
+   }
+  },
+  {
+   "id": "5av75h",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/weather/973085/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A6%AE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%C2%A0",
+   "image": null,
+   "published": "2026-10-08T01:26:00.000Z",
+   "added": "2026-10-08T01:50:38.725Z",
+   "origTitle": "দেশজুড়ে বৃষ্টির পূর্বাভাস, কমতে পারে তাপমাত্রা",
+   "en": {
+    "title": "Rain expected across Bangladesh, temperatures may drop",
+    "summary": "The weather bureau forecast light to moderate rain across much of Bangladesh over the next 24 hours from Wednesday evening. Dhaka, Ringpur, Rajshahi, Mymensingh, Khulna, and Sylhet divisions will see showers, with some areas getting heavier rain. Parts of Barishal and Chattogram may also be affected as monsoon winds weaken."
+   },
+   "bn": {
+    "title": "দেশজুড়ে বৃষ্টির সম্ভাবনা, তাপমাত্রা কমতে পারে",
+    "summary": "আবহাওয়া অধিদফতর বুধবার সন্ধ্যা থেকে পরের ২৪ ঘণ্টায় দেশের বিভিন্ন অঞ্চলে হালকা থেকে মাঝারি বৃষ্টির পূর্বাভাস দিয়েছে। রংপুর, রাজশাহী, ঢাকা, ময়মনসিংহ, খুলনা এবং সিলেটে বৃষ্টি হওয়ার সম্ভাবনা রয়েছে। বরিশাল ও চট্টগ্রাম বিভাগের কিছু এলাকায়ও বজ্রসহ বৃষ্টি হতে পারে।"
+   }
+  },
+  {
+   "id": "xlcwqh",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/middle-east/attacks-saudi-airports-kill-three-people-fighting-escalates-yemen-1565916",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/2026-10-07t101225z_1878417641_rc26ynalzzqg_rtrmadp_3_iran-crisis-yemen-houthis.jpg",
+   "published": "2026-10-08T01:30:00.000Z",
+   "added": "2026-10-08T01:50:38.725Z",
+   "origTitle": "Attacks on Saudi airports kill three people, as fighting escalates in Yemen",
+   "en": {
+    "title": "Houthi attacks on Saudi airports kill three, fighting escalates",
+    "summary": "Three people were killed and dozens wounded in attacks on Saudi airports in Riyadh and Abha on Tuesday and Wednesday. Iran-aligned Houthis launched the strikes as fighting intensifies in Yemen over control of key shipping routes. Saudi-led coalition responded by attacking over 80 Houthi military sites. The Houthis also targeted Aden airport with missiles and drones."
+   },
+   "bn": {
+    "title": "সৌদি বিমানবন্দরে হুতি হামলায় তিনজন নিহত",
+    "summary": "মঙ্গলবার ও বুধবার সৌদি আরবের রিয়াদ ও আবহার বিমানবন্দরে হুতি বাহিনীর আক্রমণে তিনজন নিহত এবং দর্জনখানেক আহত হয়েছে। ইয়েমেনে ইরানপন্থী হুতি এবং সৌদি সমর্থিত সরকারি বাহিনীর মধ্যে যুদ্ধ তীব্র হচ্ছে। সৌদি জোট আশি'র বেশি হুতি সামরিক অবস্থানে আক্রমণ করেছে। হুতিরা এডেন বিমানবন্দরেও ক্ষেপণাস্ত্র ও ড্রোন দিয়ে হামলা করেছে।"
+   }
+  },
   {
    "id": "artjyd",
    "section": "hasi",
@@ -2111,160 +2287,6 @@
    "bn": {
     "title": "নিরাপত্তা সতর্কতার পর যুক্তরাষ্ট্র বোমারু বিমান সরিয়ে নিল",
     "summary": "যুক্তরাষ্ট্র RAF ফেয়ারফোর্ড থেকে প্রায় এক ডজন B-1 বোমারু বিমান আমেরিকায় ফেরত নিয়ে গেছে। ২৭ সেপ্টেম্বর ঘাঁটির কাছে সন্দেহজনক গাড়ি দেখা গিয়েছিল এবং ছয় জনকে সন্ত্রাসবাদী অপরাধের সন্দেহে গ্রেপ্তার করা হয়েছিল। সবাই পরে জামিনে মুক্তি পেয়েছে। প্রধানমন্ত্রী বলেছেন ইরানের জড়িত থাকার শক্তিশালী সূচনা আছে, কিন্তু ইরান এটি অস্বীকার করেছে।"
-   }
-  },
-  {
-   "id": "1ljllv2",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/south-asia-needs-regional-energy-partnership-withstand-global-trade-shocks-experts",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/south_asia_energy_partnership_global_trade.png",
-   "published": "2026-10-04T18:55:00.000Z",
-   "added": "2026-10-05T00:48:41.669Z",
-   "origTitle": "South Asia needs regional energy partnership to withstand global trade shocks: Experts",
-   "en": {
-    "title": "South Asia needs stronger energy and trade ties",
-    "summary": "Experts at the Bay of Bengal Conversation 2026 in Dhaka say South Asian countries must deepen regional partnerships in energy, trade and investment to handle global disruptions. They pointed to the US-China trade war, Israel-Iran conflict, and Russia-Ukraine war as major shocks. Leaders called for reviving SAARC cooperation and building a regional power hub with Bangladesh, India, Nepal and Bhutan."
-   },
-   "bn": {
-    "title": "দক্ষিণ এশিয়া চায় শক্তিশালী আঞ্চলিক সহযোগিতা",
-    "summary": "ঢাকায় অনুষ্ঠিত বে অফ বেঙ্গল কথোপকথনে বিশেষজ্ঞরা বলেছেন, বৈশ্বিক বাণিজ্যের ধাক্কা মোকাবেলায় দক্ষিণ এশীয় দেশগুলোকে শক্তি, বাণিজ্য ও বিনিয়োগে আঞ্চলিক সহযোগিতা গভীর করতে হবে। আমেরিকা-চীন বাণিজ্য যুদ্ধ, ইসরায়েল-ইরান দ্বন্দ্ব এবং রাশিয়া-ইউক্রেইন যুদ্ধ এই সংকটের কারণ বলে তারা চিহ্নিত করেছেন। তারা সার্ক পুনরুজ্জীবন এবং বাংলাদেশ, ভারত, নেপাল ও ভুটান নিয়ে একটি আঞ্চলিক শক্তি কেন্দ্র গঠনের আহ্বান জানিয়েছেন।"
-   }
-  },
-  {
-   "id": "1u903px",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": true,
-   "src": "eArki",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxOWWQxZlVYUV83cWNhYmRqRDI4Rm1MbktjSU5CTVhfT3lVekRJYmRXSGVLOW1uMFIwVEpPeDZzbElvTll4cXI0aUcyWHIwNWNkNFhpQXBpdU5SYzVqYWU3MEtIV25lMmFhMTMwSm9OOWJZRjExSGJ5NFJ2aUFwQzNIcVh0SEZpU096SDJhWG5DdVBYb0JtY2wwVGU4bnJVQW9iT2VuZy1XWHRwU0N1ZExYMGRGZHR0Z0dxSW42UDl0VXZBcVFGUFZQNXFGUzdPRWZpTWRqaF9SWVJHZk8tN3draW9aOWxsd0tiWW0tU2wtR09iZDlnSkhnMllRNHE3MHhUSXVNa0N1ZjVnWVRUbjI3U0FqUnhMRzFvaG5HS1V1djZOVm4xdzlvQzNOQVFCck1kNjZLV3gwLXgwLXdwcmFHc3o5U0RsUHNaRjd1NG03Q2N0U3ZXc0JUNk1HSy1kZnl5TS1sRUh4a3NYVDRCOGo0MHdSV1QxUGN1Y0tYZXY4S2hQd3F1bHdiNF81UlpGV29kYWhwRGotNmxpUV84MEJvZkl0OWxqTUxoYzhaanVZQi1jbHI0bG43WFlZa1FxVDBiWFl2dWxFbG0yN2RBd2owaHAwcnBBSGJEbUxkT0UyR3VLMV92RUtwb1ZWdmc0U0FYOHZHZEZZTmE5d0hUb2dkUkFibnpOVWpTb20tYkZ2MDNsREFIS1RkRVVNaHptYWdlaVhkTWppbDIzZGhfN3g3ZFUwS1A5d0RyLXV4Wnc3UXpaYXg0?oc=5",
-   "image": null,
-   "published": "2026-10-04T09:55:22.000Z",
-   "added": "2026-10-05T00:48:41.669Z",
-   "origTitle": "সব রাজাকারের বাচ্চারা আন্দোলন করতেছে: ফ্রান্সের চলমান ছাত্র আন্দোলন প্রসঙ্গে মাখোঁ",
-   "en": {
-    "title": "Satire: eArki on France student protests",
-    "summary": "[SATIRE] This is satire from eArki making a joke about France's student movement. Not a real news story—just a funny take on current events. Read for laughs, not facts."
-   },
-   "bn": {
-    "title": "ব্যঙ্গ: ফ্রান্সের ছাত্র আন্দোলন নিয়ে eআরকির মন্তব্য",
-    "summary": "[ব্যঙ্গাত্মক সংবাদ] এটা eআরকির তরফ থেকে ফ্রান্সের ছাত্র আন্দোলন নিয়ে একটি হাসির মন্তব্য মাত্র। এটা বাস্তব খবর নয়—শুধু বর্তমান ঘটনা নিয়ে মজার কথা। হাসির জন্য পড়ুন, তথ্যের জন্য নয়।"
-   }
-  },
-  {
-   "id": "fgv4nq",
-   "section": "news",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "The Financial Express",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMEQwWUhVQmxNNUFUeWJCaUZOV21LdnJ6OFNBd1ZZUFNxVHFMdWJxYWhEVGNBRVZXU2tzM0Y5UVlqMVhoNW1Od2ttb01VUTBMajlSUGhINzN6ak1OM0JyRUdwTFpNbmJjRENGelFEdTZJYUoySHlMMndJb2tSZ0VhVWFEMWdrZU5wZzl1MlZiZTRaX0pGNWhRb2ZNQkQxZlZteG9majZhRElYdlZwVWxOc1Z3cmE3ZGpwNThsQ25hdWNmMEtNSF9TYjFacU7SAcwBQVVfeXFMTjBEMFlIVUJsTTVBVHliQmlGTldtS3ZyejhTQXdWWVBTcVRxTHVicWFoRFRjQUVWV1NrczNGOVFZajFYaDVtTndrbW9NVVEwTGo5UlBoSDczempNTjNCckVHcExaTW5iY0RDRnpRRHU2SWFKMkh5TDJ3SW9rUmdFYVVhRDFna2VOcGc5dTJWYmU0Wl9KRjVoUW9mTUJEMWZWbXhvZmo2YURJWHZWcFVsTnNWd3JhN2RqcDU4bENuYXVjZjBLTUhfU2IxWnFO?oc=5",
-   "image": null,
-   "published": "2026-10-04T18:00:00.000Z",
-   "added": "2026-10-05T00:48:41.669Z",
-   "origTitle": "Bangladesh 'at risk' as Australia rejects record student visas",
-   "en": {
-    "title": "Australia rejecting record Bangladesh student visas",
-    "summary": "Australia is turning down a record number of student visa applications from Bangladesh, putting the country's education dreams at risk. No specific numbers or reasons are given in the report, but this could affect thousands of young people planning to study abroad. The rejection rate marks a shift in Australia's approach to international students."
-   },
-   "bn": {
-    "title": "অস্ট্রেলিয়া বাংলাদেশি শিক্ষার্থীদের ভিসা অস্বীকার করছে রেকর্ড সংখ্যায়",
-    "summary": "অস্ট্রেলিয়া এখন বাংলাদেশি শিক্ষার্থীদের স্টুডেন্ট ভিসার আবেদন রেকর্ড সংখ্যায় প্রত্যাখ্যান করছে, যা শিক্ষার্থীদের বিদেশে পড়ার স্বপ্নে বাধা সৃষ্টি করছে। এই পরিস্থিতি হাজার হাজার তরুণকে প্রভাবিত করতে পারে। অস্ট্রেলিয়ার আন্তর্জাতিক শিক্ষার্থী নীতিতে একটি বড় পরিবর্তন আসছে দেখাচ্ছে এটি।"
-   }
-  },
-  {
-   "id": "9iji04",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Daily Star",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGlzMlo1RUk3WnU4LVQ4YXN0Rl9xWndTdkVzNF9ULV8yZDY2ZnVBTVRpVUxuWmkxeUtpaVV6ZlRtdGpwNk0wTVVnLVRDajBvWTdYVDZUVktiSjlXdmNZUlE1T1pWZHdhcjF0SHE5QlR0djJaUkl3cFJvaEpLdmU1X0pnNDR2RFJUcHlXdm5pVHo5ZHc5M3YzVjhZUGx2WkpyZ1Q3Qk95MFg1U1RjMjh4Z193?oc=5",
-   "image": null,
-   "published": "2026-10-04T19:30:52.000Z",
-   "added": "2026-10-05T00:48:28.808Z",
-   "origTitle": "Spare parts, equipment shortages leave Biman ‘vulnerable’",
-   "en": {
-    "title": "Biman Bangladesh faces spare parts shortage",
-    "summary": "Biman Bangladesh Airlines is facing critical shortages of spare parts and equipment, leaving the national carrier in a vulnerable position. The lack of maintenance resources is affecting operational efficiency and reliability."
-   },
-   "bn": {
-    "title": "বিমান বাংলাদেশ যন্ত্রাংশের সংকটে",
-    "summary": "বিমান বাংলাদেশ এয়ারলাইন্স যন্ত্রাংশ ও সরঞ্জামের সংকটে ভুগছে। এর ফলে জাতীয় বিমান সংস্থা দুর্বল অবস্থানে রয়েছে। রক্ষণাবেক্ষণ সরঞ্জামের অভাব পরিচালনায় সমস্যা সৃষ্টি করছে।"
-   }
-  },
-  {
-   "id": "oeofcl",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1557128.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/420700/420784.jpg",
-   "published": "2026-10-04T15:10:10.000Z",
-   "added": "2026-10-05T00:48:28.808Z",
-   "origTitle": "Labuschagne scores century in low-intensity Potchefstroom warm-up",
-   "en": {
-    "title": "Labuschagne scores century in warm-up match",
-    "summary": "Marnus Labuschagne hit a century during a warm-up match in Potchefstroom ahead of Australia's first Test against South Africa next week in Durban. The strong form suggests he is likely to keep his spot at number three in the batting order for the opening Test."
-   },
-   "bn": {
-    "title": "ওয়ার্ম-আপে ল্যাবুসচান শতক করলেন",
-    "summary": "মার্নাস ল্যাবুসচান পটচেফস্ট্রুমে একটি ওয়ার্ম-আপ ম্যাচে শতক করেছেন। এটি পরের সপ্তাহে ডারবানে দক্ষিণ আফ্রিকার বিরুদ্ধে অস্ট্রেলিয়ার প্রথম টেস্টের আগে। এই ফর্ম দেখে মনে হচ্ছে তিনি নম্বর তিনে তার স্থান ধরে রাখবেন।"
-   }
-  },
-  {
-   "id": "1gkcx0q",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-04T160843Z_936785478_RC2EWNAY0MJL_RTRMADP_3_IRAN-CRISIS-YEMEN-1791157330.jpg?resize=1920%2C1440",
-   "published": "2026-10-05T00:00:00.000Z",
-   "added": "2026-10-05T00:48:28.808Z",
-   "origTitle": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-   "en": {
-    "title": "Yemen fighting escalates; Iran readies defense",
-    "summary": "Yemen's government has announced a major offensive against Houthi forces as regional tensions rise. Iran says it is prepared to defend itself if attacked by the US. The escalation marks an intensification of the ongoing conflict in the region."
-   },
-   "bn": {
-    "title": "ইয়েমেনে লড়াই তীব্র; ইরান প্রস্তুত",
-    "summary": "ইয়েমেনের সরকার হুতিবাহিনীর বিরুদ্ধে বড় আক্রমণ ঘোষণা করেছে। ইরান বলেছে যে যদি আমেরিকা আক্রমণ করে, তারা নিজেদের রক্ষা করতে প্রস্তুত। অঞ্চলে সংঘাতের তীব্রতা বাড়ছে।"
-   }
-  },
-  {
-   "id": "nih466",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/dhaka/972440/%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF-%E0%A6%AC%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8-%E2%80%98%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE",
-   "image": null,
-   "published": "2026-10-05T00:35:00.000Z",
-   "added": "2026-10-05T00:48:28.808Z",
-   "origTitle": "সাংবাদিকদের ডেকে বিএনপির এমপি বললেন, ‘সাংবাদিকতা শিখিয়ে দেবো’",
-   "en": {
-    "title": "BNP MP threatens journalists over coverage",
-    "summary": "Tamizuddin, MP for Dhaka-20 (Dhamrai), called journalists to his rice mill on Sunday and warned them against future critical reporting on political matters or BNP. He said he would 'teach them journalism' if they reported 'unfairly' against BNP. The incident happened at a press conference he organized at his own facility."
-   },
-   "bn": {
-    "title": "সাংবাদিকদের হুমকি দিলেন বিএনপি এমপি",
-    "summary": "ঢাকা-২০ (ধামরাই) আসনের সংসদ সদস্য তমিজ উদ্দিন রবিবার সাংবাদিকদের তার চাল কল মিল কিষান কোল্ড স্টোরেজে ডেকে নিয়েছেন। সেখানে তিনি বলেন, যদি সাংবাদিকরা রাজনৈতিক বিষয়ে বা বিএনপির বিপক্ষে 'অন্যায়ভাবে' কিছু বলেন, তাহলে তিনি তাদের 'সাংবাদিকতা শিখিয়ে দেবেন'। এটি তার নিজস্ব আয়োজিত সংবাদ সম্মেলনে ঘটেছে।"
    }
   }
  ]
