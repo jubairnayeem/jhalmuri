@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-08T01:51:01.645Z",
+ "updatedAt": "2026-10-08T08:51:37.462Z",
  "burning": [
   {
-   "id": "1nei0nn",
+   "id": "xlcwqh",
    "heat": 5,
    "why": {
-    "en": "Messi's final Argentina match dominated sports news and social chatter across multiple outlets.",
-    "bn": "মেসির আর্জেন্টিনা বিদায় ম্যাচ একাধিক আউটলেটে খবর এবং আলোচনা ছাড়িয়ে গেছে।"
+    "en": "Houthi attacks on Saudi airports dominating search with 1000+ traffic on সৌদি আরব",
+    "bn": "সৌদি আরবের বিমানবন্দরে হুতির হামলা Google Trends-এ ১০০০+ ট্রাফিক নিয়ে শীর্ষে"
    },
    "rank": 1
   },
   {
-   "id": "19bxyxs",
+   "id": "1406yss",
    "heat": 4,
    "why": {
-    "en": "Bangladesh aircraft orders made headlines across BBC Bengali and local outlets, tied to Google Trends interest in ministry updates.",
-    "bn": "বাংলাদেশের বিমান অর্ডার একাধিক মিডিয়ায় হেডলাইন হয়েছে এবং সরকারি আপডেটের সাথে যুক্ত।"
+    "en": "Bangladesh climate conference and investment portal aligns with জলবায়ু trending at 200+ with environment minister quotes",
+    "bn": "বাংলাদেশের জলবায়ু সম্মেলন এবং বিনিয়োগ পোর্টাল জলবায়ু ট্রেন্ডিং-এর সাথে মিলছে"
    },
    "rank": 2
-  },
-  {
-   "id": "21xzdx",
-   "heat": 4,
-   "why": {
-    "en": "Yemen displacement crisis covered by major international outlets, resonates with region's ongoing instability concerns.",
-    "bn": "ইয়েমেনের সংকট আন্তর্জাতিক মিডিয়ায় কভার পেয়েছে এবং অঞ্চলের স্থিতিশীলতা নিয়ে উদ্বেগ রয়েছে।"
-   },
-   "rank": 3
   },
   {
    "id": "1rohro4",
    "heat": 4,
    "why": {
-    "en": "Six crore Bangladeshis at poverty risk is major economic story, tied to Google Trends interest in ministry and loan discussions.",
-    "bn": "ছয় কোটি বাংলাদেশি দারিদ্র্যের ঝুঁকিতে একটি বড় অর্থনৈতিক গল্প এবং অর্থ মন্ত্রণালয়ের সাথে যুক্ত।"
+    "en": "Six crore Bangladeshis at poverty risk taps into economic concerns amid falling investment story",
+    "bn": "ছয় কোটি বাংলাদেশি দারিদ্র্যের ঝুঁকিতে বিষয়টি অর্থনৈতিক সংকটের সাথে যুক্ত"
+   },
+   "rank": 3
+  },
+  {
+   "id": "5av75h",
+   "heat": 3,
+   "why": {
+    "en": "Weather forecast for rain and temperature drop matches আজকের আবহাওয়া search trend at 200+",
+    "bn": "বৃষ্টি এবং তাপমাত্রা হ্রাসের পূর্বাভাস আজকের আবহাওয়া ট্রেন্ডিং-এর সাথে মেলে"
    },
    "rank": 4
   },
   {
-   "id": "5hrwmg",
+   "id": "19bxyxs",
    "heat": 3,
    "why": {
-    "en": "Major financial seizure case with significant Tk150 crore amount, affects banking sector credibility.",
-    "bn": "১৫০ কোটি টাকার বড় আর্থিক ঘটনা যা ব্যাংকিং খাতকে প্রভাবিত করে।"
+    "en": "Bangladesh aircraft orders getting traction; links to infrastructure and opinion pieces about readiness",
+    "bn": "বাংলাদেশের এয়ারক্রাফট অর্ডার অবকাঠামো এবং প্রস্তুতি নিয়ে আলোচনা সৃষ্টি করছে"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1nei0nn",
-   "tag": "#MessiFarewell",
+   "id": "xlcwqh",
+   "tag": "#SaudiAttacks",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Messi plays last Argentina game",
-    "text": "Argentina beat Benin 3-0 in what Messi called the saddest day of his football career. The match wrapped up his international journey."
+    "title": "Houthis hit Saudi airports",
+    "text": "Houthi attacks on Saudi airports kill three and injure 36, escalating Red Sea conflict. Search traffic 1000+ on Saudi Arabia."
    },
    "bn": {
-    "title": "মেসির শেষ আর্জেন্টিনা ম্যাচ",
-    "text": "আর্জেন্টিনা বেনিনকে ৩-০ গোলে হারিয়েছে এবং মেসি বলেছেন এটি তার ক্যারিয়ারের সবচেয়ে দুঃখের দিন। তার আন্তর্জাতিক ক্যারিয়ারের অবসান হয়েছে।"
+    "title": "সৌদির বিমানবন্দরে হামলা",
+    "text": "হুতি বাহিনী সৌদি আরবের বিমানবন্দরে হামলা করে তিনজন নিহত এবং ৩৬ জন আহত করেছে। ট্রেন্ডিং শীর্ষে।"
    }
   },
   {
-   "id": "5av75h",
-   "tag": "#Weather",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Rain, cooler days ahead",
-    "text": "Bangladesh expecting rainfall across regions with temperatures set to drop in coming days."
-   },
-   "bn": {
-    "title": "বৃষ্টি এবং ঠান্ডা আবহাওয়া আসছে",
-    "text": "বাংলাদেশে বিভিন্ন অঞ্চলে বৃষ্টির পূর্বাভাস রয়েছে এবং তাপমাত্রা কমবে।"
-   }
-  },
-  {
-   "id": "19bxyxs",
-   "tag": "#AircraftOrder",
+   "id": "1406yss",
+   "tag": "#জলবায়ু",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh orders new aircraft fleet",
-    "text": "Bangladesh placed order for 10 Airbus planes with 25 Boeing aircraft in pipeline for fleet expansion."
+    "title": "Bangladesh climate conference launches",
+    "text": "Bangladesh launches climate conference and digital investment portal. Environment minister stresses climate considerations in projects."
    },
    "bn": {
-    "title": "বাংলাদেশের নতুন বিমান অর্ডার",
-    "text": "বাংলাদেশ ১০টি এয়ারবাস এবং ২৫টি বোয়িং প্লেন অর্ডার করেছে।"
+    "title": "বাংলাদেশের জলবায়ু সম্মেলন",
+    "text": "বাংলাদেশ জলবায়ু সম্মেলন এবং ডিজিটাল বিনিয়োগ পোর্টাল চালু করেছে। পরিবেশমন্ত্রী প্রকল্পে জলবায়ু বিবেচনার জন্য জোর দিচ্ছেন।"
+   }
+  },
+  {
+   "id": "5av75h",
+   "tag": "#আবহাওয়া",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Rain expected across Bangladesh",
+    "text": "Rainfall forecast across Bangladesh with temperatures expected to drop. Weather updates trending at 200+ searches."
+   },
+   "bn": {
+    "title": "বাংলাদেশে বৃষ্টির পূর্বাভাস",
+    "text": "সারাদেশে বৃষ্টি এবং তাপমাত্রা হ্রাসের সম্ভাবনা। আবহাওয়া আপডেট ট্রেন্ডিং-এ আছে।"
    }
   }
  ],
