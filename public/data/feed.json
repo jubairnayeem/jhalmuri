@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-08T16:25:00.428Z",
+ "updatedAt": "2026-10-08T22:00:52.621Z",
  "items": [
+  {
+   "id": "j4zsif",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/usa/99nrd6f49r",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-08/gqmgw6wr/Donald-Trump.avif",
+   "published": "2026-10-08T20:53:22.000Z",
+   "added": "2026-10-08T22:00:52.621Z",
+   "origTitle": "নভেম্বরের মধ্যবর্তী নির্বাচনের আগে ইরানে হামলা চালাব না: ট্রাম্প",
+   "en": {
+    "title": "Trump: No Iran strike before US midterms in November",
+    "summary": "President Trump says the US won't attack Iran before the November 3 midterm elections, claiming Washington is having productive talks with Tehran about ending the war. The Pentagon had reportedly ordered military preparations for a major operation against Iran, but Trump is now postponing any action. The conflict began in February when the US and Israel launched strikes; Iran retaliated. The Strait of Hormuz remains closed, disrupting global oil supplies."
+   },
+   "bn": {
+    "title": "নভেম্বর নির্বাচনের আগে ইরানে হামলা হবে না: ট্রাম্প",
+    "summary": "আমেরিকার প্রেসিডেন্ট ট্রাম্প বলেছেন নভেম্বর ৩ তারিখের মধ্যবর্তী নির্বাচনের আগে ইরানে কোনো হামলা করা হবে না। তিনি জানিয়েছেন ওয়াশিংটন তেহরানের সঙ্গে যুদ্ধ শেষে 'ফলপ্রসূ' আলোচনা চালাচ্ছে। পেন্টাগন আগে সামরিক অপারেশনের জন্য প্রস্তুতি নেওয়ার নির্দেশ দিয়েছিল কিন্তু ট্রাম্প এখন তা স্থগিত করছেন। ফেব্রুয়ারিতে শুরু হওয়া সংঘাত থেকে হরমুজ প্রণালি বন্ধ রয়েছে যা বৈশ্বিক তেল সরবরাহ ব্যাহত করছে।"
+   }
+  },
+  {
+   "id": "1y428zq",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/cornell-tries-going-by-different-name/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Cornell_Tries_Renaming_NIB_IHA-GR.jpg",
+   "published": "2026-10-08T18:44:45.000Z",
+   "added": "2026-10-08T22:00:45.065Z",
+   "origTitle": "Cornell Tries Going By Different Name",
+   "en": {
+    "title": "Cornell University rebrands as 'Tompkins' to escape scandal",
+    "summary": "In a satirical take on crisis management, The Onion reports that Cornell University announced it was rebranding as Tompkins University to distance itself from a fraternity sexual assault allegation. The new identity lasted hours before changing again. Funny premise, serious underlying issue."
+   },
+   "bn": {
+    "title": "কর্নেল বিশ্ববিদ্যালয় সংকট এড়াতে নাম পরিবর্তন করেছে (ব্যঙ্গ)",
+    "summary": "দ্য অনিয়ন সাইটিরিক্যালি রিপোর্ট করছে যে কর্নেল বিশ্ববিদ্যালয় একটি ফ্র্যাটার্নিটি যৌন নিপীড়ন অভিযোগ থেকে সরে থাকতে নাম পরিবর্তন করে 'টম্পকিনস ইউনিভার্সিটি' রেখেছে। নতুন পরিচয় মাত্র কয়েক ঘণ্টা টিকেছিল। মজার প্রিমাইস, কিন্তু গভীর বিষয়।"
+   }
+  },
+  {
+   "id": "1vc24bk",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/08/Guinness-World-Records-abdominal-plank/1261791480174/",
+   "image": "https://cdnph.upi.com/ph/st/th/1261791480174/2026/i/17914804909562/v1.5/Canadian-grandma-holds-a-plank-for-5-hours-to-break-her-own-record.jpg",
+   "published": "2026-10-08T17:28:32.000Z",
+   "added": "2026-10-08T22:00:45.065Z",
+   "origTitle": "Watch: Canadian grandma holds a plank for 5 hours to break her own record",
+   "en": {
+    "title": "Canadian grandma holds plank for 5 hours, breaks her own record",
+    "summary": "A 61-year-old fitness enthusiast from Canada crushed her own world record by holding an abdominal plank for 5 hours at the Huntsman World Senior Games in Utah. Talk about dedication."
+   },
+   "bn": {
+    "title": "কানাডার দাদি প্ল্যাঙ্ক ৫ ঘণ্টা ধরে নিজের রেকর্ড ভেঙে দিলেন",
+    "summary": "কানাডার একজন ৬১ বছর বয়সী ফিটনেস উত্সাহী ইউটাহের হান্টসম্যান ওয়ার্ল্ড সিনিয়র গেমসে পেটের প্ল্যাঙ্ক ৫ ঘণ্টা ধরে রেখে নিজের বিশ্ব রেকর্ড ভেঙে দিয়েছেন। এটা সত্যিই নিবেদনের গল্প।"
+   }
+  },
+  {
+   "id": "1vs74ho",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791494180.jpg?resize=1920%2C1080&quality=80",
+   "published": "2026-10-08T21:17:05.000Z",
+   "added": "2026-10-08T22:00:45.065Z",
+   "origTitle": "Police use tear gas and water cannons on student protestors in Paris",
+   "en": {
+    "title": "Paris police deploy tear gas on student protesters for third week",
+    "summary": "Police fired tear gas and water cannons at demonstrators in Paris demanding more school funding, teachers, and better conditions. The protests have now entered their third week. Several teenagers have been seriously injured, raising questions about police tactics."
+   },
+   "bn": {
+    "title": "প্যারিসে শিক্ষার্থী প্রতিবাদীদের উপর পুলিশের জল কামান ও গ্যাস",
+    "summary": "স্কুলে বেশি তহবিল, শিক্ষক ও ভালো অবস্থার দাবিতে প্যারিসে বিক্ষোভকারীদের উপর পুলিশ জল কামান ও গ্যাস ছুড়েছে। তিন সপ্তাহ ধরে এই প্রতিবাদ চলছে। অনেক কিশোর গুরুতর আহত হয়েছে, যা পুলিশের কৌশল নিয়ে প্রশ্ন তুলেছে।"
+   }
+  },
+  {
+   "id": "8q3tsk",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c5lyevr4pz1lo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/142c/live/ee62aea0-c2e5-11f1-89a3-9b445bfcfe23.jpg",
+   "published": "2026-10-08T12:21:32.000Z",
+   "added": "2026-10-08T22:00:45.065Z",
+   "origTitle": "আপত্তি ও বিক্ষোভের মুখেই দুবাইয়ের কোম্পানির হাতে চট্টগ্রাম বন্দরের টার্মিনাল",
+   "en": {
+    "title": "Dubai port firm gets Chattogram container terminal contract despite protests",
+    "summary": "DP World, a Dubai-based company, signed a 15-year contract on Thursday to operate Chattogram Port's Nuemuring Container Terminal (NCT) despite worker opposition. NCT handles about half of all containers at Chattogram Port. The port's Bangladesh Navy-run Chittagong Dry Dock Limited had managed it since July. Port authority retains ownership and control."
+   },
+   "bn": {
+    "title": "শ্রমিকদের বিরোধিতার মধ্যেও চট্টগ্রাম বন্দর টার্মিনাল দুবাই কোম্পানিকে",
+    "summary": "দুবাইভিত্তিক কোম্পানি ডিপি ওয়ার্ল্ড বৃহস্পতিবার চট্টগ্রাম বন্দরের নিউমুরিং কনটেইনার টার্মিনাল পরিচালনার জন্য ১৫ বছরের চুক্তি স্বাক্ষর করেছে, যদিও বন্দর শ্রমিকরা বিরোধিতা করেছেন। এনসিটি চট্টগ্রাম বন্দরের মোট কনটেইনারের প্রায় অর্ধেক পরিচালনা করে। জুলাই থেকে বাংলাদেশ নৌবাহিনীর চিটাগং ড্রাই ডক লিমিটেড এটি চালাচ্ছিল। বন্দর কর্তৃপক্ষ মালিকানা ও নিয়ন্ত্রণ রাখবে।"
+   }
+  },
+  {
+   "id": "w4xsh4",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/bangladeshi-student-killed-australia-road-crash-1566966",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/09/8fa99fe8-6c03-4c99-bc76-4eb53b170c8e.png",
+   "published": "2026-10-08T19:00:00.000Z",
+   "added": "2026-10-08T22:00:45.065Z",
+   "origTitle": "Bangladeshi student killed in Australia road crash",
+   "en": {
+    "title": "Bangladeshi student killed in Perth car crash",
+    "summary": "Tasnim Oishi, a 22-year-old Bangladeshi student at Edith Cowan University, died when a grey BMW carrying four students crashed into a tree on Indian Ocean Drive in Perth on Thursday morning. The car veered off the road near Seabird Road around 7:45am. Three other students were injured but stable. Police are investigating."
+   },
+   "bn": {
+    "title": "পার্থে গাড়ি দুর্ঘটনায় বাংলাদেশি শিক্ষার্থী নিহত",
+    "summary": "পার্থের ইন্ডিয়ান ওশান ড্রাইভে বৃহস্পতিবার সকালে একটি গ্রে বিএমডব্লিউ গাড়ি একটি গাছে ধাক্কা খেয়ে দুর্ঘটনা ঘটে। এ দুর্ঘটনায় ২২ বছর বয়সী শিক্ষার্থী তাসনিম ওইশী, যিনি এডিথ কোওয়ান বিশ্ববিদ্যালয়ের ছাত্রী ছিলেন, নিহত হন। গাড়িটি সিবার্ড রোড ইন্টারসেকশনের কাছে রাস্তা থেকে সরে গিয়ে দুর্ঘটনা ঘটে। অন্য তিন শিক্ষার্থী আহত হয়েছেন কিন্তু তারা স্থিতিশীল অবস্থায় আছেন। পুলিশ তদন্ত চালাচ্ছে।"
+   }
+  },
   {
    "id": "41zbwk",
    "section": "news",

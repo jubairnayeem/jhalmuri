@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-08T16:25:15.368Z",
+ "updatedAt": "2026-10-08T22:01:08.457Z",
  "burning": [
   {
-   "id": "1rohro4",
+   "id": "5av75h",
    "heat": 5,
    "why": {
-    "en": "Massive poverty crisis affecting 6 crore Bangladeshis is the biggest domestic story today.",
-    "bn": "ছয় কোটি বাংলাদেশী দারিদ্র্যের ঝুঁকিতে পড়ার খবর সবচেয়ে বড় দেশীয় গল্প।"
+    "en": "Rain forecast trending massively on Google (1000+ searches) as temps expected to drop across Bangladesh.",
+    "bn": "গুগলে ১০০০+ সার্চ, সারাদেশে বৃষ্টির আবহাওয়া এখন সবার কথা।"
    },
    "rank": 1
   },
   {
-   "id": "1o11kbf",
+   "id": "1rohro4",
    "heat": 4,
    "why": {
-    "en": "Auto-rickshaw driver's murder over yaba deal and five arrests capture public attention on crime.",
-    "bn": "যাবা ডিলের কারণে অটো রিকশা চালকের হত্যা এবং পাঁচজনের গ্রেপ্তার অপরাধ খবরে আলোচনা তৈরি করেছে।"
+    "en": "Six crore Bangladeshis at poverty risk—major economic story hitting hard on social signals.",
+    "bn": "ছয় কোটি মানুষের দারিদ্র্য ঝুঁকি নিয়ে আলোচনা চলছে।"
    },
    "rank": 2
   },
   {
-   "id": "19bxyxs",
+   "id": "8q3tsk",
    "heat": 4,
    "why": {
-    "en": "Bangladesh orders 10 Airbus planes with 25 Boeing in pipeline signals major aviation expansion.",
-    "bn": "১০টি এয়ারবাস অর্ডার এবং ২৫টি বোয়িং পাইপলাইনে থাকা বিমান খাতে বড় উন্নয়নের ইঙ্গিত দেয়।"
+    "en": "Dubai port firm winning Chattogram contract despite protests—major political and economic story.",
+    "bn": "দুবাই কোম্পানির চট্টগ্রাম চুক্তি নিয়ে প্রতিবাদ সত্ত্বেও সিদ্ধান্ত।"
    },
    "rank": 3
   },
   {
-   "id": "5av75h",
-   "heat": 3,
+   "id": "kw1adt",
+   "heat": 4,
    "why": {
-    "en": "Rain forecast and temperature drop across Bangladesh affects daily life and public interest.",
-    "bn": "বাংলাদেশ জুড়ে বৃষ্টি এবং তাপমাত্রা হ্রাসের পূর্বাভাস দৈনন্দিন জীবনে প্রভাব ফেলে।"
+    "en": "Russian bomb kills 30 on Ukraine buses—major international crisis covered by multiple outlets.",
+    "bn": "ইউক্রেনে রাশিয়ান বোমায় ৩০ জন নিহত, আন্তর্জাতিক সংবাদ।"
    },
    "rank": 4
   },
   {
-   "id": "2nyxk9",
+   "id": "19bxyxs",
    "heat": 3,
    "why": {
-    "en": "Master plans for organized urban growth across Bangladesh cities appeals to planning-conscious audience.",
-    "bn": "বাংলাদেশের শহরগুলোর জন্য মাস্টার প্ল্যান সংগঠিত উন্নয়নে জনগণের আগ্রহ জাগায়।"
+    "en": "Bangladesh orders 10 Airbus, 25 Boeing planes—major aviation investment story.",
+    "bn": "বাংলাদেশ এয়ারবাস এবং বোয়িং বিমান অর্ডার দিল।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1rohro4",
-   "tag": "#PovertyAlert",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "6 crore Bangladeshis at poverty risk",
-    "text": "A major development warning that six crore Bangladeshis face potential poverty. The economic situation is being closely watched."
-   },
-   "bn": {
-    "title": "ছয় কোটি মানুষ দারিদ্র্যের ঝুঁকিতে",
-    "text": "বাংলাদেশের ছয় কোটি মানুষ দারিদ্র্যের ঝুঁকিতে পড়তে পারে বলে সতর্কতা দেওয়া হয়েছে। অর্থনৈতিক অবস্থা নিয়ে আলোচনা চলছে।"
-   }
-  },
-  {
-   "id": "19bxyxs",
-   "tag": "#AviationExpansion",
+   "id": "1ij7l17",
+   "tag": "#India-Israel",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh orders 35 new aircraft",
-    "text": "The country is ordering 10 Airbus planes with 25 Boeing aircraft in the pipeline, marking significant aviation sector growth."
+    "title": "India-Israel ties deepen despite Gaza",
+    "text": "Modi's policy shift: India shooting down claims of Starlink discrimination while deepening Israel relations despite ongoing Gaza war tensions."
    },
    "bn": {
-    "title": "বাংলাদেশ ৩৫টি নতুন বিমান অর্ডার করছে",
-    "text": "দেশ ১০টি এয়ারবাস এবং ২৫টি বোয়িং বিমান অর্ডার করছে, যা বিমান খাতে বড় সম্প্রসারণ নির্দেশ করে।"
+    "title": "গাজা সত্ত্বেও ভারত-ইসরায়েল বন্ধুত্ব",
+    "text": "মোদির নীতি পরিবর্তন: গাজা যুদ্ধ চললেও ভারত ইসরায়েলের সাথে সম্পর্ক গভীর করছে।"
    }
   },
   {
-   "id": "43rjmo",
-   "tag": "#BangladeshIndiaRelations",
+   "id": "x83h5l",
+   "tag": "#AI-Valuation",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Nahid Islam on bilateral ties",
-    "text": "Bangladesh must ensure its interests are protected in dealings with India, according to recent statements on bilateral relations."
+    "title": "Nous Research hits $1.5B milestone",
+    "text": "AI startup Nous Research reaches unicorn status, launches business AI agents for enterprise use."
    },
    "bn": {
-    "title": "নাহিদ ইসলামের বাংলাদেশ-ভারত সম্পর্কের বার্তা",
-    "text": "বাংলাদেশকে ভারতের সাথে সম্পর্কে নিজস্ব স্বার্থ সুরক্ষিত রাখতে হবে, এমন মন্তব্য এসেছে।"
+    "title": "নাউস রিসার্চ ১.৫ বিলিয়ন ভ্যালু",
+    "text": "এআই স্টার্টআপ ইউনিকর্ন স্ট্যাটাস পেল, বিজনেস এআই এজেন্ট লঞ্চ করল।"
+   }
+  },
+  {
+   "id": "16wkhev",
+   "tag": "#Wildlife",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "180K giant tortoises thriving in Seychelles",
+    "text": "Conservation win: nearly 180,000 giant tortoises discovered flourishing in Seychelles, major environmental success story."
+   },
+   "bn": {
+    "title": "সেশেলে কচ্ছপের সংরক্ষণ সফলতা",
+    "text": "১ লক্ষ ৮০ হাজার দৈত্যাকার কচ্ছপ সেশেলে সুস্থভাবে বাস করছে, পরিবেশ সংরক্ষণের বড় জয়।"
+   }
+  },
+  {
+   "id": "122r1ij",
+   "tag": "#NewMusic",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "The Rover drops 'Ayna' album",
+    "text": "Bangladeshi band The Rover releases new 18-track album 'Ayna,' drawing local music buzz."
+   },
+   "bn": {
+    "title": "দ্য রোভারের নতুন অ্যালবাম 'আয়না'",
+    "text": "বাংলাদেশি ব্যান্ড দ্য রোভার ১৮ ট্র্যাকের অ্যালবাম রিলিজ করল।"
    }
   }
  ],
