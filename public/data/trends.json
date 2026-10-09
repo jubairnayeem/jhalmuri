@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-09T02:03:19.502Z",
+ "updatedAt": "2026-10-09T08:55:20.731Z",
  "burning": [
   {
-   "id": "w4xsh4",
+   "id": "1qq8lel",
    "heat": 5,
    "why": {
-    "en": "Bangladeshi student death abroad hits hard; tragic, immediate impact.",
-    "bn": "বিদেশে বাংলাদেশী শিক্ষার্থীর মৃত্যু—দুঃখজনক এবং তাৎক্ষণিক প্রভাব।"
+    "en": "Major US execution news, high international attention.",
+    "bn": "আমেরিকার বড় মৃত্যুদণ্ড সংবাদ, আন্তর্জাতিক মনোযোগ বেশি।"
    },
    "rank": 1
   },
   {
-   "id": "kw1adt",
+   "id": "72xt1x",
    "heat": 5,
    "why": {
-    "en": "30 killed in Russian strike on Ukraine buses; major casualty event.",
-    "bn": "ইউক্রেনের বাসে রাশিয়ার হামলায় ৩০ জন নিহত—বড় দুর্ঘটনা।"
+    "en": "Bangladesh nuclear milestone, major infrastructure story.",
+    "bn": "বাংলাদেশের পারমাণবিক মাইলফলক, বড় অবকাঠামো সংবাদ।"
    },
    "rank": 2
   },
   {
-   "id": "1rohro4",
+   "id": "14i8qi7",
    "heat": 4,
    "why": {
-    "en": "Six crore Bangladeshis at poverty risk; hits national economic nerve.",
-    "bn": "ছয় কোটি বাংলাদেশী দারিদ্র্যের ঝুঁকিতে—অর্থনৈতিক সংকট।"
+    "en": "Workplace accident with fatalities, ongoing safety concern.",
+    "bn": "কর্মক্ষেত্রে মৃত্যুহার সহ দুর্ঘটনা, নিরাপত্তা সমস্যা।"
    },
    "rank": 3
   },
   {
-   "id": "72xt1x",
+   "id": "8q3tsk",
    "heat": 4,
    "why": {
-    "en": "Rooppur nuclear plant first unit greenlit for December; landmark development.",
-    "bn": "রূপপুর পরমাণু বিদ্যুৎকেন্দ্রের প্রথম ইউনিট অনুমোদিত—দেশের প্রধান অর্জন।"
+    "en": "Chattogram port deal despite protests, contested policy.",
+    "bn": "প্রতিবাদ সত্ত্বেও চট্টগ্রাম বন্দর চুক্তি, বিতর্কিত নীতি।"
    },
    "rank": 4
   },
   {
-   "id": "8q3tsk",
+   "id": "1dnqpie",
    "heat": 3,
    "why": {
-    "en": "Dubai firm wins Chattogram terminal contract despite local protests.",
-    "bn": "চট্টগ্রাম কন্টেইনার টার্মিনাল চুক্তি নিয়ে বিরোধ, কিন্তু অনুমোদিত হয়েছে।"
+    "en": "Extortion gang activity in Dhaka, crime story.",
+    "bn": "ঢাকায় আর্থিক জোরজবরদস্তি, অপরাধ সংবাদ।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1jtgz0i",
-   "tag": "#ActorNanaPatekar",
+   "id": "1679pvd",
+   "tag": "#CricketCalendar",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Nana Patekar passes away",
-    "text": "Indian actor Nana Patekar has died after suffering cardiac arrest. His death marks the end of a long career in Indian cinema."
+    "title": "PSL and IPL clash again",
+    "text": "Pakistan and India cricket leagues set for another calendar collision in 2027. Cricket fans are already buzzing about scheduling chaos."
    },
    "bn": {
-    "title": "নানা পাটেকর মৃত্যু",
-    "text": "ভারতীয় অভিনেতা নানা পাটেকর কার্ডিয়াক অ্যারেস্টের পর মারা গেছেন। ভারতীয় চলচ্চিত্রে তার দীর্ঘ ক্যারিয়ারের সমাপ্তি ঘটেছে।"
+    "title": "পিএসএল-আইপিএল সংঘর্ষ আবার",
+    "text": "২০২৭ সালে পাকিস্তান ও ভারতের ক্রিকেট লিগ ক্যালেন্ডারে আবার মিলবে। ভক্তরা ইতিমধ্যে সময়সূচীর বিশৃঙ্খলা নিয়ে কথা বলছেন।"
    }
   },
   {
-   "id": "1u1d1uz",
-   "tag": "#ViralVideo",
+   "id": "yvksir",
+   "tag": "#CashmiriFilmmaker",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Video hits 4.7M views in 23h",
-    "text": "A video went viral, reaching 4.7 million views in just 23 hours, creating early buzz in entertainment circles."
+    "title": "Kashmiri filmmaker freed from US",
+    "text": "Arfat Sheikh, a Kashmiri filmmaker, has been released from US custody. The story has drawn attention to media freedom concerns."
    },
    "bn": {
-    "title": "ভিডিও ২৩ ঘণ্টায় ৪.৭ মিলিয়ন ভিউ",
-    "text": "একটি ভিডিও ভাইরাল হয়েছে, মাত্র ২৩ ঘণ্টায় ৪.৭ মিলিয়ন ভিউ পেয়েছে।"
+    "title": "কাশ্মীরি চলচ্চিত্রকার মুক্ত",
+    "text": "আরফাত শেখ, কাশ্মীরি চলচ্চিত্রকার, আমেরিকার হেফাজত থেকে মুক্তি পেয়েছেন। গল্পটি মিডিয়া স্বাধীনতার উদ্বেগ তুলে ধরেছে।"
    }
   },
   {
-   "id": "122r1ij",
-   "tag": "#NewMusic",
+   "id": "194m5fe",
+   "tag": "#CycleTrackChattogram",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Bangladesh's first cycle track opens",
+    "text": "Chattogram now has Bangladesh's first-ever dedicated cycle track. Young people excited about eco-friendly transport infrastructure."
+   },
+   "bn": {
+    "title": "বাংলাদেশের প্রথম সাইকেল ট্র্যাক",
+    "text": "চট্টগ্রামে বাংলাদেশের প্রথম ডেডিকেটেড সাইকেল ট্র্যাক খোলা হয়েছে। তরুণরা পরিবেশবান্ধব পরিবহন অবকাঠামোতে উত্সাহী।"
+   }
+  },
+  {
+   "id": "3969hy",
+   "tag": "#LPGCrisis",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "The Rover drops new album Ayna",
-    "text": "Band The Rover has released a new album called Ayna featuring 18 tracks, stirring interest in the local music scene."
+    "title": "LPG shortage bites hard",
+    "text": "Despite price hikes, LPG shortages continue with skyrocketing market costs. Households and businesses struggling to cope."
    },
    "bn": {
-    "title": "দ্য রোভার নতুন অ্যালবাম রিলিজ",
-    "text": "ব্যান্ড দ্য রোভার তাদের নতুন অ্যালবাম 'আয়না' রিলিজ করেছে যাতে ১৮টি গান আছে।"
+    "title": "এলপিজি সংকট চলছে",
+    "text": "দাম বৃদ্ধি সত্ত্বেও এলপিজি ঘাটতি অব্যাহত, বাজার দাম আকাশচুম্বী। পরিবার ও ব্যবসা চরমভাবে প্রভাবিত।"
    }
   }
  ],
