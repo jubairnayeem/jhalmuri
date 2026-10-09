@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T16:25:16.179Z",
+ "updatedAt": "2026-10-09T16:08:36.950Z",
  "english": {
   "source": "Apple Music · most played (US)",
   "items": [
@@ -25,23 +25,23 @@
     "artist": "KAROL G, Judeline & rusowsky",
     "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
     "key": "bby wow|karol g, judeline & rusowsky",
-    "prev": 4
-   },
-   {
-    "rank": 4,
-    "title": "Cold Shoulder",
-    "artist": "Drake, Don Toliver & Yebba",
-    "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600",
-    "key": "cold shoulder|drake, don toliver & yebba",
     "prev": 3
    },
    {
-    "rank": 5,
+    "rank": 4,
     "title": "Choosin' Texas",
     "artist": "Ella Langley",
     "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
     "key": "choosin' texas|ella langley",
     "prev": 5
+   },
+   {
+    "rank": 5,
+    "title": "Cold Shoulder",
+    "artist": "Drake, Don Toliver & Yebba",
+    "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600",
+    "key": "cold shoulder|drake, don toliver & yebba",
+    "prev": 4
    },
    {
     "rank": 6,

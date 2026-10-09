@@ -1,6 +1,270 @@
 {
- "updatedAt": "2026-10-09T08:55:04.598Z",
+ "updatedAt": "2026-10-09T16:08:20.547Z",
  "items": [
+  {
+   "id": "fubk0g",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/3phy3vswxx",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-09/ymc50brd/BTLA-Committee.jpg",
+   "published": "2026-10-09T15:40:33.000Z",
+   "added": "2026-10-09T16:08:20.547Z",
+   "origTitle": "বাংলাদেশ ট্যাক্স লইয়ার্স অ্যাসোসিয়েশনের সভাপতি রমিজউদ্দিন, মহাসচিব মাজম আলী খান",
+   "en": {
+    "title": "Bangladesh Tax Lawyers elect new leadership for 2026-29",
+    "summary": "The Bangladesh Tax Lawyers Association held its 39th general meeting in Dhaka on Friday, announcing a new 31-member executive committee. Romizuddin Ahmed was elected president and Mohammad Mazam Ali Khan as secretary general. Eleven regional vice presidents and eleven deputy secretaries general representing different divisions were also elected."
+   },
+   "bn": {
+    "title": "বাংলাদেশ ট্যাক্স লইয়ার্স ২০২৬-২৯-এর নেতৃত্ব নির্বাচিত",
+    "summary": "বাংলাদেশ ট্যাক্স লইয়ার্স অ্যাসোসিয়েশন শুক্রবার ঢাকায় তার ৩৯তম সাধারণ সভা আয়োজন করে নতুন ৩১-সদস্যের এক্সিকিউটিভ কমিটি ঘোষণা করেছে। রমিজউদ্দিন আহমেদ সভাপতি এবং মো. মাজম আলী খান মহাসচিব নির্বাচিত হয়েছেন। বিভিন্ন বিভাগ থেকে ১১ জন সহসভাপতি এবং ১১ জন উপমহাসচিবও নির্বাচিত হয়েছেন।"
+   }
+  },
+  {
+   "id": "1qpxvdb",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/politics/k2lwom294i",
+   "image": "https://media.prothomalo.com/prothomalo-english/2023-08/b5e07557-94d9-494e-b4ec-41a2add28283/jamaat.webp",
+   "published": "2026-10-09T15:49:04.000Z",
+   "added": "2026-10-09T16:08:20.547Z",
+   "origTitle": "‘Jamaat secretary general owns 700 auto-rickshaws’: Jamaat seeks evidence from DNCC administrator",
+   "en": {
+    "title": "Jamaat denies claim of leader owning 700 auto-rickshaws",
+    "summary": "Dhaka North City Corporation Administrator Shafiqul Islam Khan claimed Jamaat-e-Islami Secretary General Mia Golam Porwar owns 700 auto-rickshaws. Jamaat-e-Islami called the statement fictional and baseless, demanding Khan provide evidence or withdraw and apologize. Khan made the claim while inaugurating a DNCC graffiti program, linking it to recent auto-rickshaw protests."
+   },
+   "bn": {
+    "title": "জামায়াত নেতার ৭০০ অটো-রিকশা মালিকানার দাবি অস্বীকার করেছে",
+    "summary": "ঢাকা উত্তর সিটি কর্পোরেশন অ্যাডমিনিস্ট্রেটর শাফিকুল ইসলাম খান দাবি করেছেন জামায়াত-ই-ইসলামী সেক্রেটারি জেনারেল মিয়া গোলাম পরোয়ার ৭০০ অটো-রিকশা মালিক। জামায়াত-ই-ইসলামী বিবৃতিকে কাল্পনিক এবং ভিত্তিহীন বলে অস্বীকার করেছে এবং প্রমাণ দাবি করেছে। খান সাম্প্রতিক অটো-রিকশা আন্দোলনের সাথে এটি যুক্ত করে এই দাবি করেছেন।"
+   }
+  },
+  {
+   "id": "1kmc99n",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/fbi-classifies-not-finishing-hamburger-as-seditious-activity/",
+   "image": null,
+   "published": "2026-10-09T14:38:22.000Z",
+   "added": "2026-10-09T16:08:20.547Z",
+   "origTitle": "FBI Classifies Not Finishing Hamburger As Seditious Activity",
+   "en": {
+    "title": "FBI now classifies unfinished hamburgers as sedition",
+    "summary": "The Onion reports FBI Director Kash Patel has declared not finishing your hamburger a federal crime. Violators face 20 years in jail and $10,000 fines. Those who remove toppings, eat burger paleo-style, or leave pickle bits are on a watch list. If the burger isn't even a double, deportation is on the table."
+   },
+   "bn": {
+    "title": "FBI বার্গার শেষ না করলে রাষ্ট্রবিরোধী কাজ হিসেবে দেখছে",
+    "summary": "দ্য অনিয়ন রিপোর্ট করছে যে FBI ডিরেক্টর কাশ প্যাটেল বার্গার শেষ না করাকে ফেডারেল অপরাধ ঘোষণা করেছেন। লঙ্ঘনকারীরা ২০ বছরের জেল এবং ১০,০০০ ডলার জরিমানার মুখোমুখি হবে। যারা টপিংস সরায় বা প্যালিও স্টাইলে খায় তারা ওয়াচলিস্টে আছে।"
+   }
+  },
+  {
+   "id": "1b126hy",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "Rest of World",
+   "srcLang": "en",
+   "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "image": "https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13-768x432.jpg",
+   "published": "2026-10-09T10:00:00.000Z",
+   "added": "2026-10-09T16:08:20.547Z",
+   "origTitle": "As U.S. blocks DJI, Insta360 races to win American creators",
+   "en": {
+    "title": "Chinese camera firm Insta360 challenges DJI in U.S.",
+    "summary": "Chinese company Insta360 opened its first U.S. flagship store in New York, betting big on American creators and outdoor sports fans. While DJI dominates the global market with 73% of handheld camera shipments, Insta360 holds 20%. The U.S. is crucial for Insta360, accounting for 30-40% of its revenue, even as Washington increasingly blocks Chinese tech."
+   },
+   "bn": {
+    "title": "চীনা ক্যামেরা কোম্পানি Insta360 আমেরিকায় DJI-র চ্যালেঞ্জ করছে",
+    "summary": "চীনা কোম্পানি Insta360 নিউইয়র্কে তার প্রথম ফ্ল্যাগশিপ স্টোর খুলেছে, আমেরিকান ক্রিয়েটর এবং আউটডোর স্পোর্টস ফ্যানদের উপর দাবি করছে। DJI ৭৩% বাজার শেয়ার নিয়ে আধিপত্য বিস্তার করছে, কিন্তু Insta360 ২০% ধারণ করছে। আমেরিকা Insta360-এর জন্য গুরুত্বপূর্ণ, রেভিনিউর ৩০-৪০% প্রদান করে।"
+   }
+  },
+  {
+   "id": "1277x9s",
+   "section": "bhabna",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
+   "image": "https://images.aeonmedia.co/images/41d8761c-df4f-4ee0-a580-d6bd64594340/essay-un-ward.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-09T10:00:00.000Z",
+   "added": "2026-10-09T16:08:20.547Z",
+   "origTitle": "Barbara Ward’s vision",
+   "en": {
+    "title": "How Barbara Ward shaped Africa's independence",
+    "summary": "In 1957, economist Barbara Ward gave lectures in newly independent Ghana, outlining five ideas that shaped world progress. Ghana's peaceful transition inspired other African colonies to seek independence, weakening European arguments for prolonged rule. By 1960, the 'Year of Africa', many colonies had broken free. Ghana's leader Kwame Nkrumah became a major Cold War player promoting pan-African unity."
+   },
+   "bn": {
+    "title": "বারবারা ওয়ার্ড আফ্রিকার স্বাধীনতার পথ দেখিয়েছিলেন",
+    "summary": "১৯৫৭ সালে অর্থনীতিবিদ বারবারা ওয়ার্ড স্বাধীন ঘানায় লেকচার দেন যা বিশ্ব অগ্রগতির পাঁচটি আইডিয়া ব্যাখ্যা করে। ঘানার শান্তিপূর্ণ রূপান্তর অন্যান্য আফ্রিকান উপনিবেশকে স্বাধীনতার জন্য অনুপ্রাণিত করে। ১৯৬০ সালের মধ্যে অনেক দেশ স্বাধীন হয়ে যায়। নেতা কোয়ামে এনক্রুমাহ প্যান-আফ্রিকান ঐক্য প্রচার করে শীতল যুদ্ধের একটি বড় খেলোয়াড় হন।"
+   }
+  },
+  {
+   "id": "eh7jrt",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/orkut.jpg?resize=1200,800",
+   "published": "2026-10-09T15:56:15.000Z",
+   "added": "2026-10-09T16:07:56.085Z",
+   "origTitle": "Remember Orkut? Its founder wants to bring it back",
+   "en": {
+    "title": "Orkut founder wants to bring back the social network",
+    "summary": "Orkut founder Orkut Büyükkökten is calling for users to help revive the defunct social network, shut down by Google in 2014. He criticised how social media evolved with algorithms and AI-generated content, saying it lost authentic human connection. His new vision focuses on real people and genuine belonging."
+   },
+   "bn": {
+    "title": "অরকুট প্রতিষ্ঠাতা সোশ্যাল নেটওয়ার্ক পুনরুজ্জীবিত করতে চাইছেন",
+    "summary": "অরকুট প্রতিষ্ঠাতক অরকুট বিউকোকটেন সোশ্যাল নেটওয়ার্কটি পুনরায় চালু করতে ব্যবহারকারীদের সাহায্য চাইছেন। গুগল ২০১৪ সালে এটি বন্ধ করেছিল। তিনি বলেন সোশ্যাল মিডিয়া অ্যালগরিদম এবং কৃত্রিম বুদ্ধিমত্তা দ্বারা প্রভাবিত হয়েছে যা প্রকৃত মানুষের সংযোগ হারিয়ে দিয়েছে।"
+   }
+  },
+  {
+   "id": "d0dqzm",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+   "image": "https://i.guim.co.uk/img/media/1af4719571646d49b58a7ed6e715293e288fb0b4/221_146_6359_5087/master/6359.jpg?width=140&quality=85&auto=format&fit=max&s=c3a3342197ea60869e430d51e4329640",
+   "published": "2026-10-09T11:24:10.000Z",
+   "added": "2026-10-09T16:07:56.085Z",
+   "origTitle": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+   "en": {
+    "title": "Judge Navi Pillay wins Nobel Peace Prize for international law work",
+    "summary": "Navi Pillay, South African former UN human rights chief, won the Nobel Peace Prize for her work promoting international law and preventing violence. The Nobel Committee cited her decades defending Mandela, serving on international tribunals, and chairing a UN commission that concluded Israel committed genocidal acts in Gaza."
+   },
+   "bn": {
+    "title": "বিচারপতি নাভি পিল্লাই আন্তর্জাতিক আইন কাজের জন্য নোবেল শান্তি পুরস্কার জিতলেন",
+    "summary": "দক্ষিণ আফ্রিকার প্রাক্তন জাতিসংঘ মানবাধিকার প্রধান নাভি পিল্লাই নোবেল শান্তি পুরস্কার জিতেছেন। তিনি ম্যান্ডেলা রক্ষা করা, আন্তর্জাতিক আদালতে সেবা এবং গাজায় ইসরায়েলের গণহত্যা সংক্রান্ত জাতিসংঘ কমিশনের নেতৃত্ব দেওয়ার জন্য স্বীকৃত।"
+   }
+  },
+  {
+   "id": "hrrouk",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac90f5ad26c-1791561562.jpg?resize=1920%2C1440",
+   "published": "2026-10-09T15:28:10.000Z",
+   "added": "2026-10-09T16:07:56.085Z",
+   "origTitle": "Israeli settler attacks target Palestinian olive harvest in West Bank",
+   "en": {
+    "title": "Israeli settlers attack Palestinian olive harvest in West Bank",
+    "summary": "Israeli settlers carried out at least 19 attacks on Friday targeting Palestinian olive harvests across the West Bank, according to the Palestinian Colonization and Wall Resistance Commission. Attacks included burning and uprooting olive trees, stealing crops, and assaulting farmers. More than 50 olive trees were uprooted in Qusra, and live ammunition was reported during incidents."
+   },
+   "bn": {
+    "title": "ইসরায়েলি বসতি স্থাপনকারীরা পশ্চিম তীরে ফিলিস্তিনি জলপাই ফসলের ওপর হামলা করেছে",
+    "summary": "ইসরায়েলি বসতি স্থাপনকারীরা শুক্রবার পশ্চিম তীরে অন্তত ১৯টি হামলা করেছেন। তারা জলপাই গাছ পুড়িয়ে দিয়েছেন, শিকড়সহ তুলে ফেলেছেন এবং কৃষকদের আক্রমণ করেছেন। কুসরায় ৫০টিরও বেশি জলপাই গাছ উৎখাত করা হয়েছে।"
+   }
+  },
+  {
+   "id": "ax1ip7",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg",
+   "published": "2026-10-09T14:00:47.000Z",
+   "added": "2026-10-09T16:07:56.085Z",
+   "origTitle": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+   "en": {
+    "title": "Navi Pillay awarded 2026 Nobel Peace Prize for international law",
+    "summary": "South African judge Navi Pillay, 85, won the 2026 Nobel Peace Prize for promoting peace and international law. The Norwegian Nobel Committee recognised her decades-long work ensuring prosecution of war crimes, crimes against humanity, and genocide. She becomes South Africa's fifth Peace Prize winner, following Mandela and Archbishop Tutu."
+   },
+   "bn": {
+    "title": "আন্তর্জাতিক আইনের জন্য নাভি পিল্লাই নোবেল শান্তি পুরস্কার পেলেন",
+    "summary": "দক্ষিণ আফ্রিকার বিচারপতি নাভি পিল্লাই শান্তি ও আন্তর্জাতিক আইন প্রসারের জন্য নোবেল শান্তি পুরস্কার পেয়েছেন। নরওয়েজিয়ান নোবেল কমিটি তার দশকব্যাপী কাজের স্বীকৃতি দিয়েছে। তিনি দক্ষিণ আফ্রিকার পঞ্চম পুরস্কার বিজয়ী, যা ম্যান্ডেলা এবং আর্চবিশপ টুটুর পরে।"
+   }
+  },
+  {
+   "id": "anr34l",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/was-trumps-viral-suit-made-bangladesh-1567766",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/09/aminul_haque_15.png",
+   "published": "2026-10-09T15:55:00.000Z",
+   "added": "2026-10-09T16:07:56.085Z",
+   "origTitle": "Was Trump's Viral Suit Made in Bangladesh?",
+   "en": {
+    "title": "Trump's suit made in Bangladesh? Factory confirms it",
+    "summary": "President Trump's navy-blue suit, worn at a rally in Nebraska on October 5, was made by Bangladesh garment factory Universal Menswear Ltd in Narayanganj. CNN reported the suit was likely made in Bangladesh or China. The factory's managing director called it a proud moment for Bangladeshi workers and the country's apparel industry."
+   },
+   "bn": {
+    "title": "ট্রাম্পের স্যুট বাংলাদেশে তৈরি? কারখানা নিশ্চিত করেছে",
+    "summary": "ট্রাম্প অক্টোবরে নেব্রাস্কার একটি র‍্যালিতে যে নীল রঙের স্যুট পরেছিলেন তা বাংলাদেশের ইউনিভার্সাল মেনসওয়্যার লিমিটেড কারখানায় তৈরি। সিএনএন রিপোর্ট করেছিল স্যুটটি বাংলাদেশ বা চীনে তৈরি হয়েছে। কারখানা পরিচালক বাংলাদেশী কর্মী এবং দেশের পোশাক শিল্পের জন্য এটিকে গর্বের মুহূর্ত বলেছেন।"
+   }
+  },
+  {
+   "id": "cnkos8",
+   "section": "news",
+   "cat": "politics",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/foreign/asia/973442/%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%AF%E0%A6%BC",
+   "image": null,
+   "published": "2026-10-09T16:04:36.000Z",
+   "added": "2026-10-09T16:07:56.085Z",
+   "origTitle": "নন্দীগ্রাম ও রেজিনগরে উপনির্বাচনে বিজেপির জয়",
+   "en": {
+    "title": "BJP sweeps West Bengal bypolls in Nandigram and Reginganj",
+    "summary": "The BJP won two major West Bengal bypolls on Friday. In Nandigram, BJP candidate Hasi Rani Rath defeated her nearest rival by over 100,000 votes. Rath is the mother of Chandranath Rath, who was killed in firing in May. In Reginganj, BJP candidate Shankaraabh Sarkar won by over 75,000 votes."
+   },
+   "bn": {
+    "title": "পশ্চিমবঙ্গে নন্দীগ্রাম ও রেজিনগরে বিজেপির বড় জয়",
+    "summary": "শুক্রবার পশ্চিমবঙ্গের দুটি উপনির্বাচনে বিজেপি বড় জয় পেয়েছে। নন্দীগ্রামে বিজেপি প্রার্থী হাসি রানি রাথ এক লাখের বেশি ভোটে জিতেছেন। রেজিনগরে বিজেপি প্রার্থী শঙ্খরাভ সরকার ৭৫ হাজারের বেশি ভোটে বিজয়ী হন।"
+   }
+  },
+  {
+   "id": "16rwqha",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cvkgknz82xelo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg",
+   "published": "2026-10-09T13:15:21.000Z",
+   "added": "2026-10-09T16:07:56.085Z",
+   "origTitle": "নোবেল শান্তি পুরস্কার পেলেন জাতিসংঘের সাবেক মানবাধিকার প্রধান নাভি পিল্লাই",
+   "en": {
+    "title": "UN human rights chief Navi Pillay wins Nobel Peace Prize",
+    "summary": "South African judge Navi Pillay, 85, has won the 2026 Nobel Peace Prize for her decades of work on international law and human rights. The Nobel committee recognised her efforts ensuring war crimes, crimes against humanity, and genocide are prosecuted. Pillay previously defended anti-apartheid activists in South Africa and investigated violations in Rwanda, Myanmar, and Gaza. She becomes South Africa's fifth Nobel Peace Prize winner."
+   },
+   "bn": {
+    "title": "জাতিসংঘের মানবাধিকার প্রধান নাভি পিল্লাই নোবেল শান্তি পুরস্কার জিতলেন",
+    "summary": "দক্ষিণ আফ্রিকার বিচারপতি নাভি পিল্লাই ২০২৬ সালের নোবেল শান্তি পুরস্কার পেয়েছেন। তিনি আন্তর্জাতিক আইন এবং মানবাধিকার রক্ষায় দশকের কাজের জন্য এই স্বীকৃতি পেলেন। তার কাজে যুদ্ধাপরাধ, মানবতাবিরোধী অপরাধ এবং গণহত্যার বিচার নিশ্চিত করা রয়েছে। তিনি দক্ষিণ আফ্রিকার পঞ্চম নোবেল শান্তি পুরস্কার বিজয়ী হলেন।"
+   }
+  },
   {
    "id": "194m5fe",
    "section": "news",
@@ -2177,160 +2441,6 @@
    "bn": {
     "title": "নির্বাচন কমিশনারের বিরুদ্ধে প্রতিবাদে গান্ধী কাজিনরা গ্রেফতার",
     "summary": "মঙ্গলবার নয়াদিল্লিতে নির্বাচন কমিশনার জ্ঞানেশ কুমারের পদত্যাগের দাবিতে বিক্ষোভে রাহুল গান্ধী এবং প্রিয়াঙ্কা গান্ধী গ্রেফতার হয়েছেন। বিরোধী জোট ইন্ডিয়া ভোটার তালিকা সংশোধনও দাবি করেছে। দিল্লি পুলিশ আকাশবাণী ভবন চত্বর থেকে প্রদর্শনকালে কয়েকজন শীর্ষ রাজনৈতিক নেতাকে আটক করেছে।"
-   }
-  },
-  {
-   "id": "blkn25",
-   "section": "bhabna",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/06/philosopher-among-new-ai2050-senior-fellows/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/10/Danks-David.png",
-   "published": "2026-10-06T09:30:00.000Z",
-   "added": "2026-10-06T10:07:45.398Z",
-   "origTitle": "Philosopher Among New AI2050 Senior Fellows",
-   "en": {
-    "title": "Philosopher wins $1M to study how humans and AI shape each other",
-    "summary": "David Danks, a philosophy professor at University of Virginia, got a three-year fellowship from Schmidt Sciences to research how human values and AI values will change each other over time. The $1 million project tackles a real problem: AI systems learn from us, and we learn from them, so both sides are constantly shifting. Understanding this coevolution matters for building AI that stays beneficial in the future, not just today."
-   },
-   "bn": {
-    "title": "দেড় কোটি টাকা পেলেন দার্শনিক, মানুষ আর এআই কীভাবে একে অপরকে বদলায় তা নিয়ে গবেষণায়",
-    "summary": "ভার্জিনিয়া বিশ্ববিদ্যালয়ের অধ্যাপক ডেভিড ডাঙ্কস তিন বছরের ফেলোশিপ পেয়েছেন, যেখানে তিনি দেখাবেন কীভাবে মানুষের মূল্যবোধ আর এআইর মূল্যবোধ একে অপরকে পরিবর্তন করে। এআই সিস্টেম আমাদের থেকে শিখছে, আমরাও তাদের থেকে শিখছি—দুটোই ক্রমাগত বদলাচ্ছে। এই সম্পর্ক বুঝা খুবই গুরুত্বপূর্ণ যাতে এআই ভবিষ্যতেও মানুষের জন্য ভালো থাকে।"
-   }
-  },
-  {
-   "id": "14kcrx9",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/guides/a-psychological-guide-to-climbing-out-of-debt",
-   "image": "https://images.aeonmedia.co/images/8e55a13e-1426-425d-b027-effc86a923fd/debt-nn11433187.jpg?top=1094&left=0&cropWidth=4992&cropHeight=2808&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-06T10:00:00.000Z",
-   "added": "2026-10-06T10:07:39.064Z",
-   "origTitle": "A psychological guide to climbing out of debt",
-   "en": {
-    "title": "The emotional side of getting out of debt",
-    "summary": "Debt is more than money—it carries shame and fear that stops people from seeking help. Many avoid checking their bank app or opening letters because facing the numbers feels impossible. But ignoring debt makes it worse emotionally and financially. The real solution involves addressing both the practical money problem and the fear underneath."
-   },
-   "bn": {
-    "title": "ঋণ থেকে বেরিয়ে আসার আবেগপূর্ণ দিক",
-    "summary": "ঋণ শুধু টাকা নয়—এটি লজ্জা এবং ভয় নিয়ে আসে যা মানুষকে সাহায্য চাইতে বাধা দেয়। অনেকে ব্যাংক অ্যাপ চেক করতে বা চিঠি খুলতে এড়িয়ে চলে কারণ সংখ্যার মুখোমুখি হওয়া অসম্ভব মনে হয়। কিন্তু ঋণ উপেক্ষা করলে এটি আবেগপূর্ণ এবং আর্থিক উভয় দিক থেকেই খারাপ হয়। প্রকৃত সমাধান ব্যবহারিক এবং মানসিক দুই সমস্যা মোকাবেলা করে।"
-   }
-  },
-  {
-   "id": "15r93od",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
-   "image": "https://images.aeonmedia.co/images/12748f11-e0ce-47d8-8b35-d2d1018380bc/essay-2016-10-10t000000z_1858079971_d1aeugejeiaa_rtrmadp_3_health-cancer-immunotherapy.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-06T10:00:00.000Z",
-   "added": "2026-10-06T10:07:39.064Z",
-   "origTitle": "How to assemble science",
-   "en": {
-    "title": "Why conflicting science news shouldn't scare you",
-    "summary": "Science headlines often seem to contradict each other—coffee is good one week, bad the next. The real problem is that individual studies get reported in isolation rather than as part of the bigger picture. In 2025, researchers published 19,000 studies daily. A better approach is weighing new findings against all existing evidence instead of treating each study as separate truth."
-   },
-   "bn": {
-    "title": "বিজ্ঞান খবর বিরোধিতা আপনাকে ভয় পাইয়ে দেবে না",
-    "summary": "বিজ্ঞান শিরোনাম প্রায়শই একে অপরের সাথে সাংঘর্ষিক মনে হয়—এক সপ্তাহে কফি ভালো, পরের সপ্তাহে খারাপ। সমস্যা হল স্বতন্ত্র গবেষণা বড় চিত্রের অংশ হিসাবে নয় বরং আলাদাভাবে রিপোর্ট করা হয়। ২০২৫ সালে প্রতিদিন ১৯,০০০ গবেষণা প্রকাশিত হয়েছে। প্রতিটি গবেষণাকে আলাদা সত্য হিসাবে বিবেচনা না করে সমস্ত বিদ্যমান প্রমাণের বিরুদ্ধে ওজন করা ভালো।"
-   }
-  },
-  {
-   "id": "1qokw2l",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-   "image": "https://i.guim.co.uk/img/media/7ede8ff970717866698f77b694a00dd375607d4a/447_0_4339_3473/master/4339.jpg?width=140&quality=85&auto=format&fit=max&s=abb6f70235fa8ea2a180b012987ef78d",
-   "published": "2026-10-06T09:35:12.000Z",
-   "added": "2026-10-06T10:07:39.064Z",
-   "origTitle": "Kenya confirms first Ebola case and says patient has died",
-   "en": {
-    "title": "Kenya confirms first Ebola death; 28 contacts identified",
-    "summary": "Kenya has recorded its first-ever confirmed Ebola case in a Kenyan citizen who arrived from the Democratic Republic of Congo on Saturday. The patient has died, and 28 contacts including family and health workers have been identified. The DRC is battling its largest outbreak with over 8,000 cases and 4,000 deaths since May."
-   },
-   "bn": {
-    "title": "কেনিয়ায় প্রথম ইবোলা মৃত্যু; ২৮ জন সংযোগ চিহ্নিত",
-    "summary": "কেনিয়া তার প্রথম নিশ্চিত ইবোলা কেস নিবন্ধন করেছে একজন কেনিয়ান নাগরিকের, যিনি কঙ্গো গণতান্ত্রিক প্রজাতন্ত্র থেকে শনিবার এসেছিলেন। রোগী মারা গেছেন এবং পরিবার ও স্বাস্থ্যকর্মী সহ ২৮ জন সংযোগ চিহ্নিত হয়েছে। ডিসি-তে মে থেকে ৮,০০০ এর বেশি কেস এবং ৪,০০০ মৃত্যু হয়েছে।"
-   }
-  },
-  {
-   "id": "asqabx",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Rest of World",
-   "srcLang": "en",
-   "url": "https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "image": "https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final-768x432.jpg",
-   "published": "2026-10-06T10:00:00.000Z",
-   "added": "2026-10-06T10:07:39.064Z",
-   "origTitle": "Not just AI. China is building technologies that challenge U.S. dominance",
-   "en": {
-    "title": "China overtakes US in critical technology research",
-    "summary": "China now leads research in nearly 90% of crucial technologies, from AI to nuclear energy and synthetic biology, according to a December 2025 tracker. Chinese investors spent nearly $1 trillion on clean energy in 2024, making 70% of global EVs and controlling 85% of solar manufacturing. This reverses a trend from 25 years ago when US scientists led in over 90% of technologies."
-   },
-   "bn": {
-    "title": "চীন গুরুত্বপূর্ণ প্রযুক্তিতে যুক্তরাষ্ট্রকে ছাড়িয়ে গেছে",
-    "summary": "ডিসেম্বর ২০২৫ ট্র্যাকার অনুযায়ী চীন এআই থেকে পরমাণু শক্তি এবং সিন্থেটিক জীববিজ্ঞান পর্যন্ত গুরুত্বপূর্ণ প্রযুক্তির প্রায় ৯০ শতাংশে গবেষণায় নেতৃত্ব দিচ্ছে। চীনা বিনিয়োগকারীরা ২০২৪ সালে পরিচ্ছন্ন শক্তিতে প্রায় ১ ট্রিলিয়ন ডলার খরচ করেছেন এবং এখন বৈশ্বিক ইভি এর ৭০ শতাংশ তৈরি করছে।"
-   }
-  },
-  {
-   "id": "15yl67i",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac4c151bc-1791279441.jpg?resize=1920%2C1440",
-   "published": "2026-10-06T09:39:03.000Z",
-   "added": "2026-10-06T10:07:39.064Z",
-   "origTitle": "India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility",
-   "en": {
-    "title": "India's protest wave challenges Modi's political dominance",
-    "summary": "Thousands of Indians are protesting across the country against various issues. Supporters of the Cockroach Janta Party are demanding the resignation of Chief Election Commissioner Gyanesh Kumar over voter roll manipulation claims. Young women are also protesting in Delhi over safety after a girl was allegedly gang-raped, while IIT Bombay parents are demanding arrests over caste-based harassment."
-   },
-   "bn": {
-    "title": "ভারতে প্রতিবাদ ঢেউ মোদীর প্রভাব চ্যালেঞ্জ করছে",
-    "summary": "ভারতজুড়ে হাজার হাজার মানুষ বিভিন্ন বিষয়ে প্রতিবাদ করছেন। ককরোচ জান্তা পার্টির সমর্থকরা নির্বাচন কমিশনার গ্যানেশ কুমারের পদত্যাগ দাবি করছেন ভোটার তালিকা ম্যানিপুলেশনের অভিযোগে। দিল্লিতে নারী নিরাপত্তা নিয়ে মহিলারা প্রতিবাদ করছেন এবং আইআইটি বম্বে-তে পিতামাতারা জাতিভিত্তিক হয়রানির অভিযোগে গ্রেফতারের দাবি করছেন।"
-   }
-  },
-  {
-   "id": "1ulsgw7",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.co.uk/bengali/live/c370p45wkgqgt?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4825/live/7fc2da50-c165-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-06T10:07:39.064Z",
-   "added": "2026-10-06T10:07:39.064Z",
-   "origTitle": "ঢাকার সিএমএম আদালত থেকে এক আসামি পালিয়ে গেছে",
-   "en": {
-    "title": "Accused escapes from Dhaka court",
-    "summary": "An accused named Shariful Islam Shafiq fled from Dhaka's Chief Metropolitan Magistrate Court. A prosecution officer from Dhaka Metropolitan Police confirmed the escape. Meanwhile, India's High Commissioner to Bangladesh met Prime Minister Modi in Delhi on Tuesday to discuss bilateral issues including a possible visit by PM Tarek Rahman and the extradition of former PM Sheikh Hasina."
-   },
-   "bn": {
-    "title": "ঢাকা আদালত থেকে আসামি পালিয়ে গেছে",
-    "summary": "শরিফুল ইসলাম শফিক নামে এক আসামি ঢাকার চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট আদালত থেকে পালিয়ে গেছেন। ঢাকা মেট্রোপলিটন পুলিশের একজন কর্মকর্তা এটি নিশ্চিত করেছেন। এদিকে ভারতের হাইকমিশনার দীনেশ ত্রিবেদী মঙ্গলবার দিল্লিতে প্রধানমন্ত্রী নরেন্দ্র মোদীর সাথে দেখা করেছেন তারেক রহমানের ভারত সফর এবং শেখ হাসিনার প্রত্যর্পণ সহ দ্বিপাক্ষিক বিষয় নিয়ে।"
    }
   }
  ]

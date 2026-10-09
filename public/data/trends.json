@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-10-09T08:55:20.731Z",
+ "updatedAt": "2026-10-09T16:08:36.141Z",
  "burning": [
   {
-   "id": "1qq8lel",
+   "id": "8q3tsk",
    "heat": 5,
    "why": {
-    "en": "Major US execution news, high international attention.",
-    "bn": "আমেরিকার বড় মৃত্যুদণ্ড সংবাদ, আন্তর্জাতিক মনোযোগ বেশি।"
+    "en": "DP World Chattogram terminal deal has massive Google search spike (1000+) and sparked protests across outlets.",
+    "bn": "ডিপি ওয়ার্ল্ড চট্টগ্রাম টার্মিনাল ডিলে গুগলে ১০০০+ সার্চ এবং সারাদেশে প্রতিবাদ হয়েছে।"
    },
    "rank": 1
   },
@@ -14,8 +14,8 @@
    "id": "72xt1x",
    "heat": 5,
    "why": {
-    "en": "Bangladesh nuclear milestone, major infrastructure story.",
-    "bn": "বাংলাদেশের পারমাণবিক মাইলফলক, বড় অবকাঠামো সংবাদ।"
+    "en": "Rooppur nuclear plant first unit approval is major infrastructure news with December production target announced.",
+    "bn": "রূপপুর পারমাণবিক প্রকল্পের প্রথম ইউনিট অনুমোদন বড় অবকাঠামো খবর, ডিসেম্বরে উৎপাদন লক্ষ্য।"
    },
    "rank": 2
   },
@@ -23,93 +23,93 @@
    "id": "14i8qi7",
    "heat": 4,
    "why": {
-    "en": "Workplace accident with fatalities, ongoing safety concern.",
-    "bn": "কর্মক্ষেত্রে মৃত্যুহার সহ দুর্ঘটনা, নিরাপত্তা সমস্যা।"
+    "en": "Kishoreganj brick kiln wall collapse kills two workers—serious industrial accident covered by multiple outlets.",
+    "bn": "কিশোরগঞ্জে ইট ভাটার দেয়াল ধসে দুই শ্রমিক নিহত, বহুটি মিডিয়া কভার করেছে।"
    },
    "rank": 3
   },
   {
-   "id": "8q3tsk",
+   "id": "194m5fe",
    "heat": 4,
    "why": {
-    "en": "Chattogram port deal despite protests, contested policy.",
-    "bn": "প্রতিবাদ সত্ত্বেও চট্টগ্রাম বন্দর চুক্তি, বিতর্কিত নীতি।"
+    "en": "Chattogram's first-ever cycle track is major urban transport infrastructure for Bangladesh.",
+    "bn": "চট্টগ্রামের প্রথম সাইকেল ট্র্যাক বাংলাদেশের জন্য বড় শহুরে পরিবহন প্রকল্প।"
    },
    "rank": 4
   },
   {
-   "id": "1dnqpie",
-   "heat": 3,
+   "id": "ax1ip7",
+   "heat": 4,
    "why": {
-    "en": "Extortion gang activity in Dhaka, crime story.",
-    "bn": "ঢাকায় আর্থিক জোরজবরদস্তি, অপরাধ সংবাদ।"
+    "en": "Navi Pillay's Nobel Peace Prize covered by multiple international outlets; major global recognition story.",
+    "bn": "নভি পিলে নোবেল শান্তি পুরস্কার একাধিক আন্তর্জাতিক আউটলেট কভার করেছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1679pvd",
-   "tag": "#CricketCalendar",
+   "id": "8q3tsk",
+   "tag": "#DP WorldChattogram",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "PSL and IPL clash again",
-    "text": "Pakistan and India cricket leagues set for another calendar collision in 2027. Cricket fans are already buzzing about scheduling chaos."
+    "title": "DP World terminal deal sparks uproar",
+    "text": "The Chattogram container terminal contract to DP World has triggered massive public search interest and street protests. The controversy dominated headlines as people nationwide react to the port agreement."
    },
    "bn": {
-    "title": "পিএসএল-আইপিএল সংঘর্ষ আবার",
-    "text": "২০২৭ সালে পাকিস্তান ও ভারতের ক্রিকেট লিগ ক্যালেন্ডারে আবার মিলবে। ভক্তরা ইতিমধ্যে সময়সূচীর বিশৃঙ্খলা নিয়ে কথা বলছেন।"
+    "title": "ডিপি ওয়ার্ল্ড ডিল নিয়ে সারাদেশে আন্দোলন",
+    "text": "চট্টগ্রামের কন্টেইনার টার্মিনাল ডিলে গুগলে ১০০০+ সার্চ এবং রাস্তায় প্রতিবাদ হয়েছে। দেশজুড়ে মানুষ এই চুক্তি নিয়ে কথা বলছে।"
    }
   },
   {
-   "id": "yvksir",
-   "tag": "#CashmiriFilmmaker",
+   "id": "ax1ip7",
+   "tag": "#NobelPeacePrize",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Kashmiri filmmaker freed from US",
-    "text": "Arfat Sheikh, a Kashmiri filmmaker, has been released from US custody. The story has drawn attention to media freedom concerns."
+    "title": "UN human rights chief wins Nobel",
+    "text": "Judge Navi Pillay has been awarded the 2026 Nobel Peace Prize for her decades of work in international law and human rights. The recognition is being covered globally."
    },
    "bn": {
-    "title": "কাশ্মীরি চলচ্চিত্রকার মুক্ত",
-    "text": "আরফাত শেখ, কাশ্মীরি চলচ্চিত্রকার, আমেরিকার হেফাজত থেকে মুক্তি পেয়েছেন। গল্পটি মিডিয়া স্বাধীনতার উদ্বেগ তুলে ধরেছে।"
+    "title": "আন্তর্জাতিক আইনবিদ নোবেল জিতেছেন",
+    "text": "জাতিসংঘের মানবাধিকার প্রধান নভি পিলে আন্তর্জাতিক আইন ও মানবাধিকারে কাজের জন্য ২০২৬ নোবেল শান্তি পুরস্কার পেয়েছেন।"
    }
   },
   {
-   "id": "194m5fe",
-   "tag": "#CycleTrackChattogram",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Bangladesh's first cycle track opens",
-    "text": "Chattogram now has Bangladesh's first-ever dedicated cycle track. Young people excited about eco-friendly transport infrastructure."
-   },
-   "bn": {
-    "title": "বাংলাদেশের প্রথম সাইকেল ট্র্যাক",
-    "text": "চট্টগ্রামে বাংলাদেশের প্রথম ডেডিকেটেড সাইকেল ট্র্যাক খোলা হয়েছে। তরুণরা পরিবেশবান্ধব পরিবহন অবকাঠামোতে উত্সাহী।"
-   }
-  },
-  {
-   "id": "3969hy",
-   "tag": "#LPGCrisis",
+   "id": "anr34l",
+   "tag": "#BangladeshMade",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "LPG shortage bites hard",
-    "text": "Despite price hikes, LPG shortages continue with skyrocketing market costs. Households and businesses struggling to cope."
+    "title": "Trump's suit made in Bangladesh",
+    "text": "A factory in Bangladesh has confirmed it produced a suit worn by Donald Trump, putting a spotlight on the country's apparel manufacturing industry."
    },
    "bn": {
-    "title": "এলপিজি সংকট চলছে",
-    "text": "দাম বৃদ্ধি সত্ত্বেও এলপিজি ঘাটতি অব্যাহত, বাজার দাম আকাশচুম্বী। পরিবার ও ব্যবসা চরমভাবে প্রভাবিত।"
+    "title": "ট্রাম্পের স্যুট বাংলাদেশে বানানো",
+    "text": "বাংলাদেশের একটি ফ্যাক্টরি ট্রাম্পের স্যুট তৈরি করেছে, যা দেশের পোশাক শিল্পকে আন্তর্জাতিক পর্যায়ে তুলে ধরেছে।"
+   }
+  },
+  {
+   "id": "1jtgz0i",
+   "tag": "#NanaPatekar",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Actor Nana Patekar passes away",
+    "text": "Indian actor Nana Patekar has died following cardiac arrest. The Bollywood veteran's death has been widely reported across news outlets."
+   },
+   "bn": {
+    "title": "অভিনেতা নানা পাটেকর মারা গেছেন",
+    "text": "ভারতীয় অভিনেতা নানা পাটেকর হৃদরোগের আক্রমণে মারা গেছেন। বলিউড তারকার মৃত্যু সংবাদমাধ্যমে ব্যাপক কভারেজ পেয়েছে।"
    }
   }
  ],
