@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-08T22:00:52.621Z",
+ "updatedAt": "2026-10-09T02:03:05.621Z",
  "items": [
+  {
+   "id": "1jtgz0i",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Daily Star",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZE9pQnZvQlM5RmhldS05eEdwRl9VVXZzZFJfQkxvSUJsNUhLbjA5NGZleWI0RF8tSmhzeGFDZ2hIVlMzLV9EeXBXbWdzb0hiSUpGUkVSMWlPRUt4Y1RUaWlDNU5oZkNMQXlBVGVEREhmNmVNSzd5Sm9KcjNHU2tzOTRmNFhMNVg0TmxHaQ?oc=5",
+   "image": null,
+   "published": "2026-10-08T12:02:12.000Z",
+   "added": "2026-10-09T02:03:05.620Z",
+   "origTitle": "Nana Patekar no more",
+   "en": {
+    "title": "Actor Nana Patekar passes away",
+    "summary": "Indian actor Nana Patekar has passed away. The veteran performer had a long career spanning Hindi and Marathi cinema. He was known for his roles in numerous films over the decades."
+   },
+   "bn": {
+    "title": "অভিনেতা নানা পাটেকর আর নেই",
+    "summary": "ভারতীয় অভিনেতা নানা পাটেকর মৃত্যুবরণ করেছেন। তিনি হিন্দি এবং মারাঠি চলচ্চিত্রে একটি দীর্ঘ ক্যারিয়ার তৈরি করেছিলেন। তার অভিনয় অনেক প্রজন্মের দর্শকদের মুগ্ধ করেছে।"
+   }
+  },
+  {
+   "id": "72xt1x",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02QjhjYnMxRVVPeUt4eXdNMF9LZFI2YlBETVpOcnpYQzFvTy1lT2duaWtvN2ZBenppQ2F5b0FTRDQ4eVlLdG5ZZzhpTExCWnlvMXdqS0lMY0p3QnNxMk1oZ3BXYXRfSzQ?oc=5",
+   "image": null,
+   "published": "2026-10-08T14:17:00.000Z",
+   "added": "2026-10-09T02:03:05.620Z",
+   "origTitle": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের প্রথম ইউনিট অনুমোদন, ডিসেম্বরে উৎপাদনের আশা",
+   "en": {
+    "title": "Rooppur nuclear plant first unit approved, December production target",
+    "summary": "Bangladesh has approved the first unit of the Rooppur Nuclear Power Plant. The government is aiming for the plant to begin electricity production in December. This marks a major step forward in the country's energy infrastructure development."
+   },
+   "bn": {
+    "title": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের প্রথম ইউনিট অনুমোদিত",
+    "summary": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের প্রথম ইউনিট অনুমোদন পেয়েছে। ডিসেম্বরে এটি বিদ্যুৎ উৎপাদন শুরু করার লক্ষ্য রয়েছে। এটি দেশের শক্তি অবকাঠামোর জন্য একটি বড় মাইলফলক।"
+   }
+  },
+  {
+   "id": "10n2btg",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80UXQtQWktSGZWUnV5NTc1NDRZTExOV0kydS10NkxWSkFQSUhHX3hHV2l0R1d2Qk1wUDVBWmVQbGs2WnNXX0k0a2EtT0VidkdMWEE3UDdoSW9pVENPR1VYelVJbFlIYU9V0gF2QVVfeXFMT0FtcHp0RWhFdHNnN1JGS1NsS2N0X2RpVGd0WUJRMlMwdURzSjJPekR4NmgyUVQ3WXZzNjNnZXJiMWN4SnI1dmtHQnV6bE1nNHZ0YUFXclpfdmdITWVsNm1LUFNmWXRiM250bWNDYkotSVVyeGF0dw?oc=5",
+   "image": null,
+   "published": "2026-10-08T02:41:59.000Z",
+   "added": "2026-10-09T02:03:05.620Z",
+   "origTitle": "Nana Patekar dies after cardiac arrest at residence",
+   "en": {
+    "title": "Actor Nana Patekar dies after cardiac arrest",
+    "summary": "Indian actor Nana Patekar has died following a cardiac arrest at his residence. The veteran actor appeared in numerous Hindi and Marathi films over his career. Details about the exact circumstances remain limited at this time."
+   },
+   "bn": {
+    "title": "অভিনেতা নানা পাটেকর হৃদযন্ত্রের ক্রিয়া বন্ধে মৃত্যু",
+    "summary": "ভারতীয় অভিনেতা নানা পাটেকর তার বাসস্থানে হৃদযন্ত্রের ক্রিয়া বন্ধ হয়ে মৃত্যুবরণ করেছেন। তিনি হিন্দি এবং মারাঠি চলচ্চিত্রে অসংখ্য ভূমিকা পালন করেছিলেন। এখন পর্যন্ত বিস্তারিত তথ্য জানা যায়নি।"
+   }
+  },
+  {
+   "id": "3969hy",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/0snm2ubgar",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-05/t75e1g7b/LPG.jpg",
+   "published": "2026-10-09T01:44:34.000Z",
+   "added": "2026-10-09T02:02:55.454Z",
+   "origTitle": "বাজারে এলপিজির সংকট কাটেনি, দামও বাড়তি",
+   "en": {
+    "title": "LPG shortage continues despite price hike, costs soar in market",
+    "summary": "Bangladesh's LPG shortage persists even after price increases in October. Only six companies supply regularly and they lack adequate stock. While the energy regulator set the maximum retail price for a 12kg cylinder at 1,837 taka, market prices range from 2,300 to 2,500 taka. Distributors say transportation, licensing, and operating costs make regulated prices unsustainable."
+   },
+   "bn": {
+    "title": "এলপিজি সংকট থাকছে, দাম বাড়ছে বাজারে",
+    "summary": "অক্টোবরে দাম বৃদ্ধির পর ও বাংলাদেশে এলপিজি সংকট চলছে। মাত্র ছয়টি কোম্পানি নিয়মিত সরবরাহ করে এবং তাদের কাছে পর্যাপ্ত স্টক নেই। শক্তি নিয়ন্ত্রক ১২ কেজি সিলিন্ডারের সর্বোচ্চ খুচরা মূল্য ১,৮৩৭ টাকায় নির্ধারণ করলেও বাজারে দাম ২,৩০০ থেকে ২,৫০০ টাকা। পরিবেশকরা বলছে পরিবহন এবং অপারেটিং খরচ নির্ধারিত দামকে অলাভজনক করে তুলেছে।"
+   }
+  },
+  {
+   "id": "11n1ufv",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac82ed06ac5-1791504080.jpg?resize=1920%2C1440",
+   "published": "2026-10-09T01:15:49.000Z",
+   "added": "2026-10-09T02:02:55.454Z",
+   "origTitle": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
+   "en": {
+    "title": "Spain protests after death of 87-year-old eviction symbol Maricarmen",
+    "summary": "Thousands protested outside Spain's parliament after Maria del Carmen Abascal died following her eviction from her Madrid home on September 23. The 87-year-old, who had lived in the house for 70 years, was hospitalized for severe anxiety and exhaustion. Though she reached a deal to return home before her death, no cause of death has been announced."
+   },
+   "bn": {
+    "title": "এক্সিভিশন প্রতীক ৮৭ বছরের মারিয়াকারমেনের মৃত্যুতে স্পেনে প্রতিবাদ",
+    "summary": "মারিয়া দেল কারমেন আবাস্কালের মৃত্যুর পর হাজার হাজার মানুষ স্পেনের পার্লামেন্টের বাইরে প্রতিবাদ করেছে। ৮৭ বছর বয়সী মহিলা ম্যাড্রিডের তার বাড়ি থেকে ২৩ সেপ্টেম্বর বেদখল হওয়ার পরে গুরুতর উদ্বেগ এবং ক্লান্তিতে ভর্তি হয়েছিলেন। যদিও তিনি বাড়িতে ফিরে যাওয়ার জন্য একটি চুক্তিতে পৌঁছেছিলেন, তার মৃত্যুর কারণ ঘোষণা করা হয়নি।"
+   }
+  },
+  {
+   "id": "vfnkp3",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299252091.jpg?w=1024",
+   "published": "2026-10-08T22:33:59.000Z",
+   "added": "2026-10-09T02:02:55.454Z",
+   "origTitle": "President Trump awards Big Tech donors with nation’s highest science prizes",
+   "en": {
+    "title": "Trump awards Big Tech leaders with nation's highest science prizes",
+    "summary": "President Trump awarded the National Medal of Science to Elon Musk, Jensen Huang, Sergey Brin, and Lisa Su at the Golden Age of American Innovation Summit. Michael Dell and Satya Nadella received the National Medal of Technology and Innovation. The honorees have donated nearly $6 billion to Trump-related efforts and causes."
+   },
+   "bn": {
+    "title": "ট্রাম্প বিগ টেক নেতাদের দিলেন বিজ্ঞান পুরস্কার",
+    "summary": "রাষ্ট্রপতি ট্রাম্প গোল্ডেন এজ অফ আমেরিকান ইনোভেশন সামিটে এলন মাস্ক, জেনসেন হুয়াং, সার্গেই ব্রিন এবং লিসা সু-কে জাতীয় বিজ্ঞান পদক দিয়েছেন। মাইকেল ডেল এবং সত্য নাডেলা জাতীয় প্রযুক্তি ও উদ্ভাবন পদক পেয়েছেন। এই পুরস্কার বিজয়ীরা ট্রাম্প-সম্পর্কিত উদ্যোগে প্রায় ৬ বিলিয়ন ডলার দান করেছেন।"
+   }
+  },
+  {
+   "id": "onrbc6",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg",
+   "published": "2026-10-08T23:11:10.000Z",
+   "added": "2026-10-09T02:02:55.454Z",
+   "origTitle": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+   "en": {
+    "title": "Former Ukrainian officer says Monaco bomb was ordered by HUR",
+    "summary": "Vitalii Zhykovych, a former Ukrainian security officer linked to a June bombing in Monaco that injured a millionaire and his family, claims the operation was ordered by senior HUR military intelligence members. He says he was a freelancer for Ukraine's SBU and that his agent Anastasia Berezovska planted the bomb. Berezovska was found dead weeks later; Zhykovych denies killing her."
+   },
+   "bn": {
+    "title": "মোনাকো বোমা হামলা এইচইউআর-এর অর্ডার বলে দাবি",
+    "summary": "ইউক্রেনীয় নিরাপত্তা অফিসার ভিটালি ঝিকোভিচ দাবি করছেন যে জুনে মোনাকোতে একজন মিলিয়নেয়ার এবং তার পরিবারকে আহত করা বোমা হামলা ইউক্রেনের সামরিক গোয়েন্দা এজেন্সি এইচইউআর-এর সিনিয়র সদস্যদের দ্বারা অর্ডার করা হয়েছিল। তিনি বলেছেন তার এজেন্ট আনাস্তাসিয়া বেরেজোভস্কা বোমা রোপণ করেছিল। বেরেজোভস্কা কয়েক সপ্তাহ পর মৃত পাওয়া গিয়েছিল এবং ঝিকোভিচ তাকে হত্যা করেনি বলে অস্বীকার করছেন।"
+   }
+  },
+  {
+   "id": "km78nv",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/others/capital-city/973289/%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%83%E0%A6%99%E0%A7%8D%E0%A6%96%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%B0-%E0%A6%95%E0%A6%A4%E0%A6%A6%E0%A6%BF%E0%A6%A8",
+   "image": null,
+   "published": "2026-10-09T02:00:00.000Z",
+   "added": "2026-10-09T02:02:55.454Z",
+   "origTitle": "বিমানবন্দরের বহিরাঙ্গনে বিশৃঙ্খলা আর কতদিন",
+   "en": {
+    "title": "Dhaka airport exterior remains chaotic despite complaints",
+    "summary": "Hazrat Shahjalal International Airport's canopy and surroundings still lack proper order. Passengers' relatives crowd the area alongside CNG-run auto-rickshaws, car touts, and unnecessary people roaming freely. Some areas look more like bus or launch terminals than an international airport."
+   },
+   "bn": {
+    "title": "ঢাকা বিমানবন্দরের বাইরে শৃঙ্খলা ফেরেনি",
+    "summary": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের ক্যানোপি এবং চারপাশে এখনও সঠিক শৃঙ্খলা নেই। যাত্রীদের পরিবারের সদস্যরা সিএনজি অটোরিকশা, গাড়ির দালাল এবং অপ্রয়োজনীয় লোকজনের ভিড়ের সাথে জায়গাটি পূর্ণ করছে। কিছু এলাকা আন্তর্জাতিক বিমানবন্দরের চেয়ে বাস বা লঞ্চ টার্মিনালের মতো দেখাচ্ছে।"
+   }
+  },
+  {
+   "id": "hbmolj",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/usa/trump-says-comment-iran-could-take-out-los-angeles-was-misinterpreted-1567021",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/10/llvlui3oobm5beflrp6aje4bny.jpg",
+   "published": "2026-10-09T01:55:00.000Z",
+   "added": "2026-10-09T02:02:55.454Z",
+   "origTitle": "Trump says comment that Iran could 'take out' Los Angeles was misinterpreted",
+   "en": {
+    "title": "Trump clarifies Iran comment wasn't about cities being bombed",
+    "summary": "President Trump said his Monday rally comments about Iran taking out Los Angeles and San Diego were misunderstood. He clarified he meant higher gas prices are a small price to pay for preventing Iran from getting nuclear weapons. California's Democratic leaders and some Republicans had criticized the original remarks."
+   },
+   "bn": {
+    "title": "ইরান সম্পর্কে ট্রাম্পের মন্তব্য ব্যাখ্যা দিলেন",
+    "summary": "রাষ্ট্রপতি ট্রাম্প বলেছেন, তার সোমবারের ভাষণে ইরান সম্পর্কে যা বলেছিলেন তা ভুল বোঝা হয়েছে। তিনি স্পষ্ট করেছেন যে তিনি বেশি গ্যাসের দাম নিয়ে কথা বলছিলেন, ইরানকে পারমাণবিক অস্ত্র পেতে বাধা দেওয়ার জন্য এটি একটি ছোট মূল্য। ক্যালিফোর্নিয়ার ডেমোক্র্যাটিক নেতা এবং কিছু রিপাবলিকান মূল মন্তব্যের সমালোচনা করেছিলেন।"
+   }
+  },
   {
    "id": "j4zsif",
    "section": "news",
@@ -2111,248 +2309,6 @@
    "bn": {
     "title": "লাওস চার মাসের জন্য বাংলাদেশি শ্রমিক ভিসা বন্ধ করেছে",
     "summary": "লাওস সেপ্টেম্বর থেকে ডিসেম্বর পর্যন্ত বাংলাদেশি শ্রমিকদের ওয়ার্ক পারমিট এবং এন্ট্রি ভিসা ইস্যু স্থগিত করেছে। লাওস কোনো কারণ জানায়নি, তবে বাংলাদেশ বলছে নির্মাণ কাজ কমেছে বলেই এই সিদ্ধান্ত হয়েছে। সরকার শ্রমিকদের সতর্ক করেছে যে এই সময়ে তারা যেন কোনো প্রতিষ্ঠানের কাছে পাসপোর্ট না দেয় বা টাকা না দেয়।"
-   }
-  },
-  {
-   "id": "hjll3d",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fMDJLeVNlQmo3dV82eVVWY2J4MUx3TS1CTnFidTlvRmc4T2tySjRfeGx5MTV5aUItTmhVNmJYOTZDNVU4MUVqaE9CSGRaeko5WldVZ3pEQQ?oc=5",
-   "image": null,
-   "published": "2026-10-05T10:03:00.000Z",
-   "added": "2026-10-05T22:34:20.254Z",
-   "origTitle": "মস্তিষ্কের অনুভূতি-আচরণের রহস্য উন্মোচনে চিকিৎসায় নোবেল ৩ গবেষকের",
-   "en": {
-    "title": "Nobel Prize awarded for brain emotion and behavior research",
-    "summary": "Three researchers won the Nobel Prize in Physiology or Medicine for uncovering how the brain controls feelings and behaviour. Their discoveries help us understand how emotions and actions connect at the biological level."
-   },
-   "bn": {
-    "title": "মস্তিষ্কের অনুভূতি ও আচরণের গবেষণায় তিন বিজ্ঞানীর নোবেল",
-    "summary": "মস্তিষ্ক কীভাবে অনুভূতি এবং আচরণ নিয়ন্ত্রণ করে তা উন্মোচনের জন্য তিন গবেষকের চিকিৎসায় নোবেল পুরস্কার দেওয়া হয়েছে। তাদের আবিষ্কার বিজ্ঞানীদের আবেগ এবং কর্মের জৈবিক সংযোগ বুঝতে সাহায্য করে।"
-   }
-  },
-  {
-   "id": "11rsc5v",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Daily Sun",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3lTSng2cVk3NmEzbnEtbVlZbGNTTFlQdnlFNTlvcFdFSWFXbzUwc1BGZVp5am1ZeU9Nel9OMVl4eE0yVUNfOUowbWlvYmhvX2gxNFBZSVpTNk53SUY1MWloemF5UjBjVkVuaDdtWG9URzZWVHlMdzZVaVdXallhMnFacE4yeHZZcTVPcEJjUVRYcFVNMDl1NTZiamxCZlJkSEoxUA?oc=5",
-   "image": null,
-   "published": "2026-10-05T04:10:14.000Z",
-   "added": "2026-10-05T22:34:20.254Z",
-   "origTitle": "70 dead in fighting around Yemen's Taiz over 24 hours - daily-sun.com",
-   "en": {
-    "title": "70 killed in Yemen's Taiz fighting in 24 hours",
-    "summary": "Heavy fighting around Taiz in Yemen has killed 70 people in a single day, according to Daily Sun. The severity of the conflict continues to take a heavy toll on civilians and combatants in the war-torn region."
-   },
-   "bn": {
-    "title": "ইয়েমেনের তাইজে দিনে ৭০ জন নিহত",
-    "summary": "ইয়েমেনের তাইজ শহরের চারপাশে ২৪ ঘণ্টায় ৭০ জন মারা গেছে যুদ্ধবাজ সংঘর্ষে। এই অঞ্চলে সংঘাত চলমান এবং গুরুতর পরিস্থিতি বাড়ছে।"
-   }
-  },
-  {
-   "id": "rx3qln",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/videos/whats-it-like-to-remember-your-past-but-forget-your-present",
-   "image": "https://images.aeonmedia.co/images/98a57c72-d34f-4913-a09e-dcec2fb42457/spaces-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-05T10:01:00.000Z",
-   "added": "2026-10-05T22:34:20.254Z",
-   "origTitle": "S P A C E S",
-   "en": {
-    "title": "Prague filmmaker uses art to explore memory and identity loss",
-    "summary": "Director Nora Štrbová made S P A C E S, a mixed-media animation about her brother Šimon, who lost his memory to a brain tumour. Fragmented visuals and blurred sequences mirror his fading sense of time and self. The experimental short asks how much our identity depends on what we remember."
-   },
-   "bn": {
-    "title": "স্মৃতি ও পরিচয়: একজন চলচ্চিত্র নির্মাতার শিল্পকর্ম",
-    "summary": "প্রাগ-ভিত্তিক পরিচালক নোরা শ্ট্রবোভা তার ভাই শিমোনের গল্প নিয়ে মাল্টিমিডিয়া অ্যানিমেশন এস পি এ সি ই এস বানিয়েছেন, যিনি মস্তিষ্কের টিউমারে স্মৃতিশক্তি হারিয়েছিলেন। খণ্ডিত দৃশ্য এবং ঝাপসা ছবিগুলো তার ভাইয়ের সময় ও নিজস্ব পরিচয়ের অভিজ্ঞতার পরিবর্তনকে প্রতিফলিত করে। এটা একটা গভীর প্রশ্ন নিয়ে আসে: আমাদের পরিচয় কতখানি স্মৃতির সাথে জড়িত?"
-   }
-  },
-  {
-   "id": "1fy3g7o",
-   "section": "news",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/district/b7czzb2n86",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-05/4e6kk8jr/WhatsApp-Image-2026-10-06-at-4.04.06-AM.jpeg",
-   "published": "2026-10-05T22:05:42.000Z",
-   "added": "2026-10-05T22:34:20.254Z",
-   "origTitle": "সাংবাদিকদের দাবির মুখে হল প্রাধ্যক্ষকে অব্যাহতি, আরও যেসব সিদ্ধান্ত নিল প্রশাসন",
-   "en": {
-    "title": "Rajshahi University suspends hall principal after journalist assault",
-    "summary": "Rajshahi University has suspended the principal of Shaheed Ziaur Rahman Hall following a reported attack on journalists. A probe committee must submit findings within three days, with guilty students facing temporary expulsion followed by permanent dismissal. The administration also promised action against those who incited the violence."
-   },
-   "bn": {
-    "title": "সাংবাদিকদের হামলায় রাজশাহী বিশ্ববিদ্যালয় হলের প্রাধ্যক্ষ অব্যাহত",
-    "summary": "রাজশাহী বিশ্ববিদ্যালয় শহীদ জিয়াউর রহমান হলের প্রাধ্যক্ষকে সাংবাদিক হামলার ঘটনায় তাৎক্ষণিক অব্যাহতি দিয়েছে। প্রশাসন তিন কার্যদিবসে তদন্তের প্রতিবেদন চায়, দোষী শিক্ষার্থীরা প্রথমে সাময়িক এবং পরে স্থায়ী বহিষ্কার হবে। ঘটনার পেছনের উসকানিদাতাদের বিরুদ্ধেও ব্যবস্থা নেওয়া হবে।"
-   }
-  },
-  {
-   "id": "ugpm7d",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/smiling-unblinking-tom-cruise-just-wants-to-know-why-nation-didnt-see-digger/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Smiling_Unblinking_Tom_Cruise_NIB_G_PH.jpg",
-   "published": "2026-10-05T19:06:56.000Z",
-   "added": "2026-10-05T22:34:05.743Z",
-   "origTitle": "Smiling, Unblinking Tom Cruise Just Wants To Know Why Nation Didn’t See ‘Digger’",
-   "en": {
-    "title": "Tom Cruise Calmly Questions Nation's Digger Boycott",
-    "summary": "Satire: Tom Cruise, unnervingly cheerful and unblinking, asked the nation why it didn't see his new movie Digger after dismal ticket sales. Speaking in eerily mild tones, he politely demanded to know everyone's schedule and whether they'd forgotten to tell him their plans."
-   },
-   "bn": {
-    "title": "টম ক্রুজ দেশকে ডিগার দেখতে অনুরোধ করেছেন",
-    "summary": "বিদ্রুপ: টম ক্রুজ খুবই হাসিখুশি অবস্থায় জাতিকে জিজ্ঞাসা করেছেন কেন তারা তার নতুন ছবি ডিগার দেখতে এসেছে না যখন টিকিট বিক্রয় ভয়াবহভাবে খারাপ হয়েছে। তিনি সবার সময়সূচী শুনতে চেয়েছেন।"
-   }
-  },
-  {
-   "id": "b45hh3",
-   "section": "hasi",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/05/raccoon-St-Josephs-church-new-york/7791791220402/",
-   "image": "https://cdnph.upi.com/ph/st/th/7791791220402/2026/i/17912205805776/v1.5/Pious-raccoon-visits-Catholic-church-in-New-York-City.jpg",
-   "published": "2026-10-05T17:16:42.000Z",
-   "added": "2026-10-05T22:34:05.743Z",
-   "origTitle": "Watch: Pious raccoon visits Catholic church in New York City",
-   "en": {
-    "title": "A Very Pious Raccoon Visits NYC Church",
-    "summary": "A raccoon wandered into a Catholic church in New York City during an evening candlelight service and was caught on camera. The furry visitor appeared unbothered by the holy surroundings, treating the sanctuary like any other building to casually explore."
-   },
-   "bn": {
-    "title": "নিউইয়র্ক চার্চে একটি ধর্মপ্রাণ র্যাকুন",
-    "summary": "একটি র্যাকুন নিউইয়র্ক সিটির একটি ক্যাথলিক চার্চে প্রবেশ করে সন্ধ্যার মোমবাতির সেবার সময়। পশুটি ধর্মীয় পরিবেশে কোনো আগ্রহ দেখায়নি এবং স্বাভাবিকভাবেই ঘুরে বেড়িয়েছে।"
-   }
-  },
-  {
-   "id": "hy9k0l",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "serious",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/05/ioanna-kucuradi-1936-2026/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/10/Kucuradi-Ioanna.jpg",
-   "published": "2026-10-05T16:47:23.000Z",
-   "added": "2026-10-05T22:34:05.743Z",
-   "origTitle": "Ioanna Kuçuradi (1936-2026)",
-   "en": {
-    "title": "Ioanna Kuçuradi, Rights Philosopher, Dies at 89",
-    "summary": "Turkish philosopher Ioanna Kuçuradi, who championed human rights and ethics, has died at 89. She founded Hacettepe University's philosophy department in 1968 and headed the Turkish Philosophy Association until her death. Kuçuradi chaired Turkey's High Advisory Council for Human Rights and held a UNESCO Chair. Her books on human values, ethics, and rights shaped debates worldwide."
-   },
-   "bn": {
-    "title": "মানবাধিকার দার্শনিক ইওয়ান্না কুচুরাদি মৃত্যুবরণ করেছেন",
-    "summary": "তুর্কি দার্শনিক ইওয়ান্না কুচুরাদি যিনি মানবাধিকার এবং নৈতিকতার জন্য কাজ করেছেন, তিনি ৮৯ বছর বয়সে মৃত্যুবরণ করেছেন। তিনি ১৯৬৮ সালে হাসেত্তেপে বিশ্ববিদ্যালয়ের দর্শন বিভাগ প্রতিষ্ঠা করেন এবং মৃত্যুর আগ পর্যন্ত তুর্কি দর্শন সমিতির নেতৃত্ব দেন। তার মানবিক মূল্যবোধ ও নৈতিকতার বই বিশ্বব্যাপী আলোচনা প্রভাবিত করেছে।"
-   }
-  },
-  {
-   "id": "1wk5lqu",
-   "section": "news",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac410042b149-1791234052.jpg?resize=1920%2C1440",
-   "published": "2026-10-05T21:50:59.000Z",
-   "added": "2026-10-05T22:34:05.743Z",
-   "origTitle": "‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case",
-   "en": {
-    "title": "Cornell Building Smashed in Gang Rape Case Protests",
-    "summary": "Activists broke glass doors and spray-painted Cornell University's main administrative building in protest over the school's handling of a 2024 gang rape case. A student alleges seven former students and a fraternity assaulted her at Chi Phi on October 19, 2024, after being pressured to drink and use ketamine. Cornell says it understands the anger but property damage isn't the solution. The case has fuelled national debate on campus sexual assault."
-   },
-   "bn": {
-    "title": "ধর্ষণ মামলার প্রতিবাদে কর্নেল বিল্ডিং ভাঙা হয়েছে",
-    "summary": "একজন ছাত্রী দাবি করেছেন যে তার সাথে ২০২৪ সালের অক্টোবরে একটি ভ্রাতৃসংস্থায় সাতজন ছাত্র সম্মিলিতভাবে ধর্ষণ করেছে। কর্নেল বিশ্ববিদ্যালয়ের প্রশাসনিক ভবনে কর্মীরা কাচের দরজা ভেঙে দেয় এবং দেয়ালে স্লোগান লিখে। বিশ্ববিদ্যালয় বলেছে ক্রোধ বোঝা যায় কিন্তু সম্পত্তি ভাঙা সমাধান নয়। এই মামলা আমেরিকায় ক্যাম্পাস যৌন নিরাপত্তা নিয়ে জাতীয় আলোচনা জাগিয়েছে।"
-   }
-  },
-  {
-   "id": "3pq7cy",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/04/lucid-gravity-main.jpg?resize=1200,675",
-   "published": "2026-10-05T21:54:01.000Z",
-   "added": "2026-10-05T22:34:05.743Z",
-   "origTitle": "Lucid Motors’ EV output falls to lowest level in almost two years",
-   "en": {
-    "title": "Lucid Motors Hits Two-Year Low in EV Production",
-    "summary": "Lucid Motors built only 2,954 electric vehicles in Q3, a 54% drop from last year—the lowest output since early 2025. The luxury EV maker is deliberately slowing production to match weak demand. New CEO Silvio Napoli is cutting costs with layoffs and factory changes, while delaying the cheaper Cosmos model. Rival Rivian shipped nearly 20,000 vehicles in Q3 with its affordable R2."
-   },
-   "bn": {
-    "title": "লুসিড মোটরস দুই বছরের সর্বনিম্ন উৎপাদনে পৌঁছেছে",
-    "summary": "লুসিড মোটরস তৃতীয় কোয়ার্টারে মাত্র ২,৯৫৪ ইলেকট্রিক গাড়ি বানিয়েছে, গত বছরের তুলনায় ৫৪% কম—২০২৫ সালের শুরুর পর থেকে সর্বনিম্ন। কোম্পানি জানতেন কম চাহিদা আছে তাই উদ্দেশ্যমূলকভাবে উৎপাদন কমিয়েছে। নতুন প্রধান নির্বাহী খরচ কাটাতে কর্মী ছাঁটাই করছেন এবং সস্তার মডেল Cosmos বিলম্ব করছেন।"
-   }
-  },
-  {
-   "id": "m7hqfo",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7744/live/83f27ce0-c0fa-11f1-812d-715b1c9a79e7.jpg",
-   "published": "2026-10-05T21:46:22.000Z",
-   "added": "2026-10-05T22:34:05.743Z",
-   "origTitle": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-   "en": {
-    "title": "Trump: US Moved Bombers From UK Base Over Threats",
-    "summary": "The US removed roughly a dozen B-1 bombers from RAF Fairford in the UK after detecting a security threat, President Trump confirmed. The Pentagon moved the aircraft back to American bases out of caution. Trump said Washington knows who made the threat but didn't name them. The exact nature of the threat remains unclear, though speculation centres on sabotage or aircraft strike attempts."
-   },
-   "bn": {
-    "title": "ট্রাম্প: হুমকির কারণে যুক্তরাজ্য থেকে বোমারুবিমান সরানো হয়েছে",
-    "summary": "যুক্তরাজ্যের RAF Fairford বেস থেকে প্রায় এক ডজন B-1 বোমারুবিমান সরিয়ে নেওয়া হয়েছে একটি নিরাপত্তা হুমকির কারণে, এটি নিশ্চিত করেছেন ট্রাম্প। পেন্টাগন সতর্কতার খাতিরে এয়ারক্র্যাফ্টগুলো আমেরিকায় ফেরত পাঠিয়েছে। ট্রাম্প বলেছেন যে ওয়াশিংটন জানে কে এই হুমকি দিয়েছে তবে নাম বলেননি। হুমকির সঠিক ধরন এখনও স্পষ্ট নয়।"
-   }
-  },
-  {
-   "id": "h5im96",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/972647/%E0%A6%AC%E0%A6%BF%E0%A6%9B%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%9F%E0%A6%BE-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A7%87%E0%A6%B2",
-   "image": null,
-   "published": "2026-10-05T22:19:34.000Z",
-   "added": "2026-10-05T22:34:05.743Z",
-   "origTitle": "বিছানার নিচের সেই দানবটা কোথায় গেল?",
-   "en": {
-    "title": "Where Did That Monsters-Under-Bed Fear Go?",
-    "summary": "Remember checking under your bed as a kid, convinced something was hiding? The childhood terrors—monsters in the dark, shapes in the cupboard, creaking doors at night—felt real back then. But do they ever truly disappear? This piece explores how childhood fears stick around into adulthood, even when we know logically they're not real."
-   },
-   "bn": {
-    "title": "বিছানার নিচের ভয়টা কোথায় হারিয়ে গেল?",
-    "summary": "ছোটবেলায় রাতে বিছানার নিচে কী লুকিয়ে আছে এই চিন্তা করেছেন? অন্ধকারে দানবের মতো কিছু, আলমারিতে ভূত, দরজার ওপাশে কেউ—এসব ভয় তখন খুবই সত্যি মনে হতো। বড় হয়ে এখন হাসি পায় সেইসব নিয়ে, কিন্তু সেই ভয়গুলো সত্যিই চলে গেছে নাকি শুধু লুকানো আছে?"
    }
   }
  ]

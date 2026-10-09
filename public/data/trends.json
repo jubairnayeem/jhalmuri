@@ -1,99 +1,83 @@
 {
- "updatedAt": "2026-10-08T22:01:08.457Z",
+ "updatedAt": "2026-10-09T02:03:19.502Z",
  "burning": [
   {
-   "id": "5av75h",
+   "id": "w4xsh4",
    "heat": 5,
    "why": {
-    "en": "Rain forecast trending massively on Google (1000+ searches) as temps expected to drop across Bangladesh.",
-    "bn": "গুগলে ১০০০+ সার্চ, সারাদেশে বৃষ্টির আবহাওয়া এখন সবার কথা।"
+    "en": "Bangladeshi student death abroad hits hard; tragic, immediate impact.",
+    "bn": "বিদেশে বাংলাদেশী শিক্ষার্থীর মৃত্যু—দুঃখজনক এবং তাৎক্ষণিক প্রভাব।"
    },
    "rank": 1
+  },
+  {
+   "id": "kw1adt",
+   "heat": 5,
+   "why": {
+    "en": "30 killed in Russian strike on Ukraine buses; major casualty event.",
+    "bn": "ইউক্রেনের বাসে রাশিয়ার হামলায় ৩০ জন নিহত—বড় দুর্ঘটনা।"
+   },
+   "rank": 2
   },
   {
    "id": "1rohro4",
    "heat": 4,
    "why": {
-    "en": "Six crore Bangladeshis at poverty risk—major economic story hitting hard on social signals.",
-    "bn": "ছয় কোটি মানুষের দারিদ্র্য ঝুঁকি নিয়ে আলোচনা চলছে।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "8q3tsk",
-   "heat": 4,
-   "why": {
-    "en": "Dubai port firm winning Chattogram contract despite protests—major political and economic story.",
-    "bn": "দুবাই কোম্পানির চট্টগ্রাম চুক্তি নিয়ে প্রতিবাদ সত্ত্বেও সিদ্ধান্ত।"
+    "en": "Six crore Bangladeshis at poverty risk; hits national economic nerve.",
+    "bn": "ছয় কোটি বাংলাদেশী দারিদ্র্যের ঝুঁকিতে—অর্থনৈতিক সংকট।"
    },
    "rank": 3
   },
   {
-   "id": "kw1adt",
+   "id": "72xt1x",
    "heat": 4,
    "why": {
-    "en": "Russian bomb kills 30 on Ukraine buses—major international crisis covered by multiple outlets.",
-    "bn": "ইউক্রেনে রাশিয়ান বোমায় ৩০ জন নিহত, আন্তর্জাতিক সংবাদ।"
+    "en": "Rooppur nuclear plant first unit greenlit for December; landmark development.",
+    "bn": "রূপপুর পরমাণু বিদ্যুৎকেন্দ্রের প্রথম ইউনিট অনুমোদিত—দেশের প্রধান অর্জন।"
    },
    "rank": 4
   },
   {
-   "id": "19bxyxs",
+   "id": "8q3tsk",
    "heat": 3,
    "why": {
-    "en": "Bangladesh orders 10 Airbus, 25 Boeing planes—major aviation investment story.",
-    "bn": "বাংলাদেশ এয়ারবাস এবং বোয়িং বিমান অর্ডার দিল।"
+    "en": "Dubai firm wins Chattogram terminal contract despite local protests.",
+    "bn": "চট্টগ্রাম কন্টেইনার টার্মিনাল চুক্তি নিয়ে বিরোধ, কিন্তু অনুমোদিত হয়েছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1ij7l17",
-   "tag": "#India-Israel",
+   "id": "1jtgz0i",
+   "tag": "#ActorNanaPatekar",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Nana Patekar passes away",
+    "text": "Indian actor Nana Patekar has died after suffering cardiac arrest. His death marks the end of a long career in Indian cinema."
+   },
+   "bn": {
+    "title": "নানা পাটেকর মৃত্যু",
+    "text": "ভারতীয় অভিনেতা নানা পাটেকর কার্ডিয়াক অ্যারেস্টের পর মারা গেছেন। ভারতীয় চলচ্চিত্রে তার দীর্ঘ ক্যারিয়ারের সমাপ্তি ঘটেছে।"
+   }
+  },
+  {
+   "id": "1u1d1uz",
+   "tag": "#ViralVideo",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "India-Israel ties deepen despite Gaza",
-    "text": "Modi's policy shift: India shooting down claims of Starlink discrimination while deepening Israel relations despite ongoing Gaza war tensions."
+    "title": "Video hits 4.7M views in 23h",
+    "text": "A video went viral, reaching 4.7 million views in just 23 hours, creating early buzz in entertainment circles."
    },
    "bn": {
-    "title": "গাজা সত্ত্বেও ভারত-ইসরায়েল বন্ধুত্ব",
-    "text": "মোদির নীতি পরিবর্তন: গাজা যুদ্ধ চললেও ভারত ইসরায়েলের সাথে সম্পর্ক গভীর করছে।"
-   }
-  },
-  {
-   "id": "x83h5l",
-   "tag": "#AI-Valuation",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Nous Research hits $1.5B milestone",
-    "text": "AI startup Nous Research reaches unicorn status, launches business AI agents for enterprise use."
-   },
-   "bn": {
-    "title": "নাউস রিসার্চ ১.৫ বিলিয়ন ভ্যালু",
-    "text": "এআই স্টার্টআপ ইউনিকর্ন স্ট্যাটাস পেল, বিজনেস এআই এজেন্ট লঞ্চ করল।"
-   }
-  },
-  {
-   "id": "16wkhev",
-   "tag": "#Wildlife",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "180K giant tortoises thriving in Seychelles",
-    "text": "Conservation win: nearly 180,000 giant tortoises discovered flourishing in Seychelles, major environmental success story."
-   },
-   "bn": {
-    "title": "সেশেলে কচ্ছপের সংরক্ষণ সফলতা",
-    "text": "১ লক্ষ ৮০ হাজার দৈত্যাকার কচ্ছপ সেশেলে সুস্থভাবে বাস করছে, পরিবেশ সংরক্ষণের বড় জয়।"
+    "title": "ভিডিও ২৩ ঘণ্টায় ৪.৭ মিলিয়ন ভিউ",
+    "text": "একটি ভিডিও ভাইরাল হয়েছে, মাত্র ২৩ ঘণ্টায় ৪.৭ মিলিয়ন ভিউ পেয়েছে।"
    }
   },
   {
@@ -104,12 +88,12 @@
    ],
    "heat": 3,
    "en": {
-    "title": "The Rover drops 'Ayna' album",
-    "text": "Bangladeshi band The Rover releases new 18-track album 'Ayna,' drawing local music buzz."
+    "title": "The Rover drops new album Ayna",
+    "text": "Band The Rover has released a new album called Ayna featuring 18 tracks, stirring interest in the local music scene."
    },
    "bn": {
-    "title": "দ্য রোভারের নতুন অ্যালবাম 'আয়না'",
-    "text": "বাংলাদেশি ব্যান্ড দ্য রোভার ১৮ ট্র্যাকের অ্যালবাম রিলিজ করল।"
+    "title": "দ্য রোভার নতুন অ্যালবাম রিলিজ",
+    "text": "ব্যান্ড দ্য রোভার তাদের নতুন অ্যালবাম 'আয়না' রিলিজ করেছে যাতে ১৮টি গান আছে।"
    }
   }
  ],
