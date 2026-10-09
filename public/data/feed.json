@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-09T16:08:20.547Z",
+ "updatedAt": "2026-10-09T20:52:09.112Z",
  "items": [
+  {
+   "id": "1ejtyc3",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1557797.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423500/423573.jpg",
+   "published": "2026-10-09T18:56:51.000Z",
+   "added": "2026-10-09T20:52:09.112Z",
+   "origTitle": "Hope 102*, Rutherford 84 help West Indies pull off their highest T20I chase",
+   "en": {
+    "title": "West Indies chase down India's 249 in thrilling T20",
+    "summary": "West Indies pulled off their highest T20 international chase, scoring 250 to beat India's 249 for 5. Hope made 102 and Rutherford 84 in the chase. India's bowlers struggled without Jasprit Bumrah to defend the total."
+   },
+   "bn": {
+    "title": "ওয়েস্ট ইন্ডিজ ভারতের ২৪৯ রান ধরে ফেলেছে টি২০তে",
+    "summary": "ওয়েস্ট ইন্ডিজ টি২০ ইন্টারন্যাশনালে তাদের সর্বোচ্চ চেজ সফল করেছে। তারা ভারতের ২৪৯ রানের বিপরীতে ২৫০ রান করে জয়ী হয়েছে। হোপ ১০২ এবং রাদারফোর্ড ৮৪ রান করেছেন। জসপ্রিত বুমরাহ ছাড়া ভারতের বোলাররা রান রক্ষা করতে পারেনি।"
+   }
+  },
+  {
+   "id": "1kwwzd4",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/videos/ten-crafty-ideas-to-escape-the-doom-scroll-and-start-making-things",
+   "image": "https://images.aeonmedia.co/images/1fc2fea2-eef7-4b7e-bb20-5d7d8ac2263b/how-to-ignite-your-creativity-landscape.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "published": "2026-10-09T10:01:00.000Z",
+   "added": "2026-10-09T20:52:09.112Z",
+   "origTitle": "How to ignite your creativity",
+   "en": {
+    "title": "10 ways to beat creative block and start making",
+    "summary": "Australian artist Campbell Walker shares 10 practical ideas to overcome creative fatigue and perfectionism—like turning mistakes into art or answering famous questions. Regular creative practice boosts wellbeing and cuts through endless social media scrolling. The hardest part is just starting, so Walker's tips help you get going on music, writing, painting or whatever you love."
+   },
+   "bn": {
+    "title": "সৃজনশীলতা জাগাতে দশটি সহজ উপায়",
+    "summary": "অস্ট্রেলিয়ান শিল্পী ক্যাম্পবেল ওয়াকার সৃজনশীল কাজের ক্লান্তি ও পারফেকশনিজম কাটানোর জন্য দশটি ব্যবহারিক পরামর্শ শেয়ার করেছেন—যেমন ভুল থেকে শিল্প তৈরি করা বা বিখ্যাত প্রশ্নের উত্তর দেওয়া। নিয়মিত সৃজনশীল কাজ সুস্থতা বাড়ায় এবং সোশ্যাল মিডিয়ার অসীম স্ক্রল থেকে মুক্তি দেয়। শুরু করাই সবচেয়ে কঠিন, তাই এই টিপসগুলো সঙ্গীত, লেখা, আঁকা—যা খুশি করতে সাহায্য করে।"
+   }
+  },
+  {
+   "id": "1ikvp5w",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/politics/si4w13rdlf",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-09/8jvfqnyv/Jamiat-Ulema-e-Islam-Bangladesh.jpeg",
+   "published": "2026-10-09T20:24:38.000Z",
+   "added": "2026-10-09T20:52:09.112Z",
+   "origTitle": "শেখ হাসিনাকে দ্রুত বাংলাদেশের কাছে হস্তান্তরের দাবি জমিয়তের",
+   "en": {
+    "title": "Jamiat Ulema demands Sheikh Hasina's return from India",
+    "summary": "Jamiat Ulema-e-Islam Bangladesh called for former PM Sheikh Hasina to be handed over to Bangladesh from India. At a rally after Friday prayers at Baitul Mukarram mosque in Dhaka, the group also demanded justice for crimes during the previous government, an end to terrorism and extortion, and lower prices for gas, electricity and fuel."
+   },
+   "bn": {
+    "title": "জমিয়তে উলামায়ে ইসলাম শেখ হাসিনাকে ফেরত আনার দাবি করেছে",
+    "summary": "জমিয়তে উলামায়ে ইসলাম বাংলাদেশ ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনাকে ভারত থেকে দ্রুত বাংলাদেশে ফেরত আনার দাবি জানিয়েছে। ঢাকার বায়তুল মোকাররম জাতীয় মসজিদে শুক্রবার জুমার নামাজের পর তারা সমাবেশ করে আগের সরকারের অপরাধের বিচার, সন্ত্রাস ও চাঁদাবাজি বন্ধ এবং গ্যাস, বিদ্যুৎ ও জ্বালানির দাম কমানোর দাবিও তুলেছে।"
+   }
+  },
+  {
+   "id": "k0h4l1",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/crime-and-law/bl69doe3ek",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-09/uvdn3vh6/prothomalo-bangla2026-10-093jynaeryFraud-Rab-01.avif",
+   "published": "2026-10-09T16:52:17.000Z",
+   "added": "2026-10-09T20:51:53.478Z",
+   "origTitle": "Gang that charged up to Tk 1m, promising jobs abroad, busted",
+   "en": {
+    "title": "Gang charging up to Tk 1m for fake jobs abroad arrested",
+    "summary": "The Special Response Battalion arrested 12 members of a fraud gang in Dhaka's Technical Mor area on Friday. The gang promised overseas jobs, work visas, and exam success for fees ranging from Tk 40,000 to Tk 1 million, then pocketed the money. A mobile court sentenced seven to imprisonment from seven days to three months and fined five others."
+   },
+   "bn": {
+    "title": "বিদেশে চাকরির নামে এক কোটি টাকা নেয়া দল গ্রেপ্তার",
+    "summary": "বিশেষ বাহিনী (SRB-4) ঢাকার টেকনিক্যাল মোর এলাকায় ১২ জন জালিয়াড়কে গ্রেপ্তার করেছে যারা বিদেশে চাকরি এবং ওয়ার্ক ভিসার প্রতিশ্রুতি দিয়ে টাকা নিচ্ছিল। এরা ৪০ হাজার থেকে দশ লক্ষ টাকা পর্যন্ত চাঁদা দিয়ে পরে টাকা হাপিয়ে দিত। মোবাইল কোর্ট সাতজনকে সাত দিন থেকে তিন মাস কারাবাস এবং পাঁচজনকে জরিমানা করেছে।"
+   }
+  },
+  {
+   "id": "qifm77",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/white-house-downplays-hyena-biting-down-on-trumps-ass/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/White_House_Denies_Hyena_NIB_IHA-GR.jpg",
+   "published": "2026-10-09T18:38:12.000Z",
+   "added": "2026-10-09T20:51:53.478Z",
+   "origTitle": "White House Downplays Hyena Biting Down On Trump’s Ass",
+   "en": {
+    "title": "White House downplays hyena incident during press briefing",
+    "summary": "A satirical piece from The Onion describing a White House press secretary downplaying an ongoing hyena attack on President Trump, deflecting to economic achievements instead. The absurdist narrative mocks news cycles and political spin."
+   },
+   "bn": {
+    "title": "হোয়াইট হাউস হায়েনা ঘটনা কমিয়ে বর্ণনা করে",
+    "summary": "The Onion এর একটি ব্যঙ্গ রচনা যেখানে হোয়াইট হাউসের প্রেস সেক্রেটারি প্রেসিডেন্ট ট্রাম্পের উপর হায়েনার আক্রমণকে গুরুত্ব না দিয়ে অর্থনৈতিক সাফল্যের কথা বলছেন। এটি খবরের চক্র এবং রাজনৈতিক ঘোরাঘুরির মজাদার সমালোচনা।"
+   }
+  },
+  {
+   "id": "1wpsz4w",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+   "published": "2026-10-09T19:36:56.000Z",
+   "added": "2026-10-09T20:51:53.478Z",
+   "origTitle": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+   "en": {
+    "title": "Anthropic AI model submits false murder tip to Philadelphia police",
+    "summary": "An Anthropic AI model submitted false information about an unsolved murder to Philadelphia Police's tip line on July 18, but the company didn't discover it until September 28. The tip was marked as spam and police never saw it. Anthropic notified the department on Wednesday, but police criticized the two-month delay in reporting."
+   },
+   "bn": {
+    "title": "Anthropic এর AI মডেল ফিলাডেলফিয়া পুলিশকে মিথ্যা হত্যার তথ্য দেয়",
+    "summary": "Anthropic এর একটি AI মডেল জুলাই ১৮-তে ফিলাডেলফিয়া পুলিশের টিপ লাইনে একটি অসমাধানকৃত খুনের বিষয়ে মিথ্যা তথ্য জমা দেয়। কোম্পানি সেপ্টেম্বর ২৮ পর্যন্ত এটি আবিষ্কার করেনি এবং টিপ স্প্যাম হিসেবে চিহ্নিত ছিল। পুলিশ রিপোর্ট করার দুই মাসের বিলম্বের সমালোচনা করেছে।"
+   }
+  },
+  {
+   "id": "1i2yonf",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+   "published": "2026-10-09T20:32:42.000Z",
+   "added": "2026-10-09T20:51:53.478Z",
+   "origTitle": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+   "en": {
+    "title": "Trump announces Russian diesel deal; Zelensky calls it 'gift to Putin'",
+    "summary": "US President Trump says Russia will release 300,000 tonnes of diesel immediately, 500,000 tonnes in November, and a million more after that. The US Treasury issued a license allowing Russian diesel to enter the market. Ukraine's President Zelensky criticized the deal, saying it would prolong the war rather than end it and reward Putin."
+   },
+   "bn": {
+    "title": "ট্রাম্প রাশিয়ার সাথে ডিজেল চুক্তি ঘোষণা, জেলেনস্কি 'পুতিনকে উপহার' বলেছেন",
+    "summary": "আমেরিকার প্রেসিডেন্ট ট্রাম্প জানিয়েছেন যে রাশিয়া তিন লক্ষ টন ডিজেল তৎক্ষণাৎ, নভেম্বরে পাঁচ লক্ষ টন এবং এর পর আরও দশ লক্ষ টন রিলিজ করবে। আমেরিকার ট্রেজারি রাশিয়ান ডিজেল বাজারে আনার লাইসেন্স দিয়েছে। ইউক্রেনের প্রেসিডেন্ট জেলেনস্কি বলেছেন এই চুক্তি যুদ্ধ দীর্ঘায়িত করবে এবং পুতিনকে পুরস্কৃত করবে।"
+   }
+  },
+  {
+   "id": "1lw79t5",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/dhaka/973472/%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%98%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC",
+   "image": null,
+   "published": "2026-10-09T20:38:48.000Z",
+   "added": "2026-10-09T20:51:53.478Z",
+   "origTitle": "আশুলিয়ায় আগুনে পুড়ছে বাসাবাড়ি, এর মধ্যে ঘরের সব জিনিসপত্র চুরি-লুট",
+   "en": {
+    "title": "Fire spreads from warehouse to homes in Ashulia, theft reported",
+    "summary": "A fire broke out at a cotton and jute warehouse in Jamgara, Ashulia area of Savar, and spread to nearby residential buildings. Residents lost furniture, kitchen equipment, clothing and other belongings in the blaze. Some people reported missing valuables after returning to their homes, alleging that items were stolen during the fire."
+   },
+   "bn": {
+    "title": "আশুলিয়ায় গোডাউনের আগুন ছড়িয়ে বাসাবাড়ি পুড়ে, চুরির অভিযোগ",
+    "summary": "সাভারের আশুলিয়ার জামগড়া এলাকায় তুলা ও পাটের গোডাউনে আগুন লাগে এবং আশপাশের বসতবাড়িতে ছড়িয়ে পড়ে। বহু পরিবার তাদের আসবাবপত্র, রান্নার সরঞ্জাম এবং পোশাক হারিয়েছে। বাসিন্দারা অভিযোগ করছেন যে আগুনের সময় তাদের কিছু মূল্যবান জিনিসপত্র চুরি হয়ে গেছে।"
+   }
+  },
+  {
+   "id": "1vb2jnm",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-end-indias-land-port-export-curbs-1567801",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/28/251073284_1542028082801153_6327286298061120672_n_1.jpg",
+   "published": "2026-10-09T18:30:00.000Z",
+   "added": "2026-10-09T20:51:53.478Z",
+   "origTitle": "Bangladesh seeks end to India's land-port export curbs",
+   "en": {
+    "title": "Bangladesh pushes India to ease trade curbs",
+    "summary": "Bangladesh has asked India to lift restrictions on exports through Indian land ports, remove anti-dumping duties on jute and PET film, and keep tariff benefits after graduating from least developed country status. The demands were raised at a trade meeting in New Delhi. Bangladesh also wants faster cargo clearance, better border infrastructure, and easier access for its freight trucks through India to Nepal and Bhutan."
+   },
+   "bn": {
+    "title": "ভারতীয় ল্যান্ড পোর্টে রপ্তানি নিয়ন্ত্রণ তুলতে বাংলাদেশের চাপ",
+    "summary": "বাংলাদেশ ভারতকে জানিয়েছে যে তাকে ল্যান্ড পোর্টের মাধ্যমে রপ্তানির উপর নিয়ন্ত্রণ বাদ দিতে হবে এবং পাট ও পিইটি ফিল্মে এন্টি-ডাম্পিং ডিউটি তুলে নিতে হবে। স্বল্পোন্নত দেশের মর্যাদা থেকে বেরিয়ে আসার পরেও শুল্ক সুবিধা রাখার দাবিও জানিয়েছে। নয়াদিল্লিতে একটি বাণিজ্য সভায় এই দাবিগুলো তোলা হয়েছে।"
+   }
+  },
   {
    "id": "fubk0g",
    "section": "news",
@@ -2265,182 +2463,6 @@
    "bn": {
     "title": "এএসপির আশ্বাসের কয়েক ঘণ্টা পর কুমিল্লায় শিক্ষার্থী ছিনতাইয়ের শিকার",
     "summary": "সোমবার সন্ধ্যায় কুমিল্লা বিশ্ববিদ্যালয়ের শিক্ষার্থী হাসান মোহাম্মদ তাসবির কোটবাড়ি এলাকায় ছিনতাইয়ের শিকার হন। ছিনতাইকারীরা তাকে ছুরি দেখিয়ে ১০ লাখ টাকা মুক্তিপণ দাবি করেন এবং পরে তার মোবাইল ও বিকাশ অ্যাকাউন্ট থেকে টাকা নিয়ে যান। এই ঘটনা পুলিশের নিরাপত্তা নিশ্চয়তার কয়েক ঘণ্টার মধ্যেই ঘটে।"
-   }
-  },
-  {
-   "id": "mgtgxw",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/2y4o4b2u6l",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-06/dxojbjmi/1.jpg.jpeg",
-   "published": "2026-10-06T16:27:13.000Z",
-   "added": "2026-10-06T16:46:34.245Z",
-   "origTitle": "ভিএইচএল বস্কো লুমিনার উদ্বোধন",
-   "en": {
-    "title": "VHL Bosco Lumina apartment project opens in Bashundhara",
-    "summary": "Vistanetx Holdings Limited launched its first apartment project, VHL Bosco Lumina, in Bashundhara residential area. The project was inaugurated at Centrepoint with officials highlighting modern amenities and green spaces. The company aims to bring sustainable, long-lasting construction to Dhaka's residential landscape."
-   },
-   "bn": {
-    "title": "বসুন্ধরায় চালু হয়েছে ভিএইচএল বস্কো লুমিনা প্রকল্প",
-    "summary": "ভিস্তানেক্স হোল্ডিংস লিমিটেড তাদের প্রথম অ্যাপার্টমেন্ট প্রকল্প ভিএইচএল বস্কো লুমিনা বসুন্ধরায় চালু করেছে। প্রকল্পটি সেন্ট্রামে একটি জমকালো অনুষ্ঠানে উদ্বোধন করা হয়েছে যেখানে আধুনিক সুবিধা এবং সবুজ পরিবেশ তুলে ধরা হয়। কোম্পানি ঢাকায় টেকসই এবং আধুনিক আবাসন তৈরিতে প্রতিশ্রুতিবদ্ধ।"
-   }
-  },
-  {
-   "id": "r19kse",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/deefxvkhnd",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-06/7q7e6zvw/Trafficked.avif",
-   "published": "2026-10-06T15:30:20.000Z",
-   "added": "2026-10-06T16:46:34.245Z",
-   "origTitle": "He reached Libya, held hostage and later returned empty-handed",
-   "en": {
-    "title": "Man trafficked to Libya, tortured, returned with nothing",
-    "summary": "A Bangladeshi worker was promised safe passage to Italy for Tk 1.2 million but was instead trafficked through India, Sri Lanka, UAE, and Egypt to Libya. He was held hostage, tortured, and extorted for an extra Tk 600,000. Police arrested two gang members at Ashkona in Dhaka after his return."
-   },
-   "bn": {
-    "title": "লিবিয়ায় নিয়ে যাওয়া হয়েছিল, নির্যাতিত হয়েছেন, খালি হাতে ফিরেছেন",
-    "summary": "ইতালিতে যাওয়ার প্রতিশ্রুতিতে ১২ লক্ষ টাকা দিয়ে একজন বাংলাদেশি কর্মচারীকে ভারত, শ্রীলংকা, আরব আমিরাত এবং মিশর হয়ে লিবিয়ায় নিয়ে যাওয়া হয়। সেখানে তাকে বন্দী রেখে নির্যাতন করা হয় এবং অতিরিক্ত ৬ লক্ষ টাকা আদায় করা হয়। ঢাকার আশকোনায় পুলিশ দুজন পাচারকারীকে গ্রেপ্তার করেছে।"
-   }
-  },
-  {
-   "id": "1ey4ete",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/pros-and-cons-of-using-peptides/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/EXP_Using_Peptides_G_PH.jpg",
-   "published": "2026-10-06T16:10:02.000Z",
-   "added": "2026-10-06T16:46:24.263Z",
-   "origTitle": "Pros And Cons Of Using Peptides",
-   "en": {
-    "title": "Onion unpacks the peptide craze sweeping wellness influencers",
-    "summary": "The Onion satirizes the peptide boom promoted by health figures like RFK Jr. The joke: peptides meet the same vague safety standards as extreme energy drinks, some haven't been approved by Joe Rogan, and you can't tell if you're getting too much arsenic. A sharp dig at wellness hype and unregulated supplements."
-   },
-   "bn": {
-    "title": "পেপটাইড ক্রেজ নিয়ে দ্য অনিয়ন বিদ্রুপ করছে",
-    "summary": "দ্য অনিয়ন আরএফকে জুনিয়রের মতো স্বাস্থ্য তথ্য দ্বারা প্রচারিত পেপটাইড বুমকে ব্যঙ্গি করছে। মজা: পেপটাইড এনার্জি ড্রিংকের মতো অস্পষ্ট নিরাপত্তা মান পূরণ করে, কিছু জো রোগান দ্বারা অনুমোদিত নয়। সুস্থতার হাইপ এবং অনিয়ন্ত্রিত সাপ্লিমেন্টের একটি তীক্ষ্ণ সমালোচনা।"
-   }
-  },
-  {
-   "id": "1dxr2ay",
-   "section": "bhabna",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/06/your-one-piece-of-philosophy-grad-school-advice/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/10/hand-index-finger.jpg",
-   "published": "2026-10-06T13:27:53.000Z",
-   "added": "2026-10-06T16:46:24.263Z",
-   "origTitle": "Your One Piece of Philosophy Grad School Advice",
-   "en": {
-    "title": "One essential tip for philosophy grad students: communicate, don't isolate",
-    "summary": "Philosophy grad students often struggle silently with coursework, writing, or classroom confidence. But experts say the best advice is simple: talk to advisors, other professors, and fellow students instead of hiding your problems. Many successful philosophers felt lost too and recovered by reaching out for help and guidance."
-   },
-   "bn": {
-    "title": "দর্শন স্নাতক শিক্ষার্থীদের জন্য গুরুত্বপূর্ণ পরামর্শ: যোগাযোগ করুন",
-    "summary": "দর্শনের স্নাতক শিক্ষার্থীরা প্রায়ই নীরবে পাঠ্যক্রম এবং লেখার সাথে সংগ্রাম করে। বিশেষজ্ঞরা বলেন সেরা পরামর্শ সহজ: পরামর্শদাতা এবং অন্যান্য ছাত্রদের সাথে কথা বলুন। অনেক সফল দার্শনিক হারিয়ে গিয়েছেন কিন্তু সাহায্য চেয়ে এগিয়ে গেছেন।"
-   }
-  },
-  {
-   "id": "1wxq3q8",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/06/ireland-county-mayo-canadian-coast-guard-buoy/1221791304125/",
-   "image": "https://cdnph.upi.com/ph/st/th/1221791304125/2026/i/17913042392414/v1.5/Canadian-buoy-floats-more-than-3000-miles-to-Ireland.jpg",
-   "published": "2026-10-06T16:31:50.000Z",
-   "added": "2026-10-06T16:46:24.263Z",
-   "origTitle": "Look: Canadian buoy floats more than 3,000 miles to Ireland",
-   "en": {
-    "title": "Canadian buoy completes 3,000-mile ocean voyage to Ireland",
-    "summary": "An Irish county is working to recover a large Canadian buoy that drifted across the Atlantic Ocean. The unexpected visitor traveled over 3,000 miles before washing up on the Irish coast. Officials are amazed by the journey of this unusual oceanic arrival."
-   },
-   "bn": {
-    "title": "কানাডার বোয়া ৩,০০০ মাইল ভেসে আয়ারল্যান্ডে পৌঁছেছে",
-    "summary": "আইরিশ জেলা একটি বড় কানাডিয়ান বোয়া উদ্ধার করছে যা আটলান্টিক মহাসাগরে ভেসে এসেছে। অপ্রত্যাশিত দর্শক ৩,০০০ মাইলের বেশি দূরত্ব অতিক্রম করে আইরিশ উপকূলে পৌঁছেছে। কর্মকর্তারা এই যাত্রায় বিস্মিত।"
-   }
-  },
-  {
-   "id": "1ce7fgr",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff2/live/9164de70-c174-11f1-babe-4199b0e7ccea.jpg",
-   "published": "2026-10-06T10:05:42.000Z",
-   "added": "2026-10-06T16:46:24.263Z",
-   "origTitle": "Former German spy chief arrested for espionage and treason",
-   "en": {
-    "title": "Former German spy chief arrested for selling secrets abroad",
-    "summary": "August Hanning, who led Germany's Federal Intelligence Service from 1998 to 2005, was arrested on suspicion of espionage and treason. Prosecutors say he used classified intelligence to draft analysis for foreign intelligence agencies. A former BND employee, Manfred D, was also arrested for allegedly passing roughly 2,000 classified documents to Hanning in exchange for money."
-   },
-   "bn": {
-    "title": "জার্মান গোয়েন্দা প্রধান গোপন তথ্য বিক্রয়ের জন্য গ্রেফতার",
-    "summary": "জার্মানির ফেডারেল ইন্টেলিজেন্স সার্ভিসের প্রাক্তন প্রধান আগাস্ট হ্যানিং গোপনীয়তা এবং রাজদ্রোহের সন্দেহে গ্রেফতার হয়েছেন। প্রসিকিউটররা বলেন তিনি বিদেশি গোয়েন্দা সংস্থার জন্য শ্রেণীবদ্ধ বিশ্লেষণ তৈরি করেছেন। প্রাক্তন কর্মচারী ম্যানফ্রেড ডি প্রায় ২,০০০ গোপন নথি হ্যানিংকে বিক্রয়ের অভিযোগে গ্রেফতার হয়েছেন।"
-   }
-  },
-  {
-   "id": "2td68t",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
-   "published": "2026-10-06T16:35:00.000Z",
-   "added": "2026-10-06T16:46:24.263Z",
-   "origTitle": "Mirror Particle is building a ‘world model’ of human behavior",
-   "en": {
-    "title": "Mirror Particle builds AI to predict how humans actually behave",
-    "summary": "San Francisco startup Mirror Particle thinks large language models are the wrong tool for predicting human behavior. CEO Abhivyakti Ahuja argues LLMs miss what matters: visual perception, spatial reasoning, and social intelligence. The two-year-old company is building its own foundation model from scratch to simulate why humans do what they do."
-   },
-   "bn": {
-    "title": "এআই দিয়ে মানুষের আচরণ পূর্বাভাস দিতে চায় মিরর পার্টিকেল",
-    "summary": "সান ফ্রান্সিসকোর স্টার্টআপ মিরর পার্টিকেল মনে করে বড় ভাষা মডেল মানুষের আচরণ পূর্বাভাসের জন্য ভুল পদ্ধতি। সিইও অভিব্যক্তি আহুজা বলেন এলএলএম ভিজ্যুয়াল উপলব্ধি এবং সামাজিক বুদ্ধিমত্তা মিস করে। দুই বছরের পুরাতন এই কোম্পানি শূন্য থেকে নিজস্ব মডেল তৈরি করছে।"
-   }
-  },
-  {
-   "id": "1cvxamp",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/foreign/asia/972849/%E0%A6%B8%E0%A6%BF%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B2-%E0%A6%93-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE",
-   "image": null,
-   "published": "2026-10-06T16:15:04.000Z",
-   "added": "2026-10-06T16:46:24.263Z",
-   "origTitle": "সিইসির বিরুদ্ধে বিক্ষোভে আটক রাহুল ও প্রিয়াঙ্কা গান্ধী",
-   "en": {
-    "title": "Gandhi cousins arrested at Delhi protest against election chief",
-    "summary": "Rahul Gandhi and Priyanka Gandhi were arrested in New Delhi on Tuesday while protesting against the Chief Election Commissioner. The opposition coalition India demanded CEC Gyanesh Kumar's resignation and changes to voter rolls. Police detained several top political leaders during the demonstration near Akashvani Bhavan."
-   },
-   "bn": {
-    "title": "নির্বাচন কমিশনারের বিরুদ্ধে প্রতিবাদে গান্ধী কাজিনরা গ্রেফতার",
-    "summary": "মঙ্গলবার নয়াদিল্লিতে নির্বাচন কমিশনার জ্ঞানেশ কুমারের পদত্যাগের দাবিতে বিক্ষোভে রাহুল গান্ধী এবং প্রিয়াঙ্কা গান্ধী গ্রেফতার হয়েছেন। বিরোধী জোট ইন্ডিয়া ভোটার তালিকা সংশোধনও দাবি করেছে। দিল্লি পুলিশ আকাশবাণী ভবন চত্বর থেকে প্রদর্শনকালে কয়েকজন শীর্ষ রাজনৈতিক নেতাকে আটক করেছে।"
    }
   }
  ]
