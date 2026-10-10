@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-10-10T00:44:38.874Z",
+ "updatedAt": "2026-10-10T06:59:21.997Z",
  "burning": [
   {
-   "id": "ax1ip7",
+   "id": "xzn59j",
    "heat": 5,
    "why": {
-    "en": "Navi Pillay's Nobel Peace Prize win covered by multiple outlets as major international news.",
-    "bn": "নাভি পিল্লের নোবেল শান্তি পুরস্কার জেতা একাধিক মিডিয়ায় শীর্ষ আন্তর্জাতিক খবর।"
+    "en": "Navi Pillay's Nobel Peace Prize win covered by multiple outlets with high search traffic.",
+    "bn": "নাভি পিল্লের নোবেল শান্তি পুরস্কার জয় একাধিক মাধ্যমে প্রকাশিত এবং ট্রেন্ডিং।"
    },
    "rank": 1
+  },
+  {
+   "id": "gm84yf",
+   "heat": 4,
+   "why": {
+    "en": "Elon Musk's Starlink dispute with Ambani is major tech story with global implications.",
+    "bn": "ইলন মাস্ক-অম্বানি স্টারলিংক বিরোধ বৈশ্বিক প্রভাবসম্পন্ন প্রযুক্তি সংবাদ।"
+   },
+   "rank": 2
   },
   {
    "id": "1i2yonf",
    "heat": 4,
    "why": {
-    "en": "Trump-Zelensky dispute over Russian diesel deal generating geopolitical tension.",
-    "bn": "ট্রাম্প-জেলেনস্কির রাশিয়ান ডিজেল চুক্তিতে বিরোধ ভূরাজনৈতিক টানাপড়ি সৃষ্টি করছে।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "1ejtyc3",
-   "heat": 4,
-   "why": {
-    "en": "West Indies T20 thriller over India drawing cricket fans' attention across region.",
-    "bn": "ওয়েস্ট ইন্ডিজের টি-টোয়েন্টি রোমাঞ্চকর জয় সারা অঞ্চলে ক্রিকেট ভক্তদের আকৃষ্ট করছে।"
+    "en": "Trump's Russian diesel deal and Zelensky's response covered by multiple major outlets.",
+    "bn": "ট্রাম্পের রাশিয়ান ডিজেল ডিল এবং জেলেনস্কির প্রতিক্রিয়া বহু মাধ্যমে প্রতিফলিত।"
    },
    "rank": 3
   },
@@ -32,84 +32,68 @@
    "id": "k0h4l1",
    "heat": 3,
    "why": {
-    "en": "Fake jobs scam gang arrested in Bangladesh, resonates with local audience.",
-    "bn": "বাংলাদেশে নকল চাকরির স্ক্যাম গ্যাং ধরা পড়া স্থানীয় দর্শকদের সাথে সংযোগ স্থাপন করছে।"
+    "en": "Gang busted for running Tk 1m fake job scheme—major crime story in Bangladesh.",
+    "bn": "১০ লক্ষ টাকার নকল চাকরির গ্যাং আটক—বাংলাদেশে বড় অপরাধ সংবাদ।"
    },
    "rank": 4
   },
   {
-   "id": "72xt1x",
+   "id": "160bes7",
    "heat": 3,
    "why": {
-    "en": "Rooppur nuclear plant approval marks major infrastructure milestone for Bangladesh.",
-    "bn": "রূপপুর পরমাণু প্রকল্পের অনুমোদন বাংলাদেশের জন্য বড় অবকাঠামো মাইলফলক।"
+    "en": "Joypurhat football final drew massive crowds, a local sports highlight.",
+    "bn": "জয়পুরহাটের ফুটবল ফাইনালে বিশাল ভিড় জমায়েত।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "cnkos8",
-   "tag": "#Politics",
+   "id": "xzn59j",
+   "tag": "#NobelPeacePrize",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "BJP dominates West Bengal bypolls",
-    "text": "Ruling party sweeps elections in Nandigram and Reginganj assembly constituencies, consolidating regional influence."
+    "title": "Judge Navi Pillay wins Nobel Peace Prize",
+    "text": "South Africa's Navi Pillay, a UN human rights chief and international law expert, has been awarded the 2026 Nobel Peace Prize for her decades of work on human rights and justice."
    },
    "bn": {
-    "title": "পশ্চিমবঙ্গে বিজেপির আধিপত্য",
-    "text": "নন্দীগ্রাম এবং রেজিনগঞ্জ বিধানসভা এলাকায় সরকারি দল নির্বাচনে জয়লাভ করেছে এবং আঞ্চলিক প্রভাব শক্তিশালী করেছে।"
+    "title": "নাভি পিল্লে নোবেল শান্তি পুরস্কার জিতেছেন",
+    "text": "দক্ষিণ আফ্রিকার নাভি পিল্লে, যিনি জাতিসংঘের মানবাধিকার প্রধান, আন্তর্জাতিক আইন বিশেষজ্ঞ হিসেবে ২০২৬ সালের নোবেল শান্তি পুরস্কার জিতেছেন।"
    }
   },
   {
-   "id": "1jtgz0i",
-   "tag": "#RIP",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Indian actor Nana Patekar dies",
-    "text": "Veteran Bollywood star passes away after cardiac arrest, mourned by film industry and fans."
-   },
-   "bn": {
-    "title": "অভিনেতা নানা পাটেকর প্রয়াত",
-    "text": "বলিউড অভিনেতা হৃদযন্ত্রের ক্রিয়া বন্ধ হয়ে মারা গেছেন, চলচ্চিত্র শিল্প ও ভক্তরা শোকাহত।"
-   }
-  },
-  {
-   "id": "1rch6nu",
-   "tag": "#F1Racing",
+   "id": "anr34l",
+   "tag": "#MadeInBangladesh",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Russell tops smoggy Singapore GP",
-    "text": "Mercedes driver sets fastest practice time despite hazy conditions at Marina Bay circuit."
+    "title": "Trump's suit made in Bangladesh",
+    "text": "A Bangladesh factory has confirmed it manufactured clothing for Trump, adding to Bangladesh's role in global fashion production."
    },
    "bn": {
-    "title": "রাসেল সিঙ্গাপুরে দ্রুততম",
-    "text": "মার্সিডিজ চালক মেরিনা বে সার্কিটে অস্পষ্ট পরিবেশেও প্র্যাকটিসে দ্রুততম সময় নির্ধারণ করেছেন।"
+    "title": "ট্রাম্পের পোশাক বাংলাদেশে তৈরি",
+    "text": "একটি বাংলাদেশি কারখানা ট্রাম্পের পোশাক তৈরি করেছে বলে নিশ্চিত করেছে, যা বৈশ্বিক ফ্যাশন শিল্পে বাংলাদেশের ভূমিকা তুলে ধরে।"
    }
   },
   {
    "id": "194m5fe",
-   "tag": "#Infrastructure",
+   "tag": "#GreenTransport",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 2,
    "en": {
     "title": "Chattogram gets first cycle track",
-    "text": "Bangladesh launches dedicated cycling infrastructure in major port city to boost green transport."
+    "text": "Bangladesh has opened its first-ever dedicated cycle track in Chattogram, marking a step toward sustainable urban transport."
    },
    "bn": {
     "title": "চট্টগ্রামে প্রথম সাইকেল ট্র্যাক",
-    "text": "বাংলাদেশ প্রধান বন্দর শহরে সাইকেলের জন্য সংরক্ষিত পথ চালু করেছে যা সবুজ পরিবহন বাড়াবে।"
+    "text": "বাংলাদেশে চট্টগ্রামে প্রথমবারের মতো নিবেদিত সাইকেল ট্র্যাক চালু হয়েছে, টেকসই শহুরে পরিবহনের পথে এগিয়ে যাওয়ার পদক্ষেপ।"
    }
   }
  ],

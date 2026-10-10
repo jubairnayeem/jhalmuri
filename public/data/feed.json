@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-10T00:44:22.122Z",
+ "updatedAt": "2026-10-10T06:59:07.155Z",
  "items": [
+  {
+   "id": "160bes7",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/c17wdhpjkp",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-10/d2gj76og/JOYPURHATFootball-1.JPG",
+   "published": "2026-10-10T06:36:48.000Z",
+   "added": "2026-10-10T06:59:04.848Z",
+   "origTitle": "জয়পুরহাটে ফুটবলের ফাইনাল দেখতে ভিড়, স্টেডিয়াম ছাপিয়ে দর্শক ছাদ-চিলেকোঠায়",
+   "en": {
+    "title": "Joypurhat Football Final Draws Massive Crowd, Fans Watch From Rooftops",
+    "summary": "Kalaai upazila won the District Administrator's Gold Cup football final against Joypurhat Sadar in a tiebreaker, 4-3. The match at Joypurhat Stadium on Friday drew such a huge crowd that fans sat on nearby rooftops and lofts to watch. Supporters travelled in 14 buses from Kalaai to support their team. The tournament featured eight teams from five upazilas and three municipalities."
+   },
+   "bn": {
+    "title": "জয়পুরহাট ফুটবল ফাইনাল ছাদ-চিলেকোঠায় দর্শক, রেকর্ড ভিড়",
+    "summary": "কালাই উপজেলা জয়পুরহাট সদর উপজেলাকে টাইব্রেকারে ৪-৩ গোলে হারিয়ে জেলা প্রশাসক গোল্ডকাপ ফুটবল টুর্নামেন্টে চ্যাম্পিয়ন হয়েছে। শুক্রবার জয়পুরহাট স্টেডিয়ামে এত বেশি দর্শক গিয়েছিল যে অনেকে আশপাশের বাড়ির ছাদ ও চিলেকোঠায় খেলা দেখেন। কালাই থেকে ১৪টি বাসে করে সমর্থকরা এসেছিলেন। টুর্নামেন্টে পাঁচটি উপজেলা ও তিনটি পৌরসভার মোট আটটি দল অংশ নিয়েছে।"
+   }
+  },
+  {
+   "id": "1e9xydk",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/politics/7zxcr7lcx3",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-10/4sa4indr/prothomalo-bangla2026-10-10mk7ccnm91-image-Template-2-Recovered.avif",
+   "published": "2026-10-10T06:04:40.000Z",
+   "added": "2026-10-10T06:59:04.848Z",
+   "origTitle": "Ex-BCL leader Mahfuzul Haider dies in Kolkata",
+   "en": {
+    "title": "Former BCL Leader Mahfuzul Haider Dies in Kolkata at 48",
+    "summary": "Mahfuzul Haider Chowdhury, former general secretary of Bangladesh Chhatra League, has died at a hospital in Kolkata at age 48. He was suffering from stomach cancer. Following the ouster of Sheikh Hasina in August 2024, he went to India for treatment, initially in Chennai before moving to Kolkata. He led the Chhatra League from 2006 to 2011 and was an alumnus of Dhaka University."
+   },
+   "bn": {
+    "title": "সাবেক বিএনএল নেতা মাহফুজুল হায়দার কলকাতায় মৃত, বয়স ৪৮",
+    "summary": "বাংলাদেশ ছাত্র লীগের সাবেক সাধারণ সম্পাদক মাহফুজুল হায়দার চৌধুরী কলকাতায় একটি হাসপাতালে মৃত্যুবরণ করেছেন, বয়স ৪৮। তিনি পেটের ক্যান্সারে ভুগছিলেন। শেখ হাসিনার পদত্যাগের পর আগস্ট ২০২৪-এ তিনি ভারতে চিকিৎসার জন্য যান, প্রথমে চেন্নাইতে পরে কলকাতায়। তিনি ২০০৬ থেকে ২০১১ পর্যন্ত ছাত্র লীগের নেতৃত্ব দিয়েছিলেন এবং ঢাকা বিশ্ববিদ্যালয়ের প্রাক্তন ছাত্র ছিলেন।"
+   }
+  },
+  {
+   "id": "gm84yf",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
+   "published": "2026-10-10T03:10:06.000Z",
+   "added": "2026-10-10T06:59:04.848Z",
+   "origTitle": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+   "en": {
+    "title": "Elon Musk Escalates Starlink Row With India's Ambani Over Launch Delay",
+    "summary": "Elon Musk has intensified criticism of billionaire Mukesh Ambani, accusing him of blocking Starlink's launch in India to protect Reliance's telecom monopoly. Musk called Ambani India's \"prime minister\" and asked if he is \"the real boss of India.\" India's government rejected allegations that regulators are blocking Starlink unfairly, saying the process is fair and non-discriminatory. SpaceX has sought approval for years to launch the satellite service."
+   },
+   "bn": {
+    "title": "ভারতে স্টারলিংক চালু বিলম্বে মাস্ক-আম্বানি বিরোধ তীব্র",
+    "summary": "ইলন মাস্ক ভারতীয় বিলিয়নেয়ার মুকেশ আম্বানিকে স্টারলিংক চালু বন্ধ করার অভিযোগ করেছেন। মাস্ক আম্বানিকে ভারতের \"প্রধানমন্ত্রী\" বলে ডাকলেন এবং জিজ্ঞেসা করলেন তিনি \"ভারতের আসল বস\" কি না। ভারত সরকার অভিযোগ খারিজ করে বলেছে নিয়ন্ত্রক প্রক্রিয়া ন্যায্য এবং নিরপেক্ষ। স্পেসএক্স বছরের পর বছর ধরে স্টারলিংক সেবা চালু করার অনুমতি চাইছে।"
+   }
+  },
+  {
+   "id": "e3xvw9",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%8A%D9%86-%D8%B3%D8%B9%D8%AF%D8%A7%D8%A1-%D8%A8%D8%B9%D8%AF-%D8%AD%D8%B5%D9%88%D9%84%D9%87%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%8A%D8%A7%D9%87-%D9%84%D9%84%D8%B4%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B5%D8%A9-1791566616.jpeg?resize=1920%2C1440",
+   "published": "2026-10-10T06:20:53.000Z",
+   "added": "2026-10-10T06:59:04.848Z",
+   "origTitle": "Yemen’s Taiz under siege again as food and fuel prices rise",
+   "en": {
+    "title": "Yemen's Taiz Faces New Houthi Siege as Prices Spike",
+    "summary": "Yemen's city of Taiz is under siege again after Houthis captured territory to the south, cutting off the main road to government-held areas. The group captured the port city of Mocha and the district of Dhubab in early September, then took the town of al-Turbah by October 4. Residents recall the 2015-2016 siege when food and fuel became scarce. The Bab al-Mandeb strait near captured territory handles 12% of global trade."
+   },
+   "bn": {
+    "title": "তায়েজ আবার হুথি অবরোধের মুখোমুখি, খাদ্য ও জ্বালানি দাম বৃদ্ধি",
+    "summary": "ইয়েমেনের তায়েজ শহর আবার হুথি অবরোধের মুখে পড়েছে। হুথিরা সেপ্টেম্বর শুরুতে মোচা বন্দর ও ধুবাব জেলা দখল করে, অক্টোবর ৪ তারিখে আল-তুরবাহ শহর জয় করে তায়েজের সাথে সড়ক সংযোগ বিচ্ছিন্ন করে। বাসিন্দারা ২০১৫-২০১৬ সালের অবরোধ মনে করছেন যখন খাদ্য এবং জ্বালানি সংকট ছিল। বাব আল-মান্ডেব প্রণালী বিশ্বব্যাপী বাণিজ্যের ১২ শতাংশ পরিচালনা করে।"
+   }
+  },
+  {
+   "id": "eflyhl",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c6n4ez0339qlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+   "published": "2026-10-10T05:20:24.000Z",
+   "added": "2026-10-10T06:59:04.848Z",
+   "origTitle": "ট্রাম্পের ঘোষণা করা রাশিয়ান ডিজেল চুক্তিকে পুতিনের জন্য উপহার বলছেন জেলেনস্কি",
+   "en": {
+    "title": "Zelensky Calls Trump's Russian Diesel Deal a Gift to Putin",
+    "summary": "Ukraine's President Volodymyr Zelensky has criticized US President Trump's announcement of a Russian diesel import deal, calling it a gift to Putin. Trump says Russia will immediately release 300,000 tonnes of diesel to US and global markets, with 500,000 more in November and 1 million more later. Zelensky argues the war should be ended, not prolonged. Analysts question whether Russia can deliver such volumes and whether US fuel prices will actually drop."
+   },
+   "bn": {
+    "title": "জেলেনস্কি ট্রাম্পের রাশিয়ান ডিজেল চুক্তিকে পুতিনের উপহার বলছেন",
+    "summary": "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি ট্রাম্পের রাশিয়ান ডিজেল আমদানি চুক্তিকে পুতিনের জন্য উপহার বলে সমালোচনা করেছেন। ট্রাম্প বলেছেন রাশিয়া তাৎক্ষণিকভাবে ৩ লাখ টন ডিজেল, নভেম্বরে ৫ লাখ টন এবং পরে আরও ১০ লাখ টন সরবরাহ করবে। জেলেনস্কি বলছেন যুদ্ধ দীর্ঘায়িত না করে বাতিল করা উচিত। বিশ্লেষকরা প্রশ্ন তুলছেন রাশিয়া আদৌ এত ডিজেল দিতে পারবে কিনা এবং আমেরিকার জ্বালানি দামে উল্লেখযোগ্য পরিবর্তন আসবে কিনা।"
+   }
+  },
+  {
+   "id": "1wcr7gd",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/asia/thailands-queen-suthida-flies-fighter-jet-solo-1568061",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/10/thailand_queen_suthida.jpg",
+   "published": "2026-10-10T06:45:00.000Z",
+   "added": "2026-10-10T06:59:04.848Z",
+   "origTitle": "Thailand's Queen Suthida flies fighter jet solo",
+   "en": {
+    "title": "Thailand's Queen Becomes First Female Monarch to Fly Fighter Jet Solo",
+    "summary": "Queen Suthida of Thailand piloted a Gripen fighter jet alone, making history as the first reigning female monarch to do so. The 48-year-old former air hostess has held a pilot's licence since 2010 and has logged over 1,000 flying hours. Her husband, King Maha Vajiralongkorn, greeted her on the tarmac with flowers. Thailand's government calls her the \"pilot queen\" for her aviation skills."
+   },
+   "bn": {
+    "title": "থাইল্যান্ডের রানী একা ফাইটার জেট উড়ান দিয়ে ইতিহাস সৃষ্টি করলেন",
+    "summary": "থাইল্যান্ডের রানী সুথিদা একা গ্রিপেন ফাইটার জেট উড়িয়ে ইতিহাস তৈরি করেছেন—তিনি এই কাজ করা প্রথম রাজকীয় মহিলা। ৪৮ বছর বয়সী রানী ২০১০ সাল থেকে পাইলট লাইসেন্স ধারণ করছেন এবং ১,০০০ ঘণ্টারও বেশি উড়ান দিয়েছেন। রানওয়েতে তার স্বামী রাজা মহা বজিরালংকর্ন ফুল দিয়ে তাকে স্বাগত জানান। থাইল্যান্ড তাকে \"পাইলট রানী\" হিসেবে ডাকে।"
+   }
+  },
   {
    "id": "abdyav",
    "section": "news",
@@ -2441,138 +2573,6 @@
    "bn": {
     "title": "চট্টগ্রাম সিটি কর্পের বিল্ডিংয়ে মেয়র গ্রেফতারি বাধা দিলেন?",
     "summary": "পুলিশ ৬ অক্টোবর চট্টগ্রাম সিটি কর্পরেশনে চাওয়া অপরাধী ওয়াকিল হোসেন ওরফে 'বিহারি বোগা'কে ধরতে গেছিল। মেয়র ডাক্তার শাহাদত হোসেন বলেন, বোগা সেখানে ছিল না এবং এটা নির্বাচনের আগে অপপ্রচার। পুলিশ নিশ্চিত করে যে বোগা একজন চাওয়া আপরাধী এবং তার বিরুদ্ধে একাধিক মামলা আছে। বাইরে হৈচৈ হয়েছিল এবং সাংবাদিকরা বলেন মেয়রের সমর্থকরা তাদের ধাক্কা দিয়েছে এবং ফোন নিয়েছে।"
-   }
-  },
-  {
-   "id": "jvu4s6",
-   "section": "hasi",
-   "cat": "khela",
-   "tone": "light",
-   "satire": true,
-   "src": "eArki",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNMFVKaW1uQnRyVWQ3Y2xaVUxNZ0RaTktsbVpzdW9ONGFUOER5cW9JNmEyNjB5THRLSDhKS1lPQUMzVDAydWFId2dja296WTRQaHpPajJmU2dGdy1Ga3JzQ0dCaTdTVUphb3QzV2hUWGh4cmlLc0w1QUJtOGlFSk1MVUlVWE9MbEg4M01xVTUwcXVvVEhhYXZjQUl1eHF5N0lnQ3JJcVlIMGRuOXI1MjBSSFpvY3RVcmNVdjlKYjhvMEVxRl9lX25GVV9aRnFiWWg1b2RZTTA2dFE2V0V4RWtSUlQ2RDFtVGZuU19la0gyWTRwaG5wbTNnNEdZTzM1T19FQ2pvNXZpaW1iOWkzenlfLTEwYjRXNGdkOXQ5RG9DVVV3RC1OMW9wZWZXVWNpR19QU2todllQcWdaaE5xRy1UNDdQQ3ZMdmt6Q0ZvcjNicWJPSXZlZ1VKV09paHJ2emVwLXFuZzJVdzJzOU5tN0hYd2FFNm5HV2JUeWtJYUNOY0NQYkxCSUoyaFBqWmJWV29xZXhNeVF2UW5rMmVJQjF1eWlXZm9Kc21QQ2thajAyelh1YXNSLThET1hwMzRlLWNiT3Ywamt3WF9oTHZ5TTZwclFBQm1XeEpVcHdhVWg3a0lCZFg1cGtaM24wS0F1dlRVamlsdkRGTlFRaW1QNFZ4NzhVT25FRzQ0NXFXbW5wWWdfVXlKMWdtcnJXcWVseGtVbVI4RWJ3aHN6aTRCdUFvSlNUYl95SEVBVjVZMVl6R3llVTc5dVJv?oc=5",
-   "image": null,
-   "published": "2026-10-06T10:55:31.000Z",
-   "added": "2026-10-07T01:28:09.891Z",
-   "origTitle": "শেষ ম্যাচে ম্যাচ শুরুর ৫ মিনিটের মধ্যেই পেনাল্টি চায় মেসি ফ্যানরা",
-   "en": {
-    "title": "Messi fans demand penalty within 5 minutes of final match",
-    "summary": "This is satire. Fans are jokingly demanding that a penalty be given to Messi within the first five minutes of his final match. It's a humorous take on how enthusiastically fans support their favourite player, even when asking for the impossible."
-   },
-   "bn": {
-    "title": "মেসির চূড়ান্ত ম্যাচে ৫ মিনিটে পেনাল্টি চান ফ্যানরা",
-    "summary": "এটি হাস্যরস। ফ্যানরা মজা করে বলছে যে মেসির শেষ ম্যাচে প্রথম পাঁচ মিনিটেই পেনাল্টি দিতে হবে। এটি ফুটবল ফ্যানদের তাদের প্রিয় খেলোয়াড়কে কত আপ্লাট করে তার একটি মজার উপস্থাপনা।"
-   }
-  },
-  {
-   "id": "k4y2u7",
-   "section": "bhabna",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "1000-Word Philosophy",
-   "srcLang": "en",
-   "url": "https://1000wordphilosophy.com/2026/10/06/ship-of-theseus/?utm_source=rss&utm_medium=rss&utm_campaign=ship-of-theseus",
-   "image": "https://1000wordphilosophy.com/wp-content/uploads/2026/10/ship-of-theseus-meme.jpg",
-   "published": "2026-10-06T21:48:58.000Z",
-   "added": "2026-10-07T01:27:52.950Z",
-   "origTitle": "The Ship of Theseus: What Makes an Object the Same Object Over Time?",
-   "en": {
-    "title": "Ship of Theseus: What Makes Something 'Itself' Over Time?",
-    "summary": "Imagine a ship where every wooden plank gradually gets replaced. After years, nothing original remains—so is it the same ship? This ancient puzzle, called the Ship of Theseus, forces us to ask: what makes something *itself*? Does identity depend on having original parts, or on continuity of form? The answer matters because we assume the mug you bought yesterday is the same mug today, yet your body's atoms are constantly replaced. Philosophy suggests identity might be trickier than it seems."
-   },
-   "bn": {
-    "title": "থিসিউসের জাহাজ: কালের সাথে কোনো জিনিস কীভাবে একই থাকে?",
-    "summary": "কল্পনা করুন একটি জাহাজ যেখানে প্রতিটি কাঠের তক্তা ধীরে ধীরে বদলে যায়। বছরের পর বছর পরে, কিছুই আসল থাকে না—তাহলে এটি একই জাহাজ? এই প্রাচীন ধাঁধা আমাদের প্রশ্ন করায়: কোনো জিনিস নিজের মতো থাকে কীভাবে? পরিচয় আসল অংশ থাকার উপর নির্ভর করে নাকি রূপের ধারাবাহিকতার উপর? এটা গুরুত্বপূর্ণ কারণ আমরা ধরে নিই গতকাল কেনা আপনার মগ আজকেও একই, অথচ আপনার শরীরের পরমাণু ক্রমাগত বদলায়।"
-   }
-  },
-  {
-   "id": "1nei0nn",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/football/xi1stw4j5y",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-06/gaqeu92r/fbl-friendly-arg-ben-224838.jpg",
-   "published": "2026-10-06T21:45:06.000Z",
-   "added": "2026-10-07T01:27:52.950Z",
-   "origTitle": "পেনাল্টিতে মেসির গোল, আর্জেন্টিনার জার্সিতে ১২৬ নম্বর",
-   "en": {
-    "title": "Messi Scores Penalty in Argentina Victory Over Benin",
-    "summary": "Lionel Messi added his 126th international goal from the penalty spot as Argentina dominated Benin. After teammates Nicolás Otamendi and Nico Paz scored in the second half, Messi converted a penalty in the 71st minute when Augustin Djahy fouled in the box. Otamendi, 38, also played his final match and received a standing ovation when substituted. This is Messi's farewell game for Argentina."
-   },
-   "bn": {
-    "title": "মেসির পেনাল্টি গোলে আর্জেন্টিনার জয় বেনিনের উপর",
-    "summary": "লিওনেল মেসি পেনাল্টি থেকে তার ১২৬তম আন্তর্জাতিক গোল করেছেন যখন আর্জেন্টিনা বেনিনে আধিপত্য বিস্তার করেছে। নিকোলাস ওতামেন্দি এবং নিকো পাজ দ্বিতীয়ার্ধে গোল করার পর মেসি ৭১ মিনিটে পেনাল্টি রূপান্তরিত করেছেন। ৩৮ বছর বয়সী ওতামেন্দি তার চূড়ান্ত ম্যাচও খেলেছেন এবং প্রতিস্থাপনের সময় দাঁড়িয়ে করতালি পেয়েছেন। এটি মেসির আর্জেন্টিনার জন্য বিদায় ম্যাচ।"
-   }
-  },
-  {
-   "id": "10xn9yi",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/03/Amazon-fast-delivery.jpeg?resize=1200,675",
-   "published": "2026-10-06T22:55:39.000Z",
-   "added": "2026-10-07T01:27:52.950Z",
-   "origTitle": "How to find out if Amazon thinks you have ‘flat buttocks’",
-   "en": {
-    "title": "Amazon's Shopping Profile Reveals Uncomfortably Intimate Assumptions",
-    "summary": "Amazon tracks your purchases and makes personal assumptions about you—sometimes uncomfortably specific. One user discovered Amazon had listed that she 'has flat buttocks' in her shopping profile, alongside benign assumptions like owning a robot vacuum. The discovery went viral on Threads with over a million views. You can find your Amazon profile assumptions on desktop by clicking 'Your Shopping preferences' under 'Account' in the upper right menu."
-   },
-   "bn": {
-    "title": "আমাজনের শপিং প্রোফাইলের অদ্ভুত অনুমান ভাইরাল",
-    "summary": "আমাজন আপনার ক্রয়ের উপর ভিত্তি করে আপনার ব্যক্তিগত অনুমান তৈরি করে—কখনও অত্যন্ত অন্তরঙ্গভাবে। একজন ব্যবহারকারী আবিষ্কার করেছেন যে আমাজন তার প্রোফাইলে তিনি 'সমতল নিতম্ব রয়েছেন' এমন ধারণা তালিকাভুক্ত করেছে। এই আবিষ্কারটি Threads-এ ভাইরাল হয়েছে দশ লক্ষের বেশি ভিউ সহ। আপনার প্রোফাইলের অনুমান খুঁজে পেতে ডেস্কটপে 'Your Shopping preferences'-এ যান।"
-   }
-  },
-  {
-   "id": "1j1nx4z",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac5845b-1791329371.jpg?resize=1920%2C1440",
-   "published": "2026-10-07T01:07:21.000Z",
-   "added": "2026-10-07T01:27:52.950Z",
-   "origTitle": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-   "en": {
-    "title": "Trump Faces Backlash Over Los Angeles, San Diego Remarks",
-    "summary": "US President Donald Trump sparked criticism from both Republicans and Democrats after suggesting at a Nebraska rally that Americans should accept the destruction of Los Angeles and San Diego as acceptable costs of war with Iran. Trump said these losses would be 'a very small price to pay' and claimed the conflict would end soon. California Governor Gavin Newsom called the remarks 'deranged' and 'dangerous,' urging Congress to rein in Trump's behaviour. The war is in its eighth month with no lasting ceasefire reached."
-   },
-   "bn": {
-    "title": "ট্রাম্পের লস অ্যাঞ্জেলেস বিষয়ক মন্তব্য নিয়ে বিতর্ক",
-    "summary": "আমেরিকার প্রেসিডেন্ট ডোনাল্ড ট্রাম্প নেব্রাস্কার এক র‍্যালিতে বলেছেন যে ইরানের সাথে যুদ্ধে লস অ্যাঞ্জেলেস এবং সান ডিয়েগো ধ্বংস হওয়া গ্রহণযোগ্য মূল্য হতে পারে। তিনি এটিকে 'বিশ্বকে নিরাপদ রাখার ছোট মূল্য' বলেছেন। রিপাবলিকান এবং ডেমোক্রেটরা উভয়েই সমালোচনা করেছেন। ক্যালিফোর্নিয়ার গভর্নর গ্যাভিন নিউসম এটিকে 'পাগলামি' বলে অভিহিত করেছেন। যুদ্ধটি এখন আট মাসে প্রবেশ করেছে এবং এখনও কোনো দীর্ঘমেয়াদী যুদ্ধবিরতি নেই।"
-   }
-  },
-  {
-   "id": "1dagpgd",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/sport/football/972884/%E0%A7%A8-%E0%A7%A6-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%87-%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE",
-   "image": null,
-   "published": "2026-10-07T01:19:40.000Z",
-   "added": "2026-10-07T01:27:52.950Z",
-   "origTitle": "৩-০ গোলে এগিয়ে আর্জেন্টিনা",
-   "en": {
-    "title": "Argentina Beat Benin 3-0 in Messi's Farewell Match",
-    "summary": "Lionel Messi scored his 126th international goal from a penalty as Argentina thrashed Benin 3-0 in his final match. Nicolás Otamendi and Nico Paz also scored in the second half at Buenos Aires's Estadio Monumental. The 38-year-old Otamendi, making his own farewell appearance, received a standing ovation when substituted. Messi's family watched from the stands as the Argentine legend ended his international career."
-   },
-   "bn": {
-    "title": "মেসির বিদায় ম্যাচে আর্জেন্টিনার ৩-০ জয়",
-    "summary": "আর্জেন্টিনা বেনিনকে ৩-০ গোলে হারিয়েছে লিওনেল মেসির চূড়ান্ত আন্তর্জাতিক ম্যাচে। মেসি পেনাল্টি থেকে তার ১২৬তম গোল করেছেন। নিকোলাস ওতামেন্দি এবং নিকো পাজও দ্বিতীয়ার্ধে গোল করেন। ৩৮ বছর বয়সী ওতামেন্দিও নিজের বিদায়ী ম্যাচ খেলেছেন এবং স্ট্যান্ডিং ওভেশন পেয়েছেন। মেসির পরিবার বুয়েনস আইরেসে তার অবসরের সাক্ষী ছিল।"
    }
   }
  ]
