@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-10T13:34:52.016Z",
+ "updatedAt": "2026-10-10T18:30:07.665Z",
  "items": [
+  {
+   "id": "a4xy6l",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14MGMzQV8wS0NGdEs0aHRQamNSSzBIR0NMeTdUalotbVkyWjN2dXZTelA5MUZySG9Gd0VVR1hSRnFqSDd3VGpkblA1TlVwM0J5MW11N3pGcnZGRDQ?oc=5",
+   "image": null,
+   "published": "2026-10-10T13:46:00.000Z",
+   "added": "2026-10-10T18:30:07.665Z",
+   "origTitle": "বিমানের কক্সবাজার ফ্লাইটে ল্যান্ডিং গিয়ারে সমস্যা, অবতরণ নিরাপদেই",
+   "en": {
+    "title": "Plane lands safely in Cox's Bazar despite landing gear issue",
+    "summary": "A plane flying to Cox's Bazar experienced a problem with its landing gear but touched down safely. The aircraft managed to land without incident despite the technical issue."
+   },
+   "bn": {
+    "title": "কক্সবাজারে বিমান নিরাপদে অবতরণ, ল্যান্ডিং গিয়ারে ছিল সমস্যা",
+    "summary": "কক্সবাজারের দিকে যাওয়া একটি বিমানে ল্যান্ডিং গিয়ারে সমস্যা দেখা দিয়েছিল। তবে বিমানটি নিরাপদে অবতরণ করতে সক্ষম হয়েছে।"
+   }
+  },
+  {
+   "id": "xgmr2d",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/capital/asrakpxsmo",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-10/hpesqv5e/abdul-moyeen-khan.jpeg",
+   "published": "2026-10-10T18:09:15.000Z",
+   "added": "2026-10-10T18:30:07.665Z",
+   "origTitle": "কোনো এক উপজেলায় বিশেষ সুবিধা নয়, উন্নয়ন হবে সুষম: স্থানীয় সরকারমন্ত্রী",
+   "en": {
+    "title": "Government pledges balanced development across all 503 upazilas",
+    "summary": "Local Government Minister Abdul Moin Khan said the government will ensure even development across all 503 upazilas without favoring one region over another. He stressed that no upazila should get benefits unavailable to neighboring areas. Officials and elected representatives must prioritize ordinary people's interests and implement the Prime Minister's grassroots-focused development plan."
+   },
+   "bn": {
+    "title": "সব উপজেলায় সমান উন্নয়ন নিশ্চিত করবে সরকার",
+    "summary": "স্থানীয় সরকার মন্ত্রী আবদুল মঈন খান বলেছেন, সরকার ৫০৩টি উপজেলার মানুষের স্বার্থ রেখে সুষম উন্নয়ন নিশ্চিত করবে। কোনো একটি উপজেলার জন্য এমন সুবিধা দেওয়া হবে না, যা পাশের উপজেলার মানুষ পাবে না। তিনি বলেন, সরকারি কর্মকর্তা ও জনপ্রতিনিধিদের প্রধান লক্ষ্য সাধারণ মানুষের স্বার্থ রক্ষা করা।"
+   }
+  },
+  {
+   "id": "t84uqh",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/international/india/n0hwg570cj",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-10/yx0jg28e/637495-01-02.jpg",
+   "published": "2026-10-10T16:41:26.000Z",
+   "added": "2026-10-10T18:29:59.612Z",
+   "origTitle": "India 'cockroach' movement says thousands detained during major protest in capital",
+   "en": {
+    "title": "India detains thousands protesting election commission misconduct allegations",
+    "summary": "Indian police detained Cockroach Janta Party founder Abhijeet Dipke and thousands of protesters in New Delhi on Saturday opposing Election Commission chief Gyanesh Kumar. The CJP said more than 15,000 were detained before reaching Jantar Mantar. Police blocked the main protest site as opposition parties and critics alleged the commission's voter-roll revision could disenfranchise millions and benefit PM Modi's party."
+   },
+   "bn": {
+    "title": "ভারত নির্বাচন কমিশনের দুর্বৃত্তি বিরোধী প্রতিবাদকারীদের গ্রেপ্তার",
+    "summary": "ভারতীয় পুলিশ নতুন দিল্লিতে শনিবার Cockroach Janta Party প্রতিষ্ঠাতা Abhijeet Dipke এবং নির্বাচন কমিশন প্রধান জ্ঞানেশ কুমারের বিরোধী হাজার হাজার প্রতিবাদকারীকে গ্রেপ্তার করেছে। CJP বলেছে ১৫,০০০ এর বেশি জনতা যন্তর মন্তরে পৌঁছানোর আগেই গ্রেপ্তার হয়েছে। বিরোধী পক্ষ দাবি করেছে কমিশনের ভোটার তালিকা সংশোধন লক্ষ লক্ষকে বঞ্চিত করতে পারে এবং প্রধানমন্ত্রী মোদির দলকে সুবিধা দিতে পারে।"
+   }
+  },
+  {
+   "id": "1rt5251",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6289.HEIC.jpg?resize=900,1200",
+   "published": "2026-10-10T17:00:00.000Z",
+   "added": "2026-10-10T18:29:59.612Z",
+   "origTitle": "Petra Power looks to modernize energy for data centers and defense vehicles",
+   "en": {
+    "title": "Petra Power's fuel cells offer energy boost for AI data centers",
+    "summary": "Petra Power, founded in 2017, makes solid oxide fuel cells that convert fuel like natural gas into electricity without burning it. The cells are more efficient than traditional power sources and produce lower emissions. Founder Aaron Goodman says the technology strips electrons directly from fuel in one step, cutting energy costs and physical footprint for data centers and large vehicles."
+   },
+   "bn": {
+    "title": "Petra Power এর ফুয়েল সেল AI ডেটা সেন্টারের শক্তি বৃদ্ধি",
+    "summary": "২০১৭ সালে প্রতিষ্ঠিত Petra Power এমন ফুয়েল সেল তৈরি করে যা প্রাকৃতিক গ্যাসকে না জ্বালিয়ে বিদ্যুৎ রূপান্তরিত করে। এই সেল ঐতিহ্যবাহী শক্তির উৎসের চেয়ে বেশি দক্ষ এবং কম নির্গমন তৈরি করে। প্রতিষ্ঠাতা বলেছেন প্রযুক্তি জ্বালানি থেকে সরাসরি ইলেকট্রন বের করে একটি ধাপে শেষ করে এবং শক্তি খরচ কমায়।"
+   }
+  },
+  {
+   "id": "1pulouu",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26056779376422-1791653467.jpg?resize=1920%2C1440",
+   "published": "2026-10-10T17:48:45.000Z",
+   "added": "2026-10-10T18:29:59.612Z",
+   "origTitle": "Nine killed in shooting in US state of Pennsylvania, including two children",
+   "en": {
+    "title": "Nine killed in Pennsylvania shooting, including two children",
+    "summary": "Nine people, including two children, were killed in a shooting in Erie, Pennsylvania on Friday. Police say the suspected shooter was among the dead. Police arrived around 5:00pm after reports of shots fired and found victims in the street and inside a home. Erie Police Chief Rick Lorah said he had not seen such devastation in his 28-plus years of service."
+   },
+   "bn": {
+    "title": "পেনসিলভেনিয়ায় গুলির ঘটনায় নয় জন মারা গেছেন",
+    "summary": "পেনসিলভেনিয়ার এরিতে শুক্রবার একটি গুলির ঘটনায় দুটি শিশু সহ নয় জন নিহত হয়েছেন। সন্দেহভাজন অপরাধী নিহতদের মধ্যে একজন ছিল। সন্ধ্যা পাঁচটার দিকে পুলিশ আসে এবং রাস্তায় ও বাড়ির ভিতরে শিকার খুঁজে পায়। এরি পুলিশ প্রধান বলেছেন এই ধরনের ধ্বংসযজ্ঞ তার ২৮ বছরের ক্যারিয়ারে দেখেননি।"
+   }
+  },
+  {
+   "id": "1ddambl",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-10T18:24:03.000Z",
+   "added": "2026-10-10T18:29:59.612Z",
+   "origTitle": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+   "en": {
+    "title": "Trump says Ukraine needs new president after Zelensky criticizes diesel deal",
+    "summary": "US President Trump said Ukraine should get a new leader after President Zelensky condemned a US-Russia agreement to suspend sanctions on Russian diesel exports until April 7. Zelensky warned the deal would give Moscow funds to continue its war. Trump argued the deal prevents global fuel problems and blamed Zelensky for targeting Russian refineries instead of pursuing peace negotiations."
+   },
+   "bn": {
+    "title": "ট্রাম্প বলেছেন ইউক্রেনের নতুন রাষ্ট্রপতি দরকার",
+    "summary": "আমেরিকার রাষ্ট্রপতি ট্রাম্প বলেছেন ইউক্রেনের নতুন নেতা দরকার আফটার জেলেনস্কি আমেরিকা-রাশিয়ার রুসো ডিজেলের উপর নিষেধাজ্ঞা স্থগিত রাখার চুক্তি সমালোচনা করেছেন। জেলেনস্কি সতর্ক করেছেন যে এই চুক্তি মস্কোকে যুদ্ধ অব্যাহত রাখার জন্য তহবিল দেবে। ট্রাম্প দাবি করেছেন যে চুক্তি বৈশ্বিক জ্বালানি সমস্যা রোধ করে এবং জেলেনস্কিকে রাশিয়ান রিফাইনারি লক্ষ্য করার জন্য দোষ দিয়েছেন।"
+   }
+  },
+  {
+   "id": "1qd31mz",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/energy/ocean-aid-services-arrange-foreign-financing-50m-plus-power-projects-1568616",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/oasl.jpg",
+   "published": "2026-10-10T18:15:00.000Z",
+   "added": "2026-10-10T18:29:59.612Z",
+   "origTitle": "Ocean Aid Services to arrange foreign financing for $50m-plus power projects",
+   "en": {
+    "title": "Chattogram firm bridges Bangladesh energy projects with foreign financing",
+    "summary": "Ocean Aid Services Ltd, a Chattogram-based company, is arranging international financing for Bangladesh's energy projects worth $50 million or more. The company connects foreign investors and financiers with bankable projects under an EPC+F model, targeting ventures with two-to-three-year timelines. OASL aims to open dialogue with government ministries to identify priority projects for clean energy and infrastructure development."
+   },
+   "bn": {
+    "title": "চট্টগ্রামের ফার্ম বাংলাদেশ শক্তি প্রকল্পে বিদেশী অর্থায়ন সংযোগ স্থাপন",
+    "summary": "চট্টগ্রামভিত্তিক Ocean Aid Services Ltd বাংলাদেশের ৫০ মিলিয়ন ডলার বা তার বেশি মূল্যের শক্তি প্রকল্পের জন্য আন্তর্জাতিক অর্থায়ন সংযোজন করছে। কোম্পানি বিদেশী বিনিয়োগকারী ও অর্থদাতাদের ব্যাংকযোগ্য প্রকল্পের সাথে যুক্ত করে। OASL সরকারি মন্ত্রণালয়ের সাথে কথোপকথন খুলতে লক্ষ্য রেখেছে পরিচ্ছন্ন শক্তি এবং অবকাঠামো উন্নয়নের অগ্রাধিকার প্রকল্প চিহ্নিত করতে।"
+   }
+  },
+  {
+   "id": "1te2k36",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/business/money-and-investment/973680/%E0%A6%9A%E0%A7%80%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%93-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7",
+   "image": null,
+   "published": "2026-10-10T18:25:02.000Z",
+   "added": "2026-10-10T18:29:59.612Z",
+   "origTitle": "চীন, কোরিয়া ও জাপানের বিনিয়োগকারীদের জন্য বিশেষ ডেস্ক চালু",
+   "en": {
+    "title": "Bangladesh opens special investment desks for China, Korea, Japan",
+    "summary": "Bangladesh Export Processing Zones Authority (BEPZA) launched three specialized country desks on October 10 to fast-track services for Chinese, South Korean, and Japanese investors. The desks were inaugurated at a 'Meet the Investors' event in Dhaka attended by hundreds of local and foreign investors. The move aims to attract more foreign direct investment through smoother operations."
+   },
+   "bn": {
+    "title": "চীন, কোরিয়া ও জাপানের বিনিয়োগকারীদের জন্য বিশেষ ডেস্ক খোলা হয়েছে",
+    "summary": "বেপজা অক্টোবর ১০ তারিখে চীন, দক্ষিণ কোরিয়া এবং জাপানের বিনিয়োগকারীদের দ্রুত সেবা দিতে তিনটি বিশেষ ডেস্ক চালু করেছে। ঢাকায় অনুষ্ঠিত 'মিট দ্য ইনভেস্টরস' অনুষ্ঠানে এই ডেস্কগুলির উদ্বোধন করা হয়েছে যেখানে শতাধিক দেশি-বিদেশি বিনিয়োগকারী যোগ দিয়েছেন। এটি সহজতর কার্যক্রমের মাধ্যমে আরও বিদেশি সরাসরি বিনিয়োগ আকর্ষণের লক্ষ্যে করা হয়েছে।"
+   }
+  },
+  {
+   "id": "gs6rnc",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cmx23qjxezk9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83e4/live/0c7c0340-c4b3-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-10T15:28:02.000Z",
+   "added": "2026-10-10T18:29:59.612Z",
+   "origTitle": "দিল্লির 'দুর্গে' বিক্ষোভকারী দেখলেই আটক, 'দ্বিতীয় যন্তর মন্তর' হতেই দিল না পুলিশ,আটক অন্তত তিন হাজার",
+   "en": {
+    "title": "Delhi police arrest thousands as protesters march against election chief",
+    "summary": "At least 3,000 people were detained in Delhi on October 10 as police blocked demonstrations against Election Commission chief Gyanesh Kumar at Jantar Mantar. A counter-protest by supporters chanting pro-police slogans occurred simultaneously, but police treated the two groups differently—removing anti-commission protesters by force while requesting pro-police crowds disperse. The area was heavily fortified with multiple security checkpoints."
+   },
+   "bn": {
+    "title": "নির্বাচন কমিশনার বিরুদ্ধে বিক্ষোভে হাজার হাজার গ্রেপ্তার",
+    "summary": "অক্টোবরের ১০ তারিখে দিল্লিতে নির্বাচন কমিশনের প্রধান জ্ঞানেশ কুমারের বিরুদ্ধে প্রতিবাদ জানাতে যন্তর মন্তরে কমপক্ষে ৩ হাজার মানুষকে আটক করেছে পুলিশ। একই সময়ে পুলিশ সমর্থক প্রতিবাদীরাও স্লোগান দিচ্ছিল, কিন্তু পুলিশ দুটি দলের সাথে আলাদা আচরণ করেছে—প্রথম দলকে জোর করে সরিয়েছে, দ্বিতীয় দলকে অনুরোধ করে। এলাকায় কঠোর নিরাপত্তা ব্যবস্থা ছিল।"
+   }
+  },
   {
    "id": "1rda826",
    "section": "hasi",
@@ -2265,292 +2463,6 @@
    "bn": {
     "title": "সব শহরে মাস্টারপ্ল্যান দিয়ে নগরায়ন এগিয়ে যাচ্ছে",
     "summary": "গৃহায়ন ও গণপূর্তমন্ত্রী জাকারিয়া তাহের বলেছেন, মেট্রোপলিটন থেকে উপজেলা পর্যায় পর্যন্ত পরিকল্পিত নগরায়নের জন্য মাস্টারপ্ল্যান তৈরি চলছে। তিনি জানান, নির্দিষ্ট পরিকল্পনা ছাড়া নগর উন্নয়নে কাঙ্ক্ষিত ফল পাওয়া সম্ভব নয়। এই বক্তব্য দেওয়া হয়েছে রাজধানীতে 'স্মার্ট সিটি কনক্লেভ ২০২৬' ইভেন্টে।"
-   }
-  },
-  {
-   "id": "43rjmo",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/politics/k25mqixds3",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-07/lhnccga7/Nahid.jpeg",
-   "published": "2026-10-07T16:08:35.000Z",
-   "added": "2026-10-07T16:22:32.712Z",
-   "origTitle": "ভারতের সঙ্গে শত্রুতা আমাদের প্রত্যাশা নয়, প্রশ্ন হচ্ছে ‘স্বার্থ সুরক্ষা’: নাহিদ ইসলাম",
-   "en": {
-    "title": "Nahid Islam: Bangladesh-India ties must protect our interests",
-    "summary": "Nahid Islam, chief whip of the opposition in parliament and leader of the National Citizens Party, said Bangladesh doesn't want hostility with India but must protect its interests. He noted the 1996 Ganges Water Sharing Treaty expires in December and called for a new agreement that guarantees fair water distribution and Bangladesh's partnership in river management."
-   },
-   "bn": {
-    "title": "নাহিদ ইসলাম: বাংলাদেশ-ভারত সম্পর্ক আমাদের স্বার্থ রক্ষা করবে",
-    "summary": "সংসদের বিরোধীদলীয় চিফ হুইপ এবং জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম বলেছেন বাংলাদেশ ভারতের সাথে শত্রুতা চায় না কিন্তু তার স্বার্থ রক্ষা করতে হবে। তিনি উল্লেখ করেন ১৯৯৬ সালের গঙ্গা পানিবণ্টন চুক্তি ডিসেম্বরে মেয়াদ উত্তীর্ণ হবে এবং নতুন চুক্তির আহ্বান জানান যা ন্যায্য পানি বিতরণ ও নদী ব্যবস্থাপনায় বাংলাদেশের অংশীদারত্ব নিশ্চিত করবে।"
-   }
-  },
-  {
-   "id": "1txqiqa",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/opinion/op-ed/0kzt41vegf",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-07/aj3fsmz5/Biman-flight.avif",
-   "published": "2026-10-07T15:26:13.000Z",
-   "added": "2026-10-07T16:22:32.712Z",
-   "origTitle": "Where will we keep so many aircraft?",
-   "en": {
-    "title": "Opinion: Where will Bangladesh keep 35 new aircraft?",
-    "summary": "A columnist questions the government's rush to buy aircraft. In eight months, the new administration has agreed to purchase 35 planes, including 25 Boeing aircraft costing $6.4 billion. Deliveries run from 2031 to 2035. The writer asks: Do we have the infrastructure? What are the financing terms? Has there been proper planning?"
-   },
-   "bn": {
-    "title": "মতামত: বাংলাদেশ ৩৫টি নতুন বিমান কোথায় রাখবে?",
-    "summary": "একজন কলামনিস্ট সরকারের বিমান ক্রয়ের তাড়াহুড়ো নিয়ে প্রশ্ন করেছেন। আট মাসে নতুন প্রশাসন ৩৫টি বিমান ক্রয়ে সম্মত হয়েছে, যার মধ্যে ২৫টি বোয়িং বিমান ৬.৪ বিলিয়ন ডলার খরচে। ডেলিভারি ২০৩১ থেকে ২০৩৫ সালের মধ্যে। লেখক জানতে চান: আমাদের অবকাঠামো আছে? অর্থায়নের শর্তাবলী কী? যথাযথ পরিকল্পনা হয়েছে কি?"
-   }
-  },
-  {
-   "id": "8ee3us",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/rmg/bkmea-urges-faster-renewable-energy-adoption-decarbonisation-protect-rmg-exports-1565846",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/bkmea.jpg",
-   "published": "2026-10-07T15:55:00.000Z",
-   "added": "2026-10-07T16:22:32.712Z",
-   "origTitle": "BKMEA urges faster renewable energy adoption, decarbonisation to protect RMG exports",
-   "en": {
-    "title": "Bangladesh garment industry urged to go green fast",
-    "summary": "Bangladesh's garment and textile industry must speed up renewable energy adoption and cut carbon emissions to keep export markets and stay competitive, industry leaders said at a conference on October 7. The current energy crisis has made the shift urgent. BKMEA President Mohammad Hatem called for rooftop solar, better factory planning, and stronger coordination with government on permits."
-   },
-   "bn": {
-    "title": "বাংলাদেশের পোশাক শিল্পকে দ্রুত সবুজ হতে উৎসাহিত করা হয়েছে",
-    "summary": "বাংলাদেশের পোশাক এবং বস্ত্র শিল্পকে নবায়নযোগ্য শক্তি দ্রুত গ্রহণ করতে এবং কার্বন নিঃসরণ কমাতে হবে রপ্তানি বাজার রক্ষা করতে, শিল্প নেতারা ৭ অক্টোবরে একটি সম্মেলনে বলেছেন। বর্তমান শক্তি সংকট এই রূপান্তর জরুরি করেছে। বিকেএমইএ চেয়ারম্যান মোহাম্মদ হাতেম ছাদের সৌর প্যানেল, আরও ভাল কারখানা পরিকল্পনা এবং সরকারের সাথে অনুমতির ব্যাপারে সমন্বয় আহ্বান করেছেন।"
-   }
-  },
-  {
-   "id": "mpu3ix",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/trump-mails-90-checks-to-seniors/",
-   "image": "https://theonion.com/wp-content/uploads/2025/02/AmericanVoice_OG_FINAL.jpg",
-   "published": "2026-10-07T13:00:00.000Z",
-   "added": "2026-10-07T16:22:32.712Z",
-   "origTitle": "Trump Mails $90 Checks To Seniors",
-   "en": {
-    "title": "SATIRE: Trump announces $90 checks for seniors",
-    "summary": "This is satire from The Onion. The fake story claims Trump is sending $90 checks to Medicare seniors to boost his support before midterms, totaling $2 billion. The joke is that seniors are always forgetting about checks they've written themselves."
-   },
-   "bn": {
-    "title": "ব্যঙ্গ: ট্রাম্প বয়স্কদের জন্য ৯০ ডলারের চেক ঘোষণা করেন",
-    "summary": "এটি দ্য অনিয়ন-এর ব্যঙ্গাত্মক নিউজ। নকল গল্পে দাবি করা হয় ট্রাম্প মেডিকেয়ার বয়স্কদের ৯০ ডলারের চেক পাঠাচ্ছেন, মোট ২ বিলিয়ন ডলার খরচ হবে। মজাটা হল যে বয়স্করা সবসময় তারা নিজেরা লেখা চেকগুলো ভুলে যান।"
-   }
-  },
-  {
-   "id": "1p7g4uo",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/07/Pikachu-European-Space-Agency-International-Space-Station/6211791387825/",
-   "image": "https://cdnph.upi.com/ph/st/th/6211791387825/2026/i/17913880311670/v1.5/Pikachu-takes-guided-tour-of-International-Space-Station.jpg",
-   "published": "2026-10-07T15:47:33.000Z",
-   "added": "2026-10-07T16:22:32.712Z",
-   "origTitle": "Pikachu takes guided tour of International Space Station",
-   "en": {
-    "title": "Stuffed Pikachu takes tour of International Space Station",
-    "summary": "The European Space Agency shared a video of a Pikachu doll exploring the International Space Station as part of a partnership with Pokémon. The cute clip shows the beloved character floating through the orbiting lab, bringing a bit of whimsy to space exploration."
-   },
-   "bn": {
-    "title": "পিকাচু স্টাফড ডল আন্তর্জাতিক মহাকাশ স্টেশনের ট্যুর নেয়",
-    "summary": "ইউরোপীয় মহাকাশ সংস্থা একটি ভিডিও শেয়ার করেছে যেখানে পিকাচু ডল আন্তর্জাতিক মহাকাশ স্টেশনে ঘুরে বেড়াচ্ছে—এটি পোকেমনের সাথে একটি পার্টনারশিপের অংশ। ভিডিওটি দেখায় কীভাবে এই প্রিয় চরিত্রটি স্পেস ল্যাবে ভাসছে এবং মহাকাশ অন্বেষণে মজা যোগ করছে।"
-   }
-  },
-  {
-   "id": "1qrw50m",
-   "section": "bhabna",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/07/simion-elected-to-isc-board/",
-   "image": "https://dailynous.com/wp-content/uploads/2021/02/simion-mona.png",
-   "published": "2026-10-07T12:49:40.000Z",
-   "added": "2026-10-07T16:22:32.712Z",
-   "origTitle": "Simion Elected to ISC Board",
-   "en": {
-    "title": "Oxford philosopher elected to International Science Council board",
-    "summary": "Mona Simion, a philosophy professor at Oxford, has been elected to the governing board of the International Science Council, a major organization that brings together scientific academies worldwide. The ISC promotes science's value, international collaboration, and the free practice of research. Simion's four-year term starts later this month. She's only the second philosopher on the board."
-   },
-   "bn": {
-    "title": "অক্সফোর্ড দর্শনশাস্ত্রী আন্তর্জাতিক বিজ্ঞান কাউন্সিল বোর্ডে নির্বাচিত",
-    "summary": "অক্সফোর্ড বিশ্ববিদ্যালয়ের দর্শনশাস্ত্র অধ্যাপক মোনা সিমিয়ন আন্তর্জাতিক বিজ্ঞান কাউন্সিলের গভর্নিং বোর্ডে নির্বাচিত হয়েছেন। এই সংস্থা বিশ্বজুড়ে বৈজ্ঞানিক একাডেমিগুলোকে একত্রিত করে এবং গবেষণার মুক্ত চর্চা নিশ্চিত করে। তার চার বছরের মেয়াদ এই মাসের শেষে শুরু হবে। বোর্ডে দার্শনিক হিসেবে তিনি মাত্র দ্বিতীয় সদস্য।"
-   }
-  },
-  {
-   "id": "pw0dom",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Rest of World",
-   "srcLang": "en",
-   "url": "https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "image": "https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2294750914-768x432.jpg",
-   "published": "2026-10-07T10:00:41.000Z",
-   "added": "2026-10-07T16:22:04.071Z",
-   "origTitle": "Conflict in the Red Sea is forcing cloud giants to find a new route for the internet",
-   "en": {
-    "title": "Red Sea conflict forces cloud giants to reroute internet",
-    "summary": "Conflict in the Red Sea is forcing major tech companies to pay steep prices for backup internet routes. Over 90% of data between Europe and Asia runs through undersea cables there, making it critical infrastructure. Google paid two to three times normal rates for Turkish pipeline fiber, while Microsoft plans $400 million investment in Middle East routes by 2030."
-   },
-   "bn": {
-    "title": "লাল সাগরের সংকটে ক্লাউড কোম্পানি নতুন ইন্টারনেট পথ খুঁজছে",
-    "summary": "লাল সাগরের যুদ্ধ বড় প্রযুক্তি কোম্পানিগুলোকে বিকল্প ইন্টারনেট রুট কিনতে বাধ্য করছে। ইউরোপ এবং এশিয়ার মধ্যে ৯০ শতাংশেরও বেশি ডেটা সেখানকার সাবমেরিন ক্যাবলের মাধ্যমে চলে। গুগল তুর্কি পাইপলাইনের ফাইবার তার সাধারণ দামের দ্বিগুণ তিনগুণ দাম দিয়ে কিনেছে।"
-   }
-  },
-  {
-   "id": "107j424",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/videos/an-iranian-couple-seek-out-the-recipient-of-their-late-sons-heart",
-   "image": "https://images.aeonmedia.co/images/2f69573e-df4e-43f1-91c5-1f6a587732cb/i-won_t-remain-alone-lanmdscape-1.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-07T10:01:00.000Z",
-   "added": "2026-10-07T16:22:04.071Z",
-   "origTitle": "I won’t remain alone",
-   "en": {
-    "title": "Iranian documentary explores organ donation and grief",
-    "summary": "Filmmaker Yaser Talebi's documentary I Won't Remain Alone follows an elderly couple in northern Iran facing an agonising choice: whether to donate their son's organs after he's declared brain dead. The film captures their grief and the powerful human consequences of their ultimate decision with poetic care."
-   },
-   "bn": {
-    "title": "ইরানি ছবিতে অঙ্গ দান এবং দুঃখের গল্প",
-    "summary": "পরিচালক ইয়াসার তালেবির ডকুমেন্টারি 'আই উন্ট রিমেইন অ্যালোন' উত্তর ইরানের একটি বয়স্ক দম্পতির গল্প বলে যারা তাদের মৃত্যুপ্রাপ্ত ছেলের অঙ্গ দান করার সিদ্ধান্ত নিয়ে চিন্তা করছেন। চলচ্চিত্রটি তাদের বেদনা এবং এই নিষ্ঠুর সিদ্ধান্তের ফলাফল সুন্দরভাবে তুলে ধরে।"
-   }
-  },
-  {
-   "id": "1bnbo0",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675",
-   "published": "2026-10-07T15:07:08.000Z",
-   "added": "2026-10-07T16:22:04.071Z",
-   "origTitle": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-   "en": {
-    "title": "Healthleap raises $38M for AI that catches hidden hospital risks",
-    "summary": "Healthleap, a South African startup founded in 2022 by siblings Jemima and Josiah Meyer, raised $38 million in seed and Series A funding to scale its AI platform. The tool reads patient records to identify people at risk of undiagnosed conditions like malnutrition and delirium. It's deployed in over 50 hospitals and screens for multiple conditions."
-   },
-   "bn": {
-    "title": "স্বাস্থ্যসেবা এআই স্টার্টআপ Healthleap ৩৮ মিলিয়ন ডলার সংগ্রহ করলো",
-    "summary": "দক্ষিণ আফ্রিকায় প্রতিষ্ঠিত স্টার্টআপ Healthleap এর্টিফিশিয়াল ইন্টেলিজেন্স প্ল্যাটফর্মের জন্য ৩৮ মিলিয়ন ডলার তহবিল সংগ্রহ করেছে। জেমিমা এবং জোশিয়া মেয়ার ভাইবোন এই কোম্পানি ২০২২ সালে প্রতিষ্ঠা করেছিলেন। প্ল্যাটফর্মটি রোগীর রেকর্ড বিশ্লেষণ করে অপুষ্টি ও মানসিক বিভ্রান্তি চিহ্নিত করতে পারে।"
-   }
-  },
-  {
-   "id": "21xzdx",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261007__D2HB39E__v1__HighRes__YemenSaudiIranUsIsraelWar-1791380979.jpg?resize=1920%2C1440",
-   "published": "2026-10-07T16:02:17.000Z",
-   "added": "2026-10-07T16:22:04.071Z",
-   "origTitle": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
-   "en": {
-    "title": "Over 200,000 displaced as Yemen fighting surges, UN warns",
-    "summary": "More than 200,000 people have fled their homes since fighting escalated in Yemen in recent weeks, according to UN migration data. Displacement figures jumped from 76,000 in mid-September to over 200,000 now. The crisis marks Yemen's worst escalation since a 2022 ceasefire, with the Iran-backed Houthis controlling most territory including the capital Sanaa."
-   },
-   "bn": {
-    "title": "ইয়েমেনে যুদ্ধ বাড়ছে, ২ লক্ষেরও বেশি মানুষ বাস্তুহারা",
-    "summary": "যেমেনে সম্প্রতি যুদ্ধ বাড়ার কারণে দুই লক্ষেরও বেশি মানুষ তাদের বাড়ি ছেড়ে যেতে বাধ্য হয়েছে বলে জাতিসংঘ জানিয়েছে। সেপ্টেম্বরের মাঝামাঝি সাড়ে সাত হাজার মানুষ বাস্তুহারা হয়েছিল, এখন তা দুই লক্ষ অতিক্রম করেছে। ইরান সমর্থিত হুথিরা যেমেনের বেশিরভাগ এলাকা নিয়ন্ত্রণ করছে।"
-   }
-  },
-  {
-   "id": "10xypaw",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b147/live/114ad2c0-c229-11f1-babe-4199b0e7ccea.jpg",
-   "published": "2026-10-07T15:57:51.000Z",
-   "added": "2026-10-07T16:22:04.071Z",
-   "origTitle": "France halts use of stun grenades after boy's hand blown off in student protests",
-   "en": {
-    "title": "France suspends stun grenades after teenager loses hand",
-    "summary": "France halted the use of stun grenades during student protests after a 15-year-old's hand was blown off Monday in Lens. Interior Minister Laurent Nuñez requested the pause until the incident is clarified, citing conflicting accounts. Student protests over school conditions have spread across France, with hundreds of schools shut and dozens injured."
-   },
-   "bn": {
-    "title": "ছাত্র প্রতিবাদে ফ্রান্স স্টান গ্রেনেড ব্যবহার স্থগিত করলো",
-    "summary": "লেন্সে সোমবার ১৫ বছর বয়সী এক কিশোরের হাত উড়ে যাওয়ার পর ফ্রান্স ছাত্র প্রতিবাদ দমনে স্টান গ্রেনেড ব্যবহার স্থগিত করেছে। অভ্যন্তরীণ মন্ত্রী লরাঁ নুঁয়েজ ঘটনা স্পষ্ট হওয়া পর্যন্ত এই সিদ্ধান্ত নিয়েছেন। স্কুলের অবস্থা নিয়ে ছাত্রছাত্রীদের প্রতিবাদ সারা দেশে ছড়িয়ে পড়েছে।"
-   }
-  },
-  {
-   "id": "b0z9nn",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/national/973059/%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%93-%E0%A6%96%E0%A7%81%E0%A6%9A%E0%A6%B0%E0%A6%BE-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%A4",
-   "image": null,
-   "published": "2026-10-07T16:18:31.000Z",
-   "added": "2026-10-07T16:22:04.071Z",
-   "origTitle": "নিত্যপণ্যের আমদানি ও খুচরা মূল্যের ব্যবধান কত, প্রতিবেদন দিতে বললো কমিটি",
-   "en": {
-    "title": "Parliament panel seeks report on price gap for daily goods",
-    "summary": "A parliamentary standing committee asked for a joint report from Bangladesh Bank, the tax board, and finance ministry on the gap between import prices and retail prices for essentials over the past three years. The committee met Wednesday to discuss the widening margin between what goods cost to import and what consumers pay."
-   },
-   "bn": {
-    "title": "সংসদ কমিটি নিত্যপণ্যের দামের ব্যবধান নিয়ে রিপোর্ট চাইলো",
-    "summary": "ত্রয়োদশ জাতীয় সংসদের বাণিজ্য কমিটি গত তিন বছরে নিত্যপ্রয়োজনীয় পণ্যের আমদানি মূল্য এবং খুচরা বাজার মূল্যের ব্যবধান নিয়ে যৌথ প্রতিবেদন চেয়েছে। বুধবার কমিটির বৈঠকে এ বিষয় আলোচনা হয়েছে।"
-   }
-  },
-  {
-   "id": "19bxyxs",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.co.uk/bengali/live/c6n04d7qz8kvt?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57b/live/6c752580-c268-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-07T16:22:04.071Z",
-   "added": "2026-10-07T16:22:04.071Z",
-   "origTitle": "এয়ারবাসের কাছ থেকে ১০টি উড়োজাহাজ কেনার চুক্তি করলো বাংলাদেশ",
-   "en": {
-    "title": "Bangladesh orders 10 Airbus planes, 25 Boeing in pipeline",
-    "summary": "Biman Bangladesh Airlines signed a deal Wednesday to buy 10 aircraft from European maker Airbus. This comes after the airline ordered 25 Boeing jets earlier this year in two separate deals. The purchases signal expansion of the national carrier's fleet."
-   },
-   "bn": {
-    "title": "বাংলাদেশ এয়ারবাসের কাছ থেকে ১০টি বিমান কিনছে",
-    "summary": "বুধবার বিমান বাংলাদেশ এয়ারলাইনস ইউরোপীয় কোম্পানি এয়ারবাসের সাথে ১০টি বিমান কেনার চুক্তি করেছে। এর আগে এই বছর আমেরিকার বোয়িংয়ের কাছ থেকে মোট ২৫টি বিমান অর্ডার করা হয়েছিল দুই দফায়। জাতীয় এয়ারলাইনস বিশাল আকারে নতুন বিমান যুক্ত করছে।"
    }
   }
  ]

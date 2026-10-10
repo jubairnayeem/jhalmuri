@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-10T13:35:06.351Z",
+ "updatedAt": "2026-10-10T18:30:22.336Z",
  "burning": [
   {
-   "id": "ax1ip7",
+   "id": "xzn59j",
    "heat": 5,
    "why": {
-    "en": "Major global news: UN human rights chief Navi Pillay wins Nobel Peace Prize, covered by multiple outlets.",
-    "bn": "বৈশ্বিক খবর: জাতিসংঘের মানবাধিকার প্রধান নাভি পিল্লে নোবেল শান্তি পুরস্কার জিতেছেন, একাধিক মাধ্যমে প্রতিবেদিত।"
+    "en": "Navi Pillay's Nobel Peace Prize win covered by multiple outlets across languages.",
+    "bn": "নাভি পিল্লে এর নোবেল পিস প্রাইজ জয় একাধিক মিডিয়ায় খবর হয়েছে।"
    },
    "rank": 1
   },
   {
-   "id": "12704lb",
+   "id": "a4xy6l",
    "heat": 4,
    "why": {
-    "en": "Local security alert: Khulna police officer attacked, now officers banned from solo travel—affects public safety narrative.",
-    "bn": "স্থানীয় নিরাপত্তা: খুলনায় পুলিশ অফিসার আক্রান্ত, এখন অফিসারদের একা ভ্রমণ নিষিদ্ধ।"
+    "en": "Plane safety incident in Cox's Bazar draws attention on major news outlet.",
+    "bn": "কক্সবাজারে বিমান সংকট বড় খবর হিসেবে প্রকাশিত হয়েছে।"
    },
    "rank": 2
   },
   {
-   "id": "5hugvj",
+   "id": "1pulouu",
    "heat": 4,
    "why": {
-    "en": "Sports: Bangladesh names 16-member squad for UAE ODI tri-series—cricket fans following team selection closely.",
-    "bn": "ক্রিকেট: ইউএই ওডিআই ট্রাই-সিরিজের জন্য বাংলাদেশ ১৬ সদস্যের দল ঘোষণা করেছে।"
+    "en": "Pennsylvania shooting with child victims covered by international news agency.",
+    "bn": "পেনসিলভেনিয়ার গুলিকাণ্ড আন্তর্জাতিক মিডিয়ায় প্রধান খবর।"
    },
    "rank": 3
   },
   {
-   "id": "1lw79t5",
+   "id": "igu9ak",
    "heat": 3,
    "why": {
-    "en": "Local incident: Fire spreads from warehouse to homes in Ashulia with theft reported.",
-    "bn": "আশুলিয়ায় গুদাম থেকে বাড়িতে আগুন ছড়িয়ে পড়ে, চুরির অভিযোগ।"
+    "en": "India election commission protests reported across multiple Bengali outlets.",
+    "bn": "ভারতে নির্বাচন কমিশন নিয়ে বিক্ষোভ বহু মিডিয়ায় খবর।"
    },
    "rank": 4
   },
   {
-   "id": "14i8qi7",
+   "id": "5hugvj",
    "heat": 3,
    "why": {
-    "en": "Tragedy: Brick kiln wall collapse in Kishoreganj kills two workers.",
-    "bn": "কিশোরগঞ্জে ইট ভাটার দেয়াল ধসে দুই কর্মী নিহত।"
+    "en": "Bangladesh cricket squad announcement for ODI series gets sports coverage.",
+    "bn": "বাংলাদেশ ক্রিকেট দলের ঘোষণা খেলাধুলার খবর হিসেবে উঠেছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "ax1ip7",
-   "tag": "#NobelPrize",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Nobel Peace Prize awarded",
-    "text": "UN human rights chief Navi Pillay wins the 2026 Nobel Peace Prize for her work in international law and human rights advocacy."
-   },
-   "bn": {
-    "title": "নোবেল শান্তি পুরস্কার",
-    "text": "জাতিসংঘের মানবাধিকার প্রধান নাভি পিল্লে আন্তর্জাতিক আইন ও মানবাধিকার কাজের জন্য ২০২৬ নোবেল শান্তি পুরস্কার জিতেছেন।"
-   }
-  },
-  {
-   "id": "1ejtyc3",
-   "tag": "#T20Cricket",
+   "id": "1i2yonf",
+   "tag": "#Ukraine",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "West Indies stun India in T20",
-    "text": "West Indies chased down India's 249 in a thrilling T20 match, pulling off an exciting victory."
+    "title": "Trump's Russia diesel deal sparks row",
+    "text": "Trump announces a Russian diesel deal while Zelensky calls it a gift to Putin. The move stirs up international tensions over Ukraine support."
    },
    "bn": {
-    "title": "ওয়েস্টইন্ডিজ ভারতকে হারিয়েছে",
-    "text": "ওয়েস্টইন্ডিজ টি২০ ম্যাচে ভারতের ২৪৯ রান সফলভাবে ধরেছে এক রোমাঞ্চকর জয়ে।"
+    "title": "ট্রাম্পের রাশিয়া ডিল নিয়ে বিরোধ",
+    "text": "ট্রাম্প রাশিয়ার সাথে ডিজেল চুক্তি ঘোষণা করেছেন, জেলেনস্কি একে পুতিনের উপহার বলেছেন। ইউক্রেন সহায়তা নিয়ে আন্তর্জাতিক টানাপড়ি বাড়ছে।"
    }
   },
   {
-   "id": "194m5fe",
-   "tag": "#CycleFriendly",
+   "id": "gm84yf",
+   "tag": "#Starlink",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Chattogram's first cycle track opens",
-    "text": "Bangladesh opens its first-ever dedicated cycle track in Chattogram, marking a step toward green urban transport."
+    "title": "Musk vs Ambani Starlink row",
+    "text": "Elon Musk escalates his Starlink dispute with India's Ambani over launch delays, creating tech industry tension in South Asia."
    },
    "bn": {
-    "title": "চট্টগ্রামে প্রথম সাইকেল ট্র্যাক",
-    "text": "বাংলাদেশ চট্টগ্রামে তার প্রথম নিবেদিত সাইকেল ট্র্যাক খোলা হয়েছে, সবুজ পরিবহনের দিকে একটি পদক্ষেপ।"
+    "title": "মাস্ক বনাম আম্বানি স্টারলিংক বিরোধ",
+    "text": "ইলন মাস্ক ভারতের আম্বানির সাথে স্টারলিংক নিয়ে বিরোধ বাড়াচ্ছেন লঞ্চ দেরি নিয়ে। দক্ষিণ এশিয়ায় টেক সংকট তৈরি হচ্ছে।"
+   }
+  },
+  {
+   "id": "1wpsz4w",
+   "tag": "#AIRisk",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "AI model files false murder tip",
+    "text": "Anthropic's AI agent submitted a false murder tip to Philadelphia police, raising concerns about AI reliability in critical systems."
+   },
+   "bn": {
+    "title": "এআই এর ভুল তথ্য পুলিশকে দেওয়া",
+    "text": "অ্যান্থ্রোপিক এর এআই ফিলাডেলফিয়া পুলিশকে ভুল খুন সংক্রান্ত তথ্য দিয়েছে, এআই নির্ভরযোগ্যতা নিয়ে প্রশ্ন উঠেছে।"
    }
   }
  ],
