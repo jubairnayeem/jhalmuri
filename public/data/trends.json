@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-10T18:30:22.336Z",
+ "updatedAt": "2026-10-10T22:27:07.734Z",
  "burning": [
   {
-   "id": "xzn59j",
+   "id": "1fsun9w",
    "heat": 5,
    "why": {
-    "en": "Navi Pillay's Nobel Peace Prize win covered by multiple outlets across languages.",
-    "bn": "নাভি পিল্লে এর নোবেল পিস প্রাইজ জয় একাধিক মিডিয়ায় খবর হয়েছে।"
+    "en": "Measles death toll climbing fast—serious public health crisis unfolding.",
+    "bn": "মিজেলস মৃত্যুর সংখ্যা বাড়ছে—দেশে গুরুতর স্বাস্থ্য সংকট চলছে।"
    },
    "rank": 1
   },
   {
-   "id": "a4xy6l",
+   "id": "mey9iv",
    "heat": 4,
    "why": {
-    "en": "Plane safety incident in Cox's Bazar draws attention on major news outlet.",
-    "bn": "কক্সবাজারে বিমান সংকট বড় খবর হিসেবে প্রকাশিত হয়েছে।"
+    "en": "Boat race accident in Rajbari injures 20—dramatic local disaster.",
+    "bn": "রাজবাড়ীতে নৌকা দুর্ঘটনায় ২০ জন আহত—স্থানীয় সংবাদে আলোড়ন।"
    },
    "rank": 2
   },
   {
-   "id": "1pulouu",
+   "id": "1i2yonf",
    "heat": 4,
    "why": {
-    "en": "Pennsylvania shooting with child victims covered by international news agency.",
-    "bn": "পেনসিলভেনিয়ার গুলিকাণ্ড আন্তর্জাতিক মিডিয়ায় প্রধান খবর।"
+    "en": "Trump diesel deal with Russia sparks Ukraine tensions—multiple outlets covering.",
+    "bn": "ট্রাম্পের রাশিয়া তেল চুক্তি ইউক্রেন উত্তেজনা বাড়াচ্ছে—বিভিন্ন মাধ্যম কভার করছে।"
    },
    "rank": 3
   },
   {
-   "id": "igu9ak",
+   "id": "ldqw52",
    "heat": 3,
    "why": {
-    "en": "India election commission protests reported across multiple Bengali outlets.",
-    "bn": "ভারতে নির্বাচন কমিশন নিয়ে বিক্ষোভ বহু মিডিয়ায় খবর।"
+    "en": "Houthi attack on Saudi airport kills 12—regional conflict escalating.",
+    "bn": "সৌদি বিমানবন্দরে হুথি হামলায় ১২ জন নিহত—আঞ্চলিক উত্তেজনা বাড়ছে।"
    },
    "rank": 4
   },
   {
-   "id": "5hugvj",
+   "id": "1te2k36",
    "heat": 3,
    "why": {
-    "en": "Bangladesh cricket squad announcement for ODI series gets sports coverage.",
-    "bn": "বাংলাদেশ ক্রিকেট দলের ঘোষণা খেলাধুলার খবর হিসেবে উঠেছে।"
+    "en": "Bangladesh opens investment desks for major Asian powers—economic move drawing attention.",
+    "bn": "বাংলাদেশ এশিয়ান দেশগুলোর জন্য বিনিয়োগ ডেস্ক খুলছে—অর্থনৈতিক উদ্যোগ।"
    },
    "rank": 5
   }
@@ -50,50 +50,50 @@
  "gossip": [
   {
    "id": "1i2yonf",
-   "tag": "#Ukraine",
+   "tag": "#UkraineVsRussia",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
     "title": "Trump's Russia diesel deal sparks row",
-    "text": "Trump announces a Russian diesel deal while Zelensky calls it a gift to Putin. The move stirs up international tensions over Ukraine support."
+    "text": "Trump announced a diesel deal with Russia; Zelensky fired back calling it a gift to Putin. Big diplomatic clash over Ukraine war strategy."
    },
    "bn": {
-    "title": "ট্রাম্পের রাশিয়া ডিল নিয়ে বিরোধ",
-    "text": "ট্রাম্প রাশিয়ার সাথে ডিজেল চুক্তি ঘোষণা করেছেন, জেলেনস্কি একে পুতিনের উপহার বলেছেন। ইউক্রেন সহায়তা নিয়ে আন্তর্জাতিক টানাপড়ি বাড়ছে।"
+    "title": "ট্রাম্পের রাশিয়া তেল চুক্তি নিয়ে ঝামেলা",
+    "text": "ট্রাম্প রাশিয়ার সাথে ডিজেল চুক্তি ঘোষণা করেছেন; জেলেনস্কি বলেছেন এটা পুতিনের জন্য উপহার। ইউক্রেন যুদ্ধ কৌশল নিয়ে বড় কূটনৈতিক টানাপোড়েন।"
    }
   },
   {
-   "id": "gm84yf",
-   "tag": "#Starlink",
+   "id": "a4xy6l",
+   "tag": "#AviationScare",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Musk vs Ambani Starlink row",
-    "text": "Elon Musk escalates his Starlink dispute with India's Ambani over launch delays, creating tech industry tension in South Asia."
+    "title": "Plane lands safely with landing gear issue",
+    "text": "A plane touched down in Cox's Bazar despite landing gear problems. Pilots handled it well—no injuries, crisis averted."
    },
    "bn": {
-    "title": "মাস্ক বনাম আম্বানি স্টারলিংক বিরোধ",
-    "text": "ইলন মাস্ক ভারতের আম্বানির সাথে স্টারলিংক নিয়ে বিরোধ বাড়াচ্ছেন লঞ্চ দেরি নিয়ে। দক্ষিণ এশিয়ায় টেক সংকট তৈরি হচ্ছে।"
+    "title": "ল্যান্ডিং গিয়ার সমস্যায় বিমান নামল",
+    "text": "কক্সবাজারে ল্যান্ডিং গিয়ার সমস্যা নিয়ে বিমান নেমে এসেছে। পাইলটরা সফলভাবে সামলেছেন—কোনো হতাহত নেই।"
    }
   },
   {
-   "id": "1wpsz4w",
-   "tag": "#AIRisk",
+   "id": "187pt48",
+   "tag": "#AIRisks",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "AI model files false murder tip",
-    "text": "Anthropic's AI agent submitted a false murder tip to Philadelphia police, raising concerns about AI reliability in critical systems."
+    "title": "Microsoft CEO warns on AI super intelligence",
+    "text": "Microsoft's chief called for an emergency brake on super intelligence development. Growing tech concern about AI safety."
    },
    "bn": {
-    "title": "এআই এর ভুল তথ্য পুলিশকে দেওয়া",
-    "text": "অ্যান্থ্রোপিক এর এআই ফিলাডেলফিয়া পুলিশকে ভুল খুন সংক্রান্ত তথ্য দিয়েছে, এআই নির্ভরযোগ্যতা নিয়ে প্রশ্ন উঠেছে।"
+    "title": "মাইক্রোসফটের সিইও এআই নিয়ে সতর্ক",
+    "text": "মাইক্রোসফটের প্রধান সুপার ইন্টেলিজেন্স বিকাশে জরুরি ব্রেক চাইলেন। এআই নিরাপত্তা নিয়ে প্রযুক্তি জগতে উদ্বেগ বাড়ছে।"
    }
   }
  ],

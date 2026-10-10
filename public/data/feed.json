@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-10T18:30:07.665Z",
+ "updatedAt": "2026-10-10T22:26:53.026Z",
  "items": [
+  {
+   "id": "1fsun9w",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "UNB",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZU5lMXZQUktrbTdIYnNhbWJ6Sy1fQXhYQi1mOHR6dEdfV2JwckxFcDNZbjRPUl9kX25qbFQzbGNPMXExR0NmX3hmVGRneWM1Mk1ZR3cyOVp3ZWJad3hBWVJSUDhuUWxKRDVCeVhNN0taNGNnQU5TclNTSTRxQmkxVWlTWVd6YUJ5ZDRjWlppY2NWazg4TlZNYVZ3Q3Bkb0k?oc=5",
+   "image": null,
+   "published": "2026-10-10T11:37:45.000Z",
+   "added": "2026-10-10T22:26:50.929Z",
+   "origTitle": "Measles: Death toll hits 1155 as 8 more die in 24 hrs",
+   "en": {
+    "title": "Measles death toll reaches 1,155 with 8 more deaths",
+    "summary": "Bangladesh's measles death toll has climbed to 1,155 after 8 more deaths were reported in the last 24 hours. The outbreak continues to spread across the country, raising health concerns."
+   },
+   "bn": {
+    "title": "হামরা রোগে মৃত্যু ১১৫৫ এ পৌঁছেছে, গত ২৪ ঘণ্টায় ৮ জন মারা গেছেন",
+    "summary": "গত ২৪ ঘণ্টায় ৮ জনের মৃত্যুর সাথে বাংলাদেশে হামরা রোগে মৃত্যুর সংখ্যা ১১৫৫ এ পৌঁছেছে। দেশব্যাপী এই রোগের প্রাদুর্ভাব বাড়ছে এবং স্বাস্থ্য সংকট তৈরি করছে।"
+   }
+  },
+  {
+   "id": "ldqw52",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/middle-east/zt26faogqn",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-10/leja8mrw/Attack-on-Saudi-airport-1.jpg",
+   "published": "2026-10-10T21:43:03.000Z",
+   "added": "2026-10-10T22:26:50.929Z",
+   "origTitle": "সৌদি আরবের বিমানবন্দরে হুতিদের হামলায় নিহত ১২, কার্যক্রম স্থগিত",
+   "en": {
+    "title": "Houthi attack on Saudi airport kills 12, operations halted",
+    "summary": "Iran-backed Houthis attacked King Khalid International Airport in Riyadh on Saturday, killing at least 12 people and injuring 50, according to three officials quoted by The New York Times. Operations at the airport were suspended temporarily. Houthi senior officer Mohammed al-Bukhaiti claimed responsibility, saying it was retaliation for Saudi airstrikes in Yemen that hit civilian infrastructure. This is the deadliest attack on a Gulf Arab nation since February's war escalation."
+   },
+   "bn": {
+    "title": "হুতিদের হামলায় সৌদি বিমানবন্দরে ১২ জন নিহত, কার্যক্রম থেমে গেছে",
+    "summary": "ইরান-সমর্থিত হুতি সশস্ত্র গোষ্ঠী শনিবার রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হামলা করেছে যাতে কমপক্ষে ১২ জন নিহত এবং ৫০ জন আহত হয়েছেন। বিমানবন্দরের কার্যক্রম সাময়িকভাবে স্থগিত করা হয়েছে। হুতি প্রবীণ কর্মকর্তা মোহাম্মদ আল-বুখাইতি এটি ইয়েমেনে সৌদি বিমান হামলার প্রতিশোধ বলে দায় স্বীকার করেছেন। এটি ফেব্রুয়ারির যুদ্ধ বৃদ্ধির পর উপসাগরীয় কোনো আরব দেশে সবচেয়ে প্রাণঘাতী হামলা।"
+   }
+  },
+  {
+   "id": "mey9iv",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/dhaka/973690/%E0%A6%A8%E0%A7%8C%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%9A-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%A8%E0%A7%8C%E0%A6%95%E0%A6%BE%E0%A6%A1%E0%A7%81%E0%A6%AC%E0%A6%BF-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A7%A8%E0%A7%A6",
+   "image": null,
+   "published": "2026-10-10T22:08:52.000Z",
+   "added": "2026-10-10T22:26:50.929Z",
+   "origTitle": "নৌকা বাইচ প্রতিযোগিতায় সংঘর্ষে নৌকাডুবি, আহত ২০ মাঝি",
+   "en": {
+    "title": "Boat collision during race in Rajbari injures 20 rowers",
+    "summary": "Two boats collided on the Padma River in Godarbazar, Rajbari, on the final day of a three-day boat racing competition on Saturday evening around 6:30 PM. Pabna's New Sharirihvita boat collided with Kushtia's New Janta Sangram boat. About 20 rowers from New Sharirihvita were injured, with three in critical condition, according to doctors."
+   },
+   "bn": {
+    "title": "রাজবাড়ীর নৌকা বাইচে সংঘর্ষে ২০ জন মাঝি আহত",
+    "summary": "রাজবাড়ীর গোদারবাজারে তিন দিনের নৌকা বাইচের শেষ দিনে শনিবার সন্ধ্যা সাড়ে ছয়টার দিকে পদ্মা নদীতে দুটি নৌকা সংঘর্ষ করেছে। পাবনার 'নিউ শাড়িরভিটা' এবং কুষ্টিয়ার 'নিউ জনতা সংগ্রাম' নৌকা সংঘর্ষ হয়েছে। নিউ শাড়িরভিটা নৌকার প্রায় ২০ জন মাঝি আহত হয়েছেন, তাদের মধ্যে তিনজনের অবস্থা আশঙ্কাজনক বলে চিকিৎসকরা জানিয়েছেন।"
+   }
+  },
+  {
+   "id": "187pt48",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+   "published": "2026-10-10T21:47:51.000Z",
+   "added": "2026-10-10T22:26:50.929Z",
+   "origTitle": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "en": {
+    "title": "Microsoft CEO calls for AI emergency brake on super intelligence",
+    "summary": "Microsoft CEO Satya Nadella says AI systems need an emergency brake. He argues companies can't treat AI as black boxes and just accept its recommendations. Instead, Nadella wants controls separated from the model itself, with every action documented and an authorized person always able to pause or shut down a system mid-task. His comments follow recent incidents where AI companies lost control of their models."
+   },
+   "bn": {
+    "title": "মাইক্রোসফটের সিইও সুপার ইন্টেলিজেন্স এআই-এর জন্য জরুরি ব্রেক চান",
+    "summary": "মাইক্রোসফটের সিইও সত্য নাডেলা বলছেন এআই সিস্টেমের একটি জরুরি ব্রেক দরকার। তিনি যুক্তি দেন কোম্পানি এআইকে ব্ল্যাক বক্স হিসেবে দেখতে পারে না এবং শুধু সুপারিশ মেনে নিতে পারে না। নাডেলা নিয়ন্ত্রণ মডেল থেকে আলাদা রাখতে, প্রতিটি কাজ ডকুমেন্ট করতে এবং অনুমতিপ্রাপ্ত ব্যক্তিকে যেকোনো সময় সিস্টেম থেমে দেওয়ার ক্ষমতা চান। তার মন্তব্য আসে এআই কোম্পানিগুলোর সম্প্রতিক নিয়ন্ত্রণ হারানোর ঘটনার পর।"
+   }
+  },
+  {
+   "id": "1tn2n65",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-07T181027Z_177303484_RC2BXNA1NJSY_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-SYRIA-1791653796.jpg?resize=1920%2C1440",
+   "published": "2026-10-10T22:12:25.000Z",
+   "added": "2026-10-10T22:26:50.929Z",
+   "origTitle": "Yemeni government’s military says its forces advancing against Houthis",
+   "en": {
+    "title": "Yemen government claims hundreds of Houthi fighters killed",
+    "summary": "Yemen's internationally recognised government military says it killed at least 1,150 Houthi fighters in nearly 2,000 targeted operations as part of operation Dawn of Yemen. The military destroyed ammunition dumps and 180 vehicles. This follows a Saturday attack on King Khalid International Airport in Riyadh that killed and injured several people. The Iran-backed Houthis have warned all aircraft in Saudi airspace—except over Mecca and Medina—are targets."
+   },
+   "bn": {
+    "title": "ইয়েমেনের সরকারি সামরিক বাহিনী হাজারেরও বেশি হুতি হতাহতের দাবি করছে",
+    "summary": "ইয়েমেনের আন্তর্জাতিক স্বীকৃত সরকারের সামরিক বাহিনী বলছে ইয়েমেন ফজর অপারেশনে প্রায় দুই হাজার লক্ষ্যবস্তু অপারেশনে কমপক্ষে হাজার ১১৫০ হুতি যোদ্ধা মারা গেছে। তারা গোলাবারুদ গুদাম এবং ১৮০টি যানবাহন ধ্বংস করেছে। শনিবার রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে একটি হামলায় অনেকে নিহত ও আহত হয়েছেন। ইরান-সমর্থিত হুতিরা সৌদি আকাশসীমার সব বিমান—মক্কা-মদিনা ছাড়া—লক্ষ্য করার সতর্কতা দিয়েছে।"
+   }
+  },
+  {
+   "id": "1s7vtt1",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/world/south-asia/un-rights-office-voices-concern-over-delhi-detentions-india-pushes-back-1568666",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/2026-10-10t135730z_179121668_rc260oa8qz2x_rtrmadp_3_india-politics-gen-z.jpg",
+   "published": "2026-10-10T19:45:00.000Z",
+   "added": "2026-10-10T22:26:50.929Z",
+   "origTitle": "UN rights office voices concern over Delhi detentions; India pushes back",
+   "en": {
+    "title": "India rejects UN concerns over Delhi protest detentions",
+    "summary": "India dismissed the UN Human Rights Office's concerns over mass detentions during anti-election commission protests in New Delhi on October 10. The government said citizens have the right to peaceful assembly under the Constitution, but authorities can impose reasonable restrictions for public order. India urged the UN to apply the same scrutiny to protests worldwide and accused it of selectivity."
+   },
+   "bn": {
+    "title": "দিল্লির বিক্ষোভে গ্রেপ্তারের বিষয়ে জাতিসংঘের উদ্বেগ খারিজ করল ভারত",
+    "summary": "জাতিসংঘের মানবাধিকার অফিসের উদ্বেগ খারিজ করেছে ভারত যে দিল্লিতে নির্বাচন কমিশনের বিরুদ্ধে বিক্ষোভে গণ গ্রেপ্তার হচ্ছে। সরকার বলেছে সংবিধানে শান্তিপূর্ণ বিক্ষোভের অধিকার রয়েছে, তবে জনশৃঙ্খলার জন্য যুক্তিসঙ্গত বিধিনিষেধ আরোপ করা যায়। ভারত জাতিসংঘকে সারা বিশ্বের বিক্ষোভেও সমান নজর দিতে বলেছে।"
+   }
+  },
   {
    "id": "a4xy6l",
    "section": "news",
@@ -2287,182 +2419,6 @@
    "bn": {
     "title": "সৌদি বিমানবন্দরে হুতি হামলায় তিনজন নিহত",
     "summary": "মঙ্গলবার ও বুধবার সৌদি আরবের রিয়াদ ও আবহার বিমানবন্দরে হুতি বাহিনীর আক্রমণে তিনজন নিহত এবং দর্জনখানেক আহত হয়েছে। ইয়েমেনে ইরানপন্থী হুতি এবং সৌদি সমর্থিত সরকারি বাহিনীর মধ্যে যুদ্ধ তীব্র হচ্ছে। সৌদি জোট আশি'র বেশি হুতি সামরিক অবস্থানে আক্রমণ করেছে। হুতিরা এডেন বিমানবন্দরেও ক্ষেপণাস্ত্র ও ড্রোন দিয়ে হামলা করেছে।"
-   }
-  },
-  {
-   "id": "artjyd",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/phrase-its-been-real-pushes-already-great-hangout-with-friend-into-heretofore-unknown-levels-of-bliss/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Phrase_Its_NIB_S_PH.jpg",
-   "published": "2026-10-07T16:58:23.000Z",
-   "added": "2026-10-07T21:57:23.078Z",
-   "origTitle": "Phrase ‘It’s Been Real’ Pushes Already Great Hangout With Friend Into Heretofore Unknown Levels Of Bliss",
-   "en": {
-    "title": "'It's Been Real' Takes Hangout to Peak Bliss",
-    "summary": "A man's already perfect hangout with his friend reached new heights when his buddy said 'It's been real' at the end of the night. The phrase—completely unexpected—sent him into a state of pure joy. He's now walking on air, convinced these are the salad days of friendship."
-   },
-   "bn": {
-    "title": "'ইটস বিন রিয়েল' বলে বন্ধুর সাথে সময় আরও মজাদার করে দিল",
-    "summary": "একটি সাধারণ হ্যাংআউট সম্পূর্ণভাবে পরিবর্তন হয়ে গেল যখন বন্ধু রাতের শেষে 'ইটস বিন রিয়েল' বলেছেন। এই সাধারণ কথাটি মুহূর্তটিকে অসাধারণ করে তুলেছে। লোকটি এখন আনন্দে ভাসছেন এবং এটিকে জীবনের সেরা রাত মনে করছেন।"
-   }
-  },
-  {
-   "id": "183xy9n",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/europe/x1urhinsff",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-07/yc5h5mk1/High-school-students-.jpg",
-   "published": "2026-10-07T21:30:00.000Z",
-   "added": "2026-10-07T21:57:23.078Z",
-   "origTitle": "ফ্রান্সের পর শিক্ষার্থীদের বিক্ষোভে উত্তাল বেলজিয়াম, আটক ১০৭",
-   "en": {
-    "title": "Belgium Students Protest Education Costs, Over 100 Arrested",
-    "summary": "Students in Liège, Belgium are protesting rising education costs, overcrowded classrooms, and lack of learning materials. Police arrested 107 people during the demonstrations. The Belgian French-speaking region's students say they're fighting for a right, not a privilege, inspired by recent protests in neighboring France."
-   },
-   "bn": {
-    "title": "শিক্ষা খরচের বিরুদ্ধে বেলজিয়ামে শিক্ষার্থী বিক্ষোভ, ১০৭ আটক",
-    "summary": "বেলজিয়ামের লিয়েজ শহরে শিক্ষার্থীরা শিক্ষা খরচ বৃদ্ধি, শ্রেণিকক্ষে অতিরিক্ত চাপ এবং শিক্ষা উপকরণের অভাবের বিরুদ্ধে বিক্ষোভ করছেন। পুলিশ ১০৭ জনকে আটক করেছে। ফ্রান্সের আন্দোলন থেকে অনুপ্রাণিত হয়ে বেলজিয়ামের ফরাসিভাষী অঞ্চলের শিক্ষার্থীরা বলছেন তারা অধিকারের জন্য লড়ছেন।"
-   }
-  },
-  {
-   "id": "jsvr8h",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/07/Guinness-World-Records-largest-serving-french-fries/1951791396507/",
-   "image": "https://cdnph.upi.com/ph/st/th/1951791396507/2026/i/17913966378335/v1.5/1474-pounds-of-French-fries-break-world-record-in-Idaho.jpg",
-   "published": "2026-10-07T18:11:07.000Z",
-   "added": "2026-10-07T21:57:13.444Z",
-   "origTitle": "Watch: 1,474 pounds of French fries break world record in Idaho",
-   "en": {
-    "title": "Idaho breaks world record with 1,474 pounds of French fries",
-    "summary": "The Idaho Potato Commission and Spud Daddy restaurant chain cooked up 1,474 pounds of fresh-cut French fries to break a world record. A delicious achievement for potato lovers everywhere."
-   },
-   "bn": {
-    "title": "আইডাহোতে ফ্রেঞ্চ ফ্রাইজের বিশ্বরেকর্ড",
-    "summary": "আইডাহো পটেটো কমিশন এবং স্পাড ডাডি রেস্তোরাঁ চেইন ১,৪৭৪ পাউন্ড তাজা কাটা ফ্রেঞ্চ ফ্রাইজ রান্না করে বিশ্বরেকর্ড ভেঙে ফেলেছে। আলুপ্রেমীদের জন্য একটি সুস্বাদু কীর্তি।"
-   }
-  },
-  {
-   "id": "x83h5l",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-   "published": "2026-10-07T20:48:45.000Z",
-   "added": "2026-10-07T21:57:13.444Z",
-   "origTitle": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-   "en": {
-    "title": "Nous Research hits $1.5B valuation, launches business AI agents",
-    "summary": "Nous Research has raised $90 million in Series B funding at a $1.5 billion valuation, bringing total funding to $158 million. The startup's open-source Hermes agent has been cloned 24 million times and drives 2.5% of global AI token usage. New funding will launch Hermes for Businesses, letting companies deploy custom AI agents for workflows while keeping data secure."
-   },
-   "bn": {
-    "title": "নস রিসার্চ ১.৫ বিলিয়ন ডলার ভ্যালুয়েশনে পৌঁছেছে",
-    "summary": "নস রিসার্চ সিরিজ বি ফান্ডিংয়ে ৯০ মিলিয়ন ডলার সংগ্রহ করেছে যা কোম্পানির ভ্যালুয়েশন ১.৫ বিলিয়ন ডলারে নিয়ে গেছে। তাদের হার্মিস এজেন্ট ২৪ মিলিয়ন বার ক্লোন হয়েছে এবং বৈশ্বিক এআই টোকেন ব্যবহারের ২.৫ শতাংশ চালনা করে। নতুন অর্থ বিজনেস কাস্টমাইজড এআই এজেন্ট লঞ্চে ব্যবহৃত হবে যা কর্মপ্রবাহ হ্যান্ডেল করবে এবং ডেটা সুরক্ষিত রাখবে।"
-   }
-  },
-  {
-   "id": "iwhy1t",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg",
-   "published": "2026-10-07T21:40:24.000Z",
-   "added": "2026-10-07T21:57:13.444Z",
-   "origTitle": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-   "en": {
-    "title": "Spanish pensioner evicted over rent hike dies at 87",
-    "summary": "Maricarmen Abascal, 87, whose eviction sparked nationwide housing protests in Spain, has died. She was forcibly removed from her 70-year home on 23 September after rent jumped from €500 to €2,650 monthly. The company later offered €1,650—still €300 above her pension. Her case became a symbol of Spain's housing crisis."
-   },
-   "bn": {
-    "title": "স্পেনের ভাড়া বৃদ্ধিতে নিপীড়িত বয়স্ক মহিলা মারা গেছেন",
-    "summary": "মেরিকারমেন আবাস্কাল, ৮৭, যার উচ্ছেদ স্পেনে আবাসন সংকট নিয়ে দেশব্যাপী প্রতিবাদ জন্ম দিয়েছিল, তিনি মৃত্যুবরণ করেছেন। ২৩ সেপ্টেম্বরে তাকে তার ৭০ বছরের বাসস্থান থেকে জোরপূর্বক বের করা হয়েছিল কারণ ভাড়া ৫০০ ইউরো থেকে ২,৬৫০ ইউরোতে বেড়েছিল। পরে কোম্পানি ১,৬৫০ ইউরো কমিয়েছিল কিন্তু এটি তার পেনশনের চেয়ে ৩০০ ইউরো বেশি ছিল।"
-   }
-  },
-  {
-   "id": "1rohro4",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cw98ze839645o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8657/live/1a12df60-c251-11f1-ab30-1f92d324dff9.png",
-   "published": "2026-10-07T15:12:02.000Z",
-   "added": "2026-10-07T21:57:13.444Z",
-   "origTitle": "ছয় কোটি বাংলাদেশি যে ছয় কারণে নিম্ন মধ্যবিত্ত থেকে দরিদ্র হওয়ার ঝুঁকিতে",
-   "en": {
-    "title": "Six crore Bangladeshis at risk of slipping into poverty",
-    "summary": "The World Bank warns that 6.2 crore lower-middle-class Bangladeshis face poverty risk due to rising costs. Poverty increased by 80 lakh in four years, with 21 lakh joining the poor in the last year alone. Six key drivers identified: COVID, energy crisis, inflation, weak investment, political instability, and tax/subsidy weaknesses."
-   },
-   "bn": {
-    "title": "ছয় কোটি বাংলাদেশি দরিদ্র হওয়ার ঝুঁকিতে",
-    "summary": "বিশ্বব্যাংক সতর্ক করছে যে ৬.২ কোটি নিম্ন মধ্যবিত্ত বাংলাদেশি দারিদ্র্যে নেমে যাওয়ার ঝুঁকিতে আছেন। গত চার বছরে দেশে দরিদ্র মানুষ বেড়েছে ৮০ লাখ, শুধু গত বছরে ২১ লাখ নতুন দরিদ্র হয়েছেন। কোভিড, জ্বালানি সংকট, মুদ্রাস্ফীতি, বিনিয়োগ দুর্বলতা, রাজনৈতিক অস্থিরতা এই কারণগুলো চিহ্নিত করেছে ব্যাংক।"
-   }
-  },
-  {
-   "id": "5hrwmg",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/banking/ucb-attaches-nassa-owned-land-housing-city-bank-hq-over-tk150cr-loan-default-1565896",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/ucb_city_bank.jpg",
-   "published": "2026-10-07T19:15:00.000Z",
-   "added": "2026-10-07T21:57:13.444Z",
-   "origTitle": "UCB attaches Nassa-owned land housing City Bank HQ over Tk150cr loan default",
-   "en": {
-    "title": "UCB seizes Nassa land with City Bank HQ over Tk150cr default",
-    "summary": "United Commercial Bank has attached one bigha of Nassa Group-owned land in Dhaka's Gulshan Model Town, where City Bank's head office stands, over a Tk150 crore loan default. A subsidiary of Nassa Group owned by Nazrul Islam Mazumder borrowed from UCB but failed to repay. A Money Loan Court order on 14 September authorized the attachment."
-   },
-   "bn": {
-    "title": "সিটি ব্যাংক সদরদপ্তরের জমি জব্দ করল ইউসিবি",
-    "summary": "ইউনাইটেড কমার্শিয়াল ব্যাংক নাসা গ্রুপের গুলশানের একটি জমি জব্দ করেছে যেখানে সিটি ব্যাংকের সদরদপ্তর অবস্থিত। নাসা সাবসিডিয়ারি প্রায় ১৫০ কোটি টাকা ঋণ নিয়ে ফেরত না দেওয়ায় এই পদক্ষেপ নেওয়া হয়েছে। ১৪ সেপ্টেম্বরে মানি লোন কোর্ট জমি জব্দের নির্দেশ দিয়েছে।"
-   }
-  },
-  {
-   "id": "2nyxk9",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/others/973078/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%9A%E0%A6%B2%E0%A6%9B%E0%A7%87",
-   "image": null,
-   "published": "2026-10-07T21:36:00.000Z",
-   "added": "2026-10-07T21:57:13.444Z",
-   "origTitle": "দেশের সব শহরে মাস্টারপ্ল্যানের কাজ চলছে: গণপূর্তমন্ত্রী",
-   "en": {
-    "title": "Bangladesh cities get master plans for organized growth",
-    "summary": "The housing and public works minister says masterplans are being prepared for cities from metropolitan areas down to upazila level. He stressed that planned urban development is essential to get good results. Without specific planning, city growth won't achieve its goals."
-   },
-   "bn": {
-    "title": "সব শহরে মাস্টারপ্ল্যান দিয়ে নগরায়ন এগিয়ে যাচ্ছে",
-    "summary": "গৃহায়ন ও গণপূর্তমন্ত্রী জাকারিয়া তাহের বলেছেন, মেট্রোপলিটন থেকে উপজেলা পর্যায় পর্যন্ত পরিকল্পিত নগরায়নের জন্য মাস্টারপ্ল্যান তৈরি চলছে। তিনি জানান, নির্দিষ্ট পরিকল্পনা ছাড়া নগর উন্নয়নে কাঙ্ক্ষিত ফল পাওয়া সম্ভব নয়। এই বক্তব্য দেওয়া হয়েছে রাজধানীতে 'স্মার্ট সিটি কনক্লেভ ২০২৬' ইভেন্টে।"
    }
   }
  ]
