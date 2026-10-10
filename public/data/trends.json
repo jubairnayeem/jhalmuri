@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-09T20:52:25.165Z",
+ "updatedAt": "2026-10-10T00:44:38.874Z",
  "burning": [
   {
    "id": "ax1ip7",
    "heat": 5,
    "why": {
-    "en": "Navi Pillay's Nobel Peace Prize win covered across multiple outlets globally, major international news.",
-    "bn": "নাভি পিল্লে নোবেল পিস প্রাইজ জেতা একাধিক আউটলেট থেকে কভার হয়েছে, বড় আন্তর্জাতিক খবর।"
+    "en": "Navi Pillay's Nobel Peace Prize win covered by multiple outlets as major international news.",
+    "bn": "নাভি পিল্লের নোবেল শান্তি পুরস্কার জেতা একাধিক মিডিয়ায় শীর্ষ আন্তর্জাতিক খবর।"
    },
    "rank": 1
-  },
-  {
-   "id": "1ejtyc3",
-   "heat": 5,
-   "why": {
-    "en": "West Indies T20 chase against India trending big with cricket fans, high engagement sport story.",
-    "bn": "ওয়েস্ট ইন্ডিজের ভারত বিরুদ্ধে টি২০ চেস ক্রিকেট ফ্যানদের মধ্যে ট্রেন্ডিং, উচ্চ এনগেজমেন্ট।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "kw1adt",
-   "heat": 4,
-   "why": {
-    "en": "Russia-Ukraine conflict remains top global news; bomb strike killing 30 is major breaking story.",
-    "bn": "রাশিয়া-ইউক্রেইন যুদ্ধ বৈশ্বিক সংবাদে শীর্ষে; ৩০ জন মারা যাওয়া একটি বড় খবর।"
-   },
-   "rank": 3
   },
   {
    "id": "1i2yonf",
    "heat": 4,
    "why": {
-    "en": "Trump's Russia diesel deal and Zelensky's reaction sparks debate, high geopolitical tension.",
-    "bn": "ট্রাম্পের রাশিয়া ডিজেল ডিল এবং জেলেনস্কির প্রতিক্রিয়া বিতর্ক তৈরি করছে।"
+    "en": "Trump-Zelensky dispute over Russian diesel deal generating geopolitical tension.",
+    "bn": "ট্রাম্প-জেলেনস্কির রাশিয়ান ডিজেল চুক্তিতে বিরোধ ভূরাজনৈতিক টানাপড়ি সৃষ্টি করছে।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "1ejtyc3",
+   "heat": 4,
+   "why": {
+    "en": "West Indies T20 thriller over India drawing cricket fans' attention across region.",
+    "bn": "ওয়েস্ট ইন্ডিজের টি-টোয়েন্টি রোমাঞ্চকর জয় সারা অঞ্চলে ক্রিকেট ভক্তদের আকৃষ্ট করছে।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "k0h4l1",
+   "heat": 3,
+   "why": {
+    "en": "Fake jobs scam gang arrested in Bangladesh, resonates with local audience.",
+    "bn": "বাংলাদেশে নকল চাকরির স্ক্যাম গ্যাং ধরা পড়া স্থানীয় দর্শকদের সাথে সংযোগ স্থাপন করছে।"
    },
    "rank": 4
   },
   {
    "id": "72xt1x",
-   "heat": 4,
+   "heat": 3,
    "why": {
-    "en": "Rooppur nuclear plant's first unit approval is major infrastructure milestone for Bangladesh.",
-    "bn": "রূপপুর পারমাণবিক প্ল্যান্টের প্রথম ইউনিট অনুমোদন বাংলাদেশের জন্য বড় অবকাঠামো মাইলফলক।"
+    "en": "Rooppur nuclear plant approval marks major infrastructure milestone for Bangladesh.",
+    "bn": "রূপপুর পরমাণু প্রকল্পের অনুমোদন বাংলাদেশের জন্য বড় অবকাঠামো মাইলফলক।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "anr34l",
-   "tag": "#TrumpBangladesh",
+   "id": "cnkos8",
+   "tag": "#Politics",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Trump's suit made in Bangladesh",
-    "text": "A factory in Bangladesh confirmed it produced the suit worn by Trump. Surprising connection between US politics and Bangladesh manufacturing."
+    "title": "BJP dominates West Bengal bypolls",
+    "text": "Ruling party sweeps elections in Nandigram and Reginganj assembly constituencies, consolidating regional influence."
    },
    "bn": {
-    "title": "ট্রাম্পের স্যুট বাংলাদেশ থেকে",
-    "text": "একটি বাংলাদেশি কারখানা নিশ্চিত করেছে যে তারা ট্রাম্পের পোশাক তৈরি করেছে। আমেরিকান রাজনীতি এবং বাংলাদেশের উৎপাদনের মধ্যে অপ্রত্যাশিত সংযোগ।"
+    "title": "পশ্চিমবঙ্গে বিজেপির আধিপত্য",
+    "text": "নন্দীগ্রাম এবং রেজিনগঞ্জ বিধানসভা এলাকায় সরকারি দল নির্বাচনে জয়লাভ করেছে এবং আঞ্চলিক প্রভাব শক্তিশালী করেছে।"
    }
   },
   {
    "id": "1jtgz0i",
-   "tag": "#ActorPassing",
+   "tag": "#RIP",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Actor Nana Patekar passes away",
-    "text": "Indian actor Nana Patekar died after cardiac arrest. Fans and colleagues mourning the loss of the veteran performer."
+    "title": "Indian actor Nana Patekar dies",
+    "text": "Veteran Bollywood star passes away after cardiac arrest, mourned by film industry and fans."
    },
    "bn": {
-    "title": "অভিনেতা নানা পাটেকর মারা গেছেন",
-    "text": "ভারতীয় অভিনেতা নানা পাটেকর হৃদযন্ত্রের ক্রিয়া বন্ধ হয়ে মারা গেছেন। অভিনেতা এবং অনুরাগীরা এই মৃত্যুতে শোকাহত।"
+    "title": "অভিনেতা নানা পাটেকর প্রয়াত",
+    "text": "বলিউড অভিনেতা হৃদযন্ত্রের ক্রিয়া বন্ধ হয়ে মারা গেছেন, চলচ্চিত্র শিল্প ও ভক্তরা শোকাহত।"
    }
   },
   {
-   "id": "eh7jrt",
-   "tag": "#OrkutComeback",
+   "id": "1rch6nu",
+   "tag": "#F1Racing",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Orkut founder wants revival",
-    "text": "The founder of the defunct social network Orkut is working to bring it back. Nostalgia wave among users who grew up with the platform."
+    "title": "Russell tops smoggy Singapore GP",
+    "text": "Mercedes driver sets fastest practice time despite hazy conditions at Marina Bay circuit."
    },
    "bn": {
-    "title": "অরকুট ফিরিয়ে আনতে চাই",
-    "text": "বন্ধ সোশ্যাল নেটওয়ার্ক অরকুটের প্রতিষ্ঠাতা এটি পুনরায় চালু করার চেষ্টা করছেন। যারা এই প্ল্যাটফর্মে বড় হয়েছেন তাদের মধ্যে নস্টালজিয়া।"
+    "title": "রাসেল সিঙ্গাপুরে দ্রুততম",
+    "text": "মার্সিডিজ চালক মেরিনা বে সার্কিটে অস্পষ্ট পরিবেশেও প্র্যাকটিসে দ্রুততম সময় নির্ধারণ করেছেন।"
+   }
+  },
+  {
+   "id": "194m5fe",
+   "tag": "#Infrastructure",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Chattogram gets first cycle track",
+    "text": "Bangladesh launches dedicated cycling infrastructure in major port city to boost green transport."
+   },
+   "bn": {
+    "title": "চট্টগ্রামে প্রথম সাইকেল ট্র্যাক",
+    "text": "বাংলাদেশ প্রধান বন্দর শহরে সাইকেলের জন্য সংরক্ষিত পথ চালু করেছে যা সবুজ পরিবহন বাড়াবে।"
    }
   }
  ],
