@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-10T06:59:21.997Z",
+ "updatedAt": "2026-10-10T13:35:06.351Z",
  "burning": [
   {
-   "id": "xzn59j",
+   "id": "ax1ip7",
    "heat": 5,
    "why": {
-    "en": "Navi Pillay's Nobel Peace Prize win covered by multiple outlets with high search traffic.",
-    "bn": "নাভি পিল্লের নোবেল শান্তি পুরস্কার জয় একাধিক মাধ্যমে প্রকাশিত এবং ট্রেন্ডিং।"
+    "en": "Major global news: UN human rights chief Navi Pillay wins Nobel Peace Prize, covered by multiple outlets.",
+    "bn": "বৈশ্বিক খবর: জাতিসংঘের মানবাধিকার প্রধান নাভি পিল্লে নোবেল শান্তি পুরস্কার জিতেছেন, একাধিক মাধ্যমে প্রতিবেদিত।"
    },
    "rank": 1
   },
   {
-   "id": "gm84yf",
+   "id": "12704lb",
    "heat": 4,
    "why": {
-    "en": "Elon Musk's Starlink dispute with Ambani is major tech story with global implications.",
-    "bn": "ইলন মাস্ক-অম্বানি স্টারলিংক বিরোধ বৈশ্বিক প্রভাবসম্পন্ন প্রযুক্তি সংবাদ।"
+    "en": "Local security alert: Khulna police officer attacked, now officers banned from solo travel—affects public safety narrative.",
+    "bn": "স্থানীয় নিরাপত্তা: খুলনায় পুলিশ অফিসার আক্রান্ত, এখন অফিসারদের একা ভ্রমণ নিষিদ্ধ।"
    },
    "rank": 2
   },
   {
-   "id": "1i2yonf",
+   "id": "5hugvj",
    "heat": 4,
    "why": {
-    "en": "Trump's Russian diesel deal and Zelensky's response covered by multiple major outlets.",
-    "bn": "ট্রাম্পের রাশিয়ান ডিজেল ডিল এবং জেলেনস্কির প্রতিক্রিয়া বহু মাধ্যমে প্রতিফলিত।"
+    "en": "Sports: Bangladesh names 16-member squad for UAE ODI tri-series—cricket fans following team selection closely.",
+    "bn": "ক্রিকেট: ইউএই ওডিআই ট্রাই-সিরিজের জন্য বাংলাদেশ ১৬ সদস্যের দল ঘোষণা করেছে।"
    },
    "rank": 3
   },
   {
-   "id": "k0h4l1",
+   "id": "1lw79t5",
    "heat": 3,
    "why": {
-    "en": "Gang busted for running Tk 1m fake job scheme—major crime story in Bangladesh.",
-    "bn": "১০ লক্ষ টাকার নকল চাকরির গ্যাং আটক—বাংলাদেশে বড় অপরাধ সংবাদ।"
+    "en": "Local incident: Fire spreads from warehouse to homes in Ashulia with theft reported.",
+    "bn": "আশুলিয়ায় গুদাম থেকে বাড়িতে আগুন ছড়িয়ে পড়ে, চুরির অভিযোগ।"
    },
    "rank": 4
   },
   {
-   "id": "160bes7",
+   "id": "14i8qi7",
    "heat": 3,
    "why": {
-    "en": "Joypurhat football final drew massive crowds, a local sports highlight.",
-    "bn": "জয়পুরহাটের ফুটবল ফাইনালে বিশাল ভিড় জমায়েত।"
+    "en": "Tragedy: Brick kiln wall collapse in Kishoreganj kills two workers.",
+    "bn": "কিশোরগঞ্জে ইট ভাটার দেয়াল ধসে দুই কর্মী নিহত।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "xzn59j",
-   "tag": "#NobelPeacePrize",
+   "id": "ax1ip7",
+   "tag": "#NobelPrize",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Judge Navi Pillay wins Nobel Peace Prize",
-    "text": "South Africa's Navi Pillay, a UN human rights chief and international law expert, has been awarded the 2026 Nobel Peace Prize for her decades of work on human rights and justice."
+    "title": "Nobel Peace Prize awarded",
+    "text": "UN human rights chief Navi Pillay wins the 2026 Nobel Peace Prize for her work in international law and human rights advocacy."
    },
    "bn": {
-    "title": "নাভি পিল্লে নোবেল শান্তি পুরস্কার জিতেছেন",
-    "text": "দক্ষিণ আফ্রিকার নাভি পিল্লে, যিনি জাতিসংঘের মানবাধিকার প্রধান, আন্তর্জাতিক আইন বিশেষজ্ঞ হিসেবে ২০২৬ সালের নোবেল শান্তি পুরস্কার জিতেছেন।"
+    "title": "নোবেল শান্তি পুরস্কার",
+    "text": "জাতিসংঘের মানবাধিকার প্রধান নাভি পিল্লে আন্তর্জাতিক আইন ও মানবাধিকার কাজের জন্য ২০২৬ নোবেল শান্তি পুরস্কার জিতেছেন।"
    }
   },
   {
-   "id": "anr34l",
-   "tag": "#MadeInBangladesh",
+   "id": "1ejtyc3",
+   "tag": "#T20Cricket",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "West Indies stun India in T20",
+    "text": "West Indies chased down India's 249 in a thrilling T20 match, pulling off an exciting victory."
+   },
+   "bn": {
+    "title": "ওয়েস্টইন্ডিজ ভারতকে হারিয়েছে",
+    "text": "ওয়েস্টইন্ডিজ টি২০ ম্যাচে ভারতের ২৪৯ রান সফলভাবে ধরেছে এক রোমাঞ্চকর জয়ে।"
+   }
+  },
+  {
+   "id": "194m5fe",
+   "tag": "#CycleFriendly",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Trump's suit made in Bangladesh",
-    "text": "A Bangladesh factory has confirmed it manufactured clothing for Trump, adding to Bangladesh's role in global fashion production."
-   },
-   "bn": {
-    "title": "ট্রাম্পের পোশাক বাংলাদেশে তৈরি",
-    "text": "একটি বাংলাদেশি কারখানা ট্রাম্পের পোশাক তৈরি করেছে বলে নিশ্চিত করেছে, যা বৈশ্বিক ফ্যাশন শিল্পে বাংলাদেশের ভূমিকা তুলে ধরে।"
-   }
-  },
-  {
-   "id": "194m5fe",
-   "tag": "#GreenTransport",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 2,
-   "en": {
-    "title": "Chattogram gets first cycle track",
-    "text": "Bangladesh has opened its first-ever dedicated cycle track in Chattogram, marking a step toward sustainable urban transport."
+    "title": "Chattogram's first cycle track opens",
+    "text": "Bangladesh opens its first-ever dedicated cycle track in Chattogram, marking a step toward green urban transport."
    },
    "bn": {
     "title": "চট্টগ্রামে প্রথম সাইকেল ট্র্যাক",
-    "text": "বাংলাদেশে চট্টগ্রামে প্রথমবারের মতো নিবেদিত সাইকেল ট্র্যাক চালু হয়েছে, টেকসই শহুরে পরিবহনের পথে এগিয়ে যাওয়ার পদক্ষেপ।"
+    "text": "বাংলাদেশ চট্টগ্রামে তার প্রথম নিবেদিত সাইকেল ট্র্যাক খোলা হয়েছে, সবুজ পরিবহনের দিকে একটি পদক্ষেপ।"
    }
   }
  ],
