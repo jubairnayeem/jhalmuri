@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-10T22:26:53.026Z",
+ "updatedAt": "2026-10-11T01:49:05.897Z",
  "items": [
+  {
+   "id": "1pmim4b",
+   "section": "news",
+   "cat": "campus",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/my-campus/973695/%E0%A6%AF%E0%A7%81%E0%A6%AC-%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%A6%E0%A6%AB%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0",
+   "image": null,
+   "published": "2026-10-11T01:19:20.000Z",
+   "added": "2026-10-11T01:49:05.897Z",
+   "origTitle": "যুব উন্নয়ন অধিদফতরের নিয়োগ পরীক্ষা বাতিলের প্রতিবাদে জকসুর বিক্ষোভ",
+   "en": {
+    "title": "JU students protest cancellation of Youth Ministry recruitment test",
+    "summary": "Jagannath University's central student council (JCSU) held a protest march and rally Saturday night to oppose the cancellation of a recruitment test by the Department of Youth Development and demand justice for job seekers. JCSU education secretary Ibrahim Khalil condemned the move."
+   },
+   "bn": {
+    "title": "যুব উন্নয়ন নিয়োগ পরীক্ষা বাতিলের প্রতিবাদে জগন্নাথ বিশ্ববিদ্যালয়ের ছাত্র বিক্ষোভ",
+    "summary": "জগন্নাথ বিশ্ববিদ্যালয়ের কেন্দ্রীয় শিক্ষার্থী সংসদ (জকসু) শনিবার রাতে যুব উন্নয়ন অধিদফতরের নিয়োগ পরীক্ষা বাতিলের প্রতিবাদে বিক্ষোভ মিছিল ও সমাবেশ করেছে। তারা চাকরিপ্রার্থীদের যৌক্তিক দাবি আদায়ের লক্ষ্যে প্রতিবাদ করেছে। জকসু শিক্ষা ও গবেষণা সম্পাদক ইব্রাহিম খলিল এই পদক্ষেপের নিন্দা করেছেন।"
+   }
+  },
+  {
+   "id": "1795onj",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
+   "published": "2026-10-10T19:50:00.000Z",
+   "added": "2026-10-11T01:49:05.897Z",
+   "origTitle": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "en": {
+    "title": "Apple hires Huxe team, licenses podcast AI tech in reverse deal",
+    "summary": "Apple disclosed plans to hire employees from Huxe, a personalized audio startup, and license its tech—a strategy called reverse acqui-hire that lets big companies grab talent and IP without full acquisition. Huxe, founded by ex-NotebookLM developers, shut down in May. Apple made the agreement public to the European Commission in June."
+   },
+   "bn": {
+    "title": "অ্যাপল হাক্স টিম নিয়োগ দিচ্ছে, পডকাস্ট এআই প্রযুক্তির লাইসেন্স নিচ্ছে",
+    "summary": "অ্যাপল হাক্সের কর্মচারীদের নিয়োগ দেওয়ার এবং তাদের প্রযুক্তি লাইসেন্স নেওয়ার পরিকল্পনা ঘোষণা করেছে—এটি একটি কৌশল যা বড় কোম্পানিগুলিকে সম্পূর্ণ অধিগ্রহণ ছাড়াই প্রতিভা এবং আইপি পেতে দেয়। নটবুক এলএম-এর প্রাক্তন ডেভেলপারদের দ্বারা প্রতিষ্ঠিত হাক্স মে মাসে বন্ধ হয়েছিল। অ্যাপল জুন মাসে ইউরোপীয় কমিশনকে চুক্তিটি প্রকাশ করেছে।"
+   }
+  },
+  {
+   "id": "bxgae3",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c68/live/40a0f7d0-c507-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-11T00:21:52.000Z",
+   "added": "2026-10-11T01:49:05.897Z",
+   "origTitle": "Twelve killed in attack on airport in Saudi capital Riyadh",
+   "en": {
+    "title": "At least 12 killed in attack on Riyadh airport, Saudi Arabia",
+    "summary": "An attack on King Khalid International Airport in Riyadh killed at least 12 people and injured 309, including two Bangladeshis, according to Saudi authorities. The dead also include four Saudis and citizens from the US, Jordan, Palestine, Syria, Sudan and Egypt. The Saudi-led coalition blamed Yemen's Houthis and called it a war crime. Airport operations were suspended."
+   },
+   "bn": {
+    "title": "সৌদি আরবের রিয়াদ বিমানবন্দরে হামলায় কমপক্ষে ১২ জন নিহত",
+    "summary": "রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হামলায় কমপক্ষে ১২ জন নিহত এবং ৩০৯ জন আহত হয়েছে বলে সৌদি কর্তৃপক্ষ জানিয়েছে। নিহতদের মধ্যে দুই বাংলাদেশী, চার সৌদি এবং আমেরিকা, জর্ডান, ফিলিস্তিন, সিরিয়া, সুদান ও মিশরের নাগরিক রয়েছেন। সৌদি-নেতৃত্বাধীন জোট ইয়েমেনের হুথিদের দোষ দিয়েছে এবং এটি যুদ্ধাপরাধ বলে অভিহিত করেছে।"
+   }
+  },
+  {
+   "id": "1c37tyw",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/chattogram-customs-revenue-rises-11-q1-still-tk9949cr-short-target-1568681",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/21/chattogram_customs_house.jpg",
+   "published": "2026-10-11T01:10:00.000Z",
+   "added": "2026-10-11T01:49:05.897Z",
+   "origTitle": "Chattogram Customs revenue rises 11% in Q1, still Tk9,949cr short of target",
+   "en": {
+    "title": "Chattogram Customs revenue up 11% but still misses Q1 target",
+    "summary": "Chattogram Custom House collected Tk22,083 crore in July-September, a solid 11% jump year-on-year. But it fell Tk9,949 crore short of its Tk32,032 crore quarterly target. Import volumes dropped 4.1% in September, though higher-duty goods pushed revenue up. Officials expect to catch up in coming months."
+   },
+   "bn": {
+    "title": "চট্টগ্রাম কাস্টমস রাজস্ব ১১% বৃদ্ধি পেয়েছে কিন্তু লক্ষ্য ছাড়িয়ে গেছে",
+    "summary": "চট্টগ্রাম কাস্টমস হাউস জুলাই-সেপ্টেম্বরে ২২,০৮৩ কোটি টাকা সংগ্রহ করেছে, যা বছরের পর বছর ১১% বৃদ্ধি। তবে এটি ত্রৈমাসিক লক্ষ্য ৩২,০৩২ কোটি থেকে ৯,৯৪৯ কোটি টাকা পিছিয়ে আছে। সেপ্টেম্বরে আমদানির পরিমাণ ৪.১% কমেছে, কিন্তু উচ্চ ডিউটির পণ্য রাজস্ব বাড়িয়েছে। কর্মকর্তারা আগামী মাসগুলিতে ঘাটতি পূরণের আশা করছেন।"
+   }
+  },
+  {
+   "id": "1oy5gdb",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/weather/973696/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%9C-%E0%A6%86%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%A4-%E0%A6%B6%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%95-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%AD%E0%A6%BE%E0%A6%B8",
+   "image": null,
+   "published": "2026-10-11T01:38:10.000Z",
+   "added": "2026-10-11T01:48:45.015Z",
+   "origTitle": "ঢাকায় আজ আবহাওয়া প্রধানত শুষ্ক থাকার আভাস",
+   "en": {
+    "title": "Dhaka weather forecast: dry conditions today",
+    "summary": "Bangladesh Meteorological Department predicts mainly dry weather for Dhaka and surrounding areas on Sunday from 7am onwards. The sky may be partially cloudy temporarily, but rain is unlikely. A typical dry autumn day in the capital."
+   },
+   "bn": {
+    "title": "আজ ঢাকায় প্রধানত শুষ্ক আবহাওয়া থাকবে",
+    "summary": "বাংলাদেশ আবহাওয়া অধিদফতর জানিয়েছে যে রবিবার সকাল থেকে ঢাকা এবং আশেপাশের এলাকায় প্রধানত শুষ্ক আবহাওয়া থাকবে। আকাশ অস্থায়ীভাবে আংশিক মেঘলা হতে পারে কিন্তু বৃষ্টিপাতের তেমন সম্ভাবনা নেই। সাধারণ শরৎকালীন আবহাওয়া।"
+   }
+  },
+  {
+   "id": "1aa6s0v",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2010/12/2010122443931597580_20.jpeg?resize=1200%2C675",
+   "published": "2026-10-11T01:16:18.000Z",
+   "added": "2026-10-11T01:48:45.015Z",
+   "origTitle": "Man dies after entering tiger enclosure at England wildlife park",
+   "en": {
+    "title": "Man dies after entering tiger enclosure at England wildlife park",
+    "summary": "A man died after entering a tiger enclosure at Yorkshire Wildlife Park near Doncaster in northern England on Saturday afternoon. Police said he was attacked by the tiger and died at the scene, though it was unclear how he entered the enclosure. The tiger was unharmed and remained inside; the park was evacuated and closed until Sunday."
+   },
+   "bn": {
+    "title": "ইংল্যান্ডের প্রাণী পার্কে বাঘের আক্রমণে এক ব্যক্তির মৃত্যু",
+    "summary": "শনিবার দুপুরে ইংল্যান্ডের উত্তরাঞ্চলের ডনকাস্টার শহরের কাছে Yorkshire Wildlife Park-এ একজন ব্যক্তি বাঘের এনক্লোজারে ঢুকে গেছেন এবং বাঘের আক্রমণে মৃত্যুবরণ করেছেন। পুলিশ বলেছে, তিনি সেখানেই মারা গেছেন এবং কীভাবে তিনি এনক্লোজারে ঢুকলেন তা স্পষ্ট নয়। বাঘটি নিরাপদ ছিল এবং এনক্লোজারের মধ্যেই থেকেছে, আর পার্কটি রবিবার পর্যন্ত বন্ধ রাখা হয়েছে।"
+   }
+  },
+  {
+   "id": "cb92cs",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/europe/trump-calls-replacing-ukraines-zelenskiy-tussle-over-diesel-deal-russia-1568686",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/05/netherlands_trump_zelenskiy.jpg",
+   "published": "2026-10-11T01:25:00.000Z",
+   "added": "2026-10-11T01:48:45.015Z",
+   "origTitle": "Trump calls for replacing Ukraine's Zelenskiy in tussle over diesel deal with Russia",
+   "en": {
+    "title": "Trump calls Ukraine to replace Zelenskiy over Russia diesel deal",
+    "summary": "US President Donald Trump told reporters Ukraine should get a new leader, saying Zelenskiy can't make deals. This came after Trump lifted sanctions on Russian diesel exports, which Zelenskiy sharply criticized. A Russian strike on Zaporizhzhia killed 20 people, including three children, on the same day. Kyiv wanted Washington to pressure Russia into peace talks instead."
+   },
+   "bn": {
+    "title": "ট্রাম্প ইউক্রেনকে বলেছেন নতুন নেতা খুঁজতে",
+    "summary": "আমেরিকার রাষ্ট্রপতি ডোনাল্ড ট্রাম্প বলেছেন ইউক্রেনের নেতা ভলোদিমির জেলেনস্কিকে পরিবর্তন করা উচিত কারণ তিনি চুক্তি করতে পারেন না। ট্রাম্প রাশিয়ার ডিজেল রপ্তানিতে নিষেধাজ্ঞা তুলে দিয়েছেন, যার প্রতিক্রিয়ায় জেলেনস্কি তীব্র সমালোচনা করেছেন। একই দিনে রাশিয়া জাপোরিঝঝিয়ায় আঘাত করেছে এবং ২০ জন নিহত হয়েছেন, যার মধ্যে তিনটি শিশু রয়েছে।"
+   }
+  },
   {
    "id": "1fsun9w",
    "section": "news",

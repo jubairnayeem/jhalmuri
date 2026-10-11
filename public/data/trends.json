@@ -1,39 +1,39 @@
 {
- "updatedAt": "2026-10-10T22:27:07.734Z",
+ "updatedAt": "2026-10-11T01:49:19.350Z",
  "burning": [
   {
-   "id": "1fsun9w",
+   "id": "bxgae3",
    "heat": 5,
    "why": {
-    "en": "Measles death toll climbing fast—serious public health crisis unfolding.",
-    "bn": "মিজেলস মৃত্যুর সংখ্যা বাড়ছে—দেশে গুরুতর স্বাস্থ্য সংকট চলছে।"
+    "en": "Major attack on Riyadh airport kills at least 12, covered by multiple outlets.",
+    "bn": "রিয়াদ এয়ারপোর্টে বড় হামলায় কমপক্ষে ১২ জন নিহত, একাধিক আউটলেটে কভারেজ।"
    },
    "rank": 1
   },
   {
-   "id": "mey9iv",
-   "heat": 4,
+   "id": "1fsun9w",
+   "heat": 5,
    "why": {
-    "en": "Boat race accident in Rajbari injures 20—dramatic local disaster.",
-    "bn": "রাজবাড়ীতে নৌকা দুর্ঘটনায় ২০ জন আহত—স্থানীয় সংবাদে আলোড়ন।"
+    "en": "Measles death toll crosses 1,100 with continuing casualties—urgent health crisis.",
+    "bn": "মিজলস মৃত্যু ১,১৫৫ এ পৌঁছেছে, চলমান স্বাস্থ্য সংকট।"
    },
    "rank": 2
   },
   {
-   "id": "1i2yonf",
+   "id": "cb92cs",
    "heat": 4,
    "why": {
-    "en": "Trump diesel deal with Russia sparks Ukraine tensions—multiple outlets covering.",
-    "bn": "ট্রাম্পের রাশিয়া তেল চুক্তি ইউক্রেন উত্তেজনা বাড়াচ্ছে—বিভিন্ন মাধ্যম কভার করছে।"
+    "en": "Trump-Zelensky tensions over Russia diesel deal and leadership questions.",
+    "bn": "রাশিয়া ডিজেল ডিল নিয়ে ট্রাম্প-জেলেনস্কি উত্তেজনা এবং নেতৃত্বের প্রশ্ন।"
    },
    "rank": 3
   },
   {
-   "id": "ldqw52",
+   "id": "mey9iv",
    "heat": 3,
    "why": {
-    "en": "Houthi attack on Saudi airport kills 12—regional conflict escalating.",
-    "bn": "সৌদি বিমানবন্দরে হুথি হামলায় ১২ জন নিহত—আঞ্চলিক উত্তেজনা বাড়ছে।"
+    "en": "Boat collision in Rajbari during race injures 20 rowers.",
+    "bn": "রাজবাড়িতে নৌকা দৌড়ে সংঘর্ষে ২০ জন রোয়ার আহত।"
    },
    "rank": 4
   },
@@ -41,59 +41,59 @@
    "id": "1te2k36",
    "heat": 3,
    "why": {
-    "en": "Bangladesh opens investment desks for major Asian powers—economic move drawing attention.",
-    "bn": "বাংলাদেশ এশিয়ান দেশগুলোর জন্য বিনিয়োগ ডেস্ক খুলছে—অর্থনৈতিক উদ্যোগ।"
+    "en": "Bangladesh opens investment desks for China, Korea, Japan—economic push.",
+    "bn": "বাংলাদেশ চীন, কোরিয়া, জাপানের জন্য বিনিয়োগ ডেস্ক খুলছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1i2yonf",
-   "tag": "#UkraineVsRussia",
+   "id": "5hugvj",
+   "tag": "#CricketSquad",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Trump's Russia diesel deal sparks row",
-    "text": "Trump announced a diesel deal with Russia; Zelensky fired back calling it a gift to Putin. Big diplomatic clash over Ukraine war strategy."
+    "title": "Bangladesh Cricket Squad Named",
+    "text": "Bangladesh has named a 16-member squad for the UAE ODI tri-series. Social media is buzzing with team selections and predictions."
    },
    "bn": {
-    "title": "ট্রাম্পের রাশিয়া তেল চুক্তি নিয়ে ঝামেলা",
-    "text": "ট্রাম্প রাশিয়ার সাথে ডিজেল চুক্তি ঘোষণা করেছেন; জেলেনস্কি বলেছেন এটা পুতিনের জন্য উপহার। ইউক্রেন যুদ্ধ কৌশল নিয়ে বড় কূটনৈতিক টানাপোড়েন।"
+    "title": "বাংলাদেশ ক্রিকেট দল ঘোষণা",
+    "text": "ইউএই ওডিআই ট্রাই-সিরিজের জন্য বাংলাদেশ ১৬ সদস্যের দল নির্বাচন করেছে। সোশ্যাল মিডিয়ায় দল নিয়ে চর্চা চলছে।"
    }
   },
   {
    "id": "a4xy6l",
-   "tag": "#AviationScare",
+   "tag": "#SafeLanding",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Plane lands safely with landing gear issue",
-    "text": "A plane touched down in Cox's Bazar despite landing gear problems. Pilots handled it well—no injuries, crisis averted."
+    "title": "Plane Lands Safely Despite Gear Issue",
+    "text": "A plane with landing gear problems touched down safely in Cox's Bazar, relieving passengers and crew."
    },
    "bn": {
-    "title": "ল্যান্ডিং গিয়ার সমস্যায় বিমান নামল",
-    "text": "কক্সবাজারে ল্যান্ডিং গিয়ার সমস্যা নিয়ে বিমান নেমে এসেছে। পাইলটরা সফলভাবে সামলেছেন—কোনো হতাহত নেই।"
+    "title": "ল্যান্ডিং গিয়ার সমস্যায় নিরাপদ অবতরণ",
+    "text": "কক্সবাজারে ল্যান্ডিং গিয়ার সমস্যা থাকা বিমান নিরাপদে নামল।"
    }
   },
   {
-   "id": "187pt48",
-   "tag": "#AIRisks",
+   "id": "1rch6nu",
+   "tag": "#F1Racing",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Microsoft CEO warns on AI super intelligence",
-    "text": "Microsoft's chief called for an emergency brake on super intelligence development. Growing tech concern about AI safety."
+    "title": "Russell Fastest in Singapore Practice",
+    "text": "George Russell tops practice session at the Singapore Grand Prix despite smoggy conditions affecting visibility."
    },
    "bn": {
-    "title": "মাইক্রোসফটের সিইও এআই নিয়ে সতর্ক",
-    "text": "মাইক্রোসফটের প্রধান সুপার ইন্টেলিজেন্স বিকাশে জরুরি ব্রেক চাইলেন। এআই নিরাপত্তা নিয়ে প্রযুক্তি জগতে উদ্বেগ বাড়ছে।"
+    "title": "সিঙ্গাপুর প্র্যাকটিসে রাসেল দ্রুততম",
+    "text": "জর্জ রাসেল সিঙ্গাপুর গ্র্যান্ড প্রিক্সে প্র্যাকটিস সেশন দ্রুততম করেছেন।"
    }
   }
  ],
