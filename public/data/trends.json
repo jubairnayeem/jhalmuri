@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-11T01:49:19.350Z",
+ "updatedAt": "2026-10-11T08:42:49.406Z",
  "burning": [
   {
-   "id": "bxgae3",
+   "id": "ncqsvq",
    "heat": 5,
    "why": {
-    "en": "Major attack on Riyadh airport kills at least 12, covered by multiple outlets.",
-    "bn": "রিয়াদ এয়ারপোর্টে বড় হামলায় কমপক্ষে ১২ জন নিহত, একাধিক আউটলেটে কভারেজ।"
+    "en": "Attack on Riyadh airport with multiple outlets covering it, two Bangladeshis killed.",
+    "bn": "রিয়াদ এয়ারপোর্টে আক্রমণ, দুজন বাংলাদেশি নিহত—একাধিক মাধ্যম কভার করছে।"
    },
    "rank": 1
   },
   {
-   "id": "1fsun9w",
+   "id": "gtonvh",
    "heat": 5,
    "why": {
-    "en": "Measles death toll crosses 1,100 with continuing casualties—urgent health crisis.",
-    "bn": "মিজলস মৃত্যু ১,১৫৫ এ পৌঁছেছে, চলমান স্বাস্থ্য সংকট।"
+    "en": "Bangladesh cricket trending heavily on Google; Sobhana's century and Hasan Mahmud's hat-trick dominating searches.",
+    "bn": "বাংলাদেশ ক্রিকেট গুগলে ট্রেন্ডিং—সোভনা এবং হাসান মাহমুদের রেকর্ড ভাইরাল।"
    },
    "rank": 2
   },
   {
-   "id": "cb92cs",
+   "id": "1fsun9w",
    "heat": 4,
    "why": {
-    "en": "Trump-Zelensky tensions over Russia diesel deal and leadership questions.",
-    "bn": "রাশিয়া ডিজেল ডিল নিয়ে ট্রাম্প-জেলেনস্কি উত্তেজনা এবং নেতৃত্বের প্রশ্ন।"
+    "en": "Measles death toll now 1,155; public health crisis with rising casualties.",
+    "bn": "হাম রোগে মৃত্যু ১,১৫৫ ছাড়িয়েছে—স্বাস্থ্য জরুরি অবস্থা।"
    },
    "rank": 3
+  },
+  {
+   "id": "1r415ss",
+   "heat": 3,
+   "why": {
+    "en": "BNP monitoring committee for Durga Puja as festival season approaches.",
+    "bn": "দুর্গা পূজা মৌসুমে বিএনপি নজরদারি কমিটি গঠন।"
+   },
+   "rank": 4
   },
   {
    "id": "mey9iv",
    "heat": 3,
    "why": {
     "en": "Boat collision in Rajbari during race injures 20 rowers.",
-    "bn": "রাজবাড়িতে নৌকা দৌড়ে সংঘর্ষে ২০ জন রোয়ার আহত।"
-   },
-   "rank": 4
-  },
-  {
-   "id": "1te2k36",
-   "heat": 3,
-   "why": {
-    "en": "Bangladesh opens investment desks for China, Korea, Japan—economic push.",
-    "bn": "বাংলাদেশ চীন, কোরিয়া, জাপানের জন্য বিনিয়োগ ডেস্ক খুলছে।"
+    "bn": "রাজবাড়িতে নৌকা রেস দুর্ঘটনা, ২০ জন আহত।"
    },
    "rank": 5
   }
@@ -50,50 +50,50 @@
  "gossip": [
   {
    "id": "5hugvj",
-   "tag": "#CricketSquad",
+   "tag": "#BanCricket",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "Bangladesh Cricket Squad Named",
-    "text": "Bangladesh has named a 16-member squad for the UAE ODI tri-series. Social media is buzzing with team selections and predictions."
+    "title": "Bangladesh squad for UAE tri-series",
+    "text": "Bangladesh names 16-member squad for the ODI tri-series in UAE. Sobhana Mostary making waves after her historic century against Australia."
    },
    "bn": {
-    "title": "বাংলাদেশ ক্রিকেট দল ঘোষণা",
-    "text": "ইউএই ওডিআই ট্রাই-সিরিজের জন্য বাংলাদেশ ১৬ সদস্যের দল নির্বাচন করেছে। সোশ্যাল মিডিয়ায় দল নিয়ে চর্চা চলছে।"
+    "title": "ইউএই ত্রিমুখী সিরিজের দল",
+    "text": "বাংলাদেশ ইউএই ওডিআই ত্রিমুখী সিরিজের জন্য ১৬ সদস্যের দল ঘোষণা করেছে। সোভনা মোস্তারি অস্ট্রেলিয়ার বিপক্ষে ঐতিহাসিক শতক দিয়ে আলোচনায়।"
    }
   },
   {
-   "id": "a4xy6l",
-   "tag": "#SafeLanding",
+   "id": "1te2k36",
+   "tag": "#InvestmentDesk",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Plane Lands Safely Despite Gear Issue",
-    "text": "A plane with landing gear problems touched down safely in Cox's Bazar, relieving passengers and crew."
+    "title": "Special desks for China, Korea, Japan",
+    "text": "Bangladesh opens special investment desks targeting foreign investors from China, Korea, and Japan to boost business inflow."
    },
    "bn": {
-    "title": "ল্যান্ডিং গিয়ার সমস্যায় নিরাপদ অবতরণ",
-    "text": "কক্সবাজারে ল্যান্ডিং গিয়ার সমস্যা থাকা বিমান নিরাপদে নামল।"
+    "title": "চীন, কোরিয়া, জাপানের জন্য বিশেষ ডেস্ক",
+    "text": "বাংলাদেশ চীন, দক্ষিণ কোরিয়া এবং জাপান থেকে বিনিয়োগকারীদের আকর্ষণের জন্য বিশেষ ডেস্ক খুলেছে।"
    }
   },
   {
-   "id": "1rch6nu",
-   "tag": "#F1Racing",
+   "id": "1e9xydk",
+   "tag": "#BCLLeader",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 2,
    "en": {
-    "title": "Russell Fastest in Singapore Practice",
-    "text": "George Russell tops practice session at the Singapore Grand Prix despite smoggy conditions affecting visibility."
+    "title": "Former BCL leader passes away",
+    "text": "Mahfuzul Haider, former Bangladesh Chhatra League leader, died in Kolkata at age 48."
    },
    "bn": {
-    "title": "সিঙ্গাপুর প্র্যাকটিসে রাসেল দ্রুততম",
-    "text": "জর্জ রাসেল সিঙ্গাপুর গ্র্যান্ড প্রিক্সে প্র্যাকটিস সেশন দ্রুততম করেছেন।"
+    "title": "বাসদের সাবেক নেতা মৃত",
+    "text": "বাংলাদেশ ছাত্র লীগের সাবেক নেতা মাহফুজুল হায়দার কলকাতায় ৪৮ বছর বয়সে মৃত্যুবরণ করেছেন।"
    }
   }
  ],
