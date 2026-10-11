@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-10-11T15:36:08.092Z",
+ "updatedAt": "2026-10-11T20:12:35.915Z",
  "burning": [
   {
-   "id": "ncqsvq",
+   "id": "rj8y7e",
    "heat": 5,
    "why": {
-    "en": "Houthi attack on Riyadh airport killed 12 including 2 Bangladeshis; massive social signal (1000+ trend for Saudi Arabia)",
-    "bn": "রিয়াদ বিমানবন্দরে হামলায় ১২ জন নিহত, দুই বাংলাদেশি অন্তর্ভুক্ত; সোশ্যালে ভাইরাল (সৌদি আরব ১০০০+ ট্রেন্ড)"
+    "en": "Houthi attack on Riyadh airport killed 12 including 2 Bangladeshis, covered by multiple outlets.",
+    "bn": "সৌদি আরবের রিয়াদ বিমানবন্দরে হুথি হামলায় ১২ জন নিহত, তাদের মধ্যে ২ জন বাংলাদেশী।"
    },
    "rank": 1
   },
   {
-   "id": "bwau1u",
-   "heat": 4,
+   "id": "it905o",
+   "heat": 5,
    "why": {
-    "en": "Bangladesh U-19 women advance to tri-series final; sports coverage across outlets",
-    "bn": "বাংলাদেশ U-19 নারী দল ট্রাই-সিরিজ ফাইনালে পৌঁছেছে; একাধিক আউটলেটে কভারেজ"
+    "en": "Dengue deaths hit 303 with cases near 100,000—major health crisis unfolding.",
+    "bn": "ডেঙ্গু মৃত্যু ৩০৩ এ পৌঁছেছে এবং কেস ১ লক্ষের কাছাকাছি—বড় স্বাস্থ্য সংকট।"
    },
    "rank": 2
   },
@@ -23,93 +23,93 @@
    "id": "1fsun9w",
    "heat": 4,
    "why": {
-    "en": "Measles death toll rises to 1,155; ongoing public health crisis getting serious attention",
-    "bn": "মিজেলস মৃত্যু ১,১৫৫ এ পৌঁছেছে; জনস্বাস্থ্য সংকট গুরুতর মনোযোগ পাচ্ছে"
+    "en": "Measles death toll reaches 1,155, another major disease outbreak concern.",
+    "bn": "হাম থেকে মৃত্যু ১,১৫৫ এ পৌঁছেছে, আরেকটি বড় রোগ বিস্ফোরণের আশঙ্কা।"
    },
    "rank": 3
   },
   {
-   "id": "lbw6mg",
-   "heat": 3,
+   "id": "1ajd3ny",
+   "heat": 4,
    "why": {
-    "en": "Former minister ordered internet shutdown at universities; campus and political implications",
-    "bn": "সাবেক মন্ত্রী বিশ্ববিদ্যালয়ে ইন্টারনেট বন্দ নির্দেশ দিয়েছেন; ক্যাম্পাস ও রাজনৈতিক ইস্যু"
+    "en": "Woman beaten to death in Cumilla, serious crime story with arrest made.",
+    "bn": "কুমিল্লায় নারী পিটিয়ে মৃত্যু, প্রধান সন্দেহভাজন গ্রেপ্তার।"
    },
    "rank": 4
   },
   {
-   "id": "mey9iv",
+   "id": "1ucx6fj",
    "heat": 3,
    "why": {
-    "en": "Boat collision during race in Rajbari injures 20 rowers; local incident getting coverage",
-    "bn": "রাজবারিতে নৌকা প্রতিযোগিতায় সংঘর্ষ, ২০ রোয়ার আহত; স্থানীয় ঘটনা কভার হচ্ছে"
+    "en": "Bangladesh pushing regional coalition for Rohingya repatriation, significant diplomatic effort.",
+    "bn": "বাংলাদেশ রোহিঙ্গা প্রত্যাবাসনের জন্য আঞ্চলিক জোট গড়তে চেষ্টা করছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "ncqsvq",
-   "tag": "#রিয়াদ_হামলা",
+   "id": "rj8y7e",
+   "tag": "#RiyadhAttack",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Two Bangladeshis killed in Riyadh attack",
-    "text": "A Houthi missile strike on Riyadh airport left 12 dead, including 2 Bangladeshi nationals. Authorities are still working to confirm identities."
+    "title": "Houthi strike kills Bangladeshis",
+    "text": "Attack on Saudi airport left 12 dead including 2 Bangladeshis. Major regional security incident dominating conversation."
    },
    "bn": {
-    "title": "রিয়াদ হামলায় দুই বাংলাদেশি নিহত",
-    "text": "হুতি মিসাইল হামলায় রিয়াদ বিমানবন্দর আঘাত পেয়েছে, ১২ জন নিহত হয়েছেন যার মধ্যে ২ বাংলাদেশি রয়েছেন। পরিচয় নিশ্চিত করার চেষ্টা চলছে।"
+    "title": "রিয়াদে হুথি হামলা",
+    "text": "সৌদি বিমানবন্দরে হামলায় ১২ জন মারা যায়, তাদের মধ্যে ২ জন বাংলাদেশী ছিল।"
    }
   },
   {
    "id": "bwau1u",
-   "tag": "#ক্রিকেট_ফাইনাল",
+   "tag": "#BanglaWomen",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh women reach tri-series final",
-    "text": "Bangladesh U-19 women's team beat Pakistan and have qualified for the final of the tri-series tournament."
+    "title": "Bangladesh women reach final",
+    "text": "U-19 women's team beat Pakistan to advance to tri-series final. Sports victory getting social buzz."
    },
    "bn": {
-    "title": "বাংলাদেশ নারী দল ফাইনালে",
-    "text": "বাংলাদেশ U-19 নারী দল পাকিস্তানকে হারিয়ে ট্রাই-সিরিজ ফাইনালে পৌঁছেছে।"
+    "title": "বাংলা মহিলা দল ফাইনালে",
+    "text": "আন্ডার-১৯ নারী দল পাকিস্তানকে হারিয়ে ট্রাই-সিরিজ ফাইনালে পৌঁছেছে।"
+   }
+  },
+  {
+   "id": "it905o",
+   "tag": "#DengueAlert",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Dengue crisis deepens",
+    "text": "Deaths hit 303, cases near 100,000 as outbreak spreads. Health emergency trending nationwide."
+   },
+   "bn": {
+    "title": "ডেঙ্গু সংকট গভীর",
+    "text": "মৃত্যু ৩০৩ এ, কেস ১ লক্ষের কাছাকাছি এসেছে। স্বাস্থ্য জরুরি অবস্থা দেশব্যাপী ট্রেন্ড করছে।"
    }
   },
   {
    "id": "1fsun9w",
-   "tag": "#স্বাস্থ্য_জরুরি",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Measles death toll hits 1,155",
-    "text": "Bangladesh continues to battle a measles outbreak. The death toll has reached 1,155 with 8 more deaths recorded."
-   },
-   "bn": {
-    "title": "মিজেলস মৃত্যু ১,১৫৫",
-    "text": "বাংলাদেশে মিজেলস মহামারীতে মৃত্যু ১,১৫৫ এ পৌঁছেছে, আরও ৮ জন প্রাণ হারিয়েছেন।"
-   }
-  },
-  {
-   "id": "17605o2",
-   "tag": "#শিক্ষক_স্বাধীনতা",
+   "tag": "#MeaslesOutbreak",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "DU professor protests for academic freedom",
-    "text": "A professor from Dhaka University staged a silent protest demanding greater freedom for teachers and faculty on campus."
+    "title": "Measles deaths cross 1,100",
+    "text": "Death toll reaches 1,155 with 8 new deaths. Second major disease crisis alongside dengue."
    },
    "bn": {
-    "title": "ঢাকা বিশ্ববিদ্যালয় প্রতিবাদ",
-    "text": "একজন শিক্ষক শিক্ষকদের স্বাধীনতার জন্য নীরব প্রতিবাদ করেছেন।"
+    "title": "হাম মৃত্যু ১,১০০ ছাড়িয়ে",
+    "text": "মৃত্যু ১,১৫৫ এ পৌঁছেছে, নতুন ৮ জন মারা গেছে। ডেঙ্গুর পাশাপাশি দ্বিতীয় বড় রোগ সংকট।"
    }
   }
  ],

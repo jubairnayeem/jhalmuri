@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-11T15:35:51.431Z",
+ "updatedAt": "2026-10-11T20:12:20.380Z",
  "items": [
+  {
+   "id": "1ajd3ny",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tcjlGdmhSdjFDNnMzaUpkQmt0cG5ROTMwbnNnNkhYYVhGODNYRW9fUHZQSzJyeDJnZ1VidVRmQW1acDVhUkJHV3FjLUJXb1EzdHo1dDRhYkt6dEE?oc=5",
+   "image": null,
+   "published": "2026-10-11T08:52:39.000Z",
+   "added": "2026-10-11T20:12:20.380Z",
+   "origTitle": "কুমিল্লায় নারীকে পিটিয়ে হত্যা, প্রধান আসামি গ্রেফতার",
+   "en": {
+    "title": "Woman beaten to death in Cumilla, main suspect arrested",
+    "summary": "A woman was killed after being beaten in Cumilla. Police have arrested the main suspect in the case. The incident highlights violence against women in the country. Authorities are continuing their investigation."
+   },
+   "bn": {
+    "title": "কুমিল্লায় নারীকে পিটিয়ে হত্যা, প্রধান আসামি গ্রেফতার",
+    "summary": "কুমিল্লায় একজন নারীকে পিটিয়ে হত্যা করা হয়েছে। পুলিশ প্রধান আসামিকে গ্রেফতার করেছে। এই ঘটনা নারীর বিরুদ্ধে হিংসার একটি উদাহরণ। তদন্ত চলছে।"
+   }
+  },
+  {
+   "id": "rj8y7e",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WaUdSSzd1WFNDMjZuYTlNSWhzXzVkcFV3Um1JLUd4SDZoaUpGTWNsT194ejJHd3FIMUplRkdYMkZka1ZYc2JTcVRTUXpTQU1URDJNWE1rVkR0M1g3em94aHhvb21HUVA0VVhoZVRyVdIBfEFVX3lxTE0yUGJKM0xmNHgtekpOWGd2eTZpSkZqRXlwX0liSjk3MGhWNTY2VDAycGN4N0E5Tll6NGVSVnZXX0hsNzVLWjhyVlUwanBNVzVnVFJEdnRaYi1NR25kdUxIbzFleUxzOFUxT2dCQ2VseHNZWm1xU3ZZYVdvdEE?oc=5",
+   "image": null,
+   "published": "2026-10-11T03:27:07.000Z",
+   "added": "2026-10-11T20:12:20.380Z",
+   "origTitle": "Houthi attack on Saudi airport kills 12 including 2 Bangladeshis, over 300 wounded",
+   "en": {
+    "title": "Houthi attack on Saudi airport kills 12, including 2 Bangladeshis",
+    "summary": "A Houthi attack on a Saudi airport left 12 people dead, including 2 Bangladeshi nationals. Over 300 others were wounded in the strike. The attack highlights ongoing tensions in the Middle East region. Bangladeshi workers abroad remain at risk during such incidents."
+   },
+   "bn": {
+    "title": "সৌদি বিমানবন্দরে হুথি হামলায় ১২ জন নিহত, ২ বাংলাদেশি",
+    "summary": "সৌদি আরবের একটি বিমানবন্দরে হুথি গ্রুপের হামলায় ১২ জন মারা গেছেন, যার মধ্যে ২ জন বাংলাদেশি। আরও ৩০০ জনের বেশি আহত হয়েছেন। এই ঘটনা মধ্যপ্রাচ্যের টানাপড়েন বাড়াচ্ছে। বিদেশে কাজ করা বাংলাদেশি জনগণ এভাবে ঝুঁকিতে পড়ছেন।"
+   }
+  },
+  {
+   "id": "1gw9loq",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1558041.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423634.jpg",
+   "published": "2026-10-11T18:04:39.000Z",
+   "added": "2026-10-11T20:12:20.380Z",
+   "origTitle": "How bad light could shape the South Africa vs Australia Test",
+   "en": {
+    "title": "Bad light could swing South Africa vs Australia Test",
+    "summary": "Around 45 overs have been lost in three days due to poor light conditions. Teams now have to factor this loss into their match strategy and calculations. Fewer overs mean less time to build innings or take wickets. The weather could become a deciding factor in how the match unfolds."
+   },
+   "bn": {
+    "title": "খারাপ আলোতে বদলে যেতে পারে সাউথ আফ্রিকা-অস্ট্রেলিয়া টেস্ট",
+    "summary": "তিন দিনে খারাপ আলোর কারণে ৪৫ ওভার হারিয়েছে খেলা। এখন দুই দলকেই এই হারানো সময়ের হিসাব নিয়ে কৌশল ঠিক করতে হবে। কম ওভার মানে ব্যাটিং বা বোলিংয়ের জন্য কম সুযোগ পাওয়া। এই আবহাওয়াই শেষ পর্যন্ত ম্যাচের ফলাফল বদলে দিতে পারে।"
+   }
+  },
+  {
+   "id": "it905o",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Bangladesh Post",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQTNheXJNWnFzcGd1My1DaXVtXy02TlgxRlZxOHhCMmdfN0UycUp2a3lob3hwMEltZnRvME1rc3pCYndpYndIYjd2bFFJekV1eC1kNTUtOE1rOVdDZWJGUjVCNnBXeVFRZ3FObXVLNFNTWlp1V1A0eE5jTU9uMDZDbjFUUjlJVzI5eFZGMDFB?oc=5",
+   "image": null,
+   "published": "2026-10-11T14:53:28.000Z",
+   "added": "2026-10-11T20:12:20.380Z",
+   "origTitle": "Dengue deaths reach 303 as cases near 100,000",
+   "en": {
+    "title": "Dengue deaths hit 303 as cases approach 100,000",
+    "summary": "Bangladesh is facing a major dengue outbreak with cases nearing 100,000 and 303 deaths recorded so far. The disease is spreading rapidly across the country. Health authorities are urging people to take precautions against mosquito bites. Dengue cases typically spike during monsoon and post-monsoon seasons when mosquitoes breed more actively."
+   },
+   "bn": {
+    "title": "ডেঙ্গুতে মৃত্যু ৩০৩, আক্রান্ত প্রায় এক লক্ষ",
+    "summary": "বাংলাদেশে ডেঙ্গুর ভয়াবহ পরিস্থিতি চলছে—আক্রান্ত সংখ্যা লক্ষের কাছাকাছি পৌঁছেছে এবং মৃত্যু হয়েছে ৩০৩ জনের। দেশের বিভিন্ন জায়গায় দ্রুত ছড়িয়ে পড়ছে রোগটি। স্বাস্থ্য বিভাগ মশার কামড় থেকে সতর্ক থাকতে বলছে। বর্ষা এবং পরবর্তী সময়ে মশা বেশি বাড়ে তাই তখন ডেঙ্গু বেশি হয়।"
+   }
+  },
+  {
+   "id": "1ucx6fj",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/capital/2u9d9cs26l",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-11/l6qbr69v/Home-Minister.jpeg",
+   "published": "2026-10-11T19:47:48.000Z",
+   "added": "2026-10-11T20:12:04.265Z",
+   "origTitle": "রোহিঙ্গা প্রত্যাবাসনে আঞ্চলিক জোট গড়তে চায় বাংলাদেশ",
+   "en": {
+    "title": "Bangladesh seeks regional coalition to push Rohingya repatriation",
+    "summary": "Bangladesh plans to build a strategic regional alliance with China, ASEAN, the UN, and Japan to accelerate Rohingya repatriation instead of pursuing unilateral efforts, said Home Minister Salahuddin Ahmed at a seminar on Sunday. Japan's Myanmar-related special envoy Sasakawa recently visited Bangladesh and assured full government support. The Prime Minister will visit Japan later this month to discuss accelerating the repatriation process."
+   },
+   "bn": {
+    "title": "রোহিঙ্গা প্রত্যাবাসনে আঞ্চলিক জোট গড়তে চায় বাংলাদেশ",
+    "summary": "বাংলাদেশ রোহিঙ্গাদের প্রত্যাবাসনে একক প্রচেষ্টার বদলে চীন, আসিয়ান, জাতিসংঘ এবং জাপানসহ একটি কৌশলগত আঞ্চলিক জোট গড়তে চায় বলে গৃহমন্ত্রী সালাহউদ্দিন আহমদ রবিবার একটি সেমিনারে জানান। জাপানের মিয়ানমার বিষয়ক বিশেষ দূত সাসাকাওয়া সম্প্রতি বাংলাদেশ সফর করেছেন এবং পূর্ণ সহযোগিতার আশ্বাস দিয়েছেন। এই মাসের শেষে প্রধানমন্ত্রী জাপান সফরে যাবেন প্রত্যাবাসন প্রক্রিয়া ত্বরান্বিতের বিষয়ে আরও আলোচনার জন্য।"
+   }
+  },
+  {
+   "id": "1bb5k7s",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-11T16:41:37.000Z",
+   "added": "2026-10-11T20:12:04.265Z",
+   "origTitle": "Saudi capital airport hit by second Houthi strike in two days",
+   "en": {
+    "title": "Riyadh airport hit by second Houthi strike in two days",
+    "summary": "King Khalid International Airport in Riyadh has been struck for the second time in as many days, causing a fire in a passenger hall and injuries. A Saturday strike killed 13 people and injured 308 others. The Houthis claimed responsibility, saying they used ballistic missiles, cruise missiles, and drones, and warned that all Saudi airports except those in Mecca and Medina are potential targets. US President Trump said the US would decide whether to strike the Houthis."
+   },
+   "bn": {
+    "title": "রিয়াদ বিমানবন্দর দুই দিনে দ্বিতীয়বার হুথি হামলায় আক্রান্ত",
+    "summary": "সৌদি আরবের রাজধানী রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দর দুই দিনে দ্বিতীয়বার আক্রান্ত হয়েছে, যেখানে একটি যাত্রী হলে আগুন লেগেছে এবং মানুষ আহত হয়েছে। শনিবারের আক্রমণে ১৩ জন নিহত এবং ৩০৮ জন আহত হয়েছিল। হুথিরা দায়িত্ব স্বীকার করে বলেছে যে তারা ব্যালিস্টিক ক্ষেপণাস্ত্র, ক্রুজ ক্ষেপণাস্ত্র এবং ড্রোন ব্যবহার করেছে এবং সকল সৌদি বিমানবন্দর মক্কা ও মদিনা ছাড়া লক্ষ্যবস্তু হতে পারে বলে সতর্ক করেছে।"
+   }
+  },
+  {
+   "id": "c4t20x",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/world/south-asia/indias-chief-justice-declines-meeting-rahul-gandhi-over-vote-chori-allegations",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/india_cj.jpg",
+   "published": "2026-10-11T19:50:00.000Z",
+   "added": "2026-10-11T20:12:04.265Z",
+   "origTitle": "India's chief justice declines meeting with Rahul Gandhi over 'vote chori' allegations",
+   "en": {
+    "title": "India's chief justice declines Gandhi meeting over election fraud allegations",
+    "summary": "India's Chief Justice Surya Kant has declined a meeting with Congress leader Rahul Gandhi, citing judicial propriety as similar matters are pending before the Supreme Court. Gandhi and Congress chief Mallikarjun Kharge had sought to submit a memorandum demanding an end to alleged electoral fraud, resignation of the chief election commissioner, and a halt to electoral roll revisions. Opposition parties have announced a protest march to the Supreme Court on Monday, October 12."
+   },
+   "bn": {
+    "title": "ভারতের প্রধান বিচারপতি রাহুল গান্ধীর সাথে মিলিত হতে অস্বীকার করেছেন",
+    "summary": "ভারতের প্রধান বিচারপতি সূর্য কান্ত কংগ্রেস নেতা রাহুল গান্ধীর সাথে মিলিত হওয়ার অনুরোধ নাকচ করেছেন, কারণ অনুরূপ বিষয় সুপ্রিম কোর্টে বিচারাধীন। গান্ধী এবং কংগ্রেস সভাপতি মল্লিকার্জুন খার্গে একটি স্মারক জমা দিতে চেয়েছিলেন যা নির্বাচনী জালিয়াতি শেষ করা, নির্বাচন কমিশনারের পদত্যাগ এবং ভোটার তালিকা সংশোধন বন্ধের দাবি করে। বিরোধী দল সোমবার সুপ্রিম কোর্টে প্রতিবাদ মিছিলের ঘোষণা দিয়েছে।"
+   }
+  },
+  {
+   "id": "17mbn4h",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/politics/ncp/973913/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87",
+   "image": null,
+   "published": "2026-10-11T19:48:15.000Z",
+   "added": "2026-10-11T20:12:04.265Z",
+   "origTitle": "আরও ১০০ উপজেলায় প্রার্থী ঘোষণা করবে এনসিপি, আসছে নতুন কর্মসূচি",
+   "en": {
+    "title": "NCP to announce candidates in 100 more upazilas, launches week-long campaign",
+    "summary": "The National Citizens Party (NCP) has announced a week-long public engagement campaign starting October 23, protesting issues including law and order, fuel price hikes, rising commodity costs, and job market corruption. The decision was made at a meeting of the party's highest policymaking body, the Political Council, on Sunday, October 11, chaired by party convener and opposition chief whip Nahid Islam."
+   },
+   "bn": {
+    "title": "এনসিপি আরও ১০০ উপজেলায় প্রার্থী ঘোষণা করবে, সপ্তাহব্যাপী কর্মসূচি আসছে",
+    "summary": "জাতীয় নাগরিক পার্টি (এনসিপি) আইনশৃঙ্খলা, জ্বালানি তেলের দাম, পণ্যমূল্য বৃদ্ধি এবং চাকরিতে দুর্নীতির বিরুদ্ধে ২৩ অক্টোবর থেকে সপ্তাহব্যাপী জনসংযোগ কর্মসূচি ঘোষণা করেছে। এই সিদ্ধান্ত রবিবার ১১ অক্টোবর দলের সর্বোচ্চ নীতিনির্ধারণী ফোরাম রাজনৈতিক পর্ষদের সভায় নেওয়া হয়।"
+   }
+  },
   {
    "id": "bwau1u",
    "section": "news",
@@ -2287,226 +2463,6 @@
    "bn": {
     "title": "পার্থে গাড়ি দুর্ঘটনায় বাংলাদেশি শিক্ষার্থী নিহত",
     "summary": "পার্থের ইন্ডিয়ান ওশান ড্রাইভে বৃহস্পতিবার সকালে একটি গ্রে বিএমডব্লিউ গাড়ি একটি গাছে ধাক্কা খেয়ে দুর্ঘটনা ঘটে। এ দুর্ঘটনায় ২২ বছর বয়সী শিক্ষার্থী তাসনিম ওইশী, যিনি এডিথ কোওয়ান বিশ্ববিদ্যালয়ের ছাত্রী ছিলেন, নিহত হন। গাড়িটি সিবার্ড রোড ইন্টারসেকশনের কাছে রাস্তা থেকে সরে গিয়ে দুর্ঘটনা ঘটে। অন্য তিন শিক্ষার্থী আহত হয়েছেন কিন্তু তারা স্থিতিশীল অবস্থায় আছেন। পুলিশ তদন্ত চালাচ্ছে।"
-   }
-  },
-  {
-   "id": "41zbwk",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/environment/climate-change/qq8g2g85o8",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-08/6gwls99f/jeat.avif",
-   "published": "2026-10-08T15:37:08.000Z",
-   "added": "2026-10-08T16:25:00.428Z",
-   "origTitle": "Bangladesh, 3 other South Asian countries launch new initiative to tackle extreme heat",
-   "en": {
-    "title": "Bangladesh Joins Heat Crisis Initiative with South Asia",
-    "summary": "India, Nepal, Bangladesh and Bhutan launched a joint initiative to tackle extreme heat as El Niño strengthens. Four country briefs assessing heatwave conditions and preparedness gaps were released at Bangkok's Global Heat Forum. Heat threatens children, elderly people, pregnant women and outdoor workers across South Asia."
-   },
-   "bn": {
-    "title": "দক্ষিণ এশিয়ার সাথে বাংলাদেশ চরম তাপ মোকাবেলায় যোগ দিল",
-    "summary": "এল নিনিও শক্তিশালী হওয়ার সাথে সাথে ভারত, নেপাল, বাংলাদেশ এবং ভুটান চরম তাপ মোকাবেলায় একটি যৌথ উদ্যোগ চালু করেছে। ব্যাংকক-এর গ্লোবাল হিট ফোরামে চারটি দেশের তাপপ্রবাহের অবস্থা এবং প্রস্তুতির ফাঁক মূল্যায়ন করে প্রতিবেদন প্রকাশ করা হয়েছে। এই তাপ দক্ষিণ এশিয়া জুড়ে শিশু, বয়স্ক মানুষ, গর্ভবতী নারী এবং বাইরে কাজ করেন এমন মানুষদের হুমকি দেয়।"
-   }
-  },
-  {
-   "id": "v2z60n",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/conversation-about-non-monogamy-chock-full-of-animal-facts/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Conversation_About_NonMonogamy_NIB_G_PH.jpg",
-   "published": "2026-10-08T15:30:36.000Z",
-   "added": "2026-10-08T16:25:00.428Z",
-   "origTitle": "Conversation About Non-Monogamy Chock-Full Of Animal Facts",
-   "en": {
-    "title": "Guy Explains Non-Monogamy Using Only Animal Facts",
-    "summary": "A husband's serious conversation about opening up the relationship somehow became a nature documentary, packed with facts about beluga whales, bonobos and hyenas. His wife went from upset to genuinely curious about animal mating habits. By the end, he had to pump the brakes."
-   },
-   "bn": {
-    "title": "স্বামী প্রাণীদের গল্প দিয়ে বহুমৈথুন বোঝাতে চেষ্টা করছে",
-    "summary": "একজন স্বামী সম্পর্ককে খোলা করার বিষয়ে গুরুতর কথোপকথন শুরু করলেন, কিন্তু তা হয়ে গেছে প্রাণীদের ডকুমেন্টারি—হাঙর, বোনোবো এবং হায়েনা সম্পর্কে পূর্ণ। তার স্ত্রী রেগে যাওয়া থেকে প্রাণীদের মৈথুন অভ্যাসের ব্যাপারে আগ্রহী হয়ে উঠলেন। শেষে স্বামীকে থামতে হয়।"
-   }
-  },
-  {
-   "id": "1vaurb",
-   "section": "bhabna",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/08/ai-for-philosophy-progress-through-capital-intensive-philosophy-guest-post/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/10/old-philosophy-pencil-paper-joke-scaled.jpg",
-   "published": "2026-10-08T12:27:59.000Z",
-   "added": "2026-10-08T16:25:00.428Z",
-   "origTitle": "AI for Philosophy: Progress through Capital-Intensive Philosophy (guest post)",
-   "en": {
-    "title": "Will AI Eventually Do Philosophy for Us?",
-    "summary": "A Cambridge researcher argues AI will transform philosophy into a capital-intensive field where AI systems drive research. While some philosophers doubt AI can produce quality philosophy papers, the argument suggests AI will eventually reshape how the discipline works. The debate hinges on whether AI can truly advance philosophical thinking."
-   },
-   "bn": {
-    "title": "এআই কি আমাদের দর্শনের কাজ করবে?",
-    "summary": "ক্যামব্রিজের একজন গবেষক যুক্তি দিচ্ছেন যে এআই দর্শনকে একটি পুঁজি-নিবিড় ক্ষেত্রে পরিণত করবে যেখানে এআই সিস্টেম গবেষণা চালাবে। কিছু দার্শনিক সন্দেহ করেন এআই মানসম্পন্ন দর্শন কাগজপত্র তৈরি করতে পারে কিনা। বিতর্কটা এটার উপর নির্ভর করে যে এআই সত্যিই দার্শনিক চিন্তা এগিয়ে নিতে পারে কিনা।"
-   }
-  },
-  {
-   "id": "1hndrd9",
-   "section": "bhabna",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/videos/manhattans-evolution-over-centuries-captured-via-meticulous-animation",
-   "image": "https://images.aeonmedia.co/images/9b83d6d1-0bee-45e5-a3e2-a1ec08edfbde/evolution-of-manhattan-landscape-1.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-08T10:01:00.000Z",
-   "added": "2026-10-08T16:25:00.428Z",
-   "origTitle": "Evolution of Manhattan",
-   "en": {
-    "title": "How Manhattan Transformed Over 400 Years",
-    "summary": "A YouTube channel created an 8-minute 3D animation showing Manhattan's evolution from Lenape homeland to Dutch colony to today's skyscraper city. The video, made without AI, captures how 22.7 square miles transformed through industrialisation and modern development. It's a detailed visual journey through centuries of urban change."
-   },
-   "bn": {
-    "title": "ম্যানহাটন চারশ বছরে কিভাবে বদলে গেছে",
-    "summary": "একটি ইউটিউব চ্যানেল ৮ মিনিটের একটি থ্রিডি অ্যানিমেশনে ম্যানহাটনের বিবর্তন দেখিয়েছে—লেনাপে জনগোষ্ঠীর ভূমি থেকে ডাচ উপনিবেশ থেকে আজকের আকাশচুম্বী শহর পর্যন্ত। ২২.৭ বর্গমাইলের এই দ্বীপ শিল্পায়ন এবং আধুনিক উন্নয়নের মধ্য দিয়ে কিভাবে রূপান্তরিত হয়েছে তা এতে ধরা পড়েছে। এটা শতাব্দীর শহুরে পরিবর্তনের এক বিস্তারিত ভিজ্যুয়াল যাত্রা।"
-   }
-  },
-  {
-   "id": "aar6pd",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/banking/govt-repurchases-tk1716cr-bonds-first-ever-treasury-buyback-1566911",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/treasury-bonds.png",
-   "published": "2026-10-08T16:10:00.000Z",
-   "added": "2026-10-08T16:24:40.756Z",
-   "origTitle": "Govt repurchases Tk1,716cr bonds in first-ever treasury buyback",
-   "en": {
-    "title": "Bangladesh holds first-ever treasury bond buyback",
-    "summary": "Bangladesh conducted its first treasury bond buyback on October 8, repurchasing Tk1,716 crore in two-year bonds before maturity. Twenty banks submitted 56 bids worth Tk2,016 crore; the central bank accepted Tk1,716 crore. The buyback smooths debt repayment schedules and reduces refinancing risks by easing large one-off payments when bonds mature."
-   },
-   "bn": {
-    "title": "বাংলাদেশ প্রথমবারের মতো ট্রেজারি বন্ড ফেরত কিনেছে",
-    "summary": "বাংলাদেশ ৮ অক্টোবরে প্রথমবারের মতো ট্রেজারি বন্ড বাইব্যাক করেছে, মেয়াদের আগে ১৭১৬ কোটি টাকার দুই বছরের বন্ড ফেরত কিনেছে। ২০টি ব্যাংক ২০১৬ কোটির ৫৬টি বিড জমা দিয়েছে; সেন্ট্রাল ব্যাংক ১৭১৬ কোটি গ্রহণ করেছে। এটি ঋণ পরিশোধ পরিকল্পনা মসৃণ করে এবং পুনর্নির্ধারণ ঝুঁকি কমায়।"
-   }
-  },
-  {
-   "id": "1die17d",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
-   "published": "2026-10-08T16:00:00.000Z",
-   "added": "2026-10-08T16:24:40.756Z",
-   "origTitle": "Natura’s $99 smart ring puts AI agents on your finger",
-   "en": {
-    "title": "Natura's $99 smart ring puts AI at your fingertip",
-    "summary": "Startup Natura launched Interface, a $99 smart ring designed for AI agents, letting users ask for tasks by pressing a finger instead of reaching for their phone. The ring also tracks health metrics like heart rate and sleep. Pre-orders open next month with shipping expected in December or January, connecting to AI platforms like ChatGPT and Claude."
-   },
-   "bn": {
-    "title": "৯৯ ডলারের স্মার্ট রিং এআই এজেন্ট সহ",
-    "summary": "স্টার্টআপ নাতুরা ইন্টারফেস স্মার্ট রিং লঞ্চ করেছে যা এআই এজেন্টদের জন্য ডিজাইন করা হয়েছে। এটি রিং-এ প্রেস করে কাজ দেওয়ার সুবিধা দেয় ফোন বাছাড়াই। রিং হার্ট রেট এবং ঘুমও ট্র্যাক করে। পরের মাসে প্রি-অর্ডার শুরু হবে এবং ডিসেম্বর বা জানুয়ারিতে ডেলিভারি হবে।"
-   }
-  },
-  {
-   "id": "1y3b0wc",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-19T191727Z_948764426_RC27PJAADHQQ_RTRMADP_3_USA-EPSTEIN-BRITAIN-ANDREW-1771530589.jpg?resize=1920%2C1440",
-   "published": "2026-10-08T15:53:07.000Z",
-   "added": "2026-10-08T16:24:40.756Z",
-   "origTitle": "UK ex-prince Andrew search warrants quashed after police accept legal error",
-   "en": {
-    "title": "UK court quashes search warrants on Prince Andrew",
-    "summary": "UK police agreed that warrants used to search properties linked to Prince Andrew were issued unlawfully and must be quashed. A High Court judge said Thames Valley Police made a \"significant error\" in applying for the warrants. The investigation into King Charles's brother continues despite the legal setback; he was arrested in February on suspicion of misconduct related to Jeffrey Epstein links."
-   },
-   "bn": {
-    "title": "প্রিন্স অ্যান্ড্রুর বাড়ি তল্লাশির অনুমতি বাতিল",
-    "summary": "ব্রিটেন পুলিশ স্বীকার করেছে যে প্রিন্স অ্যান্ড্রুর সম্পত্তি তল্লাশির অনুমতি অবৈধভাবে দেওয়া হয়েছিল এবং তা বাতিল করতে হবে। হাইকোর্ট বিচারক বলেছেন থেমস ভ্যালি পুলিশ বড় ভুল করেছে। তবুও রাজা চার্লসের ভাই সম্পর্কে তদন্ত অব্যাহত রয়েছে; তিনি ফেব্রুয়ারিতে জেফ্রে এপস্টেইনের সাথে সংযোগের কারণে অপব্যবহারের সন্দেহে গ্রেপ্তার হয়েছিলেন।"
-   }
-  },
-  {
-   "id": "16wkhev",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-   "image": "https://i.guim.co.uk/img/media/a80099fae73e5813db79c3007020a3e15cae6582/980_0_5315_4252/master/5315.jpg?width=140&quality=85&auto=format&fit=max&s=de2d56ea83e5c9293862eb4ed1c6ab7a",
-   "published": "2026-10-08T16:11:53.000Z",
-   "added": "2026-10-08T16:24:40.756Z",
-   "origTitle": "Researchers find 180,000 giant tortoises living on island in Seychelles",
-   "en": {
-    "title": "180,000 giant tortoises found thriving in Seychelles",
-    "summary": "A landmark survey reveals approximately 180,000 Aldabra giant tortoises living freely on an island in Seychelles—the highest count ever recorded and far more than the human population. The species had fewer than 1,000 left in the 19th century but recovered after the island became a nature reserve in 1981. Scientists call it one of the Indian Ocean's greatest conservation success stories."
-   },
-   "bn": {
-    "title": "সেশেলসে পাওয়া গেছে ১ লক্ষ ৮০ হাজার দৈত্য কচ্ছপ",
-    "summary": "সেশেলসের অ্যালডাবরা দ্বীপে একটি গবেষণায় প্রায় ১ লক্ষ ৮০ হাজার দৈত্য কচ্ছপ পাওয়া গেছে—এটি এ প্রজাতির সর্বোচ্চ রেকর্ড। আঠারো শতাব্দীতে প্রজাতিটির সংখ্যা ১০০০-র কম ছিল, কিন্তু ১৯৮১-এ দ্বীপ সংরক্ষণ অঞ্চল হওয়ার পর তা পুনরুদ্ধার হয়েছে। বিজ্ঞানীরা এটিকে ভারত মহাসাগরের সেরা সংরক্ষণ সাফল্যের গল্প বলছেন।"
-   }
-  },
-  {
-   "id": "kw1adt",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
-   "published": "2026-10-08T12:43:56.000Z",
-   "added": "2026-10-08T16:24:40.756Z",
-   "origTitle": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-   "en": {
-    "title": "Russian bomb strike kills 30 on Ukraine buses",
-    "summary": "A Russian glide bomb attack on two civilian buses in the eastern city of Kramatorsk killed at least 30 people, with 18 wounded, according to officials. President Zelensky vowed a response and condemned Russia's strategy to destroy civilian life in Donbas. The attack follows a surge in Russian strikes across Ukraine, with more civilians killed this year than in all of 2023."
-   },
-   "bn": {
-    "title": "ইউক্রেনের ক্রামাটরস্কে রুশ বোমা হামলায় ৩০ জন নিহত",
-    "summary": "রুশ গ্লাইড বোম হামলায় পূর্বাঞ্চলীয় শহর ক্রামাটরস্কে দুটি সিভিলিয়ান বাস আঘাত পেয়েছে, কমপক্ষে ৩০ জন মারা গেছেন ও ১৮ জন আহত হয়েছেন। জেলেনস্কি প্রতিশোধের প্রতিশ্রুতি দিয়েছেন এবং সিভিলিয়ান জীবন ধ্বংসের জন্য রাশিয়াকে নিন্দা করেছেন। এই হামলা সারা ইউক্রেনে রুশ আক্রমণের বৃদ্ধির অংশ।"
-   }
-  },
-  {
-   "id": "18pj7ql",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cv62y3n1yer8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e05e/live/b6e07850-c320-11f1-bd97-fbe5a3482cde.jpg",
-   "published": "2026-10-08T15:57:20.000Z",
-   "added": "2026-10-08T16:24:40.756Z",
-   "origTitle": "এলাকাভেদে ভিন্ন রঙ দিয়ে নিয়ন্ত্রণ করা যাবে ঢাকার অটোরিকশা?",
-   "en": {
-    "title": "Dhaka may use different colors to zone auto-rickshaws",
-    "summary": "The government is considering a new policy to regulate battery-run auto-rickshaws in Dhaka using zone-based color coding. Some residents want them banned entirely due to accidents and electricity waste, while others argue regulation is better than a total ban. The Prime Minister has held special meetings on the issue, and experts warn success depends on proper implementation."
-   },
-   "bn": {
-    "title": "ঢাকার অটোরিকশা নিয়ন্ত্রণে জোন ভিত্তিক রঙের পরিকল্পনা",
-    "summary": "ঢাকায় ব্যাটারিচালিত অটোরিকশা নিয়ন্ত্রণে সরকার জোন ভিত্তিক রঙ ব্যবহারের পরিকল্পনা করছে। কেউ কেউ সম্পূর্ণ বন্ধ করার দাবি জানাচ্ছেন দুর্ঘটনা ও বিদ্যুৎ অপব্যবহারের কারণে, কিন্তু অন্যরা নিয়মের মধ্যে চলাচল করানোর পক্ষে। প্রধানমন্ত্রী বিশেষ বৈঠক করেছেন, তবে বিশেষজ্ঞরা বাস্তবায়নের ওপর সাফল্য নির্ভরশীল বলছেন।"
    }
   }
  ]
