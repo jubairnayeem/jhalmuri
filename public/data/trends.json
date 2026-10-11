@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-10-11T08:42:49.406Z",
+ "updatedAt": "2026-10-11T15:36:08.092Z",
  "burning": [
   {
    "id": "ncqsvq",
    "heat": 5,
    "why": {
-    "en": "Attack on Riyadh airport with multiple outlets covering it, two Bangladeshis killed.",
-    "bn": "রিয়াদ এয়ারপোর্টে আক্রমণ, দুজন বাংলাদেশি নিহত—একাধিক মাধ্যম কভার করছে।"
+    "en": "Houthi attack on Riyadh airport killed 12 including 2 Bangladeshis; massive social signal (1000+ trend for Saudi Arabia)",
+    "bn": "রিয়াদ বিমানবন্দরে হামলায় ১২ জন নিহত, দুই বাংলাদেশি অন্তর্ভুক্ত; সোশ্যালে ভাইরাল (সৌদি আরব ১০০০+ ট্রেন্ড)"
    },
    "rank": 1
   },
   {
-   "id": "gtonvh",
-   "heat": 5,
+   "id": "bwau1u",
+   "heat": 4,
    "why": {
-    "en": "Bangladesh cricket trending heavily on Google; Sobhana's century and Hasan Mahmud's hat-trick dominating searches.",
-    "bn": "বাংলাদেশ ক্রিকেট গুগলে ট্রেন্ডিং—সোভনা এবং হাসান মাহমুদের রেকর্ড ভাইরাল।"
+    "en": "Bangladesh U-19 women advance to tri-series final; sports coverage across outlets",
+    "bn": "বাংলাদেশ U-19 নারী দল ট্রাই-সিরিজ ফাইনালে পৌঁছেছে; একাধিক আউটলেটে কভারেজ"
    },
    "rank": 2
   },
@@ -23,17 +23,17 @@
    "id": "1fsun9w",
    "heat": 4,
    "why": {
-    "en": "Measles death toll now 1,155; public health crisis with rising casualties.",
-    "bn": "হাম রোগে মৃত্যু ১,১৫৫ ছাড়িয়েছে—স্বাস্থ্য জরুরি অবস্থা।"
+    "en": "Measles death toll rises to 1,155; ongoing public health crisis getting serious attention",
+    "bn": "মিজেলস মৃত্যু ১,১৫৫ এ পৌঁছেছে; জনস্বাস্থ্য সংকট গুরুতর মনোযোগ পাচ্ছে"
    },
    "rank": 3
   },
   {
-   "id": "1r415ss",
+   "id": "lbw6mg",
    "heat": 3,
    "why": {
-    "en": "BNP monitoring committee for Durga Puja as festival season approaches.",
-    "bn": "দুর্গা পূজা মৌসুমে বিএনপি নজরদারি কমিটি গঠন।"
+    "en": "Former minister ordered internet shutdown at universities; campus and political implications",
+    "bn": "সাবেক মন্ত্রী বিশ্ববিদ্যালয়ে ইন্টারনেট বন্দ নির্দেশ দিয়েছেন; ক্যাম্পাস ও রাজনৈতিক ইস্যু"
    },
    "rank": 4
   },
@@ -41,59 +41,75 @@
    "id": "mey9iv",
    "heat": 3,
    "why": {
-    "en": "Boat collision in Rajbari during race injures 20 rowers.",
-    "bn": "রাজবাড়িতে নৌকা রেস দুর্ঘটনা, ২০ জন আহত।"
+    "en": "Boat collision during race in Rajbari injures 20 rowers; local incident getting coverage",
+    "bn": "রাজবারিতে নৌকা প্রতিযোগিতায় সংঘর্ষ, ২০ রোয়ার আহত; স্থানীয় ঘটনা কভার হচ্ছে"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "5hugvj",
-   "tag": "#BanCricket",
+   "id": "ncqsvq",
+   "tag": "#রিয়াদ_হামলা",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Bangladesh squad for UAE tri-series",
-    "text": "Bangladesh names 16-member squad for the ODI tri-series in UAE. Sobhana Mostary making waves after her historic century against Australia."
+    "title": "Two Bangladeshis killed in Riyadh attack",
+    "text": "A Houthi missile strike on Riyadh airport left 12 dead, including 2 Bangladeshi nationals. Authorities are still working to confirm identities."
    },
    "bn": {
-    "title": "ইউএই ত্রিমুখী সিরিজের দল",
-    "text": "বাংলাদেশ ইউএই ওডিআই ত্রিমুখী সিরিজের জন্য ১৬ সদস্যের দল ঘোষণা করেছে। সোভনা মোস্তারি অস্ট্রেলিয়ার বিপক্ষে ঐতিহাসিক শতক দিয়ে আলোচনায়।"
+    "title": "রিয়াদ হামলায় দুই বাংলাদেশি নিহত",
+    "text": "হুতি মিসাইল হামলায় রিয়াদ বিমানবন্দর আঘাত পেয়েছে, ১২ জন নিহত হয়েছেন যার মধ্যে ২ বাংলাদেশি রয়েছেন। পরিচয় নিশ্চিত করার চেষ্টা চলছে।"
    }
   },
   {
-   "id": "1te2k36",
-   "tag": "#InvestmentDesk",
+   "id": "bwau1u",
+   "tag": "#ক্রিকেট_ফাইনাল",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Bangladesh women reach tri-series final",
+    "text": "Bangladesh U-19 women's team beat Pakistan and have qualified for the final of the tri-series tournament."
+   },
+   "bn": {
+    "title": "বাংলাদেশ নারী দল ফাইনালে",
+    "text": "বাংলাদেশ U-19 নারী দল পাকিস্তানকে হারিয়ে ট্রাই-সিরিজ ফাইনালে পৌঁছেছে।"
+   }
+  },
+  {
+   "id": "1fsun9w",
+   "tag": "#স্বাস্থ্য_জরুরি",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Measles death toll hits 1,155",
+    "text": "Bangladesh continues to battle a measles outbreak. The death toll has reached 1,155 with 8 more deaths recorded."
+   },
+   "bn": {
+    "title": "মিজেলস মৃত্যু ১,১৫৫",
+    "text": "বাংলাদেশে মিজেলস মহামারীতে মৃত্যু ১,১৫৫ এ পৌঁছেছে, আরও ৮ জন প্রাণ হারিয়েছেন।"
+   }
+  },
+  {
+   "id": "17605o2",
+   "tag": "#শিক্ষক_স্বাধীনতা",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Special desks for China, Korea, Japan",
-    "text": "Bangladesh opens special investment desks targeting foreign investors from China, Korea, and Japan to boost business inflow."
+    "title": "DU professor protests for academic freedom",
+    "text": "A professor from Dhaka University staged a silent protest demanding greater freedom for teachers and faculty on campus."
    },
    "bn": {
-    "title": "চীন, কোরিয়া, জাপানের জন্য বিশেষ ডেস্ক",
-    "text": "বাংলাদেশ চীন, দক্ষিণ কোরিয়া এবং জাপান থেকে বিনিয়োগকারীদের আকর্ষণের জন্য বিশেষ ডেস্ক খুলেছে।"
-   }
-  },
-  {
-   "id": "1e9xydk",
-   "tag": "#BCLLeader",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 2,
-   "en": {
-    "title": "Former BCL leader passes away",
-    "text": "Mahfuzul Haider, former Bangladesh Chhatra League leader, died in Kolkata at age 48."
-   },
-   "bn": {
-    "title": "বাসদের সাবেক নেতা মৃত",
-    "text": "বাংলাদেশ ছাত্র লীগের সাবেক নেতা মাহফুজুল হায়দার কলকাতায় ৪৮ বছর বয়সে মৃত্যুবরণ করেছেন।"
+    "title": "ঢাকা বিশ্ববিদ্যালয় প্রতিবাদ",
+    "text": "একজন শিক্ষক শিক্ষকদের স্বাধীনতার জন্য নীরব প্রতিবাদ করেছেন।"
    }
   }
  ],

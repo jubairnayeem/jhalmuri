@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-11T08:42:35.180Z",
+ "updatedAt": "2026-10-11T15:35:51.431Z",
  "items": [
+  {
+   "id": "bwau1u",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/sports/cricket/bangladesh-u-19-women-reach-tri-series-final-pakistan-1569626",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/bangladesh_women_u-19.png",
+   "published": "2026-10-11T15:20:00.000Z",
+   "added": "2026-10-11T15:35:51.431Z",
+   "origTitle": "Bangladesh U-19 women reach tri-series final in Pakistan",
+   "en": {
+    "title": "Bangladesh U-19 women beat Pakistan, reach tri-series final",
+    "summary": "Bangladesh's Under-19 women's team hammered Pakistan by 32 runs at Faisalabad to seal a place in the final. Batting first, Bangladesh made 136-5, led by Sadia Islam's 44 off 28 balls and Shirina Khatun's 32. Pakistan managed only 104-9 in reply, struggling against Bangladesh's bowling. Bangladesh now faces Sri Lanka in the final."
+   },
+   "bn": {
+    "title": "বাংলাদেশ ইউ-১৯ নারী ক্রিকেট দল ফাইনালে পৌঁছেছে",
+    "summary": "বাংলাদেশ আন্ডার-১৯ নারী দল পাকিস্তানকে ৩২ রান ফারাকে পরাজিত করে ফাইনালে প্রবেশ করেছে। বাংলাদেশ প্রথমে ব্যাট করে ১৩৬-৫ করে। সাদিয়া ইসলাম ২৮ বলে ৪৪ রান এবং শিরিনা খাতুন ৪০ বলে ৩২ রান করেন। পাকিস্তান মাত্র ১০৪-৯ করে প্রতিদ্বন্দ্বিতা করতে পারে না।"
+   }
+  },
+  {
+   "id": "lbw6mg",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/crime/pwo150xuxg",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-08/0vwg3sv7/polok.jpeg",
+   "published": "2026-10-11T15:15:52.000Z",
+   "added": "2026-10-11T15:35:51.431Z",
+   "origTitle": "পলকের নির্দেশে জুলাইয়ে সব পাবলিক বিশ্ববিদ্যালয়ে থ্রিজি, ফোরজি ইন্টারনেট বন্ধ করা হয়",
+   "en": {
+    "title": "Former minister ordered internet shutdown at universities in July",
+    "summary": "During July's mass protests, former deputy minister Junaid Ahmed Polok ordered 3G and 4G internet shut down at all public universities and four private ones, a BTRC official testified in court. The order came after midnight on July 14, 2024, passed through the telecom regulator to mobile operators. A similar blanket shutdown across all public and four private universities followed on July 16."
+   },
+   "bn": {
+    "title": "জুলাই অভ্যুত্থানে পলকের নির্দেশে বিশ্ববিদ্যালয়ে ইন্টারনেট বন্ধ",
+    "summary": "গণ-অভ্যুত্থানের সময় তৎকালীন প্রতিমন্ত্রী জুনাইদ আহমদ পলক সব পাবলিক বিশ্ববিদ্যালয় ও চারটি বেসরকারি বিশ্ববিদ্যালয়ে ৩জি ও ৪জি ইন্টারনেট বন্ধের নির্দেশ দেন। আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে বিটিআরসির উপপরিচালক মাহদী আহমদ এই তথ্য দেন। ১৪ জুলাই মধ্যরাতের পর প্রথম নির্দেশনা আসে এবং ১৬ জুলাই সব বিশ্ববিদ্যালয়ে আরেকটি একই ধরনের নির্দেশনা বাস্তবায়ন হয়।"
+   }
+  },
+  {
+   "id": "17605o2",
+   "section": "news",
+   "cat": "campus",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/tqf16a7cai",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-11/fo0id4rm/samina-lufta.avif",
+   "published": "2026-10-11T15:09:13.000Z",
+   "added": "2026-10-11T15:35:39.811Z",
+   "origTitle": "Prof Samina Luthfa protests alleged harassment of teachers for expressing dissent",
+   "en": {
+    "title": "DU professor stages silent protest for teacher freedom",
+    "summary": "Professor Samina Luthfa of the University of Dhaka's Sociology Department staged a five-minute silent protest on Sunday, covering her mouth with black cloth to oppose efforts to restrict teachers' classroom freedom. She was protesting the alleged harassment of teachers for expressing dissent. Her action came after Associate Professor Tasneem Siraj Mahboob was barred from teaching following a dispute with a student wearing a niqab during class."
+   },
+   "bn": {
+    "title": "শিক্ষকদের স্বাধীনতার দাবিতে ঢাবির অধ্যাপিকার নিরব প্রতিবাদ",
+    "summary": "ঢাকা বিশ্ববিদ্যালয়ের সমাজবিজ্ঞান বিভাগের অধ্যাপক সামিনা লুৎফা রবিবার কক্ষে মুখ কালো কাপড়ে ঢেকে পাঁচ মিনিট নীরব প্রতিবাদ করেছেন। তিনি শিক্ষকদের মতপ্রকাশের স্বাধীনতা রক্ষা এবং মতভিন্নতার জন্য শিক্ষকদের উপর নির্যাতনের বিরুদ্ধে প্রতিবাদ করছিলেন। এর আগে ইংরেজি বিভাগের সহযোগী অধ্যাপক তাসনিম সিরাজ মাহবুব একজন নিকাব পরিহিত ছাত্রীর সাথে বিতর্কের পর ক্লাস নেওয়ার অনুমতি হারিয়েছেন।"
+   }
+  },
+  {
+   "id": "1n8qo7t",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/marathoner-already-pissing-self-half-mile-in/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Marathon_Runner_Already_SB-IHA_GR-SOCIAL.jpg",
+   "published": "2026-10-11T13:00:00.000Z",
+   "added": "2026-10-11T15:35:39.811Z",
+   "origTitle": "Marathoner Already Pissing Self Half-Mile In",
+   "en": {
+    "title": "Marathoner already in trouble half-mile in",
+    "summary": "The Onion reports that a marathon runner is already having bathroom troubles just half a mile into the race. This is satire poking fun at the very real challenges distance runners face during long events. The joke highlights how uncomfortable marathons can be, even early on."
+   },
+   "bn": {
+    "title": "ম্যারাথন রেসে অর্ধেক মাইলেই দৌড়বিদের সমস্যা শুরু",
+    "summary": "দ্য অনিয়নের তৈরি বিনোদনমূলক এই খবর ম্যারাথন রেসে অর্ধেক মাইল দৌড়ানোর পর একজন দৌড়বিদের ব্যক্তিগত সমস্যার কথা বলে। এটি একটি কৌতুক যা দীর্ঘ দূরত্বের রেসে দৌড়বিদরা যে বাস্তব চ্যালেঞ্জ মোকাবেলা করে তা নিয়ে মজা করছে।"
+   }
+  },
+  {
+   "id": "17lr8ee",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-11T14:38:10.000Z",
+   "added": "2026-10-11T15:35:39.811Z",
+   "origTitle": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+   "en": {
+    "title": "Ukraine strikes Yandex data centre near Moscow for third time",
+    "summary": "Ukraine's third drone strike in a week hit a Yandex data centre in Vladimir, east of Moscow, forcing the Russian tech company to completely suspend operations there. No injuries were reported, but the facility damage disrupted some services. Two other Yandex data centres were hit earlier in the week in Sasovo (Thursday) and Kaluga (Friday). Kyiv said it targeted sites funding Russia's war effort and aims to force Moscow to divert resources to repairs."
+   },
+   "bn": {
+    "title": "মস্কোর কাছে ইয়ান্ডেক্সের ডেটা সেন্টারে ইউক্রেনের তৃতীয় আঘাত",
+    "summary": "এক সপ্তাহে তৃতীয়বার ইউক্রেনের ড্রোন স্ট্রাইক মস্কোর পূর্বে ভ্লাদিমিরে অবস্থিত রাশিয়ান টেক কোম্পানি ইয়ান্ডেক্সের একটি ডেটা সেন্টার ক্ষতিগ্রস্ত করেছে। কোনো আহত নেই, কিন্তু সেবা ব্যাহত হয়েছে। এর আগে সপ্তাহে সাসোভো (বৃহস্পতি) এবং কালুগায় (শুক্রবার) আরও দুটি কেন্দ্রে হামলা হয়েছিল। কিয়েভ বলেছে তারা রাশিয়ার যুদ্ধ তহবিলের জায়গা লক্ষ্য করে এবং মস্কোকে ক্ষয়ক্ষতি মেরামতে সম্পদ ব্যয় করতে বাধ্য করতে চায়।"
+   }
+  },
+  {
+   "id": "1tf409c",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/rajshahi/973881/%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%9F%E0%A6%AA-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%87",
+   "image": null,
+   "published": "2026-10-11T15:33:08.000Z",
+   "added": "2026-10-11T15:35:39.811Z",
+   "origTitle": "জার্মান পর্যটকের ল্যাপটপ-ক্যামেরা চুরি, অভিযুক্তকে ধরিয়ে দিতে পুরস্কার ঘোষণা",
+   "en": {
+    "title": "Reward offered for catching thief who stole German tourist's laptop",
+    "summary": "Special Response Battalion 5 (SRB-5) announced a reward for information leading to the arrest of a young man who stole a bag containing a laptop and camera from German tourist Creel Lander at Nator Railway Station on Saturday, 10 October. The unit identified the suspect by analyzing CCTV footage and released his photo at the station. Anyone providing helpful information or assisting in the suspect's capture will be rewarded."
+   },
+   "bn": {
+    "title": "জার্মান পর্যটকের ল্যাপটপ চুরিকারীর জন্য পুরস্কার ঘোষণা",
+    "summary": "১০ অক্টোবর শনিবার রাতে নাটোর রেলওয়ে স্টেশন থেকে জার্মান পর্যটক ক্রিল ল্যান্ডারের ল্যাপটপ এবং ক্যামেরাসহ একটি ব্যাগ চুরি করে পালিয়ে যাওয়া তরুণকে ধরতে স্পেশাল রেসপন্স ব্যাটালিয়ন (এসআরবি-৫) পুরস্কার ঘোষণা করেছে। এসআরবি সিসিটিভি ফুটেজ বিশ্লেষণ করে সন্দেহভাজনের চেহারা শনাক্ত করেছে এবং তার ছবি স্টেশনে প্রকাশ করেছে। তথ্য দিলে বা ধরতে সাহায্য করলে পুরস্কার পাওয়া যাবে।"
+   }
+  },
+  {
+   "id": "rpy6lh",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cqm26dykgeezo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e76a/live/d7768720-c579-11f1-82d0-c3c20e527ef0.jpg",
+   "published": "2026-10-11T14:12:58.000Z",
+   "added": "2026-10-11T15:35:39.811Z",
+   "origTitle": "ওমরাহ করতে গিয়ে হুথির হামলায় প্রাণ হারালেন মাদ্রাসা শিক্ষক নাসরুল্লাহ",
+   "en": {
+    "title": "Two Bangladeshis killed in Houthi missile strike on Riyadh airport",
+    "summary": "Two Bangladeshi nationals died when Houthi missiles hit Terminal 3 of King Khalid International Airport in Riyadh on Saturday afternoon at 3:20 pm. Mohammad Nasrullah Badrpuri, a teacher at a madrasa in Dhaka's Kamrangirchar, and Mohammad Shahid Ahmed from Bogura were killed. Nasrullah had left Dhaka Saturday morning for Umrah and was waiting to board a connecting flight to Mecca when the attack occurred. At least one other person from their group lost both legs, and several others were injured."
+   },
+   "bn": {
+    "title": "রিয়াদ বিমানবন্দরে হুথির ক্ষেপণাস্ত্রে দুই বাংলাদেশি নিহত",
+    "summary": "শনিবার দুপুর ৩টা ২০ মিনিটে রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরের টার্মিনাল-৩-এ হুথিদের ক্ষেপণাস্ত্র আঘাত করে দুই বাংলাদেশী নাগরিককে মেরে ফেলে। মোঃ নাসরুল্লাহ বদরপুরি, যিনি ঢাকার কামরাঙ্গীরচরের একটি মাদ্রাসায় পড়াতেন, এবং বগুড়ার মোঃ শাহেদ আহম্মেদ নিহত হন। নাসরুল্লাহ শনিবার সকালে ওমরার উদ্দেশ্যে ঢাকা ছেড়েছিলেন এবং মক্কায় যাওয়ার জন্য ফ্লাইটে উঠতে অপেক্ষা করছিলেন। তাদের দলের আরও একজন দুই পা হারিয়েছেন এবং অন্যরা আহত হয়েছেন।"
+   }
+  },
   {
    "id": "gtonvh",
    "section": "news",
@@ -2353,204 +2507,6 @@
    "bn": {
     "title": "ঢাকার অটোরিকশা নিয়ন্ত্রণে জোন ভিত্তিক রঙের পরিকল্পনা",
     "summary": "ঢাকায় ব্যাটারিচালিত অটোরিকশা নিয়ন্ত্রণে সরকার জোন ভিত্তিক রঙ ব্যবহারের পরিকল্পনা করছে। কেউ কেউ সম্পূর্ণ বন্ধ করার দাবি জানাচ্ছেন দুর্ঘটনা ও বিদ্যুৎ অপব্যবহারের কারণে, কিন্তু অন্যরা নিয়মের মধ্যে চলাচল করানোর পক্ষে। প্রধানমন্ত্রী বিশেষ বৈঠক করেছেন, তবে বিশেষজ্ঞরা বাস্তবায়নের ওপর সাফল্য নির্ভরশীল বলছেন।"
-   }
-  },
-  {
-   "id": "1679pvd",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1557605.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/415900/415987.jpg",
-   "published": "2026-10-08T08:33:56.000Z",
-   "added": "2026-10-08T08:51:23.080Z",
-   "origTitle": "PSL to clash with IPL again in 2027",
-   "en": {
-    "title": "PSL and IPL set for another calendar clash in 2027",
-    "summary": "Pakistan Super League will overlap with India's IPL again in 2027. The media rights holder, Walee Technologies, is unhappy about the current broadcast window. Lower revenue after Ramadan makes the timing less attractive for the business side."
-   },
-   "bn": {
-    "title": "২০২৭ এ PSL আর IPL আবার একসাথে হবে",
-    "summary": "পাকিস্তান সুপার লিগ ২০২৭ এ ভারতের IPL এর সাথে আবার ক্যালেন্ডার ঝামেলায় পড়বে। মিডিয়া রাইটস মালিক Walee Technologies বর্তমান সময়সূচী নিয়ে খুশি নয়। রমজানের পরে সম্প্রচার রাজস্ব কম থাকায় ব্যবসায়িক দিক থেকে এই সময় আকর্ষণীয় নয়।"
-   }
-  },
-  {
-   "id": "17bf06u",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "সমকাল",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MTUZqYkJFdnA0a1JSZWxSejFTX3A0MzVZZFFXd1FFMHVXY3hvaUVzUlNXSkpVelNqNXZBVDQ3U3JpRHFxdlRVVFVyemx2SWcwbzRKUEZHYzkwVTBSN3c?oc=5",
-   "image": null,
-   "published": "2026-10-08T08:07:37.000Z",
-   "added": "2026-10-08T08:51:23.080Z",
-   "origTitle": "সরকারি-বেসরকারি দুই ধরণের বিনিয়োগই কমছে",
-   "en": {
-    "title": "Government and private investment both falling",
-    "summary": "Both public and private investment in Bangladesh is declining. This signals concern about economic momentum. Lower investment means fewer new projects, jobs, and growth opportunities ahead. It's a trend experts are watching closely."
-   },
-   "bn": {
-    "title": "সরকারি আর বেসরকারি বিনিয়োগ দুটোই কমছে",
-    "summary": "বাংলাদেশে সরকারি এবং বেসরকারি বিনিয়োগ উভয়ই কমে যাচ্ছে। এটা অর্থনীতির গতি নিয়ে চিন্তার ইঙ্গিত দেয়। কম বিনিয়োগ মানে নতুন প্রকল্প, কাজের সুযোগ এবং বৃদ্ধি কম হবে।"
-   }
-  },
-  {
-   "id": "8yj00f",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Financial Express",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeDlFMXlpcFAzQkl1U1JTelFhSkdwYkV4cE0zam05Z3RFV0w3ck9KU3dvbmJTWEdrVDNqSzNQRHFXajZURVhmM0pkZGI2MTZsaGZVd2hTQmFiU3MzSnBkZDBjMFo1T1VRcXlWQWhuTHhvRnNlWjhyaXlKMFRzMEJvMlN4aWJkM1JBNGw5Y1k3VF91b0o1VU5ocFd0NjEzNFZyTXY0eFd6ZGx6aE1lU0F2eXMtcmtzNlNzSXlYbUJhRi1wZ9IBwgFBVV95cUxQeDlFMXlpcFAzQkl1U1JTelFhSkdwYkV4cE0zam05Z3RFV0w3ck9KU3dvbmJTWEdrVDNqSzNQRHFXajZURVhmM0pkZGI2MTZsaGZVd2hTQmFiU3MzSnBkZDBjMFo1T1VRcXlWQWhuTHhvRnNlWjhyaXlKMFRzMEJvMlN4aWJkM1JBNGw5Y1k3VF91b0o1VU5ocFd0NjEzNFZyTXY0eFd6ZGx6aE1lU0F2eXMtcmtzNlNzSXlYbUJhRi1wZw?oc=5",
-   "image": null,
-   "published": "2026-10-07T18:00:00.000Z",
-   "added": "2026-10-08T08:51:23.080Z",
-   "origTitle": "JS body stresses quality, nutrition in school feeding",
-   "en": {
-    "title": "Parliament pushes for better school meals",
-    "summary": "A parliamentary committee is stressing the importance of quality and nutrition in school feeding programmes. The focus is on ensuring students get proper meals that support their health and development. Good nutrition in schools is key to helping kids learn and grow well."
-   },
-   "bn": {
-    "title": "স্কুলের খাবারে পুষ্টি নিশ্চিত করতে চাপ",
-    "summary": "সংসদের একটি কমিটি স্কুল ফিডিং প্রোগ্রামে গুণমান এবং পুষ্টির উপর জোর দিচ্ছে। শিক্ষার্থীরা যাতে সঠিক পুষ্টিকর খাবার পায় তা নিশ্চিত করা হচ্ছে। ভালো খাবার শিশুদের পড়াশোনা এবং বৃদ্ধিতে সাহায্য করে।"
-   }
-  },
-  {
-   "id": "1u1d1uz",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো বিনোদন",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzR1AxWmxSNEpGV2tIb0JFQkg0Nk9QRExTX3I5Y2I4RVhiQTN1V19Yd3ltNGVlZGNGVU0ybEo3U3RDUlZrcTRYTjlITGdBTTQ4NDN2Nk5uZlgxWjN2QV9TWUF6MnrSAXJBVV95cUxPRVBUbXlYWXhhSFN2U2lmNUd6VnZnN1FTWEc1UlU0LVE0NW4yOC1YUGwxeVhWRjRJc285NWdKNDRjT3p0LWpEWkIxNUo4TmVQVmxqbmdQdUJOVE1ic2xqZHZSa0Z3TkZEeHgzWlpsa1lCREE?oc=5",
-   "image": null,
-   "published": "2026-10-08T07:45:00.000Z",
-   "added": "2026-10-08T08:51:12.503Z",
-   "origTitle": "২৩ ঘণ্টায় ৪৭ লাখ ভিউ! শুরুতেই চমকে দিল ‘ফিরে আসার গল্প’",
-   "en": {
-    "title": "Video hits 4.7 million views in 23 hours, creates early buzz",
-    "summary": "A video titled 'Firer Ashar Golpo' (Return Story) racked up 4.7 million views within its first 23 hours of release. The quick viral success signals strong early audience interest and engagement."
-   },
-   "bn": {
-    "title": "২৩ ঘণ্টায় ৪৭ লাখ ভিউ, প্রথম দিনেই রেকর্ড ভাঙল ভিডিও",
-    "summary": "'ফিরে আসার গল্প' নামের ভিডিওটি প্রথম ২৩ ঘণ্টায় ৪৭ লাখ বার দেখা হয়েছে। এই দ্রুত ভাইরাল সাফল্য দর্শকদের শক্তিশালী আগ্রহ দেখাচ্ছে।"
-   }
-  },
-  {
-   "id": "1406yss",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/environment/climate-change/7lb57z0spt",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-08/9i78k3v1/TMT8516.jpg.jpeg",
-   "published": "2026-10-08T07:10:42.000Z",
-   "added": "2026-10-08T08:51:12.503Z",
-   "origTitle": "'Bangladesh Climate Development Partnership Knowledge Conference 2026' opens in Dhaka",
-   "en": {
-    "title": "Bangladesh launches climate conference, digital portal for investments",
-    "summary": "Over 500 climate leaders and policymakers gathered in Dhaka for the Bangladesh Climate Development Partnership Knowledge Conference 2026. The government unveiled a new web portal for tracking climate projects and coordinating investments. The two-day event focuses on scaling investments in energy, transport, water, and climate-resilient agriculture under the National Adaptation Plan."
-   },
-   "bn": {
-    "title": "জলবায়ু সম্মেলন শুরু, ডিজিটাল পোর্টাল চালু করল বাংলাদেশ",
-    "summary": "ঢাকায় ৫০০ জনের বেশি জলবায়ু নেতা এবং নীতিনির্ধারকরা বাংলাদেশ ক্লাইমেট ডেভেলপমেন্ট পার্টনারশিপ কনফারেন্সে জমায়েত হয়েছেন। সরকার জলবায়ু প্রকল্প ট্র্যাক করার জন্য একটি নতুন ওয়েব পোর্টাল চালু করেছে। এই দুই দিনের ইভেন্ট শক্তি, পরিবহন এবং কৃষিতে বিনিয়োগ বাড়ানোর উপর ফোকাস করছে।"
-   }
-  },
-  {
-   "id": "krf9y9",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/fascist-government-destroyed-education-system-rizvi-1566221",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/836043124_1451030323617254_7104089500021872514_n_1.jpg",
-   "published": "2026-10-08T08:35:00.000Z",
-   "added": "2026-10-08T08:51:12.503Z",
-   "origTitle": "Fascist government destroyed the education system: Rizvi",
-   "en": {
-    "title": "BNP leader blames past govt for crippling education quality",
-    "summary": "BNP Acting Secretary General Ruhul Kabir Rizvi said the previous government damaged the education system by prioritizing pass rates over quality. He claimed teachers were pressured to pass students who left answer sheets blank. Rizvi urged teachers to fight for reform alongside continuing their own movement for demands, saying the BNP would support legitimate teacher needs."
-   },
-   "bn": {
-    "title": "আগের সরকার শিক্ষা ব্যবস্থা ধ্বংস করেছে: বিএনপি নেতা",
-    "summary": "বিএনপির সহকারী মহাসচিব রুহুল কবির রিজভি বলেছেন গত সরকার মানসম্পন্ন শিক্ষার চেয়ে পাস রেট বাড়ানোকে প্রাধান্য দিয়েছিল। তিনি দাবি করেন শিক্ষকদের খালি খাতা জমা দেওয়া ছাত্রদের পাস করতে চাপ দেওয়া হয়েছিল। রিজভি শিক্ষকদের তাদের নিজস্ব দাবির আন্দোলন চালিয়ে যেতে এবং সংস্কারের জন্য লড়াই করতে বলেছেন।"
-   }
-  },
-  {
-   "id": "l3qn2c",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
-   "published": "2026-10-08T06:14:11.000Z",
-   "added": "2026-10-08T08:51:12.503Z",
-   "origTitle": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-   "en": {
-    "title": "India shoots down Elon Musk's Starlink discrimination claim",
-    "summary": "Elon Musk accused unnamed Indian oligarchs of blocking Starlink's launch over a monopoly. India's Communications Ministry rejected the claim, saying its satellite rules treat all three licensed operators fairly and they're all at the same regulatory stage. Starlink has spent five-plus years in India but hasn't begun services despite securing approvals and telecom partnerships."
-   },
-   "bn": {
-    "title": "স্টারলিংকের বৈষম্য দাবি খারিজ করল ভারত, মাস্ক কোণঠাসা",
-    "summary": "এলন মাস্ক ভারতে স্টারলিংক লঞ্চ বন্ধ করার জন্য কার্টেল তৈরি করা হচ্ছে বলে অভিযোগ করেছেন। ভারতের যোগাযোগ মন্ত্রণালয় বলেছে নিয়মকানুন সবার জন্য সমান এবং তিনটি কোম্পানি একই পর্যায়ে আছে। স্টারলিংক পাঁচ বছরেও ভারতে সেবা শুরু করতে পারেনি যদিও বড় টেলিকম কোম্পানির সাথে চুক্তি করেছে।"
-   }
-  },
-  {
-   "id": "1ij7l17",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20170705__QB8CK__v5__HighRes__IsraelIndiaDiplomacy-1771997354.jpg?resize=1920%2C1440",
-   "published": "2026-10-08T08:31:44.000Z",
-   "added": "2026-10-08T08:51:12.503Z",
-   "origTitle": "How Gaza war sped up India’s shift towards Israel under Modi",
-   "en": {
-    "title": "India deepens ties with Israel despite Gaza war, Modi's policy shift",
-    "summary": "India welcomed Israeli Finance Minister Bezalel Smotrich in September 2025 with trade deals and investment hub visits, even as he faced EU sanctions and while the Gaza war continued. The UK, France, and other nations had already banned Smotrich for advocating Palestinian ethnic cleansing. Modi visited Israel in February, marking India's dramatic shift from decades of Palestinian support toward closer alignment with Netanyahu's government."
-   },
-   "bn": {
-    "title": "গাজা যুদ্ধেও ভারত-ইসরায়েল সম্পর্ক গভীর, মোদির নীতিতে বড় পরিবর্তন",
-    "summary": "গাজা যুদ্ধ চলার সময়ও সেপ্টেম্বরে ইসরায়েলের আর্থমন্ত্রী বেজালেল স্মোট্রিচকে ভারত বাণিজ্যচুক্তি এবং বিনিয়োগ হাবে স্বাগত জানিয়েছে। তিনি প্যালেস্টিনিয়ান জাতিগত নির্মূলের কথা বলেছিলেন বলে ইউরোপ তার প্রবেশ নিষিদ্ধ করেছিল। মোদি ফেব্রুয়ারিতে ইসরায়েল ভ্রমণ করে দেখিয়েছেন পাঁচ দশকের প্যালেস্টাইন সমর্থন থেকে ভারত সম্পূর্ণ দিক বদল করেছে।"
-   }
-  },
-  {
-   "id": "1o11kbf",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/973143/%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%95",
-   "image": null,
-   "published": "2026-10-08T08:42:48.000Z",
-   "added": "2026-10-08T08:51:12.503Z",
-   "origTitle": "ইয়াবা কেনা-বেচার তথ্য ফাঁসের শঙ্কায় অটোরিকশাচালক হত্যা, গ্রেফতার ৫",
-   "en": {
-    "title": "Five arrested for auto-rickshaw driver's murder over yaba deal",
-    "summary": "Police arrested five men 2.5 years after auto-rickshaw driver Rahul was killed. Investigators say the victim had threatened to expose a yaba trafficking ring to one of the suspects. The arrested men are aged 28 to 43. They faced pressure to silence him over his knowledge of the drug trade."
-   },
-   "bn": {
-    "title": "ইয়াবা ডিলের তথ্য ফাঁসের ভয়ে রিকশাচালক খুন, পাঁচ গ্রেফতার",
-    "summary": "রাহুল নামের একজন অটোরিকশাচালকের খুনের ঘটনায় আড়াই বছর পর পুলিশ পাঁচ আসামিকে ধরেছে। তদন্তকারীরা বলছেন, রাহুল ইয়াবা কারবার সম্পর্কে কথা ছড়িয়ে দেওয়ার হুমকি দিয়েছিল একজন সন্দেহভাজনকে। গ্রেফতারকৃতরা বয়সে ২৮ থেকে ৪৩ বছরের মধ্যে। তারা তার মুখ বন্ধ করার জন্য এই হত্যাকাণ্ড করেছে বলে মনে করা হচ্ছে।"
    }
   }
  ]
