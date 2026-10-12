@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-10-12T00:28:40.279Z",
+ "updatedAt": "2026-10-12T07:17:27.040Z",
  "burning": [
   {
    "id": "rj8y7e",
    "heat": 5,
    "why": {
-    "en": "Houthi attack on Riyadh airport kills 12, two Bangladeshis dead—covered by multiple outlets.",
-    "bn": "সৌদি আরবের রিয়াদ বিমানবন্দরে হুথিদের আক্রমণে ১২ জন মারা যায়, দুই বাংলাদেশি নিহত—একাধিক আউটলেট কভার করেছে।"
+    "en": "Houthi attacks on Riyadh airport dominate coverage; multiple outlets, high Google Trends traffic on Yemen, Bangladeshi casualties.",
+    "bn": "রিয়াদ বিমানবন্দরে হুথি হামলা একাধিক আউটলেটে; গুগল ট্রেন্ডে ইয়েমেন শীর্ষে, বাংলাদেশিদের ক্ষতি।"
    },
    "rank": 1
   },
@@ -14,26 +14,26 @@
    "id": "it905o",
    "heat": 4,
    "why": {
-    "en": "Dengue deaths reach 303 with cases approaching 100,000—major public health crisis.",
-    "bn": "ডেঙ্গিতে মৃত্যু ৩০৩, কেস ১ লাখের কাছাকাছি—জনস্বাস্থ্য সংকট।"
+    "en": "Dengue crisis escalating: deaths hit 303, cases near 100,000—urgent public health story.",
+    "bn": "ডেঙ্গু সংকট গভীর হচ্ছে: ৩০৩ জনের মৃত্যু, প্রায় ১ লক্ষ রোগী—জরুরি স্বাস্থ্য সংবাদ।"
    },
    "rank": 2
   },
   {
-   "id": "1fsun9w",
+   "id": "1gog267",
    "heat": 4,
    "why": {
-    "en": "Measles death toll reaches 1,155—another major disease outbreak affecting Bangladesh.",
-    "bn": "হাম রোগে মৃত্যু ১,১৫৫ এ পৌঁছেছে—বাংলাদেশে আরেকটি রোগের মহামারী।"
+    "en": "Seven children died with measles-like symptoms in 24 hours—serious outbreak concern.",
+    "bn": "২৪ ঘণ্টায় ৭ শিশুর মৃত্যু হাম-সদৃশ লক্ষণে—গুরুতর প্রাদুর্ভাবের সংকেত।"
    },
    "rank": 3
   },
   {
-   "id": "1ucx6fj",
+   "id": "1kl4g9y",
    "heat": 3,
    "why": {
-    "en": "Bangladesh seeks regional coalition for Rohingya repatriation—key diplomatic move.",
-    "bn": "রোহিঙ্গা ফেরত দিতে বাংলাদেশ আঞ্চলিক জোট খুঁজছে—গুরুত্বপূর্ণ কূটনৈতিক পদক্ষেপ।"
+    "en": "72 killed in Sudan-Egypt border gold mine airstrike—major international conflict story.",
+    "bn": "সুদান-মিশর সীমান্তে সোনার খনিতে বিমান হামলায় ৭২ জন নিহত।"
    },
    "rank": 4
   },
@@ -41,59 +41,59 @@
    "id": "1cowhjj",
    "heat": 3,
    "why": {
-    "en": "Bangladesh explores Algerian gas supply amid Middle East energy shortage.",
-    "bn": "মধ্যপ্রাচ্যের শক্তি সংকটে বাংলাদেশ আলজেরিয়ার গ্যাস খুঁজছে।"
+    "en": "Bangladesh energy security: seeks Algerian gas amid Middle East supply tensions.",
+    "bn": "বাংলাদেশের শক্তি নিরাপত্তা: মধ্যপ্রাচ্যের সংকটে আলজেরিয়া থেকে গ্যাস খোঁজা।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "rpy6lh",
+   "id": "1ykrmjh",
    "tag": "#RiyadhAttack",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Houthi strike kills Bangladeshis",
-    "text": "Two Bangladeshis among 12 killed in missile strike on Saudi airport. Major incident dominating news."
+    "title": "26 Bangladeshis identified after Riyadh strike",
+    "text": "The Houthi missile attack on Riyadh airport has affected Bangladeshi citizens. 26 have been identified so far in connection with the incident."
    },
    "bn": {
-    "title": "সৌদি বিমানবন্দরে হুথি হামলা",
-    "text": "সেই হামলায় ১২ জন মারা যায়, যাদের মধ্যে দুই বাংলাদেশি রয়েছেন। খবর এখন সবার কথা।"
+    "title": "রিয়াদ বিমানবন্দরে বাংলাদেশিরা",
+    "text": "হুথিদের মিসাইল আক্রমণে রিয়াদ বিমানবন্দরে ২৬ জন বাংলাদেশি চিহ্নিত হয়েছেন।"
    }
   },
   {
-   "id": "it905o",
-   "tag": "#DengueAlert",
+   "id": "17605o2",
+   "tag": "#UniversityProtest",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Dengue cases soaring dangerously",
-    "text": "Death toll hits 303 as confirmed cases near 100,000. Health crisis spreading across country."
+    "title": "DU professor silent protest for teacher freedom",
+    "text": "A Dhaka University professor staged a silent protest demanding academic freedom and professor rights."
    },
    "bn": {
-    "title": "ডেঙ্গি সংক্রমণ বাড়ছে দ্রুত",
-    "text": "মৃত্য ৩০৩ এ, কেস ১ লাখের দিকে। সারাদেশে স্বাস্থ্য জরুরি অবস্থা।"
+    "title": "শিক্ষকদের স্বাধীনতার জন্য নিরব প্রতিবাদ",
+    "text": "ঢাবি অধ্যাপক শিক্ষক স্বাধীনতা ও শিক্ষকদের অধিকারের জন্য মুখে কালো কাপড় বেঁধে ক্লাস নিলেন।"
    }
   },
   {
-   "id": "1sclliz",
-   "tag": "#AppleHomeView",
+   "id": "13gzhbh",
+   "tag": "#RabindranathVandalism",
    "platforms": [
     "Google"
    ],
-   "heat": 2,
+   "heat": 3,
    "en": {
-    "title": "Apple's smart home hub launches",
-    "text": "New HomeView device with A18 chip enters smart home market. Tech news breaking globally."
+    "title": "Four arrested for defaced Tagore wall art",
+    "text": "Four people arrested in Dhaka for vandalizing Rabindranath Tagore wall art at Shilpakala Academy."
    },
    "bn": {
-    "title": "অ্যাপলের নতুন স্মার্ট হোম হাব",
-    "text": "HomeView ডিভাইস A18 চিপ নিয়ে বাজারে এলো। প্রযুক্তি খবরে গুঞ্জন উঠেছে।"
+    "title": "ট্যাগোর ভিত্তিচিত্রে ভাঙ্গনের জন্য গ্রেফতার",
+    "text": "ঢাকায় শিল্পকলা একাডেমিতে রবীন্দ্রনাথের ভিত্তিচিত্র নষ্ট করার অভিযোগে চার জন গ্রেফতার।"
    }
   }
  ],

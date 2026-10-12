@@ -1,6 +1,116 @@
 {
- "updatedAt": "2026-10-12T00:28:26.443Z",
+ "updatedAt": "2026-10-12T07:17:11.246Z",
  "items": [
+  {
+   "id": "1kl4g9y",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BSS",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDTUVKOFVGOGQ5RnMtV2RsQkpaUnhtRW9VVThRSGJvR0h4LUd4dW9UMXZmUzdfQ0FuaXdjbFBmRUU4VE1xX2NPVldtR3NtbnV1N3hYSWhTMA?oc=5",
+   "image": null,
+   "published": "2026-10-11T17:47:26.000Z",
+   "added": "2026-10-12T07:17:11.245Z",
+   "origTitle": "72 killed in airstrike on gold mine on Sudan-Egypt border: rights group",
+   "en": {
+    "title": "72 killed in Sudan-Egypt border gold mine airstrike",
+    "summary": "An airstrike on a gold mine near the Sudan-Egypt border has killed 72 people, according to a rights group. The attack raises questions about civilian safety in the region. Details about who carried out the strike and the exact location remain unclear from the report."
+   },
+   "bn": {
+    "title": "সুদান-মিশর সীমান্তের সোনার খনিতে বিমানবাহিনীর হামলায় ৭২ জন নিহত",
+    "summary": "সুদান-মিশর সীমান্তের কাছে একটি সোনার খনিতে বিমানবাহিনীর হামলায় ৭২ জন নিহত হয়েছে বলে একটি মানবাধিকার সংস্থা জানিয়েছে। এই হামলা অঞ্চলটিতে বেসামরিক মানুষের নিরাপত্তা নিয়ে প্রশ্ন তুলেছে। হামলা কে করেছে এবং সঠিক অবস্থান কী সে সম্পর্কে বিস্তারিত স্পষ্ট নয়।"
+   }
+  },
+  {
+   "id": "1gog267",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "UNB",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlZQeTlBbVJadVdhN2dDa0pUb0FySGVQY2RvT2MtdWphd19VRnN0OHduZWRTUlRwR3RHZVpxR1JHZHUtWmM2UE5idG5QNkhhUU9pTlVpc3RSX1hPakdEVXJPamlaVE0wZEw3VS1HaWdiMjlsOVU1OXZoTURzTXROdkg0Vmw4UXJUNzh6dkRfTEJzUmxGSU1objRaRTAtTkly?oc=5",
+   "image": null,
+   "published": "2026-10-11T10:03:36.000Z",
+   "added": "2026-10-12T07:17:11.245Z",
+   "origTitle": "7 children die with measles-like symptoms in 24 hours",
+   "en": {
+    "title": "7 children die with measles-like symptoms in 24 hours",
+    "summary": "Seven children have died within 24 hours showing measles-like symptoms. The deaths have raised concerns about disease spread. Health authorities are investigating the cause and origin of the outbreak. No other details were given about the affected locations or age groups."
+   },
+   "bn": {
+    "title": "২৪ ঘণ্টায় মাপস-সদৃশ লক্ষণে ৭ শিশু মৃত্যু",
+    "summary": "মাপস-সদৃশ লক্ষণ নিয়ে ২৪ ঘণ্টায় সাত শিশু মৃত্যুবরণ করেছে। এই মৃত্যু রোগ ছড়িয়ে পড়ার নিয়ে উদ্বেগ বাড়িয়েছে। স্বাস্থ্য কর্তৃপক্ষ প্রকোপের কারণ নিয়ে তদন্ত করছে। প্রভাবিত এলাকা বা শিশুদের বয়স সম্পর্কে বিস্তারিত জানানো হয়নি।"
+   }
+  },
+  {
+   "id": "13gzhbh",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/yr798ltq8n",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-11/fysu6lhl/prothomalo-bangla2026-10-11iir2px2playout-1600x1067-4.avif",
+   "published": "2026-10-12T06:15:19.000Z",
+   "added": "2026-10-12T07:17:01.086Z",
+   "origTitle": "What charges brought against Ayash, Marzia, under which sections?",
+   "en": {
+    "title": "Four arrested over defaced Rabindranath wall art in Dhaka",
+    "summary": "A court remanded four people, including A N M Ayash from the State Dialogue Forum, for allegedly defacing wall art depicting Rabindranath outside the Shilpakala Academy in Segunbagicha. Police say they tried to spread hatred and create communal divisions before Durga Puja. Charges include criminal conspiracy and promoting enmity. Convictions can carry up to two years' imprisonment."
+   },
+   "bn": {
+    "title": "ঢাকায় রবীন্দ্রনাথের দেওয়ালচিত্র বিকৃত করে চার জন গ্রেপ্তার",
+    "summary": "সেগুনবাগিচার শিল্পকলা একাডেমির বাইরে রবীন্দ্রনাথের দেওয়ালচিত্র বিকৃত করার অভিযোগে স্টেট ডায়ালগ ফোরামের সদস্য-সচিব এ এন এম আয়াশসহ চার জনকে আদালত রিমান্ডে পাঠিয়েছে। পুলিশ বলছে দুর্গাপূজার আগে তারা ধর্মীয় উদ্বেগ এবং সাম্প্রদায়িক বৈরিতা ছড়ানোর চেষ্টা করেছে। আরোপকৃত অপরাধ প্রমাণিত হলে দুই বছরের কারাদণ্ড পর্যন্ত হতে পারে।"
+   }
+  },
+  {
+   "id": "xz6kto",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c6p9gym4vzm3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c44f/live/e68c78a0-c5c9-11f1-9042-5f0794d5e895.jpg",
+   "published": "2026-10-12T03:32:31.000Z",
+   "added": "2026-10-12T07:17:01.086Z",
+   "origTitle": "রাশিয়া থেকে ডিজেল আমদানির পরিকল্পনা নিয়ে সমালোচনার মুখে ট্রাম্প",
+   "en": {
+    "title": "Trump faces backlash over plan to import diesel from Russia",
+    "summary": "President Trump announced Friday that Russia will supply 300,000 tonnes of diesel immediately, with 500,000 tonnes more in November and 1 million tonnes later. Trump says lower fuel costs are his priority. But lawmakers from both parties are criticizing the deal, especially since Trump approved sanctions on Russian oil and gas imports just weeks earlier. Ukraine's president called it a reward for Putin."
+   },
+   "bn": {
+    "title": "রাশিয়া থেকে ডিজেল আমদানি পরিকল্পনা নিয়ে ট্রাম্প সমালোচিত",
+    "summary": "শুক্রবার ট্রাম্প ঘোষণা করলেন রাশিয়া ৩ লাখ টন ডিজেল অবিলম্বে সরবরাহ করবে, নভেম্বরে আরও ৫ লাখ টন এবং পরে ১০ লাখ টন দেবে। ট্রাম্প বলছেন জ্বালানির দাম কমা তার অগ্রাধিকার। কিন্তু দুই দলের আইনপ্রণেতারা এই চুক্তির সমালোচনা করছেন, বিশেষ করে কয়েক সপ্তাহ আগে ট্রাম্প রাশিয়ার তেল-গ্যাসের ওপর নিষেধাজ্ঞা অনুমোদন করেছিলেন। ইউক্রেনের প্রেসিডেন্ট একে পুতিনের 'পুরস্কার' বলেছেন।"
+   }
+  },
+  {
+   "id": "1gez00f",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/middle-east/israeli-fire-kills-two-people-gaza-medics-say-1570086",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/kmpeth4b3vlfvky6amo7ys2w5u.jpg",
+   "published": "2026-10-12T07:05:00.000Z",
+   "added": "2026-10-12T07:17:01.086Z",
+   "origTitle": "Israeli fire kills two people in Gaza, medics say",
+   "en": {
+    "title": "Israeli strike kills two Palestinians in southern Gaza",
+    "summary": "An Israeli military strike killed at least two Palestinians in southern Gaza on Monday, according to health officials. The Israeli military said it targeted a militant but gave no details. Israel says Hamas has been rearming and breaking the ceasefire; Hamas denies this. Since last October's ceasefire, at least 1,400 Palestinians have been killed by Israeli fire, while Israel says four of its soldiers have been killed by militants."
+   },
+   "bn": {
+    "title": "ইসরায়েলি হামলায় গাজার দক্ষিণে দুই ফিলিস্তিনি নিহত",
+    "summary": "সোমবার ইসরায়েলের একটি সামরিক হামলায় গাজার দক্ষিণে কমপক্ষে দুই ফিলিস্তিনি নিহত হয়েছে বলে স্বাস্থ্য কর্মকর্তারা জানিয়েছেন। ইসরায়েল বলছে এটি একজন সশস্ত্র কর্মী লক্ষ্য করে হামলা করেছে। ইসরায়েল দাবি করছে হামাস অস্ত্র সংগ্রহ করছে এবং যুদ্ধবিরতি ভাঙছে; হামাস এটা অস্বীকার করেছে। গত অক্টোবরের যুদ্ধবিরতির পর এ পর্যন্ত কমপক্ষে ১,৪০০ ফিলিস্তিনি ইসরায়েলি আগুনে নিহত হয়েছে।"
+   }
+  },
   {
    "id": "s3eh0v",
    "section": "bhabna",
@@ -2265,204 +2375,6 @@
    "bn": {
     "title": "Awarapan 2 এখন Prime Video-তে, ২১৩ কোটি আয়",
     "summary": "ইমরান হাশমির Awarapan 2 এখন Prime Video-তে স্ট্রিম করা যাচ্ছে। সিকোয়েলটা বক্স অফিসে ২১৩.০১ কোটি টাকা আয় করেছে। প্রায় ২০ বছর পর ইমরান গ্যাংস্টার শিবম পন্ডিট চরিত্রে ফিরে এসেছেন। সমালোচকরা মিশ্র রিয়েকশন দিলেও ফ্যানরা এর ভাইরাল হয়েছে।"
-   }
-  },
-  {
-   "id": "1jtgz0i",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Daily Star",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZE9pQnZvQlM5RmhldS05eEdwRl9VVXZzZFJfQkxvSUJsNUhLbjA5NGZleWI0RF8tSmhzeGFDZ2hIVlMzLV9EeXBXbWdzb0hiSUpGUkVSMWlPRUt4Y1RUaWlDNU5oZkNMQXlBVGVEREhmNmVNSzd5Sm9KcjNHU2tzOTRmNFhMNVg0TmxHaQ?oc=5",
-   "image": null,
-   "published": "2026-10-08T12:02:12.000Z",
-   "added": "2026-10-09T02:03:05.620Z",
-   "origTitle": "Nana Patekar no more",
-   "en": {
-    "title": "Actor Nana Patekar passes away",
-    "summary": "Indian actor Nana Patekar has passed away. The veteran performer had a long career spanning Hindi and Marathi cinema. He was known for his roles in numerous films over the decades."
-   },
-   "bn": {
-    "title": "অভিনেতা নানা পাটেকর আর নেই",
-    "summary": "ভারতীয় অভিনেতা নানা পাটেকর মৃত্যুবরণ করেছেন। তিনি হিন্দি এবং মারাঠি চলচ্চিত্রে একটি দীর্ঘ ক্যারিয়ার তৈরি করেছিলেন। তার অভিনয় অনেক প্রজন্মের দর্শকদের মুগ্ধ করেছে।"
-   }
-  },
-  {
-   "id": "72xt1x",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02QjhjYnMxRVVPeUt4eXdNMF9LZFI2YlBETVpOcnpYQzFvTy1lT2duaWtvN2ZBenppQ2F5b0FTRDQ4eVlLdG5ZZzhpTExCWnlvMXdqS0lMY0p3QnNxMk1oZ3BXYXRfSzQ?oc=5",
-   "image": null,
-   "published": "2026-10-08T14:17:00.000Z",
-   "added": "2026-10-09T02:03:05.620Z",
-   "origTitle": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের প্রথম ইউনিট অনুমোদন, ডিসেম্বরে উৎপাদনের আশা",
-   "en": {
-    "title": "Rooppur nuclear plant first unit approved, December production target",
-    "summary": "Bangladesh has approved the first unit of the Rooppur Nuclear Power Plant. The government is aiming for the plant to begin electricity production in December. This marks a major step forward in the country's energy infrastructure development."
-   },
-   "bn": {
-    "title": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের প্রথম ইউনিট অনুমোদিত",
-    "summary": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের প্রথম ইউনিট অনুমোদন পেয়েছে। ডিসেম্বরে এটি বিদ্যুৎ উৎপাদন শুরু করার লক্ষ্য রয়েছে। এটি দেশের শক্তি অবকাঠামোর জন্য একটি বড় মাইলফলক।"
-   }
-  },
-  {
-   "id": "10n2btg",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80UXQtQWktSGZWUnV5NTc1NDRZTExOV0kydS10NkxWSkFQSUhHX3hHV2l0R1d2Qk1wUDVBWmVQbGs2WnNXX0k0a2EtT0VidkdMWEE3UDdoSW9pVENPR1VYelVJbFlIYU9V0gF2QVVfeXFMT0FtcHp0RWhFdHNnN1JGS1NsS2N0X2RpVGd0WUJRMlMwdURzSjJPekR4NmgyUVQ3WXZzNjNnZXJiMWN4SnI1dmtHQnV6bE1nNHZ0YUFXclpfdmdITWVsNm1LUFNmWXRiM250bWNDYkotSVVyeGF0dw?oc=5",
-   "image": null,
-   "published": "2026-10-08T02:41:59.000Z",
-   "added": "2026-10-09T02:03:05.620Z",
-   "origTitle": "Nana Patekar dies after cardiac arrest at residence",
-   "en": {
-    "title": "Actor Nana Patekar dies after cardiac arrest",
-    "summary": "Indian actor Nana Patekar has died following a cardiac arrest at his residence. The veteran actor appeared in numerous Hindi and Marathi films over his career. Details about the exact circumstances remain limited at this time."
-   },
-   "bn": {
-    "title": "অভিনেতা নানা পাটেকর হৃদযন্ত্রের ক্রিয়া বন্ধে মৃত্যু",
-    "summary": "ভারতীয় অভিনেতা নানা পাটেকর তার বাসস্থানে হৃদযন্ত্রের ক্রিয়া বন্ধ হয়ে মৃত্যুবরণ করেছেন। তিনি হিন্দি এবং মারাঠি চলচ্চিত্রে অসংখ্য ভূমিকা পালন করেছিলেন। এখন পর্যন্ত বিস্তারিত তথ্য জানা যায়নি।"
-   }
-  },
-  {
-   "id": "3969hy",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/0snm2ubgar",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-05/t75e1g7b/LPG.jpg",
-   "published": "2026-10-09T01:44:34.000Z",
-   "added": "2026-10-09T02:02:55.454Z",
-   "origTitle": "বাজারে এলপিজির সংকট কাটেনি, দামও বাড়তি",
-   "en": {
-    "title": "LPG shortage continues despite price hike, costs soar in market",
-    "summary": "Bangladesh's LPG shortage persists even after price increases in October. Only six companies supply regularly and they lack adequate stock. While the energy regulator set the maximum retail price for a 12kg cylinder at 1,837 taka, market prices range from 2,300 to 2,500 taka. Distributors say transportation, licensing, and operating costs make regulated prices unsustainable."
-   },
-   "bn": {
-    "title": "এলপিজি সংকট থাকছে, দাম বাড়ছে বাজারে",
-    "summary": "অক্টোবরে দাম বৃদ্ধির পর ও বাংলাদেশে এলপিজি সংকট চলছে। মাত্র ছয়টি কোম্পানি নিয়মিত সরবরাহ করে এবং তাদের কাছে পর্যাপ্ত স্টক নেই। শক্তি নিয়ন্ত্রক ১২ কেজি সিলিন্ডারের সর্বোচ্চ খুচরা মূল্য ১,৮৩৭ টাকায় নির্ধারণ করলেও বাজারে দাম ২,৩০০ থেকে ২,৫০০ টাকা। পরিবেশকরা বলছে পরিবহন এবং অপারেটিং খরচ নির্ধারিত দামকে অলাভজনক করে তুলেছে।"
-   }
-  },
-  {
-   "id": "11n1ufv",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac82ed06ac5-1791504080.jpg?resize=1920%2C1440",
-   "published": "2026-10-09T01:15:49.000Z",
-   "added": "2026-10-09T02:02:55.454Z",
-   "origTitle": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
-   "en": {
-    "title": "Spain protests after death of 87-year-old eviction symbol Maricarmen",
-    "summary": "Thousands protested outside Spain's parliament after Maria del Carmen Abascal died following her eviction from her Madrid home on September 23. The 87-year-old, who had lived in the house for 70 years, was hospitalized for severe anxiety and exhaustion. Though she reached a deal to return home before her death, no cause of death has been announced."
-   },
-   "bn": {
-    "title": "এক্সিভিশন প্রতীক ৮৭ বছরের মারিয়াকারমেনের মৃত্যুতে স্পেনে প্রতিবাদ",
-    "summary": "মারিয়া দেল কারমেন আবাস্কালের মৃত্যুর পর হাজার হাজার মানুষ স্পেনের পার্লামেন্টের বাইরে প্রতিবাদ করেছে। ৮৭ বছর বয়সী মহিলা ম্যাড্রিডের তার বাড়ি থেকে ২৩ সেপ্টেম্বর বেদখল হওয়ার পরে গুরুতর উদ্বেগ এবং ক্লান্তিতে ভর্তি হয়েছিলেন। যদিও তিনি বাড়িতে ফিরে যাওয়ার জন্য একটি চুক্তিতে পৌঁছেছিলেন, তার মৃত্যুর কারণ ঘোষণা করা হয়নি।"
-   }
-  },
-  {
-   "id": "vfnkp3",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299252091.jpg?w=1024",
-   "published": "2026-10-08T22:33:59.000Z",
-   "added": "2026-10-09T02:02:55.454Z",
-   "origTitle": "President Trump awards Big Tech donors with nation’s highest science prizes",
-   "en": {
-    "title": "Trump awards Big Tech leaders with nation's highest science prizes",
-    "summary": "President Trump awarded the National Medal of Science to Elon Musk, Jensen Huang, Sergey Brin, and Lisa Su at the Golden Age of American Innovation Summit. Michael Dell and Satya Nadella received the National Medal of Technology and Innovation. The honorees have donated nearly $6 billion to Trump-related efforts and causes."
-   },
-   "bn": {
-    "title": "ট্রাম্প বিগ টেক নেতাদের দিলেন বিজ্ঞান পুরস্কার",
-    "summary": "রাষ্ট্রপতি ট্রাম্প গোল্ডেন এজ অফ আমেরিকান ইনোভেশন সামিটে এলন মাস্ক, জেনসেন হুয়াং, সার্গেই ব্রিন এবং লিসা সু-কে জাতীয় বিজ্ঞান পদক দিয়েছেন। মাইকেল ডেল এবং সত্য নাডেলা জাতীয় প্রযুক্তি ও উদ্ভাবন পদক পেয়েছেন। এই পুরস্কার বিজয়ীরা ট্রাম্প-সম্পর্কিত উদ্যোগে প্রায় ৬ বিলিয়ন ডলার দান করেছেন।"
-   }
-  },
-  {
-   "id": "onrbc6",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg",
-   "published": "2026-10-08T23:11:10.000Z",
-   "added": "2026-10-09T02:02:55.454Z",
-   "origTitle": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
-   "en": {
-    "title": "Former Ukrainian officer says Monaco bomb was ordered by HUR",
-    "summary": "Vitalii Zhykovych, a former Ukrainian security officer linked to a June bombing in Monaco that injured a millionaire and his family, claims the operation was ordered by senior HUR military intelligence members. He says he was a freelancer for Ukraine's SBU and that his agent Anastasia Berezovska planted the bomb. Berezovska was found dead weeks later; Zhykovych denies killing her."
-   },
-   "bn": {
-    "title": "মোনাকো বোমা হামলা এইচইউআর-এর অর্ডার বলে দাবি",
-    "summary": "ইউক্রেনীয় নিরাপত্তা অফিসার ভিটালি ঝিকোভিচ দাবি করছেন যে জুনে মোনাকোতে একজন মিলিয়নেয়ার এবং তার পরিবারকে আহত করা বোমা হামলা ইউক্রেনের সামরিক গোয়েন্দা এজেন্সি এইচইউআর-এর সিনিয়র সদস্যদের দ্বারা অর্ডার করা হয়েছিল। তিনি বলেছেন তার এজেন্ট আনাস্তাসিয়া বেরেজোভস্কা বোমা রোপণ করেছিল। বেরেজোভস্কা কয়েক সপ্তাহ পর মৃত পাওয়া গিয়েছিল এবং ঝিকোভিচ তাকে হত্যা করেনি বলে অস্বীকার করছেন।"
-   }
-  },
-  {
-   "id": "km78nv",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/others/capital-city/973289/%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%83%E0%A6%99%E0%A7%8D%E0%A6%96%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%B0-%E0%A6%95%E0%A6%A4%E0%A6%A6%E0%A6%BF%E0%A6%A8",
-   "image": null,
-   "published": "2026-10-09T02:00:00.000Z",
-   "added": "2026-10-09T02:02:55.454Z",
-   "origTitle": "বিমানবন্দরের বহিরাঙ্গনে বিশৃঙ্খলা আর কতদিন",
-   "en": {
-    "title": "Dhaka airport exterior remains chaotic despite complaints",
-    "summary": "Hazrat Shahjalal International Airport's canopy and surroundings still lack proper order. Passengers' relatives crowd the area alongside CNG-run auto-rickshaws, car touts, and unnecessary people roaming freely. Some areas look more like bus or launch terminals than an international airport."
-   },
-   "bn": {
-    "title": "ঢাকা বিমানবন্দরের বাইরে শৃঙ্খলা ফেরেনি",
-    "summary": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের ক্যানোপি এবং চারপাশে এখনও সঠিক শৃঙ্খলা নেই। যাত্রীদের পরিবারের সদস্যরা সিএনজি অটোরিকশা, গাড়ির দালাল এবং অপ্রয়োজনীয় লোকজনের ভিড়ের সাথে জায়গাটি পূর্ণ করছে। কিছু এলাকা আন্তর্জাতিক বিমানবন্দরের চেয়ে বাস বা লঞ্চ টার্মিনালের মতো দেখাচ্ছে।"
-   }
-  },
-  {
-   "id": "hbmolj",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/worldbiz/usa/trump-says-comment-iran-could-take-out-los-angeles-was-misinterpreted-1567021",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/10/llvlui3oobm5beflrp6aje4bny.jpg",
-   "published": "2026-10-09T01:55:00.000Z",
-   "added": "2026-10-09T02:02:55.454Z",
-   "origTitle": "Trump says comment that Iran could 'take out' Los Angeles was misinterpreted",
-   "en": {
-    "title": "Trump clarifies Iran comment wasn't about cities being bombed",
-    "summary": "President Trump said his Monday rally comments about Iran taking out Los Angeles and San Diego were misunderstood. He clarified he meant higher gas prices are a small price to pay for preventing Iran from getting nuclear weapons. California's Democratic leaders and some Republicans had criticized the original remarks."
-   },
-   "bn": {
-    "title": "ইরান সম্পর্কে ট্রাম্পের মন্তব্য ব্যাখ্যা দিলেন",
-    "summary": "রাষ্ট্রপতি ট্রাম্প বলেছেন, তার সোমবারের ভাষণে ইরান সম্পর্কে যা বলেছিলেন তা ভুল বোঝা হয়েছে। তিনি স্পষ্ট করেছেন যে তিনি বেশি গ্যাসের দাম নিয়ে কথা বলছিলেন, ইরানকে পারমাণবিক অস্ত্র পেতে বাধা দেওয়ার জন্য এটি একটি ছোট মূল্য। ক্যালিফোর্নিয়ার ডেমোক্র্যাটিক নেতা এবং কিছু রিপাবলিকান মূল মন্তব্যের সমালোচনা করেছিলেন।"
    }
   }
  ]
