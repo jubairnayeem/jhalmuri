@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-10-12T07:17:27.040Z",
+ "updatedAt": "2026-10-12T17:48:08.680Z",
  "burning": [
   {
-   "id": "rj8y7e",
+   "id": "hf95jn",
    "heat": 5,
    "why": {
-    "en": "Houthi attacks on Riyadh airport dominate coverage; multiple outlets, high Google Trends traffic on Yemen, Bangladeshi casualties.",
-    "bn": "রিয়াদ বিমানবন্দরে হুথি হামলা একাধিক আউটলেটে; গুগল ট্রেন্ডে ইয়েমেন শীর্ষে, বাংলাদেশিদের ক্ষতি।"
+    "en": "Houthi attacks on Riyadh airport dominating coverage with multiple outlets, Bangladesh casualties confirmed.",
+    "bn": "রিয়াদ বিমানবন্দরে হুতি হামলা একাধিক মাধ্যমে প্রধান খবর, বাংলাদেশিদের মৃত্যু নিশ্চিত।"
    },
    "rank": 1
   },
   {
    "id": "it905o",
-   "heat": 4,
+   "heat": 5,
    "why": {
-    "en": "Dengue crisis escalating: deaths hit 303, cases near 100,000—urgent public health story.",
-    "bn": "ডেঙ্গু সংকট গভীর হচ্ছে: ৩০৩ জনের মৃত্যু, প্রায় ১ লক্ষ রোগী—জরুরি স্বাস্থ্য সংবাদ।"
+    "en": "Dengue death toll approaching crisis level with 303 deaths and near 100,000 cases—major public health emergency.",
+    "bn": "ডেঙ্গু মৃত্যুর সংখ্যা ৩০৩ এবং কেস প্রায় ১ লক্ষে পৌঁছেছে—জরুরি স্বাস্থ্য পরিস্থিতি।"
    },
    "rank": 2
   },
@@ -23,77 +23,93 @@
    "id": "1gog267",
    "heat": 4,
    "why": {
-    "en": "Seven children died with measles-like symptoms in 24 hours—serious outbreak concern.",
-    "bn": "২৪ ঘণ্টায় ৭ শিশুর মৃত্যু হাম-সদৃশ লক্ষণে—গুরুতর প্রাদুর্ভাবের সংকেত।"
+    "en": "Seven children died with measles-like symptoms in 24 hours—urgent health alert drawing attention.",
+    "bn": "২৪ ঘণ্টায় সাত শিশু হাম জাতীয় লক্ষণে মারা গেছে—জরুরি স্বাস্থ্য সতর্কতা।"
    },
    "rank": 3
   },
   {
-   "id": "1kl4g9y",
-   "heat": 3,
+   "id": "1cowhjj",
+   "heat": 4,
    "why": {
-    "en": "72 killed in Sudan-Egypt border gold mine airstrike—major international conflict story.",
-    "bn": "সুদান-মিশর সীমান্তে সোনার খনিতে বিমান হামলায় ৭২ জন নিহত।"
+    "en": "Bangladesh energy crisis deepens with Middle East supply disruption, Algeria solution being explored.",
+    "bn": "মধ্যপ্রাচ্যের সরবরাহ ব্যাহতের কারণে বাংলাদেশের শক্তি সংকট গভীর, আলজেরিয়া সমাধান খুঁজছে।"
    },
    "rank": 4
   },
   {
-   "id": "1cowhjj",
+   "id": "1cku2q9",
    "heat": 3,
    "why": {
-    "en": "Bangladesh energy security: seeks Algerian gas amid Middle East supply tensions.",
-    "bn": "বাংলাদেশের শক্তি নিরাপত্তা: মধ্যপ্রাচ্যের সংকটে আলজেরিয়া থেকে গ্যাস খোঁজা।"
+    "en": "IMF and World Bank discussions on Bangladesh energy and debt crisis in Bangkok.",
+    "bn": "ব্যাংককে আইএমএফ এবং বিশ্বব্যাংক বাংলাদেশের শক্তি ও ঋণ সংকট নিয়ে আলোচনা।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1ykrmjh",
+   "id": "rj8y7e",
    "tag": "#RiyadhAttack",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "26 Bangladeshis identified after Riyadh strike",
-    "text": "The Houthi missile attack on Riyadh airport has affected Bangladeshi citizens. 26 have been identified so far in connection with the incident."
+    "title": "Houthis strike Riyadh airport",
+    "text": "Houthi attack on Saudi airport killed at least 12 people including 2 Bangladeshis. Multiple strikes in days as Middle East tensions flare."
    },
    "bn": {
-    "title": "রিয়াদ বিমানবন্দরে বাংলাদেশিরা",
-    "text": "হুথিদের মিসাইল আক্রমণে রিয়াদ বিমানবন্দরে ২৬ জন বাংলাদেশি চিহ্নিত হয়েছেন।"
+    "title": "রিয়াদে হুতি হামলা",
+    "text": "সৌদি বিমানবন্দরে হুতি আক্রমণে কমপক্ষে ১২ জন মারা গেছেন, যার মধ্যে ২ জন বাংলাদেশি। মধ্যপ্রাচ্যের উত্তেজনা বাড়ছে।"
    }
   },
   {
-   "id": "17605o2",
-   "tag": "#UniversityProtest",
+   "id": "1gog267",
+   "tag": "#MeaslesAlert",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "DU professor silent protest for teacher freedom",
-    "text": "A Dhaka University professor staged a silent protest demanding academic freedom and professor rights."
+    "title": "Seven children die of measles",
+    "text": "Seven children died within 24 hours showing measles-like symptoms. Health officials investigating the outbreak."
    },
    "bn": {
-    "title": "শিক্ষকদের স্বাধীনতার জন্য নিরব প্রতিবাদ",
-    "text": "ঢাবি অধ্যাপক শিক্ষক স্বাধীনতা ও শিক্ষকদের অধিকারের জন্য মুখে কালো কাপড় বেঁধে ক্লাস নিলেন।"
+    "title": "হাম জাতীয় রোগে শিশুমৃত্যু",
+    "text": "২৪ ঘণ্টায় সাত শিশু হাম জাতীয় লক্ষণে মারা গেছে। স্বাস্থ্য কর্মীরা প্রাদুর্ভাব তদন্ত করছেন।"
    }
   },
   {
-   "id": "13gzhbh",
-   "tag": "#RabindranathVandalism",
+   "id": "it905o",
+   "tag": "#DengueCrisis",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Dengue deaths hit 303",
+    "text": "Dengue cases near 100,000 with death toll reaching 303 this season. Public health system under strain."
+   },
+   "bn": {
+    "title": "ডেঙ্গু মৃত্যু ৩০৩ এ পৌঁছেছে",
+    "text": "ডেঙ্গু কেস প্রায় ১ লক্ষে এবং মৃত্যু ৩০৩ জনে পৌঁছেছে। স্বাস্থ্যব্যবস্থা চাপে আছে।"
+   }
+  },
+  {
+   "id": "1cowhjj",
+   "tag": "#EnergyCrisis",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Four arrested for defaced Tagore wall art",
-    "text": "Four people arrested in Dhaka for vandalizing Rabindranath Tagore wall art at Shilpakala Academy."
+    "title": "Bangladesh seeks Algerian gas",
+    "text": "Bangladesh looking to Algeria for natural gas as Middle East supply disrupted by Houthi attacks."
    },
    "bn": {
-    "title": "ট্যাগোর ভিত্তিচিত্রে ভাঙ্গনের জন্য গ্রেফতার",
-    "text": "ঢাকায় শিল্পকলা একাডেমিতে রবীন্দ্রনাথের ভিত্তিচিত্র নষ্ট করার অভিযোগে চার জন গ্রেফতার।"
+    "title": "বাংলাদেশ আলজেরিয়ার গ্যাস খুঁজছে",
+    "text": "হুতি হামলায় মধ্যপ্রাচ্যের সরবরাহ ব্যাহত হওয়ায় বাংলাদেশ আলজেরিয়ার কাছে প্রাকৃতিক গ্যাসের জন্য ঝুঁকছে।"
    }
   }
  ],
