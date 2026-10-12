@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-10-11T20:12:35.915Z",
+ "updatedAt": "2026-10-12T00:28:40.279Z",
  "burning": [
   {
    "id": "rj8y7e",
    "heat": 5,
    "why": {
-    "en": "Houthi attack on Riyadh airport killed 12 including 2 Bangladeshis, covered by multiple outlets.",
-    "bn": "সৌদি আরবের রিয়াদ বিমানবন্দরে হুথি হামলায় ১২ জন নিহত, তাদের মধ্যে ২ জন বাংলাদেশী।"
+    "en": "Houthi attack on Riyadh airport kills 12, two Bangladeshis dead—covered by multiple outlets.",
+    "bn": "সৌদি আরবের রিয়াদ বিমানবন্দরে হুথিদের আক্রমণে ১২ জন মারা যায়, দুই বাংলাদেশি নিহত—একাধিক আউটলেট কভার করেছে।"
    },
    "rank": 1
   },
   {
    "id": "it905o",
-   "heat": 5,
+   "heat": 4,
    "why": {
-    "en": "Dengue deaths hit 303 with cases near 100,000—major health crisis unfolding.",
-    "bn": "ডেঙ্গু মৃত্যু ৩০৩ এ পৌঁছেছে এবং কেস ১ লক্ষের কাছাকাছি—বড় স্বাস্থ্য সংকট।"
+    "en": "Dengue deaths reach 303 with cases approaching 100,000—major public health crisis.",
+    "bn": "ডেঙ্গিতে মৃত্যু ৩০৩, কেস ১ লাখের কাছাকাছি—জনস্বাস্থ্য সংকট।"
    },
    "rank": 2
   },
@@ -23,33 +23,33 @@
    "id": "1fsun9w",
    "heat": 4,
    "why": {
-    "en": "Measles death toll reaches 1,155, another major disease outbreak concern.",
-    "bn": "হাম থেকে মৃত্যু ১,১৫৫ এ পৌঁছেছে, আরেকটি বড় রোগ বিস্ফোরণের আশঙ্কা।"
+    "en": "Measles death toll reaches 1,155—another major disease outbreak affecting Bangladesh.",
+    "bn": "হাম রোগে মৃত্যু ১,১৫৫ এ পৌঁছেছে—বাংলাদেশে আরেকটি রোগের মহামারী।"
    },
    "rank": 3
-  },
-  {
-   "id": "1ajd3ny",
-   "heat": 4,
-   "why": {
-    "en": "Woman beaten to death in Cumilla, serious crime story with arrest made.",
-    "bn": "কুমিল্লায় নারী পিটিয়ে মৃত্যু, প্রধান সন্দেহভাজন গ্রেপ্তার।"
-   },
-   "rank": 4
   },
   {
    "id": "1ucx6fj",
    "heat": 3,
    "why": {
-    "en": "Bangladesh pushing regional coalition for Rohingya repatriation, significant diplomatic effort.",
-    "bn": "বাংলাদেশ রোহিঙ্গা প্রত্যাবাসনের জন্য আঞ্চলিক জোট গড়তে চেষ্টা করছে।"
+    "en": "Bangladesh seeks regional coalition for Rohingya repatriation—key diplomatic move.",
+    "bn": "রোহিঙ্গা ফেরত দিতে বাংলাদেশ আঞ্চলিক জোট খুঁজছে—গুরুত্বপূর্ণ কূটনৈতিক পদক্ষেপ।"
+   },
+   "rank": 4
+  },
+  {
+   "id": "1cowhjj",
+   "heat": 3,
+   "why": {
+    "en": "Bangladesh explores Algerian gas supply amid Middle East energy shortage.",
+    "bn": "মধ্যপ্রাচ্যের শক্তি সংকটে বাংলাদেশ আলজেরিয়ার গ্যাস খুঁজছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "rj8y7e",
+   "id": "rpy6lh",
    "tag": "#RiyadhAttack",
    "platforms": [
     "Google"
@@ -57,27 +57,11 @@
    "heat": 5,
    "en": {
     "title": "Houthi strike kills Bangladeshis",
-    "text": "Attack on Saudi airport left 12 dead including 2 Bangladeshis. Major regional security incident dominating conversation."
+    "text": "Two Bangladeshis among 12 killed in missile strike on Saudi airport. Major incident dominating news."
    },
    "bn": {
-    "title": "রিয়াদে হুথি হামলা",
-    "text": "সৌদি বিমানবন্দরে হামলায় ১২ জন মারা যায়, তাদের মধ্যে ২ জন বাংলাদেশী ছিল।"
-   }
-  },
-  {
-   "id": "bwau1u",
-   "tag": "#BanglaWomen",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Bangladesh women reach final",
-    "text": "U-19 women's team beat Pakistan to advance to tri-series final. Sports victory getting social buzz."
-   },
-   "bn": {
-    "title": "বাংলা মহিলা দল ফাইনালে",
-    "text": "আন্ডার-১৯ নারী দল পাকিস্তানকে হারিয়ে ট্রাই-সিরিজ ফাইনালে পৌঁছেছে।"
+    "title": "সৌদি বিমানবন্দরে হুথি হামলা",
+    "text": "সেই হামলায় ১২ জন মারা যায়, যাদের মধ্যে দুই বাংলাদেশি রয়েছেন। খবর এখন সবার কথা।"
    }
   },
   {
@@ -88,28 +72,28 @@
    ],
    "heat": 4,
    "en": {
-    "title": "Dengue crisis deepens",
-    "text": "Deaths hit 303, cases near 100,000 as outbreak spreads. Health emergency trending nationwide."
+    "title": "Dengue cases soaring dangerously",
+    "text": "Death toll hits 303 as confirmed cases near 100,000. Health crisis spreading across country."
    },
    "bn": {
-    "title": "ডেঙ্গু সংকট গভীর",
-    "text": "মৃত্যু ৩০৩ এ, কেস ১ লক্ষের কাছাকাছি এসেছে। স্বাস্থ্য জরুরি অবস্থা দেশব্যাপী ট্রেন্ড করছে।"
+    "title": "ডেঙ্গি সংক্রমণ বাড়ছে দ্রুত",
+    "text": "মৃত্য ৩০৩ এ, কেস ১ লাখের দিকে। সারাদেশে স্বাস্থ্য জরুরি অবস্থা।"
    }
   },
   {
-   "id": "1fsun9w",
-   "tag": "#MeaslesOutbreak",
+   "id": "1sclliz",
+   "tag": "#AppleHomeView",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 2,
    "en": {
-    "title": "Measles deaths cross 1,100",
-    "text": "Death toll reaches 1,155 with 8 new deaths. Second major disease crisis alongside dengue."
+    "title": "Apple's smart home hub launches",
+    "text": "New HomeView device with A18 chip enters smart home market. Tech news breaking globally."
    },
    "bn": {
-    "title": "হাম মৃত্যু ১,১০০ ছাড়িয়ে",
-    "text": "মৃত্যু ১,১৫৫ এ পৌঁছেছে, নতুন ৮ জন মারা গেছে। ডেঙ্গুর পাশাপাশি দ্বিতীয় বড় রোগ সংকট।"
+    "title": "অ্যাপলের নতুন স্মার্ট হোম হাব",
+    "text": "HomeView ডিভাইস A18 চিপ নিয়ে বাজারে এলো। প্রযুক্তি খবরে গুঞ্জন উঠেছে।"
    }
   }
  ],

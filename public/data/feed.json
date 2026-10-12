@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-11T20:12:20.380Z",
+ "updatedAt": "2026-10-12T00:28:26.443Z",
  "items": [
+  {
+   "id": "s3eh0v",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "serious",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
+   "image": "https://images.aeonmedia.co/images/4a5f62e7-dfa5-4c48-b9db-fcb62ffb81d1/sz-curtis-potvin-h1uzh1dj2p0-unsplash-firefly-upscaler-2x-scale.jpg?top=120&left=0&cropWidth=2304&cropHeight=1296&width=1200&quality=75&format=jpeg",
+   "published": "2026-10-11T22:00:00.000Z",
+   "added": "2026-10-12T00:28:25.040Z",
+   "origTitle": "Black men suffer racial trauma yet are seen as the threat",
+   "en": {
+    "title": "Why Black men's survival strategies get mistaken for mental illness",
+    "summary": "A counselling professor explains how Black men's responses to racial trauma—like sleep issues, withdrawal, or guardedness—are often misdiagnosed as anxiety or depression by clinicians. What appears as anger is often grief or exhaustion; what looks like mistrust may reflect real institutional dangers. Understanding these as survival strategies, not pathology, changes how we support Black men's mental health."
+   },
+   "bn": {
+    "title": "কেন কৃষ্ণাঙ্গ পুরুষদের বেঁচে থাকার কৌশল মানসিক অসুস্থতা মনে করা হয়",
+    "summary": "একজন পরামর্শদাতা অধ্যাপক ব্যাখ্যা করেন যে কৃষ্ণাঙ্গ পুরুষদের জাতিগত আঘাতের প্রতিক্রিয়া—যেমন ঘুমের সমস্যা, মানুষ থেকে দূরত্ব, বা সন্দেহ—প্রায়শই ক্লিনিশিয়ানদের দ্বারা উদ্বেগ বা বিষণ্নতা হিসাবে ভুল নির্ণয় করা হয়। যা রাগ বলে মনে হয় তা প্রায়শই দুঃখ বা ক্লান্তি; যা অবিশ্বাস বলে মনে হয় তা প্রকৃত প্রাতিষ্ঠানিক ঝুঁকি প্রতিফলিত করতে পারে। এগুলিকে রোগ নয় বরং বেঁচে থাকার কৌশল হিসাবে বোঝা কৃষ্ণাঙ্গ পুরুষদের মানসিক স্বাস্থ্য সহায়তা পরিবর্তন করে।"
+   }
+  },
+  {
+   "id": "1ykrmjh",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/bpzuvhmczk",
+   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-12%2Fuqkh18uq%2F4270163e_55d8_41ae_8c74_238ae66a42b7.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+   "published": "2026-10-11T23:29:09.000Z",
+   "added": "2026-10-12T00:28:25.040Z",
+   "origTitle": "সৌদি আরবে বিমানবন্দরে হামলায় নিহত ও আহত ২৬ বাংলাদেশির পরিচয় জানা গেছে",
+   "en": {
+    "title": "26 Bangladeshis identified after Riyadh airport attack by Houthis",
+    "summary": "Two Bangladeshis died and 24 were injured in a Houthi attack on King Khalid International Airport in Riyadh. The deceased are Mo. Shahed Ahmad from Bogura and Mo. Nasrullah from Cumilla. Among the injured, 11 are working in Saudi Arabia and 13 were visiting on Umrah visas. Three remain in ICU: Hafez Hasan, Kazi Nurullah, and Mo. Omer Faruk."
+   },
+   "bn": {
+    "title": "রিয়াদ বিমানবন্দর হামলায় ২৬ বাংলাদেশি চিহ্নিত",
+    "summary": "হুতিদের রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হামলায় দুজন বাংলাদেশি নিহত এবং ২৪ জন আহত হয়েছেন। নিহতরা হলেন বগুড়ার মো. শাহেদ আহম্মদ এবং কুমিল্লার মো. নাসরুল্লাহ। আহতদের মধ্যে ১১ জন সৌদি আরবে কর্মরত এবং ১৩ জন ওমরাহ ভিসায় ছিলেন। তিনজন আইসিইউতে রয়েছেন: হাফেজ হাসান, কাজী নুরুল্লাহ এবং মো. ওমর ফারুক।"
+   }
+  },
+  {
+   "id": "1sclliz",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+   "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
+   "published": "2026-10-11T21:14:40.000Z",
+   "added": "2026-10-12T00:28:25.040Z",
+   "origTitle": "Will the HomeView be Apple’s first smart home success?",
+   "en": {
+    "title": "Apple launches HomeView smart home hub with A18 chip",
+    "summary": "Apple will unveil a new smart home device called HomeView on Tuesday, powered by an A18 chip and Siri. It comes in two models: countertop and wall-mounted versions for controlling other smart home devices. Apple is also releasing updated Apple TV and HomePod mini, plus announcing partnerships with LG for smart locks, thermostats, and doorbells."
+   },
+   "bn": {
+    "title": "অ্যাপল এ১৮ চিপসহ হোমভিউ স্মার্ট হাব লঞ্চ করছে",
+    "summary": "অ্যাপল মঙ্গলবার এ১৮ চিপ এবং সিরি দ্বারা চালিত হোমভিউ নামক একটি নতুন স্মার্ট হোম ডিভাইস উন্মোচন করবে। এটি দুটি মডেলে আসে: কাউন্টারটপ এবং ওয়াল-মাউন্টেড সংস্করণ অন্যান্য স্মার্ট হোম ডিভাইস নিয়ন্ত্রণের জন্য। অ্যাপল আপডেট করা অ্যাপল টিভি এবং হোমপড মিনিও রিলিজ করছে, এবং স্মার্ট লক, থার্মোস্ট্যাট এবং ডোরবেলের জন্য এলজির সাথে অংশীদারিত্বের ঘোষণা দিচ্ছে।"
+   }
+  },
+  {
+   "id": "1i9x4tg",
+   "section": "news",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/law-and-crime/973914/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%9C%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B0%E2%80%8D%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%93",
+   "image": null,
+   "published": "2026-10-12T00:12:00.000Z",
+   "added": "2026-10-12T00:28:25.040Z",
+   "origTitle": "বিশ্ব মানসিক স্বাস্থ্য দিবসে জবিতে র‍্যালি ও সেমিনার",
+   "en": {
+    "title": "Jagannath University marks World Mental Health Day with rally, seminar",
+    "summary": "Jagannath University celebrated World Mental Health Day 2026 on Sunday with the theme \"Listen to Real Experiences: Real Stories, Real Change.\" The psychology department organised a rally, mental health assessments, counselling, seminars and workshops. Vice-Chancellor Professor Dr Roiz Uddin led the event. The day aimed to raise awareness about mental wellbeing among students."
+   },
+   "bn": {
+    "title": "জগন্নাথ বিশ্ববিদ্যালয়ে বিশ্ব মানসিক স্বাস্থ্য দিবস পালিত",
+    "summary": "জগন্নাথ বিশ্ববিদ্যালয় রবিবার 'সত্যিকারের অভিজ্ঞতা শুনুন: সত্যিকারের গল্প, সত্যিকারের পরিবর্তন' থিমে বিশ্ব মানসিক স্বাস্থ্য দিবস ২০২৬ উদযাপন করেছে। মনোবিজ্ঞান বিভাগ র‍্যালি, মানসিক স্বাস্থ্য মূল্যায়ন, পরামর্শসেবা, সেমিনার এবং কর্মশালার আয়োজন করেছে। উপাচার্য অধ্যাপক ড. রইছ উদ্দীন অনুষ্ঠান পরিচালনা করেছেন। দিনটি শিক্ষার্থীদের মধ্যে মানসিক সুস্থতার সচেতনতা বৃদ্ধির লক্ষ্যে পালিত হয়েছে।"
+   }
+  },
+  {
+   "id": "1yabnlw",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-11T21:36:40.000Z",
+   "added": "2026-10-12T00:28:25.040Z",
+   "origTitle": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+   "en": {
+    "title": "Trump claims Russia-Ukraine energy ceasefire; Russia stays silent",
+    "summary": "Donald Trump announced an immediate \"energy ceasefire\" between Russia and Ukraine, but provided no details. Zelensky said Ukraine would support it if Russia did, then accused Russia of striking energy infrastructure after the announcement. Trump wants Ukraine to stop hitting Russian oil targets so Russia fulfills a diesel export deal. The deal is controversial, with Zelensky calling it a gift to Putin."
+   },
+   "bn": {
+    "title": "ট্রাম্পের শক্তি যুদ্ধবিরতির দাবি; রাশিয়া নিরব",
+    "summary": "ডোনাল্ড ট্রাম্প রাশিয়া এবং ইউক্রেনের মধ্যে তাৎক্ষণিক 'শক্তি যুদ্ধবিরতির' ঘোষণা দিয়েছেন, কিন্তু কোনো বিশদ জানাননি। জেলেনস্কি বলেছেন যে ইউক্রেন এটি সমর্থন করবে যদি রাশিয়া করে, তারপর ঘোষণার পরে রাশিয়া শক্তি অবকাঠামোতে আঘাত করার অভিযোগ করেছেন। ট্রাম্প ইউক্রেনকে রাশিয়ার তেল লক্ষ্যে আঘাত করা বন্ধ করতে চায় যাতে রাশিয়া ডিজেল রপ্তানি চুক্তি পূরণ করে। এই চুক্তি বিতর্কিত, জেলেনস্কি এটিকে পুতিনের কাছে উপহার বলেছেন।"
+   }
+  },
+  {
+   "id": "1cowhjj",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/energy/bangladesh-eyes-algerian-lng-lpg-imports-amid-supply-crunch-1569776",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/30/summit_lng.jpg",
+   "published": "2026-10-11T22:05:00.000Z",
+   "added": "2026-10-12T00:28:25.040Z",
+   "origTitle": "Bangladesh eyes Algerian LNG, LPG imports amid supply crunch",
+   "en": {
+    "title": "Bangladesh looks to Algeria for gas amid Middle East supply crunch",
+    "summary": "Bangladesh is negotiating deals to import LNG and LPG from Algeria to dodge supply disruptions in the Middle East. Energy Minister Iqbal Hassan Mahmood met with Algeria's ambassador to discuss the partnership. Algeria's shipping routes bypass the Strait of Hormuz, offering a safer alternative. South Asian countries are diversifying energy sources as geopolitical tensions shift."
+   },
+   "bn": {
+    "title": "মধ্যপ্রাচ্যের সংকটে বাংলাদেশ আলজেরিয়ার দিকে তাকাচ্ছে",
+    "summary": "বাংলাদেশ মধ্যপ্রাচ্যের সরবরাহ সমস্যা এড়াতে আলজেরিয়া থেকে এলএনজি এবং এলপিজি আমদানির চুক্তি আলোচনা করছে। শক্তি মন্ত্রী ইকবাল হাসান মাহমুদ এই অংশীদারিত্ব নিয়ে কথা বলতে আলজেরিয়ার রাষ্ট্রদূতের সাথে দেখা করেছেন। আলজেরিয়ার শিপিং রুট হরমুজ প্রণালী এড়িয়ে যায়, যা নিরাপদ বিকল্প প্রদান করে। দক্ষিণ এশীয় দেশগুলি ভূ-রাজনৈতিক পরিবর্তনের সাথে সাথে শক্তির উৎস বৈচিত্র্যময় করছে।"
+   }
+  },
   {
    "id": "1ajd3ny",
    "section": "news",
@@ -2331,138 +2463,6 @@
    "bn": {
     "title": "ইরান সম্পর্কে ট্রাম্পের মন্তব্য ব্যাখ্যা দিলেন",
     "summary": "রাষ্ট্রপতি ট্রাম্প বলেছেন, তার সোমবারের ভাষণে ইরান সম্পর্কে যা বলেছিলেন তা ভুল বোঝা হয়েছে। তিনি স্পষ্ট করেছেন যে তিনি বেশি গ্যাসের দাম নিয়ে কথা বলছিলেন, ইরানকে পারমাণবিক অস্ত্র পেতে বাধা দেওয়ার জন্য এটি একটি ছোট মূল্য। ক্যালিফোর্নিয়ার ডেমোক্র্যাটিক নেতা এবং কিছু রিপাবলিকান মূল মন্তব্যের সমালোচনা করেছিলেন।"
-   }
-  },
-  {
-   "id": "j4zsif",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/usa/99nrd6f49r",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-08/gqmgw6wr/Donald-Trump.avif",
-   "published": "2026-10-08T20:53:22.000Z",
-   "added": "2026-10-08T22:00:52.621Z",
-   "origTitle": "নভেম্বরের মধ্যবর্তী নির্বাচনের আগে ইরানে হামলা চালাব না: ট্রাম্প",
-   "en": {
-    "title": "Trump: No Iran strike before US midterms in November",
-    "summary": "President Trump says the US won't attack Iran before the November 3 midterm elections, claiming Washington is having productive talks with Tehran about ending the war. The Pentagon had reportedly ordered military preparations for a major operation against Iran, but Trump is now postponing any action. The conflict began in February when the US and Israel launched strikes; Iran retaliated. The Strait of Hormuz remains closed, disrupting global oil supplies."
-   },
-   "bn": {
-    "title": "নভেম্বর নির্বাচনের আগে ইরানে হামলা হবে না: ট্রাম্প",
-    "summary": "আমেরিকার প্রেসিডেন্ট ট্রাম্প বলেছেন নভেম্বর ৩ তারিখের মধ্যবর্তী নির্বাচনের আগে ইরানে কোনো হামলা করা হবে না। তিনি জানিয়েছেন ওয়াশিংটন তেহরানের সঙ্গে যুদ্ধ শেষে 'ফলপ্রসূ' আলোচনা চালাচ্ছে। পেন্টাগন আগে সামরিক অপারেশনের জন্য প্রস্তুতি নেওয়ার নির্দেশ দিয়েছিল কিন্তু ট্রাম্প এখন তা স্থগিত করছেন। ফেব্রুয়ারিতে শুরু হওয়া সংঘাত থেকে হরমুজ প্রণালি বন্ধ রয়েছে যা বৈশ্বিক তেল সরবরাহ ব্যাহত করছে।"
-   }
-  },
-  {
-   "id": "1y428zq",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/cornell-tries-going-by-different-name/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Cornell_Tries_Renaming_NIB_IHA-GR.jpg",
-   "published": "2026-10-08T18:44:45.000Z",
-   "added": "2026-10-08T22:00:45.065Z",
-   "origTitle": "Cornell Tries Going By Different Name",
-   "en": {
-    "title": "Cornell University rebrands as 'Tompkins' to escape scandal",
-    "summary": "In a satirical take on crisis management, The Onion reports that Cornell University announced it was rebranding as Tompkins University to distance itself from a fraternity sexual assault allegation. The new identity lasted hours before changing again. Funny premise, serious underlying issue."
-   },
-   "bn": {
-    "title": "কর্নেল বিশ্ববিদ্যালয় সংকট এড়াতে নাম পরিবর্তন করেছে (ব্যঙ্গ)",
-    "summary": "দ্য অনিয়ন সাইটিরিক্যালি রিপোর্ট করছে যে কর্নেল বিশ্ববিদ্যালয় একটি ফ্র্যাটার্নিটি যৌন নিপীড়ন অভিযোগ থেকে সরে থাকতে নাম পরিবর্তন করে 'টম্পকিনস ইউনিভার্সিটি' রেখেছে। নতুন পরিচয় মাত্র কয়েক ঘণ্টা টিকেছিল। মজার প্রিমাইস, কিন্তু গভীর বিষয়।"
-   }
-  },
-  {
-   "id": "1vc24bk",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/08/Guinness-World-Records-abdominal-plank/1261791480174/",
-   "image": "https://cdnph.upi.com/ph/st/th/1261791480174/2026/i/17914804909562/v1.5/Canadian-grandma-holds-a-plank-for-5-hours-to-break-her-own-record.jpg",
-   "published": "2026-10-08T17:28:32.000Z",
-   "added": "2026-10-08T22:00:45.065Z",
-   "origTitle": "Watch: Canadian grandma holds a plank for 5 hours to break her own record",
-   "en": {
-    "title": "Canadian grandma holds plank for 5 hours, breaks her own record",
-    "summary": "A 61-year-old fitness enthusiast from Canada crushed her own world record by holding an abdominal plank for 5 hours at the Huntsman World Senior Games in Utah. Talk about dedication."
-   },
-   "bn": {
-    "title": "কানাডার দাদি প্ল্যাঙ্ক ৫ ঘণ্টা ধরে নিজের রেকর্ড ভেঙে দিলেন",
-    "summary": "কানাডার একজন ৬১ বছর বয়সী ফিটনেস উত্সাহী ইউটাহের হান্টসম্যান ওয়ার্ল্ড সিনিয়র গেমসে পেটের প্ল্যাঙ্ক ৫ ঘণ্টা ধরে রেখে নিজের বিশ্ব রেকর্ড ভেঙে দিয়েছেন। এটা সত্যিই নিবেদনের গল্প।"
-   }
-  },
-  {
-   "id": "1vs74ho",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791494180.jpg?resize=1920%2C1080&quality=80",
-   "published": "2026-10-08T21:17:05.000Z",
-   "added": "2026-10-08T22:00:45.065Z",
-   "origTitle": "Police use tear gas and water cannons on student protestors in Paris",
-   "en": {
-    "title": "Paris police deploy tear gas on student protesters for third week",
-    "summary": "Police fired tear gas and water cannons at demonstrators in Paris demanding more school funding, teachers, and better conditions. The protests have now entered their third week. Several teenagers have been seriously injured, raising questions about police tactics."
-   },
-   "bn": {
-    "title": "প্যারিসে শিক্ষার্থী প্রতিবাদীদের উপর পুলিশের জল কামান ও গ্যাস",
-    "summary": "স্কুলে বেশি তহবিল, শিক্ষক ও ভালো অবস্থার দাবিতে প্যারিসে বিক্ষোভকারীদের উপর পুলিশ জল কামান ও গ্যাস ছুড়েছে। তিন সপ্তাহ ধরে এই প্রতিবাদ চলছে। অনেক কিশোর গুরুতর আহত হয়েছে, যা পুলিশের কৌশল নিয়ে প্রশ্ন তুলেছে।"
-   }
-  },
-  {
-   "id": "8q3tsk",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/c5lyevr4pz1lo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/142c/live/ee62aea0-c2e5-11f1-89a3-9b445bfcfe23.jpg",
-   "published": "2026-10-08T12:21:32.000Z",
-   "added": "2026-10-08T22:00:45.065Z",
-   "origTitle": "আপত্তি ও বিক্ষোভের মুখেই দুবাইয়ের কোম্পানির হাতে চট্টগ্রাম বন্দরের টার্মিনাল",
-   "en": {
-    "title": "Dubai port firm gets Chattogram container terminal contract despite protests",
-    "summary": "DP World, a Dubai-based company, signed a 15-year contract on Thursday to operate Chattogram Port's Nuemuring Container Terminal (NCT) despite worker opposition. NCT handles about half of all containers at Chattogram Port. The port's Bangladesh Navy-run Chittagong Dry Dock Limited had managed it since July. Port authority retains ownership and control."
-   },
-   "bn": {
-    "title": "শ্রমিকদের বিরোধিতার মধ্যেও চট্টগ্রাম বন্দর টার্মিনাল দুবাই কোম্পানিকে",
-    "summary": "দুবাইভিত্তিক কোম্পানি ডিপি ওয়ার্ল্ড বৃহস্পতিবার চট্টগ্রাম বন্দরের নিউমুরিং কনটেইনার টার্মিনাল পরিচালনার জন্য ১৫ বছরের চুক্তি স্বাক্ষর করেছে, যদিও বন্দর শ্রমিকরা বিরোধিতা করেছেন। এনসিটি চট্টগ্রাম বন্দরের মোট কনটেইনারের প্রায় অর্ধেক পরিচালনা করে। জুলাই থেকে বাংলাদেশ নৌবাহিনীর চিটাগং ড্রাই ডক লিমিটেড এটি চালাচ্ছিল। বন্দর কর্তৃপক্ষ মালিকানা ও নিয়ন্ত্রণ রাখবে।"
-   }
-  },
-  {
-   "id": "w4xsh4",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/bangladeshi-student-killed-australia-road-crash-1566966",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/09/8fa99fe8-6c03-4c99-bc76-4eb53b170c8e.png",
-   "published": "2026-10-08T19:00:00.000Z",
-   "added": "2026-10-08T22:00:45.065Z",
-   "origTitle": "Bangladeshi student killed in Australia road crash",
-   "en": {
-    "title": "Bangladeshi student killed in Perth car crash",
-    "summary": "Tasnim Oishi, a 22-year-old Bangladeshi student at Edith Cowan University, died when a grey BMW carrying four students crashed into a tree on Indian Ocean Drive in Perth on Thursday morning. The car veered off the road near Seabird Road around 7:45am. Three other students were injured but stable. Police are investigating."
-   },
-   "bn": {
-    "title": "পার্থে গাড়ি দুর্ঘটনায় বাংলাদেশি শিক্ষার্থী নিহত",
-    "summary": "পার্থের ইন্ডিয়ান ওশান ড্রাইভে বৃহস্পতিবার সকালে একটি গ্রে বিএমডব্লিউ গাড়ি একটি গাছে ধাক্কা খেয়ে দুর্ঘটনা ঘটে। এ দুর্ঘটনায় ২২ বছর বয়সী শিক্ষার্থী তাসনিম ওইশী, যিনি এডিথ কোওয়ান বিশ্ববিদ্যালয়ের ছাত্রী ছিলেন, নিহত হন। গাড়িটি সিবার্ড রোড ইন্টারসেকশনের কাছে রাস্তা থেকে সরে গিয়ে দুর্ঘটনা ঘটে। অন্য তিন শিক্ষার্থী আহত হয়েছেন কিন্তু তারা স্থিতিশীল অবস্থায় আছেন। পুলিশ তদন্ত চালাচ্ছে।"
    }
   }
  ]
