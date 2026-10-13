@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-13T07:39:38.947Z",
+ "updatedAt": "2026-10-13T15:54:35.023Z",
  "burning": [
   {
-   "id": "1gez00f",
+   "id": "hf95jn",
    "heat": 5,
    "why": {
-    "en": "Major international conflict story with significant human impact.",
-    "bn": "আন্তর্জাতিক সংঘাত এবং মানবিক ক্ষতির বড় খবর।"
+    "en": "Riyadh airport closure and Bangladesh flight suspension amid regional crisis is dominating news and social signals.",
+    "bn": "রিয়াদ বিমানবন্দর বন্ধ এবং বাংলাদেশের ফ্লাইট সাসপেন্ড হওয়ার খবর সবচেয়ে বেশি আলোচিত হচ্ছে।"
    },
    "rank": 1
   },
   {
-   "id": "1ohgv2o",
+   "id": "1vwgj44",
    "heat": 5,
    "why": {
-    "en": "Major fire in Dhaka's busy commercial hub affects many.",
-    "bn": "ঢাকার ব্যস্ত বাণিজ্য কেন্দ্রে বড় আগুন, অনেকে ক্ষতিগ্রস্ত।"
+    "en": "BBC report on widespread sexual abuse at Islamic seminaries is a major investigative story with serious national implications.",
+    "bn": "বাংলাদেশের ইসলামিক শিক্ষা প্রতিষ্ঠানে ব্যাপক নির্যাতনের বিষয়ে বিবিসির রিপোর্ট গুরুত্বপূর্ণ তদন্তকর্ম।"
    },
    "rank": 2
   },
   {
-   "id": "hf95jn",
+   "id": "1ohgv2o",
    "heat": 4,
    "why": {
-    "en": "Riyadh airport closure directly disrupts Bangladesh travel plans.",
-    "bn": "রিয়াদ বিমানবন্দর বন্ধ বাংলাদেশের যাত্রীদের সরাসরি প্রভাবিত করে।"
+    "en": "Major fire at Chawkbazar market destroying multiple warehouses is significant breaking news for Dhaka.",
+    "bn": "ঢাকার চকবাজারে বড় আগুনে সাতটি গুদাম ধ্বংস হওয়ার খবর গুরুত্বপূর্ণ।"
    },
    "rank": 3
   },
   {
-   "id": "14kdx7p",
+   "id": "1vcq71p",
    "heat": 4,
    "why": {
-    "en": "University crisis with VC locked in office for 15 hours.",
-    "bn": "বিশ্ববিদ্যালয় সংকট, কুলপতি অফিসে ১৫ ঘণ্টা আটকে থাকেন।"
+    "en": "Nissanka's return to Sri Lanka Test squad is trending heavily on cricket social signals across platforms.",
+    "bn": "নিসান্কার শ্রীলংকা টেস্ট দলে ফিরে আসা ক্রিকেট ভক্তদের মধ্যে ব্যাপক আলোচনা সৃষ্টি করেছে।"
    },
    "rank": 4
   },
   {
-   "id": "1gog267",
-   "heat": 4,
+   "id": "2tqxnt",
+   "heat": 3,
    "why": {
-    "en": "Health emergency with children dying of measles-like illness.",
-    "bn": "স্বাস্থ্য জরুরী অবস্থা, শিশুরা হামের মতো রোগে মারা যাচ্ছে।"
+    "en": "Trump's Greece ambassador resignation over misconduct allegations is significant international political news.",
+    "bn": "ট্রাম্পের গ্রিস এলাকার রাষ্ট্রদূত দুর্নীতির অভিযোগে পদত্যাগ করেছেন, যা আন্তর্জাতিক খবর।"
    },
    "rank": 5
   }
@@ -54,46 +54,46 @@
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "Nissanka returns for Pakistan Test",
-    "text": "Sri Lankan batter Nissanka is back in the squad for the upcoming Test series in Pakistan."
+    "title": "Nissanka back for Pakistan Tests",
+    "text": "Sri Lanka has recalled Nissanka for their Test squad against Pakistan. The move is generating huge buzz among cricket fans tracking squad changes."
    },
    "bn": {
-    "title": "পাকিস্তান টেস্টে নিসাংকা ফিরছেন",
-    "text": "শ্রীলংকার ব্যাটার নিসাংকা পাকিস্তানের আসন্ন টেস্ট সিরিজে দলে ফিরছেন।"
+    "title": "নিসান্কা পাকিস্তান টেস্টে ফিরছেন",
+    "text": "শ্রীলংকা পাকিস্তানের বিরুদ্ধে টেস্ট সিরিজের জন্য নিসান্কাকে দলে ফিরিয়ে নিয়েছে। ক্রিকেট ভক্তরা এই খবর নিয়ে উত্সাহী হয়ে উঠেছেন।"
    }
   },
   {
-   "id": "1njusxs",
-   "tag": "#CustomsSeizure",
+   "id": "tbgcvf",
+   "tag": "#TechInnovation",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Gold and iPhones seized at airports",
-    "text": "Customs officials seized Tk1.39 crore worth of gold and iPhones at two airports in recent operations."
+    "title": "TechCrunch Disrupt startups compete",
+    "text": "Twenty startups are battling it out at TechCrunch Disrupt for an innovation prize. Tech enthusiasts are following the competition closely."
    },
    "bn": {
-    "title": "বিমানবন্দরে সোনা ও আইফোন জব্দ",
-    "text": "দুটি বিমানবন্দরে কাস্টমস কর্মীরা ১ কোটি ৩৯ লক্ষ টাকার সোনা ও আইফোন জব্দ করেছেন।"
+    "title": "টেকক্রাঞ্চ ডিসরাপ্টে স্টার্টআপ প্রতিযোগিতা",
+    "text": "বিশটি স্টার্টআপ উদ্ভাবনী পুরস্কারের জন্য টেকক্রাঞ্চ ডিসরাপ্টে প্রতিযোগিতা করছে। প্রযুক্তি পেশাদাররা এটি নিয়ে আগ্রহী।"
    }
   },
   {
-   "id": "m7ehib",
-   "tag": "#TaxEvasion",
+   "id": "1fs0ulg",
+   "tag": "#Education",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "High Court on Dr Yunus institution",
-    "text": "High Court has described Dr Yunus's institution as a textbook case of tax evasion."
+    "title": "Class I lottery, II-IX written tests",
+    "text": "Bangladesh has announced new admission rules: Class I by lottery, Classes II–IX by written tests. Parents and students are discussing the changes."
    },
    "bn": {
-    "title": "ডক্টর ইউনাস প্রতিষ্ঠান নিয়ে হাইকোর্ট",
-    "text": "হাইকোর্ট ডক্টর ইউনাসের প্রতিষ্ঠানকে ট্যাক্স ফাঁকি দেওয়ার পাঠ্যপুস্তকের উদাহরণ বলেছেন।"
+    "title": "শ্রেণী এক লটারি, দুই-নয় পরীক্ষা",
+    "text": "বাংলাদেশ নতুন ভর্তির নিয়ম ঘোষণা করেছে: শ্রেণী এক লটারির মাধ্যমে, দুই-নয় শিক্ষিত পরীক্ষার মাধ্যমে। অভিভাবক ও শিক্ষার্থীরা এটি নিয়ে আলোচনা করছেন।"
    }
   }
  ],
