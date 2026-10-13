@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-13T00:33:45.346Z",
+ "updatedAt": "2026-10-13T07:39:38.947Z",
  "burning": [
   {
-   "id": "hf95jn",
+   "id": "1gez00f",
    "heat": 5,
    "why": {
-    "en": "Houthi attacks on Saudi airport grounding flights and affecting 26+ Bangladeshis—multiple outlets, high impact on travel.",
-    "bn": "হাউথি হামলা সৌদি বিমানবন্দরে, ২৬+ বাংলাদেশি আটকে—মাল্টিপল সোর্স, ভ্রমণে বড় প্রভাব।"
+    "en": "Major international conflict story with significant human impact.",
+    "bn": "আন্তর্জাতিক সংঘাত এবং মানবিক ক্ষতির বড় খবর।"
    },
    "rank": 1
   },
   {
-   "id": "it905o",
+   "id": "1ohgv2o",
    "heat": 5,
    "why": {
-    "en": "Dengue deaths surge to 303 with cases near 100,000—urgent health crisis dominating attention.",
-    "bn": "ডেঙ্গু মৃত্যু ৩০৩-এ, কেসের সংখ্যা ১ লক্ষের কাছাকাছি—জরুরি স্বাস্থ্য সংকট।"
+    "en": "Major fire in Dhaka's busy commercial hub affects many.",
+    "bn": "ঢাকার ব্যস্ত বাণিজ্য কেন্দ্রে বড় আগুন, অনেকে ক্ষতিগ্রস্ত।"
    },
    "rank": 2
   },
   {
-   "id": "1gez00f",
+   "id": "hf95jn",
    "heat": 4,
    "why": {
-    "en": "Gaza conflict ongoing with fresh Israeli strikes—persistent global news focus.",
-    "bn": "গাজা দ্বন্দ্ব, ইসরায়েলি হামলা চলছে—ক্রমাগত গ্লোবাল খবর।"
+    "en": "Riyadh airport closure directly disrupts Bangladesh travel plans.",
+    "bn": "রিয়াদ বিমানবন্দর বন্ধ বাংলাদেশের যাত্রীদের সরাসরি প্রভাবিত করে।"
    },
    "rank": 3
   },
   {
-   "id": "1cowhjj",
+   "id": "14kdx7p",
    "heat": 4,
    "why": {
-    "en": "Bangladesh-Algeria gas deal amid Middle East energy crunch—economic policy response trending.",
-    "bn": "বাংলাদেশ-আলজেরিয়া গ্যাস চুক্তি, মধ্যপ্রাচ্যের শক্তি সংকটে—অর্থনৈতিক সাড়া।"
+    "en": "University crisis with VC locked in office for 15 hours.",
+    "bn": "বিশ্ববিদ্যালয় সংকট, কুলপতি অফিসে ১৫ ঘণ্টা আটকে থাকেন।"
    },
    "rank": 4
   },
   {
-   "id": "1kuoso7",
-   "heat": 3,
+   "id": "1gog267",
+   "heat": 4,
    "why": {
-    "en": "Secretariat security tightened with nine new measures—domestic security policy update.",
-    "bn": "সেক্রেটারিয়েট নিরাপত্তা নয়টি নতুন ব্যবস্থায় কঠোর—দেশীয় নীতি।"
+    "en": "Health emergency with children dying of measles-like illness.",
+    "bn": "স্বাস্থ্য জরুরী অবস্থা, শিশুরা হামের মতো রোগে মারা যাচ্ছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "hf95jn",
-   "tag": "#RiyadhUnderAttack",
+   "id": "1vcq71p",
+   "tag": "#CricketNews",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "Houthis Strike Saudi Airport",
-    "text": "Riyadh airport hit by missile attack, forcing closure and flight suspensions. At least 26 Bangladeshis identified among those affected by the strike."
+    "title": "Nissanka returns for Pakistan Test",
+    "text": "Sri Lankan batter Nissanka is back in the squad for the upcoming Test series in Pakistan."
    },
    "bn": {
-    "title": "রিয়াদ বিমানবন্দর আক্রমণ",
-    "text": "হাউথিদের মিসাইল হামলায় রিয়াদ বিমানবন্দর বন্ধ, ফ্লাইট স্থগিত। কমপক্ষে ২৬ জন বাংলাদেশি এতে প্রভাবিত।"
+    "title": "পাকিস্তান টেস্টে নিসাংকা ফিরছেন",
+    "text": "শ্রীলংকার ব্যাটার নিসাংকা পাকিস্তানের আসন্ন টেস্ট সিরিজে দলে ফিরছেন।"
    }
   },
   {
-   "id": "it905o",
-   "tag": "#DengueAlert",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Dengue Crisis Escalates",
-    "text": "Deaths from dengue fever have reached 303 with case numbers approaching 100,000. The outbreak is rapidly becoming a public health emergency."
-   },
-   "bn": {
-    "title": "ডেঙ্গু সংকট গভীর হচ্ছে",
-    "text": "ডেঙ্গুতে মৃত্যু ৩০৩ জন, কেস প্রায় ১ লক্ষ। দ্রুত জনস্বাস্থ্য জরুরি পরিস্থিতি হয়ে উঠছে।"
-   }
-  },
-  {
-   "id": "245c3t",
-   "tag": "#MetaAI",
+   "id": "1njusxs",
+   "tag": "#CustomsSeizure",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Meta's New AI Model Launches",
-    "text": "Meta has unveiled Muse Wonder, its first frontier AI model, marking a major push in artificial intelligence development."
+    "title": "Gold and iPhones seized at airports",
+    "text": "Customs officials seized Tk1.39 crore worth of gold and iPhones at two airports in recent operations."
    },
    "bn": {
-    "title": "মেটার নতুন এআই মডেল",
-    "text": "মেটা তার প্রথম ফ্রন্টিয়ার এআই মডেল Muse Wonder চালু করেছে, এআই উন্নয়নে বড় পদক্ষেপ।"
+    "title": "বিমানবন্দরে সোনা ও আইফোন জব্দ",
+    "text": "দুটি বিমানবন্দরে কাস্টমস কর্মীরা ১ কোটি ৩৯ লক্ষ টাকার সোনা ও আইফোন জব্দ করেছেন।"
    }
   },
   {
-   "id": "1kuoso7",
-   "tag": "#SecurityTightened",
+   "id": "m7ehib",
+   "tag": "#TaxEvasion",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Secretariat Gets New Security",
-    "text": "Bangladesh government has implemented nine new security measures at the Secretariat to enhance safety and access control."
+    "title": "High Court on Dr Yunus institution",
+    "text": "High Court has described Dr Yunus's institution as a textbook case of tax evasion."
    },
    "bn": {
-    "title": "সেক্রেটারিয়েটে নিরাপত্তা বাড়ানো",
-    "text": "বাংলাদেশ সরকার সেক্রেটারিয়েটে নয়টি নতুন নিরাপত্তা ব্যবস্থা চালু করেছে।"
+    "title": "ডক্টর ইউনাস প্রতিষ্ঠান নিয়ে হাইকোর্ট",
+    "text": "হাইকোর্ট ডক্টর ইউনাসের প্রতিষ্ঠানকে ট্যাক্স ফাঁকি দেওয়ার পাঠ্যপুস্তকের উদাহরণ বলেছেন।"
    }
   }
  ],
