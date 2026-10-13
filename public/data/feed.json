@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-13T15:54:18.460Z",
+ "updatedAt": "2026-10-13T21:11:38.058Z",
  "items": [
+  {
+   "id": "9ysuyx",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/13/London-cat-steals-dog-food-Ring-camera/1301791914101/",
+   "image": "https://cdnph.upi.com/ph/st/th/1301791914101/2026/i/17919142714138/v1.5/London-cat-sneaks-into-neighbors-house-eats-dogs-dinner.jpg",
+   "published": "2026-10-13T17:58:22.000Z",
+   "added": "2026-10-13T21:11:38.057Z",
+   "origTitle": "Watch: London cat sneaks into neighbor's house, eats dog's dinner",
+   "en": {
+    "title": "Sneaky London cat raids neighbor's house for free dog dinner",
+    "summary": "A mischievous cat in London was caught on home security camera breaking into a neighbor's house and helping itself to the resident dog's dinner. The footage shows the uninvited feline feast in action. Nothing like a free meal next door."
+   },
+   "bn": {
+    "title": "লন্ডনে বেনামি বিড়াল প্রতিবেশীর বাড়িতে ঢুকে কুকুরের খাবার খেয়েছে",
+    "summary": "লন্ডনে একটি চতুর বিড়াল প্রতিবেশীর বাড়িতে ঢুকে সেখানকার কুকুরের খাবার খেয়ে গেছে। নিরাপত্তা ক্যামেরায় এই মজার দৃশ্য ধরা পড়েছে। বিড়ালের কাছে বিনামূল্যের খাবার পাওয়া বড় লাভ।"
+   }
+  },
+  {
+   "id": "kbu3mz",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/india/9jl4bkditr",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-13/2lfjn11e/00-2.jpg",
+   "published": "2026-10-13T20:13:08.000Z",
+   "added": "2026-10-13T21:11:38.057Z",
+   "origTitle": "মমতার ওপর ছুরি নিয়ে হামলার চেষ্টার অভিযোগ, পুলিশ বলছে ‘বাগবিতণ্ডা’",
+   "en": {
+    "title": "Woman arrested after alleged knife attack on Bengal opposition leader",
+    "summary": "A woman was arrested in Kolkata on Tuesday evening after allegedly attempting to attack Mamata Banerjee with a knife as she left her home. Police described the incident as a dispute rather than a serious assault. The woman, identified as a civic volunteer, claimed to be Banerjee's niece."
+   },
+   "bn": {
+    "title": "মমতা বন্দ্যোপাধ্যায়ের বিরুদ্ধে ছুরি হামলার অভিযোগ, এক নারী গ্রেপ্তার",
+    "summary": "মঙ্গলবার সন্ধ্যায় কলকাতায় মমতা বন্দ্যোপাধ্যায়ের উপর ছুরি নিয়ে হামলার চেষ্টার ঘটনায় এক নারীকে গ্রেপ্তার করা হয়েছে। পুলিশ ঘটনাটিকে 'বাগবিতণ্ডা' বা ঝগড়া-ঝামেলা হিসেবে বর্ণনা করেছে। গ্রেপ্তারকৃত নারী একজন সিভিক ভলান্টিয়ার এবং নিজেকে মমতার ভাগনি বলে দাবি করেছেন।"
+   }
+  },
+  {
+   "id": "6h9vk7",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/bangladesh-pledges-faster-project-delivery-secure-10b-wb-loans-1572111",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/wb_bd.jpg",
+   "published": "2026-10-13T19:15:00.000Z",
+   "added": "2026-10-13T21:11:28.831Z",
+   "origTitle": "Bangladesh pledges faster project delivery to secure $10b in WB loans",
+   "en": {
+    "title": "Bangladesh speeds up projects to lock in $10b World Bank loans",
+    "summary": "Bangladesh pledged to cut project approval time from 18 months to eight, aiming for five months, to secure $10 billion in additional World Bank loans over three years. Finance Minister Amir Khosru Mahmud Chowdhury said implementation timelines will drop from seven years to five. The World Bank agreed to finalize its partnership framework by June 2027."
+   },
+   "bn": {
+    "title": "বাংলাদেশ প্রকল্প দ্রুততর করছে ১০ বিলিয়ন ডলার লোন পেতে",
+    "summary": "বাংলাদেশ বিশ্বব্যাংকের কাছ থেকে তিন বছরে ১০ বিলিয়ন ডলার অতিরিক্ত ঋণ নিতে প্রকল্প অনুমোদন সময় ১৮ মাস থেকে ৮ মাসে কমাবে বলে প্রতিশ্রুতি দিয়েছে। অর্থমন্ত্রী বলেছেন বাস্তবায়ন সময় সাত বছর থেকে পাঁচ বছরে কমবে। বিশ্বব্যাংক জুন ২০২৭ সালের মধ্যে অংশীদারিত্ব কাঠামো চূড়ান্ত করতে সম্মত হয়েছে।"
+   }
+  },
+  {
+   "id": "vegvk8",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791924374.jpg?resize=1920%2C1080&quality=80",
+   "published": "2026-10-13T20:46:22.000Z",
+   "added": "2026-10-13T21:11:28.831Z",
+   "origTitle": "Tupac Shakur killer sentenced to 40 years in prison",
+   "en": {
+    "title": "Tupac Shakur's killer sentenced to 40 years in prison",
+    "summary": "Duane 'Keffe D' Davis was sentenced on Tuesday to 40 years to life in prison for orchestrating the 1996 murder of rap icon Tupac Shakur. The sentencing closes a decades-old case in hip-hop history."
+   },
+   "bn": {
+    "title": "টুপাক শাকুরের খুনি ৪০ বছরের জেল খেল",
+    "summary": "ডুয়েন 'কেফে ডি' ডেভিস মঙ্গলবার ৪০ বছর থেকে আজীবনের সাজা পেয়েছেন র‍্যাপ তারকা টুপাক শাকুরের ১৯৯৬ সালের খুন সংগঠিত করার জন্য। এটি হিপ-হপ ইতিহাসের একটি দশক পুরানো কেস বন্ধ করে।"
+   }
+  },
+  {
+   "id": "slm3a9",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
+   "published": "2026-10-13T20:59:11.000Z",
+   "added": "2026-10-13T21:11:28.831Z",
+   "origTitle": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+   "en": {
+    "title": "FBI arrests OpenAI employee over hidden office recording device",
+    "summary": "An OpenAI employee, Saudi national Abdulrahman Alfozan, was arrested on October 9 after the company discovered a hidden recording device in an executive conference room. The device had advanced encryption and audio monitoring capabilities. Alfozan started at OpenAI in July 2025 and worked on the product team. OpenAI said there's no indication customer data or code was stolen."
+   },
+   "bn": {
+    "title": "ওপেনএআই কর্মচারী লুকানো রেকর্ডিং ডিভাইসের জন্য গ্রেফতার",
+    "summary": "সৌদি নাগরিক আবদুল রহমান আলফোজান ওপেনএআইর কনফারেন্স রুমে লুকানো রেকর্ডিং ডিভাইস রেখে ১০ অক্টোবর গ্রেফতার হয়েছেন। ডিভাইসটি উন্নত এনক্রিপশন এবং অডিও মনিটরিং ক্ষমতা সম্পন্ন ছিল। আলফোজান জুলাই ২০২৫ থেকে ওপেনএআইতে কাজ করছিলেন। কোম্পানি বলেছে কাস্টমার ডেটা চুরির কোনো প্রমাণ নেই।"
+   }
+  },
+  {
+   "id": "1sns8jw",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-13T20:46:06.000Z",
+   "added": "2026-10-13T21:11:28.831Z",
+   "origTitle": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "en": {
+    "title": "Pope Leo XIV undergoes surgery after lung cancer diagnosis",
+    "summary": "Pope Leo XIV, 71, underwent a 90-minute surgery at Rome's Gemelli Hospital on Tuesday to remove the lower lobe of his right lung after being diagnosed with lung adenocarcinoma. The lump was discovered during routine checks and the Pope announced the operation himself on Sunday. His schedule is cleared until October 20 for recovery, and further tests are underway to check if cancer spread."
+   },
+   "bn": {
+    "title": "পোপ লিও চতুর্দশ ফুসফুসের ক্যান্সার অপারেশনে সফল",
+    "summary": "৭১ বছর বয়সী পোপ লিও চতুর্দশ মঙ্গলবার রোমের জেমেল্লি হাসপাতালে ৯০ মিনিটের অপারেশন করিয়েছেন ফুসফুসের নিচের অংশ অপসারণের জন্য। লাম্প নিয়মিত চেকের সময় পাওয়া গিয়েছিল এবং পোপ নিজে রবিবার এই সংবাদ ঘোষণা করেছিলেন। আরও পরীক্ষা চলছে ক্যান্সার ছড়িয়েছে কিনা তা জানতে।"
+   }
+  },
+  {
+   "id": "142adzr",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.co.uk/bengali/live/ck1exg00z4e1t?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7663/live/e80f4000-c6e5-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-13T21:11:28.831Z",
+   "added": "2026-10-13T21:11:28.831Z",
+   "origTitle": "অধ্যাপক ইউনূসকে হয়রানির প্রতিবাদে সাবেক ১২ জন উপদেষ্টার বিবৃতি",
+   "en": {
+    "title": "Twelve ex-advisors protest harassment of Professor Yunus",
+    "summary": "Twelve former advisors of Bangladesh's interim government have issued a statement protesting the harassment of Chief Advisor Muhammad Yunus at an airport in New York. The Foreign Ministry said it contacted the US about taking legal action over the incident. The advisors expressed support for Yunus's work during the interim period."
+   },
+   "bn": {
+    "title": "অধ্যাপক ইউনূসের হয়রানির বিরুদ্ধে প্রতিবাদ জানিয়েছেন ১২ জন সাবেক উপদেষ্টা",
+    "summary": "বাংলাদেশের অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা মুহাম্মদ ইউনূসকে নিউইয়র্কের বিমানবন্দরে হেনস্তার ঘটনায় ১২ জন সাবেক উপদেষ্টা প্রতিবাদ জানিয়েছেন। পররাষ্ট্র মন্ত্রণালয় যুক্তরাষ্ট্রের সঙ্গে যোগাযোগ করে আইনি পদক্ষেপ নিতে বলেছে। সাবেক উপদেষ্টারা অন্তর্বর্তী সময়ে ইউনূসের কাজের প্রশংসা করেছেন।"
+   }
+  },
   {
    "id": "rnf4qn",
    "section": "bhabna",
@@ -1715,204 +1869,6 @@
    "bn": {
     "title": "দিল্লির বিক্ষোভে গ্রেপ্তারের বিষয়ে জাতিসংঘের উদ্বেগ খারিজ করল ভারত",
     "summary": "জাতিসংঘের মানবাধিকার অফিসের উদ্বেগ খারিজ করেছে ভারত যে দিল্লিতে নির্বাচন কমিশনের বিরুদ্ধে বিক্ষোভে গণ গ্রেপ্তার হচ্ছে। সরকার বলেছে সংবিধানে শান্তিপূর্ণ বিক্ষোভের অধিকার রয়েছে, তবে জনশৃঙ্খলার জন্য যুক্তিসঙ্গত বিধিনিষেধ আরোপ করা যায়। ভারত জাতিসংঘকে সারা বিশ্বের বিক্ষোভেও সমান নজর দিতে বলেছে।"
-   }
-  },
-  {
-   "id": "a4xy6l",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14MGMzQV8wS0NGdEs0aHRQamNSSzBIR0NMeTdUalotbVkyWjN2dXZTelA5MUZySG9Gd0VVR1hSRnFqSDd3VGpkblA1TlVwM0J5MW11N3pGcnZGRDQ?oc=5",
-   "image": null,
-   "published": "2026-10-10T13:46:00.000Z",
-   "added": "2026-10-10T18:30:07.665Z",
-   "origTitle": "বিমানের কক্সবাজার ফ্লাইটে ল্যান্ডিং গিয়ারে সমস্যা, অবতরণ নিরাপদেই",
-   "en": {
-    "title": "Plane lands safely in Cox's Bazar despite landing gear issue",
-    "summary": "A plane flying to Cox's Bazar experienced a problem with its landing gear but touched down safely. The aircraft managed to land without incident despite the technical issue."
-   },
-   "bn": {
-    "title": "কক্সবাজারে বিমান নিরাপদে অবতরণ, ল্যান্ডিং গিয়ারে ছিল সমস্যা",
-    "summary": "কক্সবাজারের দিকে যাওয়া একটি বিমানে ল্যান্ডিং গিয়ারে সমস্যা দেখা দিয়েছিল। তবে বিমানটি নিরাপদে অবতরণ করতে সক্ষম হয়েছে।"
-   }
-  },
-  {
-   "id": "xgmr2d",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/capital/asrakpxsmo",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-10/hpesqv5e/abdul-moyeen-khan.jpeg",
-   "published": "2026-10-10T18:09:15.000Z",
-   "added": "2026-10-10T18:30:07.665Z",
-   "origTitle": "কোনো এক উপজেলায় বিশেষ সুবিধা নয়, উন্নয়ন হবে সুষম: স্থানীয় সরকারমন্ত্রী",
-   "en": {
-    "title": "Government pledges balanced development across all 503 upazilas",
-    "summary": "Local Government Minister Abdul Moin Khan said the government will ensure even development across all 503 upazilas without favoring one region over another. He stressed that no upazila should get benefits unavailable to neighboring areas. Officials and elected representatives must prioritize ordinary people's interests and implement the Prime Minister's grassroots-focused development plan."
-   },
-   "bn": {
-    "title": "সব উপজেলায় সমান উন্নয়ন নিশ্চিত করবে সরকার",
-    "summary": "স্থানীয় সরকার মন্ত্রী আবদুল মঈন খান বলেছেন, সরকার ৫০৩টি উপজেলার মানুষের স্বার্থ রেখে সুষম উন্নয়ন নিশ্চিত করবে। কোনো একটি উপজেলার জন্য এমন সুবিধা দেওয়া হবে না, যা পাশের উপজেলার মানুষ পাবে না। তিনি বলেন, সরকারি কর্মকর্তা ও জনপ্রতিনিধিদের প্রধান লক্ষ্য সাধারণ মানুষের স্বার্থ রক্ষা করা।"
-   }
-  },
-  {
-   "id": "t84uqh",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/international/india/n0hwg570cj",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-10/yx0jg28e/637495-01-02.jpg",
-   "published": "2026-10-10T16:41:26.000Z",
-   "added": "2026-10-10T18:29:59.612Z",
-   "origTitle": "India 'cockroach' movement says thousands detained during major protest in capital",
-   "en": {
-    "title": "India detains thousands protesting election commission misconduct allegations",
-    "summary": "Indian police detained Cockroach Janta Party founder Abhijeet Dipke and thousands of protesters in New Delhi on Saturday opposing Election Commission chief Gyanesh Kumar. The CJP said more than 15,000 were detained before reaching Jantar Mantar. Police blocked the main protest site as opposition parties and critics alleged the commission's voter-roll revision could disenfranchise millions and benefit PM Modi's party."
-   },
-   "bn": {
-    "title": "ভারত নির্বাচন কমিশনের দুর্বৃত্তি বিরোধী প্রতিবাদকারীদের গ্রেপ্তার",
-    "summary": "ভারতীয় পুলিশ নতুন দিল্লিতে শনিবার Cockroach Janta Party প্রতিষ্ঠাতা Abhijeet Dipke এবং নির্বাচন কমিশন প্রধান জ্ঞানেশ কুমারের বিরোধী হাজার হাজার প্রতিবাদকারীকে গ্রেপ্তার করেছে। CJP বলেছে ১৫,০০০ এর বেশি জনতা যন্তর মন্তরে পৌঁছানোর আগেই গ্রেপ্তার হয়েছে। বিরোধী পক্ষ দাবি করেছে কমিশনের ভোটার তালিকা সংশোধন লক্ষ লক্ষকে বঞ্চিত করতে পারে এবং প্রধানমন্ত্রী মোদির দলকে সুবিধা দিতে পারে।"
-   }
-  },
-  {
-   "id": "1rt5251",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6289.HEIC.jpg?resize=900,1200",
-   "published": "2026-10-10T17:00:00.000Z",
-   "added": "2026-10-10T18:29:59.612Z",
-   "origTitle": "Petra Power looks to modernize energy for data centers and defense vehicles",
-   "en": {
-    "title": "Petra Power's fuel cells offer energy boost for AI data centers",
-    "summary": "Petra Power, founded in 2017, makes solid oxide fuel cells that convert fuel like natural gas into electricity without burning it. The cells are more efficient than traditional power sources and produce lower emissions. Founder Aaron Goodman says the technology strips electrons directly from fuel in one step, cutting energy costs and physical footprint for data centers and large vehicles."
-   },
-   "bn": {
-    "title": "Petra Power এর ফুয়েল সেল AI ডেটা সেন্টারের শক্তি বৃদ্ধি",
-    "summary": "২০১৭ সালে প্রতিষ্ঠিত Petra Power এমন ফুয়েল সেল তৈরি করে যা প্রাকৃতিক গ্যাসকে না জ্বালিয়ে বিদ্যুৎ রূপান্তরিত করে। এই সেল ঐতিহ্যবাহী শক্তির উৎসের চেয়ে বেশি দক্ষ এবং কম নির্গমন তৈরি করে। প্রতিষ্ঠাতা বলেছেন প্রযুক্তি জ্বালানি থেকে সরাসরি ইলেকট্রন বের করে একটি ধাপে শেষ করে এবং শক্তি খরচ কমায়।"
-   }
-  },
-  {
-   "id": "1pulouu",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26056779376422-1791653467.jpg?resize=1920%2C1440",
-   "published": "2026-10-10T17:48:45.000Z",
-   "added": "2026-10-10T18:29:59.612Z",
-   "origTitle": "Nine killed in shooting in US state of Pennsylvania, including two children",
-   "en": {
-    "title": "Nine killed in Pennsylvania shooting, including two children",
-    "summary": "Nine people, including two children, were killed in a shooting in Erie, Pennsylvania on Friday. Police say the suspected shooter was among the dead. Police arrived around 5:00pm after reports of shots fired and found victims in the street and inside a home. Erie Police Chief Rick Lorah said he had not seen such devastation in his 28-plus years of service."
-   },
-   "bn": {
-    "title": "পেনসিলভেনিয়ায় গুলির ঘটনায় নয় জন মারা গেছেন",
-    "summary": "পেনসিলভেনিয়ার এরিতে শুক্রবার একটি গুলির ঘটনায় দুটি শিশু সহ নয় জন নিহত হয়েছেন। সন্দেহভাজন অপরাধী নিহতদের মধ্যে একজন ছিল। সন্ধ্যা পাঁচটার দিকে পুলিশ আসে এবং রাস্তায় ও বাড়ির ভিতরে শিকার খুঁজে পায়। এরি পুলিশ প্রধান বলেছেন এই ধরনের ধ্বংসযজ্ঞ তার ২৮ বছরের ক্যারিয়ারে দেখেননি।"
-   }
-  },
-  {
-   "id": "1ddambl",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-10T18:24:03.000Z",
-   "added": "2026-10-10T18:29:59.612Z",
-   "origTitle": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-   "en": {
-    "title": "Trump says Ukraine needs new president after Zelensky criticizes diesel deal",
-    "summary": "US President Trump said Ukraine should get a new leader after President Zelensky condemned a US-Russia agreement to suspend sanctions on Russian diesel exports until April 7. Zelensky warned the deal would give Moscow funds to continue its war. Trump argued the deal prevents global fuel problems and blamed Zelensky for targeting Russian refineries instead of pursuing peace negotiations."
-   },
-   "bn": {
-    "title": "ট্রাম্প বলেছেন ইউক্রেনের নতুন রাষ্ট্রপতি দরকার",
-    "summary": "আমেরিকার রাষ্ট্রপতি ট্রাম্প বলেছেন ইউক্রেনের নতুন নেতা দরকার আফটার জেলেনস্কি আমেরিকা-রাশিয়ার রুসো ডিজেলের উপর নিষেধাজ্ঞা স্থগিত রাখার চুক্তি সমালোচনা করেছেন। জেলেনস্কি সতর্ক করেছেন যে এই চুক্তি মস্কোকে যুদ্ধ অব্যাহত রাখার জন্য তহবিল দেবে। ট্রাম্প দাবি করেছেন যে চুক্তি বৈশ্বিক জ্বালানি সমস্যা রোধ করে এবং জেলেনস্কিকে রাশিয়ান রিফাইনারি লক্ষ্য করার জন্য দোষ দিয়েছেন।"
-   }
-  },
-  {
-   "id": "1qd31mz",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/energy/ocean-aid-services-arrange-foreign-financing-50m-plus-power-projects-1568616",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/oasl.jpg",
-   "published": "2026-10-10T18:15:00.000Z",
-   "added": "2026-10-10T18:29:59.612Z",
-   "origTitle": "Ocean Aid Services to arrange foreign financing for $50m-plus power projects",
-   "en": {
-    "title": "Chattogram firm bridges Bangladesh energy projects with foreign financing",
-    "summary": "Ocean Aid Services Ltd, a Chattogram-based company, is arranging international financing for Bangladesh's energy projects worth $50 million or more. The company connects foreign investors and financiers with bankable projects under an EPC+F model, targeting ventures with two-to-three-year timelines. OASL aims to open dialogue with government ministries to identify priority projects for clean energy and infrastructure development."
-   },
-   "bn": {
-    "title": "চট্টগ্রামের ফার্ম বাংলাদেশ শক্তি প্রকল্পে বিদেশী অর্থায়ন সংযোগ স্থাপন",
-    "summary": "চট্টগ্রামভিত্তিক Ocean Aid Services Ltd বাংলাদেশের ৫০ মিলিয়ন ডলার বা তার বেশি মূল্যের শক্তি প্রকল্পের জন্য আন্তর্জাতিক অর্থায়ন সংযোজন করছে। কোম্পানি বিদেশী বিনিয়োগকারী ও অর্থদাতাদের ব্যাংকযোগ্য প্রকল্পের সাথে যুক্ত করে। OASL সরকারি মন্ত্রণালয়ের সাথে কথোপকথন খুলতে লক্ষ্য রেখেছে পরিচ্ছন্ন শক্তি এবং অবকাঠামো উন্নয়নের অগ্রাধিকার প্রকল্প চিহ্নিত করতে।"
-   }
-  },
-  {
-   "id": "1te2k36",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/business/money-and-investment/973680/%E0%A6%9A%E0%A7%80%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%93-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7",
-   "image": null,
-   "published": "2026-10-10T18:25:02.000Z",
-   "added": "2026-10-10T18:29:59.612Z",
-   "origTitle": "চীন, কোরিয়া ও জাপানের বিনিয়োগকারীদের জন্য বিশেষ ডেস্ক চালু",
-   "en": {
-    "title": "Bangladesh opens special investment desks for China, Korea, Japan",
-    "summary": "Bangladesh Export Processing Zones Authority (BEPZA) launched three specialized country desks on October 10 to fast-track services for Chinese, South Korean, and Japanese investors. The desks were inaugurated at a 'Meet the Investors' event in Dhaka attended by hundreds of local and foreign investors. The move aims to attract more foreign direct investment through smoother operations."
-   },
-   "bn": {
-    "title": "চীন, কোরিয়া ও জাপানের বিনিয়োগকারীদের জন্য বিশেষ ডেস্ক খোলা হয়েছে",
-    "summary": "বেপজা অক্টোবর ১০ তারিখে চীন, দক্ষিণ কোরিয়া এবং জাপানের বিনিয়োগকারীদের দ্রুত সেবা দিতে তিনটি বিশেষ ডেস্ক চালু করেছে। ঢাকায় অনুষ্ঠিত 'মিট দ্য ইনভেস্টরস' অনুষ্ঠানে এই ডেস্কগুলির উদ্বোধন করা হয়েছে যেখানে শতাধিক দেশি-বিদেশি বিনিয়োগকারী যোগ দিয়েছেন। এটি সহজতর কার্যক্রমের মাধ্যমে আরও বিদেশি সরাসরি বিনিয়োগ আকর্ষণের লক্ষ্যে করা হয়েছে।"
-   }
-  },
-  {
-   "id": "gs6rnc",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cmx23qjxezk9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83e4/live/0c7c0340-c4b3-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-10T15:28:02.000Z",
-   "added": "2026-10-10T18:29:59.612Z",
-   "origTitle": "দিল্লির 'দুর্গে' বিক্ষোভকারী দেখলেই আটক, 'দ্বিতীয় যন্তর মন্তর' হতেই দিল না পুলিশ,আটক অন্তত তিন হাজার",
-   "en": {
-    "title": "Delhi police arrest thousands as protesters march against election chief",
-    "summary": "At least 3,000 people were detained in Delhi on October 10 as police blocked demonstrations against Election Commission chief Gyanesh Kumar at Jantar Mantar. A counter-protest by supporters chanting pro-police slogans occurred simultaneously, but police treated the two groups differently—removing anti-commission protesters by force while requesting pro-police crowds disperse. The area was heavily fortified with multiple security checkpoints."
-   },
-   "bn": {
-    "title": "নির্বাচন কমিশনার বিরুদ্ধে বিক্ষোভে হাজার হাজার গ্রেপ্তার",
-    "summary": "অক্টোবরের ১০ তারিখে দিল্লিতে নির্বাচন কমিশনের প্রধান জ্ঞানেশ কুমারের বিরুদ্ধে প্রতিবাদ জানাতে যন্তর মন্তরে কমপক্ষে ৩ হাজার মানুষকে আটক করেছে পুলিশ। একই সময়ে পুলিশ সমর্থক প্রতিবাদীরাও স্লোগান দিচ্ছিল, কিন্তু পুলিশ দুটি দলের সাথে আলাদা আচরণ করেছে—প্রথম দলকে জোর করে সরিয়েছে, দ্বিতীয় দলকে অনুরোধ করে। এলাকায় কঠোর নিরাপত্তা ব্যবস্থা ছিল।"
    }
   }
  ]

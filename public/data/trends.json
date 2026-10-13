@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-13T15:54:35.023Z",
+ "updatedAt": "2026-10-13T21:11:53.279Z",
  "burning": [
   {
-   "id": "hf95jn",
+   "id": "1ohgv2o",
    "heat": 5,
    "why": {
-    "en": "Riyadh airport closure and Bangladesh flight suspension amid regional crisis is dominating news and social signals.",
-    "bn": "রিয়াদ বিমানবন্দর বন্ধ এবং বাংলাদেশের ফ্লাইট সাসপেন্ড হওয়ার খবর সবচেয়ে বেশি আলোচিত হচ্ছে।"
+    "en": "Major fire in Dhaka's busy Chawkbazar market destroyed multiple warehouses, immediate local impact.",
+    "bn": "ঢাকার ব্যস্ত চকবাজারে বড় আগুন, একাধিক গুদাম ধ্বংস, সরাসরি স্থানীয় প্রভাব।"
    },
    "rank": 1
   },
   {
-   "id": "1vwgj44",
+   "id": "hf95jn",
    "heat": 5,
    "why": {
-    "en": "BBC report on widespread sexual abuse at Islamic seminaries is a major investigative story with serious national implications.",
-    "bn": "বাংলাদেশের ইসলামিক শিক্ষা প্রতিষ্ঠানে ব্যাপক নির্যাতনের বিষয়ে বিবিসির রিপোর্ট গুরুত্বপূর্ণ তদন্তকর্ম।"
+    "en": "Riyadh airport closed after Houthi attack with direct fallout on Bangladesh flights, travel crisis.",
+    "bn": "হুথি হামলায় রিয়াদ বিমানবন্দর বন্ধ, বাংলাদেশি ফ্লাইট স্থগিত, যাত্রা সংকট।"
    },
    "rank": 2
   },
   {
-   "id": "1ohgv2o",
+   "id": "6h9vk7",
    "heat": 4,
    "why": {
-    "en": "Major fire at Chawkbazar market destroying multiple warehouses is significant breaking news for Dhaka.",
-    "bn": "ঢাকার চকবাজারে বড় আগুনে সাতটি গুদাম ধ্বংস হওয়ার খবর গুরুত্বপূর্ণ।"
+    "en": "Bangladesh accelerating major World Bank loan projects, significant economic policy story.",
+    "bn": "বাংলাদেশ বিশ্বব্যাংক ঋণ প্রকল্প ত্বরান্বিত করছে, গুরুত্বপূর্ণ অর্থনীতি খবর।"
    },
    "rank": 3
   },
   {
-   "id": "1vcq71p",
+   "id": "1vwgj44",
    "heat": 4,
    "why": {
-    "en": "Nissanka's return to Sri Lanka Test squad is trending heavily on cricket social signals across platforms.",
-    "bn": "নিসান্কার শ্রীলংকা টেস্ট দলে ফিরে আসা ক্রিকেট ভক্তদের মধ্যে ব্যাপক আলোচনা সৃষ্টি করেছে।"
+    "en": "Report on widespread sexual abuse in Bangladesh Islamic seminaries, serious institutional issue.",
+    "bn": "বাংলাদেশের ইসলামি মাদ্রাসায় ব্যাপক যৌন নিরাপত্তা, গুরুতর প্রাতিষ্ঠানিক সমস্যা।"
    },
    "rank": 4
   },
   {
-   "id": "2tqxnt",
-   "heat": 3,
+   "id": "14kdx7p",
+   "heat": 4,
    "why": {
-    "en": "Trump's Greece ambassador resignation over misconduct allegations is significant international political news.",
-    "bn": "ট্রাম্পের গ্রিস এলাকার রাষ্ট্রদূত দুর্নীতির অভিযোগে পদত্যাগ করেছেন, যা আন্তর্জাতিক খবর।"
+    "en": "CUET vice-chancellor locked in office by protesting students, campus tension escalates.",
+    "bn": "ছাত্র প্রতিবাদে সিইউইটি উপাচার্য অফিসে বন্দী, ক্যাম্পাস টেনশন বৃদ্ধি।"
    },
    "rank": 5
   }
@@ -50,50 +50,50 @@
  "gossip": [
   {
    "id": "1vcq71p",
-   "tag": "#CricketNews",
+   "tag": "#CricketSquad",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "Nissanka back for Pakistan Tests",
-    "text": "Sri Lanka has recalled Nissanka for their Test squad against Pakistan. The move is generating huge buzz among cricket fans tracking squad changes."
+    "title": "Sri Lanka brings back Nissanka",
+    "text": "Nissanka returns to Sri Lanka's Test squad as they prepare for Pakistan. Big recall for the upcoming series."
    },
    "bn": {
-    "title": "নিসান্কা পাকিস্তান টেস্টে ফিরছেন",
-    "text": "শ্রীলংকা পাকিস্তানের বিরুদ্ধে টেস্ট সিরিজের জন্য নিসান্কাকে দলে ফিরিয়ে নিয়েছে। ক্রিকেট ভক্তরা এই খবর নিয়ে উত্সাহী হয়ে উঠেছেন।"
+    "title": "নিসানকা ফিরে এলেন",
+    "text": "পাকিস্তানের বিপক্ষে সিরিজের আগে শ্রীলঙ্কা টেস্ট দলে নিসানকাকে ফিরিয়ে এনেছে। আসন্ন সিরিজের জন্য বড় কলব্যাক।"
+   }
+  },
+  {
+   "id": "245c3t",
+   "tag": "#AIModel",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Meta's new frontier AI",
+    "text": "Meta has launched Muse Wonder, its first frontier AI model. Tech world watching the move closely."
+   },
+   "bn": {
+    "title": "মেটার নতুন এআই মডেল",
+    "text": "মেটা তার প্রথম ফ্রন্টিয়ার এআই মডেল Muse Wonder লঞ্চ করেছে। টেক জগতে খুব গুরুত্ব পাচ্ছে।"
    }
   },
   {
    "id": "tbgcvf",
-   "tag": "#TechInnovation",
+   "tag": "#StartupLife",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "TechCrunch Disrupt startups compete",
-    "text": "Twenty startups are battling it out at TechCrunch Disrupt for an innovation prize. Tech enthusiasts are following the competition closely."
+    "title": "TechCrunch Disrupt startup battle",
+    "text": "Twenty startups competing at TechCrunch Disrupt for the innovation prize. Biggest startup showdown happening now."
    },
    "bn": {
-    "title": "টেকক্রাঞ্চ ডিসরাপ্টে স্টার্টআপ প্রতিযোগিতা",
-    "text": "বিশটি স্টার্টআপ উদ্ভাবনী পুরস্কারের জন্য টেকক্রাঞ্চ ডিসরাপ্টে প্রতিযোগিতা করছে। প্রযুক্তি পেশাদাররা এটি নিয়ে আগ্রহী।"
-   }
-  },
-  {
-   "id": "1fs0ulg",
-   "tag": "#Education",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Class I lottery, II-IX written tests",
-    "text": "Bangladesh has announced new admission rules: Class I by lottery, Classes II–IX by written tests. Parents and students are discussing the changes."
-   },
-   "bn": {
-    "title": "শ্রেণী এক লটারি, দুই-নয় পরীক্ষা",
-    "text": "বাংলাদেশ নতুন ভর্তির নিয়ম ঘোষণা করেছে: শ্রেণী এক লটারির মাধ্যমে, দুই-নয় শিক্ষিত পরীক্ষার মাধ্যমে। অভিভাবক ও শিক্ষার্থীরা এটি নিয়ে আলোচনা করছেন।"
+    "title": "স্টার্টআপ ইনোভেশন ব্যাটেল",
+    "text": "টেকক্র্যাঞ্চ ডিসরাপটে বিশটি স্টার্টআপ ইনোভেশন পুরস্কারের জন্য প্রতিযোগিতা করছে। সবচেয়ে বড় স্টার্টআপ শো চলছে এখন।"
    }
   }
  ],
