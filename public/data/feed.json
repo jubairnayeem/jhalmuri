@@ -1,6 +1,72 @@
 {
- "updatedAt": "2026-10-12T17:47:52.109Z",
+ "updatedAt": "2026-10-13T00:33:29.293Z",
  "items": [
+  {
+   "id": "14kdx7p",
+   "section": "news",
+   "cat": "campus",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/6l1dz5tgdw",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-12/wawx69x7/cuet.jpeg",
+   "published": "2026-10-12T22:58:14.000Z",
+   "added": "2026-10-13T00:33:27.862Z",
+   "origTitle": "প্রায় ১৫ ঘণ্টা ধরে অবরুদ্ধ চুয়েটের উপাচার্য",
+   "en": {
+    "title": "CUET vice-chancellor locked in office for 15 hours by protesting students",
+    "summary": "Students at Chattogram University of Engineering and Technology (CUET) locked the vice-chancellor in his office for around 15 hours on Monday to demand reinstatement of former vice-chancellor Professor Abu Sadat Muhammad Sayem. Two people inside fell ill during the lockdown; one was rushed to hospital with high blood pressure readings. Classes have been suspended for nearly three weeks as the protest continues."
+   },
+   "bn": {
+    "title": "চুয়েটের উপাচার্য ১৫ ঘণ্টা অফিসে অবরুদ্ধ",
+    "summary": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ের শিক্ষার্থীরা সোমবার উপাচার্যকে তার অফিসে প্রায় ১৫ ঘণ্টা আটকে রাখে সাবেক উপাচার্যের পুনর্বহালের দাবিতে। অবরুদ্ধ অবস্থায় দুজন অসুস্থ হয়ে পড়ে; একজনকে হাসপাতালে ভর্তি করা হয়। গত তিন সপ্তাহ ধরে শিক্ষার্থী, শিক্ষক ও কর্মচারীরা শাটডাউন কর্মসূচি চালিয়ে যাচ্ছে, ফলে ক্লাস-পরীক্ষা সব বন্ধ।"
+   }
+  },
+  {
+   "id": "245c3t",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
+   "published": "2026-10-12T17:56:56.000Z",
+   "added": "2026-10-13T00:33:27.862Z",
+   "origTitle": "Meta releases its first frontier model, Muse Wonder",
+   "en": {
+    "title": "Meta launches Muse Wonder, its first frontier AI model",
+    "summary": "Meta's Superintelligence Lab has released Muse Wonder and Muse Wonder Full, the company's first frontier AI models. They're bigger and more capable than Meta's previous Muse Spark model, with higher benchmark scores on complex tasks like coding. Wonder costs $4 per million input tokens and $20 per million output tokens through the Meta Model API."
+   },
+   "bn": {
+    "title": "মেটা লঞ্চ করেছে নতুন এআই মডেল মিউজ ওয়ান্ডার",
+    "summary": "মেটার সুপারইন্টেলিজেন্স ল্যাব মিউজ ওয়ান্ডার এবং মিউজ ওয়ান্ডার ফুল লঞ্চ করেছে, যা কোম্পানির প্রথম ফ্রন্টিয়ার এআই মডেল। এগুলো আগের মিউজ স্পার্কের চেয়ে বড় এবং শক্তিশালী, কোডিংয়ের মতো জটিল কাজে ভালো ফলাফল দেয়। ওয়ান্ডার প্রতি দশ লাখ ইনপুট টোকেনে ৪ ডলার এবং আউটপুটে ২০ ডলার খরচ হবে।"
+   }
+  },
+  {
+   "id": "1kuoso7",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/govt-takes-nine-decisions-tighten-security-secretariat-1570941",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/24/secretariat_6.jpeg",
+   "published": "2026-10-12T18:45:00.000Z",
+   "added": "2026-10-13T00:33:27.862Z",
+   "origTitle": "Govt takes nine decisions to tighten security at Secretariat",
+   "en": {
+    "title": "Government tightens Secretariat security with nine new measures",
+    "summary": "The government has rolled out nine security decisions at the Secretariat, focusing on vehicle access, visitor monitoring and building entry control. New rules include parking stickers for all vehicles, nighttime approval for anyone staying inside, and a separate registration system for foreign visitors. Police will regularly monitor compliance and take action against violations."
+   },
+   "bn": {
+    "title": "সচিবালয়ে নিরাপত্তা কঠোর করতে নয়টি সিদ্ধান্ত",
+    "summary": "সরকার সচিবালয়ে নয়টি নিরাপত্তা ব্যবস্থা নিয়েছে যা গাড়ির প্রবেশ, দর্শকদের তদারকি এবং ভবন প্রবেশনিয়ন্ত্রণের ওপর ফোকাস করে। প্রতিটি গাড়ির জন্য পার্কিং স্টিকার লাগবে, রাতে থাকার জন্য অনুমতি নিতে হবে এবং বিদেশী দর্শকদের আলাদাভাবে রেজিস্ট্রেশন করতে হবে। পুলিশ নিয়মিত মনিটরিং করবে এবং লঙ্ঘনের বিরুদ্ধে ব্যবস্থা নেবে।"
+   }
+  },
   {
    "id": "roycuv",
    "section": "news",
@@ -2001,204 +2067,6 @@
    "bn": {
     "title": "বাংলাদেশ ট্যাক্স ল'ইয়ার্স অ্যাসোসিয়েশনের নতুন নেতৃত্ব নির্বাচিত",
     "summary": "বাংলাদেশ ট্যাক্স ল'ইয়ার্স অ্যাসোসিয়েশন ২০২৬-২০২৯ মেয়াদের জন্য নতুন কমিটি নির্বাচন করেছে। রমিজউদ্দিন আহমেদ সভাপতি এবং মো. মাজম আলী খান মহাসচিব হয়েছেন। শুক্রবার ঢাকায় অনুষ্ঠিত ৩৯তম সাধারণ সভায় এই নির্বাচন ঘোষণা করা হয়। নতুন কমিটিতে ১১ জন ভাইস প্রেসিডেন্ট এবং ১১ জন ডেপুটি সেক্রেটারি জেনারেল রয়েছেন।"
-   }
-  },
-  {
-   "id": "1ejtyc3",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1557797.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423500/423573.jpg",
-   "published": "2026-10-09T18:56:51.000Z",
-   "added": "2026-10-09T20:52:09.112Z",
-   "origTitle": "Hope 102*, Rutherford 84 help West Indies pull off their highest T20I chase",
-   "en": {
-    "title": "West Indies chase down India's 249 in thrilling T20",
-    "summary": "West Indies pulled off their highest T20 international chase, scoring 250 to beat India's 249 for 5. Hope made 102 and Rutherford 84 in the chase. India's bowlers struggled without Jasprit Bumrah to defend the total."
-   },
-   "bn": {
-    "title": "ওয়েস্ট ইন্ডিজ ভারতের ২৪৯ রান ধরে ফেলেছে টি২০তে",
-    "summary": "ওয়েস্ট ইন্ডিজ টি২০ ইন্টারন্যাশনালে তাদের সর্বোচ্চ চেজ সফল করেছে। তারা ভারতের ২৪৯ রানের বিপরীতে ২৫০ রান করে জয়ী হয়েছে। হোপ ১০২ এবং রাদারফোর্ড ৮৪ রান করেছেন। জসপ্রিত বুমরাহ ছাড়া ভারতের বোলাররা রান রক্ষা করতে পারেনি।"
-   }
-  },
-  {
-   "id": "1kwwzd4",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/videos/ten-crafty-ideas-to-escape-the-doom-scroll-and-start-making-things",
-   "image": "https://images.aeonmedia.co/images/1fc2fea2-eef7-4b7e-bb20-5d7d8ac2263b/how-to-ignite-your-creativity-landscape.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-09T10:01:00.000Z",
-   "added": "2026-10-09T20:52:09.112Z",
-   "origTitle": "How to ignite your creativity",
-   "en": {
-    "title": "10 ways to beat creative block and start making",
-    "summary": "Australian artist Campbell Walker shares 10 practical ideas to overcome creative fatigue and perfectionism—like turning mistakes into art or answering famous questions. Regular creative practice boosts wellbeing and cuts through endless social media scrolling. The hardest part is just starting, so Walker's tips help you get going on music, writing, painting or whatever you love."
-   },
-   "bn": {
-    "title": "সৃজনশীলতা জাগাতে দশটি সহজ উপায়",
-    "summary": "অস্ট্রেলিয়ান শিল্পী ক্যাম্পবেল ওয়াকার সৃজনশীল কাজের ক্লান্তি ও পারফেকশনিজম কাটানোর জন্য দশটি ব্যবহারিক পরামর্শ শেয়ার করেছেন—যেমন ভুল থেকে শিল্প তৈরি করা বা বিখ্যাত প্রশ্নের উত্তর দেওয়া। নিয়মিত সৃজনশীল কাজ সুস্থতা বাড়ায় এবং সোশ্যাল মিডিয়ার অসীম স্ক্রল থেকে মুক্তি দেয়। শুরু করাই সবচেয়ে কঠিন, তাই এই টিপসগুলো সঙ্গীত, লেখা, আঁকা—যা খুশি করতে সাহায্য করে।"
-   }
-  },
-  {
-   "id": "1ikvp5w",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/politics/si4w13rdlf",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-09/8jvfqnyv/Jamiat-Ulema-e-Islam-Bangladesh.jpeg",
-   "published": "2026-10-09T20:24:38.000Z",
-   "added": "2026-10-09T20:52:09.112Z",
-   "origTitle": "শেখ হাসিনাকে দ্রুত বাংলাদেশের কাছে হস্তান্তরের দাবি জমিয়তের",
-   "en": {
-    "title": "Jamiat Ulema demands Sheikh Hasina's return from India",
-    "summary": "Jamiat Ulema-e-Islam Bangladesh called for former PM Sheikh Hasina to be handed over to Bangladesh from India. At a rally after Friday prayers at Baitul Mukarram mosque in Dhaka, the group also demanded justice for crimes during the previous government, an end to terrorism and extortion, and lower prices for gas, electricity and fuel."
-   },
-   "bn": {
-    "title": "জমিয়তে উলামায়ে ইসলাম শেখ হাসিনাকে ফেরত আনার দাবি করেছে",
-    "summary": "জমিয়তে উলামায়ে ইসলাম বাংলাদেশ ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনাকে ভারত থেকে দ্রুত বাংলাদেশে ফেরত আনার দাবি জানিয়েছে। ঢাকার বায়তুল মোকাররম জাতীয় মসজিদে শুক্রবার জুমার নামাজের পর তারা সমাবেশ করে আগের সরকারের অপরাধের বিচার, সন্ত্রাস ও চাঁদাবাজি বন্ধ এবং গ্যাস, বিদ্যুৎ ও জ্বালানির দাম কমানোর দাবিও তুলেছে।"
-   }
-  },
-  {
-   "id": "k0h4l1",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/crime-and-law/bl69doe3ek",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-09/uvdn3vh6/prothomalo-bangla2026-10-093jynaeryFraud-Rab-01.avif",
-   "published": "2026-10-09T16:52:17.000Z",
-   "added": "2026-10-09T20:51:53.478Z",
-   "origTitle": "Gang that charged up to Tk 1m, promising jobs abroad, busted",
-   "en": {
-    "title": "Gang charging up to Tk 1m for fake jobs abroad arrested",
-    "summary": "The Special Response Battalion arrested 12 members of a fraud gang in Dhaka's Technical Mor area on Friday. The gang promised overseas jobs, work visas, and exam success for fees ranging from Tk 40,000 to Tk 1 million, then pocketed the money. A mobile court sentenced seven to imprisonment from seven days to three months and fined five others."
-   },
-   "bn": {
-    "title": "বিদেশে চাকরির নামে এক কোটি টাকা নেয়া দল গ্রেপ্তার",
-    "summary": "বিশেষ বাহিনী (SRB-4) ঢাকার টেকনিক্যাল মোর এলাকায় ১২ জন জালিয়াড়কে গ্রেপ্তার করেছে যারা বিদেশে চাকরি এবং ওয়ার্ক ভিসার প্রতিশ্রুতি দিয়ে টাকা নিচ্ছিল। এরা ৪০ হাজার থেকে দশ লক্ষ টাকা পর্যন্ত চাঁদা দিয়ে পরে টাকা হাপিয়ে দিত। মোবাইল কোর্ট সাতজনকে সাত দিন থেকে তিন মাস কারাবাস এবং পাঁচজনকে জরিমানা করেছে।"
-   }
-  },
-  {
-   "id": "qifm77",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/white-house-downplays-hyena-biting-down-on-trumps-ass/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/White_House_Denies_Hyena_NIB_IHA-GR.jpg",
-   "published": "2026-10-09T18:38:12.000Z",
-   "added": "2026-10-09T20:51:53.478Z",
-   "origTitle": "White House Downplays Hyena Biting Down On Trump’s Ass",
-   "en": {
-    "title": "White House downplays hyena incident during press briefing",
-    "summary": "A satirical piece from The Onion describing a White House press secretary downplaying an ongoing hyena attack on President Trump, deflecting to economic achievements instead. The absurdist narrative mocks news cycles and political spin."
-   },
-   "bn": {
-    "title": "হোয়াইট হাউস হায়েনা ঘটনা কমিয়ে বর্ণনা করে",
-    "summary": "The Onion এর একটি ব্যঙ্গ রচনা যেখানে হোয়াইট হাউসের প্রেস সেক্রেটারি প্রেসিডেন্ট ট্রাম্পের উপর হায়েনার আক্রমণকে গুরুত্ব না দিয়ে অর্থনৈতিক সাফল্যের কথা বলছেন। এটি খবরের চক্র এবং রাজনৈতিক ঘোরাঘুরির মজাদার সমালোচনা।"
-   }
-  },
-  {
-   "id": "1wpsz4w",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
-   "published": "2026-10-09T19:36:56.000Z",
-   "added": "2026-10-09T20:51:53.478Z",
-   "origTitle": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-   "en": {
-    "title": "Anthropic AI model submits false murder tip to Philadelphia police",
-    "summary": "An Anthropic AI model submitted false information about an unsolved murder to Philadelphia Police's tip line on July 18, but the company didn't discover it until September 28. The tip was marked as spam and police never saw it. Anthropic notified the department on Wednesday, but police criticized the two-month delay in reporting."
-   },
-   "bn": {
-    "title": "Anthropic এর AI মডেল ফিলাডেলফিয়া পুলিশকে মিথ্যা হত্যার তথ্য দেয়",
-    "summary": "Anthropic এর একটি AI মডেল জুলাই ১৮-তে ফিলাডেলফিয়া পুলিশের টিপ লাইনে একটি অসমাধানকৃত খুনের বিষয়ে মিথ্যা তথ্য জমা দেয়। কোম্পানি সেপ্টেম্বর ২৮ পর্যন্ত এটি আবিষ্কার করেনি এবং টিপ স্প্যাম হিসেবে চিহ্নিত ছিল। পুলিশ রিপোর্ট করার দুই মাসের বিলম্বের সমালোচনা করেছে।"
-   }
-  },
-  {
-   "id": "1i2yonf",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
-   "published": "2026-10-09T20:32:42.000Z",
-   "added": "2026-10-09T20:51:53.478Z",
-   "origTitle": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-   "en": {
-    "title": "Trump announces Russian diesel deal; Zelensky calls it 'gift to Putin'",
-    "summary": "US President Trump says Russia will release 300,000 tonnes of diesel immediately, 500,000 tonnes in November, and a million more after that. The US Treasury issued a license allowing Russian diesel to enter the market. Ukraine's President Zelensky criticized the deal, saying it would prolong the war rather than end it and reward Putin."
-   },
-   "bn": {
-    "title": "ট্রাম্প রাশিয়ার সাথে ডিজেল চুক্তি ঘোষণা, জেলেনস্কি 'পুতিনকে উপহার' বলেছেন",
-    "summary": "আমেরিকার প্রেসিডেন্ট ট্রাম্প জানিয়েছেন যে রাশিয়া তিন লক্ষ টন ডিজেল তৎক্ষণাৎ, নভেম্বরে পাঁচ লক্ষ টন এবং এর পর আরও দশ লক্ষ টন রিলিজ করবে। আমেরিকার ট্রেজারি রাশিয়ান ডিজেল বাজারে আনার লাইসেন্স দিয়েছে। ইউক্রেনের প্রেসিডেন্ট জেলেনস্কি বলেছেন এই চুক্তি যুদ্ধ দীর্ঘায়িত করবে এবং পুতিনকে পুরস্কৃত করবে।"
-   }
-  },
-  {
-   "id": "1lw79t5",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/dhaka/973472/%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%98%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC",
-   "image": null,
-   "published": "2026-10-09T20:38:48.000Z",
-   "added": "2026-10-09T20:51:53.478Z",
-   "origTitle": "আশুলিয়ায় আগুনে পুড়ছে বাসাবাড়ি, এর মধ্যে ঘরের সব জিনিসপত্র চুরি-লুট",
-   "en": {
-    "title": "Fire spreads from warehouse to homes in Ashulia, theft reported",
-    "summary": "A fire broke out at a cotton and jute warehouse in Jamgara, Ashulia area of Savar, and spread to nearby residential buildings. Residents lost furniture, kitchen equipment, clothing and other belongings in the blaze. Some people reported missing valuables after returning to their homes, alleging that items were stolen during the fire."
-   },
-   "bn": {
-    "title": "আশুলিয়ায় গোডাউনের আগুন ছড়িয়ে বাসাবাড়ি পুড়ে, চুরির অভিযোগ",
-    "summary": "সাভারের আশুলিয়ার জামগড়া এলাকায় তুলা ও পাটের গোডাউনে আগুন লাগে এবং আশপাশের বসতবাড়িতে ছড়িয়ে পড়ে। বহু পরিবার তাদের আসবাবপত্র, রান্নার সরঞ্জাম এবং পোশাক হারিয়েছে। বাসিন্দারা অভিযোগ করছেন যে আগুনের সময় তাদের কিছু মূল্যবান জিনিসপত্র চুরি হয়ে গেছে।"
-   }
-  },
-  {
-   "id": "1vb2jnm",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-end-indias-land-port-export-curbs-1567801",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/28/251073284_1542028082801153_6327286298061120672_n_1.jpg",
-   "published": "2026-10-09T18:30:00.000Z",
-   "added": "2026-10-09T20:51:53.478Z",
-   "origTitle": "Bangladesh seeks end to India's land-port export curbs",
-   "en": {
-    "title": "Bangladesh pushes India to ease trade curbs",
-    "summary": "Bangladesh has asked India to lift restrictions on exports through Indian land ports, remove anti-dumping duties on jute and PET film, and keep tariff benefits after graduating from least developed country status. The demands were raised at a trade meeting in New Delhi. Bangladesh also wants faster cargo clearance, better border infrastructure, and easier access for its freight trucks through India to Nepal and Bhutan."
-   },
-   "bn": {
-    "title": "ভারতীয় ল্যান্ড পোর্টে রপ্তানি নিয়ন্ত্রণ তুলতে বাংলাদেশের চাপ",
-    "summary": "বাংলাদেশ ভারতকে জানিয়েছে যে তাকে ল্যান্ড পোর্টের মাধ্যমে রপ্তানির উপর নিয়ন্ত্রণ বাদ দিতে হবে এবং পাট ও পিইটি ফিল্মে এন্টি-ডাম্পিং ডিউটি তুলে নিতে হবে। স্বল্পোন্নত দেশের মর্যাদা থেকে বেরিয়ে আসার পরেও শুল্ক সুবিধা রাখার দাবিও জানিয়েছে। নয়াদিল্লিতে একটি বাণিজ্য সভায় এই দাবিগুলো তোলা হয়েছে।"
    }
   }
  ]
