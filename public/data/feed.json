@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-13T21:11:38.058Z",
+ "updatedAt": "2026-10-14T01:09:34.522Z",
  "items": [
+  {
+   "id": "1scnnkz",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "ইত্তেফাক",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQaFZfbWZWR0NESk5oREd4UnFfc3E1RF9zcksycmNhM1lZT0l2TWZPZVNkY3hOY0YyajZKekVqdTV2UG1WYnlsS3phTTZwdHVYSlVzNXlaS0hkTlZRS0dSODVtSU02Zzg1Z1BwUll3MUJURDV2UHVEekp5bnMxdnhkdlJoX3RUZVJGMGlWdjVkOFlRRmdlaXBoVFo2aTVzR3MyOEIyM21ldjhKYnpQeEZHenpzZ1A3ZThvaUFnNlJUQzlwS0xpUTBCTFJxUzBVWmZrbmR4UVA2bVVNYm1YTmdTZWJXX2I2a3d1dVVzNGtKTFpaTXZONGktMmtka0dlUUJQdGtUbjYzakhvbThiV0tkSmd4M1Q3OEJWWjg2LW9TcmhsRzk1VlVGcEZSR3NpTndkb0YxektLYVlCb042N2NWRlk2Z1ZIQ1ZQeGMydHRqTXNDRHY0cV9ISnlRM1BKRGlnUVhPUEJCcHBCaVd0bmVqcnF0Y0Q2NnVkc21WT0czYkxYXzNkZVpCU2xzM3BzVVFRcm5kbFZKTE1vY28tdGY4MVdhcWtCX1prcVBHODFQTkJucjdRZ0IzSEFtMWc1cHhhS1JfRTBNWEpaVXZNNEg2WDlUZDl0YW1kVG9UTmRpREFfUy15QXliN2g1Q3BmckVnYXdSN2VkTnJVR0lJR0E1LXl1a1JwaXJ6?oc=5",
+   "image": null,
+   "published": "2026-10-13T13:50:35.000Z",
+   "added": "2026-10-14T01:09:34.522Z",
+   "origTitle": "ভারতে ৪০% ডাক্তার ভুয়া, লাখ টাকা খরচ করে ভুয়া চিকিৎসা নিচ্ছে বাংলাদেশিরা: ব্যারিস্টার ফুয়াদ",
+   "en": {
+    "title": "Fake doctors in India pose risk to Bangladeshi patients",
+    "summary": "Barrister Fuad has warned that 40 percent of doctors in India are fraudulent. Many Bangladeshis are spending large sums on fake medical treatment there. This highlights risks for those seeking healthcare abroad."
+   },
+   "bn": {
+    "title": "ভারতে ভুয়া ডাক্তার, বাংলাদেশিরা লাখ খরচ করছে",
+    "summary": "ব্যারিস্টার ফুয়াদ সতর্ক করেছেন যে ভারতে ৪০ শতাংশ ডাক্তার ভুয়া। অনেক বাংলাদেশি সেখানে ভুয়া চিকিৎসায় লাখ টাকা খরচ করছে। এটি বিদেশে স্বাস্থ্যসেবা নেওয়ার ঝুঁকি তুলে ধরে।"
+   }
+  },
+  {
+   "id": "mrkgfg",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "কালের কণ্ঠ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92ZXpqc2pZem9SZ01wdmVaNFUzWElIOEx1RjF1eUdWT25JQWpObUNWMGJoQnYzLVZRb09RdUoxLTVsV1U3LWktLWhsRlFKQlFtZ2FyRTRfRnA2YWxuZ2ROX3cwV2dTc3JzdDhodmZvYzJRc0hf?oc=5",
+   "image": null,
+   "published": "2026-10-13T19:28:36.000Z",
+   "added": "2026-10-14T01:09:34.522Z",
+   "origTitle": "পরকীয়া নিয়ে কথা বলায় স্ত্রীকে হত্যা, স্বামী পলাতক",
+   "en": {
+    "title": "Wife killed over affair accusation, husband absconding",
+    "summary": "A woman was killed after her husband accused her of infidelity. The husband is currently at large. Police are investigating the case."
+   },
+   "bn": {
+    "title": "পরকীয়ার অভিযোগে স্ত্রীকে হত্যা, স্বামী পলাতক",
+    "summary": "স্বামী পরকীয়ার অভিযোগ তুলে তার স্ত্রীকে হত্যা করেছেন। স্বামী এখন পলাতক অবস্থায় রয়েছেন। পুলিশ মামলার তদন্ত করছে।"
+   }
+  },
+  {
+   "id": "1899zzk",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lWE1rT1ZSN2ttMEFVdXh4UklOcTBoek93NlEwV3pHTDNsMjFhcUdGTDRjVWZyZ1ItYkJ4NFZIZUZrbE1zQ0NwQ1BkNmFtLVZjSWhwbURQWXgtMWJxQURpRFY5bHZVMnc?oc=5",
+   "image": null,
+   "published": "2026-10-13T18:35:00.000Z",
+   "added": "2026-10-14T01:09:34.522Z",
+   "origTitle": "নোয়াখালীতে চোর সন্দেহে যুবককে পিটিয়ে হত্যা, আটক ২",
+   "en": {
+    "title": "Youth beaten to death on theft suspicion in Noakhali",
+    "summary": "A young man was killed in Noakhali after being beaten on suspicion of theft. Two people have been arrested in connection with the incident. Details about the victim and exact circumstances remain unclear."
+   },
+   "bn": {
+    "title": "নোয়াখালীতে চোর সন্দেহে যুবককে পিটিয়ে হত্যা",
+    "summary": "নোয়াখালীতে একজন যুবককে চোর সন্দেহ করে পিটিয়ে মেরে ফেলা হয়েছে। এই ঘটনায় দুইজন ব্যক্তি আটক হয়েছেন। ভিকটিম এবং ঘটনার বিস্তারিত এখনও স্পষ্ট নয়।"
+   }
+  },
+  {
+   "id": "1axh7mx",
+   "section": "news",
+   "cat": "lifestyle",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/religion/islam/zw0pu2dxyf",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-13/7ep6xbgs/pexels-mikhail-nilov-7929092.jpg",
+   "published": "2026-10-13T22:30:00.000Z",
+   "added": "2026-10-14T01:09:25.012Z",
+   "origTitle": "পাপ আসলে কী, পাপের ক্ষতি কী, কীভাবে বুঝব কোনটা পাপ",
+   "en": {
+    "title": "Understanding sin: what it truly means in Islam",
+    "summary": "Many religious families raise children with guilt and fear by telling them their mistakes are sins that upset Allah. Islamic scholars argue this misunderstands core doctrine. In Islam, Allah is infinitely independent and complete—He doesn't need human worship nor is harmed by human wrongdoing. Sin matters for our own spiritual growth, not God's wellbeing."
+   },
+   "bn": {
+    "title": "পাপ আসলে কী, এবং এটি বোঝা কেন জরুরি",
+    "summary": "অনেক ধর্মীয় পরিবারে শিশুদের বলা হয় তাদের ছোট ভুল পাপ এবং এতে আল্লাহ কষ্ট পান। ইসলামী বিদ্বানরা বলেন এটি ভুল বোঝাপড়া। ইসলাম অনুযায়ী আল্লাহ সম্পূর্ণ স্বাধীন এবং মানুষের ভালো-মন্দের তোয়াক্কা করেন না। পাপ আমাদের নিজের আত্মার জন্য গুরুত্বপূর্ণ, আল্লাহর জন্য নয়।"
+   }
+  },
+  {
+   "id": "ch2i3u",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+   "published": "2026-10-13T23:13:31.000Z",
+   "added": "2026-10-14T01:09:25.012Z",
+   "origTitle": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+   "en": {
+    "title": "Vision-restoring chip implanted in first patient",
+    "summary": "Science Corporation has implanted its PRIMA chip into its first patient with Stargardt disease, an inherited eye condition that gradually destroys central vision. CEO Max Hodak, former president of Neuralink, explained the chip fits a broader vision for brain-computer interfaces in medicine. While PRIMA is commercially available in Europe for age-related blindness, the company believes it can help multiple diseases including incurable Stargardt disease."
+   },
+   "bn": {
+    "title": "দৃষ্টি ফিরিয়ে দেওয়ার চিপ রোগীর মস্তিষ্কে লাগানো হয়েছে",
+    "summary": "সায়েন্স কর্পোরেশন তার PRIMA চিপ একজন স্টারগার্ডট রোগের রোগীর মস্তিষ্কে প্রথমবার লাগিয়েছে। এই রোগ ধীরে ধীরে চোখের মধ্যভাগের দৃষ্টি নষ্ট করে। কোম্পানি বিশ্বাস করে এই প্রযুক্তি আরও অনেক চোখের রোগ ঠিক করতে পারবে। বিশ্বব্যাপী প্রায় ১৫০,০০০ মানুষ এই রোগের কারণে দৃষ্টিশক্তি হারিয়েছে।"
+   }
+  },
+  {
+   "id": "1lgk1fn",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791937444.jpg?resize=1920%2C1080&quality=80",
+   "published": "2026-10-14T00:27:52.000Z",
+   "added": "2026-10-14T01:09:25.012Z",
+   "origTitle": "How podcasts became political powerhouses",
+   "en": {
+    "title": "Podcasts shaped US elections and they're not slowing",
+    "summary": "Some dubbed the 2024 US presidential election the 'podcast election,' and that tag is looking less like exaggeration. Hosts and analysts now debate whether podcasts genuinely expand political discussion or simply offer candidates a friendly stage to avoid tough journalism. The trend shows no signs of stopping."
+   },
+   "bn": {
+    "title": "পডকাস্ট রাজনীতিকে নতুন শক্তি দিয়েছে",
+    "summary": "২০২৪ সালের আমেরিকান নির্বাচনকে কেউ কেউ 'পডকাস্ট নির্বাচন' বলেছেন এবং এই ট্যাগ এখন অতিরঞ্জন নয় বরং ভবিষ্যতের পূর্বাভাস দেখাচ্ছে। এখন তারা আলোচনা করছেন পডকাস্ট আসলে রাজনৈতিক আলোচনা বাড়াচ্ছে নাকি শুধু প্রার্থীদের সহজ মঞ্চ দিচ্ছে।"
+   }
+  },
+  {
+   "id": "1kmw58b",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/mymensing/974352/%E0%A6%B8%E0%A6%B9%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+   "image": null,
+   "published": "2026-10-14T01:00:04.000Z",
+   "added": "2026-10-14T01:09:25.012Z",
+   "origTitle": "সহকারী শিক্ষক স্ত্রীর সঙ্গে স্কুলেই প্রধান শিক্ষকের মারামারি, ভিডিও ভাইরাল",
+   "en": {
+    "title": "Principal, teacher clash at school in viral video",
+    "summary": "A fight between a principal and an assistant teacher at a government primary school in Fulbaria, Mymensingh went viral on Tuesday, October 13. The altercation took place in the school office at Akta Primary School in Ranmatiaya Union. Social media users have been discussing the incident widely since the video spread."
+   },
+   "bn": {
+    "title": "স্কুলে প্রধান শিক্ষক ও সহকারী শিক্ষকের মারামারি ভাইরাল",
+    "summary": "ময়মনসিংহের ফুলবাড়িয়ায় একটি সরকারি প্রাথমিক বিদ্যালয়ে প্রধান শিক্ষক এবং সহকারী শিক্ষকের মধ্যে ধস্তাধস্তি হয়েছে। ঘটনাটি রাঙামাটিয়া ইউনিয়নের আকতা সরকারি প্রাথমিক বিদ্যালয়ে ঘটে এবং এর ভিডিও মঙ্গলবার (১৩ অক্টোবর) রাতে সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ে। এরপর থেকে এই ঘটনা নিয়ে অনলাইনে ব্যাপক আলোচনা শুরু হয়েছে।"
+   }
+  },
   {
    "id": "9ysuyx",
    "section": "hasi",
@@ -1737,138 +1891,6 @@
    "bn": {
     "title": "ট্রাম্প ইউক্রেনকে বলেছেন নতুন নেতা খুঁজতে",
     "summary": "আমেরিকার রাষ্ট্রপতি ডোনাল্ড ট্রাম্প বলেছেন ইউক্রেনের নেতা ভলোদিমির জেলেনস্কিকে পরিবর্তন করা উচিত কারণ তিনি চুক্তি করতে পারেন না। ট্রাম্প রাশিয়ার ডিজেল রপ্তানিতে নিষেধাজ্ঞা তুলে দিয়েছেন, যার প্রতিক্রিয়ায় জেলেনস্কি তীব্র সমালোচনা করেছেন। একই দিনে রাশিয়া জাপোরিঝঝিয়ায় আঘাত করেছে এবং ২০ জন নিহত হয়েছেন, যার মধ্যে তিনটি শিশু রয়েছে।"
-   }
-  },
-  {
-   "id": "1fsun9w",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "UNB",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZU5lMXZQUktrbTdIYnNhbWJ6Sy1fQXhYQi1mOHR6dEdfV2JwckxFcDNZbjRPUl9kX25qbFQzbGNPMXExR0NmX3hmVGRneWM1Mk1ZR3cyOVp3ZWJad3hBWVJSUDhuUWxKRDVCeVhNN0taNGNnQU5TclNTSTRxQmkxVWlTWVd6YUJ5ZDRjWlppY2NWazg4TlZNYVZ3Q3Bkb0k?oc=5",
-   "image": null,
-   "published": "2026-10-10T11:37:45.000Z",
-   "added": "2026-10-10T22:26:50.929Z",
-   "origTitle": "Measles: Death toll hits 1155 as 8 more die in 24 hrs",
-   "en": {
-    "title": "Measles death toll reaches 1,155 with 8 more deaths",
-    "summary": "Bangladesh's measles death toll has climbed to 1,155 after 8 more deaths were reported in the last 24 hours. The outbreak continues to spread across the country, raising health concerns."
-   },
-   "bn": {
-    "title": "হামরা রোগে মৃত্যু ১১৫৫ এ পৌঁছেছে, গত ২৪ ঘণ্টায় ৮ জন মারা গেছেন",
-    "summary": "গত ২৪ ঘণ্টায় ৮ জনের মৃত্যুর সাথে বাংলাদেশে হামরা রোগে মৃত্যুর সংখ্যা ১১৫৫ এ পৌঁছেছে। দেশব্যাপী এই রোগের প্রাদুর্ভাব বাড়ছে এবং স্বাস্থ্য সংকট তৈরি করছে।"
-   }
-  },
-  {
-   "id": "ldqw52",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/middle-east/zt26faogqn",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-10/leja8mrw/Attack-on-Saudi-airport-1.jpg",
-   "published": "2026-10-10T21:43:03.000Z",
-   "added": "2026-10-10T22:26:50.929Z",
-   "origTitle": "সৌদি আরবের বিমানবন্দরে হুতিদের হামলায় নিহত ১২, কার্যক্রম স্থগিত",
-   "en": {
-    "title": "Houthi attack on Saudi airport kills 12, operations halted",
-    "summary": "Iran-backed Houthis attacked King Khalid International Airport in Riyadh on Saturday, killing at least 12 people and injuring 50, according to three officials quoted by The New York Times. Operations at the airport were suspended temporarily. Houthi senior officer Mohammed al-Bukhaiti claimed responsibility, saying it was retaliation for Saudi airstrikes in Yemen that hit civilian infrastructure. This is the deadliest attack on a Gulf Arab nation since February's war escalation."
-   },
-   "bn": {
-    "title": "হুতিদের হামলায় সৌদি বিমানবন্দরে ১২ জন নিহত, কার্যক্রম থেমে গেছে",
-    "summary": "ইরান-সমর্থিত হুতি সশস্ত্র গোষ্ঠী শনিবার রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হামলা করেছে যাতে কমপক্ষে ১২ জন নিহত এবং ৫০ জন আহত হয়েছেন। বিমানবন্দরের কার্যক্রম সাময়িকভাবে স্থগিত করা হয়েছে। হুতি প্রবীণ কর্মকর্তা মোহাম্মদ আল-বুখাইতি এটি ইয়েমেনে সৌদি বিমান হামলার প্রতিশোধ বলে দায় স্বীকার করেছেন। এটি ফেব্রুয়ারির যুদ্ধ বৃদ্ধির পর উপসাগরীয় কোনো আরব দেশে সবচেয়ে প্রাণঘাতী হামলা।"
-   }
-  },
-  {
-   "id": "mey9iv",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/dhaka/973690/%E0%A6%A8%E0%A7%8C%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%9A-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%A8%E0%A7%8C%E0%A6%95%E0%A6%BE%E0%A6%A1%E0%A7%81%E0%A6%AC%E0%A6%BF-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A7%A8%E0%A7%A6",
-   "image": null,
-   "published": "2026-10-10T22:08:52.000Z",
-   "added": "2026-10-10T22:26:50.929Z",
-   "origTitle": "নৌকা বাইচ প্রতিযোগিতায় সংঘর্ষে নৌকাডুবি, আহত ২০ মাঝি",
-   "en": {
-    "title": "Boat collision during race in Rajbari injures 20 rowers",
-    "summary": "Two boats collided on the Padma River in Godarbazar, Rajbari, on the final day of a three-day boat racing competition on Saturday evening around 6:30 PM. Pabna's New Sharirihvita boat collided with Kushtia's New Janta Sangram boat. About 20 rowers from New Sharirihvita were injured, with three in critical condition, according to doctors."
-   },
-   "bn": {
-    "title": "রাজবাড়ীর নৌকা বাইচে সংঘর্ষে ২০ জন মাঝি আহত",
-    "summary": "রাজবাড়ীর গোদারবাজারে তিন দিনের নৌকা বাইচের শেষ দিনে শনিবার সন্ধ্যা সাড়ে ছয়টার দিকে পদ্মা নদীতে দুটি নৌকা সংঘর্ষ করেছে। পাবনার 'নিউ শাড়িরভিটা' এবং কুষ্টিয়ার 'নিউ জনতা সংগ্রাম' নৌকা সংঘর্ষ হয়েছে। নিউ শাড়িরভিটা নৌকার প্রায় ২০ জন মাঝি আহত হয়েছেন, তাদের মধ্যে তিনজনের অবস্থা আশঙ্কাজনক বলে চিকিৎসকরা জানিয়েছেন।"
-   }
-  },
-  {
-   "id": "187pt48",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-   "published": "2026-10-10T21:47:51.000Z",
-   "added": "2026-10-10T22:26:50.929Z",
-   "origTitle": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-   "en": {
-    "title": "Microsoft CEO calls for AI emergency brake on super intelligence",
-    "summary": "Microsoft CEO Satya Nadella says AI systems need an emergency brake. He argues companies can't treat AI as black boxes and just accept its recommendations. Instead, Nadella wants controls separated from the model itself, with every action documented and an authorized person always able to pause or shut down a system mid-task. His comments follow recent incidents where AI companies lost control of their models."
-   },
-   "bn": {
-    "title": "মাইক্রোসফটের সিইও সুপার ইন্টেলিজেন্স এআই-এর জন্য জরুরি ব্রেক চান",
-    "summary": "মাইক্রোসফটের সিইও সত্য নাডেলা বলছেন এআই সিস্টেমের একটি জরুরি ব্রেক দরকার। তিনি যুক্তি দেন কোম্পানি এআইকে ব্ল্যাক বক্স হিসেবে দেখতে পারে না এবং শুধু সুপারিশ মেনে নিতে পারে না। নাডেলা নিয়ন্ত্রণ মডেল থেকে আলাদা রাখতে, প্রতিটি কাজ ডকুমেন্ট করতে এবং অনুমতিপ্রাপ্ত ব্যক্তিকে যেকোনো সময় সিস্টেম থেমে দেওয়ার ক্ষমতা চান। তার মন্তব্য আসে এআই কোম্পানিগুলোর সম্প্রতিক নিয়ন্ত্রণ হারানোর ঘটনার পর।"
-   }
-  },
-  {
-   "id": "1tn2n65",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-07T181027Z_177303484_RC2BXNA1NJSY_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-SYRIA-1791653796.jpg?resize=1920%2C1440",
-   "published": "2026-10-10T22:12:25.000Z",
-   "added": "2026-10-10T22:26:50.929Z",
-   "origTitle": "Yemeni government’s military says its forces advancing against Houthis",
-   "en": {
-    "title": "Yemen government claims hundreds of Houthi fighters killed",
-    "summary": "Yemen's internationally recognised government military says it killed at least 1,150 Houthi fighters in nearly 2,000 targeted operations as part of operation Dawn of Yemen. The military destroyed ammunition dumps and 180 vehicles. This follows a Saturday attack on King Khalid International Airport in Riyadh that killed and injured several people. The Iran-backed Houthis have warned all aircraft in Saudi airspace—except over Mecca and Medina—are targets."
-   },
-   "bn": {
-    "title": "ইয়েমেনের সরকারি সামরিক বাহিনী হাজারেরও বেশি হুতি হতাহতের দাবি করছে",
-    "summary": "ইয়েমেনের আন্তর্জাতিক স্বীকৃত সরকারের সামরিক বাহিনী বলছে ইয়েমেন ফজর অপারেশনে প্রায় দুই হাজার লক্ষ্যবস্তু অপারেশনে কমপক্ষে হাজার ১১৫০ হুতি যোদ্ধা মারা গেছে। তারা গোলাবারুদ গুদাম এবং ১৮০টি যানবাহন ধ্বংস করেছে। শনিবার রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে একটি হামলায় অনেকে নিহত ও আহত হয়েছেন। ইরান-সমর্থিত হুতিরা সৌদি আকাশসীমার সব বিমান—মক্কা-মদিনা ছাড়া—লক্ষ্য করার সতর্কতা দিয়েছে।"
-   }
-  },
-  {
-   "id": "1s7vtt1",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/south-asia/un-rights-office-voices-concern-over-delhi-detentions-india-pushes-back-1568666",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/2026-10-10t135730z_179121668_rc260oa8qz2x_rtrmadp_3_india-politics-gen-z.jpg",
-   "published": "2026-10-10T19:45:00.000Z",
-   "added": "2026-10-10T22:26:50.929Z",
-   "origTitle": "UN rights office voices concern over Delhi detentions; India pushes back",
-   "en": {
-    "title": "India rejects UN concerns over Delhi protest detentions",
-    "summary": "India dismissed the UN Human Rights Office's concerns over mass detentions during anti-election commission protests in New Delhi on October 10. The government said citizens have the right to peaceful assembly under the Constitution, but authorities can impose reasonable restrictions for public order. India urged the UN to apply the same scrutiny to protests worldwide and accused it of selectivity."
-   },
-   "bn": {
-    "title": "দিল্লির বিক্ষোভে গ্রেপ্তারের বিষয়ে জাতিসংঘের উদ্বেগ খারিজ করল ভারত",
-    "summary": "জাতিসংঘের মানবাধিকার অফিসের উদ্বেগ খারিজ করেছে ভারত যে দিল্লিতে নির্বাচন কমিশনের বিরুদ্ধে বিক্ষোভে গণ গ্রেপ্তার হচ্ছে। সরকার বলেছে সংবিধানে শান্তিপূর্ণ বিক্ষোভের অধিকার রয়েছে, তবে জনশৃঙ্খলার জন্য যুক্তিসঙ্গত বিধিনিষেধ আরোপ করা যায়। ভারত জাতিসংঘকে সারা বিশ্বের বিক্ষোভেও সমান নজর দিতে বলেছে।"
    }
   }
  ]

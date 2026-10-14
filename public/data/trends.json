@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-10-13T21:11:53.279Z",
+ "updatedAt": "2026-10-14T01:09:48.655Z",
  "burning": [
   {
    "id": "1ohgv2o",
    "heat": 5,
    "why": {
-    "en": "Major fire in Dhaka's busy Chawkbazar market destroyed multiple warehouses, immediate local impact.",
-    "bn": "ঢাকার ব্যস্ত চকবাজারে বড় আগুন, একাধিক গুদাম ধ্বংস, সরাসরি স্থানীয় প্রভাব।"
+    "en": "Major fire in Dhaka's crowded Chawkbazar market destroyed multiple warehouses—breaking news, high impact.",
+    "bn": "ঢাকার চকবাজার বাজারে বড় আগুন বেধেছে, ৭-৮টা গুদাম ধ্বংস হয়েছে—বড় খবর, উচ্চ প্রভাব।"
    },
    "rank": 1
   },
   {
-   "id": "hf95jn",
-   "heat": 5,
+   "id": "1899zzk",
+   "heat": 4,
    "why": {
-    "en": "Riyadh airport closed after Houthi attack with direct fallout on Bangladesh flights, travel crisis.",
-    "bn": "হুথি হামলায় রিয়াদ বিমানবন্দর বন্ধ, বাংলাদেশি ফ্লাইট স্থগিত, যাত্রা সংকট।"
+    "en": "Youth killed in Noakhali on suspicion of theft—serious crime story, consistent coverage pattern.",
+    "bn": "নোয়াখালিতে চুরির সন্দেহে তরুণকে মারা হয়েছে—গুরুতর অপরাধ খবর।"
    },
    "rank": 2
   },
   {
-   "id": "6h9vk7",
+   "id": "mrkgfg",
    "heat": 4,
    "why": {
-    "en": "Bangladesh accelerating major World Bank loan projects, significant economic policy story.",
-    "bn": "বাংলাদেশ বিশ্বব্যাংক ঋণ প্রকল্প ত্বরান্বিত করছে, গুরুত্বপূর্ণ অর্থনীতি খবর।"
+    "en": "Domestic homicide over affair accusation with absconding suspect—urgent crime news.",
+    "bn": "পরিবারের সংকট থেকে হত্যা, আসামী ফরার—জরুরি খবর।"
    },
    "rank": 3
   },
@@ -32,68 +32,68 @@
    "id": "1vwgj44",
    "heat": 4,
    "why": {
-    "en": "Report on widespread sexual abuse in Bangladesh Islamic seminaries, serious institutional issue.",
-    "bn": "বাংলাদেশের ইসলামি মাদ্রাসায় ব্যাপক যৌন নিরাপত্তা, গুরুতর প্রাতিষ্ঠানিক সমস্যা।"
+    "en": "BBC investigation into widespread sexual abuse at Islamic seminaries in Bangladesh—major exposé.",
+    "bn": "বাংলাদেশের ইসলামিক মাদরাসায় যৌন নির্যাতন নিয়ে BBC তদন্ত—বড় খবর।"
    },
    "rank": 4
   },
   {
-   "id": "14kdx7p",
-   "heat": 4,
+   "id": "6h9vk7",
+   "heat": 3,
    "why": {
-    "en": "CUET vice-chancellor locked in office by protesting students, campus tension escalates.",
-    "bn": "ছাত্র প্রতিবাদে সিইউইটি উপাচার্য অফিসে বন্দী, ক্যাম্পাস টেনশন বৃদ্ধি।"
+    "en": "Bangladesh accelerating World Bank loan projects worth $10 billion—economic news with policy impact.",
+    "bn": "বাংলাদেশ বিশ্ব ব্যাংকের ১০ বিলিয়ন ডলার ঋণ প্রকল্প দ্রুত করছে—অর্থনৈতিক খবর।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1vcq71p",
-   "tag": "#CricketSquad",
+   "id": "ch2i3u",
+   "tag": "#TechBreakthrough",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Sri Lanka brings back Nissanka",
-    "text": "Nissanka returns to Sri Lanka's Test squad as they prepare for Pakistan. Big recall for the upcoming series."
+    "title": "Vision-restoring chip changes medicine",
+    "text": "First patient to receive a vision-restoring chip implant—a big step in medical tech that's getting global attention."
    },
    "bn": {
-    "title": "নিসানকা ফিরে এলেন",
-    "text": "পাকিস্তানের বিপক্ষে সিরিজের আগে শ্রীলঙ্কা টেস্ট দলে নিসানকাকে ফিরিয়ে এনেছে। আসন্ন সিরিজের জন্য বড় কলব্যাক।"
+    "title": "চোখ ফিরিয়ে দেওয়া চিপ",
+    "text": "প্রথমবার রোগীর মধ্যে দৃষ্টি ফিরিয়ে আনা চিপ লাগানো হয়েছে—চিকিৎসা প্রযুক্তিতে বড় পদক্ষেপ।"
    }
   },
   {
    "id": "245c3t",
-   "tag": "#AIModel",
+   "tag": "#AIRace",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Meta's new frontier AI",
-    "text": "Meta has launched Muse Wonder, its first frontier AI model. Tech world watching the move closely."
+    "title": "Meta's new frontier AI model",
+    "text": "Meta just launched Muse Wonder, its first frontier AI model—joining the race for advanced AI tech."
    },
    "bn": {
-    "title": "মেটার নতুন এআই মডেল",
-    "text": "মেটা তার প্রথম ফ্রন্টিয়ার এআই মডেল Muse Wonder লঞ্চ করেছে। টেক জগতে খুব গুরুত্ব পাচ্ছে।"
+    "title": "মেটার নতুন AI মডেল",
+    "text": "মেটা তার প্রথম ফ্রন্টিয়ার AI মডেল Muse Wonder চালু করেছে।"
    }
   },
   {
-   "id": "tbgcvf",
-   "tag": "#StartupLife",
+   "id": "slm3a9",
+   "tag": "#TechScandal",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "TechCrunch Disrupt startup battle",
-    "text": "Twenty startups competing at TechCrunch Disrupt for the innovation prize. Biggest startup showdown happening now."
+    "title": "FBI arrests OpenAI employee over spy device",
+    "text": "An OpenAI employee was arrested by the FBI after a hidden recording device was found in an office—raising serious security questions."
    },
    "bn": {
-    "title": "স্টার্টআপ ইনোভেশন ব্যাটেল",
-    "text": "টেকক্র্যাঞ্চ ডিসরাপটে বিশটি স্টার্টআপ ইনোভেশন পুরস্কারের জন্য প্রতিযোগিতা করছে। সবচেয়ে বড় স্টার্টআপ শো চলছে এখন।"
+    "title": "OpenAI কর্মচারী গোপন রেকর্ডিং নিয়ে",
+    "text": "এফবিআই এক OpenAI কর্মচারীকে গ্রেফতার করেছে যে গোপনে রেকর্ডিং ডিভাইস লাগিয়েছিল।"
    }
   }
  ],
