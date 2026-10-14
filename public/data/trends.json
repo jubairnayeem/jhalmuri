@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-14T18:32:42.650Z",
+ "updatedAt": "2026-10-14T22:15:47.012Z",
  "burning": [
   {
-   "id": "a1imnd",
+   "id": "13aafkt",
    "heat": 5,
    "why": {
-    "en": "Cricket dominates Google Trends BD with multiple player searches (Tsimikas, Gail, Du Plessis, Kaiki Bruno) tied to live matches.",
-    "bn": "গুগল ট্রেন্ডসে ক্রিকেট খেলোয়াড় এবং ম্যাচ নিয়ে একাধিক সার্চ ভাইরাল, লাইভ গেমের সাথে সরাসরি যুক্ত।"
+    "en": "PSG's 4-2 demolition of Man City is dominating Google Trends BD with 2000+ searches—huge upset in Champions League.",
+    "bn": "গুগল ট্রেন্ডে ২০০০+ সার্চ নিয়ে PSG-ম্যান সিটি ম্যাচ ভাইরাল, চ্যাম্পিয়নস লিগে বিশাল আপসেট।"
    },
    "rank": 1
   },
   {
-   "id": "1vwgj44",
-   "heat": 4,
+   "id": "wq8uer",
+   "heat": 5,
    "why": {
-    "en": "Serious investigation into abuse at Islamic seminaries in Bangladesh—major institutional accountability story.",
-    "bn": "বাংলাদেশে ইসলামিক সেমিনারিতে নির্যাতনের ব্যাপক অনুসন্ধান—প্রতিষ্ঠানগত দায়বদ্ধতার বড় গল্প।"
+    "en": "Real Madrid's three-goal comeback in seven minutes is a wild story—exactly the kind of sports moment that spreads fast.",
+    "bn": "রিয়েল মাদ্রিদের সাত মিনিটে তিন গোল—এই ধরনের খেলার গল্প দ্রুত ছড়ায়।"
    },
    "rank": 2
   },
   {
-   "id": "1k9tigt",
+   "id": "jzn2xm",
    "heat": 4,
    "why": {
-    "en": "Bangladesh's new lawyer age limit draws attention as unusual policy affecting professional sector.",
-    "bn": "বাংলাদেশের নতুন আইনজীবী বয়স সীমা একটি অস্বাভাবিক নীতি হিসেবে মনোযোগ আকর্ষণ করছে।"
+    "en": "Death over blasphemy allegations in Satkhira is a serious communal incident covered by major outlets.",
+    "bn": "সত্যিকারের ধর্মীয় বিরোধ জনিত একটি গুরুতর ঘটনা একাধিক আউটলেট কভার করেছে।"
    },
    "rank": 3
-  },
-  {
-   "id": "13isvgz",
-   "heat": 3,
-   "why": {
-    "en": "Petrol bomb attack near July massacre museum signals ongoing security tensions.",
-    "bn": "জুলাই হত্যাকাণ্ডের মিউজিয়মের কাছে পেট্রোল বোমা হামলা নিরাপত্তা সংকট নিয়ে উদ্বেগ দেখায়।"
-   },
-   "rank": 4
   },
   {
    "id": "1p9otd5",
    "heat": 3,
    "why": {
-    "en": "BCS result releases are routine high-traffic moments for student-focused news in Bangladesh.",
-    "bn": "বিসিএস ফলাফল প্রকাশ বাংলাদেশের ছাত্র-কেন্দ্রিক খবরের জন্য নিয়মিত উচ্চ ট্রাফিক মুহূর্ত।"
+    "en": "45th BCS gazette with 1,702 recommended candidates affects many young Bangladeshis seeking government jobs.",
+    "bn": "৪৫তম BCS গেজেটে ১,৭০২ জন সুপারিশকৃত—বহু তরুণের চাকরির স্বপ্ন।"
+   },
+   "rank": 4
+  },
+  {
+   "id": "1bqs6v9",
+   "heat": 3,
+   "why": {
+    "en": "Bangladesh's first mental health sign language bank is a unique social development story.",
+    "bn": "বাংলাদেশের প্রথম মানসিক স্বাস্থ্য সাইন ল্যাঙ্গুয়েজ ব্যাংক একটি অনন্য উন্নয়ন খবর।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "a1imnd",
-   "tag": "#CricketViral",
+   "id": "13aafkt",
+   "tag": "#PSGVsManCity",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Live cricket matches heat up",
-    "text": "Players like Shai Hope, Chris Gayle, and Faf du Plessis are trending as multiple high-stakes fixtures play out today."
+    "title": "PSG demolish Man City 4-2",
+    "text": "Paris stunned Manchester City with a massive 4-2 win in Champions League. Huge upset that's got everyone talking."
    },
    "bn": {
-    "title": "লাইভ ক্রিকেট ম্যাচ ভাইরাল",
-    "text": "শাই হোপ, ক্রিস গেইল এবং ফাফ ডু প্লেসিস একাধিক গুরুত্বপূর্ণ ম্যাচের সাথে ট্রেন্ডিং।"
+    "title": "PSG ম্যান সিটিকে ৪-২ এ হারিয়েছে",
+    "text": "চ্যাম্পিয়নস লিগে পারিস ম্যান সিটিকে বিশাল পার্থক্যে হারিয়ে দিয়েছে। সবাই এই বড় আপসেট নিয়ে কথা বলছে।"
    }
   },
   {
-   "id": "1vwgj44",
-   "tag": "#SeminaryAbuse",
+   "id": "wq8uer",
+   "tag": "#RealMadridComeback",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Abuse allegations rock Islamic seminaries",
-    "text": "BBC Bangla investigation reveals widespread sexual abuse of boys at Islamic seminaries across Bangladesh, sparking serious institutional scrutiny."
+    "title": "Real Madrid's crazy seven-minute run",
+    "text": "Real Madrid scored three goals in just seven minutes to stage a wild comeback. Classic underdog-turned-drama moment."
    },
    "bn": {
-    "title": "সেমিনারিতে নির্যাতনের অভিযোগ",
-    "text": "বিবিসি বাংলা অনুসন্ধান বাংলাদেশের ইসলামিক সেমিনারিতে ছেলেদের ব্যাপক যৌন নির্যাতন প্রকাশ করেছে।"
+    "title": "রিয়েলের অসাধারণ কমব্যাক",
+    "text": "রিয়েল মাদ্রিদ মাত্র সাত মিনিটে তিন গোল করে জয় নিয়েছে। খেলার জগতের সবচেয়ে রোমাঞ্চকর মুহূর্তগুলোর একটি।"
    }
   },
   {
-   "id": "1k9tigt",
-   "tag": "#LawyerBan",
+   "id": "1bqs6v9",
+   "tag": "#MentalHealthBangladesh",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Age-35 lawyer ban surprises sector",
-    "text": "Bangladesh has banned people from becoming lawyers after turning 35, sparking debate over the policy's impact on legal professionals."
+    "title": "Bangladesh launches sign language bank",
+    "text": "First-of-its-kind mental health resource using sign language is now available for deaf Bangladeshis."
    },
    "bn": {
-    "title": "৩৫ বছরের পর আইনজীবী নিষেধাজ্ঞা",
-    "text": "বাংলাদেশ ৩৫ বছর বয়সের পর কাউকে আইনজীবী হতে দিচ্ছে না, যা পেশাদারদের নিয়ে বিতর্ক সৃষ্টি করেছে।"
+    "title": "বাংলাদেশে সাইন ল্যাঙ্গুয়েজ ব্যাংক",
+    "text": "বাংলাদেশের প্রথম মানসিক স্বাস্থ্য সেবা এখন বধির মানুষদের জন্য সাইন ভাষায় উপলব্ধ।"
    }
   }
  ],

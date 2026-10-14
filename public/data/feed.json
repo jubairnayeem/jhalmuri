@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-10-14T18:32:26.848Z",
+ "updatedAt": "2026-10-14T22:15:32.480Z",
  "items": [
+  {
+   "id": "jzn2xm",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "ডয়চে ভেলে বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.dw.com/bn/ধর্ম-অবমাননার-অভিযোগ-দু-দফার-পিটুনিতে-তরুণের-মৃত্যু/live-79636111?maca=ben-rss-ben-all-3197-rdf",
+   "image": "https://static.dw.com/image/46234418_6.jpg",
+   "published": "2026-10-14T15:20:00.000Z",
+   "added": "2026-10-14T22:15:32.479Z",
+   "origTitle": "ধর্ম অবমাননার অভিযোগ : দু দফার পিটুনিতে তরুণের মৃত্যু",
+   "en": {
+    "title": "Young man killed after religion blasphemy accusations in Satkhira",
+    "summary": "Waahiduzzaman Shamim, 38, was beaten to death in Satkhira over alleged religious offense accusations after audio clips circulated on Facebook. Police rescued him after the first assault and admitted him to hospital; he was then taken from the hospital and beaten again that night. He died on the way to another hospital. His family says he had been unwell and had recently attempted suicide."
+   },
+   "bn": {
+    "title": "সাতক্ষীরায় ধর্মীয় অনুভূতি আঘাতের অভিযোগে তরুণ নিহত",
+    "summary": "সাতক্ষীরার দেবহাটায় ধর্ম অবমাননার অভিযোগে ওয়াহিদুজ্জামান শামীম (৩৮) নামের এক তরুণকে দুইবার পিটিয়ে মৃত্যু ঘটানো হয়েছে। ফেসবুকে ছড়িয়ে পড়া অডিও কথোপকথনকে কেন্দ্র করে স্থানীয় উত্তেজনা ছড়িয়ে পড়ে। পুলিশ প্রথম পিটুনির পর তাকে হাসপাতালে ভর্তি করে কিন্তু রাতে হাসপাতাল থেকে তাকে ছিনিয়ে নিয়ে দ্বিতীয় বার মারধর করা হয় এবং চলার পথে তিনি মৃত্যু পান। তার পরিবার বলছে তিনি মানসিকভাবে সুস্থ ছিলেন না এবং কয়েক দিন আগে আত্মহত্যার চেষ্টাও করেছিলেন।"
+   }
+  },
+  {
+   "id": "16yd4un",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-14T20:29:05.000Z",
+   "added": "2026-10-14T22:15:32.479Z",
+   "origTitle": "Student protesters attack government buildings in Tirana",
+   "en": {
+    "title": "Albanian students torch government buildings in anti-corruption protests",
+    "summary": "Thousands of students in Tirana attacked multiple government buildings on Wednesday during violent demonstrations demanding better university conditions and job prospects. The education ministry caught fire; police used tear gas and water cannons to disperse crowds. Protesters accused the government of corruption and called for systemic change. Sixteen people were arrested during Tuesday's initial clashes."
+   },
+   "bn": {
+    "title": "আলবেনিয়ায় বিক্ষুব্ধ শিক্ষার্থীরা সরকারি ভবন আক্রমণ করেছে",
+    "summary": "তিরানায় হাজার হাজার শিক্ষার্থী বুধবার সরকারের একাধিক ভবনে হামলা করেছে। শিক্ষা মন্ত্রণালয়ের একটি বিল্ডিং আগুন ধরে যায়। বিক্ষোভকারীরা বিশ্ববিদ্যালয়ের অবস্থা উন্নয়ন এবং চাকরির সুযোগ দাবি করছে। পুলিশ অশ্রুগ্যাস এবং জলকামান ব্যবহার করে ভিড় ছত্রভঙ্গ করেছে এবং ১৬ জনকে গ্রেপ্তার করা হয়েছে।"
+   }
+  },
+  {
+   "id": "nqnb9q",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/features/panorama/whey-beyond-waste-bangladeshs-untapped-dairy-opportunity-1573361",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/11/pic_cheese_2.jpg",
+   "published": "2026-10-14T19:25:00.000Z",
+   "added": "2026-10-14T22:15:32.479Z",
+   "origTitle": "Whey beyond waste: Bangladesh’s untapped dairy opportunity",
+   "en": {
+    "title": "Bangladesh wastes dairy gold: whey could become billion-taka business",
+    "summary": "Every day, Bangladesh's sweetmeat and cheese makers dump whey—the liquid left after separating curds—into drains as waste. But whey contains valuable protein, lactose, minerals and vitamins. A new feasibility study by GAIN shows the country could turn this overlooked byproduct into fortified beverages, fermented dairy products and bakery ingredients worth serious money."
+   },
+   "bn": {
+    "title": "তৈরি-পোশাক শিল্পের বর্জ্য থেকে লক্ষ কোটি টাকার সুযোগ",
+    "summary": "বাংলাদেশের মিষ্টান্ন এবং পনির তৈরির কারখানাগুলো প্রতিদিন দুধ থেকে ছানা আলাদা করার সময় যে হলুদ-সবুজ তরল বের হয় তা নালায় ফেলে দেয়। এই তরলে আছে প্রোটিন, ল্যাকটোজ, খনিজ এবং ভিটামিন। গ্লোবাল এলায়েন্স ফর ইমপ্রুভড নিউট্রিশন (গেইন) এর একটি গবেষণা দেখাচ্ছে, এই বর্জ্যকে পুষ্টিকর পানীয় এবং দুগ্ধজাত পণ্যে রূপান্তর করে বড় ব্যবসা তৈরি করা সম্ভব।"
+   }
+  },
+  {
+   "id": "wq8uer",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/football/j4e7ql2pto",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-14/kza6r302/fbl-eur-c1-roma-realmadrid.webp",
+   "published": "2026-10-14T21:03:42.000Z",
+   "added": "2026-10-14T22:15:32.479Z",
+   "origTitle": "৭ মিনিটের ঝড়ে ৭ গোলের ম্যাচে রিয়ালের অবিশ্বাস্য জয়",
+   "en": {
+    "title": "Real Madrid stage wild comeback, score three goals in seven minutes",
+    "summary": "Real Madrid were down 3-1 with eight minutes left against Roma, but exploded with three goals between the 83rd and 90th minute to win 4-3. Goals from Carlos Espé, Endrick and Antonio Rüdiger sealed an incredible Champions League turnaround. José Mourinho's side wrote another chapter in Madrid's history of late-game heroics."
+   },
+   "bn": {
+    "title": "পিছিয়ে পড়েও সাত মিনিটে তিন গোল, রোমাকে ৪-৩ গোলে হারালো রিয়াল",
+    "summary": "রোমার বিরুদ্ধে ৮২ মিনিটে ৩-১ পিছিয়ে থাকলেও চ্যাম্পিয়নস লিগে রিয়াল মাদ্রিদ অবিশ্বাস্য ফের তুলে দিয়েছে। ৮৩ থেকে ৯০ মিনিটের মধ্যে কার্লোস এসপি, এনদ্রিক এবং আন্তোনিও রুডিগারের গোলে ৪-৩ ব্যবধানে জয় পেয়েছে মাদ্রিদ। মরিনিওর দল চ্যাম্পিয়নস লিগে আরেকটি নাটকীয় প্রত্যাবর্তনের ইতিহাস লিখেছে।"
+   }
+  },
+  {
+   "id": "c7b0zq",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
+   "published": "2026-10-14T22:00:00.000Z",
+   "added": "2026-10-14T22:15:09.047Z",
+   "origTitle": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+   "en": {
+    "title": "CedarDB promises one database for both transactions and analytics",
+    "summary": "Munich-based CedarDB is built to handle both operational transactions and analytical queries—a challenge traditional databases haven't solved. The startup, a spinoff from Technical University of Munich, was engineered to match modern hardware speed without needing extra resources. It's compatible with PostgreSQL, so switching costs stay low and it aligns with how AI language models are trained."
+   },
+   "bn": {
+    "title": "সিডারডিবি লেনদেন এবং বিশ্লেষণ উভয়ের জন্য একটি ডাটাবেস প্রতিশ্রুতি দেয়",
+    "summary": "মিউনিখ-ভিত্তিক সিডারডিবি অপারেশনাল লেনদেন এবং বিশ্লেষণী প্রশ্ন উভয় পরিচালনা করার জন্য তৈরি—একটি চ্যালেঞ্জ যা ঐতিহ্যবাহী ডাটাবেসগুলি সমাধান করেনি। টেকনিক্যাল ইউনিভার্সিটি অফ মিউনিখের একটি স্পিনঅফ, এটি অতিরিক্ত সম্পদের প্রয়োজন ছাড়াই আধুনিক হার্ডওয়্যার গতির সাথে মেলে। এটি পোস্টগ্রেএসকিউএলের সাথে সামঞ্জস্যপূর্ণ, তাই স্যুইচিং খরচ কম থাকে এবং এআই ভাষা মডেলগুলি কীভাবে প্রশিক্ষিত হয় তার সাথে সারিবদ্ধ।"
+   }
+  },
+  {
+   "id": "18wg69z",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+   "image": "https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_113_1078_862/master/1078.jpg?width=140&quality=85&auto=format&fit=max&s=6e0f4e5dcae2b2a9e886d0f5ebb34561",
+   "published": "2026-10-14T19:01:29.000Z",
+   "added": "2026-10-14T22:15:09.047Z",
+   "origTitle": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+   "en": {
+    "title": "Zimbabwean writer denies AI wrote his prize-winning story",
+    "summary": "Zimbabwean author Simbarashe Kundizeza denied using AI to write The Blue Fighter after the Atlantic claimed AI-detection software flagged it as almost completely artificially generated. The story won the Caine Prize for African Writers on October 6. Kundizeza said in a statement: \"I wrote 'The Blue Fighter'. I did not use generative AI. It is entirely my own work.\""
+   },
+   "bn": {
+    "title": "জিম্বাবুয়ের লেখক তার পুরস্কার বিজয়ী গল্প লেখায় এআই ব্যবহার অস্বীকার করেছেন",
+    "summary": "জিম্বাবুয়ের লেখক সিম্বারাশে কুন্ডিজেজা দ্য ব্লু ফাইটার লেখায় এআই ব্যবহার অস্বীকার করেছেন আটলান্টিক দাবি করার পরে এআই-সনাক্তকরণ সফটওয়্যার এটিকে প্রায় সম্পূর্ণভাবে কৃত্রিমভাবে উৎপন্ন বলে চিহ্নিত করেছে। গল্পটি ৬ অক্টোবরে কেইন প্রাইজ ফর আফ্রিকান রাইটার্স জিতেছিল। কুন্ডিজেজা একটি বিবৃতিতে বলেছেন: \"আমি 'দ্য ব্লু ফাইটার' লিখেছি। আমি জেনারেটিভ এআই ব্যবহার করিনি। এটি আমার নিজস্ব কাজ।\""
+   }
+  },
+  {
+   "id": "13aafkt",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2299670220-1792011622.jpg?resize=1200%2C675",
+   "published": "2026-10-14T21:35:49.000Z",
+   "added": "2026-10-14T22:15:09.047Z",
+   "origTitle": "PSG beat Man City 4-2 in Champions League thriller",
+   "en": {
+    "title": "PSG thrash Manchester City 4-2 in Champions League upset",
+    "summary": "Paris Saint-Germain crushed Manchester City 4-2 in the Champions League on Wednesday, with goals from Desire Doue, Ousmane Dembele and Vitinha in a dominant first half. City fought back in the second half with two Erling Haaland goals and one from Maghnes Akliouche. The loss came days after City were found guilty on over 100 financial charges."
+   },
+   "bn": {
+    "title": "চ্যাম্পিয়ন্স লিগে পিএসজি ম্যানচেস্টার সিটিকে ৪-২ গোলে হারিয়েছে",
+    "summary": "পেরিস সেন্ট-জার্মেন বুধবার চ্যাম্পিয়ন্স লিগে ম্যানচেস্টার সিটিকে ৪-২ গোলে পরাজিত করেছে, ডিজায়ার ডউ, আউসমান ডেম্বেলে এবং ভিতিনার গোলে প্রথম অর্ধে প্রভাবশালী পারফরম্যান্স দিয়েছে। দ্বিতীয় অর্ধে সিটি এরলিং হ্যালান্ডের দুই গোল এবং ম্যাগনেস আকলিউশের এক গোলে ফিরে এসেছে। ক্ষতিটি হয়েছে শতাধিক আর্থিক অভিযোগে সিটি দোষী সাব্যস্ত হওয়ার কয়েক দিন পরে।"
+   }
+  },
+  {
+   "id": "1915xta",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg",
+   "published": "2026-10-14T20:55:24.000Z",
+   "added": "2026-10-14T22:15:09.047Z",
+   "origTitle": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+   "en": {
+    "title": "Musk says US controls Starlink limits on Ukraine weapons",
+    "summary": "Elon Musk says any speed restrictions on Ukraine's weapons using SpaceX's Starlink network come from the US military, not his company. Ukraine reported unexpected 100mph speed limits disrupting battlefield drones on Tuesday. Musk clarified that Starshield, the military version, is owned and controlled by the US government. Ukraine's former defence minister called for the speed limit to be removed entirely."
+   },
+   "bn": {
+    "title": "মাস্ক বলেন ইউক্রেনের স্টারলিংক সীমাবদ্ধতা যুক্তরাষ্ট্রের নিয়ন্ত্রণে",
+    "summary": "ইলন মাস্ক বলেছেন স্পেসএক্সের স্টারলিংক নেটওয়ার্কে ইউক্রেনের অস্ত্রের গতি সীমাবদ্ধতা তার কোম্পানির নয়, যুক্তরাষ্ট্র সামরিক বাহিনীর আসে। মঙ্গলবার ইউক্রেন জানিয়েছিল যে ১০০ মাইল প্রতি ঘণ্টা গতি সীমা অপ্রত্যাশিত বন্ধনী যুদ্ধক্ষেত্রের ড্রোন ব্যাহত করেছে। মাস্ক স্পষ্ট করেন সামরিক সংস্করণ স্টারশিল্ড যুক্তরাষ্ট্র সরকার মালিক ও নিয়ন্ত্রক।"
+   }
+  },
+  {
+   "id": "fgfcna",
+   "section": "news",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/press-release/974573/%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%93-%E0%A6%87%E0%A6%A8%E0%A7%8B%E0%A6%AD%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%87%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A7%AA-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0",
+   "image": null,
+   "published": "2026-10-14T22:06:00.000Z",
+   "added": "2026-10-14T22:15:09.047Z",
+   "origTitle": "আইসিটি ও ইনোভেশন অ্যাওয়ার্ডে ইউল্যাবের ৪ পুরস্কার",
+   "en": {
+    "title": "ULAB students win 4 awards at ICT Innovation Awards 2026",
+    "summary": "University of Liberal Arts Bangladesh (ULAB) students scooped four prizes at the Bangladesh ICT and Innovation Awards 2026. The haul included one champion award and three merit awards for innovative projects. The awards were handed out on October 3 at BRAC University in Dhaka by the Bangladesh ICT and Innovation Network (BIN)."
+   },
+   "bn": {
+    "title": "ইউল্যাব শিক্ষার্থীরা আইসিটি অ্যাওয়ার্ডে ৪টি পুরস্কার জিতেছে",
+    "summary": "ইউনিভার্সিটি অব লিবারেল আর্টস বাংলাদেশ (ইউল্যাব) এর শিক্ষার্থীরা বাংলাদেশ আইসিটি অ্যান্ড ইনোভেশন অ্যাওয়ার্ডস ২০২৬-এ চারটি পুরস্কার জিতেছে। তাদের জয়ে রয়েছে একটি চ্যাম্পিয়ন অ্যাওয়ার্ড এবং তিনটি মেরিট অ্যাওয়ার্ড। পুরস্কার বিতরণী অনুষ্ঠান ৩ অক্টোবর ঢাকার ব্র্যাক ইউনিভার্সিটিতে অনুষ্ঠিত হয়েছিল।"
+   }
+  },
+  {
+   "id": "1bqs6v9",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/features/panorama/giving-words-depressed-deaf-1573366",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/08_panorama_deaf_copy-2.png",
+   "published": "2026-10-14T19:30:00.000Z",
+   "added": "2026-10-14T22:15:09.047Z",
+   "origTitle": "Giving words to the depressed Deaf",
+   "en": {
+    "title": "Bangladesh gets first mental health sign language bank",
+    "summary": "Dr M Tasdik Hasan Dip discovered that Bangladesh's Deaf community had only four signs for emotions—happy, sad, surprised, pain—leaving no way to express depression, anxiety, or trauma. His PhD study created South Asia's first digital resource: a Bangla bank of 64 mental health signs for concepts like anxiety, depression, counselling and recovery. With 13.7 million people with hearing loss in Bangladesh, accessible mental health communication is no longer a niche need but urgent."
+   },
+   "bn": {
+    "title": "বাংলাদেশে মানসিক স্বাস্থ্যের প্রথম সাইন ল্যাঙ্গুয়েজ ব্যাংক তৈরি",
+    "summary": "ড. এম তাসদীক হাসান দিপ আবিষ্কার করলেন যে বাংলাদেশের বধির সম্প্রদায়ের কাছে আবেগ প্রকাশের জন্য মাত্র চারটি সাইন আছে—খুশি, দুঃখী, অবাক, ব্যথা। তার পিএইচডি গবেষণা দক্ষিণ এশিয়ার প্রথম ডিজিটাল সম্পদ তৈরি করেছে: মানসিক স্বাস্থ্যের জন্য ৬৪টি বাংলা সাইনের একটি ব্যাংক, যাতে উদ্বেগ, বিষণ্নতা, পরামর্শ এবং পুনরুদ্ধারের ধারণা রয়েছে। বাংলাদেশে ১৩.৭ মিলিয়ন শ্রবণহীন মানুষের সাথে, সুলভ মানসিক স্বাস্থ্য যোগাযোগ আর একটি বিশেষ চাহিদা নয় বরং জরুরি।"
+   }
+  },
   {
    "id": "1p9otd5",
    "section": "news",
@@ -1891,182 +2111,6 @@
    "bn": {
     "title": "মধ্যপ্রাচ্যের সংকটে বাংলাদেশ আলজেরিয়ার দিকে তাকাচ্ছে",
     "summary": "বাংলাদেশ মধ্যপ্রাচ্যের সরবরাহ সমস্যা এড়াতে আলজেরিয়া থেকে এলএনজি এবং এলপিজি আমদানির চুক্তি আলোচনা করছে। শক্তি মন্ত্রী ইকবাল হাসান মাহমুদ এই অংশীদারিত্ব নিয়ে কথা বলতে আলজেরিয়ার রাষ্ট্রদূতের সাথে দেখা করেছেন। আলজেরিয়ার শিপিং রুট হরমুজ প্রণালী এড়িয়ে যায়, যা নিরাপদ বিকল্প প্রদান করে। দক্ষিণ এশীয় দেশগুলি ভূ-রাজনৈতিক পরিবর্তনের সাথে সাথে শক্তির উৎস বৈচিত্র্যময় করছে।"
-   }
-  },
-  {
-   "id": "1ajd3ny",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "জাগো নিউজ",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tcjlGdmhSdjFDNnMzaUpkQmt0cG5ROTMwbnNnNkhYYVhGODNYRW9fUHZQSzJyeDJnZ1VidVRmQW1acDVhUkJHV3FjLUJXb1EzdHo1dDRhYkt6dEE?oc=5",
-   "image": null,
-   "published": "2026-10-11T08:52:39.000Z",
-   "added": "2026-10-11T20:12:20.380Z",
-   "origTitle": "কুমিল্লায় নারীকে পিটিয়ে হত্যা, প্রধান আসামি গ্রেফতার",
-   "en": {
-    "title": "Woman beaten to death in Cumilla, main suspect arrested",
-    "summary": "A woman was killed after being beaten in Cumilla. Police have arrested the main suspect in the case. The incident highlights violence against women in the country. Authorities are continuing their investigation."
-   },
-   "bn": {
-    "title": "কুমিল্লায় নারীকে পিটিয়ে হত্যা, প্রধান আসামি গ্রেফতার",
-    "summary": "কুমিল্লায় একজন নারীকে পিটিয়ে হত্যা করা হয়েছে। পুলিশ প্রধান আসামিকে গ্রেফতার করেছে। এই ঘটনা নারীর বিরুদ্ধে হিংসার একটি উদাহরণ। তদন্ত চলছে।"
-   }
-  },
-  {
-   "id": "rj8y7e",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WaUdSSzd1WFNDMjZuYTlNSWhzXzVkcFV3Um1JLUd4SDZoaUpGTWNsT194ejJHd3FIMUplRkdYMkZka1ZYc2JTcVRTUXpTQU1URDJNWE1rVkR0M1g3em94aHhvb21HUVA0VVhoZVRyVdIBfEFVX3lxTE0yUGJKM0xmNHgtekpOWGd2eTZpSkZqRXlwX0liSjk3MGhWNTY2VDAycGN4N0E5Tll6NGVSVnZXX0hsNzVLWjhyVlUwanBNVzVnVFJEdnRaYi1NR25kdUxIbzFleUxzOFUxT2dCQ2VseHNZWm1xU3ZZYVdvdEE?oc=5",
-   "image": null,
-   "published": "2026-10-11T03:27:07.000Z",
-   "added": "2026-10-11T20:12:20.380Z",
-   "origTitle": "Houthi attack on Saudi airport kills 12 including 2 Bangladeshis, over 300 wounded",
-   "en": {
-    "title": "Houthi attack on Saudi airport kills 12, including 2 Bangladeshis",
-    "summary": "A Houthi attack on a Saudi airport left 12 people dead, including 2 Bangladeshi nationals. Over 300 others were wounded in the strike. The attack highlights ongoing tensions in the Middle East region. Bangladeshi workers abroad remain at risk during such incidents."
-   },
-   "bn": {
-    "title": "সৌদি বিমানবন্দরে হুথি হামলায় ১২ জন নিহত, ২ বাংলাদেশি",
-    "summary": "সৌদি আরবের একটি বিমানবন্দরে হুথি গ্রুপের হামলায় ১২ জন মারা গেছেন, যার মধ্যে ২ জন বাংলাদেশি। আরও ৩০০ জনের বেশি আহত হয়েছেন। এই ঘটনা মধ্যপ্রাচ্যের টানাপড়েন বাড়াচ্ছে। বিদেশে কাজ করা বাংলাদেশি জনগণ এভাবে ঝুঁকিতে পড়ছেন।"
-   }
-  },
-  {
-   "id": "1gw9loq",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558041.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423634.jpg",
-   "published": "2026-10-11T18:04:39.000Z",
-   "added": "2026-10-11T20:12:20.380Z",
-   "origTitle": "How bad light could shape the South Africa vs Australia Test",
-   "en": {
-    "title": "Bad light could swing South Africa vs Australia Test",
-    "summary": "Around 45 overs have been lost in three days due to poor light conditions. Teams now have to factor this loss into their match strategy and calculations. Fewer overs mean less time to build innings or take wickets. The weather could become a deciding factor in how the match unfolds."
-   },
-   "bn": {
-    "title": "খারাপ আলোতে বদলে যেতে পারে সাউথ আফ্রিকা-অস্ট্রেলিয়া টেস্ট",
-    "summary": "তিন দিনে খারাপ আলোর কারণে ৪৫ ওভার হারিয়েছে খেলা। এখন দুই দলকেই এই হারানো সময়ের হিসাব নিয়ে কৌশল ঠিক করতে হবে। কম ওভার মানে ব্যাটিং বা বোলিংয়ের জন্য কম সুযোগ পাওয়া। এই আবহাওয়াই শেষ পর্যন্ত ম্যাচের ফলাফল বদলে দিতে পারে।"
-   }
-  },
-  {
-   "id": "it905o",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Bangladesh Post",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQTNheXJNWnFzcGd1My1DaXVtXy02TlgxRlZxOHhCMmdfN0UycUp2a3lob3hwMEltZnRvME1rc3pCYndpYndIYjd2bFFJekV1eC1kNTUtOE1rOVdDZWJGUjVCNnBXeVFRZ3FObXVLNFNTWlp1V1A0eE5jTU9uMDZDbjFUUjlJVzI5eFZGMDFB?oc=5",
-   "image": null,
-   "published": "2026-10-11T14:53:28.000Z",
-   "added": "2026-10-11T20:12:20.380Z",
-   "origTitle": "Dengue deaths reach 303 as cases near 100,000",
-   "en": {
-    "title": "Dengue deaths hit 303 as cases approach 100,000",
-    "summary": "Bangladesh is facing a major dengue outbreak with cases nearing 100,000 and 303 deaths recorded so far. The disease is spreading rapidly across the country. Health authorities are urging people to take precautions against mosquito bites. Dengue cases typically spike during monsoon and post-monsoon seasons when mosquitoes breed more actively."
-   },
-   "bn": {
-    "title": "ডেঙ্গুতে মৃত্যু ৩০৩, আক্রান্ত প্রায় এক লক্ষ",
-    "summary": "বাংলাদেশে ডেঙ্গুর ভয়াবহ পরিস্থিতি চলছে—আক্রান্ত সংখ্যা লক্ষের কাছাকাছি পৌঁছেছে এবং মৃত্যু হয়েছে ৩০৩ জনের। দেশের বিভিন্ন জায়গায় দ্রুত ছড়িয়ে পড়ছে রোগটি। স্বাস্থ্য বিভাগ মশার কামড় থেকে সতর্ক থাকতে বলছে। বর্ষা এবং পরবর্তী সময়ে মশা বেশি বাড়ে তাই তখন ডেঙ্গু বেশি হয়।"
-   }
-  },
-  {
-   "id": "1ucx6fj",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/capital/2u9d9cs26l",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-11/l6qbr69v/Home-Minister.jpeg",
-   "published": "2026-10-11T19:47:48.000Z",
-   "added": "2026-10-11T20:12:04.265Z",
-   "origTitle": "রোহিঙ্গা প্রত্যাবাসনে আঞ্চলিক জোট গড়তে চায় বাংলাদেশ",
-   "en": {
-    "title": "Bangladesh seeks regional coalition to push Rohingya repatriation",
-    "summary": "Bangladesh plans to build a strategic regional alliance with China, ASEAN, the UN, and Japan to accelerate Rohingya repatriation instead of pursuing unilateral efforts, said Home Minister Salahuddin Ahmed at a seminar on Sunday. Japan's Myanmar-related special envoy Sasakawa recently visited Bangladesh and assured full government support. The Prime Minister will visit Japan later this month to discuss accelerating the repatriation process."
-   },
-   "bn": {
-    "title": "রোহিঙ্গা প্রত্যাবাসনে আঞ্চলিক জোট গড়তে চায় বাংলাদেশ",
-    "summary": "বাংলাদেশ রোহিঙ্গাদের প্রত্যাবাসনে একক প্রচেষ্টার বদলে চীন, আসিয়ান, জাতিসংঘ এবং জাপানসহ একটি কৌশলগত আঞ্চলিক জোট গড়তে চায় বলে গৃহমন্ত্রী সালাহউদ্দিন আহমদ রবিবার একটি সেমিনারে জানান। জাপানের মিয়ানমার বিষয়ক বিশেষ দূত সাসাকাওয়া সম্প্রতি বাংলাদেশ সফর করেছেন এবং পূর্ণ সহযোগিতার আশ্বাস দিয়েছেন। এই মাসের শেষে প্রধানমন্ত্রী জাপান সফরে যাবেন প্রত্যাবাসন প্রক্রিয়া ত্বরান্বিতের বিষয়ে আরও আলোচনার জন্য।"
-   }
-  },
-  {
-   "id": "1bb5k7s",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-11T16:41:37.000Z",
-   "added": "2026-10-11T20:12:04.265Z",
-   "origTitle": "Saudi capital airport hit by second Houthi strike in two days",
-   "en": {
-    "title": "Riyadh airport hit by second Houthi strike in two days",
-    "summary": "King Khalid International Airport in Riyadh has been struck for the second time in as many days, causing a fire in a passenger hall and injuries. A Saturday strike killed 13 people and injured 308 others. The Houthis claimed responsibility, saying they used ballistic missiles, cruise missiles, and drones, and warned that all Saudi airports except those in Mecca and Medina are potential targets. US President Trump said the US would decide whether to strike the Houthis."
-   },
-   "bn": {
-    "title": "রিয়াদ বিমানবন্দর দুই দিনে দ্বিতীয়বার হুথি হামলায় আক্রান্ত",
-    "summary": "সৌদি আরবের রাজধানী রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দর দুই দিনে দ্বিতীয়বার আক্রান্ত হয়েছে, যেখানে একটি যাত্রী হলে আগুন লেগেছে এবং মানুষ আহত হয়েছে। শনিবারের আক্রমণে ১৩ জন নিহত এবং ৩০৮ জন আহত হয়েছিল। হুথিরা দায়িত্ব স্বীকার করে বলেছে যে তারা ব্যালিস্টিক ক্ষেপণাস্ত্র, ক্রুজ ক্ষেপণাস্ত্র এবং ড্রোন ব্যবহার করেছে এবং সকল সৌদি বিমানবন্দর মক্কা ও মদিনা ছাড়া লক্ষ্যবস্তু হতে পারে বলে সতর্ক করেছে।"
-   }
-  },
-  {
-   "id": "c4t20x",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/south-asia/indias-chief-justice-declines-meeting-rahul-gandhi-over-vote-chori-allegations",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/india_cj.jpg",
-   "published": "2026-10-11T19:50:00.000Z",
-   "added": "2026-10-11T20:12:04.265Z",
-   "origTitle": "India's chief justice declines meeting with Rahul Gandhi over 'vote chori' allegations",
-   "en": {
-    "title": "India's chief justice declines Gandhi meeting over election fraud allegations",
-    "summary": "India's Chief Justice Surya Kant has declined a meeting with Congress leader Rahul Gandhi, citing judicial propriety as similar matters are pending before the Supreme Court. Gandhi and Congress chief Mallikarjun Kharge had sought to submit a memorandum demanding an end to alleged electoral fraud, resignation of the chief election commissioner, and a halt to electoral roll revisions. Opposition parties have announced a protest march to the Supreme Court on Monday, October 12."
-   },
-   "bn": {
-    "title": "ভারতের প্রধান বিচারপতি রাহুল গান্ধীর সাথে মিলিত হতে অস্বীকার করেছেন",
-    "summary": "ভারতের প্রধান বিচারপতি সূর্য কান্ত কংগ্রেস নেতা রাহুল গান্ধীর সাথে মিলিত হওয়ার অনুরোধ নাকচ করেছেন, কারণ অনুরূপ বিষয় সুপ্রিম কোর্টে বিচারাধীন। গান্ধী এবং কংগ্রেস সভাপতি মল্লিকার্জুন খার্গে একটি স্মারক জমা দিতে চেয়েছিলেন যা নির্বাচনী জালিয়াতি শেষ করা, নির্বাচন কমিশনারের পদত্যাগ এবং ভোটার তালিকা সংশোধন বন্ধের দাবি করে। বিরোধী দল সোমবার সুপ্রিম কোর্টে প্রতিবাদ মিছিলের ঘোষণা দিয়েছে।"
-   }
-  },
-  {
-   "id": "17mbn4h",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/politics/ncp/973913/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87",
-   "image": null,
-   "published": "2026-10-11T19:48:15.000Z",
-   "added": "2026-10-11T20:12:04.265Z",
-   "origTitle": "আরও ১০০ উপজেলায় প্রার্থী ঘোষণা করবে এনসিপি, আসছে নতুন কর্মসূচি",
-   "en": {
-    "title": "NCP to announce candidates in 100 more upazilas, launches week-long campaign",
-    "summary": "The National Citizens Party (NCP) has announced a week-long public engagement campaign starting October 23, protesting issues including law and order, fuel price hikes, rising commodity costs, and job market corruption. The decision was made at a meeting of the party's highest policymaking body, the Political Council, on Sunday, October 11, chaired by party convener and opposition chief whip Nahid Islam."
-   },
-   "bn": {
-    "title": "এনসিপি আরও ১০০ উপজেলায় প্রার্থী ঘোষণা করবে, সপ্তাহব্যাপী কর্মসূচি আসছে",
-    "summary": "জাতীয় নাগরিক পার্টি (এনসিপি) আইনশৃঙ্খলা, জ্বালানি তেলের দাম, পণ্যমূল্য বৃদ্ধি এবং চাকরিতে দুর্নীতির বিরুদ্ধে ২৩ অক্টোবর থেকে সপ্তাহব্যাপী জনসংযোগ কর্মসূচি ঘোষণা করেছে। এই সিদ্ধান্ত রবিবার ১১ অক্টোবর দলের সর্বোচ্চ নীতিনির্ধারণী ফোরাম রাজনৈতিক পর্ষদের সভায় নেওয়া হয়।"
    }
   }
  ]
