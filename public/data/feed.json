@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-14T13:38:45.270Z",
+ "updatedAt": "2026-10-14T18:32:26.848Z",
  "items": [
+  {
+   "id": "1p9otd5",
+   "section": "news",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/chakri/employment/rf17ylisfm",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/bfcl33la/2.jpeg",
+   "published": "2026-10-14T18:06:03.000Z",
+   "added": "2026-10-14T18:32:26.848Z",
+   "origTitle": "৪৫তম বিসিএসের চূড়ান্ত গেজেট প্রকাশ, সুপারিশ পেলেন ১৭০২ জন",
+   "en": {
+    "title": "45th BCS gazette released: 1,702 candidates recommended",
+    "summary": "The Public Service Commission published the final gazette for the 45th BCS examination on Wednesday, October 14, 2026, with 1,702 candidates approved for appointment. The entire process took nearly four years—from notification in November 2022 to preliminary exams, written tests, and viva. PSC had originally recommended 1,807 candidates across various cadres."
+   },
+   "bn": {
+    "title": "৪৫তম বিসিএসের গেজেট প্রকাশ, ১৭০২ জনের নাম অনুমোদিত",
+    "summary": "সরকারি কর্ম কমিশন বুধবার, ১৪ অক্টোবর ২০২৬-এ ৪৫তম বিসিএসের চূড়ান্ত গেজেট প্রকাশ করেছে এবং ১৭০২ জন প্রার্থীকে নিয়োগের অনুমোদন দিয়েছে। নভেম্বর ২০২২-এর বিজ্ঞপ্তি থেকে চূড়ান্ত ফল পর্যন্ত সম্পূর্ণ প্রক্রিয়া চার বছর লেগেছে। পিএসসি মূলত ১৮০৭ জনকে বিভিন্ন ক্যাডারে সুপারিশ করেছিল।"
+   }
+  },
+  {
+   "id": "1klo31o",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/opinion/interview/jmxaah3q5t",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-14/d988u4ev/prothomalo-bangla2026-10-1473asvsnfICIMOD.avif",
+   "published": "2026-10-14T16:38:46.000Z",
+   "added": "2026-10-14T18:32:26.848Z",
+   "origTitle": "Budhi Gandaki flood poses no direct threat to Bangladesh, but it holds lessons for early warning",
+   "en": {
+    "title": "Nepal floods offer lessons on early warnings for South Asia",
+    "summary": "Nepal faced two major floods recently—one in August caused by high-altitude rock collapse, and one on October 11 from a landslide blocking a tributary. While not a direct threat to Bangladesh, these disasters highlight the Himalayan region's geological risks. The focus now is on building better early warning systems and distinguishing between climate-driven and natural hazards."
+   },
+   "bn": {
+    "title": "নেপালের বন্যা: দক্ষিণ এশিয়ার জন্য শিক্ষা",
+    "summary": "নেপালে সম্প্রতি দুটি বড় বন্যা হয়েছে—আগস্টে উচ্চ পর্বতে শিলা ধসের কারণে, অক্টোবর ১১-এ পার্শ্ববর্তী নদীতে ভূমিস্খলনের কারণে। বাংলাদেশে সরাসরি হুমকি নেই, তবে হিমালয়ের ভূতাত্ত্বিক ঝুঁকি স্পষ্ট। লক্ষ্য এখন আগাম সতর্কতা ব্যবস্থা উন্নত করা এবং জলবায়ু ও প্রাকৃতিক দুর্যোগ আলাদা করা।"
+   }
+  },
+  {
+   "id": "1aafkcn",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/report-more-americans-opting-to-be-buried-in-unknowing-neighbors-backyard/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/More_Americans_NIB_G_GR.jpg",
+   "published": "2026-10-14T17:57:58.000Z",
+   "added": "2026-10-14T18:32:26.848Z",
+   "origTitle": "Report: More Americans Opting To Be Buried In Unknowing Neighbor’s Backyard",
+   "en": {
+    "title": "Report: Americans increasingly burying bodies in neighbors' backyards",
+    "summary": "The Onion reports that more Americans are choosing to bury their remains in unknowing neighbors' backyards as a budget-friendly alternative to traditional funerals. A shovel costs $20 versus $8,000 for a coffin burial, and relatives can visit anytime the neighbor is at work. The trend supposedly avoids environmental damage from embalming while offering flexibility and discretion."
+   },
+   "bn": {
+    "title": "রিপোর্ট: আমেরিকানরা প্রতিবেশীর বাগানে লাশ পুঁতছে",
+    "summary": "দ্য অনিয়ন লিখছে, আমেরিকানরা ঐতিহ্যবাহী অন্ত্যেষ্টির বদলে প্রতিবেশীর অজানায় বাগানে লাশ দাফনের দিকে ঝুঁকছে। বেলচা কিনতে ২০ ডলার খরচ হয় যখন গ্রব বারিয়ালে ৮০০০ ডলার লাগে। আত্মীয়রা যেকোনো সময় প্রতিবেশী কাজে থাকলে দেখা করতে পারে এবং এটা সাশ্রয়ী ও গোপনীয়।"
+   }
+  },
+  {
+   "id": "o5x7fg",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
+   "published": "2026-10-14T18:23:46.000Z",
+   "added": "2026-10-14T18:32:11.257Z",
+   "origTitle": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+   "en": {
+    "title": "YouTube Music labels AI-generated tracks for listeners",
+    "summary": "YouTube Music rolled out labels Wednesday to help listeners identify AI-generated music. Three categories exist: 'Fully Gen AI' for entirely AI-created tracks, 'Partly Gen AI' for mixed human-AI work, and 'No Gen AI' for standard production. The label appears on the player and extends to the main YouTube app, addressing AI's flood across streaming platforms."
+   },
+   "bn": {
+    "title": "ইউটিউব মিউজিক এআই গান চিহ্নিত করতে লেবেল যোগ করল",
+    "summary": "ইউটিউব মিউজিক তিনটি লেবেল চালু করেছে—'ফুলি জেন এআই', 'পার্টলি জেন এআই' এবং 'নো জেন এআই'। এতে শ্রোতারা জানতে পারবে কোন গান পুরোটা এআই দিয়ে বানানো বা আংশিক মানুষের সাথে। স্ট্রিমিং প্ল্যাটফর্মে এআই সঙ্গীত বাড়ছে বলেই এমন পদক্ষেপ নেওয়া হয়েছে।"
+   }
+  },
+  {
+   "id": "1faz98h",
+   "section": "hasi",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/14/austin-texas-estate-sale-live-grenades-world-war-ii/6091791999348/",
+   "image": "https://cdnph.upi.com/ph/st/th/6091791999348/2026/i/17919994605888/v1.5/Estate-sale-purchase-turns-out-to-be-box-of-live-WWII-grenades.jpg",
+   "published": "2026-10-14T17:38:41.000Z",
+   "added": "2026-10-14T18:32:11.257Z",
+   "origTitle": "Look: Estate sale purchase turns out to be box of live WWII grenades",
+   "en": {
+    "title": "Estate sale shopper discovers box of live WWII grenades",
+    "summary": "A Texas shopper got a nasty surprise when they discovered their estate sale purchase contained live hand grenades from World War II. Police responded to secure the dangerous discovery."
+   },
+   "bn": {
+    "title": "এস্টেট সেলে কিনেছিলেন দ্বিতীয় বিশ্বযুদ্ধের গ্রেনেড",
+    "summary": "টেক্সাসে এক ক্রেতা এস্টেট সেল থেকে কেনা জিনিসের মধ্যে দ্বিতীয় বিশ্বযুদ্ধের জীবন্ত গ্রেনেড খুঁজে পায়। এটি নিরাপদ করতে পুলিশ ছুটে যায়।"
+   }
+  },
+  {
+   "id": "1msc8d2",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6acfb4a2bf-1791997090.jpg?resize=1920%2C1440",
+   "published": "2026-10-14T17:32:09.000Z",
+   "added": "2026-10-14T18:32:11.257Z",
+   "origTitle": "Ex-UK army chef jailed for ‘terror’-related offence",
+   "en": {
+    "title": "UK ex-army chef jailed for terror-related weapon possession",
+    "summary": "Mark Broadhurst, 28, a former British Army member, was sentenced Wednesday to nearly four years in jail for possessing weapons for terrorist purposes. Police found knives, crossbows, black powder, ammunition, air pistols, and a homemade cannon at his home in September 2024. He was linked to an online chat group with three others previously jailed for planning attacks on religious buildings."
+   },
+   "bn": {
+    "title": "সন্ত্রাসী কার্যকলাপে সাজা খাবারের শেফ",
+    "summary": "ব্রিটেনের সাবেক আর্মি শেফ মার্ক ব্রডহার্স্ট সন্ত্রাস সংক্রান্ত কাজে সাজা পেয়েছেন। তার বাড়িতে পুলিশ ছুরি, ক্রসবো, বারুদ এবং হোমমেড কামান খুঁজে পায়। সেপ্টেম্বর ২০২৪-এ গ্রেপ্তার হওয়া হয়। তিনি অনলাইন চ্যাট গ্রুপে ছিলেন যেখানে আরও তিনজন মসজিদ-সিনাগোগে আক্রমণের পরিকল্পনায় জেল খেয়েছে।"
+   }
+  },
+  {
+   "id": "13isvgz",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/law-and-crime/974566/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%9C%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%98%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3-%E0%A6%86%E0%A6%B9%E0%A6%A4",
+   "image": null,
+   "published": "2026-10-14T18:16:56.000Z",
+   "added": "2026-10-14T18:32:11.257Z",
+   "origTitle": "রাজধানীতে জুলাই জাদুঘরের সামনে ককটেল বিস্ফোরণ, আহত ১",
+   "en": {
+    "title": "Petrol bomb attack near July massacre museum kills one",
+    "summary": "A CNG autorickshaw driver was injured when assailants threw two petrol bombs outside the July Uprising memorial museum in Sherebangla Nagar on Wednesday night around 10:45 PM. One bomb exploded while the other was recovered unexploded. Police are investigating the incident."
+   },
+   "bn": {
+    "title": "জুলাই জাদুঘরের সামনে ককটেল বিস্ফোরণে আহত",
+    "summary": "বুধবার রাত পৌনে ১১টায় শেরেবাংলা নগরের জুলাই গণঅভ্যুত্থান স্মৃতি জাদুঘরের সামনে দুর্বৃত্তরা দুটি ককটেল নিক্ষেপ করে। একটি বিস্ফোরিত হয় এবং একজন সিএনজি অটোরিকশা চালক আহত হয়। অন্যটি অবিস্ফোরিত অবস্থায় পুলিশ উদ্ধার করে।"
+   }
+  },
+  {
+   "id": "1k9tigt",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cqev3dwmj48vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35c2/live/ee083090-c7dd-11f1-b712-6f93dfe07e87.jpg",
+   "published": "2026-10-14T14:50:11.000Z",
+   "added": "2026-10-14T18:32:11.257Z",
+   "origTitle": "বাংলাদেশে ৩৫ বছরের পরে আইনজীবী হতে বাধা কেন?",
+   "en": {
+    "title": "Bangladesh bans becoming lawyer after age 35",
+    "summary": "Bangladesh's law minister announced Tuesday that people over 35 will no longer be allowed to enter the legal profession, citing the need to make it more professional and respectable. The rule takes effect January 1, 2030, accounting for current students. Lawyers have mixed reactions—some support it to combat fake lawyers and fraud, while others argue fixing the exam system and Bar Council oversight matters more."
+   },
+   "bn": {
+    "title": "৩৫ বছরের পর আইনজীবী হওয়ার পথ বন্ধ করছে সরকার",
+    "summary": "মঙ্গলবার আইনমন্ত্রী জানিয়েছেন, ২০৩০ সালের ১ জানুয়ারি থেকে ৩৫ বছরের বেশি বয়সী কেউ আইনজীবী হতে পারবে না। এই পেশাকে আরও প্রফেশনাল এবং সম্মানজনক করতেই এই সিদ্ধান্ত নেওয়া হয়েছে। আইনজীবীদের মধ্যে মিশ্র প্রতিক্রিয়া রয়েছে—অনেকে এটি স্বাগত জানালেও কেউ কেউ বার পরীক্ষা ও নিয়োগ প্রক্রিয়া সংশোধন বেশি জরুরি বলে মনে করছেন।"
+   }
+  },
+  {
+   "id": "1agbh1g",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/world/ukraine-says-spacex-hampers-drones-attack-and-defence-us-ties-fray-1573336",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/trumnp.png",
+   "published": "2026-10-14T18:15:00.000Z",
+   "added": "2026-10-14T18:32:11.257Z",
+   "origTitle": "Ukraine says SpaceX hampers drones for attack and defence, as US ties fray",
+   "en": {
+    "title": "Ukraine says SpaceX limiting Starlink as US ties worsen",
+    "summary": "Ukraine says Elon Musk's SpaceX restricted Starlink military services on September 14, hampering drone operations and air defences. The move comes as US-Ukraine relations deteriorate—President Trump lifted sanctions on Russian diesel, called for an energy ceasefire, and suggested Ukraine replace its leader. Russia meanwhile intensified missile and drone attacks on Ukrainian cities, knocking out power for hundreds of thousands."
+   },
+   "bn": {
+    "title": "স্পেসএক্সের স্টারলিংক সীমিত করায় ইউক্রেইনের অভিযোগ",
+    "summary": "ইউক্রেইন বলছে ইলন মাস্কের স্পেসএক্স ১৪ সেপ্টেম্বর স্টারলিংকের মিলিটারি সেবা সীমিত করেছে। এতে ড্রোন অপারেশন এবং এয়ার ডিফেন্স বাধাগ্রস্ত হয়েছে। ট্রাম্প রাশিয়ার উপর থেকে সংবাদ তুলেছেন এবং ইউক্রেইনের নেতা বদলানোর কথা বলেছেন। এদিকে রাশিয়া ইউক্রেইনের শহরগুলোতে ভারী মিসাইল ও ড্রোন আক্রমণ চালিয়েছে।"
+   }
+  },
   {
    "id": "1ie82xj",
    "section": "news",
@@ -1869,160 +2067,6 @@
    "bn": {
     "title": "এনসিপি আরও ১০০ উপজেলায় প্রার্থী ঘোষণা করবে, সপ্তাহব্যাপী কর্মসূচি আসছে",
     "summary": "জাতীয় নাগরিক পার্টি (এনসিপি) আইনশৃঙ্খলা, জ্বালানি তেলের দাম, পণ্যমূল্য বৃদ্ধি এবং চাকরিতে দুর্নীতির বিরুদ্ধে ২৩ অক্টোবর থেকে সপ্তাহব্যাপী জনসংযোগ কর্মসূচি ঘোষণা করেছে। এই সিদ্ধান্ত রবিবার ১১ অক্টোবর দলের সর্বোচ্চ নীতিনির্ধারণী ফোরাম রাজনৈতিক পর্ষদের সভায় নেওয়া হয়।"
-   }
-  },
-  {
-   "id": "bwau1u",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/sports/cricket/bangladesh-u-19-women-reach-tri-series-final-pakistan-1569626",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/bangladesh_women_u-19.png",
-   "published": "2026-10-11T15:20:00.000Z",
-   "added": "2026-10-11T15:35:51.431Z",
-   "origTitle": "Bangladesh U-19 women reach tri-series final in Pakistan",
-   "en": {
-    "title": "Bangladesh U-19 women beat Pakistan, reach tri-series final",
-    "summary": "Bangladesh's Under-19 women's team hammered Pakistan by 32 runs at Faisalabad to seal a place in the final. Batting first, Bangladesh made 136-5, led by Sadia Islam's 44 off 28 balls and Shirina Khatun's 32. Pakistan managed only 104-9 in reply, struggling against Bangladesh's bowling. Bangladesh now faces Sri Lanka in the final."
-   },
-   "bn": {
-    "title": "বাংলাদেশ ইউ-১৯ নারী ক্রিকেট দল ফাইনালে পৌঁছেছে",
-    "summary": "বাংলাদেশ আন্ডার-১৯ নারী দল পাকিস্তানকে ৩২ রান ফারাকে পরাজিত করে ফাইনালে প্রবেশ করেছে। বাংলাদেশ প্রথমে ব্যাট করে ১৩৬-৫ করে। সাদিয়া ইসলাম ২৮ বলে ৪৪ রান এবং শিরিনা খাতুন ৪০ বলে ৩২ রান করেন। পাকিস্তান মাত্র ১০৪-৯ করে প্রতিদ্বন্দ্বিতা করতে পারে না।"
-   }
-  },
-  {
-   "id": "lbw6mg",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/crime/pwo150xuxg",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-08/0vwg3sv7/polok.jpeg",
-   "published": "2026-10-11T15:15:52.000Z",
-   "added": "2026-10-11T15:35:51.431Z",
-   "origTitle": "পলকের নির্দেশে জুলাইয়ে সব পাবলিক বিশ্ববিদ্যালয়ে থ্রিজি, ফোরজি ইন্টারনেট বন্ধ করা হয়",
-   "en": {
-    "title": "Former minister ordered internet shutdown at universities in July",
-    "summary": "During July's mass protests, former deputy minister Junaid Ahmed Polok ordered 3G and 4G internet shut down at all public universities and four private ones, a BTRC official testified in court. The order came after midnight on July 14, 2024, passed through the telecom regulator to mobile operators. A similar blanket shutdown across all public and four private universities followed on July 16."
-   },
-   "bn": {
-    "title": "জুলাই অভ্যুত্থানে পলকের নির্দেশে বিশ্ববিদ্যালয়ে ইন্টারনেট বন্ধ",
-    "summary": "গণ-অভ্যুত্থানের সময় তৎকালীন প্রতিমন্ত্রী জুনাইদ আহমদ পলক সব পাবলিক বিশ্ববিদ্যালয় ও চারটি বেসরকারি বিশ্ববিদ্যালয়ে ৩জি ও ৪জি ইন্টারনেট বন্ধের নির্দেশ দেন। আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে বিটিআরসির উপপরিচালক মাহদী আহমদ এই তথ্য দেন। ১৪ জুলাই মধ্যরাতের পর প্রথম নির্দেশনা আসে এবং ১৬ জুলাই সব বিশ্ববিদ্যালয়ে আরেকটি একই ধরনের নির্দেশনা বাস্তবায়ন হয়।"
-   }
-  },
-  {
-   "id": "17605o2",
-   "section": "news",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/tqf16a7cai",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-11/fo0id4rm/samina-lufta.avif",
-   "published": "2026-10-11T15:09:13.000Z",
-   "added": "2026-10-11T15:35:39.811Z",
-   "origTitle": "Prof Samina Luthfa protests alleged harassment of teachers for expressing dissent",
-   "en": {
-    "title": "DU professor stages silent protest for teacher freedom",
-    "summary": "Professor Samina Luthfa of the University of Dhaka's Sociology Department staged a five-minute silent protest on Sunday, covering her mouth with black cloth to oppose efforts to restrict teachers' classroom freedom. She was protesting the alleged harassment of teachers for expressing dissent. Her action came after Associate Professor Tasneem Siraj Mahboob was barred from teaching following a dispute with a student wearing a niqab during class."
-   },
-   "bn": {
-    "title": "শিক্ষকদের স্বাধীনতার দাবিতে ঢাবির অধ্যাপিকার নিরব প্রতিবাদ",
-    "summary": "ঢাকা বিশ্ববিদ্যালয়ের সমাজবিজ্ঞান বিভাগের অধ্যাপক সামিনা লুৎফা রবিবার কক্ষে মুখ কালো কাপড়ে ঢেকে পাঁচ মিনিট নীরব প্রতিবাদ করেছেন। তিনি শিক্ষকদের মতপ্রকাশের স্বাধীনতা রক্ষা এবং মতভিন্নতার জন্য শিক্ষকদের উপর নির্যাতনের বিরুদ্ধে প্রতিবাদ করছিলেন। এর আগে ইংরেজি বিভাগের সহযোগী অধ্যাপক তাসনিম সিরাজ মাহবুব একজন নিকাব পরিহিত ছাত্রীর সাথে বিতর্কের পর ক্লাস নেওয়ার অনুমতি হারিয়েছেন।"
-   }
-  },
-  {
-   "id": "1n8qo7t",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/marathoner-already-pissing-self-half-mile-in/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Marathon_Runner_Already_SB-IHA_GR-SOCIAL.jpg",
-   "published": "2026-10-11T13:00:00.000Z",
-   "added": "2026-10-11T15:35:39.811Z",
-   "origTitle": "Marathoner Already Pissing Self Half-Mile In",
-   "en": {
-    "title": "Marathoner already in trouble half-mile in",
-    "summary": "The Onion reports that a marathon runner is already having bathroom troubles just half a mile into the race. This is satire poking fun at the very real challenges distance runners face during long events. The joke highlights how uncomfortable marathons can be, even early on."
-   },
-   "bn": {
-    "title": "ম্যারাথন রেসে অর্ধেক মাইলেই দৌড়বিদের সমস্যা শুরু",
-    "summary": "দ্য অনিয়নের তৈরি বিনোদনমূলক এই খবর ম্যারাথন রেসে অর্ধেক মাইল দৌড়ানোর পর একজন দৌড়বিদের ব্যক্তিগত সমস্যার কথা বলে। এটি একটি কৌতুক যা দীর্ঘ দূরত্বের রেসে দৌড়বিদরা যে বাস্তব চ্যালেঞ্জ মোকাবেলা করে তা নিয়ে মজা করছে।"
-   }
-  },
-  {
-   "id": "17lr8ee",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-11T14:38:10.000Z",
-   "added": "2026-10-11T15:35:39.811Z",
-   "origTitle": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-   "en": {
-    "title": "Ukraine strikes Yandex data centre near Moscow for third time",
-    "summary": "Ukraine's third drone strike in a week hit a Yandex data centre in Vladimir, east of Moscow, forcing the Russian tech company to completely suspend operations there. No injuries were reported, but the facility damage disrupted some services. Two other Yandex data centres were hit earlier in the week in Sasovo (Thursday) and Kaluga (Friday). Kyiv said it targeted sites funding Russia's war effort and aims to force Moscow to divert resources to repairs."
-   },
-   "bn": {
-    "title": "মস্কোর কাছে ইয়ান্ডেক্সের ডেটা সেন্টারে ইউক্রেনের তৃতীয় আঘাত",
-    "summary": "এক সপ্তাহে তৃতীয়বার ইউক্রেনের ড্রোন স্ট্রাইক মস্কোর পূর্বে ভ্লাদিমিরে অবস্থিত রাশিয়ান টেক কোম্পানি ইয়ান্ডেক্সের একটি ডেটা সেন্টার ক্ষতিগ্রস্ত করেছে। কোনো আহত নেই, কিন্তু সেবা ব্যাহত হয়েছে। এর আগে সপ্তাহে সাসোভো (বৃহস্পতি) এবং কালুগায় (শুক্রবার) আরও দুটি কেন্দ্রে হামলা হয়েছিল। কিয়েভ বলেছে তারা রাশিয়ার যুদ্ধ তহবিলের জায়গা লক্ষ্য করে এবং মস্কোকে ক্ষয়ক্ষতি মেরামতে সম্পদ ব্যয় করতে বাধ্য করতে চায়।"
-   }
-  },
-  {
-   "id": "1tf409c",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/rajshahi/973881/%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%9F%E0%A6%AA-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%95%E0%A7%87",
-   "image": null,
-   "published": "2026-10-11T15:33:08.000Z",
-   "added": "2026-10-11T15:35:39.811Z",
-   "origTitle": "জার্মান পর্যটকের ল্যাপটপ-ক্যামেরা চুরি, অভিযুক্তকে ধরিয়ে দিতে পুরস্কার ঘোষণা",
-   "en": {
-    "title": "Reward offered for catching thief who stole German tourist's laptop",
-    "summary": "Special Response Battalion 5 (SRB-5) announced a reward for information leading to the arrest of a young man who stole a bag containing a laptop and camera from German tourist Creel Lander at Nator Railway Station on Saturday, 10 October. The unit identified the suspect by analyzing CCTV footage and released his photo at the station. Anyone providing helpful information or assisting in the suspect's capture will be rewarded."
-   },
-   "bn": {
-    "title": "জার্মান পর্যটকের ল্যাপটপ চুরিকারীর জন্য পুরস্কার ঘোষণা",
-    "summary": "১০ অক্টোবর শনিবার রাতে নাটোর রেলওয়ে স্টেশন থেকে জার্মান পর্যটক ক্রিল ল্যান্ডারের ল্যাপটপ এবং ক্যামেরাসহ একটি ব্যাগ চুরি করে পালিয়ে যাওয়া তরুণকে ধরতে স্পেশাল রেসপন্স ব্যাটালিয়ন (এসআরবি-৫) পুরস্কার ঘোষণা করেছে। এসআরবি সিসিটিভি ফুটেজ বিশ্লেষণ করে সন্দেহভাজনের চেহারা শনাক্ত করেছে এবং তার ছবি স্টেশনে প্রকাশ করেছে। তথ্য দিলে বা ধরতে সাহায্য করলে পুরস্কার পাওয়া যাবে।"
-   }
-  },
-  {
-   "id": "rpy6lh",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cqm26dykgeezo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e76a/live/d7768720-c579-11f1-82d0-c3c20e527ef0.jpg",
-   "published": "2026-10-11T14:12:58.000Z",
-   "added": "2026-10-11T15:35:39.811Z",
-   "origTitle": "ওমরাহ করতে গিয়ে হুথির হামলায় প্রাণ হারালেন মাদ্রাসা শিক্ষক নাসরুল্লাহ",
-   "en": {
-    "title": "Two Bangladeshis killed in Houthi missile strike on Riyadh airport",
-    "summary": "Two Bangladeshi nationals died when Houthi missiles hit Terminal 3 of King Khalid International Airport in Riyadh on Saturday afternoon at 3:20 pm. Mohammad Nasrullah Badrpuri, a teacher at a madrasa in Dhaka's Kamrangirchar, and Mohammad Shahid Ahmed from Bogura were killed. Nasrullah had left Dhaka Saturday morning for Umrah and was waiting to board a connecting flight to Mecca when the attack occurred. At least one other person from their group lost both legs, and several others were injured."
-   },
-   "bn": {
-    "title": "রিয়াদ বিমানবন্দরে হুথির ক্ষেপণাস্ত্রে দুই বাংলাদেশি নিহত",
-    "summary": "শনিবার দুপুর ৩টা ২০ মিনিটে রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরের টার্মিনাল-৩-এ হুথিদের ক্ষেপণাস্ত্র আঘাত করে দুই বাংলাদেশী নাগরিককে মেরে ফেলে। মোঃ নাসরুল্লাহ বদরপুরি, যিনি ঢাকার কামরাঙ্গীরচরের একটি মাদ্রাসায় পড়াতেন, এবং বগুড়ার মোঃ শাহেদ আহম্মেদ নিহত হন। নাসরুল্লাহ শনিবার সকালে ওমরার উদ্দেশ্যে ঢাকা ছেড়েছিলেন এবং মক্কায় যাওয়ার জন্য ফ্লাইটে উঠতে অপেক্ষা করছিলেন। তাদের দলের আরও একজন দুই পা হারিয়েছেন এবং অন্যরা আহত হয়েছেন।"
    }
   }
  ]

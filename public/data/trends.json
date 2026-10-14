@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-14T13:38:59.036Z",
+ "updatedAt": "2026-10-14T18:32:42.650Z",
  "burning": [
   {
-   "id": "1kmw58b",
+   "id": "a1imnd",
    "heat": 5,
    "why": {
-    "en": "Principal and teacher clash video went viral, massive local buzz on Google Trends.",
-    "bn": "শিক্ষক এবং প্রিন্সিপালের ধস্তাধস্তির ভিডিও ভাইরাল, গুগল ট্রেন্ডে ১০০০+ সার্চ।"
+    "en": "Cricket dominates Google Trends BD with multiple player searches (Tsimikas, Gail, Du Plessis, Kaiki Bruno) tied to live matches.",
+    "bn": "গুগল ট্রেন্ডসে ক্রিকেট খেলোয়াড় এবং ম্যাচ নিয়ে একাধিক সার্চ ভাইরাল, লাইভ গেমের সাথে সরাসরি যুক্ত।"
    },
    "rank": 1
   },
   {
-   "id": "35x92f",
+   "id": "1vwgj44",
    "heat": 4,
    "why": {
-    "en": "Serious crime story: man killed over blasphemy allegations in Satkhira.",
-    "bn": "সতর্কতার বিষয়: সাতক্ষীরায় নিন্দা অভিযোগে মানুষ নিহত।"
+    "en": "Serious investigation into abuse at Islamic seminaries in Bangladesh—major institutional accountability story.",
+    "bn": "বাংলাদেশে ইসলামিক সেমিনারিতে নির্যাতনের ব্যাপক অনুসন্ধান—প্রতিষ্ঠানগত দায়বদ্ধতার বড় গল্প।"
    },
    "rank": 2
   },
   {
-   "id": "1ohgv2o",
+   "id": "1k9tigt",
    "heat": 4,
    "why": {
-    "en": "Major fire destroys 7-8 warehouses in Dhaka's Chawkbazar, breaking news coverage.",
-    "bn": "ঢাকার চকবাজারে ৭-৮টি গুদাম পুড়ে গেছে, বড় খবর।"
+    "en": "Bangladesh's new lawyer age limit draws attention as unusual policy affecting professional sector.",
+    "bn": "বাংলাদেশের নতুন আইনজীবী বয়স সীমা একটি অস্বাভাবিক নীতি হিসেবে মনোযোগ আকর্ষণ করছে।"
    },
    "rank": 3
   },
   {
-   "id": "1vwgj44",
+   "id": "13isvgz",
    "heat": 3,
    "why": {
-    "en": "BBC investigation on widespread sexual abuse at Islamic seminaries in Bangladesh.",
-    "bn": "বাংলাদেশের ইসলামিক সেমিনারিতে যৌন নিষ্ঠুরতার ব্যাপক খবর।"
+    "en": "Petrol bomb attack near July massacre museum signals ongoing security tensions.",
+    "bn": "জুলাই হত্যাকাণ্ডের মিউজিয়মের কাছে পেট্রোল বোমা হামলা নিরাপত্তা সংকট নিয়ে উদ্বেগ দেখায়।"
    },
    "rank": 4
   },
   {
-   "id": "6h9vk7",
+   "id": "1p9otd5",
    "heat": 3,
    "why": {
-    "en": "Bangladesh accelerating World Bank-funded projects worth $10 billion.",
-    "bn": "বিশ্ব ব্যাংকের ১০ বিলিয়ন ডলার প্রকল্প দ্রুত এগিয়ে যাচ্ছে।"
+    "en": "BCS result releases are routine high-traffic moments for student-focused news in Bangladesh.",
+    "bn": "বিসিএস ফলাফল প্রকাশ বাংলাদেশের ছাত্র-কেন্দ্রিক খবরের জন্য নিয়মিত উচ্চ ট্রাফিক মুহূর্ত।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1kmw58b",
-   "tag": "#ViraVideo",
+   "id": "a1imnd",
+   "tag": "#CricketViral",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "School teachers clash caught on camera",
-    "text": "A video of a principal and teacher fighting at a school went viral, sparking massive conversation online about what really happened behind the scenes."
+    "title": "Live cricket matches heat up",
+    "text": "Players like Shai Hope, Chris Gayle, and Faf du Plessis are trending as multiple high-stakes fixtures play out today."
    },
    "bn": {
-    "title": "স্কুলে শিক্ষকদের ঝগড়া ভাইরাল",
-    "text": "একটি স্কুলে প্রিন্সিপাল এবং শিক্ষকের ঝগড়ার ভিডিও ভাইরাল হয়েছে, মানুষ জানতে চাইছে আসলে কী হয়েছে।"
+    "title": "লাইভ ক্রিকেট ম্যাচ ভাইরাল",
+    "text": "শাই হোপ, ক্রিস গেইল এবং ফাফ ডু প্লেসিস একাধিক গুরুত্বপূর্ণ ম্যাচের সাথে ট্রেন্ডিং।"
    }
   },
   {
-   "id": "a1imnd",
-   "tag": "#CricketTalk",
+   "id": "1vwgj44",
+   "tag": "#SeminaryAbuse",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Afghanistan calls Abu Dhabi draw a win",
-    "text": "Afghanistan cricketer Rahmat Shah marked the Abu Dhabi draw as equal to a win, sparking cricket fans' debate on social media."
+    "title": "Abuse allegations rock Islamic seminaries",
+    "text": "BBC Bangla investigation reveals widespread sexual abuse of boys at Islamic seminaries across Bangladesh, sparking serious institutional scrutiny."
    },
    "bn": {
-    "title": "আফগানিস্তান ড্র কে জয় বলেছে",
-    "text": "আফগানিস্তানের ক্রিকেটার রহমত শাহ আবু ধাবি ড্র-কে জয়ের মতো বলেছেন, ক্রিকেট ভক্তরা আলোচনা করছেন।"
+    "title": "সেমিনারিতে নির্যাতনের অভিযোগ",
+    "text": "বিবিসি বাংলা অনুসন্ধান বাংলাদেশের ইসলামিক সেমিনারিতে ছেলেদের ব্যাপক যৌন নির্যাতন প্রকাশ করেছে।"
    }
   },
   {
-   "id": "1njusxs",
-   "tag": "#CustomsNews",
+   "id": "1k9tigt",
+   "tag": "#LawyerBan",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Gold and iPhones seized at airports",
-    "text": "Customs officials seized Tk1.39 crore in gold and iPhones at two Bangladesh airports in smuggling operations."
+    "title": "Age-35 lawyer ban surprises sector",
+    "text": "Bangladesh has banned people from becoming lawyers after turning 35, sparking debate over the policy's impact on legal professionals."
    },
    "bn": {
-    "title": "বিমানবন্দরে স্বর্ণ এবং আইফোন জব্দ",
-    "text": "দেশের দুটি বিমানবন্দরে সীমান্ত বিভাগ ১.৩৯ কোটি টাকার সোনা এবং আইফোন জব্দ করেছে।"
+    "title": "৩৫ বছরের পর আইনজীবী নিষেধাজ্ঞা",
+    "text": "বাংলাদেশ ৩৫ বছর বয়সের পর কাউকে আইনজীবী হতে দিচ্ছে না, যা পেশাদারদের নিয়ে বিতর্ক সৃষ্টি করেছে।"
    }
   }
  ],
