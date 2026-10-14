@@ -1,6 +1,248 @@
 {
- "updatedAt": "2026-10-14T07:30:44.896Z",
+ "updatedAt": "2026-10-14T13:38:45.270Z",
  "items": [
+  {
+   "id": "1ie82xj",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/politics/jamaat-chief-calls-joint-efforts-protect-hindu-citizens-rights-1572906",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/jamaat_hindu.jpg",
+   "published": "2026-10-14T13:05:00.000Z",
+   "added": "2026-10-14T13:38:45.270Z",
+   "origTitle": "Jamaat chief calls for joint efforts to protect Hindu citizens' rights",
+   "en": {
+    "title": "Jamaat Leader Calls for Joint Effort to Protect Hindu Rights",
+    "summary": "Jamaat-e-Islami Ameer Shafiqur Rahman met Hindu community leaders and called on government and opposition to work together protecting Hindu citizens' rights before Durga Puja. He stressed all religious and ethnic communities are equal citizens. Hindu leaders praised Jamaat activists for protecting puja mandaps and temples since August 5, 2024, and raised concerns about discrimination."
+   },
+   "bn": {
+    "title": "জামাত নেতা হিন্দু অধিকার রক্ষায় সমন্বিত প্রচেষ্টার আহ্বান",
+    "summary": "জামাত-ই-ইসলামের আমির শফিকুর রহমান হিন্দু সম্প্রদায়ের নেতাদের সাথে মিলিত হয়ে সরকার এবং বিরোধী পক্ষকে দুর্গা পূজার আগে হিন্দু নাগরিকদের অধিকার রক্ষায় একসাথে কাজ করার আহ্বান জানান। তিনি জোর দেন যে সব ধর্ম ও সম্প্রদায় সমান নাগরিক। হিন্দু নেতারা ৫ আগস্ট ২০২৪ থেকে পূজামণ্ডপ ও মন্দির রক্ষায় জামাতের ভূমিকার প্রশংসা করেন এবং বৈষম্যের অভিযোগ তোলেন।"
+   }
+  },
+  {
+   "id": "gvx8uo",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/videos/a-bangkok-cabbie-finds-balance-in-a-thrilling-street-sport",
+   "image": "https://images.aeonmedia.co/images/bb5477d4-4e87-4320-836d-c897214de2d5/chu-prayad-landscape-2-v2.jpg?top=39&left=324&cropWidth=1904&cropHeight=1071&width=1200&quality=75&format=jpeg",
+   "published": "2026-10-14T10:01:00.000Z",
+   "added": "2026-10-14T13:38:45.270Z",
+   "origTitle": "Chu Prayad",
+   "en": {
+    "title": "Documentary Follows Bangkok Taxi Driver's Sepak Takraw Life",
+    "summary": "Sepak takraw, a Southeast Asian sport mixing football and volleyball, demands acrobatic kicks and teamwork. A short film called 'Chu Prayad' follows a young Bangkok taxi driver juggling stressful work with competitive sepak takraw matches among friends. Through the game, he reclaims play, exercise, and camaraderie often lost to adult responsibilities."
+   },
+   "bn": {
+    "title": "সেপাক টাকরাওয়ে বাংকক ট্যাক্সি চালক, ডকুমেন্টারি তৈরি হয়েছে",
+    "summary": "সেপাক টাকরাও দক্ষিণ-পূর্ব এশিয়ার একটি খেলা যা ফুটবল এবং ভলিবলের মিশ্রণ, যেখানে কিক এবং টিমওয়ার্ক লাগে। 'চু প্রায়াদ' নামের একটি ছোট ফিল্ম ব্যাংকক শহরে একজন ট্যাক্সি চালকের গল্প বলে যিনি কঠিন কাজের সাথে বন্ধুদের সাথে সেপাক টাকরাও খেলা জুগিয়ে চলেছেন। এই খেলায় তিনি খেলা, ব্যায়াম এবং বন্ধুত্ব ফিরে পান যা বয়স্ক দায়িত্বে হারিয়ে যায়।"
+   }
+  },
+  {
+   "id": "dxg6pm",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/business/industry/zkcrib989h",
+   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-14%2Fas5xdxdm%2FUntitled_1.jpg?rect=0%2C73%2C703%2C369&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+   "published": "2026-10-14T13:20:13.000Z",
+   "added": "2026-10-14T13:38:45.270Z",
+   "origTitle": "২০০০ ফ্ল্যাট গড়েছে কমপ্রিহেনসিভ",
+   "en": {
+    "title": "Comprehensive Holdings Built Over 2,000 Apartments",
+    "summary": "Comprehensive Holdings, an apartment developer in Dhaka, has completed 117 residential projects with over 2,000 flats since 2005. They focus on prime locations across areas like Dhanmondi, Gulshan, and Banani. Currently building 40 projects with over 1,000 more apartments, including an eco-friendly project called Comprehensive Aminabad Housing in Siddheshwari."
+   },
+   "bn": {
+    "title": "কমপ্রিহেনসিভ ২০০০ এর বেশি ফ্ল্যাট তৈরি করেছে",
+    "summary": "ঢাকার বাড়ি নির্মাতা কমপ্রিহেনসিভ হোল্ডিংস ২০০৫ সাল থেকে ১১৭টি রেসিডেনশিয়াল প্রজেক্ট তৈরি করেছে যেখানে ২০০০ এর বেশি ফ্ল্যাট রয়েছে। ধানমন্ডি, গুলশান, বনানী সহ ঢাকার প্রধান এলাকায় তাদের প্রজেক্ট আছে। বর্তমানে তারা ৪০টি প্রজেক্টে কাজ করছে যেখানে ১০০০ এর বেশি নতুন অ্যাপার্টমেন্ট হবে, যার মধ্যে সিদ্ধেশ্বরীর পরিবেশবান্ধব 'কমপ্রিহেনসিভ আমিনাবাদ হাউজিং' অন্যতম।"
+   }
+  },
+  {
+   "id": "35x92f",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/crime-and-law/0cy6vpojpi",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-14/r4iangeu/sjamin.avif",
+   "published": "2026-10-14T12:52:05.000Z",
+   "added": "2026-10-14T13:38:45.270Z",
+   "origTitle": "Man beaten to death in Satkhira; mob takes him from hospital and assaults him again",
+   "en": {
+    "title": "Man Killed in Satkhira Over Blasphemy Allegations",
+    "summary": "Wahiduzzaman Shamim, 38, was beaten by a mob in Satkhira's Debhata on suspicion of blasphemy after audio clips spread on social media. Police rescued him and took him to hospital, but around 200-250 people entered the hospital at 8:40pm, removed him, and beat him again. He died on the way to another hospital. His family said he had been mentally unwell."
+   },
+   "bn": {
+    "title": "ধর্মনিন্দার অভিযোগে সাতক্ষীরায় ব্যক্তি নিহত",
+    "summary": "সাতক্ষীরার দেবহাটায় সোশ্যাল মিডিয়ায় ছড়িয়ে পড়া অডিও ক্লিপের কারণে ৩৮ বছর বয়সী ওয়াহিদুজ্জামান শামিম ভিড়ের মার খেয়েছেন। পুলিশ তাকে উদ্ধার করে হাসপাতালে ভর্তি করে, কিন্তু রাত ৮:৪০ এ ২০০-২৫০ জন মানুষ হাসপাতালে ঢুকে তাকে বের করে আবার মারপিট করে। তিনি অন্য হাসপাতালে যাওয়ার সময় মৃত্যু হন। তার পরিবার জানায় তিনি মানসিকভাবে অসুস্থ ছিলেন।"
+   }
+  },
+  {
+   "id": "uegsxa",
+   "section": "bhabna",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/2026/10/14/piksis-in-peril-but-you-can-help-guest-post/",
+   "image": "https://dailynous.com/wp-content/uploads/2026/10/PIKSI-Boston-fellows-2015-edited.jpg",
+   "published": "2026-10-14T09:45:00.000Z",
+   "added": "2026-10-14T13:38:45.270Z",
+   "origTitle": "PIKSI’s in Peril but You Can Help (guest post)",
+   "en": {
+    "title": "Philosophy Program Faces Funding Cuts, Needs Your Help",
+    "summary": "PIKSI-Boston, a summer program run by MIT and Harvard since 2015, helps young people from underrepresented backgrounds study philosophy and prepare for grad school. It's supported 220 fellows so far, but funding from MIT and Harvard got cut. Organizers plan to shrink the program and raise money for 2027."
+   },
+   "bn": {
+    "title": "দর্শন প্রোগ্রাম তহবিল সংকটে, আপনার সাহায্য প্রয়োজন",
+    "summary": "এমআইটি এবং হার্ভার্ডের পিকেএসআই-বস্টন প্রোগ্রাম ২০১৫ থেকে বিভিন্ন পটভূমির তরুণদের দর্শন পড়ার সুযোগ দিচ্ছে এবং গ্র্যাজুয়েট স্কুলের জন্য প্রস্তুত করছে। এ পর্যন্ত ২২০ জন ফেলো সাহায্য পেয়েছে কিন্তু এমআইটি এবং হার্ভার্ডের ফান্ডিং কেটে দেওয়া হয়েছে। আয়োজকরা প্রোগ্রাম ছোট করে ২০২৭-এর জন্য অর্থ সংগ্রহের পরিকল্পনা করছেন।"
+   }
+  },
+  {
+   "id": "k41rpt",
+   "section": "bhabna",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/videos/the-all-female-team-defusing-isiss-deadly-landmine-legacy",
+   "image": "https://images.aeonmedia.co/images/b24e6e80-3fbe-4457-b9ea-798df8a22ff8/into-the-fire-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-14T10:01:00.000Z",
+   "added": "2026-10-14T13:38:17.746Z",
+   "origTitle": "Into the fire",
+   "en": {
+    "title": "Documentary 'Into the Fire' follows Yazidi woman clearing ISIS landmines",
+    "summary": "A new documentary follows Hana Khider, a Yazidi woman leading an all-female de-mining team in Iraq. She searches for and disarms explosives left by ISIS, some hidden as toys. The film, directed by Orlando von Einsiedel, balances her perilous work with her life as a wife and mother rebuilding after genocide."
+   },
+   "bn": {
+    "title": "আইএসআইএস-এর মাইন দূর করছেন ইয়াজিদি নারী, ডকুমেন্টারিতে দেখুন",
+    "summary": "নতুন ডকুমেন্টারি 'ইনটু দ্য ফায়ার' ইরাকে একটি নারী দল পরিচালনা করা ইয়াজিদি নারী হানা খিদেরকে অনুসরণ করে যিনি আইএসআইএসের রেখে যাওয়া বিস্ফোরক খুঁজে বের করে নিরস্ত্র করেন। তার কাজ অত্যন্ত বিপজ্জনক এবং কিছু বোমা খেলনার মতো লুকানো থাকে। ডকুমেন্টারিটি তার ঝুঁকিপূর্ণ কাজ এবং স্ত্রী ও মায়ের জীবন ভারসাম্য দেখায়।"
+   }
+  },
+  {
+   "id": "16exxy6",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+   "published": "2026-10-14T11:00:00.000Z",
+   "added": "2026-10-14T13:38:17.746Z",
+   "origTitle": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+   "en": {
+    "title": "Indian startup Scimplify raises $25M to challenge China's materials dominance",
+    "summary": "Bengaluru-based Scimplify secured $25 million in funding to scale AI-powered production of specialty chemicals and critical materials. The round, led by Hitachi Ventures, values the startup at $250 million. Scimplify can deliver finished materials in two months versus the typical 12-18 months, targeting semiconductors and defense sectors."
+   },
+   "bn": {
+    "title": "চীনের উপকরণ নিয়ন্ত্রণ চ্যালেঞ্জ করতে ভারতীয় স্টার্টআপ ২৫ মিলিয়ন ডলার সংগ্রহ করেছে",
+    "summary": "বেঙ্গালুরু-ভিত্তিক স্কিমপ্লিফাই বিশেষ রাসায়নিক এবং গুরুত্বপূর্ণ উপকরণ উৎপাদনে এআই-চালিত পদ্ধতি সম্প্রসারণে ২৫ মিলিয়ন ডলার সংগ্রহ করেছে। হিতাচি ভেঞ্চারস নেতৃত্বে এই তহবিল স্টার্টআপকে ২৫০ মিলিয়ন ডলার মূল্যায়ন দেয়। স্কিমপ্লিফাই সাধারণ ১২-১৮ মাসের পরিবর্তে দুই মাসে উপকরণ সরবরাহ করতে পারে।"
+   }
+  },
+  {
+   "id": "8d15f8",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+   "image": "https://i.guim.co.uk/img/media/28120a16f4ee8133901215c24889ae3476e9eeda/663_0_6627_5304/master/6627.jpg?width=140&quality=85&auto=format&fit=max&s=0ffc2facca7ee7016cb29b33c9713097",
+   "published": "2026-10-14T13:16:30.000Z",
+   "added": "2026-10-14T13:38:17.746Z",
+   "origTitle": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+   "en": {
+    "title": "Guinea-Bissau denies approving controversial newborn vaccine trial",
+    "summary": "Guinea-Bissau's health minister said the country did not authorize a Danish-led hepatitis B study on newborns backed by RFK Jr. A Danish ethics committee was told Guinea-Bissau had approved it, but the health ministry says officials were never consulted. The trial would track health outcomes rather than vaccine safety."
+   },
+   "bn": {
+    "title": "গিনি-বিসাউ শিশুদের ওপর বিতর্কিত ভ্যাকসিন পরীক্ষা অনুমোদন করেনি",
+    "summary": "গিনি-বিসাউর স্বাস্থ্য মন্ত্রী বলেছেন দেশটি ডেনমার্ক-নেতৃত্বাধীন নবজাতকদের ওপর হেপাটাইটিস বি গবেষণা অনুমোদন করেনি, যা আরএফকে জুনিয়র সমর্থিত। ডেনমার্ক নৈতিক কমিটিকে বলা হয়েছিল গিনি-বিসাউ অনুমোদন দিয়েছে, কিন্তু স্বাস্থ্য মন্ত্রণালয় জানায় কর্মচারীদের কখনও পরামর্শ করা হয়নি। পরীক্ষাটি ভ্যাকসিন নিরাপত্তার চেয়ে স্বাস্থ্য ফলাফল ট্র্যাক করবে।"
+   }
+  },
+  {
+   "id": "8c7om5",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-14T13:11:17.000Z",
+   "added": "2026-10-14T13:38:17.746Z",
+   "origTitle": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+   "en": {
+    "title": "SpaceX speed limits on Starlink disrupting Ukraine's drone operations",
+    "summary": "Elon Musk's SpaceX imposed a 100mph speed restriction on Starlink terminals overnight without warning, says Zelensky's adviser Serhiy Beskrestnov. The limits are disrupting Ukraine's ability to guide drones against Russian targets. The move comes as Russian missiles killed at least three in Kyiv and left 600,000 without electricity."
+   },
+   "bn": {
+    "title": "স্টারলিংক গতি সীমা ইউক্রেনের ড্রোন অভিযান ব্যাহত করছে",
+    "summary": "ইলন মাস্কের স্পেসএক্স রাতের বেলা চেতাবনী ছাড়াই স্টারলিংক টার্মিনালে ১০০ মাইল গতি সীমা জারি করেছে বলে জেলেনস্কির পরামর্শদাতা সেরহিই বেসক্রেসনভ জানিয়েছেন। এই সীমাবদ্ধতা ইউক্রেনের রাশিয়ার লক্ষ্যবস্তুতে ড্রোন পরিচালনার ক্ষমতা নষ্ট করছে। এই সময়ে রাশিয়ার ক্ষেপণাস্ত্র কিয়েভে কমপক্ষে তিনজন হতাহত করেছে।"
+   }
+  },
+  {
+   "id": "11bgri2",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.co.uk/bengali/live/c6rmy3gxpnwnt?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c025/live/32e588d0-c7ce-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-14T13:38:17.746Z",
+   "added": "2026-10-14T13:38:17.746Z",
+   "origTitle": "পাকিস্তানে বিরোধীতার মধ্যেই খাইবার পাখতুনখোয়ায় জরুরি অবস্থা জারির প্রস্তাব অনুমোদন",
+   "en": {
+    "title": "Houthis strike Saudi Aramco as Saudi-Yemen conflict escalates",
+    "summary": "Yemen's Houthi rebels fired a missile at Saudi oil company Aramco's headquarters after a Saudi-led coalition airstrike on Sanaa's fuel depot. Aramco's building caught fire; Riyadh airport was also hit, injuring four people. The Iran-backed group warned more attacks are coming on Saudi military and energy targets."
+   },
+   "bn": {
+    "title": "সৌদি-ইয়েমেন সংঘাত বাড়ছে, হুথিরা আরামকো লক্ষ্য করেছে",
+    "summary": "সানার জ্বালানি ডিপোতে সৌদি জোটের বিমান হামলার জবাবে হুথি বিদ্রোহীরা সৌদি তেল কোম্পানি আরামকোর সদর দপ্তরে ক্ষেপণাস্ত্র দাগিয়েছে। প্রশাসনিক ভবনে আগুন লেগেছে এবং রিয়াদ বিমানবন্দরেও ক্ষেপণাস্ত্র পৌঁছেছে যাতে চারজন আহত হয়েছেন। ইরান-সমর্থিত এই গোষ্ঠী সৌদি আরবের সামরিক ও শক্তি সুবিধাগুলোতে আরও হামলার সতর্কতা দিয়েছে।"
+   }
+  },
+  {
+   "id": "wfzo05",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/foreign/middle-east/974516/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A6%95%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE",
+   "image": null,
+   "published": "2026-10-14T13:33:22.000Z",
+   "added": "2026-10-14T13:38:17.746Z",
+   "origTitle": "সৌদি আরবকে খুশি করতে ভোটের আগে ইয়েমেনে হামলার কথা ভাবছেন নেতানিয়াহু",
+   "en": {
+    "title": "Netanyahu may strike Yemen before Israeli election to please Saudi Arabia",
+    "summary": "Israel's PM Benjamin Netanyahu is considering military action against Yemen's Houthi rebels before elections on October 27, an Israeli intelligence source said. Such a move could boost his re-election chances. Recent attacks have shifted focus from Iran to Yemen as a possible target for Israeli strikes."
+   },
+   "bn": {
+    "title": "নেতানিয়াহু নির্বাচনের আগে সৌদি আরব খুশি করতে ইয়েমেনে হামলার কথা ভাবছেন",
+    "summary": "ইসরায়েলি গোয়েন্দা সূত্র জানিয়েছে, প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু ২৭ অক্টোবরের নির্বাচনের আগে ইয়েমেনের হুথি বিদ্রোহীদের বিরুদ্ধে সামরিক অভিযান চালাতে পারেন। এই ধরনের পদক্ষেপ তার পুনর্নির্বাচনের সম্ভাবনা বাড়াতে পারে। গত ৪৮ ঘণ্টায় ইরানের পরিবর্তে ইয়েমেন এখন সম্ভাব্য লক্ষ্য হিসেবে উঠে আসছে।"
+   }
+  },
   {
    "id": "a1imnd",
    "section": "news",
@@ -1781,160 +2023,6 @@
    "bn": {
     "title": "রিয়াদ বিমানবন্দরে হুথির ক্ষেপণাস্ত্রে দুই বাংলাদেশি নিহত",
     "summary": "শনিবার দুপুর ৩টা ২০ মিনিটে রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরের টার্মিনাল-৩-এ হুথিদের ক্ষেপণাস্ত্র আঘাত করে দুই বাংলাদেশী নাগরিককে মেরে ফেলে। মোঃ নাসরুল্লাহ বদরপুরি, যিনি ঢাকার কামরাঙ্গীরচরের একটি মাদ্রাসায় পড়াতেন, এবং বগুড়ার মোঃ শাহেদ আহম্মেদ নিহত হন। নাসরুল্লাহ শনিবার সকালে ওমরার উদ্দেশ্যে ঢাকা ছেড়েছিলেন এবং মক্কায় যাওয়ার জন্য ফ্লাইটে উঠতে অপেক্ষা করছিলেন। তাদের দলের আরও একজন দুই পা হারিয়েছেন এবং অন্যরা আহত হয়েছেন।"
-   }
-  },
-  {
-   "id": "gtonvh",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1557939.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423500/423597.jpg",
-   "published": "2026-10-11T08:31:09.000Z",
-   "added": "2026-10-11T08:42:35.179Z",
-   "origTitle": "Bangladesh lose two after gaining big lead",
-   "en": {
-    "title": "Bangladesh builds on big lead, loses two wickets",
-    "summary": "Bangladesh had a strong first innings, getting a 106-run lead. Ebadot took four wickets to help the team gain control. But Bangladesh lost two quick wickets while trying to build on their advantage in the second innings."
-   },
-   "bn": {
-    "title": "বড় লিড পাওয়ার পর বাংলাদেশ দুই উইকেট হারিয়েছে",
-    "summary": "বাংলাদেশ প্রথম ইনিংসে শক্তিশালী পারফরম্যান্স দেখিয়ে ১০৬ রানের লিড পেয়েছে। এবাদত চারটি উইকেট নিয়ে দলকে এগিয়ে রাখতে সাহায্য করেছেন। কিন্তু দ্বিতীয় ইনিংসে সুবিধা বাড়ানোর চেষ্টায় বাংলাদেশ দুইটি উইকেট হারিয়েছে।"
-   }
-  },
-  {
-   "id": "1r415ss",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "Bangladesh Post",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNblZQWUtBS3dUQlpidm81Y0U5d0F4OHZBYVNnS21kb2J4SWgxRlZqbHhYRTZtd1E2TFRoRUJlcF80VEdyV3BwWGtvZzZrVWVsUmhCWklBRHRsT3lfUWVwSG50NU1MdUMyeTJUNy1ab2hJN051eDZLbl9ZSUhyRTlfRjFMVGFQRktfdGdhU1VVeEUtZVlCYXd5dDMwOA?oc=5",
-   "image": null,
-   "published": "2026-10-10T13:12:40.000Z",
-   "added": "2026-10-11T08:42:35.179Z",
-   "origTitle": "BNP forms 12-member monitoring committee for Durga Puja",
-   "en": {
-    "title": "BNP sets up committee to monitor Durga Puja celebrations",
-    "summary": "The BNP has formed a 12-member monitoring committee for Durga Puja. The move comes as the country prepares for the major Hindu festival. The committee's role is to oversee celebrations and ensure smooth observance of the festival across the country."
-   },
-   "bn": {
-    "title": "দুর্গা পূজা নজরদারির জন্য বিএনপির ১২ সদস্যের কমিটি",
-    "summary": "বিএনপি দুর্গা পূজার জন্য একটি ১২ সদস্যের নজরদারি কমিটি গঠন করেছে। এই কমিটি দেশজুড়ে উৎসব অনুষ্ঠান তত্ত্বাবধান করবে এবং মসৃণ আয়োজন নিশ্চিত করবে।"
-   }
-  },
-  {
-   "id": "rtxbms",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/football/53vmw5fdjz",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-11/vai03kx1/2026-10-09T173506Z1100100099UP1EMA91CUHHFRTRMADP3SOCCER-SAUDI-NSR-DRA.JPG",
-   "published": "2026-10-11T08:28:00.000Z",
-   "added": "2026-10-11T08:42:27.712Z",
-   "origTitle": "রোনালদোকে নভেম্বরেই দলে ফেরাতে চান পর্তুগাল ফুটবল ফেডারেশন সভাপতি",
-   "en": {
-    "title": "Portugal federation wants Ronaldo back on national team in November",
-    "summary": "Portugal football chief Pedro Proença said the federation wants Cristiano Ronaldo to return to the squad in November. Ronaldo was temporarily suspended after leaving the national team camp 24 hours before a Denmark match. The disciplinary committee is handling the case. If Ronaldo returns in November, he'll skip no matches, since FIFA windows run in November and December."
-   },
-   "bn": {
-    "title": "নভেম্বরে দল ফেরাতে চায় পর্তুগাল ফেডারেশন, রোনালদোকে",
-    "summary": "পর্তুগিজ ফুটবল ফেডারেশনের সভাপতি পেদ্রো প্রোয়েন্সা বলেছেন নভেম্বরেই রোনালদোকে জাতীয় দলে ফেরাতে চান। ডেনমার্কের ম্যাচের ২৪ ঘণ্টা আগে ক্যাম্প ছেড়ে যাওয়ায় তাকে সাময়িক নিষেধাজ্ঞা দেওয়া হয়েছিল। ডিসিপ্লিনারি কমিটি বিষয়টি নিয়ে কাজ করছে। নভেম্বরে ফিরলে রোনালদোকে কোনো ম্যাচ মিস করতে হবে না।"
-   }
-  },
-  {
-   "id": "hvdxb2",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/9wdall65ha",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-11/fysu6lhl/prothomalo-bangla2026-10-11iir2px2playout-1600x1067-4.avif",
-   "published": "2026-10-11T08:31:02.000Z",
-   "added": "2026-10-11T08:42:27.712Z",
-   "origTitle": "Ayash and three others shown arrested in sedition case",
-   "en": {
-    "title": "Four arrested over defacing Tagore wall art at Shilpakala Academy",
-    "summary": "Police showed four people detained for defacing a wall mural of Rabindranath Tagore outside the Shilpakala Academy in Segunbagicha, Dhaka. The four arrested are ANM Ayash (29), Md Sakibul Hasan (19), Md Sujon Mia (18), and Marzia Khandaker Rimi (27). They face sedition charges. On 5 October, portraits of 10 cultural figures including Tagore were painted on the renovated pavements."
-   },
-   "bn": {
-    "title": "শিল্পকলা একাডেমির ট্যাগোর ছবিতে দাগ দেওয়ায় চার জনের গ্রেপ্তার",
-    "summary": "ঢাকার সেগুনবাগিচার শিল্পকলা একাডেমির বাইরে রবীন্দ্রনাথ ঠাকুরের ছবি অপসারণের অভিযোগে চারজন গ্রেপ্তার হয়েছেন। তারা হলেন এএনএম আয়াশ (২৯), মো. সাকিবুল হাসান (১৯), মো. সুজন মিয়া (১৮) এবং মার্জিয়া খান্দাকার রিমি (২৭)। তাদের রাষ্ট্রবিরোধী কার্যকলাপের অভিযোগ করা হয়েছে। ৫ অক্টোবর পুনঃনির্মিত ফুটপাতে দেশের দশজন সাংস্কৃতিক ব্যক্তিত্বের ছবি আঁকা হয়েছিল।"
-   }
-  },
-  {
-   "id": "1i7ploq",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/stocks/dse-remain-open-17-oct-ahead-durga-puja-holidays-1568986",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/28/dse_mumit-0426.jpg",
-   "published": "2026-10-11T08:30:00.000Z",
-   "added": "2026-10-11T08:42:27.712Z",
-   "origTitle": "DSE to remain open on 17 Oct ahead of Durga Puja holidays",
-   "en": {
-    "title": "Dhaka Stock Exchange stays open October 17 before Durga Puja",
-    "summary": "The Dhaka Stock Exchange will trade normally on Saturday, 17 October, ahead of Durga Puja holidays. Trading and admin activities continue as usual on 17–19 October. The exchange closes 20–22 October for Sharadiya Durga Puja (declared public holiday on 22 October). Regular operations resume 25 October."
-   },
-   "bn": {
-    "title": "দুর্গাপূজার ছুটির আগে ১৭ অক্টোবর ঢাকা স্টক এক্সচেঞ্জ খোলা থাকবে",
-    "summary": "দুর্গাপূজার ছুটির আগে ১৭ অক্টোবর শনিবার ঢাকা স্টক এক্সচেঞ্জ স্বাভাবিক কাজকর্ম চালিয়ে যাবে। ১৭-১৯ অক্টোবর ট্রেডিং এবং প্রশাসনিক কাজ চলবে। ২২ অক্টোবর শারদীয় দুর্গাপূজার জন্য সরকার ছুটি ঘোষণা করেছে, তাই এক্সচেঞ্জ ২০-২২ অক্টোবর বন্ধ থাকবে। ২৫ অক্টোবর থেকে নিয়মিত কাজ শুরু হবে।"
-   }
-  },
-  {
-   "id": "mghg1t",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-IRAN-US-WAR-OIL-GAS-MARKETS-COVER-OCT9-2026-1791553532.png?resize=1200%2C630",
-   "published": "2026-10-11T08:22:02.000Z",
-   "added": "2026-10-11T08:42:27.712Z",
-   "origTitle": "What the Iran war has done to the world’s energy supply, in charts",
-   "en": {
-    "title": "Energy conference proceeds in Riyadh despite airport attack",
-    "summary": "Riyadh Energy Week began Sunday despite the Houthi attack that killed 12 and injured 309. The 25th World Petroleum Council and 17th International Energy Forum meeting continues through Thursday. Italy is joining via videolink; Nigeria sent a representative. The 68-member IEF controls over 90% of global oil and gas supply and demand, including Saudi Arabia, the US and Russia."
-   },
-   "bn": {
-    "title": "বিমানবন্দর হামলার পরেও রিয়াদে চলছে এনার্জি কনফারেন্স",
-    "summary": "হুথি হামলার পরেও সৌদি আরবের রিয়াদে রবিবার থেকে এনার্জি সপ্তাহ শুরু হয়েছে, যা বৃহস্পতিবার পর্যন্ত চলবে। এতে ২৫তম বিশ্ব পেট্রোলিয়াম কাউন্সিল এবং ১৭তম আন্তর্জাতিক এনার্জি ফোরামের মিনিস্টেরিয়াল মিটিং অন্তর্ভুক্ত। ইতালি ভিডিওলিংকে, নাইজেরিয়া প্রতিনিধি পাঠিয়েছে। এই ফোরামের ৬৮টি সদস্য দেশ বিশ্বের ৯০ শতাংশেরও বেশি তেল-গ্যাসের যোগান ও চাহিদা নিয়ন্ত্রণ করে।"
-   }
-  },
-  {
-   "id": "ncqsvq",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/c9x28gy2353no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b9c/live/53fc32c0-c518-11f1-96d3-cd928c5abb78.jpg",
-   "published": "2026-10-11T02:52:35.000Z",
-   "added": "2026-10-11T08:42:27.712Z",
-   "origTitle": "সৌদি আরবের রিয়াদ বিমানবন্দরে হামলায় নিহতদের মধ্যে দুজন বাংলাদেশি",
-   "en": {
-    "title": "Houthi attack on Riyadh airport kills 12, including two Bangladeshis",
-    "summary": "A Houthi attack on King Khalid International Airport in Riyadh killed at least 12 people and injured 309. Two of the dead were Bangladeshi nationals; others included citizens of Saudi Arabia, the US, Jordan, Palestine, Syria, Sudan and Egypt. A Saudi-led military coalition blamed Iran-backed Houthis and vowed to respond. The airport suspended operations after the strike."
-   },
-   "bn": {
-    "title": "রিয়াদ বিমানবন্দরে হুথি হামলায় ১২ জন নিহত, দুজন বাংলাদেশি",
-    "summary": "সৌদি আরবের রাজধানী রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহীদের হামলায় অন্তত ১২ জন নিহত ও ৩০৯ জন আহত হয়েছে। নিহতদের মধ্যে দুজন বাংলাদেশি রয়েছেন। সৌদি নেতৃত্বাধীন সামরিক জোট ইরান-সমর্থিত হুথিদের দায়ী করে জবাব দেওয়ার ঘোষণা দিয়েছে। বিমানবন্দরের কার্যক্রম বন্ধ রাখা হয়েছে।"
    }
   }
  ]

@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-14T07:30:59.698Z",
+ "updatedAt": "2026-10-14T13:38:59.036Z",
  "burning": [
   {
-   "id": "1vwgj44",
+   "id": "1kmw58b",
    "heat": 5,
    "why": {
-    "en": "Sexual abuse at Islamic seminaries in Bangladesh is a serious, widespread issue drawing major attention.",
-    "bn": "বাংলাদেশের ইসলামিক সেমিনারিতে যৌন নির্যাতন একটি গুরুতর এবং ব্যাপক সমস্যা যা বড় মনোযোগ পাচ্ছে।"
+    "en": "Principal and teacher clash video went viral, massive local buzz on Google Trends.",
+    "bn": "শিক্ষক এবং প্রিন্সিপালের ধস্তাধস্তির ভিডিও ভাইরাল, গুগল ট্রেন্ডে ১০০০+ সার্চ।"
    },
    "rank": 1
   },
   {
-   "id": "1ohgv2o",
-   "heat": 5,
+   "id": "35x92f",
+   "heat": 4,
    "why": {
-    "en": "Major fire at Dhaka's Chawkbazar market destroyed 7-8 warehouses, significant local news event.",
-    "bn": "ঢাকার চকবাজার বাজারে বড় আগুন ৭-৮টি গুদাম ধ্বংস করেছে, স্থানীয় খবরে তরঙ্গ তুলেছে।"
+    "en": "Serious crime story: man killed over blasphemy allegations in Satkhira.",
+    "bn": "সতর্কতার বিষয়: সাতক্ষীরায় নিন্দা অভিযোগে মানুষ নিহত।"
    },
    "rank": 2
   },
   {
-   "id": "88btwq",
+   "id": "1ohgv2o",
    "heat": 4,
    "why": {
-    "en": "Press Council seeking new enforcement powers is significant for media freedom and journalism.",
-    "bn": "প্রেস কাউন্সিলের নতুন ক্ষমতার দাবি সাংবাদিকতা এবং মিডিয়া স্বাধীনতার জন্য গুরুত্বপূর্ণ।"
+    "en": "Major fire destroys 7-8 warehouses in Dhaka's Chawkbazar, breaking news coverage.",
+    "bn": "ঢাকার চকবাজারে ৭-৮টি গুদাম পুড়ে গেছে, বড় খবর।"
    },
    "rank": 3
   },
   {
-   "id": "6h9vk7",
-   "heat": 4,
+   "id": "1vwgj44",
+   "heat": 3,
    "why": {
-    "en": "Bangladesh accelerating $10 billion World Bank loan projects affects major economic development.",
-    "bn": "বাংলাদেশ বিশ্বব্যাংকের ১০ বিলিয়ন ডলার ঋণের প্রকল্প দ্রুততর করছে, অর্থনৈতিক উন্নয়নে প্রভাব ফেলে।"
+    "en": "BBC investigation on widespread sexual abuse at Islamic seminaries in Bangladesh.",
+    "bn": "বাংলাদেশের ইসলামিক সেমিনারিতে যৌন নিষ্ঠুরতার ব্যাপক খবর।"
    },
    "rank": 4
   },
   {
-   "id": "5z8q54",
+   "id": "6h9vk7",
    "heat": 3,
    "why": {
-    "en": "Fire at Secretariat building quickly controlled, minor incident but government-related news.",
-    "bn": "সচিবালয় ভবনে আগুন দ্রুত নিয়ন্ত্রণ করা হয়েছে, সরকার সংক্রান্ত খবর।"
+    "en": "Bangladesh accelerating World Bank-funded projects worth $10 billion.",
+    "bn": "বিশ্ব ব্যাংকের ১০ বিলিয়ন ডলার প্রকল্প দ্রুত এগিয়ে যাচ্ছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "142adzr",
-   "tag": "#ProfessorYunus",
+   "id": "1kmw58b",
+   "tag": "#ViraVideo",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "School teachers clash caught on camera",
+    "text": "A video of a principal and teacher fighting at a school went viral, sparking massive conversation online about what really happened behind the scenes."
+   },
+   "bn": {
+    "title": "স্কুলে শিক্ষকদের ঝগড়া ভাইরাল",
+    "text": "একটি স্কুলে প্রিন্সিপাল এবং শিক্ষকের ঝগড়ার ভিডিও ভাইরাল হয়েছে, মানুষ জানতে চাইছে আসলে কী হয়েছে।"
+   }
+  },
+  {
+   "id": "a1imnd",
+   "tag": "#CricketTalk",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Yunus facing harassment",
-    "text": "Twelve of Professor Yunus's former advisors have publicly protested ongoing harassment of the Nobel laureate."
+    "title": "Afghanistan calls Abu Dhabi draw a win",
+    "text": "Afghanistan cricketer Rahmat Shah marked the Abu Dhabi draw as equal to a win, sparking cricket fans' debate on social media."
    },
    "bn": {
-    "title": "ইউনুস হয়রানির বিরুদ্ধে আন্দোলন",
-    "text": "প্রফেসর ইউনুসের ১২ জন প্রাক্তন উপদেষ্টা নোবেল বিজয়ীর বিরুদ্ধে চলমান হয়রানির বিরুদ্ধে প্রতিবাদ করেছেন।"
-   }
-  },
-  {
-   "id": "16d0pi",
-   "tag": "#WildlifeConservation",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Teals released in Pabna",
-    "text": "Fourteen rescued whistling teals have been released back to their natural habitat in Pabna after rehabilitation."
-   },
-   "bn": {
-    "title": "পাবনায় পাখি প্রকৃতিতে ছাড়া হয়েছে",
-    "text": "চৌদ্দটি উদ্ধারকৃত স্টেলিং টিল পাবনায় পুনর্বাসনের পর প্রকৃতিতে ছাড়া হয়েছে।"
+    "title": "আফগানিস্তান ড্র কে জয় বলেছে",
+    "text": "আফগানিস্তানের ক্রিকেটার রহমত শাহ আবু ধাবি ড্র-কে জয়ের মতো বলেছেন, ক্রিকেট ভক্তরা আলোচনা করছেন।"
    }
   },
   {
    "id": "1njusxs",
-   "tag": "#CustomsSeizure",
+   "tag": "#CustomsNews",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Gold and iPhones seized",
-    "text": "Customs officials seized Tk1.39 crore worth of gold and iPhones at two airports in smuggling crackdown."
+    "title": "Gold and iPhones seized at airports",
+    "text": "Customs officials seized Tk1.39 crore in gold and iPhones at two Bangladesh airports in smuggling operations."
    },
    "bn": {
-    "title": "সোনা এবং আইফোন আটক",
-    "text": "কাস্টমস দুটি বিমানবন্দরে ১.৩৯ কোটি টাকার সোনা এবং আইফোন আটক করেছে।"
+    "title": "বিমানবন্দরে স্বর্ণ এবং আইফোন জব্দ",
+    "text": "দেশের দুটি বিমানবন্দরে সীমান্ত বিভাগ ১.৩৯ কোটি টাকার সোনা এবং আইফোন জব্দ করেছে।"
    }
   }
  ],
