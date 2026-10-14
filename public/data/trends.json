@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-14T01:09:48.655Z",
+ "updatedAt": "2026-10-14T07:30:59.698Z",
  "burning": [
   {
-   "id": "1ohgv2o",
+   "id": "1vwgj44",
    "heat": 5,
    "why": {
-    "en": "Major fire in Dhaka's crowded Chawkbazar market destroyed multiple warehouses—breaking news, high impact.",
-    "bn": "ঢাকার চকবাজার বাজারে বড় আগুন বেধেছে, ৭-৮টা গুদাম ধ্বংস হয়েছে—বড় খবর, উচ্চ প্রভাব।"
+    "en": "Sexual abuse at Islamic seminaries in Bangladesh is a serious, widespread issue drawing major attention.",
+    "bn": "বাংলাদেশের ইসলামিক সেমিনারিতে যৌন নির্যাতন একটি গুরুতর এবং ব্যাপক সমস্যা যা বড় মনোযোগ পাচ্ছে।"
    },
    "rank": 1
   },
   {
-   "id": "1899zzk",
-   "heat": 4,
+   "id": "1ohgv2o",
+   "heat": 5,
    "why": {
-    "en": "Youth killed in Noakhali on suspicion of theft—serious crime story, consistent coverage pattern.",
-    "bn": "নোয়াখালিতে চুরির সন্দেহে তরুণকে মারা হয়েছে—গুরুতর অপরাধ খবর।"
+    "en": "Major fire at Dhaka's Chawkbazar market destroyed 7-8 warehouses, significant local news event.",
+    "bn": "ঢাকার চকবাজার বাজারে বড় আগুন ৭-৮টি গুদাম ধ্বংস করেছে, স্থানীয় খবরে তরঙ্গ তুলেছে।"
    },
    "rank": 2
   },
   {
-   "id": "mrkgfg",
+   "id": "88btwq",
    "heat": 4,
    "why": {
-    "en": "Domestic homicide over affair accusation with absconding suspect—urgent crime news.",
-    "bn": "পরিবারের সংকট থেকে হত্যা, আসামী ফরার—জরুরি খবর।"
+    "en": "Press Council seeking new enforcement powers is significant for media freedom and journalism.",
+    "bn": "প্রেস কাউন্সিলের নতুন ক্ষমতার দাবি সাংবাদিকতা এবং মিডিয়া স্বাধীনতার জন্য গুরুত্বপূর্ণ।"
    },
    "rank": 3
   },
   {
-   "id": "1vwgj44",
+   "id": "6h9vk7",
    "heat": 4,
    "why": {
-    "en": "BBC investigation into widespread sexual abuse at Islamic seminaries in Bangladesh—major exposé.",
-    "bn": "বাংলাদেশের ইসলামিক মাদরাসায় যৌন নির্যাতন নিয়ে BBC তদন্ত—বড় খবর।"
+    "en": "Bangladesh accelerating $10 billion World Bank loan projects affects major economic development.",
+    "bn": "বাংলাদেশ বিশ্বব্যাংকের ১০ বিলিয়ন ডলার ঋণের প্রকল্প দ্রুততর করছে, অর্থনৈতিক উন্নয়নে প্রভাব ফেলে।"
    },
    "rank": 4
   },
   {
-   "id": "6h9vk7",
+   "id": "5z8q54",
    "heat": 3,
    "why": {
-    "en": "Bangladesh accelerating World Bank loan projects worth $10 billion—economic news with policy impact.",
-    "bn": "বাংলাদেশ বিশ্ব ব্যাংকের ১০ বিলিয়ন ডলার ঋণ প্রকল্প দ্রুত করছে—অর্থনৈতিক খবর।"
+    "en": "Fire at Secretariat building quickly controlled, minor incident but government-related news.",
+    "bn": "সচিবালয় ভবনে আগুন দ্রুত নিয়ন্ত্রণ করা হয়েছে, সরকার সংক্রান্ত খবর।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "ch2i3u",
-   "tag": "#TechBreakthrough",
+   "id": "142adzr",
+   "tag": "#ProfessorYunus",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Vision-restoring chip changes medicine",
-    "text": "First patient to receive a vision-restoring chip implant—a big step in medical tech that's getting global attention."
+    "title": "Yunus facing harassment",
+    "text": "Twelve of Professor Yunus's former advisors have publicly protested ongoing harassment of the Nobel laureate."
    },
    "bn": {
-    "title": "চোখ ফিরিয়ে দেওয়া চিপ",
-    "text": "প্রথমবার রোগীর মধ্যে দৃষ্টি ফিরিয়ে আনা চিপ লাগানো হয়েছে—চিকিৎসা প্রযুক্তিতে বড় পদক্ষেপ।"
+    "title": "ইউনুস হয়রানির বিরুদ্ধে আন্দোলন",
+    "text": "প্রফেসর ইউনুসের ১২ জন প্রাক্তন উপদেষ্টা নোবেল বিজয়ীর বিরুদ্ধে চলমান হয়রানির বিরুদ্ধে প্রতিবাদ করেছেন।"
    }
   },
   {
-   "id": "245c3t",
-   "tag": "#AIRace",
+   "id": "16d0pi",
+   "tag": "#WildlifeConservation",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Meta's new frontier AI model",
-    "text": "Meta just launched Muse Wonder, its first frontier AI model—joining the race for advanced AI tech."
+    "title": "Teals released in Pabna",
+    "text": "Fourteen rescued whistling teals have been released back to their natural habitat in Pabna after rehabilitation."
    },
    "bn": {
-    "title": "মেটার নতুন AI মডেল",
-    "text": "মেটা তার প্রথম ফ্রন্টিয়ার AI মডেল Muse Wonder চালু করেছে।"
+    "title": "পাবনায় পাখি প্রকৃতিতে ছাড়া হয়েছে",
+    "text": "চৌদ্দটি উদ্ধারকৃত স্টেলিং টিল পাবনায় পুনর্বাসনের পর প্রকৃতিতে ছাড়া হয়েছে।"
    }
   },
   {
-   "id": "slm3a9",
-   "tag": "#TechScandal",
+   "id": "1njusxs",
+   "tag": "#CustomsSeizure",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "FBI arrests OpenAI employee over spy device",
-    "text": "An OpenAI employee was arrested by the FBI after a hidden recording device was found in an office—raising serious security questions."
+    "title": "Gold and iPhones seized",
+    "text": "Customs officials seized Tk1.39 crore worth of gold and iPhones at two airports in smuggling crackdown."
    },
    "bn": {
-    "title": "OpenAI কর্মচারী গোপন রেকর্ডিং নিয়ে",
-    "text": "এফবিআই এক OpenAI কর্মচারীকে গ্রেফতার করেছে যে গোপনে রেকর্ডিং ডিভাইস লাগিয়েছিল।"
+    "title": "সোনা এবং আইফোন আটক",
+    "text": "কাস্টমস দুটি বিমানবন্দরে ১.৩৯ কোটি টাকার সোনা এবং আইফোন আটক করেছে।"
    }
   }
  ],
