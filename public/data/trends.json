@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-15T18:14:18.277Z",
+ "updatedAt": "2026-10-15T22:11:04.628Z",
  "burning": [
   {
-   "id": "1p9otd5",
+   "id": "119ybko",
    "heat": 5,
    "why": {
-    "en": "45th BCS gazette released with 1,702 candidates recommended after major controversy over 105 exclusions and protests.",
-    "bn": "৪৫তম বিসিএস গেজেট প্রকাশিত হয়েছে ১,৭০২ জন প্রার্থী নির্বাচিত হয়েছেন, তবে ১০৫ জন বাদ যাওয়ার বিরুদ্ধে বিশাল বিক্ষোভ চলছে।"
+    "en": "Haaland's record-breaking 78 goals in Champions League is massive sports news.",
+    "bn": "হালান্ডের চ্যাম্পিয়নস লিগে ৭৮ গোল রেকর্ড সবার আলোচনার কেন্দ্রে।"
    },
    "rank": 1
   },
   {
-   "id": "1bwzgin",
+   "id": "13aafkt",
    "heat": 5,
    "why": {
-    "en": "89 flights cancelled in four days left 14,500 passengers stranded, major travel disruption across Bangladesh.",
-    "bn": "চার দিনে ৮৯টি ফ্লাইট বাতিল হয়েছে এবং ১৪,৫০০ যাত্রী আটকে আছেন, যা একটি বড় যাতায়াত সংকট।"
+    "en": "PSG's shock 4-2 win over Manchester City is a major upset everyone's talking about.",
+    "bn": "ম্যানচেস্টার সিটির বিরুদ্ধে পিএসজির অপ্রত্যাশিত ৪-২ জয় সবার মুখে মুখে।"
    },
    "rank": 2
+  },
+  {
+   "id": "wq8uer",
+   "heat": 5,
+   "why": {
+    "en": "Real Madrid's dramatic three-goal comeback in seven minutes is viral-worthy football.",
+    "bn": "রিয়েল মাদ্রিদের সাত মিনিটে তিন গোলের নাটকীয় ফিরিয়ে আসা ফুটবল খবরের শীর্ষে।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "1bwzgin",
+   "heat": 4,
+   "why": {
+    "en": "89 flights cancelled and 14,500 stranded is a major disruption hitting families hard.",
+    "bn": "৮৯টি ফ্লাইট বাতিল এবং ১৪,৫০০ মানুষ আটকে থাকা সবার জন্য গুরুত্বপূর্ণ।"
+   },
+   "rank": 4
   },
   {
    "id": "p1ll2d",
    "heat": 4,
    "why": {
-    "en": "Dengue deaths spike sharply while health minister says vaccine rollout still not planned.",
-    "bn": "ডেঙ্গু মৃত্যু বৃদ্ধি পাচ্ছে, কিন্তু স্বাস্থ্যমন্ত্রী বলেছেন টিকা এখনো পরিকল্পিত নয়।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "1ufv3oe",
-   "heat": 4,
-   "why": {
-    "en": "Saudi Arabia executes two Bangladeshi nationals in Makkah, serious consular and diplomatic concern.",
-    "bn": "সৌদি আরব মক্কায় দুই বাংলাদেশী নাগরিককে মৃত্যুদণ্ড দিয়েছে, এটি একটি গুরুত্বপূর্ণ কূটনৈতিক বিষয়।"
-   },
-   "rank": 4
-  },
-  {
-   "id": "13isvgz",
-   "heat": 4,
-   "why": {
-    "en": "Petrol bomb attack near July massacre museum kills one person, serious security incident in Dhaka.",
-    "bn": "জুলাই গণহত্যা স্মৃতিসৌধের কাছে পেট্রল বোমা হামলায় একজন মারা গেছেন।"
+    "en": "Dengue deaths spiking with no vaccine plan is a serious public health crisis.",
+    "bn": "ডেঙ্গুতে মৃত্যু বাড়ছে আর কোনো ভ্যাকসিন পরিকল্পনা নেই—এটা সবার জন্য উদ্বেগের বিষয়।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "119ybko",
-   "tag": "#ChampionsLeague",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Haaland breaks Messi's record",
-    "text": "Erling Haaland set a new Champions League goal record with 78 goals, surpassing Lionel Messi's previous mark."
-   },
-   "bn": {
-    "title": "হ্যালান্ড মেসির রেকর্ড ভাঙলেন",
-    "text": "এরলিং হ্যালান্ড চ্যাম্পিয়নস লিগে ৭৮ গোলের নতুন রেকর্ড স্থাপন করেছেন এবং মেসিকে পিছনে ফেলেছেন।"
-   }
-  },
-  {
-   "id": "13aafkt",
-   "tag": "#FootballUpset",
+   "id": "1bwzgin",
+   "tag": "#FlightChaos",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "PSG thrash Manchester City",
-    "text": "Paris Saint-Germain pulled off a stunning 4-2 victory over Manchester City in Champions League, upsetting the odds."
+    "title": "Flights grounded, thousands stranded",
+    "text": "89 flights cancelled in four days left 14,500 people stuck. Major travel disruption across Bangladesh."
    },
    "bn": {
-    "title": "পিএসজি ম্যানসিটিকে হারালো",
-    "text": "প্যারিস সেন্ট-জার্মেইন চ্যাম্পিয়নস লিগে ম্যানচেস্টার সিটিকে ৪-২ গোলে হারিয়ে অবিশ্বাস্য জয় পেয়েছে।"
+    "title": "ফ্লাইট বাতিল, হাজার হাজার মানুষ আটকে",
+    "text": "চার দিনে ৮৯টি ফ্লাইট বাতিল হয়ে ১৪,৫০০ জন মানুষ আটকে পড়েছে। দেশজুড়ে ভ্রমণ সংকট।"
    }
   },
   {
-   "id": "wq8uer",
-   "tag": "#RealMadridComeback",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Real Madrid wild comeback",
-    "text": "Real Madrid staged a dramatic comeback, scoring three goals in just seven minutes to turn the match around."
-   },
-   "bn": {
-    "title": "রিয়েল মাদ্রিদের অবিশ্বাস্য ফিরে আসা",
-    "text": "রিয়েল মাদ্রিদ মাত্র সাত মিনিটে তিনটি গোল করে অসাধারণ কমব্যাক করেছে।"
-   }
-  },
-  {
-   "id": "1k9tigt",
-   "tag": "#LawyersRights",
+   "id": "1ufv3oe",
+   "tag": "#SadNews",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Bangladesh bans lawyer enrollment after 35",
-    "text": "Bangladesh has introduced a new rule preventing people from becoming lawyers after age 35, raising concerns about career opportunities."
+    "title": "Two Bangladeshis executed in Saudi Arabia",
+    "text": "Saudi Arabia executed two Bangladeshi nationals in Makkah. A serious consular matter for the country."
    },
    "bn": {
-    "title": "৩৫ বছরের পর আইনজীবী হওয়া নিষিদ্ধ",
-    "text": "বাংলাদেশ ৩৫ বছরের পর কেউ আইনজীবী হতে পারবেন না এমন নিয়ম করেছে।"
+    "title": "সৌদিতে দুই বাংলাদেশিকে মৃত্যুদণ্ড",
+    "text": "সৌদি আরবে মক্কায় দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর করা হয়েছে।"
+   }
+  },
+  {
+   "id": "nqnb9q",
+   "tag": "#BusinessGold",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Wasted dairy gold in Bangladesh",
+    "text": "Bangladesh is wasting whey from dairy, missing out on a potential billion-taka business opportunity."
+   },
+   "bn": {
+    "title": "দুগ্ধ ব্যবসায় বিশাল সম্ভাবনা বাদ যাচ্ছে",
+    "text": "বাংলাদেশ দুধ থেকে পাওয়া ঘোল নষ্ট করছে, যা কোটি টাকার ব্যবসা হতে পারত।"
    }
   }
  ],
