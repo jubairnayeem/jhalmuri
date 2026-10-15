@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-14T22:15:32.480Z",
+ "updatedAt": "2026-10-15T01:24:53.404Z",
  "items": [
+  {
+   "id": "a5eywx",
+   "section": "news",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "New Age",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOGNQNDhOcmNRQlJjcUFnZzA5STRSOGNaYzNxbTlDOXpsNVRkTzBVYWJaRUVreWs2RkMyUV83T19GaVpWY0xtVEdZOUhqZU5UdFM3UmxoWjdsaVVNbVJpOHh2V2JpQ0tPM1BPa0tnZUt2bWczZEs4Qno1ZnBSZzBuUlRQQzhUck14UDFjVGlMVkVHX0hKSmpDNGJiZHlIUFkwSVJGNWFKUWh0ZnBEakhoeXhYdkN0VVNfcmVFb0cxcFk?oc=5",
+   "image": null,
+   "published": "2026-10-14T10:05:00.000Z",
+   "added": "2026-10-15T01:24:53.403Z",
+   "origTitle": "‘We take inspiration from you’: AISA leader Neha hails Bangladesh’s Gen-Z movement",
+   "en": {
+    "title": "Indian student leader praises Bangladesh Gen-Z protest movement",
+    "summary": "Neha, a leader of AISA (All India Students Association), has praised Bangladesh's youth movement as inspiring. She said her organization takes inspiration from how young Bangladeshis are mobilizing. It's a nod to the energy and impact Gen-Z activism is having across South Asia."
+   },
+   "bn": {
+    "title": "ভারতীয় ছাত্র নেতা বাংলাদেশের জেন-জেড আন্দোলনের প্রশংসা করেছেন",
+    "summary": "AISA-র নেতা নেহা বাংলাদেশের তরুণ আন্দোলনকে অনুপ্রেরণাদায়ক বলে প্রশংসা করেছেন। তিনি বলেছেন তার সংগঠন বাঙালি তরুণদের সংগঠিত হওয়ার কাজ থেকে অনুপ্রেরণা নেয়। এটা দক্ষিণ এশিয়া জুড়ে জেন-জেড কর্মসূচির প্রভাব কতটা শক্তিশালী তার একটা প্রমাণ।"
+   }
+  },
+  {
+   "id": "1nfq094",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "UNB",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGJqLTBhSkVYNGVGd3E5eERkSURRMjlNTFhRTHBOQ2JJWXFVTUw1YVJfZHhHbUhtYUE5UjllSFVqbnRLZFRHZXE3Q21oUk1EMTY3RUJqQ2l3am0zT2I3NTZvNU5VU1NNdWhLalhMMlFSUkEtZ0c5N255eDhlRDB5NWozbE85RDhINnNCQlgxOXl2UTlKOVpPMWFiZC1HaHJYTDZTcVRjbFNhQlFJWERnS0VuTFhQalRLOXFsR2luS0pVaS1X?oc=5",
+   "image": null,
+   "published": "2026-10-14T03:23:08.000Z",
+   "added": "2026-10-15T01:24:53.403Z",
+   "origTitle": "Bangladesh calls for global treaty to protect victims of crimes against humanity",
+   "en": {
+    "title": "Bangladesh pushes for global crimes against humanity treaty",
+    "summary": "Bangladesh is calling for a new international treaty to protect victims of crimes against humanity. The move aims to create stronger global legal protections and accountability mechanisms. This matters for ensuring major human rights violations don't go unchecked worldwide."
+   },
+   "bn": {
+    "title": "মানবতার বিরুদ্ধে অপরাধের শিকারদের রক্ষায় বৈশ্বিক চুক্তির আহ্বান",
+    "summary": "বাংলাদেশ মানবতার বিরুদ্ধে অপরাধের শিকারদের রক্ষার জন্য একটি নতুন আন্তর্জাতিক চুক্তির আহ্বান জানিয়েছে। এই পদক্ষেপটি শক্তিশালী আইনি সুরক্ষা এবং জবাবদিহিতার ব্যবস্থা তৈরি করতে লক্ষ্য রাখে। বিশ্বব্যাপী বড় মানবাধিকার লঙ্ঘন যাতে অপ্রতিরোধিত না থাকে তা নিশ্চিত করতে এটি গুরুত্বপূর্ণ।"
+   }
+  },
+  {
+   "id": "1cf30kj",
+   "section": "news",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/education/scholarship/6dhoxcrugb",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/1od1pklx/17___adb_intership_eligibility.jpg",
+   "published": "2026-10-15T01:00:00.000Z",
+   "added": "2026-10-15T01:24:44.630Z",
+   "origTitle": "আইএমএফে ইন্টার্নশিপ, ১০–১২ সপ্তাহ ওয়াশিংটনে কাজের সুযোগ",
+   "en": {
+    "title": "IMF opens internship applications for PhD students",
+    "summary": "The IMF's Fund Internship Program for 2027 is now open to PhD candidates in macroeconomics. The 10-to-12-week internship is based in Washington DC with a salary, flights for international candidates, and visa support. Applicants must be under 32 in June 2027 with 1-2 years of study remaining."
+   },
+   "bn": {
+    "title": "পিএইচডি শিক্ষার্থীদের জন্য আইএমএফ ইন্টার্নশিপ খোলা",
+    "summary": "২০২৭ সালের আইএমএফ ফান্ড ইন্টার্নশিপ প্রোগ্রাম ম্যাক্রোইকোনমিক্স পিএইচডি শিক্ষার্থীদের জন্য খোলা। ওয়াশিংটন ডিসিতে ১০-১২ সপ্তাহের ইন্টার্নশিপে বেতন, আন্তর্জাতিক ফ্লাইট এবং ভিসা সাপোর্ট পাবেন।"
+   }
+  },
+  {
+   "id": "x66ct0",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
+   "published": "2026-10-15T01:01:32.000Z",
+   "added": "2026-10-15T01:24:44.630Z",
+   "origTitle": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+   "en": {
+    "title": "AI startup aims to design smarter chips faster",
+    "summary": "Recursive Intelligence says AI-designed chips could solve the looming compute crisis. Founders Anna Goldie and Azalia Mirhoseini told TechCrunch Disrupt that AI can create efficient chip layouts humans might miss, letting humans focus on applications instead of design details."
+   },
+   "bn": {
+    "title": "এআই দিয়ে দ্রুত স্মার্ট চিপ তৈরির লক্ষ্য স্টার্টআপের",
+    "summary": "রিকার্সিভ ইন্টেলিজেন্স বলছে এআই-ডিজাইন করা চিপ কম্পিউট সংকট সমাধান করতে পারে। প্রতিষ্ঠাতারা বলেছেন এআই মানুষ যা মিস করে এমন দক্ষ ডিজাইন তৈরি করতে পারে।"
+   }
+  },
+  {
+   "id": "ij4s1l",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad00c11-1792019473.jpg?resize=1920%2C1440",
+   "published": "2026-10-15T00:24:03.000Z",
+   "added": "2026-10-15T01:24:44.630Z",
+   "origTitle": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+   "en": {
+    "title": "Costa Rica opens massive prison against organised crime",
+    "summary": "Costa Rica opened a new mega-prison on Wednesday with capacity for 5,100 inmates, representing 20% of the country's total prison population. President Laura Fernandez called it a tough-on-crime model to reassert control. The move mirrors El Salvador's popular but controversial approach to fighting rising gang violence and drug trafficking."
+   },
+   "bn": {
+    "title": "সংগঠিত অপরাধের বিরুদ্ধে কোস্টারিকা বিশাল কারাগার খুলল",
+    "summary": "বুধবার কোস্টারিকা ৫,১০০ ধারণক্ষমতার বিশাল কারাগার খুলেছে। রাষ্ট্রপতি লরা ফার্নান্দেজ এটিকে কঠোর অপরাধ নীতির মডেল বলেছেন। এল সালভাডরের পদ্ধতি অনুসরণ করে ল্যাটিন আমেরিকায় এই ট্রেন্ড ছড়িয়ে পড়ছে।"
+   }
+  },
+  {
+   "id": "12do196",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/weather/974579/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%AD%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A6%AE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE",
+   "image": null,
+   "published": "2026-10-15T01:13:13.000Z",
+   "added": "2026-10-15T01:24:44.630Z",
+   "origTitle": "দেশের তিন বিভাগে বৃষ্টির আভাস, কমতে পারে তাপমাত্রা",
+   "en": {
+    "title": "Rain expected in three regions, temperature may drop",
+    "summary": "Rain or thunderstorms are likely in parts of Chattogram, Khulna, and Barishal divisions on Wednesday evening and Thursday. Other areas will stay mostly dry with partly cloudy skies. The weather department says this could bring some relief from the heat."
+   },
+   "bn": {
+    "title": "তিন বিভাগে বৃষ্টির সম্ভাবনা, তাপমাত্রা কমতে পারে",
+    "summary": "বুধবার সন্ধ্যা থেকে চট্টগ্রাম, খুলনা ও বরিশাল বিভাগের কিছু জায়গায় বৃষ্টি বা বজ্রসহ বৃষ্টি হতে পারে। দেশের বাকি অঞ্চল প্রধানত শুষ্ক থাকবে। আবহাওয়া অধিদফতর এ পূর্বাভাস দিয়েছে।"
+   }
+  },
   {
    "id": "jzn2xm",
    "section": "news",
@@ -1979,138 +2111,6 @@
    "bn": {
     "title": "ইসরায়েলি হামলায় গাজার দক্ষিণে দুই ফিলিস্তিনি নিহত",
     "summary": "সোমবার ইসরায়েলের একটি সামরিক হামলায় গাজার দক্ষিণে কমপক্ষে দুই ফিলিস্তিনি নিহত হয়েছে বলে স্বাস্থ্য কর্মকর্তারা জানিয়েছেন। ইসরায়েল বলছে এটি একজন সশস্ত্র কর্মী লক্ষ্য করে হামলা করেছে। ইসরায়েল দাবি করছে হামাস অস্ত্র সংগ্রহ করছে এবং যুদ্ধবিরতি ভাঙছে; হামাস এটা অস্বীকার করেছে। গত অক্টোবরের যুদ্ধবিরতির পর এ পর্যন্ত কমপক্ষে ১,৪০০ ফিলিস্তিনি ইসরায়েলি আগুনে নিহত হয়েছে।"
-   }
-  },
-  {
-   "id": "s3eh0v",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "serious",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
-   "image": "https://images.aeonmedia.co/images/4a5f62e7-dfa5-4c48-b9db-fcb62ffb81d1/sz-curtis-potvin-h1uzh1dj2p0-unsplash-firefly-upscaler-2x-scale.jpg?top=120&left=0&cropWidth=2304&cropHeight=1296&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-11T22:00:00.000Z",
-   "added": "2026-10-12T00:28:25.040Z",
-   "origTitle": "Black men suffer racial trauma yet are seen as the threat",
-   "en": {
-    "title": "Why Black men's survival strategies get mistaken for mental illness",
-    "summary": "A counselling professor explains how Black men's responses to racial trauma—like sleep issues, withdrawal, or guardedness—are often misdiagnosed as anxiety or depression by clinicians. What appears as anger is often grief or exhaustion; what looks like mistrust may reflect real institutional dangers. Understanding these as survival strategies, not pathology, changes how we support Black men's mental health."
-   },
-   "bn": {
-    "title": "কেন কৃষ্ণাঙ্গ পুরুষদের বেঁচে থাকার কৌশল মানসিক অসুস্থতা মনে করা হয়",
-    "summary": "একজন পরামর্শদাতা অধ্যাপক ব্যাখ্যা করেন যে কৃষ্ণাঙ্গ পুরুষদের জাতিগত আঘাতের প্রতিক্রিয়া—যেমন ঘুমের সমস্যা, মানুষ থেকে দূরত্ব, বা সন্দেহ—প্রায়শই ক্লিনিশিয়ানদের দ্বারা উদ্বেগ বা বিষণ্নতা হিসাবে ভুল নির্ণয় করা হয়। যা রাগ বলে মনে হয় তা প্রায়শই দুঃখ বা ক্লান্তি; যা অবিশ্বাস বলে মনে হয় তা প্রকৃত প্রাতিষ্ঠানিক ঝুঁকি প্রতিফলিত করতে পারে। এগুলিকে রোগ নয় বরং বেঁচে থাকার কৌশল হিসাবে বোঝা কৃষ্ণাঙ্গ পুরুষদের মানসিক স্বাস্থ্য সহায়তা পরিবর্তন করে।"
-   }
-  },
-  {
-   "id": "1ykrmjh",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/bpzuvhmczk",
-   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-12%2Fuqkh18uq%2F4270163e_55d8_41ae_8c74_238ae66a42b7.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-   "published": "2026-10-11T23:29:09.000Z",
-   "added": "2026-10-12T00:28:25.040Z",
-   "origTitle": "সৌদি আরবে বিমানবন্দরে হামলায় নিহত ও আহত ২৬ বাংলাদেশির পরিচয় জানা গেছে",
-   "en": {
-    "title": "26 Bangladeshis identified after Riyadh airport attack by Houthis",
-    "summary": "Two Bangladeshis died and 24 were injured in a Houthi attack on King Khalid International Airport in Riyadh. The deceased are Mo. Shahed Ahmad from Bogura and Mo. Nasrullah from Cumilla. Among the injured, 11 are working in Saudi Arabia and 13 were visiting on Umrah visas. Three remain in ICU: Hafez Hasan, Kazi Nurullah, and Mo. Omer Faruk."
-   },
-   "bn": {
-    "title": "রিয়াদ বিমানবন্দর হামলায় ২৬ বাংলাদেশি চিহ্নিত",
-    "summary": "হুতিদের রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হামলায় দুজন বাংলাদেশি নিহত এবং ২৪ জন আহত হয়েছেন। নিহতরা হলেন বগুড়ার মো. শাহেদ আহম্মদ এবং কুমিল্লার মো. নাসরুল্লাহ। আহতদের মধ্যে ১১ জন সৌদি আরবে কর্মরত এবং ১৩ জন ওমরাহ ভিসায় ছিলেন। তিনজন আইসিইউতে রয়েছেন: হাফেজ হাসান, কাজী নুরুল্লাহ এবং মো. ওমর ফারুক।"
-   }
-  },
-  {
-   "id": "1sclliz",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-   "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
-   "published": "2026-10-11T21:14:40.000Z",
-   "added": "2026-10-12T00:28:25.040Z",
-   "origTitle": "Will the HomeView be Apple’s first smart home success?",
-   "en": {
-    "title": "Apple launches HomeView smart home hub with A18 chip",
-    "summary": "Apple will unveil a new smart home device called HomeView on Tuesday, powered by an A18 chip and Siri. It comes in two models: countertop and wall-mounted versions for controlling other smart home devices. Apple is also releasing updated Apple TV and HomePod mini, plus announcing partnerships with LG for smart locks, thermostats, and doorbells."
-   },
-   "bn": {
-    "title": "অ্যাপল এ১৮ চিপসহ হোমভিউ স্মার্ট হাব লঞ্চ করছে",
-    "summary": "অ্যাপল মঙ্গলবার এ১৮ চিপ এবং সিরি দ্বারা চালিত হোমভিউ নামক একটি নতুন স্মার্ট হোম ডিভাইস উন্মোচন করবে। এটি দুটি মডেলে আসে: কাউন্টারটপ এবং ওয়াল-মাউন্টেড সংস্করণ অন্যান্য স্মার্ট হোম ডিভাইস নিয়ন্ত্রণের জন্য। অ্যাপল আপডেট করা অ্যাপল টিভি এবং হোমপড মিনিও রিলিজ করছে, এবং স্মার্ট লক, থার্মোস্ট্যাট এবং ডোরবেলের জন্য এলজির সাথে অংশীদারিত্বের ঘোষণা দিচ্ছে।"
-   }
-  },
-  {
-   "id": "1i9x4tg",
-   "section": "news",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/973914/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%9C%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B0%E2%80%8D%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%93",
-   "image": null,
-   "published": "2026-10-12T00:12:00.000Z",
-   "added": "2026-10-12T00:28:25.040Z",
-   "origTitle": "বিশ্ব মানসিক স্বাস্থ্য দিবসে জবিতে র‍্যালি ও সেমিনার",
-   "en": {
-    "title": "Jagannath University marks World Mental Health Day with rally, seminar",
-    "summary": "Jagannath University celebrated World Mental Health Day 2026 on Sunday with the theme \"Listen to Real Experiences: Real Stories, Real Change.\" The psychology department organised a rally, mental health assessments, counselling, seminars and workshops. Vice-Chancellor Professor Dr Roiz Uddin led the event. The day aimed to raise awareness about mental wellbeing among students."
-   },
-   "bn": {
-    "title": "জগন্নাথ বিশ্ববিদ্যালয়ে বিশ্ব মানসিক স্বাস্থ্য দিবস পালিত",
-    "summary": "জগন্নাথ বিশ্ববিদ্যালয় রবিবার 'সত্যিকারের অভিজ্ঞতা শুনুন: সত্যিকারের গল্প, সত্যিকারের পরিবর্তন' থিমে বিশ্ব মানসিক স্বাস্থ্য দিবস ২০২৬ উদযাপন করেছে। মনোবিজ্ঞান বিভাগ র‍্যালি, মানসিক স্বাস্থ্য মূল্যায়ন, পরামর্শসেবা, সেমিনার এবং কর্মশালার আয়োজন করেছে। উপাচার্য অধ্যাপক ড. রইছ উদ্দীন অনুষ্ঠান পরিচালনা করেছেন। দিনটি শিক্ষার্থীদের মধ্যে মানসিক সুস্থতার সচেতনতা বৃদ্ধির লক্ষ্যে পালিত হয়েছে।"
-   }
-  },
-  {
-   "id": "1yabnlw",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-11T21:36:40.000Z",
-   "added": "2026-10-12T00:28:25.040Z",
-   "origTitle": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-   "en": {
-    "title": "Trump claims Russia-Ukraine energy ceasefire; Russia stays silent",
-    "summary": "Donald Trump announced an immediate \"energy ceasefire\" between Russia and Ukraine, but provided no details. Zelensky said Ukraine would support it if Russia did, then accused Russia of striking energy infrastructure after the announcement. Trump wants Ukraine to stop hitting Russian oil targets so Russia fulfills a diesel export deal. The deal is controversial, with Zelensky calling it a gift to Putin."
-   },
-   "bn": {
-    "title": "ট্রাম্পের শক্তি যুদ্ধবিরতির দাবি; রাশিয়া নিরব",
-    "summary": "ডোনাল্ড ট্রাম্প রাশিয়া এবং ইউক্রেনের মধ্যে তাৎক্ষণিক 'শক্তি যুদ্ধবিরতির' ঘোষণা দিয়েছেন, কিন্তু কোনো বিশদ জানাননি। জেলেনস্কি বলেছেন যে ইউক্রেন এটি সমর্থন করবে যদি রাশিয়া করে, তারপর ঘোষণার পরে রাশিয়া শক্তি অবকাঠামোতে আঘাত করার অভিযোগ করেছেন। ট্রাম্প ইউক্রেনকে রাশিয়ার তেল লক্ষ্যে আঘাত করা বন্ধ করতে চায় যাতে রাশিয়া ডিজেল রপ্তানি চুক্তি পূরণ করে। এই চুক্তি বিতর্কিত, জেলেনস্কি এটিকে পুতিনের কাছে উপহার বলেছেন।"
-   }
-  },
-  {
-   "id": "1cowhjj",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/energy/bangladesh-eyes-algerian-lng-lpg-imports-amid-supply-crunch-1569776",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/30/summit_lng.jpg",
-   "published": "2026-10-11T22:05:00.000Z",
-   "added": "2026-10-12T00:28:25.040Z",
-   "origTitle": "Bangladesh eyes Algerian LNG, LPG imports amid supply crunch",
-   "en": {
-    "title": "Bangladesh looks to Algeria for gas amid Middle East supply crunch",
-    "summary": "Bangladesh is negotiating deals to import LNG and LPG from Algeria to dodge supply disruptions in the Middle East. Energy Minister Iqbal Hassan Mahmood met with Algeria's ambassador to discuss the partnership. Algeria's shipping routes bypass the Strait of Hormuz, offering a safer alternative. South Asian countries are diversifying energy sources as geopolitical tensions shift."
-   },
-   "bn": {
-    "title": "মধ্যপ্রাচ্যের সংকটে বাংলাদেশ আলজেরিয়ার দিকে তাকাচ্ছে",
-    "summary": "বাংলাদেশ মধ্যপ্রাচ্যের সরবরাহ সমস্যা এড়াতে আলজেরিয়া থেকে এলএনজি এবং এলপিজি আমদানির চুক্তি আলোচনা করছে। শক্তি মন্ত্রী ইকবাল হাসান মাহমুদ এই অংশীদারিত্ব নিয়ে কথা বলতে আলজেরিয়ার রাষ্ট্রদূতের সাথে দেখা করেছেন। আলজেরিয়ার শিপিং রুট হরমুজ প্রণালী এড়িয়ে যায়, যা নিরাপদ বিকল্প প্রদান করে। দক্ষিণ এশীয় দেশগুলি ভূ-রাজনৈতিক পরিবর্তনের সাথে সাথে শক্তির উৎস বৈচিত্র্যময় করছে।"
    }
   }
  ]
