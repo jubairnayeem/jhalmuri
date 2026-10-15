@@ -1,99 +1,131 @@
 {
- "updatedAt": "2026-10-15T07:21:15.782Z",
+ "updatedAt": "2026-10-15T13:22:09.733Z",
  "burning": [
   {
-   "id": "1bwzgin",
+   "id": "1p9otd5",
    "heat": 5,
    "why": {
-    "en": "Mass flight cancellations stranding thousands hits daily life hard.",
-    "bn": "হাজার হাজার যাত্রী আটকে পড়া একটি বড় সংকট।"
+    "en": "45th BCS gazette released with 1,702 candidates; massive protest over 105 exclusions dominates news and Google Trends.",
+    "bn": "৪৫তম বিসিএসে ১,৭০২ জনকে নিয়োগ দিয়ে প্রজ্ঞাপন; ১০৫ জনকে বাদ দেওয়ায় বিশাল প্রতিবাদ চলছে।"
    },
    "rank": 1
   },
   {
-   "id": "jzn2xm",
+   "id": "1ufv3oe",
    "heat": 5,
    "why": {
-    "en": "Young man killed over blasphemy accusations—serious communal tension.",
-    "bn": "ধর্মনিন্দার অভিযোগে তরুণ হত্যা—গুরুতর সামাজিক সংকট।"
+    "en": "Saudi Arabia executes two Bangladeshi nationals in Makkah; tops Google Trends with 1000+ searches.",
+    "bn": "মক্কায় দুই বাংলাদেশির মৃত্যুদণ্ড কার্যকর হয়েছে; গুগলে সবচেয়ে বেশি সার্চ হচ্ছে।"
    },
    "rank": 2
   },
   {
-   "id": "119ybko",
+   "id": "p1ll2d",
    "heat": 4,
    "why": {
-    "en": "Haaland smashes Messi's Champions League scoring record—huge sports moment.",
-    "bn": "হালান্ড মেসির রেকর্ড ভাঙলেন—বিশাল ক্রীড়া খবর।"
+    "en": "Dengue deaths spike; minister says vaccine not yet planned—health crisis in focus.",
+    "bn": "ডেঙ্গু মৃত্যু বৃদ্ধি; মন্ত্রী বলেন ভ্যাকসিনের পরিকল্পনা নেই এখনও।"
    },
    "rank": 3
   },
   {
-   "id": "1ufv3oe",
+   "id": "1bwzgin",
    "heat": 4,
    "why": {
-    "en": "Saudi Arabia executes two Bangladeshi nationals—major diplomatic and human concern.",
-    "bn": "সৌদি আরবে দুই বাংলাদেশি নাগরিক মৃত্যুদণ্ড—জাতীয় গুরুত্বপূর্ণ ঘটনা।"
+    "en": "89 flights cancelled in four days, 14,500 stranded—travel chaos grabs attention.",
+    "bn": "চার দিনে ৮৯টি ফ্লাইট বাতিল, ১৪,৫০০ জন আটকে আছেন।"
    },
    "rank": 4
   },
   {
-   "id": "13isvgz",
+   "id": "1k9tigt",
    "heat": 3,
    "why": {
-    "en": "Petrol bomb attack near July massacre museum kills one.",
-    "bn": "জুলাই শহীদ স্মৃতিস্তম্ভের কাছে পেট্রোল বোমা হামলায় মৃত্যু।"
+    "en": "Bangladesh bans becoming lawyer after age 35—policy shift draws discussion.",
+    "bn": "বাংলাদেশ ৩৫ বছরের পর আইনজীবী হওয়ার উপর নিষেধাজ্ঞা জারি করেছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "a5eywx",
-   "tag": "#GenZProtest",
+   "id": "1p9otd5",
+   "tag": "#BCS",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "BCS Gazette Drama",
+    "text": "45th BCS results out with 1,702 recommendations, but 105 candidates excluded. Students protesting the calls."
+   },
+   "bn": {
+    "title": "বিসিএস গেজেট ড্রামা",
+    "text": "৪৫তম বিসিএসে ১,৭০২ জনকে সুপারিশ করা হয়েছে, কিন্তু ১০৫ জন বাদ পড়েছে। ছাত্ররা প্রতিবাদ করছে।"
+   }
+  },
+  {
+   "id": "1ufv3oe",
+   "tag": "#ExecutionInSaudi",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Two Bangladeshis Executed in Saudi Arabia",
+    "text": "Saudi Arabia has executed two Bangladeshi nationals in Makkah. The news is trending heavily across Google."
+   },
+   "bn": {
+    "title": "মক্কায় দুই বাংলাদেশির মৃত্যুদণ্ড",
+    "text": "সৌদি আরবে মক্কায় দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর করা হয়েছে।"
+   }
+  },
+  {
+   "id": "jzn2xm",
+   "tag": "#SatkhiraIncident",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Indian student leader praises Bangladesh Gen-Z",
-    "text": "An Indian student activist is backing Bangladesh's youth protest movement, signalling cross-border solidarity on student activism."
+    "title": "Young Man Killed in Satkhira",
+    "text": "A young man has been killed in Satkhira after blasphemy accusations. An escalating concern in the region."
    },
    "bn": {
-    "title": "ভারতীয় ছাত্র নেতা বাংলাদেশ জেন-জেডকে সমর্থন",
-    "text": "ভারতীয় ছাত্রনেতা বাংলাদেশের তরুণ আন্দোলনকে প্রশংসা করছেন, যা আঞ্চলিক ছাত্র সক্রিয়তার সংযোগ দেখাচ্ছে।"
+    "title": "সাতক্ষীরায় যুবক নিহত",
+    "text": "ধর্মনিন্দার অভিযোগে সাতক্ষীরায় একজন যুবক নিহত হয়েছেন।"
    }
   },
   {
-   "id": "1p9otd5",
-   "tag": "#BCS45",
+   "id": "p1ll2d",
+   "tag": "#DengueCrisis",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "45th BCS gazette released",
-    "text": "Bangladesh Civil Service exam results out with 1,702 candidates recommended, a major milestone for job seekers."
+    "title": "Dengue Deaths Spike, No Vaccine Yet",
+    "text": "Dengue deaths are rising sharply. The health minister says vaccine plans are not in place yet."
    },
    "bn": {
-    "title": "৪৫তম বিসিএস গেজেট প্রকাশিত",
-    "text": "বাংলাদেশ সরকারি চাকরি পরীক্ষার ফলাফল আসলো—১,৭০২ জন সুপারিশপ্রাপ্ত।"
+    "title": "ডেঙ্গু মৃত্যু বাড়ছে",
+    "text": "ডেঙ্গু মৃত্যু হার বৃদ্ধি পাচ্ছে এবং সরকার এখনও ভ্যাকসিনের পরিকল্পনা করেনি।"
    }
   },
   {
-   "id": "1bqs6v9",
-   "tag": "#MentalHealth",
+   "id": "1bwzgin",
+   "tag": "#FlightCancellations",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Bangladesh launches mental health sign language bank",
-    "text": "First-ever mental health sign language resource launched to support deaf and hard of hearing communities."
+    "title": "Massive Flight Cancellations Strand Thousands",
+    "text": "89 flights cancelled over four days have left 14,500 passengers stranded. Travel chaos continues."
    },
    "bn": {
-    "title": "মানসিক স্বাস্থ্য সাইন ভাষা ব্যাংক চালু",
-    "text": "বাংলাদেশে প্রথমবার বধির এবং কম শ্রবণশীল মানুষদের জন্য মানসিক স্বাস্থ্য সাইন ভাষার সম্পদ।"
+    "title": "হাজার হাজার যাত্রী আটকে",
+    "text": "চার দিনে ৮৯টি ফ্লাইট বাতিল হয়ে ১৪,৫০০ জন যাত্রী আটকে আছেন।"
    }
   }
  ],
