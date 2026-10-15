@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-15T13:21:52.317Z",
+ "updatedAt": "2026-10-15T18:14:00.156Z",
  "items": [
+  {
+   "id": "xk2d2g",
+   "section": "hasi",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/15/bear-library-Mono-County-winnie-the-pooh/5921792087119/",
+   "image": "https://cdnph.upi.com/ph/st/th/5921792087119/2026/i/17920872829223/v1.5/Bear-visits-library-steals-honey-on-Winnie-the-Poohs-100th-birthday.jpg",
+   "published": "2026-10-15T18:02:00.000Z",
+   "added": "2026-10-15T18:14:00.156Z",
+   "origTitle": "Watch: Bear visits library, steals honey on Winnie-the-Pooh's 100th birthday",
+   "en": {
+    "title": "Bear raids California library on Pooh's 100th birthday",
+    "summary": "A California bear walked into its local library on Winnie-the-Pooh's 100th birthday and grabbed the perfect snack: a jar of honey. Talk about method acting—the bear couldn't have planned it better."
+   },
+   "bn": {
+    "title": "উইনি দ্য পুহের জন্মদিনে ভালুক লাইব্রেরিতে হানা",
+    "summary": "ক্যালিফোর্নিয়ায় একটি ভালুক স্থানীয় লাইব্রেরিতে ঘুরে এসে উইনি দ্য পুহের ১০০ তম জন্মদিনের সাথে পারফেক্ট ম্যাচ রাখল—একটি মধুর পাত্র চুরি করে। ভালুকটি নিজেকে বই থেকেই বেরিয়ে এসেছে বলে মনে হয়েছে।"
+   }
+  },
+  {
+   "id": "1ictvvf",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/rb8dhgc5cv",
+   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-15%2Fhhdfwzjj%2F7.jpeg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+   "published": "2026-10-15T18:00:07.000Z",
+   "added": "2026-10-15T18:14:00.156Z",
+   "origTitle": "খাদ্যনিরাপত্তায় নতুন পথ দেখাচ্ছে ইউএইচটি প্রযুক্তি",
+   "en": {
+    "title": "UHT tech keeps milk fresh longer, cuts waste",
+    "summary": "Bangladesh needs new ways to keep food safe and nutritious from farm to table. UHT (Ultra-High Temperature) technology heats milk to 135°C for seconds, killing germs and letting it stay fresh without refrigeration. This cuts waste, eases transport, and helps ensure better nutrition for everyone."
+   },
+   "bn": {
+    "title": "দুধ সংরক্ষণে ইউএইচটি প্রযুক্তি বদলে দিচ্ছে খেলা",
+    "summary": "বাংলাদেশে খাদ্যনিরাপত্তার জন্য দরকার উদ্ভাবনী প্রযুক্তি। ইউএইচটি পদ্ধতিতে দুধকে ১৩৫ ডিগ্রি সেলসিয়াসে কয়েক সেকেন্ড গরম করে জীবাণুমুক্ত করা হয়। এই প্রযুক্তি ব্যবহার করে দুধ রেফ্রিজারেশন ছাড়াই দীর্ঘদিন সংরক্ষণ করা যায় এবং খাদ্য অপচয় কমানো সম্ভব হয়।"
+   }
+  },
+  {
+   "id": "msp3rz",
+   "section": "bhabna",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/2026/10/15/new-why-teach-philosophy/",
+   "image": "https://dailynous.com/wp-content/uploads/2019/09/lecture-hall-old-1.png",
+   "published": "2026-10-15T14:34:35.000Z",
+   "added": "2026-10-15T18:13:51.242Z",
+   "origTitle": "New: “Why Teach Philosophy?”",
+   "en": {
+    "title": "New podcast series explores why philosophy teachers teach",
+    "summary": "Russell Marcus at Hamilton College launched \"Why Teach Philosophy,\" a podcast series interviewing renowned philosophy educators. The interviews—edited from 3-4 hour conversations—explore teaching methods, curriculum design, and learning goals. Marcus says grad schools should use them for teacher training. Interviews with six philosophers are live now on YouTube, Spotify, and Apple Podcasts, with eleven more coming soon."
+   },
+   "bn": {
+    "title": "নতুন পডকাস্ট সিরিজ: দর্শন শেখানো কেন গুরুত্বপূর্ণ",
+    "summary": "হ্যামিল্টন কলেজের রাসেল মার্কাস একটি নতুন পডকাস্ট সিরিজ চালু করেছেন যেখানে বিখ্যাত দর্শন শিক্ষকদের সাক্ষাৎকার নেওয়া হয়। প্রতিটি সাক্ষাৎকার ৩-৪ ঘণ্টার কথোপকথন থেকে সম্পাদিত, যেখানে শিক্ষণ পদ্ধতি ও পাঠ্যক্রম নিয়ে আলোচনা হয়। মার্কাস বলেন স্নাতক বিদ্যালয়গুলো এটি শিক্ষক প্রশিক্ষণে ব্যবহার করতে পারে। ছয়জন দর্শকের সাক্ষাৎকার ইতিমধ্যে YouTube এবং Spotify-তে লাইভ।"
+   }
+  },
+  {
+   "id": "pcmmhk",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/873A1063-copy-1792081894.jpg?resize=1920%2C1440",
+   "published": "2026-10-15T17:43:01.000Z",
+   "added": "2026-10-15T18:13:51.242Z",
+   "origTitle": "A mother’s touch helps premature babies grow strong in Gaza",
+   "en": {
+    "title": "Skin-to-skin contact helps premature babies heal in Gaza",
+    "summary": "At Nasser Medical Complex in Gaza, premature newborn Ilyas received kangaroo mother care—prolonged skin-to-skin contact with his mother Rania. Born weighing just 1.4 kg with lung and blood issues, Ilyas spent 11 days in intensive care before his mother could hold him. The practice, combining skin contact with exclusive breastfeeding, has proven health benefits for low-birthweight infants."
+   },
+   "bn": {
+    "title": "গাজায় ক্যাঙ্গারু মা পদ্ধতি সময়ের আগে জন্ম নেওয়া শিশুদের সাহায্য করছে",
+    "summary": "গাজার নাসার মেডিকেল কমপ্লেক্সে প্রাথমিক পর্যায়ের শিশু ইলিয়াস তার মা রানিয়ার সাথে ত্বক-থেকে-ত্বক যোগাযোগ চিকিৎসা পেয়েছেন। মাত্র ১.৪ কেজি ওজন নিয়ে জন্ম নেওয়া ইলিয়াসের ফুসফুস ও রক্তজনিত সমস্যা ছিল। ১১ দিন নিবিড় পরিচর্যায় থাকার পর তার মা তাকে কোলে নিতে পেরেছেন। এই পদ্ধতি ত্বক স্পর্শ ও একচেটিয়া স্তন্যপান প্রদানের মাধ্যমে কম ওজনের শিশুর জন্য কার্যকর।"
+   }
+  },
+  {
+   "id": "o9yxyg",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg",
+   "published": "2026-10-15T17:47:22.000Z",
+   "added": "2026-10-15T18:13:51.242Z",
+   "origTitle": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+   "en": {
+    "title": "Trump cancels livestream of Fort Hood attacker's execution",
+    "summary": "President Trump cancelled plans to livestream the execution of former psychiatrist Nidal Hasan by firing squad after widespread global criticism. Hasan killed 13 military personnel and injured 32 others at a Texas base in 2009. The execution is scheduled for December 3, 2026, but will no longer be broadcast. Victim families can still attend in person if they choose."
+   },
+   "bn": {
+    "title": "ট্রাম্প ফোর্ট হুড আক্রমণকারীর মৃত্যুদণ্ড সরাসরি সম্প্রচার বাতিল করলেন",
+    "summary": "বিশ্বব্যাপী সমালোচনার পর প্রেসিডেন্ট ট্রাম্প সাবেক মনোবিজ্ঞানী নিদাল হাসানের মৃত্যুদণ্ডের লাইভস্ট্রিম বাতিল করেছেন। হাসান ২০০৯ সালে টেক্সাসের একটি সামরিক ঘাঁটিতে ১৩ জন সামরিক কর্মীকে হত্যা এবং ৩২ জনকে আহত করেছিলেন। মৃত্যুদণ্ড ৩ ডিসেম্বর ২০২৬ তারিখে কার্যকর করা হবে কিন্তু সরাসরি প্রচার করা হবে না। ভিকটিমদের পরিবার চাইলে অংশগ্রহণ করতে পারবেন।"
+   }
+  },
+  {
+   "id": "c37le8",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/crime/6-arrested-over-question-leak-department-youth-development-recruitment-exam-1574381",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/01/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+   "published": "2026-10-15T17:55:00.000Z",
+   "added": "2026-10-15T18:13:51.242Z",
+   "origTitle": "6 arrested over 'question leak' in Department of Youth Development recruitment exam",
+   "en": {
+    "title": "Six arrested in youth department exam question leak case",
+    "summary": "Police arrested six people suspected of leaking exam questions for a Department of Youth Development recruitment test. The exam for assistant upazila youth development officer was postponed on October 10 after the leak was discovered. Officers recovered admit cards, stamps and cheques from the suspects. The rescheduled exam is now set for October 16."
+   },
+   "bn": {
+    "title": "যুব উন্নয়ন বিভাগের পরীক্ষার প্রশ্নপত্র ফাঁসিতে ছয়জন গ্রেপ্তার",
+    "summary": "বিশেষ অভিযান বাহিনী যুব উন্নয়ন বিভাগের নিয়োগ পরীক্ষার প্রশ্নপত্র ফাঁস করার সন্দেহে ছয়জনকে গ্রেপ্তার করেছে। সহায়ক উপজেলা যুব উন্নয়ন অফিসারের পদের পরীক্ষা ১০ অক্টোবর ফাঁসের অভিযোগে স্থগিত করা হয়েছিল। গ্রেপ্তারকৃতদের কাছ থেকে এডমিট কার্ড, স্ট্যাম্প এবং ব্যাংক চেক পাওয়া গেছে। পরীক্ষা এখন ১৬ অক্টোবরে নির্ধারিত হয়েছে।"
+   }
+  },
   {
    "id": "1g76g15",
    "section": "bhabna",
@@ -2199,270 +2331,6 @@
    "bn": {
     "title": "সচিবালয়ে নিরাপত্তা কঠোর করতে নয়টি সিদ্ধান্ত",
     "summary": "সরকার সচিবালয়ে নয়টি নিরাপত্তা ব্যবস্থা নিয়েছে যা গাড়ির প্রবেশ, দর্শকদের তদারকি এবং ভবন প্রবেশনিয়ন্ত্রণের ওপর ফোকাস করে। প্রতিটি গাড়ির জন্য পার্কিং স্টিকার লাগবে, রাতে থাকার জন্য অনুমতি নিতে হবে এবং বিদেশী দর্শকদের আলাদাভাবে রেজিস্ট্রেশন করতে হবে। পুলিশ নিয়মিত মনিটরিং করবে এবং লঙ্ঘনের বিরুদ্ধে ব্যবস্থা নেবে।"
-   }
-  },
-  {
-   "id": "roycuv",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/7tp2z0xfzs",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-12/wchc6ows/Abdul-Hai-shikder.jpg",
-   "published": "2026-10-12T17:30:46.000Z",
-   "added": "2026-10-12T17:47:52.108Z",
-   "origTitle": "বাসস পরিচালনা বোর্ডের চেয়ারম্যান আবদুল হাই শিকদার",
-   "en": {
-    "title": "Abdul Hai Sikder becomes chairman of Bangladesh News Agency",
-    "summary": "Poet and Daily Yugantar editor Abdul Hai Sikder has been appointed chairman of the new board of BASSA (Bangladesh News Agency). The 12-member board includes representatives from various ministries, media editors, and news officials. However, Matiur Rahman Chowdhury, editor of Daily Manabzamin and president of the Newspaper Owners Association, said he was surprised to see his name on the board and has no interest in serving."
-   },
-   "bn": {
-    "title": "আবদুল হাই শিকদার বাসস চেয়ারম্যান হলেন",
-    "summary": "কবি এবং দৈনিক যুগান্তরের সম্পাদক আবদুল হাই শিকদারকে বাসস (বাংলাদেশ সংবাদ সংস্থা) এর নতুন পরিচালনা বোর্ডের চেয়ারম্যান করা হয়েছে। ১২ সদস্যের বোর্ডে আছেন বিভিন্ন মন্ত্রণালয়ের প্রতিনিধি, সংবাদপত্র সম্পাদক এবং খবর বিভাগের কর্মকর্তারা। তবে দৈনিক মানবজমিনের প্রধান সম্পাদক মতিউর রহমান চৌধুরী বলেছেন তার নাম দেখে আশ্চর্য হয়েছেন এবং এতে কোনো আগ্রহ নেই।"
-   }
-  },
-  {
-   "id": "s2xnsk",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/audubon-society-formally-excommunicates-penguins/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Audobon_Society_Formally_NIB_S_PH.jpg",
-   "published": "2026-10-12T13:00:00.000Z",
-   "added": "2026-10-12T17:47:52.108Z",
-   "origTitle": "Audubon Society Formally Excommunicates Penguins",
-   "en": {
-    "title": "Audubon Society excommunicates penguins (satire)",
-    "summary": "In a satirical bit from The Onion, the Audubon Society has formally excommunicated penguins for being flightless and 'heretical.' The fake announcement includes elaborate curses and bans penguin-watchers from looking at them. The kicker? Penguins won't be readmitted until they stop ordaining female colony leaders."
-   },
-   "bn": {
-    "title": "অডুবন সোসাইটি পেনগুইনদের বহিষ্কার করেছে (তামাশা)",
-    "summary": "দ্য অনিয়নের একটা মজার আর্টিকেলে অডুবন সোসাইটি পেনগুইনদের বহিষ্কার করেছে কারণ তারা ওড়ে না এবং 'নাস্তিক'। ফেক ঘোষণায় আছে বিস্তারিত অভিশাপ এবং বার্ড ওয়াচারদের তাদের দেখতে নিষেধ। মজার ব্যাপার? পেনগুইনরা ফেরত আসতে পারবে না যতক্ষণ তারা মহিলা নেত্রী নিয়োগ বন্ধ না করে।"
-   }
-  },
-  {
-   "id": "1cku2q9",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/business/global/aww654byh0",
-   "image": "https://media.prothomalo.com/prothomalo-english/2023-10/ddfc74ba-6380-474d-8d41-eb0d1f889d1c/imf_logo.webp",
-   "published": "2026-10-12T16:20:20.000Z",
-   "added": "2026-10-12T17:47:52.108Z",
-   "origTitle": "Policymakers take on energy shock, rising debt at IMF-World Bank meetings",
-   "en": {
-    "title": "IMF, World Bank tackle energy crisis and debt in Bangkok",
-    "summary": "Finance ministers and central bankers are meeting in Bangkok this week for annual IMF and World Bank meetings. They're juggling three big problems: the energy shock from the US-Iran conflict, rising global debt, and the AI boom pulling growth in opposite directions. The IMF will release its economic forecast on Tuesday, and the World Bank is advising developing countries to build small AI apps rather than compete with the US and China."
-   },
-   "bn": {
-    "title": "ব্যাংকক-এ আইএমএফ, ওয়ার্ল্ড ব্যাংকের মিটিং",
-    "summary": "অর্থমন্ত্রী এবং কেন্দ্রীয় ব্যাংকারদের ব্যাংককে এই সপ্তাহে আইএমএফ এবং ওয়ার্ল্ড ব্যাংকের বার্ষিক বৈঠক চলছে। তারা তিনটা বড় সমস্যার সাথে লড়াই করছে—যুক্তরাষ্ট্র-ইরান সংঘাতের শক্তি সংকট, বাড়তি বৈশ্বিক ঋণ, এবং এআই বুম যা বৃদ্ধিকে বিপরীত দিকে টানছে। আইএমএফ মঙ্গলবার অর্থনৈতিক পূর্বাভাস প্রকাশ করবে, আর ওয়ার্ল্ড ব্যাংক উন্নয়নশীল দেশগুলোকে বলছে ছোট এআই অ্যাপ তৈরিতে ফোকাস করতে।"
-   }
-  },
-  {
-   "id": "574bu5",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/12/Zeekr-Guinness-World-Records-gap-drift/5951791822673/",
-   "image": "https://cdnph.upi.com/ph/st/th/5951791822673/2026/i/17918238936759/v1.5/Zeekr-car-earns-Guinness-World-Record-for-tightest-gap-pass-while-drifting.jpg",
-   "published": "2026-10-12T17:17:17.000Z",
-   "added": "2026-10-12T17:47:52.108Z",
-   "origTitle": "Zeekr car earns Guinness World Record for tightest gap pass while drifting",
-   "en": {
-    "title": "Chinese electric car sets drifting world record",
-    "summary": "Zeekr, a Chinese car company, just won a Guinness World Record for the tightest gap an electric car has drifted through. That's basically threading a needle at high speed while sideways. Pretty wild flex for an EV."
-   },
-   "bn": {
-    "title": "চীনা ইলেকট্রিক গাড়ির ড্রিফটিং রেকর্ড",
-    "summary": "জিকর নামের চীনা গাড়ির কোম্পানি গিনেস ওয়ার্ল্ড রেকর্ড জিতেছে—একটা ইলেকট্রিক গাড়ি দিয়ে সবচেয়ে ছোট ফাঁক দিয়ে ড্রিফট করে। মানে গতিতে বাঁকভাবে সুইয়িয়ে যাওয়া। ইভি এর জন্য বেশ ইম্প্রেসিভ।"
-   }
-  },
-  {
-   "id": "6mold4",
-   "section": "bhabna",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/12/is-a-hardwired-pause-of-ai-possible/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/10/stop-sign-hand-circuit-board.png",
-   "published": "2026-10-12T11:55:59.000Z",
-   "added": "2026-10-12T17:47:52.108Z",
-   "origTitle": "Is a “Hardwired Pause” of AI Possible?",
-   "en": {
-    "title": "Can the world actually pause AI development?",
-    "summary": "A new report says yes—if governments work together. The idea: stop making chips for training powerful AI models and replace them with chips that can only run existing AI, not build new ones. It's feasible because chip production has bottlenecks that governments can control. The catch? Everyone has to agree to pause, or someone cheats."
-   },
-   "bn": {
-    "title": "পৃথিবী কি এআই উন্নয়ন থামাতে পারবে?",
-    "summary": "একটা নতুন রিপোর্ট বলছে যে হ্যাঁ, পারবে—যদি সরকারগুলো একসাথে কাজ করে। আইডিয়া হল শক্তিশালী এআই ট্রেনিংয়ের জন্য চিপ তৈরি বন্ধ করা এবং সেগুলোকে এমন চিপ দিয়ে বদলানো যা শুধু বিদ্যমান এআই চালাতে পারে, নতুন তৈরি করতে নয়। এটা সম্ভব কারণ চিপ উৎপাদনে নিয়ন্ত্রণ পয়েন্ট আছে যা সরকার নিয়ন্ত্রণ করতে পারে। তবে সবার অবশ্যই একমত হতে হবে, নাহলে কেউ চেট করবে।"
-   }
-  },
-  {
-   "id": "3uxe5c",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/videos/the-fragile-majesty-of-the-buganda-royal-tombs-in-uganda",
-   "image": "https://images.aeonmedia.co/images/997e702c-b6c7-49d1-90b0-e95c41e7c5b5/africa_s-cultural-landmarks-tombs-of-buganda-kings-landscape.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-12T10:01:00.000Z",
-   "added": "2026-10-12T17:47:27.278Z",
-   "origTitle": "Africa’s cultural landmarks: tombs of Buganda kings",
-   "en": {
-    "title": "Kasubi: the tombs where Buganda's kings rest and inspire millions",
-    "summary": "Kasubi Hill in Kampala holds the tombs of four Buganda kings, built from plant materials that need constant care. A 2010 fire destroyed much of the complex, but restoration has since preserved this sacred space central to Baganda culture. The film documents how these structures embody the spirituality of the Baganda people."
-   },
-   "bn": {
-    "title": "কাসুবি: বুগান্ডার রাজাদের সমাধি যা লক্ষ মানুষকে অনুপ্রাণিত করে",
-    "summary": "কাম্পালায় কাসুবি পাহাড়ে বুগান্ডার চারজন রাজার সমাধি রয়েছে, যা গাছের উপাদান দিয়ে তৈরি। ২০১০ সালের আগুনে জটিলটির অনেক অংশ ধ্বংস হয়, কিন্তু পুনরুদ্ধার এই পবিত্র স্থানটি বাঁচিয়েছে যা বাগান্ডা সংস্কৃতির কেন্দ্র। চলচ্চিত্রটি দেখায় কীভাবে এই কাঠামোগুলি বাগান্ডা জনগণের আধ্যাত্মিকতা প্রতিফলিত করে।"
-   }
-  },
-  {
-   "id": "m7ehib",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/974135/%E0%A6%A1.-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A7%82%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8-%E2%80%98%E0%A6%95%E0%A6%B0-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%95%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF",
-   "image": null,
-   "published": "2026-10-12T17:41:26.000Z",
-   "added": "2026-10-12T17:47:27.278Z",
-   "origTitle": "ড. ইউনূসের প্রতিষ্ঠান ‘কর ফাঁকি দেওয়ার একটি ধ্রুপদি উদাহরণ’: হাইকোর্ট",
-   "en": {
-    "title": "High Court calls Dr Yunus's institution 'textbook tax evasion' case",
-    "summary": "A High Court ruling found that Grameen Kalyan, owned by Nobel laureate and interim chief advisor Dr Muhammad Yunus, is a textbook example of tax evasion. The National Board of Revenue claims the institution owes 666 crore taka in unpaid taxes. The case has reached the Supreme Court."
-   },
-   "bn": {
-    "title": "হাইকোর্ট ড. ইউনূসের প্রতিষ্ঠানকে 'ধ্রুপদি কর ফাঁকি' বলেছে",
-    "summary": "হাইকোর্টের রায়ে বলা হয়েছে যে নোবেল বিজয়ী ড. মুহাম্মদ ইউনূসের মালিকানাধীন গ্রামীণ কল্যাণ কর ফাঁকির একটি ধ্রুপদি উদাহরণ। জাতীয় রাজস্ব বোর্ড দাবি করে প্রতিষ্ঠানটির ৬৬৬ কোটি টাকা কর বাকি আছে। মামলাটি সুপ্রিম কোর্টে পৌঁছেছে।"
-   }
-  },
-  {
-   "id": "d2ovpl",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/south-asia/chennai-bound-indigo-flight-diverted-after-passengers-power-bank-catches-fire-what",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/07/20/indigo.jpg",
-   "published": "2026-10-12T17:35:00.000Z",
-   "added": "2026-10-12T17:47:27.278Z",
-   "origTitle": "Chennai-bound IndiGo flight diverted after passenger’s power bank catches fire | What rules say",
-   "en": {
-    "title": "IndiGo flight diverted after passenger's power bank catches fire",
-    "summary": "An IndiGo flight from Delhi to Chennai was diverted to Hyderabad when a passenger's power bank caught fire. The 191 people onboard landed safely after crew extinguished the fire. Lithium-ion batteries can overheat and catch fire if overcharged, damaged, or defective."
-   },
-   "bn": {
-    "title": "যাত্রীর পাওয়ার ব্যাংক আগুন ধরায় ইন্ডিগো ফ্লাইট ঘুরে যায়",
-    "summary": "দিল্লি থেকে চেন্নাইগামী একটি ইন্ডিগো বিমান যাত্রীর পাওয়ার ব্যাংক আগুন ধরলে হায়দারাবাদে ঘুরে যায়। ১৯১ জন যাত্রী নিরাপদে অবতরণ করেন ক্রু আগুন নিভিয়ে দেওয়ার পরে। লিথিয়াম-আয়ন ব্যাটারি অতিরিক্ত চার্জ, ক্ষতি বা ত্রুটিতে আগুন ধরতে পারে।"
-   }
-  },
-  {
-   "id": "1fpmw4w",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-   "published": "2026-10-12T17:19:14.000Z",
-   "added": "2026-10-12T17:47:27.278Z",
-   "origTitle": "WindBorne wins a hefty US Air Force contract for its balloon data",
-   "en": {
-    "title": "WindBorne's weather balloons land nearly $50M Air Force contract",
-    "summary": "WindBorne Systems won a major US Air Force contract worth up to $49 million for atmospheric data collected by its 700 autonomous weather balloons. The startup, founded in 2015, has already received $1.7 million in orders. This is the company's largest single contract to date."
-   },
-   "bn": {
-    "title": "উইন্ডবর্নের আবহাওয়া বেলুন ৫০ মিলিয়ন ডলার চুক্তি জিতেছে",
-    "summary": "উইন্ডবর্ন সিস্টেমস আমেরিকার বায়ু বাহিনীর সাথে ৪৯ মিলিয়ন ডলারের চুক্তি স্বাক্ষর করেছে তার ৭০০টি স্বয়ংক্রিয় আবহাওয়া বেলুন থেকে তথ্য সংগ্রহের জন্য। ২০১৫ সালে প্রতিষ্ঠিত স্টার্টআপটি এখন পর্যন্ত ১.৭ মিলিয়ন ডলার অর্ডার পেয়েছে। এটি কোম্পানির সবচেয়ে বড় চুক্তি।"
-   }
-  },
-  {
-   "id": "19hd7zr",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
-   "published": "2026-10-12T17:32:13.000Z",
-   "added": "2026-10-12T17:47:27.278Z",
-   "origTitle": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-   "en": {
-    "title": "Russia strikes Ukraine energy sites hours after Trump ceasefire announcement",
-    "summary": "Russia attacked six Ukrainian energy facilities shortly after Trump announced an energy ceasefire agreement. Zelensky said Russia hit gas stations and power infrastructure across the country, causing blackouts in Izyum. He called the strikes Putin's response to Trump's announcement. At least 33 people were injured."
-   },
-   "bn": {
-    "title": "ট্রাম্পের যুদ্ধবিরতি ঘোষণার কয়েক ঘণ্টায় রাশিয়া ইউক্রেন আঘাত করেছে",
-    "summary": "ট্রাম্প শক্তি যুদ্ধবিরতি চুক্তির ঘোষণা দেওয়ার কয়েক ঘণ্টা পরেই রাশিয়া ইউক্রেনের ছয়টি শক্তি সুবিধা আক্রমণ করেছে। জেলেনস্কি বলেছেন রাশিয়া গ্যাস স্টেশন এবং বিদ্যুৎ অবকাঠামো লক্ষ্য করে ইজিয়ামে ব্ল্যাকআউট সৃষ্টি করেছে। কমপক্ষে ৩৩ জন আহত হয়েছে।"
-   }
-  },
-  {
-   "id": "1tbyeaw",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791824859.jpg?resize=1920%2C1080&quality=80",
-   "published": "2026-10-12T17:07:50.000Z",
-   "added": "2026-10-12T17:47:27.278Z",
-   "origTitle": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-   "en": {
-    "title": "Nobel laureate Navi Pillay calls US ICC sanctions 'unlawful'",
-    "summary": "Navi Pillay, a Nobel Peace Prize winner, has condemned US sanctions against the International Criminal Court as unlawful. She argues the sanctions violate the Rome Statute that defines the court's authority. The measures were imposed shortly after her award."
-   },
-   "bn": {
-    "title": "নোবেল বিজয়ী নভি পিল্লে আইসিসির বিরুদ্ধে মার্কিন নিষেধাজ্ঞা নিন্দা করেছেন",
-    "summary": "নোবেল শান্তি পুরস্কার বিজয়ী নভি পিল্লে আন্তর্জাতিক ফৌজদারি আদালতের বিরুদ্ধে আমেরিকার নিষেধাজ্ঞাকে অবৈধ বলে নিন্দা করেছেন। তিনি বলেন এই পদক্ষেপ আদালতের ক্ষমতা নির্ধারণকারী রোম স্ট্যাটিউট লঙ্ঘন করে। নিষেধাজ্ঞা তার পুরস্কার জেতার পরপরই আরোপ করা হয়েছিল।"
-   }
-  },
-  {
-   "id": "hf95jn",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.co.uk/bengali/live/cwe9l87zezn7t?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a887/live/c11c5dd0-c649-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-12T17:47:27.278Z",
-   "added": "2026-10-12T17:47:27.278Z",
-   "origTitle": "বিমানবন্দরে হুথি হামলার জবাবে ‘কঠোর পদক্ষেপের’ হুঁশিয়ারি সৌদি মন্ত্রীর",
-   "en": {
-    "title": "Riyadh airport closed after Houthi attack; Bangladesh flights suspended",
-    "summary": "A Houthi missile strike on Riyadh's King Khalid International Airport killed 13 people, including two Bangladeshis. The airport shut down, forcing Biman Bangladesh to suspend all Dhaka-Riyadh flights until October 17. Dengue deaths in Bangladesh this year have crossed 307, with over 100,000 cases reported."
-   },
-   "bn": {
-    "title": "হুথি হামলায় রিয়াদ বিমানবন্দর বন্ধ; বিমান ফ্লাইট স্থগিত",
-    "summary": "হুথিদের ক্ষেপণাস্ত্র হামলায় রিয়াদের কিং খালিদ বিমানবন্দরে ১৩ জন মারা গেছে, যাদের মধ্যে ২ জন বাংলাদেশি। বিমানবন্দর বন্ধ হওয়ায় বিমান বাংলাদেশ ঢাকা-রিয়াদ ফ্লাইট ১৭ অক্টোবর পর্যন্ত স্থগিত করেছে। এ বছর বাংলাদেশে ডেঙ্গুতে ৩০৭ জন মারা গেছে, মোট আক্রান্ত ১ লাখ ছাড়িয়েছে।"
    }
   }
  ]

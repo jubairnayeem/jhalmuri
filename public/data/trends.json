@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-10-15T13:22:09.733Z",
+ "updatedAt": "2026-10-15T18:14:18.277Z",
  "burning": [
   {
    "id": "1p9otd5",
    "heat": 5,
    "why": {
-    "en": "45th BCS gazette released with 1,702 candidates; massive protest over 105 exclusions dominates news and Google Trends.",
-    "bn": "৪৫তম বিসিএসে ১,৭০২ জনকে নিয়োগ দিয়ে প্রজ্ঞাপন; ১০৫ জনকে বাদ দেওয়ায় বিশাল প্রতিবাদ চলছে।"
+    "en": "45th BCS gazette released with 1,702 candidates recommended after major controversy over 105 exclusions and protests.",
+    "bn": "৪৫তম বিসিএস গেজেট প্রকাশিত হয়েছে ১,৭০২ জন প্রার্থী নির্বাচিত হয়েছেন, তবে ১০৫ জন বাদ যাওয়ার বিরুদ্ধে বিশাল বিক্ষোভ চলছে।"
    },
    "rank": 1
   },
   {
-   "id": "1ufv3oe",
+   "id": "1bwzgin",
    "heat": 5,
    "why": {
-    "en": "Saudi Arabia executes two Bangladeshi nationals in Makkah; tops Google Trends with 1000+ searches.",
-    "bn": "মক্কায় দুই বাংলাদেশির মৃত্যুদণ্ড কার্যকর হয়েছে; গুগলে সবচেয়ে বেশি সার্চ হচ্ছে।"
+    "en": "89 flights cancelled in four days left 14,500 passengers stranded, major travel disruption across Bangladesh.",
+    "bn": "চার দিনে ৮৯টি ফ্লাইট বাতিল হয়েছে এবং ১৪,৫০০ যাত্রী আটকে আছেন, যা একটি বড় যাতায়াত সংকট।"
    },
    "rank": 2
   },
@@ -23,109 +23,93 @@
    "id": "p1ll2d",
    "heat": 4,
    "why": {
-    "en": "Dengue deaths spike; minister says vaccine not yet planned—health crisis in focus.",
-    "bn": "ডেঙ্গু মৃত্যু বৃদ্ধি; মন্ত্রী বলেন ভ্যাকসিনের পরিকল্পনা নেই এখনও।"
+    "en": "Dengue deaths spike sharply while health minister says vaccine rollout still not planned.",
+    "bn": "ডেঙ্গু মৃত্যু বৃদ্ধি পাচ্ছে, কিন্তু স্বাস্থ্যমন্ত্রী বলেছেন টিকা এখনো পরিকল্পিত নয়।"
    },
    "rank": 3
   },
   {
-   "id": "1bwzgin",
+   "id": "1ufv3oe",
    "heat": 4,
    "why": {
-    "en": "89 flights cancelled in four days, 14,500 stranded—travel chaos grabs attention.",
-    "bn": "চার দিনে ৮৯টি ফ্লাইট বাতিল, ১৪,৫০০ জন আটকে আছেন।"
+    "en": "Saudi Arabia executes two Bangladeshi nationals in Makkah, serious consular and diplomatic concern.",
+    "bn": "সৌদি আরব মক্কায় দুই বাংলাদেশী নাগরিককে মৃত্যুদণ্ড দিয়েছে, এটি একটি গুরুত্বপূর্ণ কূটনৈতিক বিষয়।"
    },
    "rank": 4
   },
   {
-   "id": "1k9tigt",
-   "heat": 3,
+   "id": "13isvgz",
+   "heat": 4,
    "why": {
-    "en": "Bangladesh bans becoming lawyer after age 35—policy shift draws discussion.",
-    "bn": "বাংলাদেশ ৩৫ বছরের পর আইনজীবী হওয়ার উপর নিষেধাজ্ঞা জারি করেছে।"
+    "en": "Petrol bomb attack near July massacre museum kills one person, serious security incident in Dhaka.",
+    "bn": "জুলাই গণহত্যা স্মৃতিসৌধের কাছে পেট্রল বোমা হামলায় একজন মারা গেছেন।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1p9otd5",
-   "tag": "#BCS",
+   "id": "119ybko",
+   "tag": "#ChampionsLeague",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "BCS Gazette Drama",
-    "text": "45th BCS results out with 1,702 recommendations, but 105 candidates excluded. Students protesting the calls."
+    "title": "Haaland breaks Messi's record",
+    "text": "Erling Haaland set a new Champions League goal record with 78 goals, surpassing Lionel Messi's previous mark."
    },
    "bn": {
-    "title": "বিসিএস গেজেট ড্রামা",
-    "text": "৪৫তম বিসিএসে ১,৭০২ জনকে সুপারিশ করা হয়েছে, কিন্তু ১০৫ জন বাদ পড়েছে। ছাত্ররা প্রতিবাদ করছে।"
+    "title": "হ্যালান্ড মেসির রেকর্ড ভাঙলেন",
+    "text": "এরলিং হ্যালান্ড চ্যাম্পিয়নস লিগে ৭৮ গোলের নতুন রেকর্ড স্থাপন করেছেন এবং মেসিকে পিছনে ফেলেছেন।"
    }
   },
   {
-   "id": "1ufv3oe",
-   "tag": "#ExecutionInSaudi",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Two Bangladeshis Executed in Saudi Arabia",
-    "text": "Saudi Arabia has executed two Bangladeshi nationals in Makkah. The news is trending heavily across Google."
-   },
-   "bn": {
-    "title": "মক্কায় দুই বাংলাদেশির মৃত্যুদণ্ড",
-    "text": "সৌদি আরবে মক্কায় দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর করা হয়েছে।"
-   }
-  },
-  {
-   "id": "jzn2xm",
-   "tag": "#SatkhiraIncident",
+   "id": "13aafkt",
+   "tag": "#FootballUpset",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Young Man Killed in Satkhira",
-    "text": "A young man has been killed in Satkhira after blasphemy accusations. An escalating concern in the region."
+    "title": "PSG thrash Manchester City",
+    "text": "Paris Saint-Germain pulled off a stunning 4-2 victory over Manchester City in Champions League, upsetting the odds."
    },
    "bn": {
-    "title": "সাতক্ষীরায় যুবক নিহত",
-    "text": "ধর্মনিন্দার অভিযোগে সাতক্ষীরায় একজন যুবক নিহত হয়েছেন।"
+    "title": "পিএসজি ম্যানসিটিকে হারালো",
+    "text": "প্যারিস সেন্ট-জার্মেইন চ্যাম্পিয়নস লিগে ম্যানচেস্টার সিটিকে ৪-২ গোলে হারিয়ে অবিশ্বাস্য জয় পেয়েছে।"
    }
   },
   {
-   "id": "p1ll2d",
-   "tag": "#DengueCrisis",
+   "id": "wq8uer",
+   "tag": "#RealMadridComeback",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Dengue Deaths Spike, No Vaccine Yet",
-    "text": "Dengue deaths are rising sharply. The health minister says vaccine plans are not in place yet."
+    "title": "Real Madrid wild comeback",
+    "text": "Real Madrid staged a dramatic comeback, scoring three goals in just seven minutes to turn the match around."
    },
    "bn": {
-    "title": "ডেঙ্গু মৃত্যু বাড়ছে",
-    "text": "ডেঙ্গু মৃত্যু হার বৃদ্ধি পাচ্ছে এবং সরকার এখনও ভ্যাকসিনের পরিকল্পনা করেনি।"
+    "title": "রিয়েল মাদ্রিদের অবিশ্বাস্য ফিরে আসা",
+    "text": "রিয়েল মাদ্রিদ মাত্র সাত মিনিটে তিনটি গোল করে অসাধারণ কমব্যাক করেছে।"
    }
   },
   {
-   "id": "1bwzgin",
-   "tag": "#FlightCancellations",
+   "id": "1k9tigt",
+   "tag": "#LawyersRights",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 3,
    "en": {
-    "title": "Massive Flight Cancellations Strand Thousands",
-    "text": "89 flights cancelled over four days have left 14,500 passengers stranded. Travel chaos continues."
+    "title": "Bangladesh bans lawyer enrollment after 35",
+    "text": "Bangladesh has introduced a new rule preventing people from becoming lawyers after age 35, raising concerns about career opportunities."
    },
    "bn": {
-    "title": "হাজার হাজার যাত্রী আটকে",
-    "text": "চার দিনে ৮৯টি ফ্লাইট বাতিল হয়ে ১৪,৫০০ জন যাত্রী আটকে আছেন।"
+    "title": "৩৫ বছরের পর আইনজীবী হওয়া নিষিদ্ধ",
+    "text": "বাংলাদেশ ৩৫ বছরের পর কেউ আইনজীবী হতে পারবেন না এমন নিয়ম করেছে।"
    }
   }
  ],
