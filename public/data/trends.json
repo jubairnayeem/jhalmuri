@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-15T01:25:10.219Z",
+ "updatedAt": "2026-10-15T07:21:15.782Z",
  "burning": [
   {
-   "id": "1ie82xj",
+   "id": "1bwzgin",
    "heat": 5,
    "why": {
-    "en": "Jamaat leader's call for joint effort on Hindu rights sparks debate across outlets.",
-    "bn": "জামাত নেতার হিন্দু অধিকার রক্ষার আহ্বান নিয়ে আলোচনা জমজমাট।"
+    "en": "Mass flight cancellations stranding thousands hits daily life hard.",
+    "bn": "হাজার হাজার যাত্রী আটকে পড়া একটি বড় সংকট।"
    },
    "rank": 1
   },
   {
    "id": "jzn2xm",
-   "heat": 4,
+   "heat": 5,
    "why": {
-    "en": "Young man killed in Satkhira after blasphemy accusations — serious crime story covered by multiple outlets.",
-    "bn": "সাতক্ষীরায় ধর্মনিন্দা অভিযোগে তরুণ হত্যা — একাধিক মাধ্যম কভার করেছে।"
+    "en": "Young man killed over blasphemy accusations—serious communal tension.",
+    "bn": "ধর্মনিন্দার অভিযোগে তরুণ হত্যা—গুরুতর সামাজিক সংকট।"
    },
    "rank": 2
   },
   {
-   "id": "13isvgz",
+   "id": "119ybko",
    "heat": 4,
    "why": {
-    "en": "Petrol bomb attack near July massacre museum kills one — violence story gaining traction.",
-    "bn": "জুলাই গণহত্যা স্মৃতিস্তম্ভ কাছে মলোটভ কক্টেইল হামলায় এক জন নিহত।"
+    "en": "Haaland smashes Messi's Champions League scoring record—huge sports moment.",
+    "bn": "হালান্ড মেসির রেকর্ড ভাঙলেন—বিশাল ক্রীড়া খবর।"
    },
    "rank": 3
   },
   {
-   "id": "1nfq094",
-   "heat": 3,
+   "id": "1ufv3oe",
+   "heat": 4,
    "why": {
-    "en": "Bangladesh pushes for global crimes against humanity treaty at UN level.",
-    "bn": "বাংলাদেশ বৈশ্বিক মানবতার বিরুদ্ধে অপরাধ চুক্তির জন্য চাপ দিচ্ছে।"
+    "en": "Saudi Arabia executes two Bangladeshi nationals—major diplomatic and human concern.",
+    "bn": "সৌদি আরবে দুই বাংলাদেশি নাগরিক মৃত্যুদণ্ড—জাতীয় গুরুত্বপূর্ণ ঘটনা।"
    },
    "rank": 4
   },
   {
-   "id": "a5eywx",
+   "id": "13isvgz",
    "heat": 3,
    "why": {
-    "en": "Indian student leader praises Bangladesh Gen-Z protest movement — cross-border campus story.",
-    "bn": "ভারতীয় ছাত্র নেতা বাংলাদেশ জেন-জেড প্রতিবাদের প্রশংসা করেছেন।"
+    "en": "Petrol bomb attack near July massacre museum kills one.",
+    "bn": "জুলাই শহীদ স্মৃতিস্তম্ভের কাছে পেট্রোল বোমা হামলায় মৃত্যু।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "13aafkt",
-   "tag": "#PSGshock",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "PSG stuns City 4-2",
-    "text": "PSG thrashed Manchester City 4-2 in a shocking Champions League upset. The comeback stunned football fans everywhere."
-   },
-   "bn": {
-    "title": "পিএসজি ম্যানসিটি ৪-২ হারিয়েছে",
-    "text": "চ্যাম্পিয়ন্স লিগে পিএসজি ম্যানচেস্টার সিটিকে ৪-২ গোলে হারিয়ে দিয়েছে। অবিশ্বাস্য কমব্যাক দেখে সবাই তাজ্জব হয়ে গেছে।"
-   }
-  },
-  {
-   "id": "wq8uer",
-   "tag": "#RealMadridComeback",
+   "id": "a5eywx",
+   "tag": "#GenZProtest",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Real Madrid's wild comeback",
-    "text": "Real Madrid staged an incredible comeback, scoring three goals in just seven minutes. A masterclass in resilience."
+    "title": "Indian student leader praises Bangladesh Gen-Z",
+    "text": "An Indian student activist is backing Bangladesh's youth protest movement, signalling cross-border solidarity on student activism."
    },
    "bn": {
-    "title": "রিয়াল মাদ্রিদের অসাধারণ ফিরে আসা",
-    "text": "রিয়াল মাদ্রিদ মাত্র সাত মিনিটে তিন গোল করে অবিশ্বাস্য কমব্যাক করেছে।"
+    "title": "ভারতীয় ছাত্র নেতা বাংলাদেশ জেন-জেডকে সমর্থন",
+    "text": "ভারতীয় ছাত্রনেতা বাংলাদেশের তরুণ আন্দোলনকে প্রশংসা করছেন, যা আঞ্চলিক ছাত্র সক্রিয়তার সংযোগ দেখাচ্ছে।"
    }
   },
   {
-   "id": "ch2i3u",
-   "tag": "#VisionTech",
+   "id": "1p9otd5",
+   "tag": "#BCS45",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "First vision-restoring chip",
-    "text": "A breakthrough vision-restoring chip has been implanted in its first patient. Major step forward in medical technology."
+    "title": "45th BCS gazette released",
+    "text": "Bangladesh Civil Service exam results out with 1,702 candidates recommended, a major milestone for job seekers."
    },
    "bn": {
-    "title": "দৃষ্টি পুনরুদ্ধার চিপ রোপণ",
-    "text": "প্রথম রোগীর মধ্যে দৃষ্টি পুনরুদ্ধার করার চিপ রোপণ করা হয়েছে। চিকিৎসা প্রযুক্তিতে বড় মাইলফলক।"
+    "title": "৪৫তম বিসিএস গেজেট প্রকাশিত",
+    "text": "বাংলাদেশ সরকারি চাকরি পরীক্ষার ফলাফল আসলো—১,৭০২ জন সুপারিশপ্রাপ্ত।"
    }
   },
   {
    "id": "1bqs6v9",
-   "tag": "#MentalHealthInnovation",
+   "tag": "#MentalHealth",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Bangladesh's mental health sign language bank",
-    "text": "Bangladesh launched its first mental health sign language bank to help deaf and hard-of-hearing citizens access mental health support."
+    "title": "Bangladesh launches mental health sign language bank",
+    "text": "First-ever mental health sign language resource launched to support deaf and hard of hearing communities."
    },
    "bn": {
-    "title": "বাংলাদেশের মানসিক স্বাস্থ্য সংকেত ভাষা ব্যাংক",
-    "text": "বাংলাদেশ প্রথম মানসিক স্বাস্থ্য সাংকেতিক ভাষা ব্যাংক চালু করেছে বধিরদের সহায়তার জন্য।"
+    "title": "মানসিক স্বাস্থ্য সাইন ভাষা ব্যাংক চালু",
+    "text": "বাংলাদেশে প্রথমবার বধির এবং কম শ্রবণশীল মানুষদের জন্য মানসিক স্বাস্থ্য সাইন ভাষার সম্পদ।"
    }
   }
  ],
