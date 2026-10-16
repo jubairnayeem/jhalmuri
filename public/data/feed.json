@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-16T01:13:29.928Z",
+ "updatedAt": "2026-10-16T07:04:25.075Z",
  "items": [
+  {
+   "id": "1lo7wsu",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/yunus-receives-hillary-rodham-clinton-award-washington-1574606",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/3910484.jpg",
+   "published": "2026-10-16T06:55:00.000Z",
+   "added": "2026-10-16T07:04:25.075Z",
+   "origTitle": "Yunus receives Hillary Rodham Clinton Award in Washington",
+   "en": {
+    "title": "Yunus wins Hillary Clinton Award in Washington",
+    "summary": "Nobel Laureate Muhammad Yunus received the Hillary Rodham Clinton Award at Georgetown University yesterday, drawing a standing ovation. Former US Secretary of State Hillary Clinton presented the award, recognising Yunus's work in poverty alleviation and women's rights. Yunus spoke about his vision of encouraging young people to become entrepreneurs rather than job seekers, and plans to launch Grameen University by year's end."
+   },
+   "bn": {
+    "title": "ওয়াশিংটনে ইউনুস পেলেন হিলারি ক্লিনটন পুরস্কার",
+    "summary": "কল নোবেলবিজয়ী মুহাম্মদ ইউনুস জর্জটাউন ইউনিভার্সিটিতে হিলারি রডহ্যাম ক্লিনটন পুরস্কার পেয়েছেন গতকাল। সাবেক আমেরিকান সেক্রেটারি অফ স্টেট হিলারি ক্লিনটন নিজেই পুরস্কার দিয়েছেন, যা মহিলা অধিকার এবং দারিদ্র্য বিমোচনে ইউনুসের অবদানকে স্বীকৃতি দেয়। ইউনুস তরুণদের চাকরিখুঁজির পরিবর্তে উদ্যোক্তা হতে উৎসাহিত করার লক্ষ্যের কথা বলেছেন এবং এই বছরের শেষে গ্রামীণ ইউনিভার্সিটি চালু করার পরিকল্পনা জানিয়েছেন।"
+   }
+  },
+  {
+   "id": "1yocys1",
+   "section": "news",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/opinion/column/y0c6m9410s",
+   "image": "https://media.prothomalo.com/prothomalo/import/media/2013/06/24/51c754655fc9d-Untitled-4.jpg",
+   "published": "2026-10-16T06:52:24.000Z",
+   "added": "2026-10-16T07:04:16.911Z",
+   "origTitle": "দারিদ্র্য বিমোচনে ইসলামের নির্দেশনা",
+   "en": {
+    "title": "Islam's guidance on fighting poverty: zakat and debt relief",
+    "summary": "Islam offers solutions to poverty through mechanisms like zakat, a mandatory charitable contribution and one of the five pillars of Islam. The system redistributes wealth from the rich to the poor. Islam also permits creditors to grant extension to struggling debtors or forgive debts entirely, helping people climb out of financial hardship."
+   },
+   "bn": {
+    "title": "দারিদ্র্য দূরে ইসলামের নির্দেশনা: জাকাত ও ঋণমুক্তি",
+    "summary": "ইসলাম জাকাতের মাধ্যমে দারিদ্র্য দূর করার সমাধান প্রদান করে, যা বাধ্যতামূলক দাতব্য অবদান এবং ইসলামের পাঁচটি স্তম্ভের একটি। এটি ধনীদের কাছ থেকে গরিবদের কাছে সম্পদ পুনর্বন্টন করে। ইসলাম ঋণগ্রস্ত ব্যক্তিদের সময় বৃদ্ধি বা ঋণ মাফের অনুমতি দেয়, যা মানুষকে আর্থিক কষ্ট থেকে বেরিয়ে আসতে সাহায্য করে।"
+   }
+  },
+  {
+   "id": "wp0w9c",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/video/ylrjpp8tui",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-16/1a5p7wy3/prothomalo-bangla2026-10-15tec2v0kwWEB.avif",
+   "published": "2026-10-16T06:28:04.000Z",
+   "added": "2026-10-16T07:04:16.911Z",
+   "origTitle": "Sundarbans open to tourists; spotted deer roam freely at Katka",
+   "en": {
+    "title": "Sundarbans reopen to tourists; spotted deer delight visitors",
+    "summary": "The world's largest mangrove forest, the Sundarbans, officially reopened to visitors on September 1. Herds of spotted deer roam freely at Katka, a popular tourist spot, offering a beautiful experience for visitors exploring this unique ecosystem."
+   },
+   "bn": {
+    "title": "পর্যটকদের জন্য খোলা হয়েছে সুন্দরবন, কাটকায় হরিণের দল",
+    "summary": "বিশ্বের বৃহত্তম ম্যানগ্রোভ বন সুন্দরবন সেপ্টেম্বর ১ তারিখে পর্যটকদের জন্য আবার খোলা হয়েছে। জনপ্রিয় পর্যটন কেন্দ্র কাটকায় চিতাবাঘী হরিণের দল স্বাধীনভাবে বিচরণ করছে, যা দর্শকদের এই অনন্য ইকোসিস্টেম অন্বেষণের সুন্দর অভিজ্ঞতা দিচ্ছে।"
+   }
+  },
+  {
+   "id": "1tbn1wa",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c6d09lrn8pnyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20b7/live/1908e0c0-c8a4-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-16T01:13:24.000Z",
+   "added": "2026-10-16T07:04:16.911Z",
+   "origTitle": "ইউক্রেনের বিরুদ্ধে যুদ্ধে বাংলাদেশিদের 'টোপ' হিসেবে ব্যবহারের অভিযোগ",
+   "en": {
+    "title": "Bangladeshis used as 'bait' in Ukraine war, investigator says",
+    "summary": "A young Bangladeshi named Rajan Hosen who returned from Ukraine's battlefield says he was lured with construction job promises and sent to Russia in May. His passport and phone were confiscated, then he was forced into the Russian army. Of 30 Bangladeshis sent to the front, 20 were killed—17 in the first day by Ukrainian drone strikes. Police investigator Md. Asaduzzaman says they're being used as 'bait' to locate enemy positions."
+   },
+   "bn": {
+    "title": "ইউক্রেনের যুদ্ধে বাংলাদেশিদের টোপ হিসেবে ব্যবহার, তদন্তকারী জানান",
+    "summary": "ইউক্রেনের যুদ্ধক্ষেত্র থেকে ফিরে আসা রাজন হোসেন বলেছেন তাকে নির্মাণের চাকরির প্রতিশ্রুতি দিয়ে মে মাসে রাশিয়া পাঠানো হয়েছিল। সেখানে পাসপোর্ট ও ফোন কেড়ে নিয়ে সেনাবাহিনীতে বাধ্য করা হয়। ৩০ জন বাংলাদেশি ফ্রন্টে পাঠানো হয়েছিল, তার মধ্যে ২০ জন নিহত হয়েছে—প্রথম দিনেই ইউক্রেনের ড্রোন হামলায় ১৭ জন। পুলিশ তদন্তকারী বলেছেন তাদের শত্রু অবস্থান চিহ্নিত করতে টোপ হিসেবে ব্যবহার করা হচ্ছে।"
+   }
+  },
+  {
+   "id": "1cvtcv3",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/law-and-crime/974844/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%8F%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A7%A8-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%86%E0%A6%9B%E0%A7%87%E0%A6%A8",
+   "image": null,
+   "published": "2026-10-16T07:01:39.000Z",
+   "added": "2026-10-16T07:04:16.911Z",
+   "origTitle": "বিএসএফের ধরে নিয়ে যাওয়া ২ পুলিশ সদস্য কেমন আছেন, জানালেন বিজিবি পরিচালক",
+   "en": {
+    "title": "Two Bangladesh police officers taken by BSF, says BGB",
+    "summary": "Border Guard Bangladesh confirmed Friday that one Assistant Sub-Inspector and one constable were taken by India's Border Security Force from Shashidal border in Cumilla's Brahmanbaria upazila. BGB Director Lieutenant Colonel Md. Mahabub Murshid announced formal contact has been made with BSF to secure their quick return."
+   },
+   "bn": {
+    "title": "বিএসএফ ধরে নিয়ে যাওয়া দুই পুলিশ সদস্যের খবর দিল বিজিবি",
+    "summary": "বিজিবি শুক্রবার নিশ্চিত করেছে যে কুমিল্লার ব্রাহ্মণপাড়া উপজেলার শশীদল সীমান্ত থেকে একজন এএসআই এবং একজন কনস্টেবলকে ভারতের বর্ডার সিকিউরিটি ফোর্স ধরে নিয়ে গেছে। বিজিবির পরিচালক লেফটেন্যান্ট কর্নেল মো. মাহবুব মুর্শেদ জানান যে তাদের দ্রুত ফেরত আনার জন্য বিএসএফের সাথে আনুষ্ঠানিক যোগাযোগ করা হয়েছে।"
+   }
+  },
+  {
+   "id": "1ispwa3",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260817__C4VA8T6__v1__HighRes__IsraelPoliticsElection-1788673288.jpg?resize=1920%2C1440",
+   "published": "2026-10-16T06:41:15.000Z",
+   "added": "2026-10-16T07:04:16.911Z",
+   "origTitle": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
+   "en": {
+    "title": "Netanyahu's divisive legacy shapes Israel's election race",
+    "summary": "Benjamin Netanyahu is seeking re-election on October 27 while facing International Criminal Court charges for war crimes in Gaza. Delegates walked out during his UN speech in late September, but his supporters view him as Israel's strongest leader. His political identity is shaped by his father's pessimism and his brother Yonatan's death during a 1976 military raid in Uganda."
+   },
+   "bn": {
+    "title": "নেতানিয়াহুর বিভাজনকারী উত্তরাধিকার ইসরায়েলের নির্বাচনে",
+    "summary": "বেঞ্জামিন নেতানিয়াহু ২৭ অক্টোবর পুনরায় নির্বাচিত হওয়ার চেষ্টা করছেন, যখন তিনি গাজায় যুদ্ধাপরাধের জন্য আন্তর্জাতিক ফৌজদারি আদালতের অভিযোগে আছেন। সেপ্টেম্বরের শেষে জাতিসংঘে তার বক্তৃতার সময় প্রতিনিধিরা চলে গেছেন, কিন্তু তার সমর্থকরা তাকে ইসরায়েলের শক্তিশালী নেতা মনে করেন।"
+   }
+  },
+  {
+   "id": "e3hdqu",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-16T03:45:09.000Z",
+   "added": "2026-10-16T07:04:16.911Z",
+   "origTitle": "Three children and teacher killed in US primary school shooting",
+   "en": {
+    "title": "Shooting at US primary school kills three children, teacher",
+    "summary": "A 16-year-old opened fire at Silver Rail Elementary School in Bend, Oregon on Thursday, killing three children aged 5, 8 and 11, plus a teacher. He shot at locked doors to force his way inside. A bystander pursued and killed him; police arrived three minutes later. A 7-year-old and the 54-year-old teacher were hospitalised in critical condition."
+   },
+   "bn": {
+    "title": "যুক্তরাষ্ট্রের প্রাথমিক স্কুলে গুলিতে তিন শিশু ও শিক্ষক নিহত",
+    "summary": "যুক্তরাষ্ট্রের অরেগন রাজ্যের বেন্ড শহরে বৃহস্পতিবার একজন ১৬ বছর বয়সী ছেলে সিলভার রেইল প্রাথমিক বিদ্যালয়ে আক্রমণ করে ৫, ৮ ও ১১ বছর বয়সী তিনটি শিশু এবং একজন শিক্ষকদের হত্যা করেছে। সে দরজায় তালা ভেঙে প্রবেশ করেছিল। একজন স্থানীয় ব্যক্তি তাকে অনুসরণ করে হত্যা করেছেন। ৭ বছর বয়সী একটি শিশু এবং ৫৪ বছর বয়সী শিক্ষক গুরুতর অবস্থায় হাসপাতালে রয়েছেন।"
+   }
+  },
   {
    "id": "azlqfa",
    "section": "news",

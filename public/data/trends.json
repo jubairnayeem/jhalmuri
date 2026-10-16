@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-16T01:13:44.146Z",
+ "updatedAt": "2026-10-16T07:04:41.553Z",
  "burning": [
   {
    "id": "1bwzgin",
    "heat": 5,
    "why": {
-    "en": "89 flights cancelled in four days affecting 14,500 people—massive disruption story.",
-    "bn": "চার দিনে ৮৯টা ফ্লাইট বাতিল, ১৪,৫০০ জন আটকে পড়ে—বিশাল বিঘ্ন।"
+    "en": "89 flights cancelled in four days, 14,500 stranded—massive travel chaos dominating news and social worry.",
+    "bn": "চার দিনে ৮৯ ফ্লাইট বাতিল, ১৪,৫০০ জন আটকে থাকা—এটাই এখন সবার কথা।"
    },
    "rank": 1
   },
   {
-   "id": "p1ll2d",
+   "id": "nzmkap",
    "heat": 5,
    "why": {
-    "en": "Dengue deaths spiking with no vaccine plan—major public health crisis.",
-    "bn": "ডেঙ্গু মৃত্যু বাড়ছে, ভ্যাকসিন পরিকল্পনা নেই—জনস্বাস্থ্য সংকট।"
+    "en": "Bangladesh Army deployment to Haiti trending across news and social signals; major military operation.",
+    "bn": "বাংলাদেশ সেনাবাহিনী হাইতিতে যাচ্ছে—গুগল ট্রেন্ডে আছে, সবাই কথা বলছে।"
    },
    "rank": 2
-  },
-  {
-   "id": "8wza8t",
-   "heat": 4,
-   "why": {
-    "en": "Four more children dying from measles-like illness—ongoing health emergency.",
-    "bn": "হামের মতো রোগে আরও চারটা শিশু মারা গেছে—চলমান সংকট।"
-   },
-   "rank": 3
   },
   {
    "id": "s1i1ck",
    "heat": 4,
    "why": {
-    "en": "45th BCS exam row: 105 candidates excluded, protests escalating over fairness.",
-    "bn": "৪৫তম বিসিএস: ১০৫ জন বাদ দেওয়া হয়েছে, প্রতিবাদ বাড়ছে।"
+    "en": "45th BCS exam exclusions and protests escalating—major public sector recruitment controversy.",
+    "bn": "৪৫তম বিসিএস থেকে ১০৫ জন বাদ পড়ল, আন্দোলন গরম হচ্ছে।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "p1ll2d",
+   "heat": 4,
+   "why": {
+    "en": "Dengue deaths spiking with no vaccine plan—health crisis getting urgent attention.",
+    "bn": "ডেঙ্গুতে মৃত্যু বাড়ছে, টিকার কোনো পরিকল্পনা নেই—জনস্বাস্থ্য নিয়ে চিন্তা।"
    },
    "rank": 4
   },
   {
-   "id": "c37le8",
-   "heat": 4,
+   "id": "8wza8t",
+   "heat": 3,
    "why": {
-    "en": "Six arrested in youth department exam question leak scandal.",
-    "bn": "যুব বিভাগের পরীক্ষার প্রশ্ন ফাঁসের মামলায় ছয়জন গ্রেপ্তার।"
+    "en": "Four more children die from measles-like illness—ongoing outbreak raising alarm.",
+    "bn": "আরও চার শিশু মৃত্যুবরণ করল অজানা রোগে—মহামারী নিয়ে ভয় ছড়াচ্ছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "119ybko",
-   "tag": "#FootballRecord",
+   "id": "1bwzgin",
+   "tag": "#FlightChaos",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Flight cancellations strand thousands",
+    "text": "89 flights cancelled in four days across Bangladesh airports, leaving 14,500 passengers stranded and furious. No clear timeline for resumption yet."
+   },
+   "bn": {
+    "title": "বিমান বাতিলে যাত্রী সংকট",
+    "text": "চার দিনে ৮৯টি ফ্লাইট বাতিল হয়েছে, ১৪,৫০০ যাত্রী আটকে রয়েছে। কবে চালু হবে তার কোনো খবর নেই।"
+   }
+  },
+  {
+   "id": "nzmkap",
+   "tag": "#ArmyInHaiti",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Bangladesh sends troops to Haiti",
+    "text": "Bangladesh Army's advance team heading to Haiti for gang suppression mission. Major military deployment drawing national attention."
+   },
+   "bn": {
+    "title": "সেনাবাহিনী হাইতিতে যাচ্ছে",
+    "text": "বাংলাদেশ সেনাবাহিনীর অগ্রবর্তী দল হাইতির গ্যাং দমনে যুক্ত হতে রওনা দিয়েছে। বড় সামরিক অপারেশন নিয়ে সবাই কথা বলছে।"
+   }
+  },
+  {
+   "id": "s1i1ck",
+   "tag": "#BCS45Protest",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Haaland smashes Messi's record",
-    "text": "Erling Haaland has broken Lionel Messi's Champions League goal record with 78 goals in the tournament."
+    "title": "105 BCS candidates excluded",
+    "text": "45th BCS exam results exclude 105 recommended candidates from gazette. Protests escalating over fairness and transparency."
    },
    "bn": {
-    "title": "হাল্যান্ড মেসির রেকর্ড ভাঙ্গলেন",
-    "text": "আর্লিং হাল্যান্ড চ্যাম্পিয়ন্স লিগে ৭৮ গোল করে মেসির রেকর্ড ভেঙে ফেলেছেন।"
+    "title": "বিসিএস থেকে ১০৫ জন বাদ",
+    "text": "৪৫তম বিসিএসে ১০৫ জন সুপারিশপ্রাপ্ত প্রার্থী গেজেট থেকে বাদ পড়েছে, আন্দোলন গরম হচ্ছে।"
    }
   },
   {
-   "id": "7oupkc",
-   "tag": "#Showbiz",
+   "id": "p1ll2d",
+   "tag": "#DengueCrisis",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Mehzabeen speaks on viral video",
-    "text": "Actress Mehzabeen Chowdhury addressed a viral video incident, questioning when disrespect became a way to make money."
+    "title": "Dengue deaths spike, no vaccine plan",
+    "text": "Dengue deaths escalating across Bangladesh while health minister says vaccine programme not yet planned. Urgent health crisis."
    },
    "bn": {
-    "title": "মেহজাবীন ভাইরাল ভিডিও নিয়ে কথা বলেছেন",
-    "text": "অভিনেত্রী মেহজাবীন চৌধুরী ভাইরাল ভিডিওর বিষয়ে মুখ খুলেছেন এবং প্রশ্ন রেখেছেন কখন থেকে অন্যদের অসম্মান করা আয়ের উপায় হয়ে উঠল।"
-   }
-  },
-  {
-   "id": "1sk7v5c",
-   "tag": "#Cricket",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Punam Raut retires from cricket",
-    "text": "Indian cricketer Punam Raut has announced her retirement from international cricket."
-   },
-   "bn": {
-    "title": "পুনম রাউত আন্তর্জাতিক ক্রিকেট থেকে অবসর",
-    "text": "ভারতীয় ক্রিকেটার পুনম রাউত আন্তর্জাতিক ক্রিকেট থেকে অবসর ঘোষণা করেছেন।"
+    "title": "ডেঙ্গুতে মৃত্যু বাড়ছে",
+    "text": "ডেঙ্গু মৃত্যু বাড়ছে কিন্তু স্বাস্থ্যমন্ত্রী বলছেন টিকার পরিকল্পনা এখনো নেই। জনস্বাস্থ্য নিয়ে সংকট।"
    }
   }
  ],
