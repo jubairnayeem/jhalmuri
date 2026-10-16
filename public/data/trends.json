@@ -1,39 +1,39 @@
 {
- "updatedAt": "2026-10-16T07:04:41.553Z",
+ "updatedAt": "2026-10-16T12:20:37.235Z",
  "burning": [
   {
-   "id": "1bwzgin",
+   "id": "1ufv3oe",
    "heat": 5,
    "why": {
-    "en": "89 flights cancelled in four days, 14,500 stranded—massive travel chaos dominating news and social worry.",
-    "bn": "চার দিনে ৮৯ ফ্লাইট বাতিল, ১৪,৫০০ জন আটকে থাকা—এটাই এখন সবার কথা।"
+    "en": "Two Bangladeshis executed in Saudi Arabia is trending hard on Google with 100+ search traffic.",
+    "bn": "সৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড Google-এ ১০০+ ট্রাফিক নিয়ে ট্রেন্ড করছে।"
    },
    "rank": 1
-  },
-  {
-   "id": "nzmkap",
-   "heat": 5,
-   "why": {
-    "en": "Bangladesh Army deployment to Haiti trending across news and social signals; major military operation.",
-    "bn": "বাংলাদেশ সেনাবাহিনী হাইতিতে যাচ্ছে—গুগল ট্রেন্ডে আছে, সবাই কথা বলছে।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "s1i1ck",
-   "heat": 4,
-   "why": {
-    "en": "45th BCS exam exclusions and protests escalating—major public sector recruitment controversy.",
-    "bn": "৪৫তম বিসিএস থেকে ১০৫ জন বাদ পড়ল, আন্দোলন গরম হচ্ছে।"
-   },
-   "rank": 3
   },
   {
    "id": "p1ll2d",
    "heat": 4,
    "why": {
-    "en": "Dengue deaths spiking with no vaccine plan—health crisis getting urgent attention.",
-    "bn": "ডেঙ্গুতে মৃত্যু বাড়ছে, টিকার কোনো পরিকল্পনা নেই—জনস্বাস্থ্য নিয়ে চিন্তা।"
+    "en": "Dengue deaths spiking while vaccine plans delayed—health crisis drawing urgent attention.",
+    "bn": "ডেঙ্গুতে মৃত্যু বাড়ছে আর ভ্যাকসিন পরিকল্পনা নেই—স্বাস্থ্য সংকট গুরুতর।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "1bwzgin",
+   "heat": 4,
+   "why": {
+    "en": "89 flights cancelled in four days stranding 14,500 people is major travel disruption news.",
+    "bn": "চার দিনে ৮৯ ফ্লাইট বাতিল ও ১৪,৫০০ যাত্রী আটকা বড় সমস্যা।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "15h7ly5",
+   "heat": 3,
+   "why": {
+    "en": "BNP leader beaten to death after stopping drug rings—serious crime story with political angle.",
+    "bn": "মাদক ও জুয়া চক্র বন্ধ করতে গিয়ে বিএনপি নেতা নিহত।"
    },
    "rank": 4
   },
@@ -41,75 +41,75 @@
    "id": "8wza8t",
    "heat": 3,
    "why": {
-    "en": "Four more children die from measles-like illness—ongoing outbreak raising alarm.",
-    "bn": "আরও চার শিশু মৃত্যুবরণ করল অজানা রোগে—মহামারী নিয়ে ভয় ছড়াচ্ছে।"
+    "en": "Four more children die from measles-like illness—ongoing health emergency with rising death toll.",
+    "bn": "আরও চার শিশু হামের মতো অসুখে মারা গেছে—সংক্রমণ বাড়ছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1bwzgin",
-   "tag": "#FlightChaos",
+   "id": "1ufv3oe",
+   "tag": "#SaudiExecution",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Flight cancellations strand thousands",
-    "text": "89 flights cancelled in four days across Bangladesh airports, leaving 14,500 passengers stranded and furious. No clear timeline for resumption yet."
+    "title": "Two Bangladeshis executed in Makkah",
+    "text": "Saudi Arabia has executed two Bangladeshi nationals in Makkah. Details of the charges remain unclear."
    },
    "bn": {
-    "title": "বিমান বাতিলে যাত্রী সংকট",
-    "text": "চার দিনে ৮৯টি ফ্লাইট বাতিল হয়েছে, ১৪,৫০০ যাত্রী আটকে রয়েছে। কবে চালু হবে তার কোনো খবর নেই।"
+    "title": "মক্কায় দুই বাংলাদেশির মৃত্যুদণ্ড",
+    "text": "সৌদি আরবে পবিত্র মক্কায় দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর করা হয়েছে।"
    }
   },
   {
    "id": "nzmkap",
-   "tag": "#ArmyInHaiti",
+   "tag": "#BangladeshHaiti",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 3,
    "en": {
-    "title": "Bangladesh sends troops to Haiti",
-    "text": "Bangladesh Army's advance team heading to Haiti for gang suppression mission. Major military deployment drawing national attention."
+    "title": "Bangladesh Army heads to Haiti",
+    "text": "An advance team from Bangladesh Army is deploying to Haiti for gang suppression operations."
    },
    "bn": {
-    "title": "সেনাবাহিনী হাইতিতে যাচ্ছে",
-    "text": "বাংলাদেশ সেনাবাহিনীর অগ্রবর্তী দল হাইতির গ্যাং দমনে যুক্ত হতে রওনা দিয়েছে। বড় সামরিক অপারেশন নিয়ে সবাই কথা বলছে।"
+    "title": "হাইতিতে বাংলাদেশ আর্মি",
+    "text": "বাংলাদেশ সেনাবাহিনীর একটি দল হাইতিতে গ্যাং দমনে যাচ্ছে।"
    }
   },
   {
-   "id": "s1i1ck",
-   "tag": "#BCS45Protest",
+   "id": "1cvgkl4",
+   "tag": "#AmazonTech",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 2,
    "en": {
-    "title": "105 BCS candidates excluded",
-    "text": "45th BCS exam results exclude 105 recommended candidates from gazette. Protests escalating over fairness and transparency."
+    "title": "Amazon exec talks failure and innovation",
+    "text": "An Amazon executive explains why failure is essential to building great products."
    },
    "bn": {
-    "title": "বিসিএস থেকে ১০৫ জন বাদ",
-    "text": "৪৫তম বিসিএসে ১০৫ জন সুপারিশপ্রাপ্ত প্রার্থী গেজেট থেকে বাদ পড়েছে, আন্দোলন গরম হচ্ছে।"
+    "title": "অ্যামাজন এক্সিকিউটিভ ব্যর্থতা নিয়ে কথা",
+    "text": "একজন অ্যামাজন এক্সিকিউটিভ বলেছেন কেন ব্যর্থতা পণ্য তৈরিতে গুরুত্বপূর্ণ।"
    }
   },
   {
-   "id": "p1ll2d",
-   "tag": "#DengueCrisis",
+   "id": "1ictvvf",
+   "tag": "#UHTTech",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 2,
    "en": {
-    "title": "Dengue deaths spike, no vaccine plan",
-    "text": "Dengue deaths escalating across Bangladesh while health minister says vaccine programme not yet planned. Urgent health crisis."
+    "title": "UHT tech keeps milk fresh longer",
+    "text": "Ultra-high temperature technology helps preserve milk longer and reduce waste."
    },
    "bn": {
-    "title": "ডেঙ্গুতে মৃত্যু বাড়ছে",
-    "text": "ডেঙ্গু মৃত্যু বাড়ছে কিন্তু স্বাস্থ্যমন্ত্রী বলছেন টিকার পরিকল্পনা এখনো নেই। জনস্বাস্থ্য নিয়ে সংকট।"
+    "title": "ইউএইচটি প্রযুক্তিতে দুধ সতেজ থাকে",
+    "text": "আল্ট্রা-হাই টেম্পারেচার প্রযুক্তি দুধ দীর্ঘস্থায়ী রাখে এবং বর্জ্য কমায়।"
    }
   }
  ],
