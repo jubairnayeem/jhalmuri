@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-16T12:20:21.870Z",
+ "updatedAt": "2026-10-16T17:21:36.928Z",
  "items": [
+  {
+   "id": "9nirrj",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/weird-family-settles-disputes-calmly-respectfully/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Weird_Family_NIB_S_PH.jpg",
+   "published": "2026-10-16T13:00:00.000Z",
+   "added": "2026-10-16T17:21:36.927Z",
+   "origTitle": "Weird Family Settles Disputes Calmly, Respectfully",
+   "en": {
+    "title": "Weird family stuns onlookers by resolving disputes calmly",
+    "summary": "A St. Louis family baffled observers at a bistro by handling disagreements respectfully—they took turns speaking, listened carefully, and apologized when needed. No one yelled, insulted anyone, or stormed out. One witness called their polite approach to problem-solving \"incredibly off-putting\" and \"freaky.\" (This is satire.)"
+   },
+   "bn": {
+    "title": "অদ্ভুত পরিবার শান্তিপূর্ণভাবে বিরোধ নিষ্পত্তি করে দর্শকদের অবাক করে দিলো",
+    "summary": "সেন্ট লুইসের এক রেস্তোরাঁয় একটি পরিবার অপ্রত্যাশিত উপায়ে ঝগড়া সামলিয়েছে—তারা পালাক্রমে কথা বলেছে, একে অপরের কথা শুনেছে এবং ক্ষতি হলে ক্ষমা চেয়েছে। কেউ চিৎকার করেনি বা রেস্তোরাঁ ছেড়ে যায়নি। দর্শকরা এই শান্ত আচরণকে 'অত্যন্ত অস্বস্তিকর' বলে মন্তব্য করেছেন। (এটি রসালাপ।)"
+   }
+  },
+  {
+   "id": "s7jxih",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/sports/bgdcftly8s",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-16/37kmgncg/British-Bangladeshi-Anisa-Khan-named-England-women%E2%80%99s-kabaddi-team-captain.jpg",
+   "published": "2026-10-16T16:02:15.000Z",
+   "added": "2026-10-16T17:21:36.927Z",
+   "origTitle": "British-Bangladeshi Anisa Khan named England women’s kabaddi team captain",
+   "en": {
+    "title": "British-Bangladeshi Anisa Khan captains England women's kabaddi team",
+    "summary": "Anisa Khan, a British-Bangladeshi businesswoman and TV personality with roots in Moulvibazar, has been named captain of England's women's national kabaddi team. She'll make her debut as captain at the Commonwealth Kabaddi Championship in India next week. Anisa joined kabaddi at university in 2017 as a beginner and worked at consulting firm Accenture before pursuing this new sports role."
+   },
+   "bn": {
+    "title": "ব্রিটিশ-বাঙালি অনিসা খান ইংল্যান্ড মহিলা কাবাডি দলের ক্যাপ্টেন নিয়োগ পেলেন",
+    "summary": "মৌলভীবাজারের শিকড় সম্পন্ন ব্রিটিশ-বাঙালি ব্যবসায়ী অনিসা খান ইংল্যান্ড মহিলা কাবাডি দলের ক্যাপ্টেন হিসেবে নিয়োগ পেয়েছেন। তিনি আগামী সপ্তাহে ভারতে অনুষ্ঠিত কমনওয়েলথ কাবাডি চ্যাম্পিয়নশিপে ক্যাপ্টেন হিসেবে আত্মপ্রকাশ করবেন। অনিসা ২০১৭ সালে বিশ্ববিদ্যালয়ে সম্পূর্ণ নতুন খেলোয়াড় হিসেবে কাবাডি শুরু করেছিলেন এবং পরবর্তীতে ন্যাশনাল টিমে স্থান পেয়েছেন।"
+   }
+  },
+  {
+   "id": "8jwwpe",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/yb5hnldgds",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-16/q696qlao/RAJBARIDH054420261016FBIMG1792165025812.JPG.JPG",
+   "published": "2026-10-16T17:00:07.000Z",
+   "added": "2026-10-16T17:21:36.927Z",
+   "origTitle": "রাজবাড়ীতে মোটরসাইকেলে এসে যুবককে গুলি করে হত্যা",
+   "en": {
+    "title": "Man shot dead by two attackers on motorcycle in Rajbari",
+    "summary": "Piarul Sardar, 30, was killed Friday night near a mosque in Rajbari city when two helmeted gunmen on a motorcycle shot him twice at close range. He was rushed to Rajbari Sadar Hospital but was declared dead on arrival. Police say Piarul had 14 cases against him including weapons, murder, and drug charges, and was arrested as recently as February this year."
+   },
+   "bn": {
+    "title": "রাজবাড়ীতে দুই বন্দুকধারী মোটরসাইকেলে এসে যুবককে গুলি করে হত্যা",
+    "summary": "শুক্রবার রাতে রাজবাড়ী শহরে মসজিদের কাছে ৩০ বছর বয়সী পিয়ারুল সরদারকে মোটরসাইকেলে আসা দুই ব্যক্তি গুলি করে হত্যা করে। তাকে হাসপাতালে নিয়ে যাওয়া হলেও সেখানে তাকে মৃত ঘোষণা করা হয়। পুলিশ জানায়, পিয়ারুলের বিরুদ্ধে অস্ত্র, হত্যা এবং মাদকসহ ১৪টি মামলা ছিল এবং তাকে এই বছরের ফেব্রুয়ারিতে গ্রেপ্তার করা হয়েছিল।"
+   }
+  },
+  {
+   "id": "uhbdwx",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/16/canada-Guinness-World-Records-fastest-skateboard-downhill/3261792164806/",
+   "image": "https://cdnph.upi.com/ph/st/th/3261792164806/2026/i/17921649488939/v1.5/Skateboarder-reaches-record-breaking-speed-of-9434-mph.jpg",
+   "published": "2026-10-16T15:36:24.000Z",
+   "added": "2026-10-16T17:21:19.806Z",
+   "origTitle": "Watch: Skateboarder reaches record-breaking speed of 94.34 mph",
+   "en": {
+    "title": "Spanish skateboarder breaks Guinness record at 94.34 mph",
+    "summary": "A Spanish skateboarder set a new Guinness World Record in Canada, reaching a downhill speed of 94.34 miles per hour. The extreme feat demonstrates the limits of skateboarding when riders tackle steep terrain at dangerous velocities."
+   },
+   "bn": {
+    "title": "স্পেনীয় স্কেটবোর্ডার ৯৪.৩৪ মাইল গতি অর্জন করে রেকর্ড স্থাপন",
+    "summary": "একজন স্পেনীয় স্কেটবোর্ডার কানাডায় ৯৪.৩৪ মাইল প্রতি ঘণ্টা গতিতে গিনেস বিশ্ব রেকর্ড স্থাপন করেছে। এটি ঢাল নেমে স্কেটবোর্ডিংয়ে একটি নতুন মাইলফলক।"
+   }
+  },
+  {
+   "id": "vneur4",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/durga-puja-carries-eternal-call-justice-and-humanity-president-1574936",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/president_fakhrul.jpg",
+   "published": "2026-10-16T16:10:00.000Z",
+   "added": "2026-10-16T17:21:19.806Z",
+   "origTitle": "Durga Puja carries an eternal call for justice and humanity: President",
+   "en": {
+    "title": "President greets Hindu community on Durga Puja, emphasizes harmony",
+    "summary": "President Mirza Fakhrul Islam Alamgir extended greetings to the Hindu community on Durga Puja, calling the festival a symbol of justice, truth, and communal harmony. He said the festival awakens hope and commitment to welfare among devotees. The government is supporting Hindu religious institutions and providing honorariums to priests, he added."
+   },
+   "bn": {
+    "title": "দুর্গাপূজায় রাষ্ট্রপতির শুভেচ্ছা, সম্প্রীতির আহ্বান",
+    "summary": "রাষ্ট্রপতি মিরজা ফখরুল ইসলাম আলমগীর শারদীয় দুর্গাপূজায় হিন্দু সম্প্রদায়কে শুভেচ্ছা জানিয়েছেন। তিনি উৎসবকে ন্যায়বিচার এবং সত্যের প্রতীক বলে অভিহিত করেছেন। তিনি বলেন সরকার হিন্দু ধর্মীয় প্রতিষ্ঠান সংস্কারে সহায়তা করছে এবং পুরোহিতদের ভাতা প্রদান করছে।"
+   }
+  },
+  {
+   "id": "10fghcl",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+   "published": "2026-10-16T16:30:00.000Z",
+   "added": "2026-10-16T17:21:19.806Z",
+   "origTitle": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "en": {
+    "title": "Ex-Nvidia exec: robotics still in 'Lego era', not ChatGPT moment",
+    "summary": "Amulya Vishwanath, former NVIDIA robotics product lead, says robotics is still in early stages with basic building blocks like actuators and software being refined. She disagrees with those predicting robotics will soon have a 'ChatGPT moment' with general foundation models. Vishwanath now runs Techable VC, investing in physical AI across robotics, materials science, and life sciences."
+   },
+   "bn": {
+    "title": "এনভিডিয়ার প্রাক্তন এক্সিকিউটিভ: রোবটিক্স এখনও শুরু পর্যায়ে",
+    "summary": "এনভিডিয়ার প্রাক্তন রোবটিক্স প্রোডাক্ট লিড অ্যামুল্য বিশ্বনাথ বলেছেন রোবটিক্স এখনও 'লেগো যুগে' আছে। অ্যাকচুয়েটর এবং সফটওয়্যারের মতো মৌলিক উপাদান এখনও তৈরি হচ্ছে। তিনি এখন টেকেবল ভিসি চালান যা রোবটিক্স, ম্যাটেরিয়াল সায়েন্স এবং লাইফ সায়েন্সে বিনিয়োগ করে।"
+   }
+  },
+  {
+   "id": "b5r2dp",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg",
+   "published": "2026-10-16T16:00:30.000Z",
+   "added": "2026-10-16T17:21:19.806Z",
+   "origTitle": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+   "en": {
+    "title": "Ukraine gains 277 sq km in counter-offensive against Russia",
+    "summary": "Ukraine's Operation Vivaldi counter-offensive has liberated 277 square kilometers in the Donbas region recently. Kyiv claims 8,000 Russian casualties in this operation alone and says Ukrainian forces have pushed back Russian attempts to encircle key cities. Starlink satellites enable Ukrainian commanders to monitor drones and direct ground troops in real-time."
+   },
+   "bn": {
+    "title": "ইউক্রেন আক্রমণে রাশিয়ার বিরুদ্ধে অঞ্চল পুনরুদ্ধার",
+    "summary": "ইউক্রেনের অপারেশন ভিভালডি পাল্টা আক্রমণে ডনবাস অঞ্চলে ২৭৭ বর্গ কিলোমিটার অঞ্চল পুনরুদ্ধার করেছে। কিয়েভ দাবি করে এই অপারেশনে ৮,০০০ রাশিয়ান সৈনিক হতাহত হয়েছে। ইউক্রেনীয় কমান্ডাররা স্টারলিঙ্ক উপগ্রহ ব্যবহার করে ড্রোন নিয়ন্ত্রণ এবং ভূমি সৈনিকদের নির্দেশনা দিচ্ছেন।"
+   }
+  },
+  {
+   "id": "rz906q",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/law-and-crime/974965/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%80-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AC-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%AA%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%B2-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%B9%E0%A7%9C%E0%A6%BE",
+   "image": null,
+   "published": "2026-10-16T17:18:21.000Z",
+   "added": "2026-10-16T17:21:19.805Z",
+   "origTitle": "ঢাকেশ্বরী মন্দিরে বোম্ব ডিসপোজাল ইউনিটের মহড়া",
+   "en": {
+    "title": "Dhaka police hold bomb drill at Dhakeshwari temple",
+    "summary": "Dhaka Metropolitan Police's bomb disposal unit held a security drill at Dhakeshwari Temple on Friday ahead of Sharadiya Durga Puja celebrations. The team demonstrated techniques for deactivating explosives using advanced robots and handling emergency situations. The exercise aims to ensure public safety during the festival."
+   },
+   "bn": {
+    "title": "ঢাকেশ্বরী মন্দিরে পুলিশের বোম্ব মহড়া",
+    "summary": "শারদীয় দুর্গোৎসবের জন্য নিরাপত্তা নিশ্চিত করতে ঢাকা মহানগর পুলিশ শুক্রবার ঢাকেশ্বরী মন্দিরে বিশেষ মহড়া করেছে। বোম্ব ডিসপোজাল ইউনিট আধুনিক রোবট ব্যবহার করে বোমা নিষ্ক্রিয় করার কৌশল প্রদর্শন করেছে। এটি জরুরি পরিস্থিতি মোকাবিলার প্রস্তুতির অংশ।"
+   }
+  },
+  {
+   "id": "5j5w1y",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cx1l3j4080pzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2050/live/97bd8960-c94a-11f1-8566-4db41fa77717.jpg",
+   "published": "2026-10-16T12:50:09.000Z",
+   "added": "2026-10-16T17:21:19.805Z",
+   "origTitle": "নেত্রকোনায় গুলিতে নিহত সাংবাদিক আগে থেকেই 'ঝুঁকিতে ছিলেন'",
+   "en": {
+    "title": "Netrokona journalist shot dead while returning home",
+    "summary": "Lutfuzzaman Alif Fakir, a journalist who ran a Facebook page called 'Detective Article' exposing corruption and crime, was shot and killed in Netrokona's Durgapur area Thursday night. Two unidentified men followed him from a tea shop and fired at close range. He also worked as Netrokona correspondent for a private IPTV channel. Police say he had faced previous attacks and threats due to his reporting."
+   },
+   "bn": {
+    "title": "নেত্রকোনায় সাংবাদিক গুলিতে নিহত",
+    "summary": "লুৎফুজ্জামান আলিফ ফকির নামের একজন সাংবাদিককে গুলি করে হত্যা করা হয়েছে নেত্রকোনার দুর্গাপুরে। তিনি 'ডিটেকটিভ আর্টিকেল' ফেসবুক পেজে দুর্নীতি এবং অপরাধ নিয়ে লেখালেখি করতেন এবং একটি প্রাইভেট আইপিটিভি চ্যানেলে নেত্রকোনা প্রতিনিধি ছিলেন। বৃহস্পতিবার রাত সোয়া ৮টার দিকে চায়ের দোকান থেকে ফিরে আসার সময় দুই অজানা ব্যক্তি তাকে অনুসরণ করে গুলি করে। পুলিশ জানায় তার আগেও হামলার ঘটনা ঘটেছিল।"
+   }
+  },
   {
    "id": "14qqsyb",
    "section": "news",
@@ -2595,226 +2793,6 @@
    "bn": {
     "title": "অধ্যাপক ইউনূসের হয়রানির বিরুদ্ধে প্রতিবাদ জানিয়েছেন ১২ জন সাবেক উপদেষ্টা",
     "summary": "বাংলাদেশের অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা মুহাম্মদ ইউনূসকে নিউইয়র্কের বিমানবন্দরে হেনস্তার ঘটনায় ১২ জন সাবেক উপদেষ্টা প্রতিবাদ জানিয়েছেন। পররাষ্ট্র মন্ত্রণালয় যুক্তরাষ্ট্রের সঙ্গে যোগাযোগ করে আইনি পদক্ষেপ নিতে বলেছে। সাবেক উপদেষ্টারা অন্তর্বর্তী সময়ে ইউনূসের কাজের প্রশংসা করেছেন।"
-   }
-  },
-  {
-   "id": "rnf4qn",
-   "section": "bhabna",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other",
-   "image": "https://images.aeonmedia.co/images/7ec09957-1082-4f59-aded-7a89a34236f4/main-kurotani-photo-1_hr.jpg?top=281&left=0&cropWidth=2992&cropHeight=1683&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-13T10:00:00.000Z",
-   "added": "2026-10-13T15:54:18.459Z",
-   "origTitle": "What is hidden in the photographs we keep of each other?",
-   "en": {
-    "title": "What Family Photos Reveal About Memory and Loss",
-    "summary": "An anthropology professor found boxes of family photo albums in her elderly mother's apartment while helping after a hip fracture. The albums—carefully arranged by her parents starting in the 1960s—documented her childhood with her late sister: beach trips, school days, shrine visits. Now, alone with these images decades later, she reflects on what photographs preserve and what they hide about family life and memory."
-   },
-   "bn": {
-    "title": "পারিবারিক ছবি স্মৃতি এবং ক্ষতির কী গল্প বলে",
-    "summary": "একজন নৃতত্ত্ববিদ তার মায়ের অ্যাপার্টমেন্টে পারিবারিক অ্যালবামের বাক্স খুঁজে পান যখন মা হাঁটু ভেঙে হাসপাতালে ছিলেন। তার বাবা-মায়ের যত্নসহকারে সংরক্ষিত এই ছবিগুলো শৈশব—সৈকতে বেড়ানো, স্কুলের প্রথম দিন, নববর্ষে মন্দির। এখন দশকের পর আলোনায় এই ছবিগুলো দেখে তিনি ভাবেন পারিবারিক জীবনে কী সংরক্ষিত হয়, কী হারিয়ে যায়।"
-   }
-  },
-  {
-   "id": "1m8betg",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://nagorik.prothomalo.com/durporobash/z0hagfz0cr",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-13/22l24m6m/3.jpeg",
-   "published": "2026-10-13T15:29:09.000Z",
-   "added": "2026-10-13T15:54:18.459Z",
-   "origTitle": "কলকাতায় ইরান সোসাইটিতে নজরুল-স্মরণ",
-   "en": {
-    "title": "Kolkata Event Celebrates Kazi Nazrul's Connection to Persian Literature",
-    "summary": "On October 12, Iran Society in Kolkata hosted a special programme marking Hafez Day (celebrating the 14th-century Persian poet). The event, organised by Chhayonat Kolkata, focused on Iranian influence in Nazrul's writings and music. Performers recited poetry from Nazrul's translations of Hafiz and Omar Khayyam's works, and sang Nazrul songs inspired by Iranian themes and melodies."
-   },
-   "bn": {
-    "title": "কলকাতায় নজরুলের ইরানী সাহিত্য সংযোগ নিয়ে অনুষ্ঠান",
-    "summary": "১২ অক্টোবরে কলকাতার ইরান সোসাইটিতে হাফিজ দিবস উদ্‌যাপন উপলক্ষ ছায়ানটের আয়োজনে নজরুল সাহিত্য ও সংগীতে ইরানী প্রভাব নিয়ে বিশেষ অনুষ্ঠান হয়। নজরুলের অনুদিত রুবাইয়াৎ-ই-হাফিজ ও রুবাইয়াৎ-ই-ওমর খৈয়াম থেকে কবিতা পাঠ করা হয়। ইরানী সুর থেকে অনুপ্রাণিত নজরুলসংগীতও পরিবেশন করা হয়।"
-   }
-  },
-  {
-   "id": "1fs0ulg",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/youth/education/ucqbik0en8",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-13/7uy7iof8/edu.avif",
-   "published": "2026-10-13T15:18:08.000Z",
-   "added": "2026-10-13T15:54:18.459Z",
-   "origTitle": "Class I admissions by lottery, classes II–IX through written tests",
-   "en": {
-    "title": "Class I Admissions by Lottery, Classes II–IX by Written Tests",
-    "summary": "Bangladesh's Ministry of Education announced new admission rules for government secondary schools in the 2027 academic year. Class I students will be selected through digital lottery with five school preferences allowed. Classes II to IX will use written exams: 50 marks for II–V, 100 marks for VI–IX. The decision follows concerns that entrance tests would stress young children and increase coaching centre dependence."
-   },
-   "bn": {
-    "title": "প্রথম শ্রেণীতে লটারি, দ্বিতীয় থেকে নবম শ্রেণীতে পরীক্ষা",
-    "summary": "শিক্ষা মন্ত্রণালয় ২০২৭ শিক্ষাবর্ষের জন্য সরকারি মাধ্যমিক স্কুলে ভর্তির নতুন নিয়ম ঘোষণা করেছে। প্রথম শ্রেণীতে ডিজিটাল লটারি, দ্বিতীয় থেকে নবম শ্রেণীতে লিখিত পরীক্ষা হবে। দ্বিতীয় থেকে পঞ্চম শ্রেণী ৫০ নম্বর, ষষ্ঠ থেকে নবম শ্রেণী ১০০ নম্বরের পরীক্ষা থাকবে। এই সিদ্ধান্ত শিশুদের উপর পরীক্ষার চাপ এবং কোচিং সেন্টার নির্ভরতা বৃদ্ধির উদ্বেগের পর আসা।"
-   }
-  },
-  {
-   "id": "1jlljwr",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/smoothie-shop-workers-not-as-excited-for-mans-birthday-as-marketing-email-made-it-seem/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Smoothie_Shop_NIB_G_GR.jpg",
-   "published": "2026-10-13T13:00:00.000Z",
-   "added": "2026-10-13T15:54:18.459Z",
-   "origTitle": "Smoothie Shop Workers Not As Excited For Man’s Birthday As Marketing Email Made It Seem",
-   "en": {
-    "title": "Birthday Boy Disappointed Smoothie Shop Didn't Throw Him Party",
-    "summary": "Ryan Hunter showed up to his local smoothie place on his 40th birthday, expecting the excitement promised in a marketing email. Instead, the workers barely acknowledged him, didn't have decorations, and told him the birthday coupon didn't work on premium drinks. Even his fancy outfit got no reaction. The manager later cancelled all the birthday email promotions."
-   },
-   "bn": {
-    "title": "জন্মদিনের আশা নিয়ে স্মুদি দোকানে গেলেন, পেলেন উদাসীনতা",
-    "summary": "মার্কেটিং ইমেইল পড়ে রায়ান হান্টার তার ৪০তম জন্মদিনে স্মুদি দোকানে গেলেন বড় উৎসবের আশা করে। কিন্তু কর্মচারীরা তাকে সাধারণ গ্রাহকের মতোই ট্রিট করল—কোনো সাজসজ্জা নেই, গান নেই, বয়স ৪০ হওয়ার কোনো আনন্দ নেই। পরে ম্যানেজার সব জন্মদিনের ইমেইল বাতিল করে দিল।"
-   }
-  },
-  {
-   "id": "1uak0k1",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/13/San-Diego-Zoo-Guianan-squirrel-monkey/8351791901524/",
-   "image": null,
-   "published": "2026-10-13T14:27:12.000Z",
-   "added": "2026-10-13T15:53:56.031Z",
-   "origTitle": "Watch: Guianan squirrel monkey born at San Diego Zoo",
-   "en": {
-    "title": "San Diego Zoo welcomes rare Guianan squirrel monkey baby",
-    "summary": "The San Diego Zoo has announced the birth of a Guianan squirrel monkey, a species native to northern South America. The arrival is a win for zoo breeding programs and conservation efforts for this rare primate."
-   },
-   "bn": {
-    "title": "সান ডিয়েগো চিড়িয়াখানায় বিরল গায়ানা গাছ বানরের শিশু জন্মেছে",
-    "summary": "সান ডিয়েগো চিড়িয়াখানা একটি গায়ানা গাছ বানরের জন্ম ঘোষণা করেছে, এটি দক্ষিণ আমেরিকার উত্তরাঞ্চলে পাওয়া যায়। এই জন্ম চিড়িয়াখানার প্রজনন কর্মসূচি এবং এই বিরল প্রাইমেটের সংরক্ষণ প্রচেষ্টার জন্য একটি বড় ঘটনা।"
-   }
-  },
-  {
-   "id": "1vaom9u",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
-   "image": "https://images.aeonmedia.co/images/b060a785-e136-4e8e-bd82-6085cc21e62a/essay-final-nn11563596.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-13T10:00:00.000Z",
-   "added": "2026-10-13T15:53:56.031Z",
-   "origTitle": "Deskilling the body",
-   "en": {
-    "title": "How digital life is weakening our physical skills and bodies",
-    "summary": "This essay explores how constant phone use and screen time are eroding our physical capabilities. The author describes waking at 3am to scroll mindlessly through apps, then spending entire workdays glued to her laptop. Before smartphones, she could write by hand and concentrate for hours. Now caffeine and snacks power fragmented bursts of work. Time for exercise and nature constantly slips away."
-   },
-   "bn": {
-    "title": "ডিজিটাল জীবন আমাদের শারীরিক দক্ষতা দুর্বল করছে কীভাবে",
-    "summary": "এই লেখাটি অন্বেষণ করে কীভাবে নিরন্তর ফোন ব্যবহার এবং স্ক্রীন টাইম আমাদের শারীরিক ক্ষমতা খরচ করছে। লেখক তিনটে রাত জেগে ফোনে স্ক্রল করা এবং সারাদিন ল্যাপটপে বসে থাকার কথা বর্ণনা করেছেন। স্মার্টফোনের আগে তিনি হাতে লিখতে পারতেন এবং ঘন্টার পর ঘন্টা মনোযোগ দিতে পারতেন। এখন ক্যাফেইন এবং স্ন্যাকস খণ্ডিত কাজের শক্তি দেয়। ব্যায়াম এবং প্রকৃতির সময় সবসময় হারিয়ে যায়।"
-   }
-  },
-  {
-   "id": "tbgcvf",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889460445_20c033b45a_o-2.jpg?resize=1200,800",
-   "published": "2026-10-13T15:02:00.000Z",
-   "added": "2026-10-13T15:53:56.031Z",
-   "origTitle": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-   "en": {
-    "title": "Twenty startups compete at TechCrunch Disrupt for innovation prize",
-    "summary": "TechCrunch Disrupt is hosting 20 finalists competing for a $100,000 prize and the Disrupt Cup. The founders are building tech across biotech, robotics, space, and AI. A common thread: making invisible systems measurable—from biological clocks to wild animal behavior. One company is even trying to launch cargo to space using a hydrogen-powered cannon."
-   },
-   "bn": {
-    "title": "টেকক্র্যাঞ্চ ডিসরাপ্টে ২০টি স্টার্টআপ উদ্ভাবন পুরস্কারের জন্য প্রতিযোগিতা করছে",
-    "summary": "টেকক্র্যাঞ্চ ডিসরাপ্ট ২০টি ফাইনালিস্ট উপস্থাপন করছে যারা ১০০,০০০ ডলার পুরস্কার এবং ডিসরাপ্ট কাপের জন্য প্রতিদ্বন্দ্বিতা করছে। প্রতিষ্ঠাতারা বায়োটেক, রোবোটিক্স, স্পেস এবং এআই জুড়ে প্রযুক্তি তৈরি করছে। একটি সাধারণ থিম: অদৃশ্য সিস্টেমগুলি পরিমাপযোগ্য করা। একটি কোম্পানি এমনকি হাইড্রোজেন-চালিত কামান দিয়ে মহাকাশে পণ্য উৎক্ষেপণের চেষ্টা করছে।"
-   }
-  },
-  {
-   "id": "2tqxnt",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ace45c4b3113-1791903172.jpg?resize=1920%2C1440",
-   "published": "2026-10-13T15:13:32.000Z",
-   "added": "2026-10-13T15:53:56.031Z",
-   "origTitle": "Trump’s ambassador to Greece asked to resign amid misconduct allegations",
-   "en": {
-    "title": "Trump's Greece ambassador Guilfoyle resigns over misconduct allegations",
-    "summary": "US Ambassador to Greece Kimberley Guilfoyle has resigned following allegations of misconduct. Reports claim she sought a Trump donor's money in exchange for access to administration officials. The Wall Street Journal also reported she told people she could use US influence against the Greek government and promoted a construction company's interests. Guilfoyle denies wrongdoing, saying the money sought was payment for past speaking engagements."
-   },
-   "bn": {
-    "title": "ট্রাম্পের গ্রীস রাষ্ট্রদূত গিলফয়েল সুদূর্ব্যবহারের অভিযোগে পদত্যাগ করেছেন",
-    "summary": "যুক্তরাষ্ট্রের গ্রীসের রাষ্ট্রদূত কিম্বারলি গিলফয়েল সুদূর্ব্যবহারের অভিযোগের পর পদত্যাগ করেছেন। প্রতিবেদনে বলা হয়েছে তিনি ট্রাম্প দাতার কাছ থেকে প্রশাসনিক কর্মকর্তাদের অ্যাক্সেসের বিনিময়ে অর্থ চেয়েছেন। ওয়াল স্ট্রিট জার্নাল বলেছে তিনি গ্রীক সরকারের বিরুদ্ধে মার্কিন প্রভাব ব্যবহার করতে পারেন বলে বলেছেন এবং একটি নির্মাণ কোম্পানির স্বার্থ প্রচার করেছেন। গিলফয়েল অস্বীকার করেছেন এবং বলেছেন অর্থ ছিল অতীত বক্তৃতার পারিশ্রমিক।"
-   }
-  },
-  {
-   "id": "1vwgj44",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cr624jpwj40eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccfa/live/aa4ee280-c617-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-13T12:36:53.000Z",
-   "added": "2026-10-13T15:53:56.031Z",
-   "origTitle": "কওমি মাদ্রাসায় বারবার ছেলেশিশু যৌন নির্যাতনের ঘটনা ঘটছে কীভাবে?",
-   "en": {
-    "title": "Sexual abuse of boys at Islamic seminaries in Bangladesh widespread",
-    "summary": "BBC Bengali has reported on repeated sexual abuse of young boys at Qaumi madrasas in Bangladesh. A father described how his seven-year-old son was assaulted by older students and a teacher over six months. When the child told an authority figure at the madrasa, he was beaten and threatened into silence through religious oaths. The abuse continued and left the child traumatised."
-   },
-   "bn": {
-    "title": "বাংলাদেশে কওমি মাদ্রাসায় ছেলেশিশুদের যৌন নির্যাতন ব্যাপক",
-    "summary": "বিবিসি বাংলা বাংলাদেশের কওমি মাদ্রাসায় ছোট ছেলেদের উপর বারবার যৌন নির্যাতনের খবর দিয়েছে। একজন বাবা বলেছেন তার সাত বছর বয়সী ছেলে ছয় মাস ধরে বড় শিক্ষার্থী এবং একজন শিক্ষকের দ্বারা নির্যাতিত হয়েছে। যখন শিশুটি মাদ্রাসার একজন কর্তৃপক্ষকে বলেছে, তখন তাকে মারা হয় এবং ধর্মীয় শপথের মাধ্যমে চুপ থাকতে বাধ্য করা হয়। এরপর নির্যাতন আরও খারাপ হয়েছে।"
-   }
-  },
-  {
-   "id": "g9too3",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/south-asia/rahul-gandhi-vows-continue-opposition-campaign-over-voter-roll-revision-1571961",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/06/rahul_gandhi.png",
-   "published": "2026-10-13T15:45:00.000Z",
-   "added": "2026-10-13T15:53:56.031Z",
-   "origTitle": "Rahul Gandhi vows to continue opposition campaign over voter roll revision",
-   "en": {
-    "title": "Rahul Gandhi vows to keep fighting over voter roll changes",
-    "summary": "Congress leader Rahul Gandhi said the opposition INDIA bloc will continue resisting what it calls irregularities in India's electoral roll revision process. He refused to reveal the alliance's next strategy, saying surprise is key. Gandhi expressed hope that courts will act but said political resistance will carry on regardless. He and 10 other opposition leaders have filed a petition in the Supreme Court."
-   },
-   "bn": {
-    "title": "রাহুল গান্ধী ভোটার তালিকা সংশোধনের বিরুদ্ধে লড়াই অব্যাহত রাখবেন বলছেন",
-    "summary": "কংগ্রেস নেতা রাহুল গান্ধী বলেছেন ভারতের নির্বাচন তালিকা সংশোধন প্রক্রিয়ায় যা অনিয়ম হচ্ছে তার বিরুদ্ধে বিরোধী জোট ইন্ডিয়া ব্লক চলতে থাকবে। তিনি জোটের পরবর্তী পদক্ষেপ প্রকাশ করতে অস্বীকার করেছেন এবং বলেছেন বিস্ময় বজায় রাখা জরুরি। গান্ধী আশা করেছেন আদালত পদক্ষেপ নেবে কিন্তু বলেছেন রাজনৈতিক প্রতিরোধ চলতে থাকবে। তিনি আরও ১০ জন বিরোধী নেতার সাথে সুপ্রিম কোর্টে আবেদন জমা দিয়েছেন।"
    }
   }
  ]

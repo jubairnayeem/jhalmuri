@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-16T12:20:37.235Z",
+ "updatedAt": "2026-10-16T17:21:53.685Z",
  "burning": [
   {
-   "id": "1ufv3oe",
+   "id": "s1i1ck",
    "heat": 5,
    "why": {
-    "en": "Two Bangladeshis executed in Saudi Arabia is trending hard on Google with 100+ search traffic.",
-    "bn": "সৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড Google-এ ১০০+ ট্রাফিক নিয়ে ট্রেন্ড করছে।"
+    "en": "BCS exam question leak with 105 candidates excluded is dominating searches and protests.",
+    "bn": "বিসিএস পরীক্ষার প্রশ্নপত্র ফাঁস এবং ১০৫ জন প্রার্থী বাদ দেওয়ার ঘটনা সবচেয়ে বেশি আলোচিত।"
    },
    "rank": 1
+  },
+  {
+   "id": "8jwwpe",
+   "heat": 4,
+   "why": {
+    "en": "Rajbari motorcycle shooting death is a major crime story in ongoing gang violence.",
+    "bn": "রাজবাড়ীতে মোটরসাইকেল থেকে গুলি করে হত্যা একটি গুরুতর অপরাধ ঘটনা।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "5j5w1y",
+   "heat": 4,
+   "why": {
+    "en": "Netrokona journalist shot dead is major press freedom story generating serious coverage.",
+    "bn": "নেত্রকোনায় সাংবাদিক হত্যা সংবাদ মাধ্যম স্বাধীনতার একটি বড় বিষয়।"
+   },
+   "rank": 3
   },
   {
    "id": "p1ll2d",
    "heat": 4,
    "why": {
-    "en": "Dengue deaths spiking while vaccine plans delayed—health crisis drawing urgent attention.",
-    "bn": "ডেঙ্গুতে মৃত্যু বাড়ছে আর ভ্যাকসিন পরিকল্পনা নেই—স্বাস্থ্য সংকট গুরুতর।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "1bwzgin",
-   "heat": 4,
-   "why": {
-    "en": "89 flights cancelled in four days stranding 14,500 people is major travel disruption news.",
-    "bn": "চার দিনে ৮৯ ফ্লাইট বাতিল ও ১৪,৫০০ যাত্রী আটকা বড় সমস্যা।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "15h7ly5",
-   "heat": 3,
-   "why": {
-    "en": "BNP leader beaten to death after stopping drug rings—serious crime story with political angle.",
-    "bn": "মাদক ও জুয়া চক্র বন্ধ করতে গিয়ে বিএনপি নেতা নিহত।"
+    "en": "Dengue deaths spike with no vaccine plan announced sparks health concern.",
+    "bn": "ডেঙ্গু মৃত্যু বৃদ্ধি এবং কোনো টিকা পরিকল্পনা না থাকার খবর স্বাস্থ্য সংকট তুলে ধরছে।"
    },
    "rank": 4
   },
   {
-   "id": "8wza8t",
+   "id": "nzmkap",
    "heat": 3,
    "why": {
-    "en": "Four more children die from measles-like illness—ongoing health emergency with rising death toll.",
-    "bn": "আরও চার শিশু হামের মতো অসুখে মারা গেছে—সংক্রমণ বাড়ছে।"
+    "en": "Bangladesh Army deployment to Haiti for gang suppression shows international military mission.",
+    "bn": "বাংলাদেশ সেনাবাহিনীর হাইতিতে দল পাঠানো একটি আন্তর্জাতিক সামরিক মিশন।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1ufv3oe",
-   "tag": "#SaudiExecution",
+   "id": "s7jxih",
+   "tag": "#KabaddiChampion",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "Two Bangladeshis executed in Makkah",
-    "text": "Saudi Arabia has executed two Bangladeshi nationals in Makkah. Details of the charges remain unclear."
+    "title": "British-Bangladeshi leads England kabaddi",
+    "text": "Anisa Khan, a British-Bangladeshi, is captaining England's women's kabaddi team, bringing South Asian sport to the fore in British sports."
    },
    "bn": {
-    "title": "মক্কায় দুই বাংলাদেশির মৃত্যুদণ্ড",
-    "text": "সৌদি আরবে পবিত্র মক্কায় দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর করা হয়েছে।"
+    "title": "ব্রিটিশ-বাঙালি কাবাডি দলের নেতৃত্ব",
+    "text": "আনিসা খান ইংল্যান্ডের মহিলা কাবাডি দলের ক্যাপ্টেন হয়ে বাঙালি খেলাধুলাকে বিশ্বমঞ্চে নিয়ে আসছেন।"
    }
   },
   {
-   "id": "nzmkap",
-   "tag": "#BangladeshHaiti",
+   "id": "1lo7wsu",
+   "tag": "#YunusAward",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Bangladesh Army heads to Haiti",
-    "text": "An advance team from Bangladesh Army is deploying to Haiti for gang suppression operations."
+    "title": "Yunus wins Hillary Clinton Award",
+    "text": "Chief Advisor Muhammad Yunus has been honored with the Hillary Clinton Award in Washington, recognizing his social work and leadership."
    },
    "bn": {
-    "title": "হাইতিতে বাংলাদেশ আর্মি",
-    "text": "বাংলাদেশ সেনাবাহিনীর একটি দল হাইতিতে গ্যাং দমনে যাচ্ছে।"
+    "title": "ইউনুস হিলারি ক্লিনটন পুরস্কার পেলেন",
+    "text": "প্রধান উপদেষ্টা মুহাম্মদ ইউনুস ওয়াশিংটনে হিলারি ক্লিনটন পুরস্কার অর্জন করেছেন।"
    }
   },
   {
-   "id": "1cvgkl4",
-   "tag": "#AmazonTech",
+   "id": "1sk7v5c",
+   "tag": "#CricketRetirement",
    "platforms": [
     "Google"
    ],
-   "heat": 2,
+   "heat": 3,
    "en": {
-    "title": "Amazon exec talks failure and innovation",
-    "text": "An Amazon executive explains why failure is essential to building great products."
+    "title": "Indian cricketer Punam Raut retires",
+    "text": "Punam Raut, an Indian international cricketer, has announced her retirement from international cricket."
    },
    "bn": {
-    "title": "অ্যামাজন এক্সিকিউটিভ ব্যর্থতা নিয়ে কথা",
-    "text": "একজন অ্যামাজন এক্সিকিউটিভ বলেছেন কেন ব্যর্থতা পণ্য তৈরিতে গুরুত্বপূর্ণ।"
+    "title": "ভারতীয় ক্রিকেটার পুনম রাউট অবসর",
+    "text": "ভারতীয় আন্তর্জাতিক ক্রিকেটার পুনম রাউট আন্তর্জাতিক ক্রিকেট থেকে অবসর নিয়েছেন।"
    }
   },
   {
-   "id": "1ictvvf",
-   "tag": "#UHTTech",
+   "id": "b5r2dp",
+   "tag": "#UkraineWar",
    "platforms": [
     "Google"
    ],
-   "heat": 2,
+   "heat": 3,
    "en": {
-    "title": "UHT tech keeps milk fresh longer",
-    "text": "Ultra-high temperature technology helps preserve milk longer and reduce waste."
+    "title": "Ukraine gains 277 sq km against Russia",
+    "text": "In a significant counter-offensive, Ukraine has gained 277 square kilometers of territory from Russian forces."
    },
    "bn": {
-    "title": "ইউএইচটি প্রযুক্তিতে দুধ সতেজ থাকে",
-    "text": "আল্ট্রা-হাই টেম্পারেচার প্রযুক্তি দুধ দীর্ঘস্থায়ী রাখে এবং বর্জ্য কমায়।"
+    "title": "ইউক্রেন রাশিয়ার বিরুদ্ধে ভূমি দখল",
+    "text": "ইউক্রেন তার পাল্টা আক্রমণে রাশিয়ার কাছ থেকে ২৭৭ বর্গ কিলোমিটার ভূমি দখল করেছে।"
    }
   }
  ],
