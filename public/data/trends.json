@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-16T17:21:53.685Z",
+ "updatedAt": "2026-10-16T20:59:21.173Z",
  "burning": [
   {
-   "id": "s1i1ck",
+   "id": "eovju0",
    "heat": 5,
    "why": {
-    "en": "BCS exam question leak with 105 candidates excluded is dominating searches and protests.",
-    "bn": "বিসিএস পরীক্ষার প্রশ্নপত্র ফাঁস এবং ১০৫ জন প্রার্থী বাদ দেওয়ার ঘটনা সবচেয়ে বেশি আলোচিত।"
+    "en": "Mass shooting at US elementary school; serious global tragedy.",
+    "bn": "আমেরিকার প্রাথমিক বিদ্যালয়ে গুলিবর্ষণ; গুরুতর বৈশ্বিক ট্র্যাজেডি।"
    },
    "rank": 1
   },
   {
-   "id": "8jwwpe",
+   "id": "5voh96",
    "heat": 4,
    "why": {
-    "en": "Rajbari motorcycle shooting death is a major crime story in ongoing gang violence.",
-    "bn": "রাজবাড়ীতে মোটরসাইকেল থেকে গুলি করে হত্যা একটি গুরুতর অপরাধ ঘটনা।"
+    "en": "Teen striker's hat-trick in Milan's dominant win draws sports fans.",
+    "bn": "মিলানের বড় জয়ে কিশোর খেলোয়াড়ের ট্রিপল গোল খেলাধুলার ভক্তদের আকৃষ্ট করছে।"
    },
    "rank": 2
   },
   {
-   "id": "5j5w1y",
+   "id": "1tbn1wa",
    "heat": 4,
    "why": {
-    "en": "Netrokona journalist shot dead is major press freedom story generating serious coverage.",
-    "bn": "নেত্রকোনায় সাংবাদিক হত্যা সংবাদ মাধ্যম স্বাধীনতার একটি বড় বিষয়।"
+    "en": "Bangladeshis allegedly used as bait in Ukraine conflict; major investigative claim.",
+    "bn": "ইউক্রেইনের যুদ্ধে বাংলাদেশিদের 'টোপ' হিসেবে ব্যবহারের গুরুতর অভিযোগ।"
    },
    "rank": 3
   },
   {
-   "id": "p1ll2d",
-   "heat": 4,
+   "id": "b5r2dp",
+   "heat": 3,
    "why": {
-    "en": "Dengue deaths spike with no vaccine plan announced sparks health concern.",
-    "bn": "ডেঙ্গু মৃত্যু বৃদ্ধি এবং কোনো টিকা পরিকল্পনা না থাকার খবর স্বাস্থ্য সংকট তুলে ধরছে।"
+    "en": "Ukraine's territorial gains in Russia counter-offensive; ongoing conflict update.",
+    "bn": "রাশিয়ার বিরুদ্ধে ইউক্রেইনের পাল্টা অফেন্সিভে অঞ্চল দখলের খবর।"
    },
    "rank": 4
   },
   {
-   "id": "nzmkap",
+   "id": "1y10lwr",
    "heat": 3,
    "why": {
-    "en": "Bangladesh Army deployment to Haiti for gang suppression shows international military mission.",
-    "bn": "বাংলাদেশ সেনাবাহিনীর হাইতিতে দল পাঠানো একটি আন্তর্জাতিক সামরিক মিশন।"
+    "en": "Fatal accident in Rajshahi; tragic local incident draws attention.",
+    "bn": "রাজশাহীতে মর্মান্তিক দুর্ঘটনা; স্থানীয় ঘটনা মনোযোগ আকর্ষণ করছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "s7jxih",
-   "tag": "#KabaddiChampion",
+   "id": "jl1lqv",
+   "tag": "#PorscheMacanEV",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "British-Bangladeshi leads England kabaddi",
-    "text": "Anisa Khan, a British-Bangladeshi, is captaining England's women's kabaddi team, bringing South Asian sport to the fore in British sports."
+    "title": "Porsche's electric crossover power",
+    "text": "New Macan EV blends sports performance with crossover design, catching tech and auto fans' interest."
    },
    "bn": {
-    "title": "ব্রিটিশ-বাঙালি কাবাডি দলের নেতৃত্ব",
-    "text": "আনিসা খান ইংল্যান্ডের মহিলা কাবাডি দলের ক্যাপ্টেন হয়ে বাঙালি খেলাধুলাকে বিশ্বমঞ্চে নিয়ে আসছেন।"
+    "title": "পোর্শের ইলেকট্রিক ক্রসওভার",
+    "text": "নতুন ম্যাকান ইভি স্পোর্টস পারফরম্যান্স এবং ক্রসওভার ডিজাইন মিশিয়ে টেক এবং গাড়ির অনুরাগীদের আগ্রহ জাগাচ্ছে।"
+   }
+  },
+  {
+   "id": "10fghcl",
+   "tag": "#RoboticsLego",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Robotics still playing catch-up",
+    "text": "Ex-Nvidia executive says robotics lags far behind AI's leap, stuck in early-stage development."
+   },
+   "bn": {
+    "title": "রোবোটিক্স এখনো পিছিয়ে",
+    "text": "এনভিডিয়ার প্রাক্তন নির্বাহী বলছেন রোবোটিক্স এআইর মতো এগিয়ে যায়নি, এখনো প্রাথমিক পর্যায়ে।"
    }
   },
   {
    "id": "1lo7wsu",
-   "tag": "#YunusAward",
+   "tag": "#YunusHonour",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Yunus wins Hillary Clinton Award",
-    "text": "Chief Advisor Muhammad Yunus has been honored with the Hillary Clinton Award in Washington, recognizing his social work and leadership."
+    "title": "Yunus's Washington recognition",
+    "text": "Bangladesh's Nobel laureate wins Hillary Clinton Award, gaining international platform for poverty-fighting work."
    },
    "bn": {
-    "title": "ইউনুস হিলারি ক্লিনটন পুরস্কার পেলেন",
-    "text": "প্রধান উপদেষ্টা মুহাম্মদ ইউনুস ওয়াশিংটনে হিলারি ক্লিনটন পুরস্কার অর্জন করেছেন।"
-   }
-  },
-  {
-   "id": "1sk7v5c",
-   "tag": "#CricketRetirement",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Indian cricketer Punam Raut retires",
-    "text": "Punam Raut, an Indian international cricketer, has announced her retirement from international cricket."
-   },
-   "bn": {
-    "title": "ভারতীয় ক্রিকেটার পুনম রাউট অবসর",
-    "text": "ভারতীয় আন্তর্জাতিক ক্রিকেটার পুনম রাউট আন্তর্জাতিক ক্রিকেট থেকে অবসর নিয়েছেন।"
-   }
-  },
-  {
-   "id": "b5r2dp",
-   "tag": "#UkraineWar",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Ukraine gains 277 sq km against Russia",
-    "text": "In a significant counter-offensive, Ukraine has gained 277 square kilometers of territory from Russian forces."
-   },
-   "bn": {
-    "title": "ইউক্রেন রাশিয়ার বিরুদ্ধে ভূমি দখল",
-    "text": "ইউক্রেন তার পাল্টা আক্রমণে রাশিয়ার কাছ থেকে ২৭৭ বর্গ কিলোমিটার ভূমি দখল করেছে।"
+    "title": "ইউনুসের ওয়াশিংটন সম্মাননা",
+    "text": "বাংলাদেশের নোবেল বিজয়ী হিলারি ক্লিনটন পুরস্কার জিতেছেন, দারিদ্র্য বিরোধী কাজের আন্তর্জাতিক স্বীকৃতি পেয়েছেন।"
    }
   }
  ],
