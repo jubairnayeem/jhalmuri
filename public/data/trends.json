@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-15T22:11:04.628Z",
+ "updatedAt": "2026-10-16T01:13:44.146Z",
  "burning": [
   {
-   "id": "119ybko",
+   "id": "1bwzgin",
    "heat": 5,
    "why": {
-    "en": "Haaland's record-breaking 78 goals in Champions League is massive sports news.",
-    "bn": "হালান্ডের চ্যাম্পিয়নস লিগে ৭৮ গোল রেকর্ড সবার আলোচনার কেন্দ্রে।"
+    "en": "89 flights cancelled in four days affecting 14,500 people—massive disruption story.",
+    "bn": "চার দিনে ৮৯টা ফ্লাইট বাতিল, ১৪,৫০০ জন আটকে পড়ে—বিশাল বিঘ্ন।"
    },
    "rank": 1
   },
   {
-   "id": "13aafkt",
+   "id": "p1ll2d",
    "heat": 5,
    "why": {
-    "en": "PSG's shock 4-2 win over Manchester City is a major upset everyone's talking about.",
-    "bn": "ম্যানচেস্টার সিটির বিরুদ্ধে পিএসজির অপ্রত্যাশিত ৪-২ জয় সবার মুখে মুখে।"
+    "en": "Dengue deaths spiking with no vaccine plan—major public health crisis.",
+    "bn": "ডেঙ্গু মৃত্যু বাড়ছে, ভ্যাকসিন পরিকল্পনা নেই—জনস্বাস্থ্য সংকট।"
    },
    "rank": 2
   },
   {
-   "id": "wq8uer",
-   "heat": 5,
+   "id": "8wza8t",
+   "heat": 4,
    "why": {
-    "en": "Real Madrid's dramatic three-goal comeback in seven minutes is viral-worthy football.",
-    "bn": "রিয়েল মাদ্রিদের সাত মিনিটে তিন গোলের নাটকীয় ফিরিয়ে আসা ফুটবল খবরের শীর্ষে।"
+    "en": "Four more children dying from measles-like illness—ongoing health emergency.",
+    "bn": "হামের মতো রোগে আরও চারটা শিশু মারা গেছে—চলমান সংকট।"
    },
    "rank": 3
   },
   {
-   "id": "1bwzgin",
+   "id": "s1i1ck",
    "heat": 4,
    "why": {
-    "en": "89 flights cancelled and 14,500 stranded is a major disruption hitting families hard.",
-    "bn": "৮৯টি ফ্লাইট বাতিল এবং ১৪,৫০০ মানুষ আটকে থাকা সবার জন্য গুরুত্বপূর্ণ।"
+    "en": "45th BCS exam row: 105 candidates excluded, protests escalating over fairness.",
+    "bn": "৪৫তম বিসিএস: ১০৫ জন বাদ দেওয়া হয়েছে, প্রতিবাদ বাড়ছে।"
    },
    "rank": 4
   },
   {
-   "id": "p1ll2d",
+   "id": "c37le8",
    "heat": 4,
    "why": {
-    "en": "Dengue deaths spiking with no vaccine plan is a serious public health crisis.",
-    "bn": "ডেঙ্গুতে মৃত্যু বাড়ছে আর কোনো ভ্যাকসিন পরিকল্পনা নেই—এটা সবার জন্য উদ্বেগের বিষয়।"
+    "en": "Six arrested in youth department exam question leak scandal.",
+    "bn": "যুব বিভাগের পরীক্ষার প্রশ্ন ফাঁসের মামলায় ছয়জন গ্রেপ্তার।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1bwzgin",
-   "tag": "#FlightChaos",
+   "id": "119ybko",
+   "tag": "#FootballRecord",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Flights grounded, thousands stranded",
-    "text": "89 flights cancelled in four days left 14,500 people stuck. Major travel disruption across Bangladesh."
+    "title": "Haaland smashes Messi's record",
+    "text": "Erling Haaland has broken Lionel Messi's Champions League goal record with 78 goals in the tournament."
    },
    "bn": {
-    "title": "ফ্লাইট বাতিল, হাজার হাজার মানুষ আটকে",
-    "text": "চার দিনে ৮৯টি ফ্লাইট বাতিল হয়ে ১৪,৫০০ জন মানুষ আটকে পড়েছে। দেশজুড়ে ভ্রমণ সংকট।"
+    "title": "হাল্যান্ড মেসির রেকর্ড ভাঙ্গলেন",
+    "text": "আর্লিং হাল্যান্ড চ্যাম্পিয়ন্স লিগে ৭৮ গোল করে মেসির রেকর্ড ভেঙে ফেলেছেন।"
    }
   },
   {
-   "id": "1ufv3oe",
-   "tag": "#SadNews",
+   "id": "7oupkc",
+   "tag": "#Showbiz",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Two Bangladeshis executed in Saudi Arabia",
-    "text": "Saudi Arabia executed two Bangladeshi nationals in Makkah. A serious consular matter for the country."
+    "title": "Mehzabeen speaks on viral video",
+    "text": "Actress Mehzabeen Chowdhury addressed a viral video incident, questioning when disrespect became a way to make money."
    },
    "bn": {
-    "title": "সৌদিতে দুই বাংলাদেশিকে মৃত্যুদণ্ড",
-    "text": "সৌদি আরবে মক্কায় দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর করা হয়েছে।"
+    "title": "মেহজাবীন ভাইরাল ভিডিও নিয়ে কথা বলেছেন",
+    "text": "অভিনেত্রী মেহজাবীন চৌধুরী ভাইরাল ভিডিওর বিষয়ে মুখ খুলেছেন এবং প্রশ্ন রেখেছেন কখন থেকে অন্যদের অসম্মান করা আয়ের উপায় হয়ে উঠল।"
    }
   },
   {
-   "id": "nqnb9q",
-   "tag": "#BusinessGold",
+   "id": "1sk7v5c",
+   "tag": "#Cricket",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Wasted dairy gold in Bangladesh",
-    "text": "Bangladesh is wasting whey from dairy, missing out on a potential billion-taka business opportunity."
+    "title": "Punam Raut retires from cricket",
+    "text": "Indian cricketer Punam Raut has announced her retirement from international cricket."
    },
    "bn": {
-    "title": "দুগ্ধ ব্যবসায় বিশাল সম্ভাবনা বাদ যাচ্ছে",
-    "text": "বাংলাদেশ দুধ থেকে পাওয়া ঘোল নষ্ট করছে, যা কোটি টাকার ব্যবসা হতে পারত।"
+    "title": "পুনম রাউত আন্তর্জাতিক ক্রিকেট থেকে অবসর",
+    "text": "ভারতীয় ক্রিকেটার পুনম রাউত আন্তর্জাতিক ক্রিকেট থেকে অবসর ঘোষণা করেছেন।"
    }
   }
  ],
