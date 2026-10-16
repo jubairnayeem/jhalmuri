@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-16T20:59:06.627Z",
+ "updatedAt": "2026-10-16T23:30:25.311Z",
  "items": [
+  {
+   "id": "1jp3ib7",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Daily Star",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzhFQWJiMGxKVThYdjZuZXVBXzN5MlVlOHBVNU0wTDN3QTdUV3lrb3FFZmg5cmluVXRNOUE4OVktQU03UVpYSWc3QVlkbnhwa1BkRjJsLVBSMHJOSUN1U01odW91QVZtX3l4elZyMmNDbktiZktOS1RvVFI0R0Vra2hPeDJ0bHR1VldCNTQ2OFhKYVJSZF9kRWU2RjRhWFY3bFY3MkZLYm5waWV3aVJZWlVfdFg5SDRNSkdSTkxhTWVaMGxKMXhZNzk0VGM?oc=5",
+   "image": null,
+   "published": "2026-10-16T20:50:38.000Z",
+   "added": "2026-10-16T23:30:25.310Z",
+   "origTitle": "Saudi Arabia executes 2 Bangladeshis over ‘immoral act’ in Makkah mosque",
+   "en": {
+    "title": "Saudi Arabia executes 2 Bangladeshis in Makkah",
+    "summary": "Saudi Arabia has executed two Bangladeshi nationals over an alleged immoral act in Makkah mosque. The executions highlight ongoing enforcement of strict laws in the kingdom. Details about the specific charges and legal proceedings were not disclosed."
+   },
+   "bn": {
+    "title": "মক্কার মসজিদে অসংগত কাজের জন্য ২ বাংলাদেশী মৃত্যুদণ্ডপ্রাপ্ত",
+    "summary": "সৌদি আরব মক্কার মসজিদে একটি অসংগত কাজের অভিযোগে দুইজন বাংলাদেশী নাগরিককে মৃত্যুদণ্ড দিয়েছে। এটি সাউদি আরবের কঠোর আইনের প্রয়োগ তুলে ধরে। নির্দিষ্ট অভিযোগ এবং আইনি কার্যক্রমের বিবরণ প্রকাশ করা হয়নি।"
+   }
+  },
+  {
+   "id": "xdygys",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Financial Express",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2xCRFhTb3owRnozcGs1RVE5bVpNZjIyVGhQUjRBRmZVTDFOcU91NkNmbXBuSE1mdi0zRVBoUENwRG9nMFA1MUJxVWo2NGN6VXZWa3BhOGxkQ1RaeWxiemcwb0JyYWotWERndXlvUGdxVXRBeDI1WXpTSUlXUTgyLVlFNDZ3QWFnczZTQko5Z1ZicnFjVGJOdnNsemRZeENOeF95S3Zla0x2R0hBN3gwRzJybzE3ZWhxOXc5YWhMa1llZE54M0t30gHHAUFVX3lxTE5fbEJEWFNvejBGejNwazVFUTltWk1mMjJUaFBSNEFGZlVMMU5xT3U2Q2ZtcG5ITWZ2LTNFUGhQQ3BEb2cwUDUxQnFVajY0Y3pVdlZrcGE4bGRDVFp5bGJ6ZzBvQnJhai1YRGd1eW9QZ3FVdEF4MjVZelNJSVdRODItWUU0NndBYWdzNlNCSjlnVmJycWNUYk52c2x6ZFl4Q054X3lLdmVrTHZHSEE3eDBHMnJvMTdlaHE5dzlhaExrWWVkTngzS3c?oc=5",
+   "image": null,
+   "published": "2026-10-16T18:00:00.000Z",
+   "added": "2026-10-16T23:30:25.310Z",
+   "origTitle": "PM enquires about nurse shot during July Uprising",
+   "en": {
+    "title": "PM asks about nurse injured in July Uprising",
+    "summary": "The Prime Minister has enquired about a nurse who was shot during the July Uprising. The enquiry shows ongoing concern for those wounded during the political unrest. Details about the nurse's condition or recovery were not provided in the report."
+   },
+   "bn": {
+    "title": "জুলাই আন্দোলনে গুলিবিদ্ধ নার্সের খোঁজ নিলেন প্রধানমন্ত্রী",
+    "summary": "প্রধানমন্ত্রী জুলাই আন্দোলনের সময় গুলিবিদ্ধ একজন নার্সের খোঁজ নিয়েছেন। এই পদক্ষেপ রাজনৈতিক অস্থিরতায় আহতদের প্রতি সরকারের মনোযোগ দেখায়। নার্সের অবস্থা বা সুস্থতার বিষয়ে বিস্তারিত তথ্য পাওয়া যায়নি।"
+   }
+  },
+  {
+   "id": "sch167",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/403400/403450.jpg",
+   "published": "2026-10-16T21:04:05.000Z",
+   "added": "2026-10-16T23:30:16.181Z",
+   "origTitle": "Bumrah, Pant in India squad for New Zealand Test series",
+   "en": {
+    "title": "Bumrah returns for India's Test series against New Zealand",
+    "summary": "Fast bowler Jasprit Bumrah has been included in India's squad for the two-match Test series against New Zealand. Bumrah will not play in the ODI format but returns to lead the attack in Tests, bringing crucial experience to the squad."
+   },
+   "bn": {
+    "title": "বুমরাহ নিউজিল্যান্ডের বিপরীতে টেস্ট সিরিজের জন্য ফিরছেন",
+    "summary": "দ্রুত গতির বোলার জসপ্রিত বুমরাহ নিউজিল্যান্ডের বিপরীতে দুই ম্যাচের টেস্ট সিরিজের জন্য ভারতের দলে অন্তর্ভুক্ত হয়েছেন। বুমরাহ ওডিআই খেলবেন না কিন্তু টেস্টে আক্রমণের নেতৃত্ব দেবেন।"
+   }
+  },
+  {
+   "id": "1swnre",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/religion/islam/do51r74lph",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-16/9gmx0csl/pexels-anete-lusina-5721137.jpg",
+   "published": "2026-10-16T22:30:00.000Z",
+   "added": "2026-10-16T23:30:16.181Z",
+   "origTitle": "মুসলিম সমাজে মোনাফেক কারা, তারা কীভাবে কাজ করে",
+   "en": {
+    "title": "Who are hypocrites in Muslim society and how they operate",
+    "summary": "The article explains the Islamic concept of munafiq (hypocrites) through the behavior of a desert jerboa, which digs escape tunnels. Hypocrites outwardly claim faith but inwardly harbour disbelief and ill will. The Quran describes this as a spiritual ailment that spreads like disease in society."
+   },
+   "bn": {
+    "title": "মুসলিম সমাজে মোনাফেক কারা এবং তারা কীভাবে কাজ করে",
+    "summary": "নিবন্ধে মরুভূমির জারবোয়া প্রাণীর উদাহরণ দিয়ে ইসলামে মোনাফেকির ধারণা ব্যাখ্যা করা হয়েছে। মোনাফেকরা বাইরে থেকে মুসলিম সমাজের অংশ দেখায় কিন্তু ভেতরে অবিশ্বাস লালন করে। কোরআনে এটিকে একটি আধ্যাত্মিক ব্যাধি বলা হয়েছে যা সমাজে ছড়িয়ে পড়ে।"
+   }
+  },
+  {
+   "id": "1b3pie8",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+   "published": "2026-10-16T21:22:28.000Z",
+   "added": "2026-10-16T23:30:16.181Z",
+   "origTitle": "Replit is no longer working with Anthropic, CEO says",
+   "en": {
+    "title": "Replit ends partnership with Anthropic, switches to OpenAI",
+    "summary": "Replit CEO Amjad Masad announced Thursday that the coding platform is no longer working with Anthropic. The decision was based on cost, partnership terms, and performance metrics. Replit switched to OpenAI partnership announced in August, but industry insiders dispute whether Anthropic work has fully stopped."
+   },
+   "bn": {
+    "title": "রিপ্লিট অ্যান্থ্রোপিক থেকে সরে গেছে, ওপেনএআইতে চলে এসেছে",
+    "summary": "রিপ্লিট সিইও অমজাদ মাসাদ বৃহস্পতিবার জানিয়েছেন যে তারা আর অ্যান্থ্রোপিকের সাথে কাজ করছে না। খরচ, পার্টনারশিপ শর্তাবলী এবং পারফরম্যান্সের ভিত্তিতে এই সিদ্ধান্ত নেওয়া হয়েছে। রিপ্লিট এখন ওপেনএআইয়ের সাথে কাজ করবে, তবে জানাশোনা মানুষরা বলছেন অ্যান্থ্রোপিকের কাজ সম্পূর্ণ বন্ধ হয়নি।"
+   }
+  },
+  {
+   "id": "1kmcrbo",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-08-12T185012Z_480043168_UP1EM8C1GBM60_RTRMADP_3_SOCCER-FRIENDLY-MUN-LEE-1792151986.jpg?resize=1920%2C1440",
+   "published": "2026-10-16T22:53:26.000Z",
+   "added": "2026-10-16T23:30:16.181Z",
+   "origTitle": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
+   "en": {
+    "title": "Leeds face Manchester United in Premier League clash Sunday",
+    "summary": "Leeds United hosts Manchester United at Elland Road on Sunday at 2pm GMT in a fierce rivalry renewed. Leeds have been strong this season, losing just one of six league games. Manchester United, seeking to end a 40-year title drought, look to challenge."
+   },
+   "bn": {
+    "title": "লিডস ম্যানচেস্টার ইউনাইটেডকে মুখোমুখি করবে রবিবার",
+    "summary": "রবিবার দুপুর ২টায় ইল্যান্ড রোডে লিডস ম্যানচেস্টার ইউনাইটেডের সাথে খেলবে। এই দুই দলের মধ্যে প্রিমিয়ার লিগের অন্যতম প্রাণবন্ত প্রতিদ্বন্দ্বিতা রয়েছে। লিডস এ মৌসুমে ছয় ম্যাচে এক বার হেরেছে এবং শক্তিশালী অবস্থানে আছে।"
+   }
+  },
+  {
+   "id": "1d8olrn",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/sylhet/974985/%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%B6-%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87",
+   "image": null,
+   "published": "2026-10-16T22:32:45.000Z",
+   "added": "2026-10-16T23:30:16.181Z",
+   "origTitle": "বাঁশ কাটা নিয়ে সংঘর্ষ, এলাকা থেকে গড়ালো হাসপাতালে",
+   "en": {
+    "title": "Bamboo dispute escalates into hospital clash in Sunamganj",
+    "summary": "A fight over bamboo cutting at a house in Sakitpur village, Dirai upazila, Sunamganj, spilled into the local hospital's emergency ward on Friday afternoon. The conflict between two groups caused damage to medical equipment and spread panic among patients and staff. Police are investigating the incident."
+   },
+   "bn": {
+    "title": "বাঁশ নিয়ে ঝগড়া হাসপাতালে গড়িয়ে পড়েছে সুনামগঞ্জে",
+    "summary": "শুক্রবার বিকালে সুনামগঞ্জের দিরাই উপজেলার সাকিতপুর গ্রামে বাঁশ কাটা নিয়ে দুই পক্ষের সংঘর্ষ শুরু হয়। এই ঝগড়া শেষ পর্যন্ত হাসপাতালের জরুরি বিভাগে চলে যায়। সেখানে চিকিৎসা সরঞ্জাম ভাঙা হয় এবং রোগী ও কর্মীরা আতঙ্কিত হয়।"
+   }
+  },
   {
    "id": "5voh96",
    "section": "news",
@@ -2815,160 +2969,6 @@
    "bn": {
     "title": "স্কুলে প্রধান শিক্ষক ও সহকারী শিক্ষকের মারামারি ভাইরাল",
     "summary": "ময়মনসিংহের ফুলবাড়িয়ায় একটি সরকারি প্রাথমিক বিদ্যালয়ে প্রধান শিক্ষক এবং সহকারী শিক্ষকের মধ্যে ধস্তাধস্তি হয়েছে। ঘটনাটি রাঙামাটিয়া ইউনিয়নের আকতা সরকারি প্রাথমিক বিদ্যালয়ে ঘটে এবং এর ভিডিও মঙ্গলবার (১৩ অক্টোবর) রাতে সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ে। এরপর থেকে এই ঘটনা নিয়ে অনলাইনে ব্যাপক আলোচনা শুরু হয়েছে।"
-   }
-  },
-  {
-   "id": "9ysuyx",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/13/London-cat-steals-dog-food-Ring-camera/1301791914101/",
-   "image": "https://cdnph.upi.com/ph/st/th/1301791914101/2026/i/17919142714138/v1.5/London-cat-sneaks-into-neighbors-house-eats-dogs-dinner.jpg",
-   "published": "2026-10-13T17:58:22.000Z",
-   "added": "2026-10-13T21:11:38.057Z",
-   "origTitle": "Watch: London cat sneaks into neighbor's house, eats dog's dinner",
-   "en": {
-    "title": "Sneaky London cat raids neighbor's house for free dog dinner",
-    "summary": "A mischievous cat in London was caught on home security camera breaking into a neighbor's house and helping itself to the resident dog's dinner. The footage shows the uninvited feline feast in action. Nothing like a free meal next door."
-   },
-   "bn": {
-    "title": "লন্ডনে বেনামি বিড়াল প্রতিবেশীর বাড়িতে ঢুকে কুকুরের খাবার খেয়েছে",
-    "summary": "লন্ডনে একটি চতুর বিড়াল প্রতিবেশীর বাড়িতে ঢুকে সেখানকার কুকুরের খাবার খেয়ে গেছে। নিরাপত্তা ক্যামেরায় এই মজার দৃশ্য ধরা পড়েছে। বিড়ালের কাছে বিনামূল্যের খাবার পাওয়া বড় লাভ।"
-   }
-  },
-  {
-   "id": "kbu3mz",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/india/9jl4bkditr",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-13/2lfjn11e/00-2.jpg",
-   "published": "2026-10-13T20:13:08.000Z",
-   "added": "2026-10-13T21:11:38.057Z",
-   "origTitle": "মমতার ওপর ছুরি নিয়ে হামলার চেষ্টার অভিযোগ, পুলিশ বলছে ‘বাগবিতণ্ডা’",
-   "en": {
-    "title": "Woman arrested after alleged knife attack on Bengal opposition leader",
-    "summary": "A woman was arrested in Kolkata on Tuesday evening after allegedly attempting to attack Mamata Banerjee with a knife as she left her home. Police described the incident as a dispute rather than a serious assault. The woman, identified as a civic volunteer, claimed to be Banerjee's niece."
-   },
-   "bn": {
-    "title": "মমতা বন্দ্যোপাধ্যায়ের বিরুদ্ধে ছুরি হামলার অভিযোগ, এক নারী গ্রেপ্তার",
-    "summary": "মঙ্গলবার সন্ধ্যায় কলকাতায় মমতা বন্দ্যোপাধ্যায়ের উপর ছুরি নিয়ে হামলার চেষ্টার ঘটনায় এক নারীকে গ্রেপ্তার করা হয়েছে। পুলিশ ঘটনাটিকে 'বাগবিতণ্ডা' বা ঝগড়া-ঝামেলা হিসেবে বর্ণনা করেছে। গ্রেপ্তারকৃত নারী একজন সিভিক ভলান্টিয়ার এবং নিজেকে মমতার ভাগনি বলে দাবি করেছেন।"
-   }
-  },
-  {
-   "id": "6h9vk7",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/bangladesh-pledges-faster-project-delivery-secure-10b-wb-loans-1572111",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/wb_bd.jpg",
-   "published": "2026-10-13T19:15:00.000Z",
-   "added": "2026-10-13T21:11:28.831Z",
-   "origTitle": "Bangladesh pledges faster project delivery to secure $10b in WB loans",
-   "en": {
-    "title": "Bangladesh speeds up projects to lock in $10b World Bank loans",
-    "summary": "Bangladesh pledged to cut project approval time from 18 months to eight, aiming for five months, to secure $10 billion in additional World Bank loans over three years. Finance Minister Amir Khosru Mahmud Chowdhury said implementation timelines will drop from seven years to five. The World Bank agreed to finalize its partnership framework by June 2027."
-   },
-   "bn": {
-    "title": "বাংলাদেশ প্রকল্প দ্রুততর করছে ১০ বিলিয়ন ডলার লোন পেতে",
-    "summary": "বাংলাদেশ বিশ্বব্যাংকের কাছ থেকে তিন বছরে ১০ বিলিয়ন ডলার অতিরিক্ত ঋণ নিতে প্রকল্প অনুমোদন সময় ১৮ মাস থেকে ৮ মাসে কমাবে বলে প্রতিশ্রুতি দিয়েছে। অর্থমন্ত্রী বলেছেন বাস্তবায়ন সময় সাত বছর থেকে পাঁচ বছরে কমবে। বিশ্বব্যাংক জুন ২০২৭ সালের মধ্যে অংশীদারিত্ব কাঠামো চূড়ান্ত করতে সম্মত হয়েছে।"
-   }
-  },
-  {
-   "id": "vegvk8",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791924374.jpg?resize=1920%2C1080&quality=80",
-   "published": "2026-10-13T20:46:22.000Z",
-   "added": "2026-10-13T21:11:28.831Z",
-   "origTitle": "Tupac Shakur killer sentenced to 40 years in prison",
-   "en": {
-    "title": "Tupac Shakur's killer sentenced to 40 years in prison",
-    "summary": "Duane 'Keffe D' Davis was sentenced on Tuesday to 40 years to life in prison for orchestrating the 1996 murder of rap icon Tupac Shakur. The sentencing closes a decades-old case in hip-hop history."
-   },
-   "bn": {
-    "title": "টুপাক শাকুরের খুনি ৪০ বছরের জেল খেল",
-    "summary": "ডুয়েন 'কেফে ডি' ডেভিস মঙ্গলবার ৪০ বছর থেকে আজীবনের সাজা পেয়েছেন র‍্যাপ তারকা টুপাক শাকুরের ১৯৯৬ সালের খুন সংগঠিত করার জন্য। এটি হিপ-হপ ইতিহাসের একটি দশক পুরানো কেস বন্ধ করে।"
-   }
-  },
-  {
-   "id": "slm3a9",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
-   "published": "2026-10-13T20:59:11.000Z",
-   "added": "2026-10-13T21:11:28.831Z",
-   "origTitle": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-   "en": {
-    "title": "FBI arrests OpenAI employee over hidden office recording device",
-    "summary": "An OpenAI employee, Saudi national Abdulrahman Alfozan, was arrested on October 9 after the company discovered a hidden recording device in an executive conference room. The device had advanced encryption and audio monitoring capabilities. Alfozan started at OpenAI in July 2025 and worked on the product team. OpenAI said there's no indication customer data or code was stolen."
-   },
-   "bn": {
-    "title": "ওপেনএআই কর্মচারী লুকানো রেকর্ডিং ডিভাইসের জন্য গ্রেফতার",
-    "summary": "সৌদি নাগরিক আবদুল রহমান আলফোজান ওপেনএআইর কনফারেন্স রুমে লুকানো রেকর্ডিং ডিভাইস রেখে ১০ অক্টোবর গ্রেফতার হয়েছেন। ডিভাইসটি উন্নত এনক্রিপশন এবং অডিও মনিটরিং ক্ষমতা সম্পন্ন ছিল। আলফোজান জুলাই ২০২৫ থেকে ওপেনএআইতে কাজ করছিলেন। কোম্পানি বলেছে কাস্টমার ডেটা চুরির কোনো প্রমাণ নেই।"
-   }
-  },
-  {
-   "id": "1sns8jw",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-13T20:46:06.000Z",
-   "added": "2026-10-13T21:11:28.831Z",
-   "origTitle": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-   "en": {
-    "title": "Pope Leo XIV undergoes surgery after lung cancer diagnosis",
-    "summary": "Pope Leo XIV, 71, underwent a 90-minute surgery at Rome's Gemelli Hospital on Tuesday to remove the lower lobe of his right lung after being diagnosed with lung adenocarcinoma. The lump was discovered during routine checks and the Pope announced the operation himself on Sunday. His schedule is cleared until October 20 for recovery, and further tests are underway to check if cancer spread."
-   },
-   "bn": {
-    "title": "পোপ লিও চতুর্দশ ফুসফুসের ক্যান্সার অপারেশনে সফল",
-    "summary": "৭১ বছর বয়সী পোপ লিও চতুর্দশ মঙ্গলবার রোমের জেমেল্লি হাসপাতালে ৯০ মিনিটের অপারেশন করিয়েছেন ফুসফুসের নিচের অংশ অপসারণের জন্য। লাম্প নিয়মিত চেকের সময় পাওয়া গিয়েছিল এবং পোপ নিজে রবিবার এই সংবাদ ঘোষণা করেছিলেন। আরও পরীক্ষা চলছে ক্যান্সার ছড়িয়েছে কিনা তা জানতে।"
-   }
-  },
-  {
-   "id": "142adzr",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.co.uk/bengali/live/ck1exg00z4e1t?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7663/live/e80f4000-c6e5-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-13T21:11:28.831Z",
-   "added": "2026-10-13T21:11:28.831Z",
-   "origTitle": "অধ্যাপক ইউনূসকে হয়রানির প্রতিবাদে সাবেক ১২ জন উপদেষ্টার বিবৃতি",
-   "en": {
-    "title": "Twelve ex-advisors protest harassment of Professor Yunus",
-    "summary": "Twelve former advisors of Bangladesh's interim government have issued a statement protesting the harassment of Chief Advisor Muhammad Yunus at an airport in New York. The Foreign Ministry said it contacted the US about taking legal action over the incident. The advisors expressed support for Yunus's work during the interim period."
-   },
-   "bn": {
-    "title": "অধ্যাপক ইউনূসের হয়রানির বিরুদ্ধে প্রতিবাদ জানিয়েছেন ১২ জন সাবেক উপদেষ্টা",
-    "summary": "বাংলাদেশের অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা মুহাম্মদ ইউনূসকে নিউইয়র্কের বিমানবন্দরে হেনস্তার ঘটনায় ১২ জন সাবেক উপদেষ্টা প্রতিবাদ জানিয়েছেন। পররাষ্ট্র মন্ত্রণালয় যুক্তরাষ্ট্রের সঙ্গে যোগাযোগ করে আইনি পদক্ষেপ নিতে বলেছে। সাবেক উপদেষ্টারা অন্তর্বর্তী সময়ে ইউনূসের কাজের প্রশংসা করেছেন।"
    }
   }
  ]
