@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-17T09:14:19.199Z",
+ "updatedAt": "2026-10-17T13:39:44.053Z",
  "items": [
+  {
+   "id": "nmsz5n",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Financial Express",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVc4U2o4Yi0wYXd0dkhOV0NNLUxyTkxqaldmcWlUY0lFWDNxRlJkSDVyd0M1ZHdFZTkyV2g2UUlfRnl2Mm05QVhEZVk4b3lpa2NBY1BsQUtmZjg5NlVlcHFJNGdfLWc0aGRVTVY0bXRNTy1yTGVGeHlrNDJ6ajRmemhTS1pBcl9XSTk0ekE0VUpLWnlBNmxDOUdrMHhtVTdJVlhxVmJ1bG4ySmZwV3V2Nm5DV3oyRlFleHJUVUNsa0psaFZVMlctN3NkbHA4d25uTjIyZ3FBc0xKWmvSAecBQVVfeXFMTU9Qa2pGSjNIN1ZYNno2R1otN0otZlE3dF9uWllXemliVFFPYXZGVDFZbzZtU1dLODBRZndoakZRckpxcGJyUW94a0pjNXdCNjBUeDRnZVZZbm1XN1JzNHhmSVJ4bGJwTHF1U3dJWXFHaG5US2F1YldkZEU4VGZXZ2JJbWxKTVZaSVNJVk1kbkloVVVyOVVHek12V1JsU1ZqZTlfWXk1WDVZUmpZcUJEZkhaZEhaMzZsZWM4bm9ySzZoRnJVY2l4eXR2bTNyY2JVeHlXaVZWcHRKWjJxVDJlMEhJckJDRWxB?oc=5",
+   "image": null,
+   "published": "2026-10-16T18:21:01.000Z",
+   "added": "2026-10-17T13:39:44.052Z",
+   "origTitle": "DMP beefs up roundtheclock surveillance at 257 puja mandaps across the capital",
+   "en": {
+    "title": "Dhaka police step up security at 257 puja mandaps this season",
+    "summary": "The Dhaka Metropolitan Police have deployed round-the-clock surveillance across 257 puja mandaps throughout the capital. This heightened security measures aims to ensure safety during the puja celebrations. All mandaps will have continuous monitoring in place."
+   },
+   "bn": {
+    "title": "ঢাকা জুড়ে ২৫৭ পূজা মণ্ডপে পুলিশের ২৪ ঘণ্টা নজরদারি",
+    "summary": "ঢাকা মেট্রোপলিটন পুলিশ রাজধানী জুড়ে ২৫৭ পূজা মণ্ডপে চব্বিশ ঘণ্টা নজরদারি নিয়োগ করেছে। এই নিরাপত্তা ব্যবস্থা পূজা উৎসবের সময় সবার নিরাপত্তা নিশ্চিত করতে নেওয়া হয়েছে। সব মণ্ডপে ক্রমাগত মনিটরিং থাকবে।"
+   }
+  },
+  {
+   "id": "m3d650",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1558865.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/421000/421075.jpg",
+   "published": "2026-10-17T13:29:33.000Z",
+   "added": "2026-10-17T13:39:44.052Z",
+   "origTitle": "Gill to feature for Punjab in second round of Ranji Trophy",
+   "en": {
+    "title": "Gill gets red-ball practice before New Zealand ODI tour",
+    "summary": "Shubman Gill is set to play for Punjab in the second round of the Ranji Trophy. He wants match practice in Test cricket before heading to New Zealand for the ODI series in November. Red-ball cricket will help him sharpen up before the tour."
+   },
+   "bn": {
+    "title": "নিউজিল্যান্ড ট্যুরের আগে গিল রেড-বল প্র্যাকটিস করবেন",
+    "summary": "শুভমন গিল রঞ্জি ট্রফির দ্বিতীয় রাউন্ডে পাঞ্জাবের হয়ে খেলবেন। নভেম্বরে নিউজিল্যান্ড ODI সিরিজের আগে তিনি টেস্ট ক্রিকেটে ম্যাচ প্র্যাকটিস চান। এই ট্যুরের জন্য লাল বল ক্রিকেট তার ফর্ম ঠিক করতে সাহায্য করবে।"
+   }
+  },
+  {
+   "id": "6p0huz",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.bigganchinta.com/space/67yk7dqfbd",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-17/654sf3as/hypernova20261013213243.webp",
+   "published": "2026-10-17T13:30:00.000Z",
+   "added": "2026-10-17T13:39:35.915Z",
+   "origTitle": "হাইপারনোভা কি আসলেই আছে, নাকি পুরোটাই ফাঁকি",
+   "en": {
+    "title": "Is hypernova real, or just cosmic science fiction?",
+    "summary": "Hypernova is supposedly a massive stellar explosion far brighter and more powerful than supernovae. Scientists thought only stars over 30 times the sun's mass could create one. But recent research suggests hypernovae might not actually exist—all the evidence could fit regular supernova data. The cosmic mystery isn't yet solved."
+   },
+   "bn": {
+    "title": "হাইপারনোভা আসলে আছে, নাকি কল্পনা?",
+    "summary": "হাইপারনোভা একটি অতিকল্পিত নক্ষত্র বিস্ফোরণ যা সাধারণ সুপারনোভার চেয়ে দশগুণ বেশি উজ্জ্বল। বিজ্ঞানীরা ভাবেন সূর্যের চেয়ে ৩০ গুণ বেশি ভরের নক্ষত্রই শুধু এটি সৃষ্টি করতে পারে। কিন্তু সম্প্রতি গবেষণা বলছে হাইপারনোভা আসলে নাও থাকতে পারে। সব তথ্য সাধারণ সুপারনোভা দিয়েই ব্যাখ্যা করা যায়।"
+   }
+  },
+  {
+   "id": "atcudw",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/evl2fdzosr",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-17/gp780rne/shama-obaid.avif",
+   "published": "2026-10-17T13:14:50.000Z",
+   "added": "2026-10-17T13:39:35.915Z",
+   "origTitle": "Death sentence for two Bangladeshis in Saudi Arabia a lesson for us: Shama Obaed",
+   "en": {
+    "title": "Death of two Bangladeshis in Saudi Arabia a lesson, says minister",
+    "summary": "State Minister Shama Obaed Islam called the execution of two Bangladeshis a major lesson for citizens abroad. She said Saudi Arabia had not officially informed Bangladesh, but their mission reported the two were involved in adultery in a Mecca mosque. She advised Bangladeshis to follow host country laws. Bangladesh is seeking details about the bodies."
+   },
+   "bn": {
+    "title": "দুই বাংলাদেশির মৃত্যু একটি শিক্ষা, বলেন পররাষ্ট্র প্রতিমন্ত্রী",
+    "summary": "রাষ্ট্রমন্ত্রী শামা ওবায়েদ ইসলাম দুই বাংলাদেশির মৃত্যুদণ্ডকে বিদেশে কর্মরত নাগরিকদের জন্য একটি প্রধান শিক্ষা বলেছেন। তিনি বলেন সৌদি আরব সরকারিভাবে জানায়নি, তবে তাদের মিশন জানিয়েছে দুজন মক্কার একটি মসজিদে ব্যভিচারে জড়িত ছিলেন। তিনি বাংলাদেশিদের মেজবান দেশের আইন মেনে চলার পরামর্শ দিয়েছেন।"
+   }
+  },
+  {
+   "id": "1dsfplt",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T094210Z_503381275_RC254OAOMY72_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-ATTACK-1792230965.jpg?resize=1920%2C1440",
+   "published": "2026-10-17T12:48:03.000Z",
+   "added": "2026-10-17T13:39:35.915Z",
+   "origTitle": "Child, four women among Palestinians injured in West Bank pogroms",
+   "en": {
+    "title": "Israeli settlers and forces injure Palestinians across West Bank",
+    "summary": "Israeli settlers attacked Palestinians in multiple West Bank villages on Saturday, injuring six people including four women and a child in Ma'in. Israeli forces opened fire on olive farmers in several areas, forcing them off their land. Settlers destroyed olive trees, killed sheep on farms, and attacked international activists. Homes were damaged by tear gas that sparked fires."
+   },
+   "bn": {
+    "title": "পশ্চিম তীরে ইসরায়েলি সেটলার ও বাহিনীর আক্রমণে ফিলিস্তিনি আহত",
+    "summary": "শনিবার ইসরায়েলি সেটলাররা পশ্চিম তীরের একাধিক গ্রাম আক্রমণ করে মহিলা ও শিশুসহ ছয় জন ফিলিস্তিনিকে আহত করেছে। ইসরায়েলি বাহিনী জলপাই সংগ্রহকারীদের উপর গুলি চালিয়েছে এবং জমি থেকে তাড়িয়েছে। সেটলাররা জলপাই গাছ নষ্ট করেছে এবং সম্পত্তিতে আগুন লেগেছে।"
+   }
+  },
+  {
+   "id": "yaw2el",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cj20vwy1pqyxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cbf5/live/43193810-ca1b-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-17T13:00:44.000Z",
+   "added": "2026-10-17T13:39:35.915Z",
+   "origTitle": "মক্কায় মৃত্যুদণ্ড দেওয়া দুই বাংলাদেশির বিষয়ে সৌদি আরব কি ভিয়েনা প্রটোকল লঙ্ঘন করেছে?",
+   "en": {
+    "title": "Did Saudi Arabia break Vienna Convention rules in executions?",
+    "summary": "Two Bangladeshi nationals were executed in Mecca on charges of immoral conduct in a mosque. Bangladesh says Saudi authorities never informed the embassy or families before carrying out the sentence. Experts say this may violate the Vienna Convention, which requires notifying a foreign national's embassy when they are detained. Bangladesh has demanded a full explanation from Saudi authorities."
+   },
+   "bn": {
+    "title": "দুই বাংলাদেশির মৃত্যুদণ্ডে ভিয়েনা প্রটোকল লঙ্ঘন হয়েছে?",
+    "summary": "মক্কায় একটি মসজিদে অনৈতিক কাজের অভিযোগে দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর হয়েছে। সৌদি কর্তৃপক্ষ শাস্তি কার্যকরের আগে বাংলাদেশ দূতাবাস বা পরিবারকে কিছুই জানায়নি। বিশেষজ্ঞরা বলছেন এটি ভিয়েনা প্রটোকল লঙ্ঘন করেছে, যা বিদেশি নাগরিক গ্রেপ্তারের খবর দূতাবাসকে দিতে বাধ্য করে। বাংলাদেশ সৌদি আরবের কাছে সম্পূর্ণ ব্যাখ্যা চেয়েছে।"
+   }
+  },
+  {
+   "id": "1limgkf",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/energy/dshe-directs-educational-institutions-measure-rooftops-solar-panel-installation",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/copy_of_solar_panel_6_1.jpg",
+   "published": "2026-10-17T13:15:00.000Z",
+   "added": "2026-10-17T13:39:35.915Z",
+   "origTitle": "DSHE directs educational institutions to measure rooftops for solar panel installation",
+   "en": {
+    "title": "Schools must measure rooftops for solar panels by Monday",
+    "summary": "The education ministry is collecting rooftop data from all schools and colleges to install solar panels before summer. The government has set a target of 3,000 to 4,000 megawatts from rooftop solar. Institutions must submit details like usable area and electrical load within two working days. This is part of a nationwide push to boost renewable energy."
+   },
+   "bn": {
+    "title": "স্কুল-কলেজের ছাদ মাপুন, সোলার প্যানেল লাগানোর জন্য",
+    "summary": "শিক্ষা মন্ত্রণালয় গ্রীষ্মের আগে সব শিক্ষা প্রতিষ্ঠানে সোলার প্যানেল লাগাতে ছাদের তথ্য সংগ্রহ করছে। সরকার ছাদে সোলার থেকে ৩ হাজার থেকে ৪ হাজার মেগাওয়াট বিদ্যুৎ তৈরির লক্ষ্য রেখেছে। প্রতিষ্ঠানগুলোকে দুই কর্মদিনের মধ্যে ছাদের ব্যবহারযোগ্য এলাকা ও বিদ্যুৎ লোডের তথ্য জমা দিতে হবে। এটি নবায়নযোগ্য শক্তি বাড়ানোর একটি জাতীয় উদ্যোগ।"
+   }
+  },
   {
    "id": "5m29du",
    "section": "news",
@@ -2749,248 +2903,6 @@
    "bn": {
     "title": "স্পেসএক্সের স্টারলিংক সীমিত করায় ইউক্রেইনের অভিযোগ",
     "summary": "ইউক্রেইন বলছে ইলন মাস্কের স্পেসএক্স ১৪ সেপ্টেম্বর স্টারলিংকের মিলিটারি সেবা সীমিত করেছে। এতে ড্রোন অপারেশন এবং এয়ার ডিফেন্স বাধাগ্রস্ত হয়েছে। ট্রাম্প রাশিয়ার উপর থেকে সংবাদ তুলেছেন এবং ইউক্রেইনের নেতা বদলানোর কথা বলেছেন। এদিকে রাশিয়া ইউক্রেইনের শহরগুলোতে ভারী মিসাইল ও ড্রোন আক্রমণ চালিয়েছে।"
-   }
-  },
-  {
-   "id": "1ie82xj",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/politics/jamaat-chief-calls-joint-efforts-protect-hindu-citizens-rights-1572906",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/jamaat_hindu.jpg",
-   "published": "2026-10-14T13:05:00.000Z",
-   "added": "2026-10-14T13:38:45.270Z",
-   "origTitle": "Jamaat chief calls for joint efforts to protect Hindu citizens' rights",
-   "en": {
-    "title": "Jamaat Leader Calls for Joint Effort to Protect Hindu Rights",
-    "summary": "Jamaat-e-Islami Ameer Shafiqur Rahman met Hindu community leaders and called on government and opposition to work together protecting Hindu citizens' rights before Durga Puja. He stressed all religious and ethnic communities are equal citizens. Hindu leaders praised Jamaat activists for protecting puja mandaps and temples since August 5, 2024, and raised concerns about discrimination."
-   },
-   "bn": {
-    "title": "জামাত নেতা হিন্দু অধিকার রক্ষায় সমন্বিত প্রচেষ্টার আহ্বান",
-    "summary": "জামাত-ই-ইসলামের আমির শফিকুর রহমান হিন্দু সম্প্রদায়ের নেতাদের সাথে মিলিত হয়ে সরকার এবং বিরোধী পক্ষকে দুর্গা পূজার আগে হিন্দু নাগরিকদের অধিকার রক্ষায় একসাথে কাজ করার আহ্বান জানান। তিনি জোর দেন যে সব ধর্ম ও সম্প্রদায় সমান নাগরিক। হিন্দু নেতারা ৫ আগস্ট ২০২৪ থেকে পূজামণ্ডপ ও মন্দির রক্ষায় জামাতের ভূমিকার প্রশংসা করেন এবং বৈষম্যের অভিযোগ তোলেন।"
-   }
-  },
-  {
-   "id": "gvx8uo",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/videos/a-bangkok-cabbie-finds-balance-in-a-thrilling-street-sport",
-   "image": "https://images.aeonmedia.co/images/bb5477d4-4e87-4320-836d-c897214de2d5/chu-prayad-landscape-2-v2.jpg?top=39&left=324&cropWidth=1904&cropHeight=1071&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-14T10:01:00.000Z",
-   "added": "2026-10-14T13:38:45.270Z",
-   "origTitle": "Chu Prayad",
-   "en": {
-    "title": "Documentary Follows Bangkok Taxi Driver's Sepak Takraw Life",
-    "summary": "Sepak takraw, a Southeast Asian sport mixing football and volleyball, demands acrobatic kicks and teamwork. A short film called 'Chu Prayad' follows a young Bangkok taxi driver juggling stressful work with competitive sepak takraw matches among friends. Through the game, he reclaims play, exercise, and camaraderie often lost to adult responsibilities."
-   },
-   "bn": {
-    "title": "সেপাক টাকরাওয়ে বাংকক ট্যাক্সি চালক, ডকুমেন্টারি তৈরি হয়েছে",
-    "summary": "সেপাক টাকরাও দক্ষিণ-পূর্ব এশিয়ার একটি খেলা যা ফুটবল এবং ভলিবলের মিশ্রণ, যেখানে কিক এবং টিমওয়ার্ক লাগে। 'চু প্রায়াদ' নামের একটি ছোট ফিল্ম ব্যাংকক শহরে একজন ট্যাক্সি চালকের গল্প বলে যিনি কঠিন কাজের সাথে বন্ধুদের সাথে সেপাক টাকরাও খেলা জুগিয়ে চলেছেন। এই খেলায় তিনি খেলা, ব্যায়াম এবং বন্ধুত্ব ফিরে পান যা বয়স্ক দায়িত্বে হারিয়ে যায়।"
-   }
-  },
-  {
-   "id": "dxg6pm",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/business/industry/zkcrib989h",
-   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-14%2Fas5xdxdm%2FUntitled_1.jpg?rect=0%2C73%2C703%2C369&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-   "published": "2026-10-14T13:20:13.000Z",
-   "added": "2026-10-14T13:38:45.270Z",
-   "origTitle": "২০০০ ফ্ল্যাট গড়েছে কমপ্রিহেনসিভ",
-   "en": {
-    "title": "Comprehensive Holdings Built Over 2,000 Apartments",
-    "summary": "Comprehensive Holdings, an apartment developer in Dhaka, has completed 117 residential projects with over 2,000 flats since 2005. They focus on prime locations across areas like Dhanmondi, Gulshan, and Banani. Currently building 40 projects with over 1,000 more apartments, including an eco-friendly project called Comprehensive Aminabad Housing in Siddheshwari."
-   },
-   "bn": {
-    "title": "কমপ্রিহেনসিভ ২০০০ এর বেশি ফ্ল্যাট তৈরি করেছে",
-    "summary": "ঢাকার বাড়ি নির্মাতা কমপ্রিহেনসিভ হোল্ডিংস ২০০৫ সাল থেকে ১১৭টি রেসিডেনশিয়াল প্রজেক্ট তৈরি করেছে যেখানে ২০০০ এর বেশি ফ্ল্যাট রয়েছে। ধানমন্ডি, গুলশান, বনানী সহ ঢাকার প্রধান এলাকায় তাদের প্রজেক্ট আছে। বর্তমানে তারা ৪০টি প্রজেক্টে কাজ করছে যেখানে ১০০০ এর বেশি নতুন অ্যাপার্টমেন্ট হবে, যার মধ্যে সিদ্ধেশ্বরীর পরিবেশবান্ধব 'কমপ্রিহেনসিভ আমিনাবাদ হাউজিং' অন্যতম।"
-   }
-  },
-  {
-   "id": "35x92f",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/crime-and-law/0cy6vpojpi",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-14/r4iangeu/sjamin.avif",
-   "published": "2026-10-14T12:52:05.000Z",
-   "added": "2026-10-14T13:38:45.270Z",
-   "origTitle": "Man beaten to death in Satkhira; mob takes him from hospital and assaults him again",
-   "en": {
-    "title": "Man Killed in Satkhira Over Blasphemy Allegations",
-    "summary": "Wahiduzzaman Shamim, 38, was beaten by a mob in Satkhira's Debhata on suspicion of blasphemy after audio clips spread on social media. Police rescued him and took him to hospital, but around 200-250 people entered the hospital at 8:40pm, removed him, and beat him again. He died on the way to another hospital. His family said he had been mentally unwell."
-   },
-   "bn": {
-    "title": "ধর্মনিন্দার অভিযোগে সাতক্ষীরায় ব্যক্তি নিহত",
-    "summary": "সাতক্ষীরার দেবহাটায় সোশ্যাল মিডিয়ায় ছড়িয়ে পড়া অডিও ক্লিপের কারণে ৩৮ বছর বয়সী ওয়াহিদুজ্জামান শামিম ভিড়ের মার খেয়েছেন। পুলিশ তাকে উদ্ধার করে হাসপাতালে ভর্তি করে, কিন্তু রাত ৮:৪০ এ ২০০-২৫০ জন মানুষ হাসপাতালে ঢুকে তাকে বের করে আবার মারপিট করে। তিনি অন্য হাসপাতালে যাওয়ার সময় মৃত্যু হন। তার পরিবার জানায় তিনি মানসিকভাবে অসুস্থ ছিলেন।"
-   }
-  },
-  {
-   "id": "uegsxa",
-   "section": "bhabna",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/14/piksis-in-peril-but-you-can-help-guest-post/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/10/PIKSI-Boston-fellows-2015-edited.jpg",
-   "published": "2026-10-14T09:45:00.000Z",
-   "added": "2026-10-14T13:38:45.270Z",
-   "origTitle": "PIKSI’s in Peril but You Can Help (guest post)",
-   "en": {
-    "title": "Philosophy Program Faces Funding Cuts, Needs Your Help",
-    "summary": "PIKSI-Boston, a summer program run by MIT and Harvard since 2015, helps young people from underrepresented backgrounds study philosophy and prepare for grad school. It's supported 220 fellows so far, but funding from MIT and Harvard got cut. Organizers plan to shrink the program and raise money for 2027."
-   },
-   "bn": {
-    "title": "দর্শন প্রোগ্রাম তহবিল সংকটে, আপনার সাহায্য প্রয়োজন",
-    "summary": "এমআইটি এবং হার্ভার্ডের পিকেএসআই-বস্টন প্রোগ্রাম ২০১৫ থেকে বিভিন্ন পটভূমির তরুণদের দর্শন পড়ার সুযোগ দিচ্ছে এবং গ্র্যাজুয়েট স্কুলের জন্য প্রস্তুত করছে। এ পর্যন্ত ২২০ জন ফেলো সাহায্য পেয়েছে কিন্তু এমআইটি এবং হার্ভার্ডের ফান্ডিং কেটে দেওয়া হয়েছে। আয়োজকরা প্রোগ্রাম ছোট করে ২০২৭-এর জন্য অর্থ সংগ্রহের পরিকল্পনা করছেন।"
-   }
-  },
-  {
-   "id": "k41rpt",
-   "section": "bhabna",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/videos/the-all-female-team-defusing-isiss-deadly-landmine-legacy",
-   "image": "https://images.aeonmedia.co/images/b24e6e80-3fbe-4457-b9ea-798df8a22ff8/into-the-fire-landscape-1.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-14T10:01:00.000Z",
-   "added": "2026-10-14T13:38:17.746Z",
-   "origTitle": "Into the fire",
-   "en": {
-    "title": "Documentary 'Into the Fire' follows Yazidi woman clearing ISIS landmines",
-    "summary": "A new documentary follows Hana Khider, a Yazidi woman leading an all-female de-mining team in Iraq. She searches for and disarms explosives left by ISIS, some hidden as toys. The film, directed by Orlando von Einsiedel, balances her perilous work with her life as a wife and mother rebuilding after genocide."
-   },
-   "bn": {
-    "title": "আইএসআইএস-এর মাইন দূর করছেন ইয়াজিদি নারী, ডকুমেন্টারিতে দেখুন",
-    "summary": "নতুন ডকুমেন্টারি 'ইনটু দ্য ফায়ার' ইরাকে একটি নারী দল পরিচালনা করা ইয়াজিদি নারী হানা খিদেরকে অনুসরণ করে যিনি আইএসআইএসের রেখে যাওয়া বিস্ফোরক খুঁজে বের করে নিরস্ত্র করেন। তার কাজ অত্যন্ত বিপজ্জনক এবং কিছু বোমা খেলনার মতো লুকানো থাকে। ডকুমেন্টারিটি তার ঝুঁকিপূর্ণ কাজ এবং স্ত্রী ও মায়ের জীবন ভারসাম্য দেখায়।"
-   }
-  },
-  {
-   "id": "16exxy6",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
-   "published": "2026-10-14T11:00:00.000Z",
-   "added": "2026-10-14T13:38:17.746Z",
-   "origTitle": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-   "en": {
-    "title": "Indian startup Scimplify raises $25M to challenge China's materials dominance",
-    "summary": "Bengaluru-based Scimplify secured $25 million in funding to scale AI-powered production of specialty chemicals and critical materials. The round, led by Hitachi Ventures, values the startup at $250 million. Scimplify can deliver finished materials in two months versus the typical 12-18 months, targeting semiconductors and defense sectors."
-   },
-   "bn": {
-    "title": "চীনের উপকরণ নিয়ন্ত্রণ চ্যালেঞ্জ করতে ভারতীয় স্টার্টআপ ২৫ মিলিয়ন ডলার সংগ্রহ করেছে",
-    "summary": "বেঙ্গালুরু-ভিত্তিক স্কিমপ্লিফাই বিশেষ রাসায়নিক এবং গুরুত্বপূর্ণ উপকরণ উৎপাদনে এআই-চালিত পদ্ধতি সম্প্রসারণে ২৫ মিলিয়ন ডলার সংগ্রহ করেছে। হিতাচি ভেঞ্চারস নেতৃত্বে এই তহবিল স্টার্টআপকে ২৫০ মিলিয়ন ডলার মূল্যায়ন দেয়। স্কিমপ্লিফাই সাধারণ ১২-১৮ মাসের পরিবর্তে দুই মাসে উপকরণ সরবরাহ করতে পারে।"
-   }
-  },
-  {
-   "id": "8d15f8",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-   "image": "https://i.guim.co.uk/img/media/28120a16f4ee8133901215c24889ae3476e9eeda/663_0_6627_5304/master/6627.jpg?width=140&quality=85&auto=format&fit=max&s=0ffc2facca7ee7016cb29b33c9713097",
-   "published": "2026-10-14T13:16:30.000Z",
-   "added": "2026-10-14T13:38:17.746Z",
-   "origTitle": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-   "en": {
-    "title": "Guinea-Bissau denies approving controversial newborn vaccine trial",
-    "summary": "Guinea-Bissau's health minister said the country did not authorize a Danish-led hepatitis B study on newborns backed by RFK Jr. A Danish ethics committee was told Guinea-Bissau had approved it, but the health ministry says officials were never consulted. The trial would track health outcomes rather than vaccine safety."
-   },
-   "bn": {
-    "title": "গিনি-বিসাউ শিশুদের ওপর বিতর্কিত ভ্যাকসিন পরীক্ষা অনুমোদন করেনি",
-    "summary": "গিনি-বিসাউর স্বাস্থ্য মন্ত্রী বলেছেন দেশটি ডেনমার্ক-নেতৃত্বাধীন নবজাতকদের ওপর হেপাটাইটিস বি গবেষণা অনুমোদন করেনি, যা আরএফকে জুনিয়র সমর্থিত। ডেনমার্ক নৈতিক কমিটিকে বলা হয়েছিল গিনি-বিসাউ অনুমোদন দিয়েছে, কিন্তু স্বাস্থ্য মন্ত্রণালয় জানায় কর্মচারীদের কখনও পরামর্শ করা হয়নি। পরীক্ষাটি ভ্যাকসিন নিরাপত্তার চেয়ে স্বাস্থ্য ফলাফল ট্র্যাক করবে।"
-   }
-  },
-  {
-   "id": "8c7om5",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-14T13:11:17.000Z",
-   "added": "2026-10-14T13:38:17.746Z",
-   "origTitle": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
-   "en": {
-    "title": "SpaceX speed limits on Starlink disrupting Ukraine's drone operations",
-    "summary": "Elon Musk's SpaceX imposed a 100mph speed restriction on Starlink terminals overnight without warning, says Zelensky's adviser Serhiy Beskrestnov. The limits are disrupting Ukraine's ability to guide drones against Russian targets. The move comes as Russian missiles killed at least three in Kyiv and left 600,000 without electricity."
-   },
-   "bn": {
-    "title": "স্টারলিংক গতি সীমা ইউক্রেনের ড্রোন অভিযান ব্যাহত করছে",
-    "summary": "ইলন মাস্কের স্পেসএক্স রাতের বেলা চেতাবনী ছাড়াই স্টারলিংক টার্মিনালে ১০০ মাইল গতি সীমা জারি করেছে বলে জেলেনস্কির পরামর্শদাতা সেরহিই বেসক্রেসনভ জানিয়েছেন। এই সীমাবদ্ধতা ইউক্রেনের রাশিয়ার লক্ষ্যবস্তুতে ড্রোন পরিচালনার ক্ষমতা নষ্ট করছে। এই সময়ে রাশিয়ার ক্ষেপণাস্ত্র কিয়েভে কমপক্ষে তিনজন হতাহত করেছে।"
-   }
-  },
-  {
-   "id": "11bgri2",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.co.uk/bengali/live/c6rmy3gxpnwnt?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c025/live/32e588d0-c7ce-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-14T13:38:17.746Z",
-   "added": "2026-10-14T13:38:17.746Z",
-   "origTitle": "পাকিস্তানে বিরোধীতার মধ্যেই খাইবার পাখতুনখোয়ায় জরুরি অবস্থা জারির প্রস্তাব অনুমোদন",
-   "en": {
-    "title": "Houthis strike Saudi Aramco as Saudi-Yemen conflict escalates",
-    "summary": "Yemen's Houthi rebels fired a missile at Saudi oil company Aramco's headquarters after a Saudi-led coalition airstrike on Sanaa's fuel depot. Aramco's building caught fire; Riyadh airport was also hit, injuring four people. The Iran-backed group warned more attacks are coming on Saudi military and energy targets."
-   },
-   "bn": {
-    "title": "সৌদি-ইয়েমেন সংঘাত বাড়ছে, হুথিরা আরামকো লক্ষ্য করেছে",
-    "summary": "সানার জ্বালানি ডিপোতে সৌদি জোটের বিমান হামলার জবাবে হুথি বিদ্রোহীরা সৌদি তেল কোম্পানি আরামকোর সদর দপ্তরে ক্ষেপণাস্ত্র দাগিয়েছে। প্রশাসনিক ভবনে আগুন লেগেছে এবং রিয়াদ বিমানবন্দরেও ক্ষেপণাস্ত্র পৌঁছেছে যাতে চারজন আহত হয়েছেন। ইরান-সমর্থিত এই গোষ্ঠী সৌদি আরবের সামরিক ও শক্তি সুবিধাগুলোতে আরও হামলার সতর্কতা দিয়েছে।"
-   }
-  },
-  {
-   "id": "wfzo05",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/foreign/middle-east/974516/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A6%95%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE",
-   "image": null,
-   "published": "2026-10-14T13:33:22.000Z",
-   "added": "2026-10-14T13:38:17.746Z",
-   "origTitle": "সৌদি আরবকে খুশি করতে ভোটের আগে ইয়েমেনে হামলার কথা ভাবছেন নেতানিয়াহু",
-   "en": {
-    "title": "Netanyahu may strike Yemen before Israeli election to please Saudi Arabia",
-    "summary": "Israel's PM Benjamin Netanyahu is considering military action against Yemen's Houthi rebels before elections on October 27, an Israeli intelligence source said. Such a move could boost his re-election chances. Recent attacks have shifted focus from Iran to Yemen as a possible target for Israeli strikes."
-   },
-   "bn": {
-    "title": "নেতানিয়াহু নির্বাচনের আগে সৌদি আরব খুশি করতে ইয়েমেনে হামলার কথা ভাবছেন",
-    "summary": "ইসরায়েলি গোয়েন্দা সূত্র জানিয়েছে, প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু ২৭ অক্টোবরের নির্বাচনের আগে ইয়েমেনের হুথি বিদ্রোহীদের বিরুদ্ধে সামরিক অভিযান চালাতে পারেন। এই ধরনের পদক্ষেপ তার পুনর্নির্বাচনের সম্ভাবনা বাড়াতে পারে। গত ৪৮ ঘণ্টায় ইরানের পরিবর্তে ইয়েমেন এখন সম্ভাব্য লক্ষ্য হিসেবে উঠে আসছে।"
    }
   }
  ]

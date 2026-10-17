@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-17T09:14:35.506Z",
+ "updatedAt": "2026-10-17T13:40:02.021Z",
  "burning": [
   {
    "id": "ke8orf",
    "heat": 5,
    "why": {
-    "en": "Cox's Bazar resort fire kills at least 10—massive tragedy dominating social signals (tuptup resort trending 1000+).",
-    "bn": "কক্সবাজার রিসর্টে আগুনে কমপক্ষে ১০ জন মারা গেছেন—সোশ্যাল ট্রেন্ডে শীর্ষ (tuptup resort ১০০০+ ট্রেন্ড)।"
+    "en": "Major disaster in Cox's Bazar with at least 10 dead; high news priority.",
+    "bn": "কক্সবাজারে রিসোর্ট ফায়ারে কমপক্ষে ১০ জন মারা গেছে; বড় ঘটনা।"
    },
    "rank": 1
   },
   {
-   "id": "32a747",
+   "id": "mkd7yg",
    "heat": 5,
    "why": {
-    "en": "Trump halts Russia sanctions as US-Ukraine tensions spike—fuelling heavy debate on Google Trends about Trump and Russia.",
-    "bn": "ট্রাম্প রাশিয়া সংক্রান্ত নিষেধাজ্ঞা তুলে নিচ্ছেন—গুগল ট্রেন্ডে রাশিয়া এবং ট্রাম্প নিয়ে ব্যাপক আলোচনা।"
+    "en": "Over 1,000 arrests daily with prisons overflowing is a major crisis story.",
+    "bn": "প্রতিদিন ১০০০+ গ্রেপ্তার এবং জেলে অতিরিক্ত চাপ একটি বড় সংকট।"
    },
    "rank": 2
   },
   {
-   "id": "zllneo",
-   "heat": 4,
+   "id": "1jp3ib7",
+   "heat": 5,
    "why": {
-    "en": "California wildfire prompts mass evacuations—trending globally, picked up by multiple outlets and Bangladeshi social signals.",
-    "bn": "ক্যালিফোর্নিয়ায় দাবানলে ব্যাপক অনুসন্ধান—গুগল ট্রেন্ডে ক্যালিফোর্নিয়া ২০০+ ট্রেন্ড করছে।"
+    "en": "Execution of 2 Bangladeshis in Saudi Arabia is high-impact international news.",
+    "bn": "সৌদি আরবে ২ বাঙালির মৃত্যুদণ্ড আন্তর্জাতিক সংবাদে শীর্ষস্থানীয়।"
    },
    "rank": 3
   },
   {
-   "id": "1pv51kv",
+   "id": "1d8olrn",
    "heat": 4,
    "why": {
-    "en": "BNP chief whip's controversial 'no development' threat sparks political debate; চীফ হুইপ trending 200+ on Google.",
-    "bn": "চিফ হুইপের নুরুল ইসলাম মনি সংবাদে আছেন—গুগল ট্রেন্ডে জাতীয় সংসদের চীফ হুইপ ২০০+ ট্রেন্ড।"
+    "en": "Bamboo dispute in Sunamganj escalates to hospital clash; escalating conflict.",
+    "bn": "সুনামগঞ্জের বাঁশ বিরোধ হাসপাতাল পর্যন্ত বিস্তৃত; তীব্র ঘটনা।"
    },
    "rank": 4
   },
   {
-   "id": "mkd7yg",
-   "heat": 3,
+   "id": "32a747",
+   "heat": 4,
    "why": {
-    "en": "Over 1,000 arrested daily with prisons bursting—serious domestic issue affecting justice system.",
-    "bn": "প্রতিদিন ১০০০ জনের বেশি গ্রেফতার, জেলা পূর্ণ—সিস্টেমে গুরুতর চাপ।"
+    "en": "Trump halts Russian sanctions amid Ukraine tensions; major geopolitical shift.",
+    "bn": "ট্রাম্প রাশিয়ান নিষেধাজ্ঞা স্থগিত করেছেন; বৈশ্বিক রাজনীতিতে বড় পরিবর্তন।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "4v9pv8",
-   "tag": "#DeepfakeCrisis",
+   "id": "sch167",
+   "tag": "#Cricket",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Bumrah returns for India Test series",
+    "text": "India's key pacer Jasprit Bumrah is back for the Test series against New Zealand. Cricket fans on Google are tracking India vs West Indies and anticipating the upcoming matches."
+   },
+   "bn": {
+    "title": "বুমরাহ নিউজিল্যান্ডের টেস্টে ফিরছেন",
+    "text": "ভারতের স্টার বোলার জসপ্রিত বুমরাহ নিউজিল্যান্ডের বিপরীতে টেস্ট সিরিজে ফিরে আসছেন। গুগলে ভারত বনাম ওয়েস্ট ইন্ডিজ ট্রেন্ডিং।"
+   }
+  },
+  {
+   "id": "1kmcrbo",
+   "tag": "#PremierLeague",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Deepfake videos spark TV backlash",
-    "text": "A Bangladeshi TV channel faces backlash after posting deepfake videos of actresses. The controversy has ignited debates about digital abuse and content responsibility."
+    "title": "Leeds vs Man United Sunday clash",
+    "text": "Premier League fans are buzzing about Leeds facing Manchester United this Sunday. Matches like Brentford vs Liverpool are also drawing heavy search traffic on Google."
    },
    "bn": {
-    "title": "ডিপফেক ভিডিও নিয়ে টিভি বিতর্ক",
-    "text": "বাংলাদেশী একটি টিভি চ্যানেল অভিনেত্রীদের ডিপফেক ভিডিও পোস্ট করে সমালোচিত হয়েছে। ডিজিটাল অপব্যবহার নিয়ে প্রশ্ন উঠেছে।"
+    "title": "লিডস ম্যান ইউনাইটেড রবিবার",
+    "text": "প্রিমিয়ার লিগে লিডস ম্যানচেস্টার ইউনাইটেডের বিরুদ্ধে রবিবার খেলবে। ব্রেন্টফোর্ড লিভারপুলের মতো ম্যাচ গুগলে ট্রেন্ডিং।"
    }
   },
   {
-   "id": "1nb1shq",
-   "tag": "#RagsToBillions",
+   "id": "4v9pv8",
+   "tag": "#Deepfake",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "TV channel posts deepfake actress videos",
+    "text": "A TV channel has posted deepfake videos of actresses, sparking widespread backlash. The incident highlights growing concerns over synthetic media misuse in Bangladesh."
+   },
+   "bn": {
+    "title": "টিভি চ্যানেল ডিপফেক ভিডিও পোস্ট করেছে",
+    "text": "একটি টিভি চ্যানেল অভিনেত্রীদের ডিপফেক ভিডিও পোস্ট করে সমালোচনার সম্মুখীন হয়েছে। সিন্থেটিক মিডিয়া অপব্যবহারের বিপদ নিয়ে উদ্বেগ বাড়ছে।"
+   }
+  },
+  {
+   "id": "11stlxk",
+   "tag": "#Development",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Chutney seller builds 600 crore empire",
-    "text": "A success story trending in showbiz: a chutney vendor's journey to a 600 crore taka business empire shows Bengali entrepreneurial spirit."
+    "title": "Bangladesh seeks $14B from Japan",
+    "text": "Bangladesh is seeking $14 billion from Japan for transport and energy projects. Major infrastructure funding is a key focus for development planning."
    },
    "bn": {
-    "title": "চাটনি বিক্রেতা থেকে ৬০০ কোটি সাম্রাজ্য",
-    "text": "একজন চাটনি বিক্রেতার ৬০০ কোটি টাকার ব্যবসায়িক সাম্রাজ্য গড়ার গল্প বিনোদন জগতে ট্রেন্ড করছে।"
-   }
-  },
-  {
-   "id": "1lo7wsu",
-   "tag": "#YunusRecognized",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Yunus wins Hillary Clinton Award",
-    "text": "Bangladesh's chief advisor wins the prestigious Hillary Clinton Award in Washington, bringing international recognition."
-   },
-   "bn": {
-    "title": "নুইউস হিলারি ক্লিনটন পুরস্কার জিতেছেন",
-    "text": "বাংলাদেশের চিফ অ্যাডভাইজার ওয়াশিংটনে হিলারি ক্লিনটন পুরস্কার জিতেছেন।"
+    "title": "বাংলাদেশ জাপানের কাছে ১৪ বিলিয়ন ডলার চায়",
+    "text": "বাংলাদেশ পরিবহন ও শক্তি প্রকল্পের জন্য জাপানের কাছে ১৪ বিলিয়ন ডলার চাইছে। অবকাঠামো উন্নয়ন অগ্রাধিকার।"
    }
   }
  ],
