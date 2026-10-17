@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-16T20:59:21.173Z",
+ "updatedAt": "2026-10-17T04:15:09.580Z",
  "burning": [
   {
-   "id": "eovju0",
+   "id": "1lo7wsu",
    "heat": 5,
    "why": {
-    "en": "Mass shooting at US elementary school; serious global tragedy.",
-    "bn": "আমেরিকার প্রাথমিক বিদ্যালয়ে গুলিবর্ষণ; গুরুতর বৈশ্বিক ট্র্যাজেডি।"
+    "en": "Bangladesh's chief economist wins major international award in Washington.",
+    "bn": "বাংলাদেশের প্রধান অর্থনীতিবিদ ওয়াশিংটনে আন্তর্জাতিক পুরস্কার জিতেছেন।"
    },
    "rank": 1
   },
   {
-   "id": "5voh96",
+   "id": "h2jx6y",
    "heat": 4,
    "why": {
-    "en": "Teen striker's hat-trick in Milan's dominant win draws sports fans.",
-    "bn": "মিলানের বড় জয়ে কিশোর খেলোয়াড়ের ট্রিপল গোল খেলাধুলার ভক্তদের আকৃষ্ট করছে।"
+    "en": "Fatal truck accident in Shyamoli kills two people, breaking news today.",
+    "bn": "শ্যামলিতে ট্রাক দুর্ঘটনায় দুইজন নিহত, আজকের প্রধান খবর।"
    },
    "rank": 2
   },
   {
-   "id": "1tbn1wa",
+   "id": "11stlxk",
    "heat": 4,
    "why": {
-    "en": "Bangladeshis allegedly used as bait in Ukraine conflict; major investigative claim.",
-    "bn": "ইউক্রেইনের যুদ্ধে বাংলাদেশিদের 'টোপ' হিসেবে ব্যবহারের গুরুতর অভিযোগ।"
+    "en": "Bangladesh seeks $14 billion from Japan for major infrastructure projects.",
+    "bn": "বাংলাদেশ জাপানের কাছ থেকে পরিকাঠামো প্রকল্পের জন্য ১৪ বিলিয়ন ডলার চাইছে।"
    },
    "rank": 3
   },
   {
-   "id": "b5r2dp",
+   "id": "1wsjnmq",
    "heat": 3,
    "why": {
-    "en": "Ukraine's territorial gains in Russia counter-offensive; ongoing conflict update.",
-    "bn": "রাশিয়ার বিরুদ্ধে ইউক্রেইনের পাল্টা অফেন্সিভে অঞ্চল দখলের খবর।"
+    "en": "Gaibandha corn farmers hit hard by fertiliser shortage and price spikes.",
+    "bn": "গাইবান্ধার ভুট্টা চাষীরা সার সংকট এবং দাম বৃদ্ধির সম্মুখীন।"
    },
    "rank": 4
   },
   {
-   "id": "1y10lwr",
+   "id": "5j5w1y",
    "heat": 3,
    "why": {
-    "en": "Fatal accident in Rajshahi; tragic local incident draws attention.",
-    "bn": "রাজশাহীতে মর্মান্তিক দুর্ঘটনা; স্থানীয় ঘটনা মনোযোগ আকর্ষণ করছে।"
+    "en": "Netrokona journalist killed in shooting while returning home from work.",
+    "bn": "নেত্রকোনার সাংবাদিক বাড়ি ফেরার সময় গুলিতে নিহত হয়েছেন।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "jl1lqv",
-   "tag": "#PorscheMacanEV",
+   "id": "okva9b",
+   "tag": "#FitnessBiz",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Porsche's electric crossover power",
-    "text": "New Macan EV blends sports performance with crossover design, catching tech and auto fans' interest."
+    "title": "Mark Wahlberg's affordable gym",
+    "text": "Actor Mark Wahlberg is launching a budget-friendly gym chain to compete with luxury wellness brands. The move aims to make fitness accessible to everyday people."
    },
    "bn": {
-    "title": "পোর্শের ইলেকট্রিক ক্রসওভার",
-    "text": "নতুন ম্যাকান ইভি স্পোর্টস পারফরম্যান্স এবং ক্রসওভার ডিজাইন মিশিয়ে টেক এবং গাড়ির অনুরাগীদের আগ্রহ জাগাচ্ছে।"
+    "title": "মার্ক ওয়ালবার্গের সাশ্রয়ী জিম",
+    "text": "অভিনেতা মার্ক ওয়ালবার্গ বিলাসবহুল ফিটনেস ব্র্যান্ডের সাথে প্রতিযোগিতার জন্য সাশ্রয়ী মূল্যের জিম চেইন চালু করছেন।"
    }
   },
   {
-   "id": "10fghcl",
-   "tag": "#RoboticsLego",
+   "id": "1b3pie8",
+   "tag": "#AIShift",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Replit ditches Anthropic for OpenAI",
+    "text": "Coding platform Replit has ended its partnership with AI company Anthropic and switched to OpenAI. The move signals a major shift in AI integration strategies for developer tools."
+   },
+   "bn": {
+    "title": "রিপ্লিট অ্যান্থ্রপিক ছেড়ে ওপেনএআইতে যায়",
+    "text": "কোডিং প্ল্যাটফর্ম রিপ্লিট অ্যান্থ্রপিকের সাথে পার্টনারশিপ শেষ করে ওপেনএআইতে চলে গেছে।"
+   }
+  },
+  {
+   "id": "jl1lqv",
+   "tag": "#EV",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Robotics still playing catch-up",
-    "text": "Ex-Nvidia executive says robotics lags far behind AI's leap, stuck in early-stage development."
+    "title": "Porsche Macan goes electric",
+    "text": "Porsche's new Macan electric car combines sports performance with crossover practicality. The vehicle marks another major automaker's push into the EV market."
    },
    "bn": {
-    "title": "রোবোটিক্স এখনো পিছিয়ে",
-    "text": "এনভিডিয়ার প্রাক্তন নির্বাহী বলছেন রোবোটিক্স এআইর মতো এগিয়ে যায়নি, এখনো প্রাথমিক পর্যায়ে।"
+    "title": "পোর্শে ম্যাকান বৈদ্যুতিক হলো",
+    "text": "পোর্শের নতুন ইলেকট্রিক ম্যাকান স্পোর্টস পারফরম্যান্স এবং ক্রসওভার সুবিধা একত্রিত করে।"
    }
   },
   {
-   "id": "1lo7wsu",
-   "tag": "#YunusHonour",
+   "id": "s7jxih",
+   "tag": "#Kabaddi",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Yunus's Washington recognition",
-    "text": "Bangladesh's Nobel laureate wins Hillary Clinton Award, gaining international platform for poverty-fighting work."
+    "title": "British-Bangladeshi captains England kabaddi",
+    "text": "Anisa Khan, a British-Bangladeshi athlete, has been appointed captain of England's women's kabaddi team. She becomes a prominent face for the sport in British sport."
    },
    "bn": {
-    "title": "ইউনুসের ওয়াশিংটন সম্মাননা",
-    "text": "বাংলাদেশের নোবেল বিজয়ী হিলারি ক্লিনটন পুরস্কার জিতেছেন, দারিদ্র্য বিরোধী কাজের আন্তর্জাতিক স্বীকৃতি পেয়েছেন।"
+    "title": "ব্রিটিশ-বাঙালি কাবাড়ি দলের ক্যাপ্টেন",
+    "text": "আনিসা খান ইংল্যান্ডের মহিলা কাবাড়ি দলের ক্যাপ্টেন নিযুক্ত হয়েছেন।"
    }
   }
  ],

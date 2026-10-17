@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-16T23:30:25.311Z",
+ "updatedAt": "2026-10-17T04:14:53.129Z",
  "items": [
+  {
+   "id": "ypb20i",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1558830.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423800/423868.jpg",
+   "published": "2026-10-17T03:50:26.000Z",
+   "added": "2026-10-17T04:14:53.128Z",
+   "origTitle": "Deepti on Niki Prasad: 'It didn't seem at all like she was making her debut'",
+   "en": {
+    "title": "Deepti backs Niki Prasad's debut for India in T20I",
+    "summary": "India's Deepti praised debutant Niki Prasad after India fell to 19 for 4 against Zimbabwe in a T20I. Despite the early collapse, Deepti backed the batters' aggressive approach. Prasad looked calm and confident for someone making her first appearance. India's aggressive strategy is paying off even when things look rough early on."
+   },
+   "bn": {
+    "title": "দীপ্তি নিকী প্রসাদের ডেবিউ ম্যাচ নিয়ে প্রশংসা করেছেন",
+    "summary": "জিম্বাবোয়ের বিপক্ষে টি২০আই তে ভারত ১৯ রান দুই উইকেটে পড়ে গিয়েছিল, তখন দীপ্তি নিকী প্রসাদকে প্রশংসা করেছেন। প্রসাদ তার প্রথম ম্যাচে খুবই আত্মবিশ্বাসী দেখাচ্ছিলেন। ভারত আক্রমণাত্মক খেলার পথ ধরে আছে যা কাজ দিচ্ছে। দলটি শুরুর দিকে কঠিন পরিস্থিতিতেও এই কৌশলে বিশ্বাস রাখছে।"
+   }
+  },
+  {
+   "id": "h2jx6y",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XRDNkX1dhemwxTjlQRzNQdzdQTjFHMGZMOFNueno3SENVdkowemJHVEZfQ0JMYmJ5MXNVdnoxa2l0LV9YV0tyWXhHcXZkOFc1OTZ0YnpxbmkzSDJlb2pzVjBzbGdWcE3SAXRBVV95cUxQemtUWVF5a2szUW9FQ2Z3TkJMc1lfZjBIWUh6aFZsZ1JuX1haWWQ2ZVN2YU5Qc2lyZ0VpR0FvS3IwMHJNOW5jRlgtSm5nYnlaNmQ4b2dNem9hV2xRWkY3RVFVZEFrd1RORWFocFRZZzhGeERpbw?oc=5",
+   "image": null,
+   "published": "2026-10-16T08:00:12.000Z",
+   "added": "2026-10-17T04:14:53.128Z",
+   "origTitle": "Two killed by speeding truck in Shyamoli, crushed bodies found on street",
+   "en": {
+    "title": "Two killed by speeding truck in Shyamoli",
+    "summary": "A speeding truck hit two people in Shyamoli, leaving their bodies on the street. The incident highlights the ongoing danger of reckless driving in busy areas of Dhaka. Local authorities are investigating the accident. Road safety remains a critical concern in the city."
+   },
+   "bn": {
+    "title": "শ্যামলীতে দ্রুতগামী ট্রাক দুই জনকে মেরে ফেলেছে",
+    "summary": "শ্যামলীতে একটি দ্রুতগামী ট্রাক দুই জনকে আঘাত করেছে এবং তাদের লাশ রাস্তায় পড়ে থাকে। এই ঘটনা ঢাকার ব্যস্ত এলাকায় অসম্মতিপূর্ণ ড্রাইভিং এর বিপদ তুলে ধরে। স্থানীয় কর্তৃপক্ষ দুর্ঘটনার তদন্ত করছে। রাস্তায় নিরাপত্তা শহরে একটি গুরুতর সমস্যা থেকে যায়।"
+   }
+  },
+  {
+   "id": "atgzmd",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/cricket/7z5hrtix8i",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-16/hince120/gettyimages-2249071161-2048x2048b.jpg",
+   "published": "2026-10-17T03:30:00.000Z",
+   "added": "2026-10-17T04:14:43.062Z",
+   "origTitle": "দিনের বেলার টেস্টে গোলাপি বল: পক্ষে-বিপক্ষে কার কী যুক্তি",
+   "en": {
+    "title": "Pink ball in day-time Test cricket sparks debate among players",
+    "summary": "Cricket's International Council allows day-time Test matches to use pink balls if both teams agree before play starts. During Australia vs South Africa in Durban, light stopped play 25 overs short on day one. Coach Andrew McDonald rejected the pink-ball option, calling it risky compared to the traditional red ball."
+   },
+   "bn": {
+    "title": "দিনের টেস্টে গোলাপি বল নিয়ে বিতর্ক",
+    "summary": "আন্তর্জাতিক ক্রিকেট কাউন্সিল দিনের বেলার টেস্টে গোলাপি বল ব্যবহারের অনুমতি দিয়েছে যদি উভয় দল ম্যাচের আগে সম্মতি দেয়। ডারবানে অস্ট্রেলিয়া-দক্ষিণ আফ্রিকা ম্যাচে আলোর অভাবে প্রথম দিনে ২৫ ওভার হারিয়ে গেছে। অস্ট্রেলিয়ার কোচ গোলাপি বল ব্যবহার করতে অনিচ্ছা দেখিয়েছেন।"
+   }
+  },
+  {
+   "id": "zllneo",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad2d683dbb6-1792202371.jpg?resize=1920%2C1440",
+   "published": "2026-10-17T03:30:36.000Z",
+   "added": "2026-10-17T04:14:43.062Z",
+   "origTitle": "Southern California wildfire engulfs homes, prompts evacuation orders",
+   "en": {
+    "title": "Fast wildfire in Orange County prompts mass evacuations",
+    "summary": "The Norte Fire in Southern California has burned about 231 hectares and destroyed at least six homes in San Juan Capistrano. Some 16,000 residents are under evacuation orders. Unseasonably high temperatures, low humidity, and Santa Ana winds with gusts up to 90 km/h are driving rapid spread."
+   },
+   "bn": {
+    "title": "দক্ষিণ ক্যালিফোর্নিয়ায় দ্রুত ছড়ানো দাবানল",
+    "summary": "নর্তে ফায়ার অতি দ্রুত ছড়িয়ে পড়ে প্রায় ২৩১ হেক্টর জ্বালিয়ে দিয়েছে এবং সান জুয়ান কাপিস্ট্রানোতে অন্তত ছয়টি ঘর ধ্বংস করেছে। প্রায় ১৬,০০০ বাসিন্দা সরিয়ে নেওয়া হয়েছে। অস্বাভাবিক তাপমাত্রা, শুষ্ক আবহাওয়া এবং ঘন্টায় ৯০ কিমি বেগের বাতাস আগুন দ্রুত ছড়াচ্ছে।"
+   }
+  },
+  {
+   "id": "okva9b",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
+   "published": "2026-10-17T02:36:18.000Z",
+   "added": "2026-10-17T04:14:43.062Z",
+   "origTitle": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+   "en": {
+    "title": "Mark Wahlberg launches affordable gym to take on luxury wellness",
+    "summary": "Actor Mark Wahlberg is opening Municipal Gym in December near Las Vegas, a 32,000-square-foot club with blood work, epigenetic testing, and recovery gear. He's pitching it as a cheaper alternative to longevity clubs that charge tens of thousands yearly. The project grew from his seven-year-old Municipal clothing brand started during COVID."
+   },
+   "bn": {
+    "title": "মার্ক ওয়ালবার্গের সাশ্রয়ী জিম প্রজেক্ট লঞ্চ",
+    "summary": "অভিনেতা মার্ক ওয়ালবার্গ ডিসেম্বরে লাস ভেগাসের কাছে ৩২,০০০ বর্গফুটের মিউনিসিপাল জিম খুলছেন যেখানে ব্লাড ওয়ার্ক এবং রিকভারি গিয়ার থাকবে। তিনি এটিকে বিলাসবহুল ওয়েলনেস ক্লাবের চেয়ে সাশ্রয়ী বিকল্প হিসেবে উপস্থাপন করছেন। প্রকল্পটি তার কোভিড সময়ের সাত বছর পুরনো মিউনিসিপাল পোশাক ব্র্যান্ড থেকে বেড়ে উঠেছে।"
+   }
+  },
+  {
+   "id": "hmptm1",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+   "published": "2026-10-17T02:33:09.000Z",
+   "added": "2026-10-17T04:14:43.062Z",
+   "origTitle": "Brazil sees record fall in Amazon deforestation as key election looms",
+   "en": {
+    "title": "Brazil's Amazon deforestation hits record low ahead of election",
+    "summary": "Deforestation in Brazil's Amazon fell 41.8% in the year to July 2026, the biggest drop since records began in 1988. President Lula pledged to end illegal logging by 2030 after reversing his predecessor Bolsonaro's policies. The Amazon, home to millions of species, is critical for fighting climate change."
+   },
+   "bn": {
+    "title": "ব্রাজিলে অ্যামাজন বন উজাড় রেকর্ড হারে কমেছে",
+    "summary": "২০২৬ সালের জুলাই পর্যন্ত বছরে ব্রাজিলের অ্যামাজনে বন উজাড় ৪১.৮ শতাংশ কমেছে, যা ১৯৮৮ সালের রেকর্ড শুরু থেকে সর্বোচ্চ হ্রাস। প্রেসিডেন্ট লুলা পূর্বসূরি বোলসোনারোর নীতি বাতিল করে ২০৩০ সালের মধ্যে অবৈধ কাটছাঁট শেষ করার প্রতিশ্রুতি দিয়েছেন।"
+   }
+  },
+  {
+   "id": "1wsjnmq",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cwm26yr13vydo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df6a/live/70f66cf0-c8c0-11f1-bdfb-e3788aeae9ec.jpg",
+   "published": "2026-10-17T01:59:41.000Z",
+   "added": "2026-10-17T04:14:43.062Z",
+   "origTitle": "ভুট্টা চাষীদের সার সংকটের যে চিত্র দেখেছে বিবিসি",
+   "en": {
+    "title": "Corn farmers in Gaibandha face severe fertiliser shortage, price hikes",
+    "summary": "Farmers in Gaibandha's Char Guptamoni are struggling to buy fertiliser for corn planting season. Prices are 300 taka higher than government rates, with dealers limiting purchases and demanding ID cards. Some farmers can only plant on part of their land due to shortages, threatening the coming harvest."
+   },
+   "bn": {
+    "title": "গাইবান্ধায় ভুট্টা চাষীরা সারের সংকটে জর্জরিত",
+    "summary": "গাইবান্ধার চর গুপ্তমনিতে ভুট্টা চাষের মৌসুমে কৃষকরা সার কিনতে গিয়ে দুর্ভোগ পাচ্ছেন। সরকার নির্ধারিত দাম থেকে ৩০০ টাকা বেশি দামে সার পাওয়া যাচ্ছে এবং ডিলাররা আইডি কার্ড ছাড়া বিক্রি করছেন না। অনেক চাষী তাদের জমির একটি অংশেই শুধু সার দিয়ে আবাদ করতে পারছেন।"
+   }
+  },
+  {
+   "id": "11stlxk",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/foreign-policy/transport-tech-energy-bangladesh-seek-14b-investment-japan-during-pms-visit-1575021",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/p1_infograph_bangladesh_to_seek_14b_loan_from_japan_lead-1.png",
+   "published": "2026-10-17T04:00:00.000Z",
+   "added": "2026-10-17T04:14:43.062Z",
+   "origTitle": "Transport, tech, energy: Bangladesh to seek $14b investment from Japan during PM's visit",
+   "en": {
+    "title": "Bangladesh seeks $14B from Japan for transport and energy",
+    "summary": "PM Tarique Rahman is heading to Tokyo on 26 October to pitch a massive ¥2.2 trillion investment package to Japan for 2026-31. The plan covers 12 sectors including metro rail, bridges, and the Bay of Bengal Industrial Growth Belt. Japan has already given over $34 billion since 1971 and remains Bangladesh's top development partner."
+   },
+   "bn": {
+    "title": "জাপানের কাছ থেকে ১৪ বিলিয়ন ডলার বিনিয়োগের প্রস্তাব",
+    "summary": "প্রধানমন্ত্রী তারিক রহমান ২৬ অক্টোবর টোকিওতে গিয়ে জাপানকে ২০২৬-৩১ সালের জন্য ¥২.২ ট্রিলিয়ন বিনিয়োগ প্যাকেজ দেখাবেন। এতে মেট্রো রেল, সেতু এবং বে অফ বেঙ্গল ইন্ডাস্ট্রিয়াল গ্রোথ বেল্টের মতো ১২টি খাত থাকবে। জাপান ১৯৭১ সালের পর থেকে ৩৪ বিলিয়ন ডলারেরও বেশি দিয়েছে।"
+   }
+  },
   {
    "id": "1jp3ib7",
    "section": "news",
@@ -2815,160 +2991,6 @@
    "bn": {
     "title": "এলপিজি ধর্মঘটে কঠোর আইনি ব্যবস্থা নেওয়া হবে: তুকু",
     "summary": "বিদ্যুৎ মন্ত্রী ইকবাল হাসান মাহমুদ তুকু ১৫ এবং ১৬ অক্টোবরে এলপিজি ধর্মঘটের বিরুদ্ধে কঠোর আইনি পদক্ষেপের হুমকি দিয়েছেন। বাংলাদেশ এলপিজি ট্রেডার্স কো-অপারেটিভ অ্যাসোসিয়েশন বেশি কমিশন এবং হয়রানির বিরুদ্ধে প্রতিবাদ জানাচ্ছে। তুকু বলেছেন বিশ্বব্যাপী জ্বালানি বাজার অস্থিতিশীল এবং আমেরিকা একমাত্র নির্ভরযোগ্য উৎস। মন্ত্রীরা ব্যবসায়ীদের সরবরাহ বাধাগ্রস্ত না করে আলোচনার আহ্বান জানিয়েছেন।"
-   }
-  },
-  {
-   "id": "1scnnkz",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "ইত্তেফাক",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQaFZfbWZWR0NESk5oREd4UnFfc3E1RF9zcksycmNhM1lZT0l2TWZPZVNkY3hOY0YyajZKekVqdTV2UG1WYnlsS3phTTZwdHVYSlVzNXlaS0hkTlZRS0dSODVtSU02Zzg1Z1BwUll3MUJURDV2UHVEekp5bnMxdnhkdlJoX3RUZVJGMGlWdjVkOFlRRmdlaXBoVFo2aTVzR3MyOEIyM21ldjhKYnpQeEZHenpzZ1A3ZThvaUFnNlJUQzlwS0xpUTBCTFJxUzBVWmZrbmR4UVA2bVVNYm1YTmdTZWJXX2I2a3d1dVVzNGtKTFpaTXZONGktMmtka0dlUUJQdGtUbjYzakhvbThiV0tkSmd4M1Q3OEJWWjg2LW9TcmhsRzk1VlVGcEZSR3NpTndkb0YxektLYVlCb042N2NWRlk2Z1ZIQ1ZQeGMydHRqTXNDRHY0cV9ISnlRM1BKRGlnUVhPUEJCcHBCaVd0bmVqcnF0Y0Q2NnVkc21WT0czYkxYXzNkZVpCU2xzM3BzVVFRcm5kbFZKTE1vY28tdGY4MVdhcWtCX1prcVBHODFQTkJucjdRZ0IzSEFtMWc1cHhhS1JfRTBNWEpaVXZNNEg2WDlUZDl0YW1kVG9UTmRpREFfUy15QXliN2g1Q3BmckVnYXdSN2VkTnJVR0lJR0E1LXl1a1JwaXJ6?oc=5",
-   "image": null,
-   "published": "2026-10-13T13:50:35.000Z",
-   "added": "2026-10-14T01:09:34.522Z",
-   "origTitle": "ভারতে ৪০% ডাক্তার ভুয়া, লাখ টাকা খরচ করে ভুয়া চিকিৎসা নিচ্ছে বাংলাদেশিরা: ব্যারিস্টার ফুয়াদ",
-   "en": {
-    "title": "Fake doctors in India pose risk to Bangladeshi patients",
-    "summary": "Barrister Fuad has warned that 40 percent of doctors in India are fraudulent. Many Bangladeshis are spending large sums on fake medical treatment there. This highlights risks for those seeking healthcare abroad."
-   },
-   "bn": {
-    "title": "ভারতে ভুয়া ডাক্তার, বাংলাদেশিরা লাখ খরচ করছে",
-    "summary": "ব্যারিস্টার ফুয়াদ সতর্ক করেছেন যে ভারতে ৪০ শতাংশ ডাক্তার ভুয়া। অনেক বাংলাদেশি সেখানে ভুয়া চিকিৎসায় লাখ টাকা খরচ করছে। এটি বিদেশে স্বাস্থ্যসেবা নেওয়ার ঝুঁকি তুলে ধরে।"
-   }
-  },
-  {
-   "id": "mrkgfg",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "কালের কণ্ঠ",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92ZXpqc2pZem9SZ01wdmVaNFUzWElIOEx1RjF1eUdWT25JQWpObUNWMGJoQnYzLVZRb09RdUoxLTVsV1U3LWktLWhsRlFKQlFtZ2FyRTRfRnA2YWxuZ2ROX3cwV2dTc3JzdDhodmZvYzJRc0hf?oc=5",
-   "image": null,
-   "published": "2026-10-13T19:28:36.000Z",
-   "added": "2026-10-14T01:09:34.522Z",
-   "origTitle": "পরকীয়া নিয়ে কথা বলায় স্ত্রীকে হত্যা, স্বামী পলাতক",
-   "en": {
-    "title": "Wife killed over affair accusation, husband absconding",
-    "summary": "A woman was killed after her husband accused her of infidelity. The husband is currently at large. Police are investigating the case."
-   },
-   "bn": {
-    "title": "পরকীয়ার অভিযোগে স্ত্রীকে হত্যা, স্বামী পলাতক",
-    "summary": "স্বামী পরকীয়ার অভিযোগ তুলে তার স্ত্রীকে হত্যা করেছেন। স্বামী এখন পলাতক অবস্থায় রয়েছেন। পুলিশ মামলার তদন্ত করছে।"
-   }
-  },
-  {
-   "id": "1899zzk",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lWE1rT1ZSN2ttMEFVdXh4UklOcTBoek93NlEwV3pHTDNsMjFhcUdGTDRjVWZyZ1ItYkJ4NFZIZUZrbE1zQ0NwQ1BkNmFtLVZjSWhwbURQWXgtMWJxQURpRFY5bHZVMnc?oc=5",
-   "image": null,
-   "published": "2026-10-13T18:35:00.000Z",
-   "added": "2026-10-14T01:09:34.522Z",
-   "origTitle": "নোয়াখালীতে চোর সন্দেহে যুবককে পিটিয়ে হত্যা, আটক ২",
-   "en": {
-    "title": "Youth beaten to death on theft suspicion in Noakhali",
-    "summary": "A young man was killed in Noakhali after being beaten on suspicion of theft. Two people have been arrested in connection with the incident. Details about the victim and exact circumstances remain unclear."
-   },
-   "bn": {
-    "title": "নোয়াখালীতে চোর সন্দেহে যুবককে পিটিয়ে হত্যা",
-    "summary": "নোয়াখালীতে একজন যুবককে চোর সন্দেহ করে পিটিয়ে মেরে ফেলা হয়েছে। এই ঘটনায় দুইজন ব্যক্তি আটক হয়েছেন। ভিকটিম এবং ঘটনার বিস্তারিত এখনও স্পষ্ট নয়।"
-   }
-  },
-  {
-   "id": "1axh7mx",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/religion/islam/zw0pu2dxyf",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-13/7ep6xbgs/pexels-mikhail-nilov-7929092.jpg",
-   "published": "2026-10-13T22:30:00.000Z",
-   "added": "2026-10-14T01:09:25.012Z",
-   "origTitle": "পাপ আসলে কী, পাপের ক্ষতি কী, কীভাবে বুঝব কোনটা পাপ",
-   "en": {
-    "title": "Understanding sin: what it truly means in Islam",
-    "summary": "Many religious families raise children with guilt and fear by telling them their mistakes are sins that upset Allah. Islamic scholars argue this misunderstands core doctrine. In Islam, Allah is infinitely independent and complete—He doesn't need human worship nor is harmed by human wrongdoing. Sin matters for our own spiritual growth, not God's wellbeing."
-   },
-   "bn": {
-    "title": "পাপ আসলে কী, এবং এটি বোঝা কেন জরুরি",
-    "summary": "অনেক ধর্মীয় পরিবারে শিশুদের বলা হয় তাদের ছোট ভুল পাপ এবং এতে আল্লাহ কষ্ট পান। ইসলামী বিদ্বানরা বলেন এটি ভুল বোঝাপড়া। ইসলাম অনুযায়ী আল্লাহ সম্পূর্ণ স্বাধীন এবং মানুষের ভালো-মন্দের তোয়াক্কা করেন না। পাপ আমাদের নিজের আত্মার জন্য গুরুত্বপূর্ণ, আল্লাহর জন্য নয়।"
-   }
-  },
-  {
-   "id": "ch2i3u",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
-   "published": "2026-10-13T23:13:31.000Z",
-   "added": "2026-10-14T01:09:25.012Z",
-   "origTitle": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-   "en": {
-    "title": "Vision-restoring chip implanted in first patient",
-    "summary": "Science Corporation has implanted its PRIMA chip into its first patient with Stargardt disease, an inherited eye condition that gradually destroys central vision. CEO Max Hodak, former president of Neuralink, explained the chip fits a broader vision for brain-computer interfaces in medicine. While PRIMA is commercially available in Europe for age-related blindness, the company believes it can help multiple diseases including incurable Stargardt disease."
-   },
-   "bn": {
-    "title": "দৃষ্টি ফিরিয়ে দেওয়ার চিপ রোগীর মস্তিষ্কে লাগানো হয়েছে",
-    "summary": "সায়েন্স কর্পোরেশন তার PRIMA চিপ একজন স্টারগার্ডট রোগের রোগীর মস্তিষ্কে প্রথমবার লাগিয়েছে। এই রোগ ধীরে ধীরে চোখের মধ্যভাগের দৃষ্টি নষ্ট করে। কোম্পানি বিশ্বাস করে এই প্রযুক্তি আরও অনেক চোখের রোগ ঠিক করতে পারবে। বিশ্বব্যাপী প্রায় ১৫০,০০০ মানুষ এই রোগের কারণে দৃষ্টিশক্তি হারিয়েছে।"
-   }
-  },
-  {
-   "id": "1lgk1fn",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791937444.jpg?resize=1920%2C1080&quality=80",
-   "published": "2026-10-14T00:27:52.000Z",
-   "added": "2026-10-14T01:09:25.012Z",
-   "origTitle": "How podcasts became political powerhouses",
-   "en": {
-    "title": "Podcasts shaped US elections and they're not slowing",
-    "summary": "Some dubbed the 2024 US presidential election the 'podcast election,' and that tag is looking less like exaggeration. Hosts and analysts now debate whether podcasts genuinely expand political discussion or simply offer candidates a friendly stage to avoid tough journalism. The trend shows no signs of stopping."
-   },
-   "bn": {
-    "title": "পডকাস্ট রাজনীতিকে নতুন শক্তি দিয়েছে",
-    "summary": "২০২৪ সালের আমেরিকান নির্বাচনকে কেউ কেউ 'পডকাস্ট নির্বাচন' বলেছেন এবং এই ট্যাগ এখন অতিরঞ্জন নয় বরং ভবিষ্যতের পূর্বাভাস দেখাচ্ছে। এখন তারা আলোচনা করছেন পডকাস্ট আসলে রাজনৈতিক আলোচনা বাড়াচ্ছে নাকি শুধু প্রার্থীদের সহজ মঞ্চ দিচ্ছে।"
-   }
-  },
-  {
-   "id": "1kmw58b",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/mymensing/974352/%E0%A6%B8%E0%A6%B9%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8",
-   "image": null,
-   "published": "2026-10-14T01:00:04.000Z",
-   "added": "2026-10-14T01:09:25.012Z",
-   "origTitle": "সহকারী শিক্ষক স্ত্রীর সঙ্গে স্কুলেই প্রধান শিক্ষকের মারামারি, ভিডিও ভাইরাল",
-   "en": {
-    "title": "Principal, teacher clash at school in viral video",
-    "summary": "A fight between a principal and an assistant teacher at a government primary school in Fulbaria, Mymensingh went viral on Tuesday, October 13. The altercation took place in the school office at Akta Primary School in Ranmatiaya Union. Social media users have been discussing the incident widely since the video spread."
-   },
-   "bn": {
-    "title": "স্কুলে প্রধান শিক্ষক ও সহকারী শিক্ষকের মারামারি ভাইরাল",
-    "summary": "ময়মনসিংহের ফুলবাড়িয়ায় একটি সরকারি প্রাথমিক বিদ্যালয়ে প্রধান শিক্ষক এবং সহকারী শিক্ষকের মধ্যে ধস্তাধস্তি হয়েছে। ঘটনাটি রাঙামাটিয়া ইউনিয়নের আকতা সরকারি প্রাথমিক বিদ্যালয়ে ঘটে এবং এর ভিডিও মঙ্গলবার (১৩ অক্টোবর) রাতে সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ে। এরপর থেকে এই ঘটনা নিয়ে অনলাইনে ব্যাপক আলোচনা শুরু হয়েছে।"
    }
   }
  ]
