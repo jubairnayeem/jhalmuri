@@ -1,10 +1,26 @@
 {
- "updatedAt": "2026-10-16T12:20:38.327Z",
+ "updatedAt": "2026-10-17T09:14:36.306Z",
  "english": {
   "source": "Apple Music · most played (US)",
   "items": [
    {
     "rank": 1,
+    "title": "Lies (feat. Lana Del Rey)",
+    "artist": "Zach Bryan & Lana Del Rey",
+    "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
+    "key": "lies (feat. lana del rey)|zach bryan & lana del rey",
+    "prev": null
+   },
+   {
+    "rank": 2,
+    "title": "Housewife",
+    "artist": "Tate McRae",
+    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+    "key": "housewife|tate mcrae",
+    "prev": 10
+   },
+   {
+    "rank": 3,
     "title": "Solar Eclipse",
     "artist": "Drake & Don Toliver",
     "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
@@ -12,23 +28,31 @@
     "prev": 1
    },
    {
-    "rank": 2,
-    "title": "BbY WOW",
-    "artist": "KAROL G, Judeline & rusowsky",
-    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
-    "key": "bby wow|karol g, judeline & rusowsky",
-    "prev": 3
-   },
-   {
-    "rank": 3,
+    "rank": 4,
     "title": "Choosin' Texas",
     "artist": "Ella Langley",
     "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
     "key": "choosin' texas|ella langley",
+    "prev": 3
+   },
+   {
+    "rank": 5,
+    "title": "BbY WOW",
+    "artist": "KAROL G, Judeline & rusowsky",
+    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+    "key": "bby wow|karol g, judeline & rusowsky",
     "prev": 2
    },
    {
-    "rank": 4,
+    "rank": 6,
+    "title": "Lodi When",
+    "artist": "Zach Bryan",
+    "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289",
+    "key": "lodi when|zach bryan",
+    "prev": null
+   },
+   {
+    "rank": 7,
     "title": "Quebec",
     "artist": "Drake",
     "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
@@ -36,7 +60,7 @@
     "prev": 4
    },
    {
-    "rank": 5,
+    "rank": 8,
     "title": "Janice STFU",
     "artist": "Drake",
     "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
@@ -44,44 +68,20 @@
     "prev": 5
    },
    {
-    "rank": 6,
+    "rank": 9,
     "title": "Nicole Kidman",
     "artist": "ADÉLA",
-    "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088",
+    "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825",
     "key": "nicole kidman|adéla",
     "prev": 6
    },
    {
-    "rank": 7,
+    "rank": 10,
     "title": "Been By Now",
     "artist": "Morgan Wallen",
     "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
     "key": "been by now|morgan wallen",
-    "prev": 8
-   },
-   {
-    "rank": 8,
-    "title": "Cold Shoulder",
-    "artist": "Drake, Don Toliver & Yebba",
-    "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600",
-    "key": "cold shoulder|drake, don toliver & yebba",
     "prev": 7
-   },
-   {
-    "rank": 9,
-    "title": "Last Thing You Need",
-    "artist": "Morgan Wallen",
-    "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
-    "key": "last thing you need|morgan wallen",
-    "prev": 9
-   },
-   {
-    "rank": 10,
-    "title": "Housewife",
-    "artist": "Tate McRae",
-    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
-    "key": "housewife|tate mcrae",
-    "prev": null
    }
   ]
  },

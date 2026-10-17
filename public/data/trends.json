@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-17T04:15:09.580Z",
+ "updatedAt": "2026-10-17T09:14:35.506Z",
  "burning": [
   {
-   "id": "1lo7wsu",
+   "id": "ke8orf",
    "heat": 5,
    "why": {
-    "en": "Bangladesh's chief economist wins major international award in Washington.",
-    "bn": "বাংলাদেশের প্রধান অর্থনীতিবিদ ওয়াশিংটনে আন্তর্জাতিক পুরস্কার জিতেছেন।"
+    "en": "Cox's Bazar resort fire kills at least 10—massive tragedy dominating social signals (tuptup resort trending 1000+).",
+    "bn": "কক্সবাজার রিসর্টে আগুনে কমপক্ষে ১০ জন মারা গেছেন—সোশ্যাল ট্রেন্ডে শীর্ষ (tuptup resort ১০০০+ ট্রেন্ড)।"
    },
    "rank": 1
   },
   {
-   "id": "h2jx6y",
-   "heat": 4,
+   "id": "32a747",
+   "heat": 5,
    "why": {
-    "en": "Fatal truck accident in Shyamoli kills two people, breaking news today.",
-    "bn": "শ্যামলিতে ট্রাক দুর্ঘটনায় দুইজন নিহত, আজকের প্রধান খবর।"
+    "en": "Trump halts Russia sanctions as US-Ukraine tensions spike—fuelling heavy debate on Google Trends about Trump and Russia.",
+    "bn": "ট্রাম্প রাশিয়া সংক্রান্ত নিষেধাজ্ঞা তুলে নিচ্ছেন—গুগল ট্রেন্ডে রাশিয়া এবং ট্রাম্প নিয়ে ব্যাপক আলোচনা।"
    },
    "rank": 2
   },
   {
-   "id": "11stlxk",
+   "id": "zllneo",
    "heat": 4,
    "why": {
-    "en": "Bangladesh seeks $14 billion from Japan for major infrastructure projects.",
-    "bn": "বাংলাদেশ জাপানের কাছ থেকে পরিকাঠামো প্রকল্পের জন্য ১৪ বিলিয়ন ডলার চাইছে।"
+    "en": "California wildfire prompts mass evacuations—trending globally, picked up by multiple outlets and Bangladeshi social signals.",
+    "bn": "ক্যালিফোর্নিয়ায় দাবানলে ব্যাপক অনুসন্ধান—গুগল ট্রেন্ডে ক্যালিফোর্নিয়া ২০০+ ট্রেন্ড করছে।"
    },
    "rank": 3
   },
   {
-   "id": "1wsjnmq",
-   "heat": 3,
+   "id": "1pv51kv",
+   "heat": 4,
    "why": {
-    "en": "Gaibandha corn farmers hit hard by fertiliser shortage and price spikes.",
-    "bn": "গাইবান্ধার ভুট্টা চাষীরা সার সংকট এবং দাম বৃদ্ধির সম্মুখীন।"
+    "en": "BNP chief whip's controversial 'no development' threat sparks political debate; চীফ হুইপ trending 200+ on Google.",
+    "bn": "চিফ হুইপের নুরুল ইসলাম মনি সংবাদে আছেন—গুগল ট্রেন্ডে জাতীয় সংসদের চীফ হুইপ ২০০+ ট্রেন্ড।"
    },
    "rank": 4
   },
   {
-   "id": "5j5w1y",
+   "id": "mkd7yg",
    "heat": 3,
    "why": {
-    "en": "Netrokona journalist killed in shooting while returning home from work.",
-    "bn": "নেত্রকোনার সাংবাদিক বাড়ি ফেরার সময় গুলিতে নিহত হয়েছেন।"
+    "en": "Over 1,000 arrested daily with prisons bursting—serious domestic issue affecting justice system.",
+    "bn": "প্রতিদিন ১০০০ জনের বেশি গ্রেফতার, জেলা পূর্ণ—সিস্টেমে গুরুতর চাপ।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "okva9b",
-   "tag": "#FitnessBiz",
+   "id": "4v9pv8",
+   "tag": "#DeepfakeCrisis",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Mark Wahlberg's affordable gym",
-    "text": "Actor Mark Wahlberg is launching a budget-friendly gym chain to compete with luxury wellness brands. The move aims to make fitness accessible to everyday people."
+    "title": "Deepfake videos spark TV backlash",
+    "text": "A Bangladeshi TV channel faces backlash after posting deepfake videos of actresses. The controversy has ignited debates about digital abuse and content responsibility."
    },
    "bn": {
-    "title": "মার্ক ওয়ালবার্গের সাশ্রয়ী জিম",
-    "text": "অভিনেতা মার্ক ওয়ালবার্গ বিলাসবহুল ফিটনেস ব্র্যান্ডের সাথে প্রতিযোগিতার জন্য সাশ্রয়ী মূল্যের জিম চেইন চালু করছেন।"
+    "title": "ডিপফেক ভিডিও নিয়ে টিভি বিতর্ক",
+    "text": "বাংলাদেশী একটি টিভি চ্যানেল অভিনেত্রীদের ডিপফেক ভিডিও পোস্ট করে সমালোচিত হয়েছে। ডিজিটাল অপব্যবহার নিয়ে প্রশ্ন উঠেছে।"
    }
   },
   {
-   "id": "1b3pie8",
-   "tag": "#AIShift",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Replit ditches Anthropic for OpenAI",
-    "text": "Coding platform Replit has ended its partnership with AI company Anthropic and switched to OpenAI. The move signals a major shift in AI integration strategies for developer tools."
-   },
-   "bn": {
-    "title": "রিপ্লিট অ্যান্থ্রপিক ছেড়ে ওপেনএআইতে যায়",
-    "text": "কোডিং প্ল্যাটফর্ম রিপ্লিট অ্যান্থ্রপিকের সাথে পার্টনারশিপ শেষ করে ওপেনএআইতে চলে গেছে।"
-   }
-  },
-  {
-   "id": "jl1lqv",
-   "tag": "#EV",
+   "id": "1nb1shq",
+   "tag": "#RagsToBillions",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Porsche Macan goes electric",
-    "text": "Porsche's new Macan electric car combines sports performance with crossover practicality. The vehicle marks another major automaker's push into the EV market."
+    "title": "Chutney seller builds 600 crore empire",
+    "text": "A success story trending in showbiz: a chutney vendor's journey to a 600 crore taka business empire shows Bengali entrepreneurial spirit."
    },
    "bn": {
-    "title": "পোর্শে ম্যাকান বৈদ্যুতিক হলো",
-    "text": "পোর্শের নতুন ইলেকট্রিক ম্যাকান স্পোর্টস পারফরম্যান্স এবং ক্রসওভার সুবিধা একত্রিত করে।"
+    "title": "চাটনি বিক্রেতা থেকে ৬০০ কোটি সাম্রাজ্য",
+    "text": "একজন চাটনি বিক্রেতার ৬০০ কোটি টাকার ব্যবসায়িক সাম্রাজ্য গড়ার গল্প বিনোদন জগতে ট্রেন্ড করছে।"
    }
   },
   {
-   "id": "s7jxih",
-   "tag": "#Kabaddi",
+   "id": "1lo7wsu",
+   "tag": "#YunusRecognized",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "British-Bangladeshi captains England kabaddi",
-    "text": "Anisa Khan, a British-Bangladeshi athlete, has been appointed captain of England's women's kabaddi team. She becomes a prominent face for the sport in British sport."
+    "title": "Yunus wins Hillary Clinton Award",
+    "text": "Bangladesh's chief advisor wins the prestigious Hillary Clinton Award in Washington, bringing international recognition."
    },
    "bn": {
-    "title": "ব্রিটিশ-বাঙালি কাবাড়ি দলের ক্যাপ্টেন",
-    "text": "আনিসা খান ইংল্যান্ডের মহিলা কাবাড়ি দলের ক্যাপ্টেন নিযুক্ত হয়েছেন।"
+    "title": "নুইউস হিলারি ক্লিনটন পুরস্কার জিতেছেন",
+    "text": "বাংলাদেশের চিফ অ্যাডভাইজার ওয়াশিংটনে হিলারি ক্লিনটন পুরস্কার জিতেছেন।"
    }
   }
  ],

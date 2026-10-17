@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-17T04:14:53.129Z",
+ "updatedAt": "2026-10-17T09:14:19.199Z",
  "items": [
+  {
+   "id": "5m29du",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/pm-orders-cleanup-azimpur-government-quarters-within-two-weeks-1575296",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/screenshot_2026-10-17_150504.png",
+   "published": "2026-10-17T09:05:00.000Z",
+   "added": "2026-10-17T09:14:19.199Z",
+   "origTitle": "PM orders cleanup of Azimpur government quarters within two weeks",
+   "en": {
+    "title": "PM orders Azimpur quarters cleaned within two weeks",
+    "summary": "Prime Minister Tarique Rahman visited the Azimpur Government Officers' Residential Quarters on October 17 and expressed strong displeasure at unhygienic conditions. He ordered authorities to complete a full cleanup within two weeks. Residents also complained about poor security and maintenance, which the PM asked officials to address."
+   },
+   "bn": {
+    "title": "আজিমপুর কোয়ার্টার দুই সপ্তাহে পরিষ্কার করার নির্দেশ",
+    "summary": "প্রধানমন্ত্রী তারিক রহমান ১৭ অক্টোবর আজিমপুর সরকারি কর্মকর্তাদের আবাসিক এলাকা পরিদর্শন করেন এবং অপরিচ্ছন্ন অবস্থায় দৃঢ় অসন্তুষ্টি প্রকাশ করেন। তিনি কর্তৃপক্ষকে দুই সপ্তাহের মধ্যে সম্পূর্ণ পরিষ্কার করার নির্দেশ দেন। বাসিন্দারা নিরাপত্তা এবং রক্ষণাবেক্ষণ সমস্যার অভিযোগ করেন, যা সমাধানে প্রধানমন্ত্রী কর্মচারীদের নির্দেশ দেন।"
+   }
+  },
+  {
+   "id": "mkd7yg",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Dhaka Tribune",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHcyNlNIVFc3R0RPX1NTeGlnZ3F3UXhJcU1pYVZEZ0kxS2RRYzBmb3BGVGxQX3d3dHBUeFNQeHVOVl8zUGdBNkhQanFmSE0taEc3RS1HYzMtcEVsMkVEV1VjV3lMelkteEpLc0pTUExySldLNm94bFlobTc4elZROXhVSWM2Wmlmc2tiWmFzVDBCVXBJOEdnSUpwOGdqZ9IBowFBVV95cUxNd0diZmo1TDFhTnUtMGFWS3RrelBpdGdhWkI5M1BRb3MwUTh6ODdQOFVXVDZsUWNuTFdwZ2hqTDdrNnEzeUtTY01SeEFRZUhLZFV6MFRCZmgtUUg1X1JHNGVXVHhVVVR3blRjMjM0bkNGRXJmY3dQRXlMUlU0VU5rcWxlaXlwN2NkMlVxS2FrSDdNb2UzanZSWEVIUjBmSnNVZFNr?oc=5",
+   "image": null,
+   "published": "2026-10-16T18:00:00.000Z",
+   "added": "2026-10-17T09:14:19.199Z",
+   "origTitle": "More than 1,000 arrested daily as Bangladesh prisons exceed capacity",
+   "en": {
+    "title": "Over 1,000 arrested daily, prisons bursting at seams",
+    "summary": "Bangladesh's prison system is overwhelmed, with more than 1,000 people arrested every single day. The jails have far exceeded their capacity limits. This crowding raises serious concerns about detention conditions and the justice system's ability to handle the caseload."
+   },
+   "bn": {
+    "title": "দৈনিক ১০০০ জন গ্রেপ্তার, জেলখানা পূর্ণ",
+    "summary": "বাংলাদেশের জেল ব্যবস্থা সম্পূর্ণ অতিপূর্ণ হয়ে গেছে—প্রতিদিন হাজারেরও বেশি মানুষ গ্রেপ্তার হচ্ছেন। জেলগুলো তাদের ক্ষমতার চেয়ে অনেক বেশি বন্দিদের ধরে রাখছে। এটা বন্দিদের অবস্থা এবং আইনি ব্যবস্থার ক্ষমতা নিয়ে গুরুতর সমস্যা তৈরি করছে।"
+   }
+  },
+  {
+   "id": "1nb1shq",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো বিনোদন",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOVNMMUxnVld3VXVxZDQzXzgzNzdmMU5LRnpiRVR1N2FIUmsxTldncGFNQTVybWhqdHc5bUdoRWRpYjZDRU1QODZ2UEFNLXVqWU9uYy1UMVlIcWZUSVpudnFZMVZwZllLT0IzLUlR0gF7QVVfeXFMUG0yZVFtVmVWVWROSTJ3STVqTk03SGwxaFZWb2YwdmpWWWEzVmt0QzV6YUprWkRydzBVNWhHeEh5ZmNiV1RkMklIU3gwTDdacG9IZEFRQUMzNlU1Tl9mY0N6bC10V2FPbFFvS3l3c3k4TzV2bWJBLUU2SGJn?oc=5",
+   "image": null,
+   "published": "2026-10-17T04:30:00.000Z",
+   "added": "2026-10-17T09:14:19.198Z",
+   "origTitle": "সংসার চালাতে চাটনি বিক্রি করতেন মা, মেয়ে এখন ৬০ কোটি টাকার মালিক",
+   "en": {
+    "title": "From selling chutney to 600 crore taka empire",
+    "summary": "A woman built a massive business empire starting from humble beginnings—her mother used to sell chutney to support the family. Now the daughter owns assets worth 600 crore taka. It's a classic rags-to-riches story that shows how hard work and entrepreneurship can completely transform a family's fortune."
+   },
+   "bn": {
+    "title": "চাটনি বিক্রি থেকে ৬০ কোটি টাকার মালিক",
+    "summary": "একজন মহিলা ছোট থেকে শুরু করে বিশাল ব্যবসায়িক সাম্রাজ্য গড়েছেন—তার মা সংসার চালাতে চাটনি বিক্রি করতেন। এখন মেয়ে ৬০ কোটি টাকার মালিক। এটা একটা ক্লাসিক রাগস টু রিচেস স্টোরি যা দেখায় কীভাবে পরিশ্রম এবং উদ্যোগ একটা পরিবারের ভাগ্য বদলে দিতে পারে।"
+   }
+  },
+  {
+   "id": "vczste",
+   "section": "news",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/education/higher-education/99k0r37loi",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-17/t5ygpe0o/5.jpg",
+   "published": "2026-10-17T08:50:36.000Z",
+   "added": "2026-10-17T09:14:06.234Z",
+   "origTitle": "ঢাকা বিশ্ববিদ্যালয়ে উইন্টার কোর্স, উন্নয়নসংক্রান্ত নানা বিষয়ে হাতে–কলমে প্রশিক্ষণ",
+   "en": {
+    "title": "DU launches winter course mixing development theory with real fieldwork",
+    "summary": "Dhaka University's Department of Development Studies and Friendship Academy are offering a month-long winter executive course called Development in Practice 2026. The course combines classroom sessions with a two-day field study in Gaibandha's char areas to give young professionals hands-on experience. Classes run only on weekends, and top international development experts will lead sessions."
+   },
+   "bn": {
+    "title": "ঢাকা বিশ্ববিদ্যালয়ের শীতকালীন কোর্সে তত্ত্ব ও প্রায়োগিক অভিজ্ঞতা",
+    "summary": "ঢাকা বিশ্ববিদ্যালয়ের উন্নয়ন অধ্যয়ন বিভাগ ও ফ্রেন্ডশিপ একাডেমি মাসব্যাপী ডেভেলপমেন্ট ইন প্র্যাকটিস ২০২৬ কোর্স চালু করছে। ক্লাসরুমের পাশাপাশি গাইবান্ধার চরাঞ্চলে দুই দিনের ফিল্ড স্টাডি রয়েছে। ক্লাস শুধু উইকএন্ডে হবে এবং আন্তর্জাতিক উন্নয়ন বিশেষজ্ঞরা শেখাবেন।"
+   }
+  },
+  {
+   "id": "1phqau",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/youth/employment/taictskqth",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-17/3jwjf1xi/UYRPDCDMKNI4BC652TSGZB7L6M.jpg",
+   "published": "2026-10-17T07:32:55.000Z",
+   "added": "2026-10-17T09:14:06.234Z",
+   "origTitle": "Canada Express Entry: Up to 100 extra points for high-wage jobs, key changes announced",
+   "en": {
+    "title": "Canada boosts Express Entry with up to 100 bonus points",
+    "summary": "Canada has announced major changes to its Express Entry pathway for Permanent Residency. High-wage job holders will get extra points: 100 points for earning double the median wage, 70 points for 1.5 times, and 50 points for 1.3 times the median. New rules take effect November 3, 2026, and the Labour Market Impact Assessment requirement is waived for high-wage jobs."
+   },
+   "bn": {
+    "title": "কানাডা এক্সপ্রেস এন্ট্রিতে ১০০ বোনাস পয়েন্ট যোগ করেছে",
+    "summary": "কানাডা স্থায়ী আবাসনের জন্য এক্সপ্রেস এন্ট্রি সিস্টেমে বড় পরিবর্তন ঘোষণা করেছে। উচ্চ বেতনের চাকরিধারীরা অতিরিক্ত পয়েন্ট পাবেন: মধ্যমা বেতনের দ্বিগুণ উপার্জনে ১০০ পয়েন্ট, ১.৫ গুণে ৭০ পয়েন্ট এবং ১.৩ গুণে ৫০ পয়েন্ট। নতুন নিয়ম ৩ নভেম্বর ২০২৬ থেকে কার্যকর হবে।"
+   }
+  },
+  {
+   "id": "6z0tq2",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792112818.jpg?resize=1920%2C1080&quality=80",
+   "published": "2026-10-17T08:40:47.000Z",
+   "added": "2026-10-17T09:14:06.234Z",
+   "origTitle": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
+   "en": {
+    "title": "Twenty-year-old Mongolian murder case in Malaysia revisited",
+    "summary": "A new investigation examines the 2006 killing of Mongolian woman Altantuya Shaariibuu by two Malaysian special forces police who used C4 explosives. The truth about why she was killed remains unclear, sparking suspicions of a political cover-up. The inquiry probes alleged trial interference, her links to a corrupt submarine deal, and claims the officers acted on orders from former Prime Minister Najib Razak, who denies involvement."
+   },
+   "bn": {
+    "title": "মালয়েশিয়ায় বিশ বছরের পুরনো মঙ্গোলিয়ান নারীর হত্যা পুনরীক্ষিত",
+    "summary": "২০০৬ সালে মঙ্গোলিয়ান নারী আলতানতুয়া শারিবুকে মালয়েশিয়ার দুজন বিশেষ বাহিনীর পুলিশ সি-৪ বিস্ফোরক দিয়ে হত্যা করে। তার মৃত্যুর কারণ আজও অস্পষ্ট এবং রাজনৈতিক ষড়যন্ত্রের সন্দেহ রয়েছে। তদন্ত ট্রায়ালে হস্তক্ষেপ, অবৈধ সাবমেরিন ডিলের সাথে তার সম্পর্ক এবং প্রাক্তন প্রধানমন্ত্রী নাজিব রাজাকের নির্দেশনায় কাজ করার দাবি পরীক্ষা করছে।"
+   }
+  },
+  {
+   "id": "32a747",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+   "published": "2026-10-17T07:41:01.000Z",
+   "added": "2026-10-17T09:14:06.234Z",
+   "origTitle": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "en": {
+    "title": "Trump halts Russian sanctions as US-Ukraine tensions spike",
+    "summary": "US President Donald Trump blocked multiple sanctions on Russia two days before they were set to take effect, citing national interest. The sanctions were passed by Congress in September but Trump's Friday executive order waived some. The move sparked criticism from US lawmakers and worsened relations with Ukraine, after the US imported Russian diesel and cut military support to Kyiv."
+   },
+   "bn": {
+    "title": "ট্রাম্প রাশিয়ার উপর মার্কিন নিষেধাজ্ঞা স্থগিত করেছেন",
+    "summary": "মার্কিন রাষ্ট্রপতি ডোনাল্ড ট্রাম্প রাশিয়ার বিরুদ্ধে অসংখ্য নিষেধাজ্ঞা স্থগিত করেছেন যা কার্যকর হওয়ার দুই দিন আগে। সেপ্টেম্বরে কংগ্রেস এই নিষেধাজ্ঞা পাস করেছিল কিন্তু ট্রাম্প শুক্রবার এক্সিকিউটিভ অর্ডারে কিছু রহিত করেন। মার্কিন আইনপ্রণেতারা সমালোচনা করছেন এবং ইউক্রেনের সাথে সম্পর্ক খারাপ হয়েছে।"
+   }
+  },
+  {
+   "id": "ke8orf",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cqrly015p1nzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f30/live/d59b5590-c9fa-11f1-bb10-89ce65f72e2c.jpg",
+   "published": "2026-10-17T07:51:52.000Z",
+   "added": "2026-10-17T09:14:06.234Z",
+   "origTitle": "কক্সবাজারে রিসোর্টে আগুনে অন্তত ১০ জনের মৃত্যু, আরো যা জানা যাচ্ছে",
+   "en": {
+    "title": "At least 10 dead in Cox's Bazar resort fire",
+    "summary": "A fire broke out at a resort and restaurant in Inani, Ukhia, Cox's Bazar on Saturday morning, killing at least 10 people. Fire Service recovered 10 bodies; one child, two women and one man have been identified so far. Six injured were taken to Cox's Bazar General Hospital. The two-storey resort is built partly of brick and partly of wood, bamboo and tin."
+   },
+   "bn": {
+    "title": "কক্সবাজারের রিসোর্টে আগুনে অন্তত ১০ জন মৃত",
+    "summary": "শনিবার সকালে উখিয়ার ইনানীতে একটি রিসোর্ট ও রেস্তোরাঁয় আগুন লাগে। ফায়ার সার্ভিস দশজনের মরদেহ উদ্ধার করেছে। এর মধ্যে একজন শিশু, দুজন নারী এবং একজন পুরুষ চিহ্নিত হয়েছে। ছয়জন আহত সদর হাসপাতালে পাঠানো হয়েছে। রিসোর্টটি কাঠ, বাঁশ ও টিন দিয়ে তৈরি ছিল।"
+   }
+  },
+  {
+   "id": "4v9pv8",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/entertainment/dhallywood/975046/%E2%80%98%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%A8%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8%E2%80%99-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%AE%E0%A6%A3%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD",
+   "image": null,
+   "published": "2026-10-17T09:09:47.000Z",
+   "added": "2026-10-17T09:14:06.234Z",
+   "origTitle": "‘আমার কাজ নষ্ট করে দিলেন’, পরীমণির ক্ষোভ",
+   "en": {
+    "title": "Deepfake videos of actresses posted by TV channel spark backlash",
+    "summary": "Machiranga Television's verified Instagram account posted five posts with distorted videos of actresses Parimonee and Mehjabin Chowdhury on Monday night. The posts stayed up until Tuesday morning. The channel later apologised with a photo card. Parimonee expressed anger, saying her work was ruined."
+   },
+   "bn": {
+    "title": "টিভি চ্যানেলের বিকৃত ভিডিও পোস্টে অভিনেত্রীর ক্ষোভ",
+    "summary": "সোমবার রাতে মাছরাঙা টেলিভিশনের ভেরিফাইড ইনস্টাগ্রাম অ্যাকাউন্টে পরীমণি ও মেহজাবীনের বিকৃত ভিডিওসহ পাঁচটি পোস্ট প্রকাশ করা হয়। মঙ্গলবার দুপুর পর্যন্ত পোস্টগুলো ছিল। এরপর চ্যানেল কতৃপক্ষ দু:খ প্রকাশ করে একটি ফটোকার্ড দেয়। পরীমণি রেগে গিয়ে বলেন, তার কাজ নষ্ট করে দিলেন।"
+   }
+  },
   {
    "id": "ypb20i",
    "section": "news",
@@ -2793,204 +2991,6 @@
    "bn": {
     "title": "নেতানিয়াহু নির্বাচনের আগে সৌদি আরব খুশি করতে ইয়েমেনে হামলার কথা ভাবছেন",
     "summary": "ইসরায়েলি গোয়েন্দা সূত্র জানিয়েছে, প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু ২৭ অক্টোবরের নির্বাচনের আগে ইয়েমেনের হুথি বিদ্রোহীদের বিরুদ্ধে সামরিক অভিযান চালাতে পারেন। এই ধরনের পদক্ষেপ তার পুনর্নির্বাচনের সম্ভাবনা বাড়াতে পারে। গত ৪৮ ঘণ্টায় ইরানের পরিবর্তে ইয়েমেন এখন সম্ভাব্য লক্ষ্য হিসেবে উঠে আসছে।"
-   }
-  },
-  {
-   "id": "a1imnd",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558370.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423700/423742.jpg",
-   "published": "2026-10-14T05:47:12.000Z",
-   "added": "2026-10-14T07:30:44.895Z",
-   "origTitle": "Rahmat Shah calls hard-fought Abu Dhabi draw 'equal to a win'",
-   "en": {
-    "title": "Rahmat Shah calls Abu Dhabi draw 'equal to a win'",
-    "summary": "Afghanistan's Rahmat Shah saw their hard-fought draw in Abu Dhabi as a victory of sorts. Qais Ahmad played aggressive shots late in the match, ignoring coach Richard Pybus's caution. The risky batting nearly backfired when Afghanistan was vulnerable. Shah's team fought back to secure the draw."
-   },
-   "bn": {
-    "title": "রাহমত শাহ আবু ধাবির ড্র 'বড় জয়ের মতো' বলেছেন",
-    "summary": "আফগানিস্তানের রাহমত শাহ আবু ধাবির কঠোর লড়াইয়ের ড্রকে জয়ের মতো দেখেছেন। কাইস আহমদ ম্যাচের শেষে আক্রমণাত্মক শট খেলেছেন, কোচ রিচার্ড পাইবাসের সতর্কতা উপেক্ষা করে। ঝুঁকিপূর্ণ ব্যাটিং প্রায় ব্যর্থ হতে পারত যখন আফগানিস্তান দুর্বল ছিল। শাহের দল ড্র সুরক্ষিত করতে ফিরে লড়াই করেছে।"
-   }
-  },
-  {
-   "id": "1bbks74",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো বিনোদন",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fellsRnZzbldFaldmMUtOSXVUY29HVWdVRTlVT2xjMzI2S2xScDhINGhkYlU2OENGdUs1LTFQYkZLOFBPeVJpT0tNeXExM0FvaGQySEtiUXVNZHdyRElRUElxeEhDbENDdmVGcW9fdkZsd9IBf0FVX3lxTE5PMlNGUmRJc0ZWNkFlZEJqVHZlM01zcDRNX3ZmQ2Q4czB2dFJCMUl5dERmMHhvTGphNlRKOWhvY3hwZEZVX1NRemFEeHBpM1NXX0pZTWJEVkhJMVdDajFPUjRKTVNmLU5CY25uRWU5S00xQzQ2R1R2dTZxZVlvejA?oc=5",
-   "image": null,
-   "published": "2026-10-14T02:00:00.000Z",
-   "added": "2026-10-14T07:30:44.895Z",
-   "origTitle": "১০০ বছর আগে কম্পিউটার ছাড়াই পর্দায় অসম্ভবকে সম্ভব করেছিলেন মুরনাউ",
-   "en": {
-    "title": "Murnau created the impossible on screen 100 years ago",
-    "summary": "German filmmaker Murnau pulled off stunning visual effects a century ago without computers. He made the impossible look real through innovative camera work and creative tricks. His techniques still influence filmmakers today. It's a reminder that raw creativity can beat fancy tech."
-   },
-   "bn": {
-    "title": "মুরনাউ ১০০ বছর আগে কম্পিউটার ছাড়াই অসম্ভব করেছিলেন",
-    "summary": "জার্মান চলচ্চিত্র পরিচালক মুরনাউ কম্পিউটার ছাড়াই শতাব্দী আগে অবিশ্বাস্য ভিজ্যুয়াল ইফেক্ট তৈরি করেছিলেন। তিনি উদ্ভাবনী ক্যামেরা কাজ এবং সৃজনশীল কৌশল দিয়ে অসম্ভবকে বাস্তব করেছিলেন। তার কৌশল আজও চলচ্চিত্রকারদের প্রভাবিত করে। এটি দেখায় যে সৃজনশীলতা ফ্যান্সি প্রযুক্তির চেয়ে শক্তিশালী।"
-   }
-  },
-  {
-   "id": "5z8q54",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWhQNk9tU1JVbmtLcHZfV1ZtSmdfXzh1TnFteGpoTjBUWUFYa1I2WGp3QTBRNG9wVTVkSGRuZWo4dlVMcDJNMWdrZnNYRnZQbjV1VEhuNFlWT3MyOXN6bHJmOGFYaDFNMzd6Wl9WMWVMZEJVTG1SQVBabnJQOERtenVMT25ud1hJUHAyaDJHaXpiSzlTWTZJLTdR0gGfAUFVX3lxTE9HdkppeFZCQnJJdEZTYlpxV1hzOGdPQVBBWm5zN2ZXWnJjeTBYbVBQcjhGMEZ1Mi1KbW9XVDF0cGgzWHl6LVZnNm5DSmpERHctUXI1WnRsUnB1RzRZUW5SOFY1c3FCZFRJcmdBWkdFTGpVSHQxMnNUdS1XR3E3LTVxWHNoaUtackpUSDNyOGxXa2xqalIzVGVDVTdXMWx1OA?oc=5",
-   "image": null,
-   "published": "2026-10-13T14:23:47.000Z",
-   "added": "2026-10-14T07:30:44.895Z",
-   "origTitle": "Fire breaks out at Secretariat building; swiftly brought under control",
-   "en": {
-    "title": "Fire breaks out at Secretariat building, quickly controlled",
-    "summary": "A fire broke out at the Secretariat building in Dhaka. The blaze was swiftly brought under control before it could spread. No details on the cause or damage were provided. Emergency response teams were on the scene."
-   },
-   "bn": {
-    "title": "সেক্রেটারিয়েট ভবনে আগুন, দ্রুত নিয়ন্ত্রণে আনা হয়",
-    "summary": "ঢাকার সেক্রেটারিয়েট ভবনে আগুন লেগেছে। আগুন দ্রুত নিয়ন্ত্রণে আনা হয়েছে এবং ছড়ায়নি। কারণ বা ক্ষতির বিষয়ে কোনো তথ্য দেওয়া হয়নি। জরুরি দল ঘটনাস্থলে উপস্থিত ছিল।"
-   }
-  },
-  {
-   "id": "88btwq",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/k0tlh53wxy",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-14/x7d9angj/Bangladesh-Press-Council.jpg",
-   "published": "2026-10-14T07:16:21.000Z",
-   "added": "2026-10-14T07:30:32.274Z",
-   "origTitle": "সাংবাদিকদের জরিমানা করাসহ স্বপ্রণোদিত ব্যবস্থা নেওয়ার ক্ষমতা চায় প্রেস কাউন্সিল",
-   "en": {
-    "title": "Press Council seeks power to fine journalists, take suo moto action",
-    "summary": "Bangladesh Press Council has asked for legal power to take suo moto action against news deemed harmful to national integrity or public interest, and to fine journalists. The body also wants authority over false news and hate speech. Critics argue this repeats previous attempts to restrict press freedom and contradicts the council's original mandate to protect journalism independence."
-   },
-   "bn": {
-    "title": "প্রেস কাউন্সিল সাংবাদিকদের জরিমানা ও স্বপ্রণোদিত ব্যবস্থার ক্ষমতা চায়",
-    "summary": "বাংলাদেশ প্রেস কাউন্সিল জাতীয় অখণ্ডতার জন্য ক্ষতিকর বা জনস্বার্থ ক্ষুণ্ন হয় এমন সংবাদের বিরুদ্ধে স্বপ্রণোদিত হয়ে ব্যবস্থা নেওয়ার ক্ষমতা এবং সাংবাদিকদের জরিমানা করার আইনি ক্ষমতা চেয়েছে। সংস্থাটি মিথ্যা খবর এবং ঘৃণামূলক বক্তব্যের বিরুদ্ধেও একই ধরনের ক্ষমতা চাইছে। সমালোচকরা আর্গু করছেন এটি সাংবাদিকতার স্বাধীনতা সীমাবদ্ধ করার আগের প্রচেষ্টার পুনরাবৃত্তি এবং কাউন্সিলের মূল উদ্দেশ্যের বিরুদ্ধ।"
-   }
-  },
-  {
-   "id": "10oi3y1",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/business/local/cn3tmkk5d7",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-14/evx7ltdz/Massum.avif",
-   "published": "2026-10-14T07:15:15.000Z",
-   "added": "2026-10-14T07:30:32.274Z",
-   "origTitle": "People do not want to pay a penalty; they want relief",
-   "en": {
-    "title": "World Bank, IMF warn of slower growth and rising inflation",
-    "summary": "Both the World Bank and IMF predict slower economic growth and further inflation increases in Bangladesh. This means people will get poorer, the middle class will struggle, job creation will stall, and real incomes won't grow. Bangladesh's economy has been declining since 2022 under the previous government. The interim government has slowed the decline in some areas, but recovery remains uncertain."
-   },
-   "bn": {
-    "title": "বিশ্বব্যাংক এবং আইএমএফ মন্দা বৃদ্ধি এবং মুদ্রাস্ফীতির সতর্কতা দিয়েছে",
-    "summary": "বিশ্বব্যাংক এবং আইএমএফ উভয়ই বাংলাদেশে অর্থনৈতিক বৃদ্ধি মন্থর এবং মুদ্রাস্ফীতি বৃদ্ধির ভবিষ্যদ্বাণী করেছে। এর অর্থ মানুষ আরও দরিদ্র হবে, মধ্যবিত্ত শ্রেণী সংগ্রাম করবে, চাকরি সৃষ্টি থেমে যাবে এবং প্রকৃত আয় বৃদ্ধি পাবে না। বাংলাদেশের অর্থনীতি ২০২২ সাল থেকে হ্রাস পাচ্ছে। অন্তর্বর্তী সরকার কিছু ক্ষেত্রে হ্রাস মন্থর করেছে কিন্তু পুনরুদ্ধার অনিশ্চিত রয়েছে।"
-   }
-  },
-  {
-   "id": "83a0kq",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299247760.jpg?resize=1200,787",
-   "published": "2026-10-14T01:30:42.000Z",
-   "added": "2026-10-14T07:30:32.274Z",
-   "origTitle": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-   "en": {
-    "title": "North Korean hackers infiltrated at least 70 US companies",
-    "summary": "The US Justice Department announced that North Korean hackers have infiltrated at least 70 American companies across healthcare, retail, communications, and manufacturing sectors. Federal authorities seized over 180 computers from 'laptop farms' in Texas and arrested at least two people who facilitated the hacks. North Korean spies used stolen US identities to gain employment and remotely hack into companies, stealing around $3 million in funds."
-   },
-   "bn": {
-    "title": "উত্তর কোরিয়ার হ্যাকাররা কমপক্ষে ৭০টি আমেরিকান কোম্পানিতে অনুপ্রবেশ করেছে",
-    "summary": "যুক্তরাষ্ট্রের বিচার বিভাগ জানিয়েছে যে উত্তর কোরিয়ার হ্যাকাররা স্বাস্থ্যসেবা, খুচরা, যোগাযোগ এবং উৎপাদন খাতে কমপক্ষে ৭০টি আমেরিকান কোম্পানিতে অনুপ্রবেশ করেছে। ফেডারেল কর্তৃপক্ষ টেক্সাসের 'ল্যাপটপ ফার্ম' থেকে ১৮০টিরও বেশি কম্পিউটার জব্দ করেছে এবং কমপক্ষে দুইজনকে গ্রেফতার করেছে। উত্তর কোরিয়ার গোয়েন্দারা চাকরি পাওয়ার জন্য চুরি করা আমেরিকান পরিচয় ব্যবহার করে কোম্পানিতে অনুপ্রবেশ করেছে এবং প্রায় ৩ মিলিয়ন ডলার চুরি করেছে।"
-   }
-  },
-  {
-   "id": "1ggk2fb",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acf20098d7c-1791959049.jpg?resize=1920%2C1440",
-   "published": "2026-10-14T07:08:32.000Z",
-   "added": "2026-10-14T07:30:32.274Z",
-   "origTitle": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
-   "en": {
-    "title": "Russian missile strikes kill six in Ukraine, cut Kyiv power",
-    "summary": "Russia conducted a massive strike on Ukraine's communications and energy infrastructure, killing at least six people and causing power cuts in Kyiv. The attack came days after US President Donald Trump announced an 'energy ceasefire' in the over-four-year war. Ukrainian President Zelenskyy criticized Western allies for not providing early warning of the ballistic missiles. Russia struck multiple regions including Kyiv, Dnipropetrovsk, Zaporizhzhia, Kharkiv, and others."
-   },
-   "bn": {
-    "title": "রাশিয়ার ক্ষেপণাস্ত্র হামলায় ছয় জন নিহত, কিয়েভে বিদ্যুৎ বিচ্ছিন্ন",
-    "summary": "রাশিয়া ইউক্রেনের যোগাযোগ ও শক্তি অবকাঠামোয় বিশাল আক্রমণ চালিয়েছে যাতে কমপক্ষে ছয় জন নিহত হয়েছে এবং কিয়েভে বিদ্যুৎ সরবরাহ বিচ্ছিন্ন হয়েছে। এই আক্রমণ আমেরিকার প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের চার বছরের যুদ্ধে 'শক্তি সম্বয়চুক্তি' ঘোষণার মাত্র দিন পরে ঘটেছে। ইউক্রেনের প্রেসিডেন্ট জেলেনস্কি পশ্চিমা মিত্রদের ব্যালিস্টিক মিসাইলের আগাম সতর্কতা না দেওয়ার সমালোচনা করেছেন।"
-   }
-  },
-  {
-   "id": "1ca9qre",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cqkgleln0kg8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e83/live/02cad250-c700-11f1-b4dd-e786ec6f11b1.jpg",
-   "published": "2026-10-14T07:01:33.000Z",
-   "added": "2026-10-14T07:30:32.274Z",
-   "origTitle": "পোপ লিও ক্যান্সারে আক্রান্ত, এ নিয়ে পাঁচটি প্রশ্নের উত্তর",
-   "en": {
-    "title": "Pope Leo has lung cancer after surgery, Vatican confirms",
-    "summary": "The 71-year-old Pope Francis underwent a 90-minute surgery on Tuesday at Rome's Gemelli Hospital to remove the lower portion of his right lung. Vatican confirmed he has lung adenocarcinoma, a common form of lung cancer that develops in mucus-producing cells. A routine health checkup had previously detected a small nodule that turned out to be cancerous. The Pope returned to his quarters after the successful surgery."
-   },
-   "bn": {
-    "title": "পোপ লিওর ফুসফুসের ক্যান্সার নিশ্চিত, সার্জারি সফল",
-    "summary": "৭১ বছর বয়সী পোপ ফ্রান্সিস মঙ্গলবার রোমের জেমেলি হাসপাতালে তার ডান ফুসফুসের নিম্নাংশ অপসারণের জন্য ৯০ মিনিটের সার্জারি করিয়েছেন। ভ্যাটিকান নিশ্চিত করেছে তার ফুসফুসের অ্যাডেনোকার্সিনোমা রয়েছে, যা একটি সাধারণ ধরনের ক্যান্সার যা শ্লেষ্মা উৎপাদনকারী কোষ থেকে শুরু হয়। নিয়মিত স্বাস্থ্য পরীক্ষার সময় একটি ছোট পিণ্ড শনাক্ত হয়েছিল যা ক্যান্সারে পরিণত হয়েছে। সার্জারি সফল হয়েছে এবং পোপ তার কক্ষে ফিরেছেন।"
-   }
-  },
-  {
-   "id": "106v5w8",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/lpg-strike-will-face-strict-legal-action-warns-tuku-1572431",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/untitled_design_33.jpg",
-   "published": "2026-10-14T07:20:00.000Z",
-   "added": "2026-10-14T07:30:32.274Z",
-   "origTitle": "LPG strike will face strict legal action, warns Tuku",
-   "en": {
-    "title": "LPG strike will face strict legal action, warns minister",
-    "summary": "Power Minister Iqbal Hasan Mahmood Tuku warned of legal action against LPG traders planning a strike on October 15-16. The Bangladesh LPG Traders Co-operative Association wants higher commissions and claims harassment. Tuku said global fuel markets are unstable with the US as the only reliable source. Both power and commerce ministers urged traders to negotiate instead of disrupting supplies."
-   },
-   "bn": {
-    "title": "এলপিজি ধর্মঘটে কঠোর আইনি ব্যবস্থা নেওয়া হবে: তুকু",
-    "summary": "বিদ্যুৎ মন্ত্রী ইকবাল হাসান মাহমুদ তুকু ১৫ এবং ১৬ অক্টোবরে এলপিজি ধর্মঘটের বিরুদ্ধে কঠোর আইনি পদক্ষেপের হুমকি দিয়েছেন। বাংলাদেশ এলপিজি ট্রেডার্স কো-অপারেটিভ অ্যাসোসিয়েশন বেশি কমিশন এবং হয়রানির বিরুদ্ধে প্রতিবাদ জানাচ্ছে। তুকু বলেছেন বিশ্বব্যাপী জ্বালানি বাজার অস্থিতিশীল এবং আমেরিকা একমাত্র নির্ভরযোগ্য উৎস। মন্ত্রীরা ব্যবসায়ীদের সরবরাহ বাধাগ্রস্ত না করে আলোচনার আহ্বান জানিয়েছেন।"
    }
   }
  ]
