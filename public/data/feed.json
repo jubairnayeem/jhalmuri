@@ -1,6 +1,270 @@
 {
- "updatedAt": "2026-10-17T19:17:41.592Z",
+ "updatedAt": "2026-10-17T22:13:51.384Z",
  "items": [
+  {
+   "id": "1r28obm",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/football/n13v8d5ndx",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-17/wwgjmvlu/HU2ljz8XQAEzDYL.jpg",
+   "published": "2026-10-17T19:14:51.000Z",
+   "added": "2026-10-17T22:13:51.383Z",
+   "origTitle": "৫৮ বছর পর রিয়ালের কীর্তি ছুঁয়ে বার্সেলোনার ‘নয়ে নয়’",
+   "en": {
+    "title": "Barcelona wins 9 straight, matches Real's 58-year record",
+    "summary": "Barcelona defeated Real Betis 5–2 to win their ninth consecutive match this season, matching a record Real Madrid set 58 years ago. Young star Lamine Yamál dazzled in the first 10 minutes with a stunning goal. Though Betis fought back, Barcelona dominated after Betis's Facundo Bernal received a red card in the second half. Goals from Rodri, Gabriel Jesus, Eric García and Dani Olmo sealed the victory."
+   },
+   "bn": {
+    "title": "বার্সেলোনা নয়ে নয়ে জিতে ৫৮ বছরের রেকর্ড ছুঁলো",
+    "summary": "বার্সেলোনা রিয়াল বেতিসকে ৫–২ গোলে হারিয়ে এই মৌসুমে ৯টি ম্যাচে টানা জয়ী হয়েছে, যা ৫৮ বছর আগে রিয়াল মাদ্রিদ গড়েছিল। তরুণ তারকা লামিনে ইয়ামাল প্রথম ১০ মিনিটে দুর্দান্ত একটি গোল করেছেন। বেতিস লাল কার্ড পেয়ে ১০ জনে নেমে এলে বার্সেলোনা পুরোপুরি নিয়ন্ত্রণে চলে যায়।"
+   }
+  },
+  {
+   "id": "1ev05ep",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/16/lotto-Maryland-Lottery-double-tickets/2371792172262/",
+   "image": "https://cdnph.upi.com/ph/st/th/2371792172262/2026/upi/496552d78226f4e2c08feb08bcae2000/v1.5/Two-tickets-deliver-double-the-lottery-prizes-for-Maryland-woman.jpg",
+   "published": "2026-10-16T17:39:04.000Z",
+   "added": "2026-10-17T22:13:51.383Z",
+   "origTitle": "Two tickets deliver double the lottery prizes for Maryland woman",
+   "en": {
+    "title": "Maryland woman wins $100,000 with two identical lottery tickets",
+    "summary": "A Maryland woman bought two identical tickets for the same lottery drawing and hit big—winning two $50,000 prizes for a total of $100,000. Double the luck, double the winnings."
+   },
+   "bn": {
+    "title": "এক ড্র-তে দুই টিকেট, জেতা ১ লক্ষ ডলার",
+    "summary": "একজন মেরিল্যান্ড নারী একই লটারি ড্র-এর জন্য দুটি একই টিকেট কিনেছিলেন এবং জয়ী হয়েছেন। দুটি $৫০,০০০ পুরস্কার জিতে মোট $১০০,০০০ পেয়েছেন। দ্বিগুণ ভাগ্য, দ্বিগুণ পুরস্কার।"
+   }
+  },
+  {
+   "id": "rmh1qs",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/others/975191/%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%B8%E0%A6%AB%E0%A6%B0-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8",
+   "image": null,
+   "published": "2026-10-17T21:23:00.000Z",
+   "added": "2026-10-17T22:13:51.383Z",
+   "origTitle": "অস্ট্রেলিয়া-যুক্তরাষ্ট্র সফর শেষে দেশে ফিরেছেন সেনাপ্রধান",
+   "en": {
+    "title": "Army Chief returns after Australia and US tour",
+    "summary": "Army Chief General Waker-Uz-Zaman returned home on Saturday after a government tour to Australia and the United States. During the first phase in Australia, he attended The Chief of Army Symposium and Land Forces International Defence Exposition 2026 in Perth and visited Deakin University in Melbourne."
+   },
+   "bn": {
+    "title": "সেনাপ্রধান অস্ট্রেলিয়া-যুক্তরাষ্ট্র সফর শেষে দেশে ফিরেছেন",
+    "summary": "সেনাবাহিনী প্রধান জেনারেল ওয়াকার-উজ-জামান শনিবার অস্ট্রেলিয়া ও যুক্তরাষ্ট্রের সরকারি সফর শেষে দেশে ফিরেছেন। অস্ট্রেলিয়ার পার্থে তিনি 'দ্য চিফ অভ আর্মি সিম্পোজিয়াম' অনুষ্ঠানে যোগ দিয়েছেন এবং মেলবোর্নের ডিকিন ইউনিভার্সিটি পরিদর্শন করেছেন।"
+   }
+  },
+  {
+   "id": "1bft254",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+   "published": "2026-10-17T20:55:52.000Z",
+   "added": "2026-10-17T22:13:51.383Z",
+   "origTitle": "TikTok permanently bans ‘Musk’ documentary advertising account",
+   "en": {
+    "title": "TikTok permanently bans ads for Elon Musk documentary",
+    "summary": "TikTok has permanently suspended the advertising account for a four-hour Elon Musk documentary, citing political content. Meta and YouTube initially rejected the ads too, though they later allowed them. X, which Musk owns, refused to carry ads. The film has now rolled out more broadly after opening in just four theaters."
+   },
+   "bn": {
+    "title": "এলন মাস্ক ডকুমেন্টারির বিজ্ঞাপন টিকটকে ব্যান",
+    "summary": "টিকটক একটি এলন মাস্ক ডকুমেন্টারির বিজ্ঞাপন অ্যাকাউন্ট স্থায়ীভাবে সাসপেন্ড করেছে, রাজনৈতিক কন্টেন্টের অজুহাত দিয়ে। মেটা এবং ইউটিউব প্রথমে বিজ্ঞাপন নিতে অস্বীকার করেছিল, যদিও পরে তারা অনুমোদন করেছে। মাস্ক যে এক্স প্ল্যাটফর্মের মালিক সেখানেও বিজ্ঞাপন প্রচার করা হয়নি।"
+   }
+  },
+  {
+   "id": "1lcfien",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad3d4cee5c2-1792267470.jpg?resize=1920%2C1440",
+   "published": "2026-10-17T21:02:26.000Z",
+   "added": "2026-10-17T22:13:51.383Z",
+   "origTitle": "Cost of living protests hit Belgium, Italy, Portugal and France",
+   "en": {
+    "title": "Wave of cost-of-living protests across Europe",
+    "summary": "Hundreds of thousands of Europeans protested on Saturday against rising living costs across Belgium, France, Italy and Portugal. France saw over 550,000 people join demonstrations, while tens of thousands marched in Lisbon. In Brussels, police used tear gas and water cannon on protesters. Portuguese Parliamentary Affairs Minister said the government will not yield to street protests, but demonstrators say leaders are out of touch."
+   },
+   "bn": {
+    "title": "ইউরোপজুড়ে জীবনযাত্রার খরচের বিরুদ্ধে প্রতিবাদ",
+    "summary": "শনিবার বেলজিয়াম, ফ্রান্স, ইতালি এবং পর্তুগাল জুড়ে লক্ষ লক্ষ মানুষ জীবনযাত্রার ক্রমবর্ধমান খরচের বিরুদ্ধে প্রতিবাদ করেছে। ফ্রান্সে ৫৫০,০০০ এরও বেশি মানুষ মিছিলে যোগ দিয়েছে, আর লিসবনে লক্ষ লক্ষ মানুষ রাস্তায় নেমেছে। ব্রাসেলসে পুলিশ প্রতিবাদকারীদের উপর টিয়ার গ্যাস ব্যবহার করেছে।"
+   }
+  },
+  {
+   "id": "117ju31",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/europe/tens-thousands-march-lisbon-over-housing-and-living-costs-1575991",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/lisbon.png",
+   "published": "2026-10-17T19:20:00.000Z",
+   "added": "2026-10-17T22:13:51.383Z",
+   "origTitle": "Tens of thousands march in Lisbon over housing and living costs",
+   "en": {
+    "title": "Tens of thousands march in Lisbon over housing crisis",
+    "summary": "Tens of thousands protested in central Lisbon on 17 October against soaring living costs and housing affordability. Portugal's biggest union CGTP organised the rally as house prices have more than doubled since 2017 and rents for new leases nearly doubled. Protesters say low wages can't keep up with costs, leaving many struggling. The demonstration follows a tent camp set up by housing activists in Porto that police cleared."
+   },
+   "bn": {
+    "title": "লিসবনে হাজার হাজারের মিছিল, আবাসন সংকটের বিরুদ্ধে",
+    "summary": "১৭ অক্টোবর লিসবনের কেন্দ্রীয় এলাকায় জীবিকার খরচ এবং আবাসন সংকটের বিরুদ্ধে বিশাল প্রতিবাদ মিছিল হয়েছে। পর্তুগালের বৃহত্তম ট্রেড ইউনিয়ন CGTP এই র‍্যালির আয়োজন করেছে কারণ ২০১৭ সালের পর থেকে বাড়ির দাম দ্বিগুণ হয়েছে এবং ভাড়াও প্রায় তার মতো বেড়েছে। প্রতিবাদকারীরা বলছে মজুরি খরচের সাথে তাল মিলাতে পারছে না।"
+   }
+  },
+  {
+   "id": "gnybii",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/cricket/snydtjczvp",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-17/z2xl6rle/85612722940751762594426377115227449375672828n.jpg",
+   "published": "2026-10-17T21:04:04.000Z",
+   "added": "2026-10-17T22:13:23.727Z",
+   "origTitle": "ব্যাটসম্যানদেরই জেতানো উচিত ছিল, বলছেন তাসকিন",
+   "en": {
+    "title": "Bangladesh collapse against Zimbabwe, batsmen should have won it—Taskin",
+    "summary": "Bangladesh lost to Zimbabwe after being set a target of 272 runs. Bangladesh managed only 172, with no substantial partnership except 47 runs from openers Soumya Sarkar and Tanzid Hasan. Pacer Taskin Ahmed, who took three early wickets, blamed the batsmen: the pitch didn't help bowlers much, yet they failed to chase a winnable target."
+   },
+   "bn": {
+    "title": "বাংলাদেশ জিম্বাবুয়ের কাছে পরাজিত, ব্যাটসম্যানদের জেতানো উচিত ছিল—তাসকিন",
+    "summary": "বাংলাদেশ জিম্বাবুয়ের ২৭২ রানের লক্ষ্য শিকার করতে পারেনি এবং মাত্র ১৭২ রান করে হেরেছে। উদ্বোধনী জুটি সৌম্য সরকার এবং তানজিদ হাসান ৪৭ রান করেছিল, কিন্তু আর কোনো বড় পার্টনারশিপ গড়তে পারেনি। প্রথম তিন উইকেট নিয়েছেন তাসকিন আহমেদ বলেছেন, ব্যাটসম্যানদের জেতানো উচিত ছিল।"
+   }
+  },
+  {
+   "id": "x3384m",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/rajshahi/975192/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%89%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A7%9F",
+   "image": null,
+   "published": "2026-10-17T21:51:00.000Z",
+   "added": "2026-10-17T22:13:23.727Z",
+   "origTitle": "বাংলা ট্রিবিউনে সংবাদ প্রকাশের পর উল্লাপাড়ায় সরকারি মাঠে চাষাবাদ না করার নির্দেশ ইউএনও’র",
+   "en": {
+    "title": "After news report, UNO orders stop to farming on government sports ground",
+    "summary": "The Upazila Nirbahi Officer in Sirajganj inspected a government sports ground in Ullappara after accusations that locals were cultivating it illegally. On Saturday, the UNO issued orders to stop farming immediately and declared the four-bigha field open for sports and recreation. The action followed a news report about the land grab."
+   },
+   "bn": {
+    "title": "খবর প্রকাশের পর সরকারি মাঠে চাষ বন্ধের নির্দেশ",
+    "summary": "সিরাজগঞ্জের উল্লাপাড়ায় সরকারি খেলার মাঠ চাষ করে দখলের অভিযোগের পর ইউএনও পরিদর্শন করেছেন। শনিবার তিনি চাষাবাদ বন্ধের নির্দেশ দিয়ে মাঠটি খেলাধুলার জন্য উন্মুক্ত ঘোষণা করেছেন। এই পদক্ষেপ সংবাদ প্রতিবেদনের পরে নেওয়া হয়েছে।"
+   }
+  },
+  {
+   "id": "1k605g6",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+   "published": "2026-10-17T21:31:32.000Z",
+   "added": "2026-10-17T22:13:23.727Z",
+   "origTitle": "Meta removes language that raised scraping and AI training concerns",
+   "en": {
+    "title": "Meta removes terms over web scraping and AI training concerns",
+    "summary": "Meta removed controversial language from its terms of service that suggested the company could scrape publisher websites and use content to train AI models. Legal experts called the original provision a \"remarkable\" loophole. Meta clarified the crawling terms only applied to ads and business products and that the change doesn't affect how Meta uses web crawlers."
+   },
+   "bn": {
+    "title": "মেটা ওয়েব স্ক্র্যাপিং নিয়ে বিতর্কিত শর্ত সরিয়ে নিয়েছে",
+    "summary": "মেটা তার সেবার শর্তাবলী থেকে বিতর্কিত ভাষা সরিয়ে নিয়েছে যা প্রকাশকদের ওয়েবসাইট স্ক্র্যাপ করার অনুমতি দিতে পারে। আইনি বিশেষজ্ঞরা আসল শর্তটিকে একটি বড় লুপহোল বলেছেন। মেটা স্পষ্ট করেছে যে স্ক্র্যাপিং শর্ত শুধুমাত্র বিজ্ঞাপন এবং ব্যবসায়িক পণ্যের জন্য প্রযোজ্য।"
+   }
+  },
+  {
+   "id": "qq56rh",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/ck3wv4vwwzggo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f153/live/e3de1df0-ca5d-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-17T19:22:55.000Z",
+   "added": "2026-10-17T22:13:23.727Z",
+   "origTitle": "কলকাতায় দুর্গাপুজোর মণ্ডপে পদপিষ্ট হয়ে অন্তত ১৭ জনের মৃত্যু",
+   "en": {
+    "title": "At least 17 dead after stampede at Durga Puja pandal in Kolkata",
+    "summary": "At least 17 people died and 25 were injured in a stampede at a famous Durga Puja pandal in Kolkata on Saturday evening. The incident occurred at the exit gate around 7:40 PM as heavy rain caused crowds to rush in and out simultaneously. Many victims were from districts outside Kolkata. Several other major pandals subsequently closed to visitors as a precaution."
+   },
+   "bn": {
+    "title": "কলকাতার দুর্গাপূজা মণ্ডপে পদপিষ্টে কমপক্ষে ১৭ জন মৃত",
+    "summary": "শনিবার সন্ধ্যায় কলকাতার একটি বিখ্যাত দুর্গাপূজা মণ্ডপে পদপিষ্টের ঘটনায় কমপক্ষে ১৭ জন মারা গেছেন এবং ২৫ জন আহত হয়েছেন। ভারী বৃষ্টির কারণে ভিড় প্রবেশ এবং বের হওয়ার জন্য একসাথে ধাক্কাধাক্কি করছিল। অনেক ভুক্তভোগী কলকাতার বাইরের জেলা থেকে এসেছিলেন। অন্যান্য বড় মণ্ডপগুলো সতর্কতার জন্য দর্শকদের জন্য বন্ধ করেছে।"
+   }
+  },
+  {
+   "id": "h9858m",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/europe/stolen-pink-diamond-returns-public-display-france-after-100-years-1576001",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/850802455_1808620680456283_3078596728959018807_n.png",
+   "published": "2026-10-17T19:30:00.000Z",
+   "added": "2026-10-17T22:13:23.727Z",
+   "origTitle": "Stolen pink diamond returns to public display in France after 100 years",
+   "en": {
+    "title": "Stolen pink diamond found in apple returns to French museum display",
+    "summary": "France's rare nine-carat Grand Condé diamond, stolen in 1926, is back on public display at Château de Chantilly until January 3. Thieves hid it in a hollowed apple, but a hungry maid at their hotel discovered it by taking a bite. The pear-shaped gem is one of few royal jewels to survive the French Revolution."
+   },
+   "bn": {
+    "title": "চুরি হওয়া গোলাপি হীরা আপেলের ভেতরে পাওয়া গেছিল, এখন প্রদর্শনীতে",
+    "summary": "ফ্রান্সের দুর্লভ নয় ক্যারেট গ্র্যান্ড কন্ডে হীরা ১৯২৬ সালে চুরি হয়েছিল এবং এখন শেটো ডি শান্টিলিতে প্রদর্শিত হচ্ছে। চোররা এটি খোলা আপেলের মধ্যে লুকিয়েছিল, কিন্তু তাদের হোটেলের একজন ক্ষুধার্ত কাজের মেয়ে কামড় দিয়ে আবিষ্কার করেছিল। এটি ফ্রেঞ্চ বিপ্লবের পরে টিকে থাকা কয়েকটি রাজকীয় গহনার মধ্যে একটি।"
+   }
+  },
+  {
+   "id": "1vea6bk",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg",
+   "published": "2026-10-17T20:52:17.000Z",
+   "added": "2026-10-17T22:13:23.727Z",
+   "origTitle": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+   "en": {
+    "title": "France sees violent protests, 1,200 arrested as anger over cost of living erupts",
+    "summary": "Violence erupted across France on Saturday as over 550,000 people protested education standards and living costs. At least 1,200 were arrested as buildings burned, shops were looted, and riot police used tear gas and water cannons. Sixty law enforcement officers were injured, including two hospitalized unconscious. The Limoges town hall fire caused the roof to partly collapse."
+   },
+   "bn": {
+    "title": "ফ্রান্সে জীবনযাত্রার ব্যয় নিয়ে বিক্ষোভ, ১২০০ জন গ্রেপ্তার",
+    "summary": "শনিবার ফ্রান্সে শিক্ষা মান এবং জীবনযাত্রার খরচের বিরুদ্ধে ৫৫ লক্ষেরও বেশি মানুষ প্রতিবাদ করেছে। কমপক্ষে ১২০০ জন গ্রেপ্তার হয়েছে যখন ভবন পুড়েছে এবং দোকান লুট হয়েছে। পুলিশ অশ্রুগ্যাস এবং ওয়াটার ক্যানন ব্যবহার করেছে। ৬০ জন আইন প্রয়োগকারী আহত হয়েছেন।"
+   }
+  },
   {
    "id": "1xnycmw",
    "section": "hasi",

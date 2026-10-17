@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-17T17:03:50.689Z",
+ "updatedAt": "2026-10-17T22:14:06.820Z",
  "burning": [
   {
    "id": "mor5g5",
    "heat": 5,
    "why": {
-    "en": "Resort fire in Cox's Bazar kills 10—major tragedy covered by multiple outlets.",
-    "bn": "কক্সবাজারের রিসোর্ট ফায়ারে ১০ জন মারা গেছে—বড় দুর্ঘটনা, একাধিক আউটলেটে কভার।"
+    "en": "Cox's Bazar resort fire killing 10 is dominating search with 10000+ trending queries in Bangla.",
+    "bn": "কক্সবাজার রিসোর্ট আগুনে ১০ জন মৃত—বাংলায় ১০,০০০+ ট্রেন্ডিং সার্চ।"
    },
    "rank": 1
   },
   {
-   "id": "mkd7yg",
-   "heat": 5,
+   "id": "qq56rh",
+   "heat": 4,
    "why": {
-    "en": "Over 1,000 arrested daily with prisons bursting—urgent domestic crisis drawing attention.",
-    "bn": "প্রতিদিন ১০০০+ মানুষ গ্রেফতার, জেলা ভরাট—জরুরি দেশীয় সংকট।"
+    "en": "Kolkata Durga Puja stampede killing 17 covered by multiple outlets, serious tragedy.",
+    "bn": "কলকাতা দুর্গাপূজা মণ্ডপে ভিড়ে ১৭ জন মারা গেছেন, বহু মাধ্যমে খবর।"
    },
    "rank": 2
   },
   {
-   "id": "1jp3ib7",
+   "id": "gnybii",
    "heat": 4,
    "why": {
-    "en": "Saudi Arabia executes 2 Bangladeshis in Makkah—overseas tragedy affecting nationals.",
-    "bn": "মক্কায় সৌদি আরব ২ বাংলাদেশিকে ফাঁসি দিয়েছে—আন্তর্জাতিক মামলা।"
+    "en": "Bangladesh cricket collapse vs Zimbabwe with Taskin's critique gets sports media traction.",
+    "bn": "বাংলাদেশ জিম্বাবোয়ের বিপক্ষে হেরেছে, তাসকিন সমালোচনা করেছেন—খেলার খবরে আলোচনা।"
    },
    "rank": 3
   },
   {
-   "id": "5j5w1y",
-   "heat": 4,
+   "id": "1lcfien",
+   "heat": 3,
    "why": {
-    "en": "Netrokona journalist shot dead returning home—safety and press freedom concern.",
-    "bn": "নেত্রকোনায় সাংবাদিক গুলিতে নিহত—মিডিয়া স্বাধীনতা ও নিরাপত্তা ইস্যু।"
+    "en": "European cost-of-living protests multi-outlet coverage shows global economic concern.",
+    "bn": "ইউরোপ জুড়ে খরচ বৃদ্ধির বিরুদ্ধে প্রতিবাদ, বহু আউটলেটে খবর।"
    },
    "rank": 4
   },
   {
-   "id": "11stlxk",
+   "id": "1bft254",
    "heat": 3,
    "why": {
-    "en": "Bangladesh seeks $14B from Japan for major infrastructure projects.",
-    "bn": "বাংলাদেশ জাপানের কাছে অবকাঠামোর জন্য ১৪ বিলিয়ন ডলার চাইছে।"
+    "en": "TikTok's Elon Musk documentary ad ban shows tech platform power moves.",
+    "bn": "টিকটক ইলন মাস্ক ডকুমেন্টারির বিজ্ঞাপন নিষিদ্ধ করেছে, টেক জগতে আলোচনা।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "sch167",
-   "tag": "#BumrahReturns",
+   "id": "mor5g5",
+   "tag": "#CoxsBazarFire",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "Bumrah back for India Test series",
-    "text": "Star pacer Jasprit Bumrah returns for India's Test series against New Zealand, bolstering the squad ahead of crucial matches."
+    "title": "Resort fire kills 10 in Cox's Bazar",
+    "text": "A devastating fire at a Cox's Bazar resort has killed at least 10 people, including three close friends. The incident is drawing massive online attention."
    },
    "bn": {
-    "title": "বুমরাহ ফিরছেন ভারতীয় দলে",
-    "text": "জসপ্রিত বুমরাহ নিউজিল্যান্ডের বিপক্ষে ভারতের টেস্ট সিরিজে ফিরে আসছেন।"
+    "title": "কক্সবাজার রিসোর্ট আগুনে ১০ জন মৃত",
+    "text": "কক্সবাজারের একটি রিসোর্টে আগুন লেগে কমপক্ষে ১০ জন মারা গেছেন, তাদের মধ্যে তিন বন্ধুও আছেন। ঘটনাটি অনলাইনে ব্যাপক আলোচনা সৃষ্টি করেছে।"
    }
   },
   {
-   "id": "ypb20i",
-   "tag": "#NikiPrasadDebut",
+   "id": "gnybii",
+   "tag": "#BDCricket",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Niki Prasad debuts for India T20",
-    "text": "Deepti backs Niki Prasad as India brings in fresh talent for T20I cricket against West Indies."
+    "title": "Bangladesh loses to Zimbabwe, batsmen blamed",
+    "text": "Bangladesh's cricket team collapsed against Zimbabwe. Fast bowler Taskin Ahmed says the batsmen should have won it—a tough loss for the squad."
    },
    "bn": {
-    "title": "ভারতে নিকি প্রসাদের T20 ডেবিউ",
-    "text": "দীপ্তি নিকি প্রসাদকে সাপোর্ট করছেন যখন ভারত T20I ক্রিকেটে তাজা প্রতিভা আনছে।"
+    "title": "বাংলাদেশ জিম্বাবোয়ের কাছে হেরেছে",
+    "text": "জিম্বাবোয়ের বিপক্ষে বাংলাদেশ খারাপ পারফর্ম করেছে। তাসকিন আহমেদ বলেছেন ব্যাটসম্যানদের এটা জেতার সুযোগ ছিল—দলের জন্য কঠিন পরাজয়।"
    }
   },
   {
-   "id": "1kmcrbo",
-   "tag": "#PremierLeague",
+   "id": "1lcfien",
+   "tag": "#CostOfLiving",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 3,
    "en": {
-    "title": "Leeds vs Manchester United Sunday",
-    "text": "Big Premier League clash lined up as Leeds face Manchester United this Sunday in a must-watch match."
+    "title": "Europe's cost-of-living wave spreads",
+    "text": "Protests over rising costs are sweeping across Europe. Tens of thousands have marched in Lisbon and other cities demanding action on the housing and inflation crisis."
    },
    "bn": {
-    "title": "লিডস বনাম ম্যানচেস্টার ইউনাইটেড",
-    "text": "এই রবিবার প্রিমিয়ার লিগে বড় ম্যাচ হবে লিডস আর ম্যান ইউনাইটেডের মধ্যে।"
+    "title": "ইউরোপে খরচ বৃদ্ধির প্রতিবাদ",
+    "text": "বাড়ির দাম এবং মুদ্রাস্ফীতির বিরুদ্ধে ইউরোপজুড়ে প্রতিবাদ চলছে। লিসবন এবং অন্যান্য শহরে হাজার হাজার মানুষ পদযাত্রা করেছেন।"
    }
   }
  ],
