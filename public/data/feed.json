@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-17T17:03:36.956Z",
+ "updatedAt": "2026-10-17T19:17:41.592Z",
  "items": [
+  {
+   "id": "1xnycmw",
+   "section": "hasi",
+   "cat": "politics",
+   "tone": "light",
+   "satire": true,
+   "src": "eArki",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxQcnhoQWhudjlnWl93bjJwd3dsRFlBT3dHSFlpaGhHVjRYSXdjTzk0U05ILVAwUnRWLTkwRlU3VjJrZ2FKZTlrc0VWZVlDc1AxeFNkSGVqMGs4WnlKOFBuRDhVOEtPTmtIaDBQU0tIYzVkdGUyZHpvRmtHNExMTXhjOWtuUi05YXFHUzQzRDdoUEh4SGNLbXB3aFJ6Z3Y0SzJ1d08xMUlNcEx4Q0g5ZmF3cy1aWklJRGhCcllIaVUwekFsV19OSjFfYlNHMDBMM0ljRzFqWFJpeVVpMWg3TDJERGlhamQ1Q09GMURodzRJbElRT1llNGpHWVhnMVJIM1lGd01jODBSVUhmOTZ3alFEMTh1YzVYbkJFM1BaaGY3YnN3YlNrX29sUnVld1hzSjl6dEtqRXl0MlR3cGYwMUJGLW85V3NrSDlhX2tsZDdqZ2xJZGRaWGpWYW1CdzZzbVZ0ZEszblRTRk0xcTZmdVhvdDZhM1YtemFZWk5aaHoxNE1aQ1dLaWI0cENnRmlfcktTQnRBRzFUYVdEUVg5M21Xck1wUTJRTWswbVJocUVBR0d6RGlFQnhyenJqV0x2UHN6V3plRGVnQVFnRVdjZnRvWWNxN2ZuV1Y2aFVLbWZYWUlySnkweEFERWFUdVI3NE9VWGttX1UwSHFMeXZZakNIVFF1b0pQQmo3eVd5amNNcndiTTd0dF9OOUpBUE9nUmRZNXFTZ1IydXp4S1d1SmRrNlhlV0dPb2l2U2xzcFhMVG5VQUJM?oc=5",
+   "image": null,
+   "published": "2026-10-17T06:34:18.000Z",
+   "added": "2026-10-17T19:17:41.592Z",
+   "origTitle": "অপরাধীদের অভয়ারণ্য হিসেবে বাংলাদেশের নাম ঘোষণা ইউনেস্কোর। অপরাধীরা ধন্যবাদ দিল সালাউদ্দিন আহমেদকে",
+   "en": {
+    "title": "This is satire: UNESCO supposedly labels Bangladesh crime sanctuary",
+    "summary": "This is a joke article. It satirically claims UNESCO has declared Bangladesh a sanctuary for criminals and that they thanked politician Salauddin Ahmed. It's not real—just poking fun at current events."
+   },
+   "bn": {
+    "title": "এটা হাসি-ঠাট্টা: ইউনেস্কো বাংলাদেশকে অপরাধী আশ্রয়কেন্দ্র ঘোষণা করেছে (সত্যি নয়)",
+    "summary": "এটা একটা মজার নিবন্ধ। এটা ঠাট্টা করে দাবি করছে যে ইউনেস্কো বাংলাদেশকে অপরাধীদের আশ্রয়কেন্দ্র ঘোষণা করেছে এবং তারা রাজনেতা সালাউদ্দিন আহমেদকে ধন্যবাদ জানিয়েছে। এটা সত্যি নয়—শুধু বর্তমান ঘটনাবলী নিয়ে মজা করা।"
+   }
+  },
+  {
+   "id": "1ez2dpq",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "সমকাল",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxPZXFlWEVPam5SQkdHUk5COGVGWXhydTV3Z3lELUluS1RLMDJUbWlWamdXMlVuTFZYVWtJUnI3NTV0bWR1cTNtOWVTTUs1TUZ1YUFBc0l0YmxQR25tWm5tU2x0UVlOOEVUQ2RSYjkwdGFTQUR6cVc2MmVlWFprYV9nV1ZqYVI2X1lsUkY1M0hXdnpMOU9YZk5JQVc3Zm9mZDk5UFlaTkFNa3Q1X2g5eXFrUEI3blF5TEJXSU1PS1dIWlkwU2Y1ZEV6Ml9CU3U2QjlGOXVlR0JsLXVIQWxRY1NkQmwxUzc3ODBIOFdCQUVVbnB6SHJha3RLVjZsNjZOZ180UUVZbzFmbFRHcXNfWW9JN2w3MXFqYlBaTkhlYkNtMXg5SDU1ZkRBM0V3cDBEUV9kcEp5UHd0VHVZS21sZ3RkblhPNDhjUEc3WFRrS1YxODZrNmlBa05JNVctYnBJQnNXSDVTSUZad0d4MjN5VVQ2c200NHJPWHAwa0lQQlV3cG9QTElmZjlaUHlvLUhrVXppR3lUS3dFT3AyekFNUllsYmI0S3pObFBiR053SVZfcWZ1V3Q2M3Z2bFpsZERjZ3JWNFkxWTBsLVpaRFJoaWRWT0FlQm9vZWUzeDBLS2VuZ3IyOU1JTE4wdHlHTUV2ZnFBcm1SdlhuMmdCYTR0RHhiNzVQVlYzSE43QTlFTllTV25rUFpBX3NkWGdtemEtWFdaZkdwZ2FRdXZnS3NBVm5xQWg1MEVWakM3SlFUNXpDOUNwWmtQQURfbUt0OS1wckFLSlpiMkJQZ1ZpOVotcWtSLU50T3RCMTFEaWF1d1FJclNXWUxSV09iamt4UkhEX2wwTU5id2lqMmUybi1SZXN4YWFvSQ?oc=5",
+   "image": null,
+   "published": "2026-10-17T10:42:29.000Z",
+   "added": "2026-10-17T19:17:41.592Z",
+   "origTitle": "গাছ থেকে সুপারি পাড়ায় ছোট ভাইয়ের লাঠির আঘাতে বড় ভাই নিহত",
+   "en": {
+    "title": "Man dies after being struck by brother while collecting betel nut",
+    "summary": "An older brother died after his younger brother hit him with a stick while the older man was picking betel nuts from a tree. The incident happened in what police are investigating as a tragic accident or dispute between the two."
+   },
+   "bn": {
+    "title": "সুপারি পাড়ার সময় ছোট ভাইয়ের লাঠির আঘাতে বড় ভাই মারা গেছেন",
+    "summary": "একজন বড় ভাই মারা গেছেন যখন তার ছোট ভাই তাকে গাছ থেকে সুপারি পাড়ার সময় লাঠি দিয়ে আঘাত করে। এই ঘটনা দুই ভাইয়ের মধ্যে একটি মারাত্মক দুর্ঘটনা বা বিরোধ হিসেবে পুলিশ তদন্ত করছে।"
+   }
+  },
+  {
+   "id": "1g6gz1z",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1558835.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/402000/402061.jpg",
+   "published": "2026-10-17T18:31:06.000Z",
+   "added": "2026-10-17T19:17:41.592Z",
+   "origTitle": "Rabada's back to bolster South Africa as Australia chase series win",
+   "en": {
+    "title": "Rabada's fitness a big boost for South Africa",
+    "summary": "South Africa got good news: their top fast bowler Rabada is fit and ready to go. Australia are hunting a series win, but both teams are still waiting to see what the playing conditions and weather will do. The uncertainty means XIs won't be named until the last minute."
+   },
+   "bn": {
+    "title": "দক্ষিণ আফ্রিকার জন্য ভালো খবর: রাবাদা খেলতে প্রস্তুত",
+    "summary": "দক্ষিণ আফ্রিকা স্বস্তির খবর পেয়েছে—তাদের প্রধান দ্রুত বোলার রাবাদা ফিট এবং প্রস্তুত। অস্ট্রেলিয়া সিরিজ জেতার চেষ্টা করছে, কিন্তু আবহাওয়া এবং মাঠের অবস্থা কী হবে তা নিয়ে অনিশ্চয়তা আছে। এই অনিশ্চয়তার কারণে দুই দলই শেষ মুহূর্তে দল ঘোষণা করবে।"
+   }
+  },
+  {
+   "id": "1qiwmxe",
+   "section": "hasi",
+   "cat": "world",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/what-to-know-about-trumps-russia-diesel-deal/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/EXP_Trumps_Russian_Diesel_Deal_G_PH.jpg",
+   "published": "2026-10-17T18:49:31.000Z",
+   "added": "2026-10-17T19:17:29.399Z",
+   "origTitle": "What To Know About Trump’s Russia Diesel Deal",
+   "en": {
+    "title": "The Onion on Trump's Russia diesel deal (satire)",
+    "summary": "This is satire from The Onion. It jokes that Trump agreed to lift sanctions on Russian diesel to lower gas prices for midterm elections. The piece humorously suggests Trump thought farmers drink diesel and claims money will flow back as campaign donations. This is not real reporting."
+   },
+   "bn": {
+    "title": "দ্য অনিয়ন: ট্রাম্পের রাশিয়া ডিজেল চুক্তি (ব্যঙ্গ)",
+    "summary": "এটি দ্য অনিয়ন ম্যাগাজিনের ব্যঙ্গাত্মক কন্টেন্ট। এতে হাসিতামাশা করে বলা হয় ট্রাম্প মিডটার্ম নির্বাচনে গ্যাসের দাম কমাতে রাশিয়ার উপর প্রতিবন্ধকতা তুলেছেন। নকল সংবাদ নয়, কেবল পরিহাস।"
+   }
+  },
+  {
+   "id": "1nmmdbw",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/world/albanian-police-fire-rubber-bullets-student-protests-rage-1575976",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/fire.png",
+   "published": "2026-10-17T19:05:00.000Z",
+   "added": "2026-10-17T19:17:29.399Z",
+   "origTitle": "Albanian police fire rubber bullets as student protests rage",
+   "en": {
+    "title": "Albanian police use rubber bullets on student protesters",
+    "summary": "Albanian police fired rubber bullets at student protesters on October 17, the fifth day of mass demonstrations demanding PM Edi Rama resign. Reuters footage showed police firing shotguns at crowds, injuring two journalists and several protesters. Police chief Skender Hita confirmed rubber bullets were used and suspended seven officers for exceeding authority. Protests stem from anger over corruption, joblessness, and education failures."
+   },
+   "bn": {
+    "title": "আলবেনিয়ায় পুলিশের রাবার বুলেট, ছাত্রদের প্রতিবাদ অব্যাহত",
+    "summary": "অক্টোবর ১৭ তারিখে আলবেনিয়ার পুলিশ প্রতিবাদকারী ছাত্রদের লক্ষ্যে রাবার বুলেট ছুড়েছে। এটি প্রধানমন্ত্রী এদি রামার পদত্যাগের দাবিতে পাঁচদিনের প্রতিবাদের অংশ। পুলিশ প্রধান স্কেন্ডার হিতা স্বীকার করেছেন যে রাবার বুলেট ব্যবহার করা হয়েছে এবং সাতজন অফিসারকে স্থগিত করা হয়েছে। প্রতিবাদ দুর্নীতি, বেকারত্ব এবং শিক্ষার মানের কারণে হয়েছে।"
+   }
+  },
+  {
+   "id": "1ofd0q0",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792263811.jpg?resize=1920%2C1080&quality=80",
+   "published": "2026-10-17T19:04:00.000Z",
+   "added": "2026-10-17T19:17:29.399Z",
+   "origTitle": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+   "en": {
+    "title": "Kyiv residents protest Mayor Klitschko over winter preparations",
+    "summary": "Hundreds of protesters gathered outside Kyiv Mayor Vitali Klitschko's office demanding his resignation. They blame his failure to prepare the city for winter as Russian strikes have left millions without power across Ukraine. The rallies highlight growing frustration over energy infrastructure vulnerability."
+   },
+   "bn": {
+    "title": "কিয়েভে মেয়র ক্লিৎশকোর পদত্যাগের দাবিতে প্রতিবাদ",
+    "summary": "কিয়েভের মেয়র ভিটালি ক্লিৎশকোর পদত্যাগের দাবিতে শত শত বিক্ষোভকারী তার অফিসের বাইরে সমবেত হয়েছেন। শীত মৌসুমের জন্য প্রস্তুতি ব্যর্থতার জন্য তারা তাকে দায়ী করছেন। রাশিয়ার হামলায় দেশজুড়ে লক্ষ লক্ষ মানুষ বিদ্যুৎহীন অবস্থায় রয়েছেন।"
+   }
+  },
+  {
+   "id": "osm03q",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/politics/other-politics/975186/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%89%E0%A6%AA%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%AA%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%A6",
+   "image": null,
+   "published": "2026-10-17T18:50:21.000Z",
+   "added": "2026-10-17T19:17:29.399Z",
+   "origTitle": "দুর্গাপূজা উপলক্ষে রাজধানীর বিভিন্ন মণ্ডপে জাসদ নেতাদের শুভেচ্ছা বিনিময়",
+   "en": {
+    "title": "JASSAD leaders visit Durga Puja pandals across Dhaka",
+    "summary": "Leaders from the Jassad party visited different Durga Puja pandals in Dhaka on Saturday to exchange greetings with worshippers. Co-chairman Shafi Uddin Molla and joint secretary Shawkat Rayhan visited Dhakeshwari Temple's puja site. The visits were part of the party's engagement during Sharadi Durga Puja celebrations."
+   },
+   "bn": {
+    "title": "ঢাকার বিভিন্ন দুর্গাপূজা মণ্ডপে জাসদ নেতাদের শুভেচ্ছা",
+    "summary": "শনিবার ঢাকার বিভিন্ন দুর্গাপূজা মণ্ডপ পরিদর্শন করেছেন জাসদ নেতারা। ঢাকেশ্বরী মন্দিরের পূজা মণ্ডপে জাসদ সহ-সভাপতি শফি উদ্দিন মোল্লা এবং যুগ্ম সাধারণ সম্পাদক শওকত রায়হান শুভেচ্ছা বক্তব্য রেখেছেন। শরৎকালীন দুর্গাপূজা উপলক্ষে এই পরিদর্শন অনুষ্ঠিত হয়।"
+   }
+  },
   {
    "id": "bqc1vy",
    "section": "news",
@@ -2837,204 +2991,6 @@
    "bn": {
     "title": "বাংলাদেশে মানসিক স্বাস্থ্যের প্রথম সাইন ল্যাঙ্গুয়েজ ব্যাংক তৈরি",
     "summary": "ড. এম তাসদীক হাসান দিপ আবিষ্কার করলেন যে বাংলাদেশের বধির সম্প্রদায়ের কাছে আবেগ প্রকাশের জন্য মাত্র চারটি সাইন আছে—খুশি, দুঃখী, অবাক, ব্যথা। তার পিএইচডি গবেষণা দক্ষিণ এশিয়ার প্রথম ডিজিটাল সম্পদ তৈরি করেছে: মানসিক স্বাস্থ্যের জন্য ৬৪টি বাংলা সাইনের একটি ব্যাংক, যাতে উদ্বেগ, বিষণ্নতা, পরামর্শ এবং পুনরুদ্ধারের ধারণা রয়েছে। বাংলাদেশে ১৩.৭ মিলিয়ন শ্রবণহীন মানুষের সাথে, সুলভ মানসিক স্বাস্থ্য যোগাযোগ আর একটি বিশেষ চাহিদা নয় বরং জরুরি।"
-   }
-  },
-  {
-   "id": "1p9otd5",
-   "section": "news",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/chakri/employment/rf17ylisfm",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/bfcl33la/2.jpeg",
-   "published": "2026-10-14T18:06:03.000Z",
-   "added": "2026-10-14T18:32:26.848Z",
-   "origTitle": "৪৫তম বিসিএসের চূড়ান্ত গেজেট প্রকাশ, সুপারিশ পেলেন ১৭০২ জন",
-   "en": {
-    "title": "45th BCS gazette released: 1,702 candidates recommended",
-    "summary": "The Public Service Commission published the final gazette for the 45th BCS examination on Wednesday, October 14, 2026, with 1,702 candidates approved for appointment. The entire process took nearly four years—from notification in November 2022 to preliminary exams, written tests, and viva. PSC had originally recommended 1,807 candidates across various cadres."
-   },
-   "bn": {
-    "title": "৪৫তম বিসিএসের গেজেট প্রকাশ, ১৭০২ জনের নাম অনুমোদিত",
-    "summary": "সরকারি কর্ম কমিশন বুধবার, ১৪ অক্টোবর ২০২৬-এ ৪৫তম বিসিএসের চূড়ান্ত গেজেট প্রকাশ করেছে এবং ১৭০২ জন প্রার্থীকে নিয়োগের অনুমোদন দিয়েছে। নভেম্বর ২০২২-এর বিজ্ঞপ্তি থেকে চূড়ান্ত ফল পর্যন্ত সম্পূর্ণ প্রক্রিয়া চার বছর লেগেছে। পিএসসি মূলত ১৮০৭ জনকে বিভিন্ন ক্যাডারে সুপারিশ করেছিল।"
-   }
-  },
-  {
-   "id": "1klo31o",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/opinion/interview/jmxaah3q5t",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-14/d988u4ev/prothomalo-bangla2026-10-1473asvsnfICIMOD.avif",
-   "published": "2026-10-14T16:38:46.000Z",
-   "added": "2026-10-14T18:32:26.848Z",
-   "origTitle": "Budhi Gandaki flood poses no direct threat to Bangladesh, but it holds lessons for early warning",
-   "en": {
-    "title": "Nepal floods offer lessons on early warnings for South Asia",
-    "summary": "Nepal faced two major floods recently—one in August caused by high-altitude rock collapse, and one on October 11 from a landslide blocking a tributary. While not a direct threat to Bangladesh, these disasters highlight the Himalayan region's geological risks. The focus now is on building better early warning systems and distinguishing between climate-driven and natural hazards."
-   },
-   "bn": {
-    "title": "নেপালের বন্যা: দক্ষিণ এশিয়ার জন্য শিক্ষা",
-    "summary": "নেপালে সম্প্রতি দুটি বড় বন্যা হয়েছে—আগস্টে উচ্চ পর্বতে শিলা ধসের কারণে, অক্টোবর ১১-এ পার্শ্ববর্তী নদীতে ভূমিস্খলনের কারণে। বাংলাদেশে সরাসরি হুমকি নেই, তবে হিমালয়ের ভূতাত্ত্বিক ঝুঁকি স্পষ্ট। লক্ষ্য এখন আগাম সতর্কতা ব্যবস্থা উন্নত করা এবং জলবায়ু ও প্রাকৃতিক দুর্যোগ আলাদা করা।"
-   }
-  },
-  {
-   "id": "1aafkcn",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/report-more-americans-opting-to-be-buried-in-unknowing-neighbors-backyard/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/More_Americans_NIB_G_GR.jpg",
-   "published": "2026-10-14T17:57:58.000Z",
-   "added": "2026-10-14T18:32:26.848Z",
-   "origTitle": "Report: More Americans Opting To Be Buried In Unknowing Neighbor’s Backyard",
-   "en": {
-    "title": "Report: Americans increasingly burying bodies in neighbors' backyards",
-    "summary": "The Onion reports that more Americans are choosing to bury their remains in unknowing neighbors' backyards as a budget-friendly alternative to traditional funerals. A shovel costs $20 versus $8,000 for a coffin burial, and relatives can visit anytime the neighbor is at work. The trend supposedly avoids environmental damage from embalming while offering flexibility and discretion."
-   },
-   "bn": {
-    "title": "রিপোর্ট: আমেরিকানরা প্রতিবেশীর বাগানে লাশ পুঁতছে",
-    "summary": "দ্য অনিয়ন লিখছে, আমেরিকানরা ঐতিহ্যবাহী অন্ত্যেষ্টির বদলে প্রতিবেশীর অজানায় বাগানে লাশ দাফনের দিকে ঝুঁকছে। বেলচা কিনতে ২০ ডলার খরচ হয় যখন গ্রব বারিয়ালে ৮০০০ ডলার লাগে। আত্মীয়রা যেকোনো সময় প্রতিবেশী কাজে থাকলে দেখা করতে পারে এবং এটা সাশ্রয়ী ও গোপনীয়।"
-   }
-  },
-  {
-   "id": "o5x7fg",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
-   "published": "2026-10-14T18:23:46.000Z",
-   "added": "2026-10-14T18:32:11.257Z",
-   "origTitle": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-   "en": {
-    "title": "YouTube Music labels AI-generated tracks for listeners",
-    "summary": "YouTube Music rolled out labels Wednesday to help listeners identify AI-generated music. Three categories exist: 'Fully Gen AI' for entirely AI-created tracks, 'Partly Gen AI' for mixed human-AI work, and 'No Gen AI' for standard production. The label appears on the player and extends to the main YouTube app, addressing AI's flood across streaming platforms."
-   },
-   "bn": {
-    "title": "ইউটিউব মিউজিক এআই গান চিহ্নিত করতে লেবেল যোগ করল",
-    "summary": "ইউটিউব মিউজিক তিনটি লেবেল চালু করেছে—'ফুলি জেন এআই', 'পার্টলি জেন এআই' এবং 'নো জেন এআই'। এতে শ্রোতারা জানতে পারবে কোন গান পুরোটা এআই দিয়ে বানানো বা আংশিক মানুষের সাথে। স্ট্রিমিং প্ল্যাটফর্মে এআই সঙ্গীত বাড়ছে বলেই এমন পদক্ষেপ নেওয়া হয়েছে।"
-   }
-  },
-  {
-   "id": "1faz98h",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/14/austin-texas-estate-sale-live-grenades-world-war-ii/6091791999348/",
-   "image": "https://cdnph.upi.com/ph/st/th/6091791999348/2026/i/17919994605888/v1.5/Estate-sale-purchase-turns-out-to-be-box-of-live-WWII-grenades.jpg",
-   "published": "2026-10-14T17:38:41.000Z",
-   "added": "2026-10-14T18:32:11.257Z",
-   "origTitle": "Look: Estate sale purchase turns out to be box of live WWII grenades",
-   "en": {
-    "title": "Estate sale shopper discovers box of live WWII grenades",
-    "summary": "A Texas shopper got a nasty surprise when they discovered their estate sale purchase contained live hand grenades from World War II. Police responded to secure the dangerous discovery."
-   },
-   "bn": {
-    "title": "এস্টেট সেলে কিনেছিলেন দ্বিতীয় বিশ্বযুদ্ধের গ্রেনেড",
-    "summary": "টেক্সাসে এক ক্রেতা এস্টেট সেল থেকে কেনা জিনিসের মধ্যে দ্বিতীয় বিশ্বযুদ্ধের জীবন্ত গ্রেনেড খুঁজে পায়। এটি নিরাপদ করতে পুলিশ ছুটে যায়।"
-   }
-  },
-  {
-   "id": "1msc8d2",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6acfb4a2bf-1791997090.jpg?resize=1920%2C1440",
-   "published": "2026-10-14T17:32:09.000Z",
-   "added": "2026-10-14T18:32:11.257Z",
-   "origTitle": "Ex-UK army chef jailed for ‘terror’-related offence",
-   "en": {
-    "title": "UK ex-army chef jailed for terror-related weapon possession",
-    "summary": "Mark Broadhurst, 28, a former British Army member, was sentenced Wednesday to nearly four years in jail for possessing weapons for terrorist purposes. Police found knives, crossbows, black powder, ammunition, air pistols, and a homemade cannon at his home in September 2024. He was linked to an online chat group with three others previously jailed for planning attacks on religious buildings."
-   },
-   "bn": {
-    "title": "সন্ত্রাসী কার্যকলাপে সাজা খাবারের শেফ",
-    "summary": "ব্রিটেনের সাবেক আর্মি শেফ মার্ক ব্রডহার্স্ট সন্ত্রাস সংক্রান্ত কাজে সাজা পেয়েছেন। তার বাড়িতে পুলিশ ছুরি, ক্রসবো, বারুদ এবং হোমমেড কামান খুঁজে পায়। সেপ্টেম্বর ২০২৪-এ গ্রেপ্তার হওয়া হয়। তিনি অনলাইন চ্যাট গ্রুপে ছিলেন যেখানে আরও তিনজন মসজিদ-সিনাগোগে আক্রমণের পরিকল্পনায় জেল খেয়েছে।"
-   }
-  },
-  {
-   "id": "13isvgz",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/974566/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%9C%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%98%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3-%E0%A6%86%E0%A6%B9%E0%A6%A4",
-   "image": null,
-   "published": "2026-10-14T18:16:56.000Z",
-   "added": "2026-10-14T18:32:11.257Z",
-   "origTitle": "রাজধানীতে জুলাই জাদুঘরের সামনে ককটেল বিস্ফোরণ, আহত ১",
-   "en": {
-    "title": "Petrol bomb attack near July massacre museum kills one",
-    "summary": "A CNG autorickshaw driver was injured when assailants threw two petrol bombs outside the July Uprising memorial museum in Sherebangla Nagar on Wednesday night around 10:45 PM. One bomb exploded while the other was recovered unexploded. Police are investigating the incident."
-   },
-   "bn": {
-    "title": "জুলাই জাদুঘরের সামনে ককটেল বিস্ফোরণে আহত",
-    "summary": "বুধবার রাত পৌনে ১১টায় শেরেবাংলা নগরের জুলাই গণঅভ্যুত্থান স্মৃতি জাদুঘরের সামনে দুর্বৃত্তরা দুটি ককটেল নিক্ষেপ করে। একটি বিস্ফোরিত হয় এবং একজন সিএনজি অটোরিকশা চালক আহত হয়। অন্যটি অবিস্ফোরিত অবস্থায় পুলিশ উদ্ধার করে।"
-   }
-  },
-  {
-   "id": "1k9tigt",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cqev3dwmj48vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35c2/live/ee083090-c7dd-11f1-b712-6f93dfe07e87.jpg",
-   "published": "2026-10-14T14:50:11.000Z",
-   "added": "2026-10-14T18:32:11.257Z",
-   "origTitle": "বাংলাদেশে ৩৫ বছরের পরে আইনজীবী হতে বাধা কেন?",
-   "en": {
-    "title": "Bangladesh bans becoming lawyer after age 35",
-    "summary": "Bangladesh's law minister announced Tuesday that people over 35 will no longer be allowed to enter the legal profession, citing the need to make it more professional and respectable. The rule takes effect January 1, 2030, accounting for current students. Lawyers have mixed reactions—some support it to combat fake lawyers and fraud, while others argue fixing the exam system and Bar Council oversight matters more."
-   },
-   "bn": {
-    "title": "৩৫ বছরের পর আইনজীবী হওয়ার পথ বন্ধ করছে সরকার",
-    "summary": "মঙ্গলবার আইনমন্ত্রী জানিয়েছেন, ২০৩০ সালের ১ জানুয়ারি থেকে ৩৫ বছরের বেশি বয়সী কেউ আইনজীবী হতে পারবে না। এই পেশাকে আরও প্রফেশনাল এবং সম্মানজনক করতেই এই সিদ্ধান্ত নেওয়া হয়েছে। আইনজীবীদের মধ্যে মিশ্র প্রতিক্রিয়া রয়েছে—অনেকে এটি স্বাগত জানালেও কেউ কেউ বার পরীক্ষা ও নিয়োগ প্রক্রিয়া সংশোধন বেশি জরুরি বলে মনে করছেন।"
-   }
-  },
-  {
-   "id": "1agbh1g",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/ukraine-says-spacex-hampers-drones-attack-and-defence-us-ties-fray-1573336",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/trumnp.png",
-   "published": "2026-10-14T18:15:00.000Z",
-   "added": "2026-10-14T18:32:11.257Z",
-   "origTitle": "Ukraine says SpaceX hampers drones for attack and defence, as US ties fray",
-   "en": {
-    "title": "Ukraine says SpaceX limiting Starlink as US ties worsen",
-    "summary": "Ukraine says Elon Musk's SpaceX restricted Starlink military services on September 14, hampering drone operations and air defences. The move comes as US-Ukraine relations deteriorate—President Trump lifted sanctions on Russian diesel, called for an energy ceasefire, and suggested Ukraine replace its leader. Russia meanwhile intensified missile and drone attacks on Ukrainian cities, knocking out power for hundreds of thousands."
-   },
-   "bn": {
-    "title": "স্পেসএক্সের স্টারলিংক সীমিত করায় ইউক্রেইনের অভিযোগ",
-    "summary": "ইউক্রেইন বলছে ইলন মাস্কের স্পেসএক্স ১৪ সেপ্টেম্বর স্টারলিংকের মিলিটারি সেবা সীমিত করেছে। এতে ড্রোন অপারেশন এবং এয়ার ডিফেন্স বাধাগ্রস্ত হয়েছে। ট্রাম্প রাশিয়ার উপর থেকে সংবাদ তুলেছেন এবং ইউক্রেইনের নেতা বদলানোর কথা বলেছেন। এদিকে রাশিয়া ইউক্রেইনের শহরগুলোতে ভারী মিসাইল ও ড্রোন আক্রমণ চালিয়েছে।"
    }
   }
  ]
