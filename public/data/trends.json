@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-10-17T13:40:02.021Z",
+ "updatedAt": "2026-10-17T17:03:50.689Z",
  "burning": [
   {
-   "id": "ke8orf",
+   "id": "mor5g5",
    "heat": 5,
    "why": {
-    "en": "Major disaster in Cox's Bazar with at least 10 dead; high news priority.",
-    "bn": "কক্সবাজারে রিসোর্ট ফায়ারে কমপক্ষে ১০ জন মারা গেছে; বড় ঘটনা।"
+    "en": "Resort fire in Cox's Bazar kills 10—major tragedy covered by multiple outlets.",
+    "bn": "কক্সবাজারের রিসোর্ট ফায়ারে ১০ জন মারা গেছে—বড় দুর্ঘটনা, একাধিক আউটলেটে কভার।"
    },
    "rank": 1
   },
@@ -14,35 +14,35 @@
    "id": "mkd7yg",
    "heat": 5,
    "why": {
-    "en": "Over 1,000 arrests daily with prisons overflowing is a major crisis story.",
-    "bn": "প্রতিদিন ১০০০+ গ্রেপ্তার এবং জেলে অতিরিক্ত চাপ একটি বড় সংকট।"
+    "en": "Over 1,000 arrested daily with prisons bursting—urgent domestic crisis drawing attention.",
+    "bn": "প্রতিদিন ১০০০+ মানুষ গ্রেফতার, জেলা ভরাট—জরুরি দেশীয় সংকট।"
    },
    "rank": 2
   },
   {
    "id": "1jp3ib7",
-   "heat": 5,
+   "heat": 4,
    "why": {
-    "en": "Execution of 2 Bangladeshis in Saudi Arabia is high-impact international news.",
-    "bn": "সৌদি আরবে ২ বাঙালির মৃত্যুদণ্ড আন্তর্জাতিক সংবাদে শীর্ষস্থানীয়।"
+    "en": "Saudi Arabia executes 2 Bangladeshis in Makkah—overseas tragedy affecting nationals.",
+    "bn": "মক্কায় সৌদি আরব ২ বাংলাদেশিকে ফাঁসি দিয়েছে—আন্তর্জাতিক মামলা।"
    },
    "rank": 3
   },
   {
-   "id": "1d8olrn",
+   "id": "5j5w1y",
    "heat": 4,
    "why": {
-    "en": "Bamboo dispute in Sunamganj escalates to hospital clash; escalating conflict.",
-    "bn": "সুনামগঞ্জের বাঁশ বিরোধ হাসপাতাল পর্যন্ত বিস্তৃত; তীব্র ঘটনা।"
+    "en": "Netrokona journalist shot dead returning home—safety and press freedom concern.",
+    "bn": "নেত্রকোনায় সাংবাদিক গুলিতে নিহত—মিডিয়া স্বাধীনতা ও নিরাপত্তা ইস্যু।"
    },
    "rank": 4
   },
   {
-   "id": "32a747",
-   "heat": 4,
+   "id": "11stlxk",
+   "heat": 3,
    "why": {
-    "en": "Trump halts Russian sanctions amid Ukraine tensions; major geopolitical shift.",
-    "bn": "ট্রাম্প রাশিয়ান নিষেধাজ্ঞা স্থগিত করেছেন; বৈশ্বিক রাজনীতিতে বড় পরিবর্তন।"
+    "en": "Bangladesh seeks $14B from Japan for major infrastructure projects.",
+    "bn": "বাংলাদেশ জাপানের কাছে অবকাঠামোর জন্য ১৪ বিলিয়ন ডলার চাইছে।"
    },
    "rank": 5
   }
@@ -50,18 +50,34 @@
  "gossip": [
   {
    "id": "sch167",
-   "tag": "#Cricket",
+   "tag": "#BumrahReturns",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "Bumrah returns for India Test series",
-    "text": "India's key pacer Jasprit Bumrah is back for the Test series against New Zealand. Cricket fans on Google are tracking India vs West Indies and anticipating the upcoming matches."
+    "title": "Bumrah back for India Test series",
+    "text": "Star pacer Jasprit Bumrah returns for India's Test series against New Zealand, bolstering the squad ahead of crucial matches."
    },
    "bn": {
-    "title": "বুমরাহ নিউজিল্যান্ডের টেস্টে ফিরছেন",
-    "text": "ভারতের স্টার বোলার জসপ্রিত বুমরাহ নিউজিল্যান্ডের বিপরীতে টেস্ট সিরিজে ফিরে আসছেন। গুগলে ভারত বনাম ওয়েস্ট ইন্ডিজ ট্রেন্ডিং।"
+    "title": "বুমরাহ ফিরছেন ভারতীয় দলে",
+    "text": "জসপ্রিত বুমরাহ নিউজিল্যান্ডের বিপক্ষে ভারতের টেস্ট সিরিজে ফিরে আসছেন।"
+   }
+  },
+  {
+   "id": "ypb20i",
+   "tag": "#NikiPrasadDebut",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Niki Prasad debuts for India T20",
+    "text": "Deepti backs Niki Prasad as India brings in fresh talent for T20I cricket against West Indies."
+   },
+   "bn": {
+    "title": "ভারতে নিকি প্রসাদের T20 ডেবিউ",
+    "text": "দীপ্তি নিকি প্রসাদকে সাপোর্ট করছেন যখন ভারত T20I ক্রিকেটে তাজা প্রতিভা আনছে।"
    }
   },
   {
@@ -72,44 +88,12 @@
    ],
    "heat": 4,
    "en": {
-    "title": "Leeds vs Man United Sunday clash",
-    "text": "Premier League fans are buzzing about Leeds facing Manchester United this Sunday. Matches like Brentford vs Liverpool are also drawing heavy search traffic on Google."
+    "title": "Leeds vs Manchester United Sunday",
+    "text": "Big Premier League clash lined up as Leeds face Manchester United this Sunday in a must-watch match."
    },
    "bn": {
-    "title": "লিডস ম্যান ইউনাইটেড রবিবার",
-    "text": "প্রিমিয়ার লিগে লিডস ম্যানচেস্টার ইউনাইটেডের বিরুদ্ধে রবিবার খেলবে। ব্রেন্টফোর্ড লিভারপুলের মতো ম্যাচ গুগলে ট্রেন্ডিং।"
-   }
-  },
-  {
-   "id": "4v9pv8",
-   "tag": "#Deepfake",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "TV channel posts deepfake actress videos",
-    "text": "A TV channel has posted deepfake videos of actresses, sparking widespread backlash. The incident highlights growing concerns over synthetic media misuse in Bangladesh."
-   },
-   "bn": {
-    "title": "টিভি চ্যানেল ডিপফেক ভিডিও পোস্ট করেছে",
-    "text": "একটি টিভি চ্যানেল অভিনেত্রীদের ডিপফেক ভিডিও পোস্ট করে সমালোচনার সম্মুখীন হয়েছে। সিন্থেটিক মিডিয়া অপব্যবহারের বিপদ নিয়ে উদ্বেগ বাড়ছে।"
-   }
-  },
-  {
-   "id": "11stlxk",
-   "tag": "#Development",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Bangladesh seeks $14B from Japan",
-    "text": "Bangladesh is seeking $14 billion from Japan for transport and energy projects. Major infrastructure funding is a key focus for development planning."
-   },
-   "bn": {
-    "title": "বাংলাদেশ জাপানের কাছে ১৪ বিলিয়ন ডলার চায়",
-    "text": "বাংলাদেশ পরিবহন ও শক্তি প্রকল্পের জন্য জাপানের কাছে ১৪ বিলিয়ন ডলার চাইছে। অবকাঠামো উন্নয়ন অগ্রাধিকার।"
+    "title": "লিডস বনাম ম্যানচেস্টার ইউনাইটেড",
+    "text": "এই রবিবার প্রিমিয়ার লিগে বড় ম্যাচ হবে লিডস আর ম্যান ইউনাইটেডের মধ্যে।"
    }
   }
  ],

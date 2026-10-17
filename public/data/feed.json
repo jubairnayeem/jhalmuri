@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-17T13:39:44.053Z",
+ "updatedAt": "2026-10-17T17:03:36.956Z",
  "items": [
+  {
+   "id": "bqc1vy",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1558881.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/422500/422558.jpg",
+   "published": "2026-10-17T16:04:29.000Z",
+   "added": "2026-10-17T17:03:36.956Z",
+   "origTitle": "Taylor and Ervine lift Zimbabwe to 271 after top-order collapse",
+   "en": {
+    "title": "Taylor and Ervine rescue Zimbabwe with 150-run stand",
+    "summary": "Zimbabwe nearly collapsed at the top but Taylor and Ervine steadied the ship with a 150-run partnership. Taskin Ahmed took three early wickets to put Bangladesh on top. The pair lifted Zimbabwe to 271, turning the match back in their favour after a shaky start."
+   },
+   "bn": {
+    "title": "টেইলর আর এরভিনের ১৫০ রানের পার্টনারশিপে জিম্বাবোয়ে বাঁচল",
+    "summary": "জিম্বাবোয়ের ব্যাটিং লাইনআপ শুরুতেই ধুলোয় পড়েছিল। তাসকিন আহমেদ আগাম তিনটা উইকেট নিয়ে বাংলাদেশকে এগিয়ে রেখেছিলেন। কিন্তু টেইলর আর এরভিন ১৫০ রান যোগ করে জিম্বাবোয়েকে ২৭১ এ নিয়ে আসে এবং ম্যাচ ফিরিয়ে আনে।"
+   }
+  },
+  {
+   "id": "w58nen",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/cricket/6vyj1m8i15",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-17/xtik0spt/WhatsApp-Image-2026-10-17-at-9.20.13-PM.jpeg",
+   "published": "2026-10-17T10:43:47.000Z",
+   "added": "2026-10-17T17:03:31.594Z",
+   "origTitle": "জীবন পাওয়ার পরের বলেই আউট হয়ে গেলেন তানজিদ",
+   "en": {
+    "title": "Tanzid caught out after surviving close lbw appeal",
+    "summary": "Bangladesh batter Tanzid Hasan was caught off the next delivery after getting a lucky escape from an lbw appeal. He had already shaved a boundary earlier in the over. Zimbabwe scored 271 batting first, and Bangladesh's chase got off to a reasonable start before losing early wickets including Tanzid and Soumya Sarkar."
+   },
+   "bn": {
+    "title": "এলবিডব্লু বাঁচার পরই তানজিদ ধরা পড়েন",
+    "summary": "বাংলাদেশী ব্যাটার তানজিদ হাসান একটি কাছাকাছি এলবিডব্লু আবেদন থেকে বাঁচার পরের বলেই ক্যাচ হয়ে গেছেন। ওভারের শুরুতে ইতিমধ্যে ক্যাচ মিস পেয়েছিলেন। জিম্বাবুয়ে ব্যাটিং প্রথম করে ২৭১ রান করে এবং বাংলাদেশ ভালো শুরু করলেও তানজিদ ও সৌম্য সহ তাড়াতাড়ি উইকেট হারায়।"
+   }
+  },
+  {
+   "id": "hzy72o",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/jr9y66iu2c",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-17/r3w3zi24/prothomalo-bangla2026-10-176lrn34jgWhatsApp-Image-2026-10-17-at-20.37.58.avif",
+   "published": "2026-10-17T16:27:10.000Z",
+   "added": "2026-10-17T17:03:31.593Z",
+   "origTitle": "State Minister Ishraque joins anti-drug drive with firearm, faces questions over its use",
+   "en": {
+    "title": "State Minister Ishraque wields firearm in anti-drug operation",
+    "summary": "Liberation War Affairs State Minister Ishraque Hossain brandished a firearm during an anti-drug raid Saturday in Gendaria, Dhaka. The video, posted on his Facebook, showed armed bodyguards apprehending suspects near railway tracks. Police confirmed the operation and arrests, but the state minister's use of a firearm raised questions."
+   },
+   "bn": {
+    "title": "মাদক অভিযানে স্টেট মিনিস্টার ইশরাক আগ্নেয়াস্ত্র ব্যবহার করেন",
+    "summary": "মুক্তিযুদ্ধ বিষয়ক স্টেট মিনিস্টার ইশরাক হোসেন শনিবার ঢাকার গেন্ডারিয়ায় একটি মাদক অভিযানে আগ্নেয়াস্ত্র বহন করেছিলেন। তার ফেসবুকে পোস্ট করা ভিডিওতে সশস্ত্র বডিগার্ড রেলপথের কাছে সন্দেহভাজনদের গ্রেফতার করতে দেখা যায়। পুলিশ অভিযান এবং গ্রেফতার নিশ্চিত করেছে, তবে মিনিস্টারের অস্ত্র ব্যবহার প্রশ্ন তুলেছে।"
+   }
+  },
+  {
+   "id": "7qc3r0",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/economy/stocks/bsec-fines-cbc-capital-led-syndicate-tk3592-lakh-lovello-share-manipulation-1575891",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
+   "published": "2026-10-17T16:00:00.000Z",
+   "added": "2026-10-17T17:03:31.593Z",
+   "origTitle": "BSEC fines CBC Capital-led syndicate Tk35.92 lakh for Lovello share manipulation",
+   "en": {
+    "title": "BSEC fines CBC Capital and others 35.92 lakh for stock manipulation",
+    "summary": "Bangladesh Securities and Exchange Commission penalized CBC Capital merchant bank, a corporate fund, and three individuals a total of Tk35.92 lakh for manipulating Lovello Ice-Cream shares between May and June 2025. The group executed 13 matched trades involving 967,125 shares to artificially inflate volume and price, generating Tk2.24 crore in gains."
+   },
+   "bn": {
+    "title": "শেয়ার ম্যানিপুলেশনে সিবিসি ক্যাপিটাল ও অন্যদের ৩৫.৯২ লাখ জরিমানা",
+    "summary": "বাংলাদেশ সিকিউরিটিজ এন্ড এক্সচেঞ্জ কমিশন সিবিসি ক্যাপিটাল মার্চেন্ট ব্যাংক, একটি কর্পোরেট ফান্ড এবং তিনজন ব্যক্তিকে মোট ৩৫.৯২ লাখ টাকা জরিমানা দিয়েছে লভেলো আইসক্রিম শেয়ার ম্যানিপুলেশনের জন্য। এই গ্রুপ ২০২৫ সালের মে-জুনে ৯৬৭,১২৫ শেয়ার নিয়ে ১৩টি ম্যাচড ট্রেড করে মূল্য বৃদ্ধি করেছিল এবং ২.২৪ কোটি টাকা লাভ করেছিল।"
+   }
+  },
+  {
+   "id": "mor5g5",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/ck5yn9lrz597o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2d8/live/be92ed50-ca3a-11f1-9ab2-b325ce61f9d2.jpg",
+   "published": "2026-10-17T15:10:05.000Z",
+   "added": "2026-10-17T17:03:31.593Z",
+   "origTitle": "তিন বান্ধবীর দুইজন হাঁটতে গিয়েছিলেন, আরেকজন ফিরলেন লাশ হয়ে",
+   "en": {
+    "title": "Resort fire in Cox's Bazar kills 10, including three friends",
+    "summary": "Three childhood friends—Aireen Jahan Meem, Israt Jahan Ima, and Nasrin Akhtar Mukta—went to Inani area in Ukhiya for a trip. While Meem and Ima went out early, Mukta stayed behind to sleep. A fire broke out at the resort, killing at least 10 people including Mukta. Charred bodies made identification difficult."
+   },
+   "bn": {
+    "title": "কক্সবাজারে রিসোর্ট আগুনে ১০ জন নিহত, তিন বন্ধু ছাড়াছড়ি",
+    "summary": "তিন শৈশব-সঙ্গী—আইরীন জাহান মীম, ইসরাত জাহান ইমা এবং নাসরিন আক্তার মুক্তা—উখিয়ার ইনানী এলাকায় ঘুরতে গিয়েছিলেন। মীম এবং ইমা যখন বাইরে ছিলেন, মুক্তা ঘুমাতে থেকে গেলেন। রিসোর্টে আগুন লাগে এবং কমপক্ষে ১০ জন মারা যান, তাদের মধ্যে মুক্তাও রয়েছেন। পোড়া লাশ শনাক্ত করা কঠিন হয়েছে।"
+   }
+  },
+  {
+   "id": "1o83rcw",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9ef5f80f-1788802552.jpg?resize=1920%2C1440",
+   "published": "2026-10-17T16:54:44.000Z",
+   "added": "2026-10-17T17:03:31.593Z",
+   "origTitle": "Why are Latin American countries building closer ties with Israel?",
+   "en": {
+    "title": "Latin America shifts closer to Israel as right-wing rises",
+    "summary": "Colombia moved its embassy to Jerusalem, and Brazil may follow as right-wing politicians gain power in Latin America. Israeli Foreign Minister Gideon Saar called it a diplomatic victory. The shift marks a major change from the region's traditionally pro-Palestine stance, with Israel-support now becoming a campaign issue in Brazil's presidential race."
+   },
+   "bn": {
+    "title": "ডান-পন্থী শক্তির উত্থানে ল্যাটিন আমেরিকা ইসরায়েলের কাছাকাছি হচ্ছে",
+    "summary": "কলম্বিয়া তার দূতাবাস জেরুসালেমে স্থানান্তরিত করেছে এবং ব্রাজিলও এই পথ অনুসরণ করতে পারে। ইসরায়েলের বিদেশমন্ত্রী এটিকে কূটনৈতিক জয় বলে অভিহিত করেছেন। ল্যাটিন আমেরিকার ঐতিহ্যবাহী প্যালেস্টাইন-সমর্থক অবস্থান থেকে এটি একটি বড় পরিবর্তন, যেখানে ইসরায়েল-সমর্থন এখন ব্রাজিলের রাষ্ট্রপতি নির্বাচনে একটি ক্যাম্পেইন ইস্যু হয়ে উঠেছে।"
+   }
+  },
   {
    "id": "nmsz5n",
    "section": "news",
