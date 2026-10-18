@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-18T05:47:20.969Z",
+ "updatedAt": "2026-10-18T10:55:52.957Z",
  "items": [
+  {
+   "id": "40vvlh",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/3td9fuvzn4",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-18/h4o786d6/WhatsApp-Image-2026-10-18-at-16.41.21.jpeg",
+   "published": "2026-10-18T10:45:55.000Z",
+   "added": "2026-10-18T10:55:52.957Z",
+   "origTitle": "আগুনে পুড়ে যাওয়া টুপটুপ রিসোর্টে তদন্ত দলের সদস্যরা, যা দেখলেন",
+   "en": {
+    "title": "Probe team visits burnt-out Tuptup Resort after fire kills 10",
+    "summary": "An investigation committee appointed by Cox's Bazar district administration visited Tuptup Resort in Ukhia on Sunday morning to examine the wooden three-storey building where a fire on Saturday killed 10 tourists and injured six others. The five-member committee, led by Additional District Magistrate Tasneem Jahan, is looking into the cause of the fire, any negligence by resort management, safety compliance, and infrastructure issues. They have been given five working days to submit their report."
+   },
+   "bn": {
+    "title": "টুপটুপ রিসোর্ট দুর্ঘটনার তদন্ত শুরু, ১০ জনের মৃত্যু",
+    "summary": "কক্সবাজারের উখিয়ার টুপটুপ রিসোর্টে শনিবারের আগুনে ১০ জন পর্যটক মারা গেছেন এবং ছয়জন আহত হয়েছেন। রোববার সকালে জেলা প্রশাসনের গঠিত পাঁচ সদস্যের তদন্ত দল ঘটনাস্থল পরিদর্শন করেছে। অতিরিক্ত জেলা ম্যাজিস্ট্রেট তাসনীম জাহান যে দলটির নেতৃত্ব দিচ্ছেন তারা আগুনের কারণ, রিসোর্ট ব্যবস্থাপনার গাফিলতি এবং নিরাপত্তা ব্যবস্থা খতিয়ে দেখছেন। পাঁচ কার্যদিসের মধ্যে প্রতিবেদন জমা দিতে হবে।"
+   }
+  },
+  {
+   "id": "m80m05",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2294948719-1792318885.jpg?resize=1200%2C630",
+   "published": "2026-10-18T10:23:38.000Z",
+   "added": "2026-10-18T10:55:44.524Z",
+   "origTitle": "Egypt to provide ‘all necessary and possible support to Saudi Arabia’",
+   "en": {
+    "title": "Egypt pledges support to Saudi Arabia against Houthis",
+    "summary": "Egypt's National Defence Council said it will provide all necessary support to Saudi Arabia to defend its safety and stability. This comes as Yemen's Iran-aligned Houthis have recently attacked Riyadh's international airport and Saudi Aramco oil facilities. Egypt also committed to intensifying diplomatic efforts for de-escalation in the region."
+   },
+   "bn": {
+    "title": "সৌদি আরবকে সমর্থন করবে মিশর, হুথি হামলায়",
+    "summary": "মিশরের জাতীয় প্রতিরক্ষা পরিষদ সৌদি আরবকে তার নিরাপত্তা রক্ষায় সর্বাত্মক সহায়তা প্রদানের প্রতিশ্রুতি দিয়েছে। ইয়েমেনের ইরান-সম্পর্কিত হুথি বাহিনী সম্প্রতি রিয়াদের বিমানবন্দর ও সৌদি আরামকো তেল সুবিধায় আক্রমণ করেছে। মিশর এই অঞ্চলে কূটনৈতিক উদ্যোগও বাড়াবে।"
+   }
+  },
+  {
+   "id": "1ssqn61",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg",
+   "published": "2026-10-18T10:53:54.000Z",
+   "added": "2026-10-18T10:55:44.524Z",
+   "origTitle": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+   "en": {
+    "title": "Paris riots and looting after fuel price protests",
+    "summary": "France faced widespread rioting and looting on Saturday as around 550,000 people protested rising fuel prices, cost of living, and deteriorating public services. Police arrested about 1,800 people as rioters burned cars, smashed shops, and looted stores across Paris, Marseille, and Lille. More than 500 police and firefighters were injured, and around 1,500 shops were damaged."
+   },
+   "bn": {
+    "title": "জ্বালানি মূল্য বৃদ্ধি: প্যারিসে বিক্ষোভ থেকে দাঙ্গা-লুটপাট",
+    "summary": "জ্বালানি মূল্য বৃদ্ধি, জীবনযাত্রার ব্যয় এবং জনসেবার অবনতির বিরুদ্ধে সাড়ে পাঁচ লক্ষ মানুষ প্যারিসে বিক্ষোভ করেছে। দাঙ্গাবাজরা গাড়ি জ্বালিয়ে, দোকান ভেঙে এবং লুটপাট করেছে। পুলিশ প্রায় ১৮০০ জনকে গ্রেফতার করেছে এবং ৫০০ জনেরও বেশি আহত হয়েছে।"
+   }
+  },
+  {
+   "id": "1l560y8",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.co.uk/bengali/live/cmx2870x0plyt?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506b/live/9dfff1b0-cad4-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-18T10:55:44.524Z",
+   "added": "2026-10-18T10:55:44.524Z",
+   "origTitle": "কক্সবাজারে রিসোর্টে আগুনে নিহতদের মধ্যে তিনজনের পরিবারের সন্ধান পাওয়া যায়নি: পুলিশ",
+   "en": {
+    "title": "Cox's Bazar resort fire: families of 3 dead still missing",
+    "summary": "24 hours after a fire at Tupton Resort in Cox's Bazar's Ukhia area, police have not located the families of 3 of the 10 people who died. The families of the other 7 victims have provided DNA samples sent to Dhaka for testing. Police are continuing efforts to identify the remaining victims and contact their relatives."
+   },
+   "bn": {
+    "title": "কক্সবাজারের রিসোর্ট অগ্নিকাণ্ড: তিন জনের পরিবার অনুপস্থিত",
+    "summary": "কক্সবাজারের উখিয়ায় টুপটুপ রিসোর্টে অগ্নিকাণ্ডের ২৪ ঘণ্টা পরও ১০ জন নিহতের মধ্যে তিনজনের পরিবার খুঁজে পাওয়া যায়নি। বাকি সাতজনের পরিবার যোগাযোগ করেছে এবং তাদের ডিএনএ নমুনা সংগ্রহ করা হয়েছে। পরীক্ষার জন্য নমুনা ঢাকায় পাঠানো হয়েছে।"
+   }
+  },
+  {
+   "id": "q5zns0",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/sport/other-sports/975282/%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%A8%E0%A7%87%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+   "image": null,
+   "published": "2026-10-18T10:52:19.000Z",
+   "added": "2026-10-18T10:55:44.524Z",
+   "origTitle": "শুরুতেই নেপালকে উড়িয়ে দিয়েছে বাংলাদেশ",
+   "en": {
+    "title": "Bangladesh women's handball crushes Nepal 33-20",
+    "summary": "Bangladesh's women's handball team dominated Nepal 33-20 in the opening match of the Begum Khaleda Zia IHF Nations Trophy at the Shaheed Captain M Mansuir Ali National Handball Stadium. Under Spanish coach Ana Alonso, Bangladesh controlled the match from start to finish. Nepal tried to level in the first half but couldn't withstand Bangladesh's tactical attack and solid defence."
+   },
+   "bn": {
+    "title": "বাংলাদেশ নারী হ্যান্ডবল দল নেপালকে ৩৩-২০ গোলে হারায়",
+    "summary": "বেগম খালেদা জিয়া আইএইচএফ নেশনস ট্রফির উদ্বোধনী ম্যাচে বাংলাদেশ নারী হ্যান্ডবল দল নেপালকে ৩৩-২০ গোলে পরাজিত করেছে। স্প্যানিশ কোচ আনা আলোনসোর দলটি শুরু থেকেই খেলা নিয়ন্ত্রণে রেখেছিল। প্রথমার্ধে নেপাল সমতা আনার চেষ্টা করেছিল কিন্তু বাংলাদেশের শক্তিশালী আক্রমণ ও প্রতিরক্ষা তা ঠেকিয়ে দেয়।"
+   }
+  },
+  {
+   "id": "ba9k6s",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/japanese-investors-announce-12b-investment-plan-bangladeshs-tourism-sector-1576511",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/843410124_950600471027929_6996526397375968469_n.jpg",
+   "published": "2026-10-18T10:40:00.000Z",
+   "added": "2026-10-18T10:55:44.524Z",
+   "origTitle": "Japanese investors announce $1.2b investment plan for Bangladesh's tourism sector",
+   "en": {
+    "title": "Japan to invest $1.2 billion in Bangladesh tourism",
+    "summary": "Japanese investors announced a $1.2 billion investment plan for Bangladesh's tourism and hospitality sectors at a meeting with the Civil Aviation and Tourism Ministry on October 18. Minister M Rashiduzzaman Millat highlighted major attractions like the Sundarbans, Cox's Bazar, and Sylhet tea gardens. The government wants to develop the sector through public-private partnerships that benefit both sides."
+   },
+   "bn": {
+    "title": "বাংলাদেশের পর্যটন খাতে জাপানের ১.২ বিলিয়ন ডলার বিনিয়োগ",
+    "summary": "জাপানি বিনিয়োগকারীরা বাংলাদেশের পর্যটন ও আতিথেয়তা খাতে ১.২ বিলিয়ন ডলার বিনিয়োগের পরিকল্পনা ঘোষণা করেছেন। অক্টোবর ১৮ তারিখে বেসামরিক বিমান ও পর্যটন মন্ত্রণালয়ের একটি সভায় এই ঘোষণা হয়েছে। মন্ত্রী সুন্দরবন, কক্সবাজার এবং সিলেটের চা বাগান সহ প্রধান আকর্ষণগুলো তুলে ধরেছেন।"
+   }
+  },
   {
    "id": "12t8b8d",
    "section": "news",
@@ -3123,204 +3255,6 @@
    "bn": {
     "title": "ইসরায়েলি বিজ্ঞাপন সংস্থা অনলাইন বিজ্ঞাপনের মাধ্যমে ব্যাপক গোয়েন্দা কার্যক্রম চালাচ্ছিল",
     "summary": "ইসরায়েলি ডিজিটাল বিজ্ঞাপন কোম্পানি ডিসকভার-টেক ১২০,০০০ ওয়েবসাইট এবং ৭৫,০০০ অ্যাপে অনলাইন বিজ্ঞাপনের মাধ্যমে ব্যাপক গোয়েন্দা কার্যক্রম পরিচালনা করছিল। এই বিজ্ঞাপনগুলো ব্যবহারকারীদের ট্র্যাক করত এবং কখনো কখনো ক্যান্ডিরু নামের ইসরায়েলি কোম্পানির স্পাইওয়্যার ইনস্টল করত। গবেষকরা বলছেন, বিজ্ঞাপন ব্যবস্থা নিজেই সবার জন্য একটি গুরুতর নিরাপত্তা হুমকিতে পরিণত হয়েছে।"
-   }
-  },
-  {
-   "id": "n73icp",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Daily Star",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2pRUk82dmt4TEgtaHdIRGVjLWhzTjR2ZFpPSTFHS2h5T3lxVVZ5LXU1MHAyblZsMURvcXYtZW5Ca1JJTl85Zko3WWNYOFJvcXZsWmtBejFReFMzVWxBa2FzZGEyM3BwXzJEWEN2SXVJSE5ZVHpOdFlHSWdlT0lqZGRuak54Rl9fUkF4Y3ZzNVdRRTllTEFSLXBpcDQ4MU1j?oc=5",
-   "image": null,
-   "published": "2026-10-14T21:34:30.000Z",
-   "added": "2026-10-15T07:21:01.634Z",
-   "origTitle": "'Breaking Bad' actor RJ Mitte found dead at 34",
-   "en": {
-    "title": "Breaking Bad actor RJ Mitte found dead at 34",
-    "summary": "RJ Mitte, known for his role in the acclaimed series Breaking Bad, has been found dead at age 34. The American actor was discovered at his home. Details about the cause are still emerging. Fans and colleagues have begun sharing tributes to his memory."
-   },
-   "bn": {
-    "title": "ব্রেকিং ব্যাড অভিনেতা আরজে মিট ৩৪ বছর বয়সে মৃত পাওয়া গেছেন",
-    "summary": "বিখ্যাত সিরিজ ব্রেকিং ব্যাডের অভিনেতা আরজে মিট ৩৪ বছর বয়সে মৃত পাওয়া গেছেন। আমেরিকান অভিনেতা তার বাড়িতে পাওয়া গিয়েছেন। মৃত্যুর কারণ এখনও স্পষ্ট নয়। অনুরাগী এবং সহকর্মীরা তার স্মৃতিতে শ্রদ্ধা জানাতে শুরু করেছেন।"
-   }
-  },
-  {
-   "id": "1eys7jl",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558532.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/408200/408280.jpg",
-   "published": "2026-10-15T07:00:47.000Z",
-   "added": "2026-10-15T07:21:01.634Z",
-   "origTitle": "Stubbs dropped, Rickelton to keep wickets in Gqeberha Test",
-   "en": {
-    "title": "Stubbs dropped from South Africa Test squad, Rickelton keeps",
-    "summary": "South Africa have made changes to their 17-man squad for the Gqeberha Test. Wicketkeeper Stubbs has been left out, with Rickelton taking the gloves. Matthew Breetzke was brought into the squad. The shift signals tactical adjustments for the match."
-   },
-   "bn": {
-    "title": "স্টাবস বাদ, রিকেলটন উইকেট রক্ষা করবেন",
-    "summary": "দক্ষিণ আফ্রিকা গকেবার্হা টেস্টের জন্য তাদের ১৭ সদস্যের দলে পরিবর্তন এনেছে। উইকেট-কিপার স্টাবস বাদ পড়েছেন এবং রিকেলটন গ্লাভস ধরবেন। ম্যাথিউ ব্রিটজকে দলে যুক্ত করা হয়েছে। এই সিদ্ধান্ত ম্যাচের কৌশলগত পরিবর্তন নির্দেশ করে।"
-   }
-  },
-  {
-   "id": "7oupkc",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো বিনোদন",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83UGhvcnhkTXpSVDNxd284MnVzMVFGcC02OS1xNVlJQ1ViaGZwTGJJaldMZEtYdk9fNktUQXFYTHZXNHl1QmdRRkQ1MXZCaVBleGRZeVdGbVdzVERGRnZodVBia1E?oc=5",
-   "image": null,
-   "published": "2026-10-15T05:30:29.000Z",
-   "added": "2026-10-15T07:21:01.634Z",
-   "origTitle": "মেহজাবীনের প্রশ্ন, ‘অন্যের অসম্মান কবে থেকে আমাদের আয়ের উৎস হলো?’",
-   "en": {
-    "title": "Mehzabeen questions: when did disrespecting others become income?",
-    "summary": "Actor Mehzabeen raised a hard question on social media: when did making money off other people's shame become normal? She was calling out a trend in showbiz where clout comes from dragging others. The post sparked conversation about ethics in entertainment."
-   },
-   "bn": {
-    "title": "মেহজাবীন প্রশ্ন তুলেছেন: অন্যদের অসম্মান কখন থেকে আয়ের উৎস?",
-    "summary": "অভিনেত্রী মেহজাবীন সোশ্যাল মিডিয়ায় একটি কঠিন প্রশ্ন তুলেছেন: অন্যদের লজ্জার মাধ্যমে অর্থ উপার্জন কখন স্বাভাবিক হয়ে গেলো? তিনি শো-বিজ ট্রেন্ডের বিরুদ্ধে কণ্ঠস্বর তুলেছেন যেখানে সুনাম আসে অন্যদের টানা দিয়ে। পোস্টটি বিনোদন জগতের নৈতিকতা নিয়ে আলোচনা জাগিয়ে তুলেছে।"
-   }
-  },
-  {
-   "id": "1bwzgin",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSUNTdXRUcXlJVWo5X18yZXFBRU5DUXpIeHFJY3ZWUGlrZjN3Smo2RUM1aXdQNXphTkZ0V0Y2Ql9IX2xnUEVkNDNPVUtrVTlHcGJJRlZ0TWpaZHV0VDVEOUk2RC03T0NOTTA0azh3eUpRa3NBamFfTFoyeEFVeXh5djVNYUQtVHVBamdLRXNwWGhqcG9GZU1aemJkS0ctbGEyNFRxM2V1c0dTeDJa0gGyAUFVX3lxTE85aGxxdllXWnAxLUx4R29FZnFEbGhwV0FyNDBOb3hHQTZ4YjI3SWNMYWVvR1k1Qi0xX25VRWpINlNsNWVldWt4MjR0aTZGSzV2dW41VjEtaUJfRmdHbm8wZWhJNFF5c0dqZWRuUzJ3RTRxSGQ1R0VrUElseXBjMUNnaTZfX1hQUEV4T09RMU90Ymt1X0Z6UXZkUTljTnY4UUNXWU94M3JlTUt3RVhfRjRGZFE?oc=5",
-   "image": null,
-   "published": "2026-10-14T12:18:20.000Z",
-   "added": "2026-10-15T07:21:01.634Z",
-   "origTitle": "89 flights cancelled in four days, over 14,500 passengers stranded",
-   "en": {
-    "title": "89 flights cancelled in four days, 14,500 stranded",
-    "summary": "Ninety-nine flights were cancelled over four days, leaving over 14,500 passengers stuck. The disruptions hit hard across Bangladesh's main airports. Travellers faced delays, cancellations and uncertainty about rebooking. Many had to reschedule plans or wait indefinitely."
-   },
-   "bn": {
-    "title": "চার দিনে ৮৯টি ফ্লাইট বাতিল, ১৪,৫০০ যাত্রী আটকে",
-    "summary": "চার দিনে ৮৯টি ফ্লাইট বাতিল হয়েছে এবং ১৪,৫০০ এর বেশি যাত্রী সমস্যায় পড়েছেন। দেশের প্রধান এয়ারপোর্টগুলোতে ব্যাপক বিঘ্ন ঘটেছে। যাত্রীরা বিলম্ব, বাতিলকরণ এবং নতুন বুকিং নিয়ে অনিশ্চয়তার মুখোমুখি হয়েছেন। অনেকেই তাদের পরিকল্পনা বদলাতে বা অপেক্ষা করতে বাধ্য হয়েছেন।"
-   }
-  },
-  {
-   "id": "119ybko",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/football/v39mb3by0l",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-15/q6q7n7oq/665469-01-02.jpg",
-   "published": "2026-10-15T07:08:10.000Z",
-   "added": "2026-10-15T07:20:45.230Z",
-   "origTitle": "রেকর্ড ৭৮ গোল, ১ দিন পিছিয়ে মেসি, এমবাপ্পের ‘সেঞ্চুরি’—চ্যাম্পিয়নস লিগে যত রেকর্ড",
-   "en": {
-    "title": "Record 78 goals in Champions League, Haaland breaks Messi's record",
-    "summary": "Match Day 2 of this Champions League season saw a record 78 goals across 18 matches. Erling Haaland scored twice for Manchester City in a 4-2 loss to PSG, reaching 61 goals in 60 matches—the fastest to 60 goals in the competition's history. At 26 years 85 days old, he beat Lionel Messi's record by just one day. Kylian Mbappé became the eighth player to score in his 100th Champions League match."
-   },
-   "bn": {
-    "title": "চ্যাম্পিয়নস লিগে রেকর্ড ৭৮ গোল, হলান্ড ভাঙলেন মেসির রেকর্ড",
-    "summary": "চ্যাম্পিয়নস লিগের ম্যাচ ডে ২-তে ১৮ ম্যাচে ৭৮ গোল হয়েছে—এক সপ্তাহের ম্যাচে সর্বোচ্চ। আর্লিং হলান্ড পিএসজির বিপক্ষে দুটি গোল করে ৬০ গোলে পৌঁছেছেন মাত্র ৬০ ম্যাচে—প্রতিযোগিতার ইতিহাসে দ্রুততম। তার বয়স ২৬ বছর ৮৫ দিন, মেসির রেকর্ড ছিল ২৬ বছর ৮৬ দিন—মাত্র ১ দিনের পার্থক্য। কিলিয়ান এমবাপ্পে তার ১০০তম ম্যাচে গোল করে অষ্টম খেলোয়াড় হয়েছেন।"
-   }
-  },
-  {
-   "id": "1ufv3oe",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/saudi-arabia-executes-two-bangladeshi-nationals-makkah-1573551",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/untitled_design_1.png",
-   "published": "2026-10-15T07:10:00.000Z",
-   "added": "2026-10-15T07:20:45.230Z",
-   "origTitle": "Saudi Arabia executes two Bangladeshi nationals in Makkah",
-   "en": {
-    "title": "Saudi Arabia executes two Bangladeshi nationals in Makkah",
-    "summary": "Saudi Arabia's Ministry of Interior announced on October 14 the execution of two Bangladeshi nationals, Nazerul Islam Abdul Basir and Siti Akhtar, in Makkah. They were convicted of committing an immoral act inside a mosque. A court found them guilty and sentenced them to death; the verdict was upheld and a royal order approved the executions. The ministry warned that similar offences would face legal consequences."
-   },
-   "bn": {
-    "title": "মক্কায় দুজন বাংলাদেশী নাগরিকের মৃত্যুদণ্ড",
-    "summary": "সৌদি আরবার অভ্যন্তরীণ মন্ত্রণালয় ১৪ অক্টোবর ঘোষণা করেছে যে মক্কায় দুজন বাংলাদেশী নাগরিক নাজেরুল ইসলাম আবদুল বসির ও সিতি আখতারের মৃত্যুদণ্ড কার্যকর করা হয়েছে। তাদের একটি মসজিদে অনৈতিক কাজ করার জন্য দোষী সাব্যস্ত করা হয়েছিল। আদালত মৃত্যুদণ্ড দিয়েছিল, রায় চূড়ান্ত হয়েছিল এবং রাজকীয় আদেশ বাস্তবায়িত হয়েছে। মন্ত্রণালয় এরকম অপরাধের জন্য আইনি পরিণতির সতর্কতা দিয়েছে।"
-   }
-  },
-  {
-   "id": "16a0635",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260923__C94B9WE__v1__MidRes__IsraelPoliticsElection-1791516415.jpg?resize=1200%2C630",
-   "published": "2026-10-15T06:46:52.000Z",
-   "added": "2026-10-15T07:20:45.230Z",
-   "origTitle": "From Morocco to South Africa, Israel election watched closely across Africa",
-   "en": {
-    "title": "Israel election October 27 watched closely across Africa",
-    "summary": "African governments from South Africa to Morocco are closely monitoring Israel's October 27 election and what it means for their own policies. The Gaza war has divided the continent, with some pursuing diplomatic action against Israel while others maintain security and trade ties. Prime Minister Benjamin Netanyahu's Likud party leads polls, but coalition negotiations are expected after voting. Israel's next government's approach to Gaza will influence its regional partnerships."
-   },
-   "bn": {
-    "title": "আফ্রিকা জুড়ে পর্যবেক্ষণ করা হচ্ছে ইসরায়েলের নির্বাচন",
-    "summary": "দক্ষিণ আফ্রিকা থেকে মরক্কো পর্যন্ত আফ্রিকান দেশগুলো ২৭ অক্টোবরের ইসরায়েল নির্বাচন নিয়ে গভীর মনোযোগ দিচ্ছে। গাজার যুদ্ধ মহাদেশ জুড়ে তীক্ষ্ণ ভাগ তৈরি করেছে—কিছু সরকার ইসরায়েলের বিরুদ্ধে কূটনৈতিক পদক্ষেপ নিচ্ছে, অন্যরা বাণিজ্য ও নিরাপত্তা সম্পর্ক বজায় রাখছে। নির্বাচনের পর জটিল জোট আলোচনা প্রত্যাশিত। গাজার প্রতি নতুন সরকারের অবস্থান আফ্রিকার সাথে ইসরায়েলের সম্পর্কে প্রভাব ফেলবে।"
-   }
-  },
-  {
-   "id": "mgky5c",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/sport/cricket/974621/%E0%A6%B9%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%A6-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE",
-   "image": null,
-   "published": "2026-10-15T07:18:25.000Z",
-   "added": "2026-10-15T07:20:45.230Z",
-   "origTitle": "হোবার্টেই থাকছেন রিশাদ, এবার সঙ্গী জাম্পা!",
-   "en": {
-    "title": "Rishabh staying at Hobart, now joined by Adam Zampa",
-    "summary": "Bangladeshi leg-spinner Rishabh Hasan impressed in his Big Bash debut for Hobart Hurricanes, taking 15 wickets in 12 matches at an average of 20.86. The franchise has retained him for the next season. He'll now be joined by experienced Australian leg-spinner Adam Zampa. Rishabh proved himself in BBL-15, the league's 15th edition."
-   },
-   "bn": {
-    "title": "রিশাদ হোবার্টে থাকছেন, এসেছেন জাম্পা",
-    "summary": "বাংলাদেশি লেগ স্পিনার রিশাদ হোসেন বিগ ব্যাশে চমৎকার আত্মপ্রকাশ করেছেন, ১২ ম্যাচে ১৫ উইকেট নিয়ে হোবার্টের সেরা বোলার হয়েছেন। তাকে আগামী মৌসুমের জন্য রাখা হয়েছে। এবার সঙ্গী হবেন অস্ট্রেলিয়ার অভিজ্ঞ লেগ স্পিনার অ্যাডাম জাম্পা। বিগ ব্যাশ লিগের ১৫তম আসরে রিশাদের পারফরম্যান্স অসাধারণ ছিল।"
-   }
-  },
-  {
-   "id": "ne44ia",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cq78p72y1nyxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e129/live/05f22bf0-c7ae-11f1-b41f-d7a6cb474575.jpg",
-   "published": "2026-10-15T04:57:59.000Z",
-   "added": "2026-10-15T07:20:45.230Z",
-   "origTitle": "'যৌনাঙ্গে বুট দিয়ে মেরেছে', 'জামা টেনে তুলে দিয়েছে' - দিল্লিতে আটক বিক্ষোভকারীদের অভিজ্ঞতা",
-   "en": {
-    "title": "Delhi police accused of abuse during election commission protests",
-    "summary": "Multiple students and protesters arrested during demonstrations against Chief Election Commissioner Gnanesh Kumar in Delhi have filed complaints of police brutality, including physical assault and humiliation. One postgraduate student from Ambedkar University alleged officers pulled her clothes over her head and trapped her foot in a bus door. Detainees reported inadequate food, water, and sanitation at holding centers. Delhi Police has not yet responded to the allegations."
-   },
-   "bn": {
-    "title": "দিল্লির বিক্ষোভে পুলিশের বিরুদ্ধে মারপিট ও দুর্ব্যবহারের অভিযোগ",
-    "summary": "নির্বাচন কমিশনার জ্ঞানেশ কুমারের বিরুদ্ধে দিল্লির বিক্ষোভে আটক শিক্ষার্থী ও কর্মীরা পুলিশের মারধর ও অপমানের অভিযোগ করেছেন। অম্বেদকর বিশ্ববিদ্যালয়ের একজন শিক্ষার্থী দাবি করেছেন পুলিশ তার পোশাক জোরপূর্বক উপরে তুলেছে এবং বাসের দরজায় তার পা আটকে দিয়েছে। আটক কেন্দ্রে খাবার ও স্বাস্থ্যসেবার অভাব ছিল। দিল্লি পুলিশ এখনো কোনো মন্তব্য দেয়নি।"
    }
   }
  ]

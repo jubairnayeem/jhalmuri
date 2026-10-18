@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-18T05:47:38.251Z",
+ "updatedAt": "2026-10-18T10:56:08.601Z",
  "burning": [
   {
    "id": "1qld3c",
    "heat": 5,
    "why": {
-    "en": "Multiple outlets covering the same deadly resort fire in Cox's Bazar; major tragedy.",
-    "bn": "কক্স বাজারের রিসর্ট আগুনে একই ঘটনা নিয়ে একাধিক আউটলেট রিপোর্ট করছে; বড় দুর্ঘটনা।"
+    "en": "Cox's Bazar resort fire dominates news—10 dead, multiple outlets, families still missing.",
+    "bn": "কক্স বাজার রিসর্ট আগুন নিয়ে সব জায়গায় কথা—১০ জন মরেছে, পরিবার খুঁজে পাওয়া যায়নি।"
    },
    "rank": 1
+  },
+  {
+   "id": "qq56rh",
+   "heat": 5,
+   "why": {
+    "en": "Kolkata Durga Puja stampede kills 17—major tragedy trending across social media.",
+    "bn": "কলকাতা দুর্গা পূজা ঘটনায় ১৭ জন মারা গেছে—সোশ্যাল মিডিয়ায় ভাইরাল।"
+   },
+   "rank": 2
   },
   {
    "id": "52oteu",
    "heat": 4,
    "why": {
-    "en": "France violence and protests major international story covered by multiple news outlets.",
-    "bn": "ফ্রান্সের সহিংসতা এবং প্রতিবাদ আন্তর্জাতিক খবর, একাধিক মিডিয়া কভার করছে।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "incdf8",
-   "heat": 4,
-   "why": {
-    "en": "Garment worker death with CCTV evidence is serious labour issue in Bangladesh.",
-    "bn": "সিসিটিভি প্রমাণ সহ সাভার গ্যারমেন্ট কারখানায় শ্রমিক মৃত্যু গুরুতর ইস্যু।"
+    "en": "France violent protests over cost of living—1,200 arrested, buildings burning.",
+    "bn": "ফ্রান্সে খরচ নিয়ে বড় আন্দোলন—১,২০০ জন ধরা পড়েছে।"
    },
    "rank": 3
   },
   {
-   "id": "qq56rh",
-   "heat": 3,
+   "id": "gnybii",
+   "heat": 4,
    "why": {
-    "en": "Durga Puja pandal stampede in Kolkata kills at least 17; regional tragedy.",
-    "bn": "কলকাতার দুর্গা পূজা প্যান্ডেলে স্ট্যাম্পেডে কমপক্ষে ১৭ জন নিহত; আঞ্চলিক দুর্ঘটনা।"
+    "en": "Bangladesh cricket collapse vs Zimbabwe trending on Google—Taskin's reaction tops searches.",
+    "bn": "বাংলাদেশ জিম্বাবুয়ের বিপক্ষে খেলায় হার—গুগলে ট্রেন্ড করছে।"
    },
    "rank": 4
   },
   {
-   "id": "hicsfz",
-   "heat": 3,
+   "id": "4v9pv8",
+   "heat": 4,
    "why": {
-    "en": "Bangladesh GDP growth forecast to beat India's by 2026 is significant economic news.",
-    "bn": "২০২৬ সালের মধ্যে বাংলাদেশের মাথাপিছু জিডিপি ভারতকে ছাড়িয়ে যাবে, গুরুত্বপূর্ণ অর্থনৈতিক খবর।"
+    "en": "Deepfake videos of actresses spark backlash—trending on Google with actress responses.",
+    "bn": "অভিনেত্রীদের ডিপফেক ভিডিও নিয়ে আলোড়ন—গুগলে শীর্ষে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
+   "id": "gnybii",
+   "tag": "#BanglaCricket",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Bangladesh loses to Zimbabwe",
+    "text": "Cricket fans fired up over Bangladesh's collapse against Zimbabwe. Taskin Ahmed says batsmen should have sealed it."
+   },
+   "bn": {
+    "title": "বাংলাদেশ জিম্বাবুয়েতে হারল",
+    "text": "ক্রিকেট ফ্যানরা খুবই আগ্রহী। তাসকিন বলেছেন ব্যাটসম্যানদের খেলা আরও ভালো হওয়া উচিত ছিল।"
+   }
+  },
+  {
    "id": "4v9pv8",
-   "tag": "#DeepfakesBacklash",
+   "tag": "#DeepfakeBD",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Deepfake videos spark outrage",
-    "text": "A TV channel posted deepfake videos of actresses, triggering public backlash over misuse of AI technology."
+    "title": "TV channel posts deepfake videos",
+    "text": "A Bengali TV channel released deepfake videos of actresses, causing huge backlash online. Actors including Pori Moni spoke out."
    },
    "bn": {
-    "title": "ডিপফেক ভিডিও নিয়ে ক্ষোভ",
-    "text": "একটি টিভি চ্যানেল অভিনেত্রীদের ডিপফেক ভিডিও পোস্ট করে এআই প্রযুক্তির অপব্যবহারের বিরুদ্ধে জনরোষ উস্কে দিয়েছে।"
+    "title": "টিভি চ্যানেল ডিপফেক ভিডিও দিয়েছে",
+    "text": "একটি বাংলা চ্যানেল অভিনেত্রীদের ডিপফেক ভিডিও প্রকাশ করেছে। পরীমনি সহ অনেকে বিরুদ্ধে কথা বলেছেন।"
    }
   },
   {
-   "id": "1nb1shq",
-   "tag": "#EntrepreneurshipStory",
+   "id": "qq56rh",
+   "tag": "#KolkataTragedy",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 5,
    "en": {
-    "title": "Chutney seller builds 600 crore empire",
-    "text": "From street-level chutney sales to a massive business: a Bangladeshi entrepreneur's unlikely success story."
+    "title": "Stampede at Kolkata Durga Puja",
+    "text": "At least 17 people died in a crush at a Durga Puja pandal in Kolkata. A major tragedy sparking serious conversation online."
    },
    "bn": {
-    "title": "চাটনি বিক্রেতা থেকে ৬০০ কোটি ব্যবসা",
-    "text": "রাস্তার চাটনি বেচা থেকে শুরু করে বিশাল ব্যবসায় পরিণত হওয়ার গল্প।"
+    "title": "কলকাতা পূজায় দুর্ঘটনা",
+    "text": "কলকাতার এক পূজা প্যান্ডেলে ভিড়ের কারণে কমপক্ষে ১৭ জন মারা গেছেন। একটি বড় ঘটনা যা সবার কথায় উঠেছে।"
    }
   },
   {
-   "id": "1k605g6",
-   "tag": "#AITraining",
+   "id": "1qld3c",
+   "tag": "#CoxsBazarFire",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 5,
    "en": {
-    "title": "Meta removes web scraping terms",
-    "text": "Meta revises its policies over concerns about web scraping and unauthorized AI training on user data."
+    "title": "Cox's Bazar resort fire tragedy",
+    "text": "A fire at a Cox's Bazar resort has killed at least 10 people. Search trends show heavy interest; families are still searching for missing loved ones."
    },
    "bn": {
-    "title": "মেটা ওয়েব স্ক্র্যাপিং নীতি পরিবর্তন করেছে",
-    "text": "ব্যবহারকারী তথ্য দিয়ে অননুমোদিত এআই প্রশিক্ষণ নিয়ে উদ্বেগের কারণে মেটা নীতি সংশোধন করেছে।"
-   }
-  },
-  {
-   "id": "1bft254",
-   "tag": "#MuskControversy",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 2,
-   "en": {
-    "title": "TikTok bans Musk documentary ads",
-    "text": "TikTok has permanently banned advertisements for an Elon Musk documentary from the platform."
-   },
-   "bn": {
-    "title": "টিকটক মাস্ক ডকুমেন্টারি বিজ্ঞাপন বান",
-    "text": "টিকটক এলন মাস্ক সম্পর্কিত একটি ডকুমেন্টারির বিজ্ঞাপন চিরকালের জন্য নিষিদ্ধ করেছে।"
+    "title": "কক্স বাজার রিসর্ট আগুন",
+    "text": "কক্স বাজারের একটি রিসর্টে আগুন লেগে কমপক্ষে ১০ জন মারা গেছেন। পরিবারগুলো এখনও নিখোঁজদের খুঁজছে।"
    }
   }
  ],
