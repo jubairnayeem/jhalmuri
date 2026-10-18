@@ -1,6 +1,94 @@
 {
- "updatedAt": "2026-10-18T10:55:52.957Z",
+ "updatedAt": "2026-10-18T14:31:20.646Z",
  "items": [
+  {
+   "id": "w6yuc2",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1558962.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423900/423922.jpg",
+   "published": "2026-10-18T14:22:31.000Z",
+   "added": "2026-10-18T14:31:20.646Z",
+   "origTitle": "Rain and Boland hound South Africa in Gqeberha",
+   "en": {
+    "title": "Rain and Boland wreck South Africa's opening day",
+    "summary": "South Africa got off to a rough start in their home match at Gqeberha. After just 12.2 overs, the hosts were already 2 wickets down for 20 runs. Rain and bowler Boland made conditions miserable on day one."
+   },
+   "bn": {
+    "title": "বৃষ্টি এবং বোল্যান্ড দক্ষিণ আফ্রিকার প্রথম দিন বরবাদ করল",
+    "summary": "গকেবার্হায় দক্ষিণ আফ্রিকার হোম ম্যাচ শুরুটা মোটেই ভালো হয়নি। মাত্র ১২.২ ওভারে হোস্টরা ইতিমধ্যে ২ উইকেট হারিয়ে ২০ রান করেছে। বৃষ্টি এবং বোল্যান্ডের বোলিং প্রথম দিনটা একেবারে ঝামেলায় পূর্ণ করে দিয়েছে।"
+   }
+  },
+  {
+   "id": "j8bvi6",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/rxz8q5bqab",
+   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-18%2Fv99jxs5v%2FUntitled-8.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+   "published": "2026-10-18T14:13:08.000Z",
+   "added": "2026-10-18T14:31:14.996Z",
+   "origTitle": "নিয়ন্ত্রণহীন অটোরিকশায় শহরে যানজট বেড়েছে",
+   "en": {
+    "title": "Unregulated auto-rickshaws choking Netrokona city with traffic",
+    "summary": "Traffic congestion in Netrokona city is worsening, with a 2-kilometre journey sometimes taking an hour. Official records show 5,659 registered three-wheelers, but authorities estimate over 7,500 actually operate. Oversized vehicles with excess capacity take up more road space. District officials say they're implementing step-by-step measures including regulating vehicles and establishing designated stands."
+   },
+   "bn": {
+    "title": "অটোরিকশার নিয়ন্ত্রণহীন চলাচলে নেত্রকোনায় যানজট",
+    "summary": "নেত্রকোনা শহরে যানজট বাড়ছে। মাত্র দুই কিলোমিটার পথ কখনো কখনো এক ঘণ্টা সময় নেয়। পৌরসভার হিসাবে ৫ হাজার ৬৫৯টি নিবন্ধিত অটোরিকশা থাকলেও আসল সংখ্যা সাড়ে সাত হাজারের বেশি। বড় আকারের অটোরিকশা সড়ক দখল করে। জেলা প্রশাসক বলেছেন ধাপে ধাপে ব্যবস্থা নেওয়া হচ্ছে।"
+   }
+  },
+  {
+   "id": "1asb3lb",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad49a5ba15d-1792318043.jpg?resize=1200%2C675",
+   "published": "2026-10-18T13:48:04.000Z",
+   "added": "2026-10-18T14:31:14.996Z",
+   "origTitle": "Why have France’s school protests become a wider political crisis?",
+   "en": {
+    "title": "France's school protests spiral into wider political crisis",
+    "summary": "About 550,000 people demonstrated across France on Saturday over school conditions, high living costs, and government inaction. Protests began last month in Paris's northern suburbs over teacher shortages and poor facilities, then spread nationwide. Demonstrators included students, trade unions, and yellow vest supporters. Police arrested 1,200 people and 150 officers were injured."
+   },
+   "bn": {
+    "title": "ফ্রান্সে স্কুল বিক্ষোভ রাজনৈতিক সংকটে পরিণত",
+    "summary": "শনিবার ফ্রান্সে ৫ লাখ ৫০ হাজার মানুষ স্কুলের অবস্থা, দুর্বহ জীবনযাত্রা এবং সরকারের নিষ্ক্রিয়তার বিরুদ্ধে বিক্ষোভ করেছেন। গত মাসে প্যারিসের উত্তরাঞ্চলে শিক্ষক সংকট এবং খারাপ সুবিধার বিরুদ্ধে বিক্ষোভ শুরু হয়েছিল। পুলিশ ১ হাজার ২০০ জনকে গ্রেপ্তার করেছে এবং ১৫০ জন পুলিশ আহত হয়েছে।"
+   }
+  },
+  {
+   "id": "1wk96pj",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/sports/nahida-akter-named-bangladesh-womens-t20-captain-1576781",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/nahida_akter.jpg",
+   "published": "2026-10-18T14:10:00.000Z",
+   "added": "2026-10-18T14:31:14.996Z",
+   "origTitle": "Nahida Akter named Bangladesh women’s T20 captain",
+   "en": {
+    "title": "Nahida Akter takes over Bangladesh women's T20 captaincy",
+    "summary": "Left-arm spinner Nahida Akter is now captain of Bangladesh's women's T20 team, replacing Nigar Sultana Joty who stepped down to focus on her game. Sobhana Mostary becomes vice-captain. Nahida has been Joty's deputy since 2022. Joty will continue leading the ODI team. Bangladesh's next match is against Pakistan on November 12 in Thailand's Emerging Nations Trophy."
+   },
+   "bn": {
+    "title": "নাহিদা আক্তার বাংলাদেশ নারী টি২০ দলের নতুন ক্যাপ্টেন",
+    "summary": "বাম-হাতি স্পিনার নাহিদা আক্তার এখন বাংলাদেশ মহিলা টি২০ দলের ক্যাপ্টেন। নিগার সুলতানা জয়তি নিজের খেলায় মনোনিবেশ করতে ধাপ নেমে গেছেন। সোভনা মোস্তারি ভাইস-ক্যাপ্টেন হয়েছেন। নাহিদা ২০২২ সাল থেকে জয়তির ডেপুটি ছিলেন। জয়তি ওডিআই দলের ক্যাপ্টেন থাকবেন।"
+   }
+  },
   {
    "id": "40vvlh",
    "section": "news",
@@ -2991,270 +3079,6 @@
    "bn": {
     "title": "যুব উন্নয়ন বিভাগের পরীক্ষার প্রশ্নপত্র ফাঁসিতে ছয়জন গ্রেপ্তার",
     "summary": "বিশেষ অভিযান বাহিনী যুব উন্নয়ন বিভাগের নিয়োগ পরীক্ষার প্রশ্নপত্র ফাঁস করার সন্দেহে ছয়জনকে গ্রেপ্তার করেছে। সহায়ক উপজেলা যুব উন্নয়ন অফিসারের পদের পরীক্ষা ১০ অক্টোবর ফাঁসের অভিযোগে স্থগিত করা হয়েছিল। গ্রেপ্তারকৃতদের কাছ থেকে এডমিট কার্ড, স্ট্যাম্প এবং ব্যাংক চেক পাওয়া গেছে। পরীক্ষা এখন ১৬ অক্টোবরে নির্ধারিত হয়েছে।"
-   }
-  },
-  {
-   "id": "1g76g15",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
-   "image": "https://images.aeonmedia.co/images/ccd4b25b-840d-4bdb-a8bf-426e8b70879d/sz-adrian-swancar-imafcyq7kh0-unsplash.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-15T10:00:00.000Z",
-   "added": "2026-10-15T13:21:52.317Z",
-   "origTitle": "How mental disorders play havoc with our motivation",
-   "en": {
-    "title": "Why your brain calculates effort before you do anything",
-    "summary": "Motivation isn't a fuel tank that's full or empty—it's a continuous cost-benefit calculation your brain runs. Before you reply to a message, shower, or call a friend, your brain weighs whether the action is worth the effort. This process, called effort-based decision-making, usually happens invisibly. Understanding it helps us be kinder to people who struggle with everyday tasks."
-   },
-   "bn": {
-    "title": "কোনো কাজ করার আগে আপনার মস্তিষ্ক খরচ হিসাব করে",
-    "summary": "প্রেরণা একটি জ্বালানি ট্যাঙ্ক নয় যা পূর্ণ বা খালি—এটি আপনার মস্তিষ্কের ক্রমাগত খরচ-সুবিধা হিসাব। বার্তার উত্তর দেওয়া, গোসল করা বা বন্ধুকে কল করার আগে, আপনার মস্তিষ্ক ওজন করে সেই কাজটি প্রচেষ্টার মূল্য কিনা। এই প্রক্রিয়াটি সাধারণত লুকানো থাকে কিন্তু এটি বুঝলে আমরা প্রতিদিনের কাজে সংগ্রামরত মানুষের প্রতি আরো সহানুভূতিশীল হতে পারি।"
-   }
-  },
-  {
-   "id": "s1i1ck",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/usvvnw24jz",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-15/qwr99pf6/DU.jpg",
-   "published": "2026-10-15T13:04:14.000Z",
-   "added": "2026-10-15T13:21:52.317Z",
-   "origTitle": "৪৫তম বিসিএস: চাকরি না হলে ‘আত্মাহুতি’র হুমকি গেজেটে বাদ পড়াদের",
-   "en": {
-    "title": "45th BCS: 105 recommended candidates excluded from gazette, protest escalates",
-    "summary": "Candidates recommended by the Public Service Commission for the 45th BCS civil service exam were excluded from Wednesday's gazette, with 1,702 of 1,807 recommended candidates appointed. The excluded 105 include many who actively participated in July 2024's mass uprising. Protesting at Dhaka University Thursday, excluded candidates demanded a decision by Saturday morning, threatening civil disobedience otherwise."
-   },
-   "bn": {
-    "title": "৪৫তম বিসিএস: গেজেট থেকে ১০৫ জন বাদ পড়া, প্রতিবাদ তীব্র",
-    "summary": "৪৫তম বিসিএসে পিএসিসি থেকে সুপারিশপ্রাপ্ত প্রার্থীদের মধ্যে ১ হাজার ৮০৭ জনের বিপরীতে ১ হাজার ৭০২ জনকেই গেজেটে স্থান দেওয়া হয়েছে। বাদ পড়া ১০৫ জনের বেশিরভাগই জুলাই ২০২৪ গণ-অভ্যুত্থানে সক্রিয় ছিলেন। বৃহস্পতিবার ঢাকা বিশ্ববিদ্যালয়ে প্রতিবাদ করে তারা শনিবার সকাল ১০টার মধ্যে সমাধান দাবি করেছেন।"
-   }
-  },
-  {
-   "id": "1k6lqpt",
-   "section": "bhabna",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/15/ai-use-in-dissertations/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/10/Gandy-James-Nolan-2.jpg",
-   "published": "2026-10-15T09:45:00.000Z",
-   "added": "2026-10-15T13:21:52.317Z",
-   "origTitle": "AI Use in STEM and Philosophy Dissertations",
-   "en": {
-    "title": "Between one-quarter and one-third of US STEM PhDs contain AI-written text",
-    "summary": "A new study found that 29% of dissertations filed by US STEM PhD graduates in 2026 contained AI-generated writing, up from zero in 2023. Use is more common among students from non-English-speaking countries and at lower-ranked programs. Graduates with AI-written dissertations are less likely to pursue academic research careers and more likely to enter industry roles."
-   },
-   "bn": {
-    "title": "আমেরিকার এক-চতুর্থাংশ বিজ্ঞান পিএইচডিতে এআই লেখা রয়েছে",
-    "summary": "একটি নতুন গবেষণা দেখায় যে ২০২৬ সালে আমেরিকার বিজ্ঞান পিএইচডি গ্রাহকদের ২৯ শতাংশ অনুপ্রবন্ধে এআই-লেখা অংশ রেখেছেন, ২০২৩ সালে এটি ছিল শূন্য। অ-ইংরেজিভাষী এবং নিম্নস্তরের বিশ্ববিদ্যালয়ের শিক্ষার্থীদের মধ্যে ব্যবহার বেশি। এআই-লেখা অনুপ্রবন্ধ সহ স্নাতকরা শিক্ষা গবেষণায় যাওয়ার সম্ভাবনা কম।"
-   }
-  },
-  {
-   "id": "9vgjon",
-   "section": "news",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/opinion/op-ed/5vfxhectzn",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-15/w3rsdt24/TSM.avif",
-   "published": "2026-10-15T12:34:36.000Z",
-   "added": "2026-10-15T13:21:52.317Z",
-   "origTitle": "Dhaka University niqab controversy and a teacher's suspension: Whose classroom is it, then?",
-   "en": {
-    "title": "Dhaka University suspends teacher over niqab remarks in 34-year career",
-    "summary": "A Dhaka University English Department teacher with 34 years of service was removed from all her courses within days after a conversation with a student about niqabs. The teacher says she only discussed identification difficulties when eyes aren't visible; students claim she made objectionable comments. The university made no inquiry before acting. The incident raises questions about classroom ownership and due process."
-   },
-   "bn": {
-    "title": "নিকাব নিয়ে কথার পরে ঢাকা বিশ্ববিদ্যালয়ের শিক্ষক স্থগিত",
-    "summary": "ঢাকা বিশ্ববিদ্যালয়ের ইংরেজি বিভাগের একজন শিক্ষক, যিনি ৩৪ বছর পড়াচ্ছিলেন, নিকাব সম্পর্কে একজন শিক্ষার্থীর সাথে কথোপকথনের পরে দুই দিনের মধ্যে তার সব কোর্স থেকে সরিয়ে দেওয়া হয়েছেন। শিক্ষক বলেছেন তিনি শুধু চোখ দৃশ্যমান না থাকলে যোগাযোগের সমস্যা নিয়ে কথা বলেছেন। বিশ্ববিদ্যালয় কোনো তদন্ত ছাড়াই সিদ্ধান্ত নিয়েছে।"
-   }
-  },
-  {
-   "id": "1xt67f8",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/natalie-harp-raids-trumps-underwear-drawer/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Natalie_Harp_NIB_G_GR.jpg",
-   "published": "2026-10-15T13:00:00.000Z",
-   "added": "2026-10-15T13:21:52.317Z",
-   "origTitle": "Natalie Harp Raids Trump’s Underwear Drawer",
-   "en": {
-    "title": "Special assistant caught red-handed in presidential underwear raid",
-    "summary": "In this satirical story, White House special assistant Natalie Harp was caught by Secret Service raiding Donald Trump's underwear drawer. She apparently dove under the bed and stuffed his briefs in her mouth when caught. The Secret Service says this is a repeat offense."
-   },
-   "bn": {
-    "title": "প্রেসিডেন্টের আন্ডারওয়্যার ড্রয়ার ঘাঁটতে গিয়ে ধরা পড়লেন সহায়ক",
-    "summary": "এটি একটি ব্যঙ্গাত্মক গল্প। হোয়াইট হাউসের বিশেষ সহায়ক নাটালি হার্প ডোনাল্ড ট্রাম্পের আন্ডারওয়্যার ড্রয়ার ঘাঁটতে গিয়ে সিক্রেট সার্ভিসের কাছে ধরা পড়েছেন। তিনি সিঁড়ির নিচে ঢুকে গিয়েছিলেন এবং ব্রিফস মুখে ভরে দিয়েছিলেন।"
-   }
-  },
-  {
-   "id": "1s1em15",
-   "section": "bhabna",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/videos/hohle-fels-cave-illuminates-the-rich-symbolic-world-of-ice-age-humans",
-   "image": "https://images.aeonmedia.co/images/9f1a0738-66cb-49a0-b67f-285630b0eac7/the-secrets-of-hohle-fels-cave-landscape-1.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-15T10:01:00.000Z",
-   "added": "2026-10-15T13:21:52.317Z",
-   "origTitle": "The secrets of Hohle Fels cave",
-   "en": {
-    "title": "Ice Age cave reveals humans built symbolic cultures 43,000 years ago",
-    "summary": "Hohle Fels cave in southern Germany has yielded some of humanity's oldest art and musical instruments, dating back 43,000 years. Tiny ivory birds found there suggest Ice Age people had complex beliefs, myths and rituals. Archaeologists think this symbolic culture may have given early humans an advantage over Neanderthals. It shows our ancestors weren't so different from us."
-   },
-   "bn": {
-    "title": "৪৩,০০০ বছর আগে মানুষ প্রতীকী সংস্কৃতি তৈরি করেছিল",
-    "summary": "জার্মানির Hohle Fels গুহায় মানুষের সবচেয়ে পুরানো শিল্পকর্ম এবং বাদ্যযন্ত্র পাওয়া গেছে, যা ৪৩,০০০ বছর আগের। সেখানে পাওয়া ছোট হাতির দাঁতের পাখি দেখায় যে তখনকার মানুষের জটিল বিশ্বাস, পৌরাণিক কাহিনী এবং অনুষ্ঠান ছিল। প্রত্নতাত্ত্বিকরা মনে করেন এই প্রতীকী সংস্কৃতি আমাদের পূর্বপুরুষদের নিয়ান্ডারথালদের উপর সুবিধা দিয়েছিল।"
-   }
-  },
-  {
-   "id": "1ut7ouh",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
-   "published": "2026-10-15T12:00:00.000Z",
-   "added": "2026-10-15T13:21:20.840Z",
-   "origTitle": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-   "en": {
-    "title": "Amazon's Bee launches two new AI wearables under $100",
-    "summary": "Amazon's Bee launched two personal AI devices: the Bee Frontier wristband at $74.99 and the Bee Eclipse smartphone attachment at $99.99. Both use AI to remember conversations and turn them into notes, reminders, and calendar invites. The prices undercut rivals like Plaud Note and Pocket AI by significant margins."
-   },
-   "bn": {
-    "title": "আমাজনের বি দুটি নতুন এআই ডিভাইস লঞ্চ করল",
-    "summary": "আমাজনের বি দুটি এআই ডিভাইস লঞ্চ করেছে: ৭৪.৯৯ ডলারের বি ফ্রন্টিয়ার কব্জিব্যান্ড এবং ৯৯.৯৯ ডলারের বি ইক্লিপ্স স্মার্টফোন অ্যাটাচমেন্ট। উভয় ডিভাইস এআই ব্যবহার করে কথোপকথন মনে রাখে এবং সেগুলো নোট, রিমাইন্ডার ও ক্যালেন্ডার ইভেন্টে রূপান্তরিত করে। দামগুলো প্লাউড নোট এবং পকেট এআই-এর মতো প্রতিযোগীদের চেয়ে অনেক কম।"
-   }
-  },
-  {
-   "id": "1uzjsb9",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/sports/2026/10/15/west-indies-hope-jokes-india-series-record-role-an-problem-as-finale-looms?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26273421845149-1792064821.jpg?resize=1920%2C1440",
-   "published": "2026-10-15T12:33:04.000Z",
-   "added": "2026-10-15T13:21:20.840Z",
-   "origTitle": "West Indies’ Hope jokes India series record role a problem as finale looms",
-   "en": {
-    "title": "West Indies' Hope worries about baggage weight from awards",
-    "summary": "West Indies captain Shai Hope joked about excess baggage fees after collecting his third Player of the Match award in India. Hope smashed an unbeaten 102 in the fourth T20I and has hit four centuries on the tour. He quipped that the heavy awards might cause luggage problems on the way home."
-   },
-   "bn": {
-    "title": "হোপ পুরস্কারের ভারে লাগেজ নিয়ে চিন্তিত",
-    "summary": "ওয়েস্ট ইন্ডিজের ক্যাপ্টেন শাই হোপ ভারতে তার তৃতীয় ম্যান অফ দ্য ম্যাচ পুরস্কার জেতার পর লাগেজের ওজন নিয়ে মজা করেছেন। হোপ চতুর্থ টি২০তে ১০২ রান দিয়ে জয় এনেছেন এবং ট্যুরে চারটি সেঞ্চুরি মেরেছেন। তিনি মনোরম করে বলেছেন, এত ভারী পুরস্কার বাড়ি যাওয়ার সময় সমস্যা হতে পারে।"
-   }
-  },
-  {
-   "id": "18an9sj",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-   "image": "https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=123bd8ecc615f6c5a01371cef3492c23",
-   "published": "2026-10-15T08:00:25.000Z",
-   "added": "2026-10-15T13:21:20.840Z",
-   "origTitle": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-   "en": {
-    "title": "LGBTQ+ people hiding as Senegal arrests escalate to 320",
-    "summary": "Over 320 people have been arrested in Senegal since February under laws criminalising homosexuality, with at least 84 charged solely based on HIV status. In March, parliament doubled the prison sentence for same-sex relations to 10 years and introduced penalties for promoting LGBTQ+ rights. LGBTQ+ people are now forced into hiding due to fear of arrest and stigma."
-   },
-   "bn": {
-    "title": "সেনেগালে এলজিবিটিকিউ+ মানুষ লুকিয়ে থাকছে, গ্রেপ্তার ৩২০",
-    "summary": "সেনেগালে ফেব্রুয়ারি থেকে সমকামিতা অপরাধীকরণকারী আইনে ৩২০ জনেরও বেশি মানুষকে গ্রেফতার করা হয়েছে, যার মধ্যে অন্তত ৮৪ জনকে শুধুমাত্র এইচআইভি অবস্থার ভিত্তিতে অভিযুক্ত করা হয়েছে। মার্চে সংসদ একই লিঙ্গের সম্পর্কের সর্বোচ্চ সাজা দ্বিগুণ করে ১০ বছর করেছে এবং এলজিবিটিকিউ+ অধিকার প্রচারের জন্য দণ্ড চালু করেছে। গ্রেপ্তার এবং লজ্জার ভয়ে এলজিবিটিকিউ+ মানুষ এখন লুকিয়ে থাকছে।"
-   }
-  },
-  {
-   "id": "fn5c51",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b54/live/4c6fe8b0-c899-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-15T12:03:51.000Z",
-   "added": "2026-10-15T13:21:20.840Z",
-   "origTitle": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-   "en": {
-    "title": "Zelensky resumes Ukrainian strikes after US energy ceasefire collapses",
-    "summary": "Ukraine's President Zelensky said he is resuming strikes on Russian oil refineries after halting them for three days at US request. He accused Russia of breaking a proposed energy ceasefire within hours and blamed the US for withdrawing intelligence support. Russia claims it intercepted drones and missiles aimed at a refinery south of Moscow."
-   },
-   "bn": {
-    "title": "জেলেনস্কি আমেরিকার শক্তি সংঘর্ষবিরতি ব্যর্থ হওয়ায় আক্রমণ পুনরায় শুরু করলেন",
-    "summary": "ইউক্রেনের প্রেসিডেন্ট জেলেনস্কি বলেছেন, তিন দিন বিরতির পর তিনি রাশিয়ার তেল রিফাইনারিতে আক্রমণ পুনরায় শুরু করছেন। তিনি রাশিয়াকে প্রস্তাবিত শক্তি সংঘর্ষবিরতি ঘোষণার কয়েক ঘণ্টার মধ্যে ভাঙার অভিযোগ করেছেন এবং আমেরিকাকে গোয়েন্দা সহায়তা প্রত্যাহারের জন্য দায়ী করেছেন। রাশিয়া মস্কোর দক্ষিণের একটি রিফাইনারিতে ড্রোন এবং মিসাইল প্রতিরোধ করার দাবি করছে।"
-   }
-  },
-  {
-   "id": "p1ll2d",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.co.uk/bengali/live/cw07315ejj93t?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84b5/live/ca5d12f0-c88c-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-15T13:21:20.840Z",
-   "added": "2026-10-15T13:21:20.840Z",
-   "origTitle": "মদিনার দিকে ছোড়া ক্ষেপণাস্ত্র ভূপাতিত করার দাবি সৌদি জোটের, হুথিদের অস্বীকার",
-   "en": {
-    "title": "Dengue deaths spike; minister says vaccine not yet planned",
-    "summary": "Bangladesh saw 10 dengue deaths in 24 hours, and 103 Saudi-bound flights were cancelled in six days due to security concerns. Health Minister Mowlahur Rahman said the government is not considering importing dengue vaccines yet, citing risks. He emphasized improving public awareness and hygiene instead."
-   },
-   "bn": {
-    "title": "ডেঙ্গুতে মৃত্যু বাড়ছে; মন্ত্রী বলেন টিকার পরিকল্পনা নেই",
-    "summary": "বাংলাদেশে ২৪ ঘণ্টায় ডেঙ্গুতে ১০ জনের মৃত্যু হয়েছে এবং নিরাপত্তা সংশয়ে ছয় দিনে ১০৩টি সৌদি আরবগামী ফ্লাইট বাতিল হয়েছে। স্বাস্থ্যমন্ত্রী মো. সাখাওয়াত হোসেন বলেছেন, সরকার এখনো ডেঙ্গুর টিকা আনার বিষয়ে চিন্তা করছে না কারণ ঝুঁকি আছে। তিনি জনসচেতনতা এবং পরিচ্ছন্নতার উপর জোর দিয়েছেন।"
-   }
-  },
-  {
-   "id": "9hteda",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/israeli-firm-used-online-ads-run-vast-spy-operation-researchers-say-1574101",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/aminul_haque_16.png",
-   "published": "2026-10-15T12:50:00.000Z",
-   "added": "2026-10-15T13:21:20.840Z",
-   "origTitle": "Israeli firm used online ads to run vast spy operation, researchers say",
-   "en": {
-    "title": "Israeli ad agency used online ads to spy on millions",
-    "summary": "An Israeli digital advertising company called Discover-Tech ran a massive spy operation through online ads on 120,000 websites and 75,000 apps. The ads tracked users and sometimes planted spyware from an Israeli company called Candiru. Researchers say the advertising system itself has become a serious security threat for everyone."
-   },
-   "bn": {
-    "title": "ইসরায়েলি বিজ্ঞাপন সংস্থা অনলাইন বিজ্ঞাপনের মাধ্যমে ব্যাপক গোয়েন্দা কার্যক্রম চালাচ্ছিল",
-    "summary": "ইসরায়েলি ডিজিটাল বিজ্ঞাপন কোম্পানি ডিসকভার-টেক ১২০,০০০ ওয়েবসাইট এবং ৭৫,০০০ অ্যাপে অনলাইন বিজ্ঞাপনের মাধ্যমে ব্যাপক গোয়েন্দা কার্যক্রম পরিচালনা করছিল। এই বিজ্ঞাপনগুলো ব্যবহারকারীদের ট্র্যাক করত এবং কখনো কখনো ক্যান্ডিরু নামের ইসরায়েলি কোম্পানির স্পাইওয়্যার ইনস্টল করত। গবেষকরা বলছেন, বিজ্ঞাপন ব্যবস্থা নিজেই সবার জন্য একটি গুরুতর নিরাপত্তা হুমকিতে পরিণত হয়েছে।"
    }
   }
  ]

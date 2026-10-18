@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-18T10:56:08.601Z",
+ "updatedAt": "2026-10-18T14:31:37.635Z",
  "burning": [
   {
    "id": "1qld3c",
    "heat": 5,
    "why": {
-    "en": "Cox's Bazar resort fire dominates news—10 dead, multiple outlets, families still missing.",
-    "bn": "কক্স বাজার রিসর্ট আগুন নিয়ে সব জায়গায় কথা—১০ জন মরেছে, পরিবার খুঁজে পাওয়া যায়নি।"
+    "en": "Multiple outlets covering Cox's Bazar resort fire that killed 10 tourists; families still searching for missing.",
+    "bn": "কক্স বাজারের রিসর্ট আগুনে ১০ জন পর্যটক মারা গেছেন, পরিবার এখনও নিখোঁজদের খুঁজছেন—একাধিক মিডিয়ায় খবর।"
    },
    "rank": 1
   },
   {
-   "id": "qq56rh",
+   "id": "52oteu",
    "heat": 5,
    "why": {
-    "en": "Kolkata Durga Puja stampede kills 17—major tragedy trending across social media.",
-    "bn": "কলকাতা দুর্গা পূজা ঘটনায় ১৭ জন মারা গেছে—সোশ্যাল মিডিয়ায় ভাইরাল।"
+    "en": "France erupts with violent protests over cost of living; 1,200 arrested, buildings burning across multiple reports.",
+    "bn": "ফ্রান্সে জীবনযাত্রার খরচ নিয়ে তীব্র বিক্ষোভ, ১,২০০ জন গ্রেফতার, বেশ কয়েকটি সূত্রে খবর।"
    },
    "rank": 2
   },
   {
-   "id": "52oteu",
+   "id": "1wk96pj",
    "heat": 4,
    "why": {
-    "en": "France violent protests over cost of living—1,200 arrested, buildings burning.",
-    "bn": "ফ্রান্সে খরচ নিয়ে বড় আন্দোলন—১,২০০ জন ধরা পড়েছে।"
+    "en": "Nahida Akter takes over Bangladesh women's T20 captaincy—sports milestone getting traction.",
+    "bn": "নাহিদা আক্তার বাংলাদেশ নারী টি২০ ক্যাপ্টেনসি নিয়েছেন—খেলাধুলার গুরুত্বপূর্ণ মুহূর্ত।"
    },
    "rank": 3
   },
   {
-   "id": "gnybii",
+   "id": "qq56rh",
    "heat": 4,
    "why": {
-    "en": "Bangladesh cricket collapse vs Zimbabwe trending on Google—Taskin's reaction tops searches.",
-    "bn": "বাংলাদেশ জিম্বাবুয়ের বিপক্ষে খেলায় হার—গুগলে ট্রেন্ড করছে।"
+    "en": "At least 17 dead in stampede at Durga Puja pandal in Kolkata—serious tragedy with regional impact.",
+    "bn": "কলকাতার দুর্গা পূজা প্যান্ডেলে ১৭ জন মারা যাওয়া ভিড় দুর্ঘটনা—আঞ্চলিক প্রভাব সহ গুরুতর ঘটনা।"
    },
    "rank": 4
   },
   {
-   "id": "4v9pv8",
-   "heat": 4,
+   "id": "ba9k6s",
+   "heat": 3,
    "why": {
-    "en": "Deepfake videos of actresses spark backlash—trending on Google with actress responses.",
-    "bn": "অভিনেত্রীদের ডিপফেক ভিডিও নিয়ে আলোড়ন—গুগলে শীর্ষে।"
+    "en": "Japan to invest $1.2 billion in Bangladesh tourism—major economic news.",
+    "bn": "বাংলাদেশের পর্যটনে জাপান ১.২ বিলিয়ন ডলার বিনিয়োগ করবে—বড় অর্থনৈতিক সংবাদ।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "gnybii",
-   "tag": "#BanglaCricket",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Bangladesh loses to Zimbabwe",
-    "text": "Cricket fans fired up over Bangladesh's collapse against Zimbabwe. Taskin Ahmed says batsmen should have sealed it."
-   },
-   "bn": {
-    "title": "বাংলাদেশ জিম্বাবুয়েতে হারল",
-    "text": "ক্রিকেট ফ্যানরা খুবই আগ্রহী। তাসকিন বলেছেন ব্যাটসম্যানদের খেলা আরও ভালো হওয়া উচিত ছিল।"
-   }
-  },
-  {
-   "id": "4v9pv8",
-   "tag": "#DeepfakeBD",
+   "id": "32a747",
+   "tag": "#USUkraineGeopolitics",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "TV channel posts deepfake videos",
-    "text": "A Bengali TV channel released deepfake videos of actresses, causing huge backlash online. Actors including Pori Moni spoke out."
+    "title": "Trump halts Russian sanctions",
+    "text": "US President Donald Trump has halted sanctions against Russia as tensions between the US and Ukraine spike. The move marks a major shift in American foreign policy."
    },
    "bn": {
-    "title": "টিভি চ্যানেল ডিপফেক ভিডিও দিয়েছে",
-    "text": "একটি বাংলা চ্যানেল অভিনেত্রীদের ডিপফেক ভিডিও প্রকাশ করেছে। পরীমনি সহ অনেকে বিরুদ্ধে কথা বলেছেন।"
+    "title": "ট্রাম্প রাশিয়ান প্রতিবন্ধ বন্ধ করেছেন",
+    "text": "যুক্তরাষ্ট্র-ইউক্রেইন টানাপড়নের মধ্যে ট্রাম্প রাশিয়ার বিরুদ্ধে প্রতিবন্ধ স্থগিত করেছেন। এটি আমেরিকান বৈদেশিক নীতির একটি বড় পরিবর্তন।"
    }
   },
   {
-   "id": "qq56rh",
-   "tag": "#KolkataTragedy",
+   "id": "ba9k6s",
+   "tag": "#JapanInvestmentBD",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 3,
    "en": {
-    "title": "Stampede at Kolkata Durga Puja",
-    "text": "At least 17 people died in a crush at a Durga Puja pandal in Kolkata. A major tragedy sparking serious conversation online."
+    "title": "Japan's $1.2 billion tourism push",
+    "text": "Japan has pledged to invest $1.2 billion in Bangladesh tourism sector. The investment aims to boost tourism infrastructure and economic growth."
    },
    "bn": {
-    "title": "কলকাতা পূজায় দুর্ঘটনা",
-    "text": "কলকাতার এক পূজা প্যান্ডেলে ভিড়ের কারণে কমপক্ষে ১৭ জন মারা গেছেন। একটি বড় ঘটনা যা সবার কথায় উঠেছে।"
+    "title": "জাপানের ১.২ বিলিয়ন ডলার পর্যটন উদ্যোগ",
+    "text": "বাংলাদেশের পর্যটন খাতে জাপান ১.২ বিলিয়ন ডলার বিনিয়োগ করতে প্রতিশ্রুতিবদ্ধ। এই বিনিয়োগ পর্যটন অবকাঠামো এবং অর্থনৈতিক বৃদ্ধি বাড়াতে লক্ষ্য করছে।"
    }
   },
   {
-   "id": "1qld3c",
-   "tag": "#CoxsBazarFire",
+   "id": "1bft254",
+   "tag": "#TikTokElon",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 2,
    "en": {
-    "title": "Cox's Bazar resort fire tragedy",
-    "text": "A fire at a Cox's Bazar resort has killed at least 10 people. Search trends show heavy interest; families are still searching for missing loved ones."
+    "title": "TikTok bans Musk documentary ads",
+    "text": "TikTok has permanently removed ads for an Elon Musk documentary from its platform. The decision reflects ongoing tensions between tech platforms and content creators."
    },
    "bn": {
-    "title": "কক্স বাজার রিসর্ট আগুন",
-    "text": "কক্স বাজারের একটি রিসর্টে আগুন লেগে কমপক্ষে ১০ জন মারা গেছেন। পরিবারগুলো এখনও নিখোঁজদের খুঁজছে।"
+    "title": "টিকটক এলন ডকুমেন্টারি বিজ্ঞাপন নিষিদ্ধ করেছে",
+    "text": "টিকটক এলন মাস্কের ডকুমেন্টারির বিজ্ঞাপন স্থায়ীভাবে প্ল্যাটফর্ম থেকে সরিয়েছে। এই সিদ্ধান্ত প্রযুক্তি প্ল্যাটফর্ম এবং কন্টেন্ট ক্রিয়েটরদের মধ্যে চলমান টানাপড়ন প্রতিফলিত করে।"
    }
   }
  ],
