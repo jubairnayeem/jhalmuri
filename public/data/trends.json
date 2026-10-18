@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-17T22:14:06.820Z",
+ "updatedAt": "2026-10-18T05:47:38.251Z",
  "burning": [
   {
-   "id": "mor5g5",
+   "id": "1qld3c",
    "heat": 5,
    "why": {
-    "en": "Cox's Bazar resort fire killing 10 is dominating search with 10000+ trending queries in Bangla.",
-    "bn": "কক্সবাজার রিসোর্ট আগুনে ১০ জন মৃত—বাংলায় ১০,০০০+ ট্রেন্ডিং সার্চ।"
+    "en": "Multiple outlets covering the same deadly resort fire in Cox's Bazar; major tragedy.",
+    "bn": "কক্স বাজারের রিসর্ট আগুনে একই ঘটনা নিয়ে একাধিক আউটলেট রিপোর্ট করছে; বড় দুর্ঘটনা।"
    },
    "rank": 1
   },
   {
-   "id": "qq56rh",
+   "id": "52oteu",
    "heat": 4,
    "why": {
-    "en": "Kolkata Durga Puja stampede killing 17 covered by multiple outlets, serious tragedy.",
-    "bn": "কলকাতা দুর্গাপূজা মণ্ডপে ভিড়ে ১৭ জন মারা গেছেন, বহু মাধ্যমে খবর।"
+    "en": "France violence and protests major international story covered by multiple news outlets.",
+    "bn": "ফ্রান্সের সহিংসতা এবং প্রতিবাদ আন্তর্জাতিক খবর, একাধিক মিডিয়া কভার করছে।"
    },
    "rank": 2
   },
   {
-   "id": "gnybii",
+   "id": "incdf8",
    "heat": 4,
    "why": {
-    "en": "Bangladesh cricket collapse vs Zimbabwe with Taskin's critique gets sports media traction.",
-    "bn": "বাংলাদেশ জিম্বাবোয়ের বিপক্ষে হেরেছে, তাসকিন সমালোচনা করেছেন—খেলার খবরে আলোচনা।"
+    "en": "Garment worker death with CCTV evidence is serious labour issue in Bangladesh.",
+    "bn": "সিসিটিভি প্রমাণ সহ সাভার গ্যারমেন্ট কারখানায় শ্রমিক মৃত্যু গুরুতর ইস্যু।"
    },
    "rank": 3
   },
   {
-   "id": "1lcfien",
+   "id": "qq56rh",
    "heat": 3,
    "why": {
-    "en": "European cost-of-living protests multi-outlet coverage shows global economic concern.",
-    "bn": "ইউরোপ জুড়ে খরচ বৃদ্ধির বিরুদ্ধে প্রতিবাদ, বহু আউটলেটে খবর।"
+    "en": "Durga Puja pandal stampede in Kolkata kills at least 17; regional tragedy.",
+    "bn": "কলকাতার দুর্গা পূজা প্যান্ডেলে স্ট্যাম্পেডে কমপক্ষে ১৭ জন নিহত; আঞ্চলিক দুর্ঘটনা।"
    },
    "rank": 4
   },
   {
-   "id": "1bft254",
+   "id": "hicsfz",
    "heat": 3,
    "why": {
-    "en": "TikTok's Elon Musk documentary ad ban shows tech platform power moves.",
-    "bn": "টিকটক ইলন মাস্ক ডকুমেন্টারির বিজ্ঞাপন নিষিদ্ধ করেছে, টেক জগতে আলোচনা।"
+    "en": "Bangladesh GDP growth forecast to beat India's by 2026 is significant economic news.",
+    "bn": "২০২৬ সালের মধ্যে বাংলাদেশের মাথাপিছু জিডিপি ভারতকে ছাড়িয়ে যাবে, গুরুত্বপূর্ণ অর্থনৈতিক খবর।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "mor5g5",
-   "tag": "#CoxsBazarFire",
+   "id": "4v9pv8",
+   "tag": "#DeepfakesBacklash",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "Resort fire kills 10 in Cox's Bazar",
-    "text": "A devastating fire at a Cox's Bazar resort has killed at least 10 people, including three close friends. The incident is drawing massive online attention."
+    "title": "Deepfake videos spark outrage",
+    "text": "A TV channel posted deepfake videos of actresses, triggering public backlash over misuse of AI technology."
    },
    "bn": {
-    "title": "কক্সবাজার রিসোর্ট আগুনে ১০ জন মৃত",
-    "text": "কক্সবাজারের একটি রিসোর্টে আগুন লেগে কমপক্ষে ১০ জন মারা গেছেন, তাদের মধ্যে তিন বন্ধুও আছেন। ঘটনাটি অনলাইনে ব্যাপক আলোচনা সৃষ্টি করেছে।"
+    "title": "ডিপফেক ভিডিও নিয়ে ক্ষোভ",
+    "text": "একটি টিভি চ্যানেল অভিনেত্রীদের ডিপফেক ভিডিও পোস্ট করে এআই প্রযুক্তির অপব্যবহারের বিরুদ্ধে জনরোষ উস্কে দিয়েছে।"
    }
   },
   {
-   "id": "gnybii",
-   "tag": "#BDCricket",
+   "id": "1nb1shq",
+   "tag": "#EntrepreneurshipStory",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Bangladesh loses to Zimbabwe, batsmen blamed",
-    "text": "Bangladesh's cricket team collapsed against Zimbabwe. Fast bowler Taskin Ahmed says the batsmen should have won it—a tough loss for the squad."
+    "title": "Chutney seller builds 600 crore empire",
+    "text": "From street-level chutney sales to a massive business: a Bangladeshi entrepreneur's unlikely success story."
    },
    "bn": {
-    "title": "বাংলাদেশ জিম্বাবোয়ের কাছে হেরেছে",
-    "text": "জিম্বাবোয়ের বিপক্ষে বাংলাদেশ খারাপ পারফর্ম করেছে। তাসকিন আহমেদ বলেছেন ব্যাটসম্যানদের এটা জেতার সুযোগ ছিল—দলের জন্য কঠিন পরাজয়।"
+    "title": "চাটনি বিক্রেতা থেকে ৬০০ কোটি ব্যবসা",
+    "text": "রাস্তার চাটনি বেচা থেকে শুরু করে বিশাল ব্যবসায় পরিণত হওয়ার গল্প।"
    }
   },
   {
-   "id": "1lcfien",
-   "tag": "#CostOfLiving",
+   "id": "1k605g6",
+   "tag": "#AITraining",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Europe's cost-of-living wave spreads",
-    "text": "Protests over rising costs are sweeping across Europe. Tens of thousands have marched in Lisbon and other cities demanding action on the housing and inflation crisis."
+    "title": "Meta removes web scraping terms",
+    "text": "Meta revises its policies over concerns about web scraping and unauthorized AI training on user data."
    },
    "bn": {
-    "title": "ইউরোপে খরচ বৃদ্ধির প্রতিবাদ",
-    "text": "বাড়ির দাম এবং মুদ্রাস্ফীতির বিরুদ্ধে ইউরোপজুড়ে প্রতিবাদ চলছে। লিসবন এবং অন্যান্য শহরে হাজার হাজার মানুষ পদযাত্রা করেছেন।"
+    "title": "মেটা ওয়েব স্ক্র্যাপিং নীতি পরিবর্তন করেছে",
+    "text": "ব্যবহারকারী তথ্য দিয়ে অননুমোদিত এআই প্রশিক্ষণ নিয়ে উদ্বেগের কারণে মেটা নীতি সংশোধন করেছে।"
+   }
+  },
+  {
+   "id": "1bft254",
+   "tag": "#MuskControversy",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 2,
+   "en": {
+    "title": "TikTok bans Musk documentary ads",
+    "text": "TikTok has permanently banned advertisements for an Elon Musk documentary from the platform."
+   },
+   "bn": {
+    "title": "টিকটক মাস্ক ডকুমেন্টারি বিজ্ঞাপন বান",
+    "text": "টিকটক এলন মাস্ক সম্পর্কিত একটি ডকুমেন্টারির বিজ্ঞাপন চিরকালের জন্য নিষিদ্ধ করেছে।"
    }
   }
  ],

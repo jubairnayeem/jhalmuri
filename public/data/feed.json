@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-18T00:55:08.292Z",
+ "updatedAt": "2026-10-18T05:47:20.969Z",
  "items": [
+  {
+   "id": "12t8b8d",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1558907.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423679.jpg",
+   "published": "2026-10-18T04:11:41.000Z",
+   "added": "2026-10-18T05:47:20.969Z",
+   "origTitle": "Springer replaces Paul on West Indies' Test tour of Bangladesh",
+   "en": {
+    "title": "Springer Gets Test Call-Up as Paul Withdraws from Bangladesh Tour",
+    "summary": "West Indies cricketer Springer has earned his first Test call-up for the team's tour of Bangladesh. He replaces Paul, who has withdrawn for personal and family reasons. Springer's maiden Test selection is a big moment in his cricket career. The tour will test the squad's depth as it adjusts to the change."
+   },
+   "bn": {
+    "title": "বাংলাদেশ ট্যুরে স্প্রিঙ্গার পল-এর জায়গা নিচ্ছেন টেস্ট দলে",
+    "summary": "ওয়েস্ট ইন্ডিজ ক্রিকেটার স্প্রিঙ্গার বাংলাদেশ ট্যুরের জন্য তার প্রথমবার টেস্ট দলে আহূত হয়েছেন। তিনি পল-এর জায়গা নিচ্ছেন, যিনি ব্যক্তিগত এবং পারিবারিক কারণে আহ্বান থেকে সরে গেছেন। স্প্রিঙ্গারের প্রথম টেস্ট নির্বাচন তার ক্যারিয়ারে বড় মুহূর্ত। দলটি এই পরিবর্তনের সাথে মানিয়ে নিয়ে ট্যুরে তার দক্ষতা পরীক্ষা করবে।"
+   }
+  },
+  {
+   "id": "s377dg",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Dhaka Tribune",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMkZTRDZGYkxWNXVMZEFKMzU4NERNWjM2cGxVLXVuUGRSc2JnaUpzRm9zdzdqaXBxUnBTcFJrNHNzV3V6eWxQWGQyWVBiLVljeEdMeE1zclJEZVZwTl9LTk1velZzTFBjQzZLNXhlMk5ScDl5eE51emctVlNZUTV4TXh0MndsUVF3MmlRVEtjMy1sSFExNlVEeHRn0gGfAUFVX3lxTE5fWU5lYkxnMk84Q0k2R0NLSU05aFJCUHB6aWJHZG9YWEo2VkZDZU5fZmFMVUxjRjZRcXpiMjB0a1VSdDhLMVhtOEdsTnFhb2J3bHNWVjl6c1FWVE1FRHhhMzBqZlF3dDBrQ0liQVVGcEpzNXo2c0F4UEg1di16Z0gyZ1N3YUppVXNtVlBFUWttZmpWVTl5RWx6ZjV2cFNKaw?oc=5",
+   "image": null,
+   "published": "2026-10-17T11:59:43.000Z",
+   "added": "2026-10-18T05:47:20.969Z",
+   "origTitle": "JU Professor Nahreen Islam Khan appointed Chief Information Commissioner",
+   "en": {
+    "title": "JU Professor Nahreen Islam Khan Named Chief Information Commissioner",
+    "summary": "Nahreen Islam Khan, a professor at Jahangirnagar University, has been appointed as Chief Information Commissioner. The role oversees information access and transparency in government. Khan will lead the commission's work on implementing right-to-information laws. This is a key position for ensuring public access to government records."
+   },
+   "bn": {
+    "title": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের অধ্যাপক নাহরিন ইসলাম খান প্রধান তথ্য কমিশনার নিযুক্ত",
+    "summary": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের অধ্যাপক নাহরিন ইসলাম খান প্রধান তথ্য কমিশনার হিসেবে নিযুক্ত হয়েছেন। এই পদটি সরকারের তথ্য প্রবেশাধিকার এবং স্বচ্ছতা তদারকি করে। খান তথ্য অধিকার আইন বাস্তবায়নে কমিশনের কাজ নেতৃত্ব দেবেন। জনগণের সরকারি তথ্য অ্যাক্সেসের জন্য এটি একটি গুরুত্বপূর্ণ পদ।"
+   }
+  },
+  {
+   "id": "sbd3tv",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/capital/f0zp1wrmww",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-18/snnvo4g1/780773b26ec3432582560e593e16c832.jpg",
+   "published": "2026-10-18T05:24:18.000Z",
+   "added": "2026-10-18T05:47:10.995Z",
+   "origTitle": "১৫ বছর আগে মা, এবার বাবাকে হারিয়ে দিশাহারা তাসমিয়া",
+   "en": {
+    "title": "Former secretary found dead after 15 years of hardship, daughter devastated",
+    "summary": "Mo. Mosharraf Hosen, a former additional secretary, was found bloodied and unconscious Friday morning near stairs at Officer's Club construction site in Dhaka. He died at Dhaka Medical College Hospital shortly after. His wife died 15 years ago; his elder daughter works as a doctor in the US. His younger daughter Tasmia, 28, now faces life alone after losing her only support."
+   },
+   "bn": {
+    "title": "সাবেক সচিব মারা গেলেন, ১৫ বছরের পর ছোট মেয়ে আবার একা",
+    "summary": "সাবেক অতিরিক্ত সচিব মো. মোশাররফ হোসেনকে শুক্রবার সকালে ঢাকায় অফিসার্স ক্লাবের নির্মাণাধীন ভবনে রক্তাক্ত অবস্থায় পাওয়া যায়। ঢাকা মেডিকেল কলেজ হাসপাতালে তিনি মারা যান। তার স্ত্রী ১৫ বছর আগে মারা গেছেন এবং বড় মেয়ে যুক্তরাষ্ট্রে চিকিৎসক হিসেবে কাজ করে। ২৮ বছর বয়সী ছোট মেয়ে তাসমিয়া এখন সম্পূর্ণ একা পড়ে গেছেন।"
+   }
+  },
+  {
+   "id": "81v33p",
+   "section": "news",
+   "cat": "campus",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/o9wo6bdi2i",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-18/bj65vvz2/prothomalo-bangla2026-10-17xvehe58cWhatsApp-Image-2026-10-17-at-9.33.06-PM.avif",
+   "published": "2026-10-18T05:22:30.000Z",
+   "added": "2026-10-18T05:47:10.995Z",
+   "origTitle": "Jagannath University: Questions raised over back-to-back ‘Beef Feasts’",
+   "en": {
+    "title": "Jagannath University hosts back-to-back beef feasts during Hindu festival",
+    "summary": "Jagannath University student groups organised two large beef feasts on consecutive days—Friday and Saturday 16-17 October—during Durga Puja, the major Hindu religious festival. The Bangladesh Khelafat Chhatra Majlis group distributed beef and organised qawwali on Saturday; the Central Students' Union held a separate event Friday. Each charged students a small registration fee and served over 600 people."
+   },
+   "bn": {
+    "title": "জগন্নাথ বিশ্ববিদ্যালয়ে দুরগা পূজার সময় পাঁচিল ভোজের আয়োজন",
+    "summary": "জগন্নাথ বিশ্ববিদ্যালয়ে শুক্রবার এবং শনিবার (১৬-১৭ অক্টোবর) পরপর দুটি বড় পাঁচিল ভোজের আয়োজন করা হয়েছে যা হিন্দু সম্প্রদায়ের সবচেয়ে বড় উৎসব দুর্গা পূজার সময়ে অনুষ্ঠিত হয়। বাংলাদেশ খেলাফত ছাত্র মজলিস শনিবার পাঁচিল এবং কাওয়ালির আয়োজন করে এবং কেন্দ্রীয় শিক্ষার্থী ইউনিয়ন শুক্রবার আলাদা অনুষ্ঠান করে। প্রতিটি ইভেন্টে ৬০০ জনেরও বেশি অংশগ্রহণ করে।"
+   }
+  },
+  {
+   "id": "1c0wft4",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-05-26T055926Z_1447473893_RC2TGLAS2BBQ_RTRMADP_3_INDIA-USA-1792229243.jpg?resize=1920%2C1440",
+   "published": "2026-10-18T05:16:49.000Z",
+   "added": "2026-10-18T05:47:10.995Z",
+   "origTitle": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+   "en": {
+    "title": "US Secretary of State Rubio skips New Delhi, stirs Indian tensions",
+    "summary": "US Secretary of State Marco Rubio is visiting India next week but will avoid the capital New Delhi, instead meeting Foreign Minister Subrahmanyam Jaishankar in Mumbai on Monday. The snub sparked anger from Indian opposition leaders who accused the government of allowing India's top diplomat to be \"summoned\" on home soil. The two countries' relations are strained over trade, tariffs and Russian oil purchases."
+   },
+   "bn": {
+    "title": "মার্কিন পররাষ্ট্র মন্ত্রী নতুন দিল্লি এড়িয়ে গেলেন, ভারত নাখোশ",
+    "summary": "মার্কিন পররাষ্ট্র মন্ত্রী মার্কো রুবিও আগামী সপ্তাহে ভারত পরিদর্শন করবেন কিন্তু রাজধানী নতুন দিল্লি এড়িয়ে সোমবার মুম্বাইয়ে ভারতীয় পররাষ্ট্র মন্ত্রী সুব্রহ্মণ্যম জৈশঙ্করের সাথে দেখা করবেন। এই অপমানজনক সিদ্ধান্তে ভারতীয় বিরোধী নেতারা রেগে গেছেন এবং সরকারকে তাদের শীর্ষ কূটনীতিবিদকে নিজের মাটিতে ডাকার অনুমতি দেওয়ার অভিযোগ করেছেন।"
+   }
+  },
+  {
+   "id": "1aq9h0v",
+   "section": "news",
+   "cat": "campus",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/mymensing/975220/%E2%80%98%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E2%80%99-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93-%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2",
+   "image": null,
+   "published": "2026-10-18T05:28:01.000Z",
+   "added": "2026-10-18T05:47:10.995Z",
+   "origTitle": "‘মাদক’ সেবনের ভিডিও ভাইরাল, ময়মনসিংহে ছাত্রদল নেতাকে অব্যাহতি",
+   "en": {
+    "title": "Mymensingh Chhatra Dal leader suspended over drug video",
+    "summary": "Zahirul Islam, co-secretary of Mymensingh North district Chhatra Dal and joint convener of Gauri Pur upazila unit, has been suspended from his organisational posts after a drug-use video went viral on social media. The district office issued a suspension notice on Friday night, citing breach of organisational discipline."
+   },
+   "bn": {
+    "title": "ময়মনসিংহে ছাত্রদল নেতা ড্রাগ ভিডিওর কারণে সাসপেন্ড",
+    "summary": "মাদক সেবনের ভিডিও ভাইরাল হওয়ার পর ময়মনসিংহ উত্তর জেলা ছাত্রদলের সহসভাপতি ও গৌরীপুর উপজেলা ছাত্রদলের যুগ্ম আহ্বায়ক জহিরুল ইসলামকে সাংগঠনিক পদ থেকে সাময়িক অব্যাহতি দেওয়া হয়েছে। জেলা সংগঠন শুক্রবার রাতে সাংগঠনিক শৃঙ্খলা ভঙ্গের কারণে এ সিদ্ধান্ত জানিয়েছে।"
+   }
+  },
+  {
+   "id": "52oteu",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c5gm029lmnneo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a04/live/fe7163c0-caa3-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-18T04:31:22.000Z",
+   "added": "2026-10-18T05:47:10.995Z",
+   "origTitle": "ফ্রান্সজুড়ে সহিংস সংঘর্ষ, লুটপাট ও অগ্নিসংযোগ চলছে, গ্রেপ্তার ১ হাজারের বেশি",
+   "en": {
+    "title": "France erupts: violent protests leave 1,200 arrested, buildings burning",
+    "summary": "Widespread violence swept France on Saturday as protests over school conditions and rising living costs turned destructive. Over 1,200 people were arrested and around 550,000 demonstrated nationwide. Rioters set fires across cities including Paris and Limoges, looted shops, and clashed with police who used tear gas and water cannons. About 150 police officers were injured."
+   },
+   "bn": {
+    "title": "ফ্রান্সে আগুন এবং লুটপাট: ১,২০০ গ্রেপ্তার, ভবন জ্বলছে",
+    "summary": "শনিবার স্কুলের অবস্থা এবং ক্রমবর্ধমান খরচের বিক্ষোভ সংঘর্ষে পরিণত হয়েছে। সারা ফ্রান্সে ১২০০ জনেরও বেশি গ্রেপ্তার হয়েছে এবং প্রায় সাড়ে পাঁচ লক্ষ মানুষ বিক্ষোভে অংশ নিয়েছে। প্যারিস সহ শহরগুলিতে বিক্ষোভকারীরা দোকান লুট করেছে, ভবনে আগুন লাগিয়েছে এবং পুলিশের সাথে সংঘর্ষ হয়েছে। প্রায় ১৫০ পুলিশ সদস্য আহত হয়েছেন।"
+   }
+  },
+  {
+   "id": "18j56p",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/pm-stresses-discipline-professionalism-public-trust-armed-forces-1576146",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/tarique_rahman_.jpg",
+   "published": "2026-10-18T05:35:00.000Z",
+   "added": "2026-10-18T05:47:10.995Z",
+   "origTitle": "PM stresses discipline, professionalism, public trust in armed forces",
+   "en": {
+    "title": "PM tells armed forces: discipline and trust matter most",
+    "summary": "Prime Minister Tarique Rahman told Bangladesh Army units that real military strength comes from discipline, skills and public trust—not just weapons. He stressed the need to modernise defence, develop cyber and AI capabilities, and maintain high standards. The PM presented National Standards to several battalions at Savar Cantonment on 18 October."
+   },
+   "bn": {
+    "title": "প্রধানমন্ত্রী সেনাবাহিনীকে বলেন: শৃঙ্খলা এবং জনবিশ্বাসই মূল শক্তি",
+    "summary": "প্রধানমন্ত্রী তারিক রহমান বাংলাদেশ সেনাবাহিনীর ইউনিটগুলিকে বলেছেন যে সামরিক শক্তির প্রকৃত উৎস হলো শৃঙ্খলা, দক্ষতা এবং জনবিশ্বাস—শুধু অস্ত্র নয়। তিনি প্রতিরক্ষা আধুনিকীকরণ, সাইবার ও কৃত্রিম বুদ্ধিমত্তা উন্নয়ন এবং উচ্চ মান বজায় রাখার ওপর জোর দিয়েছেন। প্রধানমন্ত্রী ১৮ অক্টোবর সাভার ক্যান্টনমেন্টে বেশ কয়েকটি ব্যাটালিয়নকে জাতীয় মান প্রদান করেন।"
+   }
+  },
   {
    "id": "1wonurf",
    "section": "news",
@@ -3145,138 +3321,6 @@
    "bn": {
     "title": "দিল্লির বিক্ষোভে পুলিশের বিরুদ্ধে মারপিট ও দুর্ব্যবহারের অভিযোগ",
     "summary": "নির্বাচন কমিশনার জ্ঞানেশ কুমারের বিরুদ্ধে দিল্লির বিক্ষোভে আটক শিক্ষার্থী ও কর্মীরা পুলিশের মারধর ও অপমানের অভিযোগ করেছেন। অম্বেদকর বিশ্ববিদ্যালয়ের একজন শিক্ষার্থী দাবি করেছেন পুলিশ তার পোশাক জোরপূর্বক উপরে তুলেছে এবং বাসের দরজায় তার পা আটকে দিয়েছে। আটক কেন্দ্রে খাবার ও স্বাস্থ্যসেবার অভাব ছিল। দিল্লি পুলিশ এখনো কোনো মন্তব্য দেয়নি।"
-   }
-  },
-  {
-   "id": "a5eywx",
-   "section": "news",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "New Age",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOGNQNDhOcmNRQlJjcUFnZzA5STRSOGNaYzNxbTlDOXpsNVRkTzBVYWJaRUVreWs2RkMyUV83T19GaVpWY0xtVEdZOUhqZU5UdFM3UmxoWjdsaVVNbVJpOHh2V2JpQ0tPM1BPa0tnZUt2bWczZEs4Qno1ZnBSZzBuUlRQQzhUck14UDFjVGlMVkVHX0hKSmpDNGJiZHlIUFkwSVJGNWFKUWh0ZnBEakhoeXhYdkN0VVNfcmVFb0cxcFk?oc=5",
-   "image": null,
-   "published": "2026-10-14T10:05:00.000Z",
-   "added": "2026-10-15T01:24:53.403Z",
-   "origTitle": "‘We take inspiration from you’: AISA leader Neha hails Bangladesh’s Gen-Z movement",
-   "en": {
-    "title": "Indian student leader praises Bangladesh Gen-Z protest movement",
-    "summary": "Neha, a leader of AISA (All India Students Association), has praised Bangladesh's youth movement as inspiring. She said her organization takes inspiration from how young Bangladeshis are mobilizing. It's a nod to the energy and impact Gen-Z activism is having across South Asia."
-   },
-   "bn": {
-    "title": "ভারতীয় ছাত্র নেতা বাংলাদেশের জেন-জেড আন্দোলনের প্রশংসা করেছেন",
-    "summary": "AISA-র নেতা নেহা বাংলাদেশের তরুণ আন্দোলনকে অনুপ্রেরণাদায়ক বলে প্রশংসা করেছেন। তিনি বলেছেন তার সংগঠন বাঙালি তরুণদের সংগঠিত হওয়ার কাজ থেকে অনুপ্রেরণা নেয়। এটা দক্ষিণ এশিয়া জুড়ে জেন-জেড কর্মসূচির প্রভাব কতটা শক্তিশালী তার একটা প্রমাণ।"
-   }
-  },
-  {
-   "id": "1nfq094",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "UNB",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGJqLTBhSkVYNGVGd3E5eERkSURRMjlNTFhRTHBOQ2JJWXFVTUw1YVJfZHhHbUhtYUE5UjllSFVqbnRLZFRHZXE3Q21oUk1EMTY3RUJqQ2l3am0zT2I3NTZvNU5VU1NNdWhLalhMMlFSUkEtZ0c5N255eDhlRDB5NWozbE85RDhINnNCQlgxOXl2UTlKOVpPMWFiZC1HaHJYTDZTcVRjbFNhQlFJWERnS0VuTFhQalRLOXFsR2luS0pVaS1X?oc=5",
-   "image": null,
-   "published": "2026-10-14T03:23:08.000Z",
-   "added": "2026-10-15T01:24:53.403Z",
-   "origTitle": "Bangladesh calls for global treaty to protect victims of crimes against humanity",
-   "en": {
-    "title": "Bangladesh pushes for global crimes against humanity treaty",
-    "summary": "Bangladesh is calling for a new international treaty to protect victims of crimes against humanity. The move aims to create stronger global legal protections and accountability mechanisms. This matters for ensuring major human rights violations don't go unchecked worldwide."
-   },
-   "bn": {
-    "title": "মানবতার বিরুদ্ধে অপরাধের শিকারদের রক্ষায় বৈশ্বিক চুক্তির আহ্বান",
-    "summary": "বাংলাদেশ মানবতার বিরুদ্ধে অপরাধের শিকারদের রক্ষার জন্য একটি নতুন আন্তর্জাতিক চুক্তির আহ্বান জানিয়েছে। এই পদক্ষেপটি শক্তিশালী আইনি সুরক্ষা এবং জবাবদিহিতার ব্যবস্থা তৈরি করতে লক্ষ্য রাখে। বিশ্বব্যাপী বড় মানবাধিকার লঙ্ঘন যাতে অপ্রতিরোধিত না থাকে তা নিশ্চিত করতে এটি গুরুত্বপূর্ণ।"
-   }
-  },
-  {
-   "id": "1cf30kj",
-   "section": "news",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/education/scholarship/6dhoxcrugb",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/1od1pklx/17___adb_intership_eligibility.jpg",
-   "published": "2026-10-15T01:00:00.000Z",
-   "added": "2026-10-15T01:24:44.630Z",
-   "origTitle": "আইএমএফে ইন্টার্নশিপ, ১০–১২ সপ্তাহ ওয়াশিংটনে কাজের সুযোগ",
-   "en": {
-    "title": "IMF opens internship applications for PhD students",
-    "summary": "The IMF's Fund Internship Program for 2027 is now open to PhD candidates in macroeconomics. The 10-to-12-week internship is based in Washington DC with a salary, flights for international candidates, and visa support. Applicants must be under 32 in June 2027 with 1-2 years of study remaining."
-   },
-   "bn": {
-    "title": "পিএইচডি শিক্ষার্থীদের জন্য আইএমএফ ইন্টার্নশিপ খোলা",
-    "summary": "২০২৭ সালের আইএমএফ ফান্ড ইন্টার্নশিপ প্রোগ্রাম ম্যাক্রোইকোনমিক্স পিএইচডি শিক্ষার্থীদের জন্য খোলা। ওয়াশিংটন ডিসিতে ১০-১২ সপ্তাহের ইন্টার্নশিপে বেতন, আন্তর্জাতিক ফ্লাইট এবং ভিসা সাপোর্ট পাবেন।"
-   }
-  },
-  {
-   "id": "x66ct0",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
-   "published": "2026-10-15T01:01:32.000Z",
-   "added": "2026-10-15T01:24:44.630Z",
-   "origTitle": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-   "en": {
-    "title": "AI startup aims to design smarter chips faster",
-    "summary": "Recursive Intelligence says AI-designed chips could solve the looming compute crisis. Founders Anna Goldie and Azalia Mirhoseini told TechCrunch Disrupt that AI can create efficient chip layouts humans might miss, letting humans focus on applications instead of design details."
-   },
-   "bn": {
-    "title": "এআই দিয়ে দ্রুত স্মার্ট চিপ তৈরির লক্ষ্য স্টার্টআপের",
-    "summary": "রিকার্সিভ ইন্টেলিজেন্স বলছে এআই-ডিজাইন করা চিপ কম্পিউট সংকট সমাধান করতে পারে। প্রতিষ্ঠাতারা বলেছেন এআই মানুষ যা মিস করে এমন দক্ষ ডিজাইন তৈরি করতে পারে।"
-   }
-  },
-  {
-   "id": "ij4s1l",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad00c11-1792019473.jpg?resize=1920%2C1440",
-   "published": "2026-10-15T00:24:03.000Z",
-   "added": "2026-10-15T01:24:44.630Z",
-   "origTitle": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
-   "en": {
-    "title": "Costa Rica opens massive prison against organised crime",
-    "summary": "Costa Rica opened a new mega-prison on Wednesday with capacity for 5,100 inmates, representing 20% of the country's total prison population. President Laura Fernandez called it a tough-on-crime model to reassert control. The move mirrors El Salvador's popular but controversial approach to fighting rising gang violence and drug trafficking."
-   },
-   "bn": {
-    "title": "সংগঠিত অপরাধের বিরুদ্ধে কোস্টারিকা বিশাল কারাগার খুলল",
-    "summary": "বুধবার কোস্টারিকা ৫,১০০ ধারণক্ষমতার বিশাল কারাগার খুলেছে। রাষ্ট্রপতি লরা ফার্নান্দেজ এটিকে কঠোর অপরাধ নীতির মডেল বলেছেন। এল সালভাডরের পদ্ধতি অনুসরণ করে ল্যাটিন আমেরিকায় এই ট্রেন্ড ছড়িয়ে পড়ছে।"
-   }
-  },
-  {
-   "id": "12do196",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/weather/974579/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%AD%E0%A6%BE%E0%A6%B8-%E0%A6%95%E0%A6%AE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE",
-   "image": null,
-   "published": "2026-10-15T01:13:13.000Z",
-   "added": "2026-10-15T01:24:44.630Z",
-   "origTitle": "দেশের তিন বিভাগে বৃষ্টির আভাস, কমতে পারে তাপমাত্রা",
-   "en": {
-    "title": "Rain expected in three regions, temperature may drop",
-    "summary": "Rain or thunderstorms are likely in parts of Chattogram, Khulna, and Barishal divisions on Wednesday evening and Thursday. Other areas will stay mostly dry with partly cloudy skies. The weather department says this could bring some relief from the heat."
-   },
-   "bn": {
-    "title": "তিন বিভাগে বৃষ্টির সম্ভাবনা, তাপমাত্রা কমতে পারে",
-    "summary": "বুধবার সন্ধ্যা থেকে চট্টগ্রাম, খুলনা ও বরিশাল বিভাগের কিছু জায়গায় বৃষ্টি বা বজ্রসহ বৃষ্টি হতে পারে। দেশের বাকি অঞ্চল প্রধানত শুষ্ক থাকবে। আবহাওয়া অধিদফতর এ পূর্বাভাস দিয়েছে।"
    }
   }
  ]
