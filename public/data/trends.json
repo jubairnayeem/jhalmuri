@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-18T18:02:14.946Z",
+ "updatedAt": "2026-10-18T23:03:03.247Z",
  "burning": [
   {
    "id": "1qld3c",
    "heat": 5,
    "why": {
-    "en": "Multiple outlets covering Cox's Bazar resort fire that killed 10 tourists; ongoing probe and missing families drive continued coverage.",
-    "bn": "কক্সবাজারের রিসোর্ট আগুনে ১০ জন পর্যটক মারা গেছেন—একাধিক আউটলেট একই ঘটনা কভার করছে এবং হারিয়ে যাওয়া পরিবারগুলি নিয়ে খবর চলছে।"
+    "en": "Cox's Bazar resort fire killed 10 tourists, covered by multiple outlets with ongoing probe and missing families.",
+    "bn": "কক্সবাজার রিসোর্ট আগুনে ১০ জন পর্যটক মারা গেছে, একাধিক মাধ্যম কভার করছে এবং পরিবার নিখোঁজ।"
    },
    "rank": 1
   },
   {
-   "id": "1gvbxfb",
+   "id": "52oteu",
    "heat": 5,
    "why": {
-    "en": "State Minister Ishraque ordered to resign from Cabinet; trending on Google with 1000+ searches and connected to his firearm incident.",
-    "bn": "রাষ্ট্রমন্ত্রী ইশরাকের মন্ত্রিসভা থেকে পদত্যাগের নির্দেশ—গুগলে ১০০০+ সার্চ এবং তার অস্ত্র ঘটনার সাথে যুক্ত।"
+    "en": "France riots over cost of living: 1,200+ arrested, buildings burning, massive social upheaval across multiple outlets.",
+    "bn": "ফ্রান্সে জীবনযাত্রার খরচ নিয়ে দাঙ্গা: ১,২০০+ জন গ্রেপ্তার, ভবন জ্বলছে, একাধিক সংবাদপত্র কভার করছে।"
    },
    "rank": 2
+  },
+  {
+   "id": "1hdn70z",
+   "heat": 4,
+   "why": {
+    "en": "Albania Supreme Court fire during protests signals escalating civil unrest in the region.",
+    "bn": "আলবেনিয়ার সুপ্রিম কোর্টে প্রতিবাদের সময় আগুন, এলাকায় বেসামাল অস্থিরতার ইঙ্গিত।"
+   },
+   "rank": 3
   },
   {
    "id": "qq56rh",
    "heat": 4,
    "why": {
-    "en": "Durga Puja stampede in Kolkata kills at least 17; major regional disaster covered by multiple Bengali outlets.",
-    "bn": "কোলকাতার দুর্গা পূজা প্যান্ডেলে ভিড়ে ন্যূনতম ১৭ জন মারা গেছেন—বহুবিধ বাংলা আউটলেট এটি কভার করছে।"
-   },
-   "rank": 3
-  },
-  {
-   "id": "egs45n",
-   "heat": 4,
-   "why": {
-    "en": "118 flights cancelled at Dhaka airport in 7 days affects daily commuters and travel plans; local impact story.",
-    "bn": "ঢাকা বিমানবন্দরে ৭ দিনে ১১৮ ফ্লাইট বাতিল—যাত্রীদের দৈনন্দিন জীবনে সরাসরি প্রভাব।"
+    "en": "At least 17 dead in Kolkata Durga Puja pandal stampede, major tragedy in the region.",
+    "bn": "কলকাতার দুর্গাপূজা প্যান্ডেলে ১৭ জন মারা যায় ভিড়ের ধাক্কায়, অঞ্চলে বড় দুর্যোগ।"
    },
    "rank": 4
   },
   {
-   "id": "52oteu",
-   "heat": 4,
+   "id": "egs45n",
+   "heat": 3,
    "why": {
-    "en": "France protests escalate with 1,200 arrested and buildings burning; multiple outlets tracking violent unrest.",
-    "bn": "ফ্রান্সে হিংসক প্রতিবাদে ১,২০০ জন গ্রেপ্তার এবং ভবন জ্বলছে—বিভিন্ন আউটলেট এটি ট্র্যাক করছে।"
+    "en": "118 flights cancelled at Dhaka airport in 7 days affects thousands of passengers locally.",
+    "bn": "ঢাকা বিমানবন্দরে ৭ দিনে ১১৮ ফ্লাইট বাতিল, হাজারো যাত্রী প্রভাবিত।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1gvbxfb",
-   "tag": "#MinisterResigns",
+   "id": "1r28obm",
+   "tag": "#LaLiga",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "PM orders State Minister Ishraque to resign",
-    "text": "State Minister Ishraque has been ordered by PM to resign from Cabinet. The decision comes after a recent incident where he was seen wielding a firearm during an anti-drug operation."
+    "title": "Barcelona's winning streak historic",
+    "text": "Barcelona wins 9 straight, matching Real Madrid's 58-year record in La Liga. Massive season momentum for the Catalan club."
    },
    "bn": {
-    "title": "প্রধানমন্ত্রী ইশরাককে পদত্যাগ করতে নির্দেশ দিয়েছেন",
-    "text": "রাষ্ট্রমন্ত্রী ইশরাক মন্ত্রিসভা থেকে পদত্যাগ করতে নির্দেশিত হয়েছেন। মাদকবিরোধী অপারেশনে তার অস্ত্র নিয়ে যাওয়ার ঘটনার পর এই সিদ্ধান্ত।"
-   }
-  },
-  {
-   "id": "sbd3tv",
-   "tag": "#SadNews",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Former secretary found dead after hardship",
-    "text": "A former government secretary has been found dead after 15 years of hardship, leaving his daughter devastated. The story highlights struggles faced by retired civil servants."
-   },
-   "bn": {
-    "title": "সাবেক সচিব ১৫ বছরের কষ্টের পর মৃত পাওয়া যান",
-    "text": "একজন সাবেক সরকারি সচিব ১৫ বছরের কঠোর পরিশ্রমের পর মৃত অবস্থায় পাওয়া গেছেন, তার মেয়ে ভেঙে পড়েছেন। গল্পটি অবসরপ্রাপ্ত প্রশাসকদের সংকট তুলে ধরে।"
+    "title": "বার্সেলোনার অপরাজেয় সিরিজ রেকর্ড",
+    "text": "বার্সেলোনা পরপর ৯ ম্যাচ জিতে রিয়েলের ৫৮ বছরের রেকর্ডের সাথে মিলিয়েছে। লা লিগায় বিশাল ধাক্কা।"
    }
   },
   {
    "id": "1wk96pj",
-   "tag": "#CricketLeadership",
+   "tag": "#BanglaCricket",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Nahida Akter takes Bangladesh women's T20 helm",
-    "text": "Nahida Akter has been named new captain of Bangladesh women's T20 team, marking a fresh leadership chapter for the squad."
+    "title": "New women's T20 captain appointed",
+    "text": "Nahida Akter takes over Bangladesh women's T20 captaincy, fresh leadership for the national team."
    },
    "bn": {
-    "title": "নাহিদা আক্তার নতুন মহিলা টি২০ ক্যাপ্টেন",
-    "text": "নাহিদা আক্তার বাংলাদেশ মহিলা টি২০ দলের নতুন ক্যাপ্টেন নির্বাচিত হয়েছেন, এটি দলের জন্য নতুন নেতৃত্ব অধ্যায়ের সূচনা।"
+    "title": "নতুন মহিলা টি২০ ক্যাপ্টেন",
+    "text": "নাহিদা আক্তার বাংলাদেশ মহিলা টি২০ দল পরিচালনা করবেন নতুন নেতৃত্বে।"
+   }
+  },
+  {
+   "id": "ba9k6s",
+   "tag": "#VisitBangladesh",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Japan invests big in BD tourism",
+    "text": "Japan to invest $1.2 billion in Bangladesh tourism sector, boosting hospitality and travel infrastructure."
+   },
+   "bn": {
+    "title": "জাপান বাংলাদেশে ট্যুরিজম বিনিয়োগ",
+    "text": "জাপান বাংলাদেশের পর্যটন খাতে ১.২ বিলিয়ন ডলার বিনিয়োগ করবে, হোটেল এবং ইনফ্রা উন্নত হবে।"
    }
   }
  ],

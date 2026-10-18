@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-18T20:33:51.227Z",
+ "updatedAt": "2026-10-18T23:02:48.194Z",
  "items": [
+  {
+   "id": "1hlhx9i",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VeFJueUFEVi1TYTI3UGJJd3Q5Q0ZmaTJTN3hlenJ1SEN1ODVlbnBnUTlvRE82a1dHSk1KLW9USWNoQWs3c3Z0empFdTBCRlNEc1FxNtIBYkFVX3lxTE00bkZXNEU5T1Jod1JKbTRicF9heTMxR2ZEUXpsTXFRMExXQi01TjM1Q1ZTclJuMWh1SmEwV0o5bDBxNVhNcFFDRk9kaHdQNkhZS0ozdmNoWlg1ck13SUZZRHZB?oc=5",
+   "image": null,
+   "published": "2026-10-18T10:54:52.000Z",
+   "added": "2026-10-18T23:02:48.194Z",
+   "origTitle": "Hidden treasure or nothing? The mystery of Ahsan Manzil’s five safes",
+   "en": {
+    "title": "Five mysterious safes discovered in Ahsan Manzil",
+    "summary": "Five safes have been found at Ahsan Manzil, the historic palace in Dhaka, raising questions about what might be inside. Whether they contain treasure, documents, or nothing at all remains a mystery. Experts are investigating the discovery. The safes add another layer of intrigue to the landmark's already fascinating history."
+   },
+   "bn": {
+    "title": "আহসান মঞ্জিলে পাঁচটি রহস্যময় তিজোরি পাওয়া গেছে",
+    "summary": "ঢাকার ঐতিহাসিক প্রাসাদ আহসান মঞ্জিলে পাঁচটি তিজোরি খুঁজে পাওয়া গেছে, যা বড় প্রশ্ন তুলেছে। এগুলোতে কী আছে—গুপ্তধন, কাগজপত্র নাকি কিছু নেই—সেটা এখনো রহস্য। বিশেষজ্ঞরা তদন্ত করছেন। এই আবিষ্কার সেই ঐতিহাসিক স্থানের গল্পকে আরও রোমাঞ্চকর করে তুলেছে।"
+   }
+  },
+  {
+   "id": "rrbb0o",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Dhaka Tribune",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFN6R2ZoZDFGUXNmU2pNN0JQTmQ1aDBQQ2tKSzJ6eWRTaUxLSG43Q05qSWNhMkJBN2RycWt4clhZR2JrTFFnOThvRWM3b3JnelllTEgzd2h3QWdkM1JYQVpIWTZRVGJwNk1yVnY4N1lySzhvN0tkal9zWDh2ZWRxR0JfYXZjM3NycVVDcEJab083dDZsSmtLWtIBngFBVV95cUxNTUdTOW9TR1NNN1ZBcDZHcjN5RWllY01ud0tUeFhCU3YzQkl1ejl2Uy1GeFJfcFVITF9iOVNtYkx3cDZxNUQ3R0t0NVRsYTNHSmtTZVNIY2xkbWlTbzBVR1VRVWdYTEhzYkxiWWxrdnppZGFrM01CT0h1M1FPd1hqbWdUX0FzZC1Md0ZSUHFhSkJBMFRHUGNwYk02OVB2QQ?oc=5",
+   "image": null,
+   "published": "2026-10-18T14:10:08.000Z",
+   "added": "2026-10-18T23:02:48.194Z",
+   "origTitle": "Indian air ambulance lands in Dhaka after door opens mid-air; patient dies",
+   "en": {
+    "title": "Indian air ambulance door opens mid-air; patient dies",
+    "summary": "An Indian air ambulance experienced a critical emergency when its door opened during flight to Dhaka. The patient being transported died in the incident. The aircraft was able to land safely in Dhaka despite the emergency. Details about the cause of the door opening remain unclear."
+   },
+   "bn": {
+    "title": "ভারতীয় এয়ার অ্যাম্বুলেন্সের দরজা খুলে গেছে মাঝ আকাশে",
+    "summary": "একটি ভারতীয় এয়ার অ্যাম্বুলেন্স ঢাকায় আসার পথে উড়ার সময় দরজা খুলে গিয়েছে। বিমানে থাকা রোগী মারা গেছে। বিমানটি জরুরি অবস্থা সত্ত্বেও ঢাকায় নিরাপদে অবতরণ করেছে। দরজা খোলার কারণ এখনো স্পষ্ট নয়।"
+   }
+  },
+  {
+   "id": "gvgnxg",
+   "section": "news",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/religion/islam/1ndrizem2d",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-18/pdlpgrdj/pexels-kaderdygnn-8429441.jpg",
+   "published": "2026-10-18T22:30:00.000Z",
+   "added": "2026-10-18T23:02:39.544Z",
+   "origTitle": "আমাদের জীবনে ‘বিসমিল্লাহ’র ৭ শিক্ষা",
+   "en": {
+    "title": "Seven lessons from Bismillah for everyday life and work",
+    "summary": "Bismillah—starting in God's name—teaches that ability and opportunity come from Allah, not just ourselves. It reminds us to pursue knowledge and legitimate livelihoods. The practice also guards the mind against temptation. Key lesson: saying God's name doesn't make haram (forbidden) work halal; we must avoid bribery, fraud, and dishonest earnings."
+   },
+   "bn": {
+    "title": "বিসমিল্লাহর সাতটি শিক্ষা জীবনে কীভাবে প্রয়োগ করবেন",
+    "summary": "আল্লাহর নামে কাজ শুরু করা মানে সামর্থ্য আল্লাহর থেকে আসে—আমাদের নিজেদের থেকে নয়। এটি জ্ঞানচর্চা এবং সৎকর্মে উৎসাহ দেয়। কিন্তু গুরুত্বপূর্ণ কথা হলো, আল্লাহর নাম নিয়েও হারাম কাজ করা যায় না। সুদ, ঘুস, জালিয়াতি এড়িয়ে চলা জরুরি।"
+   }
+  },
+  {
+   "id": "1kklbhc",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799",
+   "published": "2026-10-18T21:00:00.000Z",
+   "added": "2026-10-18T23:02:39.544Z",
+   "origTitle": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+   "en": {
+    "title": "Benchmark venture firm stays calm, bets slow despite market frenzy",
+    "summary": "Venture capital firm Benchmark, which raised $2 billion this summer, is sticking to its slow investment approach: just two or three new bets per partner per year. Despite rivals speeding up and market chaos swirling, the five partners say their Monday meetings have no agenda and their 10-to-15-year founder partnerships still don't scale."
+   },
+   "bn": {
+    "title": "বেঞ্চমার্ক ভেঞ্চার ফার্ম শান্ত থাকলো, ধীর গতিতে বিনিয়োগ করছে",
+    "summary": "এই গ্রীষ্মে ২ বিলিয়ন ডলার সংগ্রহ করা ভেঞ্চার ফার্ম বেঞ্চমার্ক তার পুরানো ধীরগতির কৌশল রাখছে — প্রতি পার্টনার প্রতি বছর দুই-তিনটি নতুন বিনিয়োগ। বাজারে সবাই তাড়াহুড়ো করলেও, এদের পার্টনাররা বলছেন তাদের সোমবারের মিটিংয়ে কোনো এজেন্ডাই নেই।"
+   }
+  },
+  {
+   "id": "1ncvwbn",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/rangpur/975408/%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%BE-%E0%A6%B9%E0%A6%B2%E0%A7%8B-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2%E0%A7%80%E0%A6%B0-%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87",
+   "image": null,
+   "published": "2026-10-18T23:00:00.000Z",
+   "added": "2026-10-18T23:02:39.544Z",
+   "origTitle": "বিয়ের দিনে জানাজা হলো তরুণ প্রকৌশলীর, চিকিৎসা নিয়ে অভিযোগ পরিবারের",
+   "en": {
+    "title": "Young engineer dies day before wedding; family blames hospital care",
+    "summary": "Arif Shaharia Soumic, 22, a young engineer from Gaibandha, died the day before his wedding. His family has filed serious complaints against Maisha Diagnostic Centre, claiming poor treatment and delayed care worsened his condition. After seeking further help at Gaibandha General Hospital, he received inadequate medical attention before passing away on Sunday."
+   },
+   "bn": {
+    "title": "বিয়ের একদিন আগে তরুণ প্রকৌশলীর মৃত্যু, চিকিৎসা নিয়ে অভিযোগ",
+    "summary": "গাইবান্ধার তরুণ প্রকৌশলী আরিফ শাহারিয়া সৌমিক (২২) বিয়ের একদিন আগে মারা গেছেন। তার পরিবার মাইশা ডায়াগনস্টিক সেন্টার এবং চিকিৎসকদের বিরুদ্ধে দাবি করছে যে তারা সঠিক চিকিৎসা দেয়নি এবং দেরি করেছেন। গাইবান্ধা জেনারেল হাসপাতালেও একই সমস্যা হয়েছিল।"
+   }
+  },
+  {
+   "id": "yv2c95",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad53d6be9-1792359787.jpg?resize=1920%2C1440",
+   "published": "2026-10-18T22:41:49.000Z",
+   "added": "2026-10-18T23:02:39.544Z",
+   "origTitle": "Venezuela opposition renews support for Maria Corina Machado as leader",
+   "en": {
+    "title": "Venezuela opposition reaffirms Maria Corina Machado as leader",
+    "summary": "Venezuelan opposition parties meeting in Caracas have renewed their backing for exiled Nobel laureate Maria Corina Machado as their leader. They're pushing for free elections, release of political prisoners, and the safe return of those in exile. Machado, living outside Venezuela since December, has been barred from returning despite international pressure on authorities."
+   },
+   "bn": {
+    "title": "ভেনেজুয়েলার বিরোধী দল মারিয়া কোরিনা মাচাদোকে সমর্থন করছে",
+    "summary": "ভেনেজুয়েলার বিরোধী পক্ষ নোবেল পুরস্কার বিজয়ী মারিয়া কোরিনা মাচাদোকে তাদের নেতা হিসেবে আবার সমর্থন করেছে। তারা স্বাধীন নির্বাচন এবং রাজনৈতিক বন্দিদের মুক্তি দাবি করছে। মাচাদো ডিসেম্বর থেকে বিদেশে আছেন এবং ফেরত আসতে পারছেন না।"
+   }
+  },
+  {
+   "id": "7db3x7",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg",
+   "published": "2026-10-18T20:33:21.000Z",
+   "added": "2026-10-18T23:02:39.544Z",
+   "origTitle": "Macron calls for 'calm and order' after riots across France",
+   "en": {
+    "title": "France braces as riots grip major cities after fuel protests",
+    "summary": "France saw massive protests turn violent over the weekend, with around 550,000 people initially marching against rising fuel prices and cost of living. Rioters looted shops, torched cars and buildings, and even gutted a 19th-century city hall in Limoges. Police arrested about 2,400 people, and President Macron warned those involved would face justice, urging calm and order."
+   },
+   "bn": {
+    "title": "জ্বালানি মূল্যের বিরুদ্ধে প্রতিবাদ, ফ্রান্সে হিংসা ছড়িয়ে পড়লো",
+    "summary": "জ্বালানির দাম এবং জীবনযাত্রার খরচের বিরুদ্ধে ফ্রান্সে বড় প্রতিবাদ হয়েছে। প্রায় ৫৫০,০০০ মানুষ রাস্তায় নেমেছিল, কিন্তু পরে অংশের মানুষ দোকান লুট করে এবং গাড়ি-বাড়িতে আগুন ধরায়। পুলিশ প্রায় ২,৪০০ জনকে গ্রেফতার করেছে এবং প্রেসিডেন্ট ম্যাক্রো শৃঙ্খলা ফিরিয়ে আনতে আহ্বান জানিয়েছেন।"
+   }
+  },
   {
    "id": "1vj73dh",
    "section": "news",
@@ -3145,182 +3299,6 @@
    "bn": {
     "title": "গুগল ম্যাপের যুগেও সাইনবোর্ড কেন জরুরি",
     "summary": "হাসপাতাল, বড় ভবন আর ব্যস্ত রাস্তায় গুগল ম্যাপ থাকলেও মানুষ পথ হারায়। জরুরি বিভাগ, প্রবেশপথ এবং সঠিক দিকনির্দেশনা খুঁজে পেতে স্পষ্ট সাইনবোর্ডের প্রয়োজন রয়েছে। প্রযুক্তি আর চারপাশের চিহ্ন উভয়েই সাফল্যের চাবিকাঠি।"
-   }
-  },
-  {
-   "id": "nzmkap",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "UNB",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEZlbndzb18xczgtd0k1SmhUNDBhY2RrZTM4QTFRbkRFNlZ4cXV0OUNIeHdxdUcwcVZHM25pR3BPMzFteGFpMDJVSERrYTA5YVNfYkhVNDZnT3JVZ3hQT2NaR2E5OVpWTlJKY3VneVFCN0dVMXpST2hSNHBJdGFfVTlDaUxCZ0VuMGtPREVYY1A5eHg4QllsRzVwbTdlNnpOSkhxM0JEUkhwM25JUGRucS1WVmlHdGdDMUN0aXNrbFBvNlgtVmp1WVI3cXNHdw?oc=5",
-   "image": null,
-   "published": "2026-10-15T14:07:23.000Z",
-   "added": "2026-10-15T22:10:50.120Z",
-   "origTitle": "Bangladesh Army's Advance Team leaves for Haiti to participate in Gang Suppression Force",
-   "en": {
-    "title": "Bangladesh Army's advance team heads to Haiti for gang suppression",
-    "summary": "An advance team from Bangladesh Army has left for Haiti to participate in a Gang Suppression Force. This marks Bangladesh's involvement in an international security operation aimed at combating gang violence in Haiti. The deployment reflects Bangladesh's contribution to global peacekeeping and security efforts."
-   },
-   "bn": {
-    "title": "বাংলাদেশ আর্মির অ্যাডভান্স টিম হাইতিতে গ্যাং দমনের জন্য যাচ্ছে",
-    "summary": "বাংলাদেশ আর্মির একটি অ্যাডভান্স টিম গ্যাং সাপ্রেশন ফোর্সে অংশগ্রহণের জন্য হাইতিতে যাত্রা করেছে। এটি গ্যাং সহিংসতার বিরুদ্ধে লড়াইয়ের জন্য একটি আন্তর্জাতিক নিরাপত্তা অপারেশনে বাংলাদেশের সম্পৃক্ততা চিহ্নিত করে। এই ডিপ্লয়মেন্ট বৈশ্বিক শান্তি রক্ষা এবং নিরাপত্তা প্রচেষ্টায় বাংলাদেশের অবদান প্রতিফলিত করে।"
-   }
-  },
-  {
-   "id": "1sk7v5c",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558630.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/265700/265710.jpg",
-   "published": "2026-10-15T17:54:26.000Z",
-   "added": "2026-10-15T22:10:50.120Z",
-   "origTitle": "Punam Raut retires from international cricket",
-   "en": {
-    "title": "Indian cricketer Punam Raut retires from international cricket",
-    "summary": "Punam Raut, an Indian women's cricketer, has retired from international cricket. She played in three ODI World Cups and four T20 World Cups during her career. She was part of a record opening stand of 320 runs with Deepti Sharma in an ODI, one of her standout achievements on the world stage."
-   },
-   "bn": {
-    "title": "ভারতীয় ক্রিকেটার পূনম রাউত আন্তর্জাতিক ক্রিকেট থেকে অবসর নিলেন",
-    "summary": "ভারতীয় মহিলা ক্রিকেটার পূনম রাউত আন্তর্জাতিক ক্রিকেট থেকে অবসর নিয়েছেন। তার ক্যারিয়ারে তিনটি ওডিআই বিশ্বকাপ এবং চারটি টি২০ বিশ্বকাপে খেলেছেন। দীপ্তি শর্মার সাথে ওডিআইতে তার ৩২০ রানের রেকর্ড ওপেনিং পার্টনারশিপ তার সেরা স্মৃতিগুলির একটি।"
-   }
-  },
-  {
-   "id": "179t3fs",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/europe/kyty4eqbym",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-15/71onn1um/Germany.jpg",
-   "published": "2026-10-15T21:20:33.000Z",
-   "added": "2026-10-15T22:10:40.894Z",
-   "origTitle": "জার্মানির সব রেলস্টেশনে অ্যালকোহল নিষিদ্ধ",
-   "en": {
-    "title": "Germany bans alcohol at all rail stations nationwide",
-    "summary": "Germany has banned drinking alcohol at approximately 5,700 train stations across the country starting Thursday midnight. The rule was tested at 40 major stations including Cologne, Munich, Hamburg and Berlin with positive results. Stations platforms are now alcohol-free zones, though pubs and restaurants inside stations and dining cars on long-distance trains remain exempt. The ban follows incidents involving intoxicated passengers attacking staff."
-   },
-   "bn": {
-    "title": "জার্মানির সব রেলস্টেশনে অ্যালকোহল নিষিদ্ধ করা হয়েছে",
-    "summary": "জার্মানি প্রায় ৫,৭০০ রেলস্টেশনে অ্যালকোহল পানীয় নিষিদ্ধ করেছে গত বৃহস্পতিবার রাত থেকে। নিয়মটি কলন, মিউনিখ, হামবুর্গ এবং বার্লিনের মতো ৪০টি বড় স্টেশনে পরীক্ষা করা হয়েছিল এবং ইতিবাচক ফলাফল পাওয়া গেছে। প্ল্যাটফর্মগুলো এখন অ্যালকোহলমুক্ত জোন, তবে স্টেশনের পাব এবং দূরপাল্লার ট্রেনের রেস্তোরাঁ এর বাইরে রয়েছে।"
-   }
-  },
-  {
-   "id": "axpsxx",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/dhs-raids-rep-ilhan-omars-home/",
-   "image": "https://theonion.com/wp-content/uploads/2026/03/AmericanVoice_OG_FINAL_2.jpg",
-   "published": "2026-10-15T20:05:35.000Z",
-   "added": "2026-10-15T22:10:40.894Z",
-   "origTitle": "DHS Raids Rep. Ilhan Omar’s Home",
-   "en": {
-    "title": "[SATIRE] DHS raids Rep. Ilhan Omar's home",
-    "summary": "This is satire from The Onion. The article jokes about the Department of Homeland Security raiding the Minneapolis congresswoman's home ahead of midterm elections. Featured mock quotes from people blaming politics and racism. This story did not happen—it's meant to mock real political rhetoric and concerns."
-   },
-   "bn": {
-    "title": "[ব্যঙ্গ] ডিএইচএস প্রতিনিধি ইলহান ওমারের বাড়িতে রেড দিয়েছে",
-    "summary": "এটি দ্য অনিয়ন এর একটি ব্যঙ্গাত্মক গল্প। মধ্যবর্তী নির্বাচনের আগে আমেরিকার হোমল্যান্ড সিকিউরিটি বিভাগ এই কংগ্রেসবাদীর বাড়িতে রেড করেছে বলে মজা করা হয়েছে। এটি কখনো ঘটেনি—এটি রাজনৈতিক অভিযোগ মকিং করার জন্য বানানো।"
-   }
-  },
-  {
-   "id": "1cvgkl4",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
-   "published": "2026-10-15T20:38:13.000Z",
-   "added": "2026-10-15T22:10:40.894Z",
-   "origTitle": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-   "en": {
-    "title": "Amazon exec on why failure is essential to building great products",
-    "summary": "Panos Panay, Amazon's SVP of Devices and Alexa, told startup founders that failure is a necessary part of success—if you haven't failed, you probably haven't pushed boundaries. Speaking at TechCrunch Disrupt, he shared his own experience at Microsoft, including the Surface RT tablet launch that led to a nearly $1 billion write-down. The key, he said, is harvesting lessons learned and understanding what went wrong rather than making excuses."
-   },
-   "bn": {
-    "title": "অ্যামাজন এক্সিক নিখুঁত পণ্য তৈরিতে ব্যর্থতার গুরুত্ব তুলে ধরেছেন",
-    "summary": "অ্যামাজনের ডিভাইস বিভাগের প্রধান পানোস পানে স্টার্টআপ প্রতিষ্ঠাতাদের বলেছেন ব্যর্থতা সফলতার অপরিহার্য অংশ। তিনি মাইক্রোসফটে তার অভিজ্ঞতা শেয়ার করেছেন, যেখানে সারফেস আরটি ট্যাবলেট লঞ্চ প্রায় ১ বিলিয়ন ডলার লস করেছিল। তার মতে গুরুত্বপূর্ণ হলো ব্যর্থতা থেকে শিখে সঠিক পদক্ষেপ নেওয়া।"
-   }
-  },
-  {
-   "id": "zsaj4f",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad134ad9b-1792095405.jpg?resize=1920%2C1440",
-   "published": "2026-10-15T21:57:58.000Z",
-   "added": "2026-10-15T22:10:40.894Z",
-   "origTitle": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-   "en": {
-    "title": "Israel halts commercial goods into Gaza; Hamas denies tax dispute claim",
-    "summary": "Israeli authorities say no commercial goods have entered Gaza for two days, blaming a tax dispute where Hamas allegedly imposed a 10,000 shekel ($3,220) fee per truck. Gaza's government media office denied this, calling it a false disinformation campaign and explaining the fee was voluntary for a welfare fund. The halt cuts off food and winter supplies for 2.1 million people facing famine concerns as winter approaches."
-   },
-   "bn": {
-    "title": "গাজায় বাণিজ্যিক পণ্য আমদানি বন্ধ, হামাস কর দাবি অস্বীকার করেছে",
-    "summary": "ইসরায়েলি কর্তৃপক্ষ বলছে গত দুই দিন গাজায় কোনো বাণিজ্যিক পণ্য ঢোকেনি, কারণ হামাস প্রতি ট্রাকে ১০ হাজার শেকেল ফি চাপিয়েছে। গাজার সরকার মিডিয়া অফিস এটি মিথ্যা বলে প্রতিবাদ করেছে এবং বলেছে এটি দাতব্য তহবিলের জন্য স্বেচ্ছাসেবী অবদান। এই বন্ধ ২.১ মিলিয়ন মানুষের খাদ্য এবং শীতকালীন সরবরাহ কেটে দিয়েছে।"
-   }
-  },
-  {
-   "id": "1eer91v",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c978/live/dfe9a6d0-c8df-11f1-9a39-31b474234113.png",
-   "published": "2026-10-15T21:12:14.000Z",
-   "added": "2026-10-15T22:10:40.894Z",
-   "origTitle": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-   "en": {
-    "title": "Bus hits freight train near Channel Tunnel, 19 injured in France",
-    "summary": "A bus carrying truck drivers struck a stationary freight train at the Channel Tunnel loading platform in Coquelles near Calais, injuring 19 people—the driver and 18 passengers. Two were severely injured and airlifted by helicopter but no lives were in danger. All victims were men of different nationalities. Eurostar and freight traffic through the tunnel resumed normally after a brief stoppage for evacuation."
-   },
-   "bn": {
-    "title": "চ্যানেল টানেলের কাছে বাস ট্রেনে ধাক্কা, ১৯ জন আহত",
-    "summary": "কালাইসের কাছে চ্যানেল টানেলের লোডিং প্ল্যাটফর্মে একটি বাস একটি স্থির মালবাহী ট্রেনে ধাক্কা দিয়েছে। এতে চালক এবং ১৮ যাত্রীসহ ১৯ জন আহত হয়েছে। দুজন গুরুতর আহত ব্যক্তিকে হেলিকপ্টারে বহনকারী দল উদ্ধার করে। ইউরোস্টার এবং মালবাহী ট্রেন শীঘ্রই নিয়মিত সেবা চালু করে।"
-   }
-  },
-  {
-   "id": "1a2em52",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/us-weighs-mother-all-bombs-potential-strikes-iran-officials-say-1574406",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/bomb_us.jpg",
-   "published": "2026-10-15T19:40:00.000Z",
-   "added": "2026-10-15T22:10:40.894Z",
-   "origTitle": "US weighs 'mother of all bombs' for potential strikes on Iran, officials say",
-   "en": {
-    "title": "US military weighs massive bomb option for potential Iran strikes",
-    "summary": "The US military has prepared options to deploy the GBU-43/B (MOAB), the largest non-nuclear bomb in the US arsenal, against Iranian energy and nuclear targets if President Trump orders new operations. Some military officials privately question whether the weapon would effectively advance US objectives or help end the conflict. Trump faces growing pressure to end the unpopular war as Republicans prepare for midterm elections, with no signs of a negotiated settlement after six months of bombing."
-   },
-   "bn": {
-    "title": "ইরানের বিরুদ্ধে আমেরিকা বিশাল বোমা ব্যবহারের পরিকল্পনা করছে",
-    "summary": "আমেরিকান সামরিক বাহিনী ইরানের শক্তি এবং পারমাণবিক সুবিধার বিরুদ্ধে MOAB নামের সবচেয়ে বড় প্রচলিত বোমা ব্যবহারের পরিকল্পনা করেছে। কিন্তু কিছু সামরিক কর্মকর্তা এই অস্ত্র কার্যকর হবে কিনা তা নিয়ে সন্দিহান। ছয় মাসের বোমাবাজির পর কোনো শান্তির আলোচনা দেখা যায়নি এবং ট্রাম্প মধ্যবর্তী নির্বাচনের আগে যুদ্ধ শেষ করার চাপে আছেন।"
    }
   }
  ]
