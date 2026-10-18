@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-18T14:31:37.635Z",
+ "updatedAt": "2026-10-18T18:02:14.946Z",
  "burning": [
   {
    "id": "1qld3c",
    "heat": 5,
    "why": {
-    "en": "Multiple outlets covering Cox's Bazar resort fire that killed 10 tourists; families still searching for missing.",
-    "bn": "কক্স বাজারের রিসর্ট আগুনে ১০ জন পর্যটক মারা গেছেন, পরিবার এখনও নিখোঁজদের খুঁজছেন—একাধিক মিডিয়ায় খবর।"
+    "en": "Multiple outlets covering Cox's Bazar resort fire that killed 10 tourists; ongoing probe and missing families drive continued coverage.",
+    "bn": "কক্সবাজারের রিসোর্ট আগুনে ১০ জন পর্যটক মারা গেছেন—একাধিক আউটলেট একই ঘটনা কভার করছে এবং হারিয়ে যাওয়া পরিবারগুলি নিয়ে খবর চলছে।"
    },
    "rank": 1
   },
   {
-   "id": "52oteu",
+   "id": "1gvbxfb",
    "heat": 5,
    "why": {
-    "en": "France erupts with violent protests over cost of living; 1,200 arrested, buildings burning across multiple reports.",
-    "bn": "ফ্রান্সে জীবনযাত্রার খরচ নিয়ে তীব্র বিক্ষোভ, ১,২০০ জন গ্রেফতার, বেশ কয়েকটি সূত্রে খবর।"
+    "en": "State Minister Ishraque ordered to resign from Cabinet; trending on Google with 1000+ searches and connected to his firearm incident.",
+    "bn": "রাষ্ট্রমন্ত্রী ইশরাকের মন্ত্রিসভা থেকে পদত্যাগের নির্দেশ—গুগলে ১০০০+ সার্চ এবং তার অস্ত্র ঘটনার সাথে যুক্ত।"
    },
    "rank": 2
-  },
-  {
-   "id": "1wk96pj",
-   "heat": 4,
-   "why": {
-    "en": "Nahida Akter takes over Bangladesh women's T20 captaincy—sports milestone getting traction.",
-    "bn": "নাহিদা আক্তার বাংলাদেশ নারী টি২০ ক্যাপ্টেনসি নিয়েছেন—খেলাধুলার গুরুত্বপূর্ণ মুহূর্ত।"
-   },
-   "rank": 3
   },
   {
    "id": "qq56rh",
    "heat": 4,
    "why": {
-    "en": "At least 17 dead in stampede at Durga Puja pandal in Kolkata—serious tragedy with regional impact.",
-    "bn": "কলকাতার দুর্গা পূজা প্যান্ডেলে ১৭ জন মারা যাওয়া ভিড় দুর্ঘটনা—আঞ্চলিক প্রভাব সহ গুরুতর ঘটনা।"
+    "en": "Durga Puja stampede in Kolkata kills at least 17; major regional disaster covered by multiple Bengali outlets.",
+    "bn": "কোলকাতার দুর্গা পূজা প্যান্ডেলে ভিড়ে ন্যূনতম ১৭ জন মারা গেছেন—বহুবিধ বাংলা আউটলেট এটি কভার করছে।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "egs45n",
+   "heat": 4,
+   "why": {
+    "en": "118 flights cancelled at Dhaka airport in 7 days affects daily commuters and travel plans; local impact story.",
+    "bn": "ঢাকা বিমানবন্দরে ৭ দিনে ১১৮ ফ্লাইট বাতিল—যাত্রীদের দৈনন্দিন জীবনে সরাসরি প্রভাব।"
    },
    "rank": 4
   },
   {
-   "id": "ba9k6s",
-   "heat": 3,
+   "id": "52oteu",
+   "heat": 4,
    "why": {
-    "en": "Japan to invest $1.2 billion in Bangladesh tourism—major economic news.",
-    "bn": "বাংলাদেশের পর্যটনে জাপান ১.২ বিলিয়ন ডলার বিনিয়োগ করবে—বড় অর্থনৈতিক সংবাদ।"
+    "en": "France protests escalate with 1,200 arrested and buildings burning; multiple outlets tracking violent unrest.",
+    "bn": "ফ্রান্সে হিংসক প্রতিবাদে ১,২০০ জন গ্রেপ্তার এবং ভবন জ্বলছে—বিভিন্ন আউটলেট এটি ট্র্যাক করছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "32a747",
-   "tag": "#USUkraineGeopolitics",
+   "id": "1gvbxfb",
+   "tag": "#MinisterResigns",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "Trump halts Russian sanctions",
-    "text": "US President Donald Trump has halted sanctions against Russia as tensions between the US and Ukraine spike. The move marks a major shift in American foreign policy."
+    "title": "PM orders State Minister Ishraque to resign",
+    "text": "State Minister Ishraque has been ordered by PM to resign from Cabinet. The decision comes after a recent incident where he was seen wielding a firearm during an anti-drug operation."
    },
    "bn": {
-    "title": "ট্রাম্প রাশিয়ান প্রতিবন্ধ বন্ধ করেছেন",
-    "text": "যুক্তরাষ্ট্র-ইউক্রেইন টানাপড়নের মধ্যে ট্রাম্প রাশিয়ার বিরুদ্ধে প্রতিবন্ধ স্থগিত করেছেন। এটি আমেরিকান বৈদেশিক নীতির একটি বড় পরিবর্তন।"
+    "title": "প্রধানমন্ত্রী ইশরাককে পদত্যাগ করতে নির্দেশ দিয়েছেন",
+    "text": "রাষ্ট্রমন্ত্রী ইশরাক মন্ত্রিসভা থেকে পদত্যাগ করতে নির্দেশিত হয়েছেন। মাদকবিরোধী অপারেশনে তার অস্ত্র নিয়ে যাওয়ার ঘটনার পর এই সিদ্ধান্ত।"
    }
   },
   {
-   "id": "ba9k6s",
-   "tag": "#JapanInvestmentBD",
+   "id": "sbd3tv",
+   "tag": "#SadNews",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Japan's $1.2 billion tourism push",
-    "text": "Japan has pledged to invest $1.2 billion in Bangladesh tourism sector. The investment aims to boost tourism infrastructure and economic growth."
+    "title": "Former secretary found dead after hardship",
+    "text": "A former government secretary has been found dead after 15 years of hardship, leaving his daughter devastated. The story highlights struggles faced by retired civil servants."
    },
    "bn": {
-    "title": "জাপানের ১.২ বিলিয়ন ডলার পর্যটন উদ্যোগ",
-    "text": "বাংলাদেশের পর্যটন খাতে জাপান ১.২ বিলিয়ন ডলার বিনিয়োগ করতে প্রতিশ্রুতিবদ্ধ। এই বিনিয়োগ পর্যটন অবকাঠামো এবং অর্থনৈতিক বৃদ্ধি বাড়াতে লক্ষ্য করছে।"
+    "title": "সাবেক সচিব ১৫ বছরের কষ্টের পর মৃত পাওয়া যান",
+    "text": "একজন সাবেক সরকারি সচিব ১৫ বছরের কঠোর পরিশ্রমের পর মৃত অবস্থায় পাওয়া গেছেন, তার মেয়ে ভেঙে পড়েছেন। গল্পটি অবসরপ্রাপ্ত প্রশাসকদের সংকট তুলে ধরে।"
    }
   },
   {
-   "id": "1bft254",
-   "tag": "#TikTokElon",
+   "id": "1wk96pj",
+   "tag": "#CricketLeadership",
    "platforms": [
     "Google"
    ],
-   "heat": 2,
+   "heat": 3,
    "en": {
-    "title": "TikTok bans Musk documentary ads",
-    "text": "TikTok has permanently removed ads for an Elon Musk documentary from its platform. The decision reflects ongoing tensions between tech platforms and content creators."
+    "title": "Nahida Akter takes Bangladesh women's T20 helm",
+    "text": "Nahida Akter has been named new captain of Bangladesh women's T20 team, marking a fresh leadership chapter for the squad."
    },
    "bn": {
-    "title": "টিকটক এলন ডকুমেন্টারি বিজ্ঞাপন নিষিদ্ধ করেছে",
-    "text": "টিকটক এলন মাস্কের ডকুমেন্টারির বিজ্ঞাপন স্থায়ীভাবে প্ল্যাটফর্ম থেকে সরিয়েছে। এই সিদ্ধান্ত প্রযুক্তি প্ল্যাটফর্ম এবং কন্টেন্ট ক্রিয়েটরদের মধ্যে চলমান টানাপড়ন প্রতিফলিত করে।"
+    "title": "নাহিদা আক্তার নতুন মহিলা টি২০ ক্যাপ্টেন",
+    "text": "নাহিদা আক্তার বাংলাদেশ মহিলা টি২০ দলের নতুন ক্যাপ্টেন নির্বাচিত হয়েছেন, এটি দলের জন্য নতুন নেতৃত্ব অধ্যায়ের সূচনা।"
    }
   }
  ],
