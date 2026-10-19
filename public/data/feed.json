@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-19T15:32:36.486Z",
+ "updatedAt": "2026-10-19T21:00:23.830Z",
  "items": [
+  {
+   "id": "1pkxps1",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "কালের কণ্ঠ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JeFdGQUpqX2FnNnl1SUMtMGI1N2xySmN3YmZlYVlVYjd2X0RNVk83czNtSHI3UFozcmlRRm5GOWFKdDVNVl85aVYzaUllRHdSYTJpWUpCTDZhR1JYTEhWLTZpeWJNVVlfQVBsLV91QVdRQl9o?oc=5",
+   "image": null,
+   "published": "2026-10-19T06:10:08.000Z",
+   "added": "2026-10-19T21:00:23.829Z",
+   "origTitle": "নিখোঁজের ৪ দিন পর ভ্যানচালকের মাথাবিহীন মরদেহ উদ্ধার",
+   "en": {
+    "title": "Van driver's body found four days after going missing",
+    "summary": "A van driver who had been reported missing for four days was found dead. The body was discovered in a severely mutilated state. Police are investigating the case."
+   },
+   "bn": {
+    "title": "নিখোঁজ ভ্যানচালকের লাশ ৪ দিন পর উদ্ধার হয়েছে",
+    "summary": "চার দিন ধরে নিখোঁজ একজন ভ্যানচালকের মরদেহ উদ্ধার করা হয়েছে। লাশটি অত্যন্ত ক্ষতিগ্রস্ত অবস্থায় পাওয়া গেছে। পুলিশ মামলাটি তদন্ত করছে।"
+   }
+  },
+  {
+   "id": "11c0pve",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/19/canada-greater-victoria-public-library-43-years-overdue/1141792431813/",
+   "image": "https://cdnph.upi.com/ph/st/th/1141792431813/2026/i/17924320234473/v1.5/Book-returned-to-British-Columbia-library-43-years-after-due-date.jpg",
+   "published": "2026-10-19T17:47:22.000Z",
+   "added": "2026-10-19T21:00:23.829Z",
+   "origTitle": "Book returned to British Columbia library 43 years after due date",
+   "en": {
+    "title": "British Columbia library gets book back after 43 years",
+    "summary": "Workers at a British Columbia library found a dusty book that was 43 years overdue. The tome had no barcode, making it impossible to track until it recently turned up in returns. It's a funny reminder that lost library books sometimes have a way of finding their way home."
+   },
+   "bn": {
+    "title": "৪৩ বছর পর লাইব্রেরিতে ফেরত এসেছে হারানো বই",
+    "summary": "ব্রিটিশ কলম্বিয়ার একটি লাইব্রেরিতে কর্মীরা একটি ধুলোময় বই খুঁজে পেয়েছেন যা ৪৩ বছর ধরে ফেরত দেওয়া হয়নি। বইটির কোনো বারকোড ছিল না, তাই এটি ট্র্যাক করা যায়নি। এটি মজার প্রমাণ যে হারানো লাইব্রেরির বই কখনো কখনো নিজে থেকেই বাড়ি ফিরে আসে।"
+   }
+  },
+  {
+   "id": "ytp562",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/india/9hs866rwze",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-19/8y35756j/Shashi-Tharoor.jpg",
+   "published": "2026-10-19T20:07:01.000Z",
+   "added": "2026-10-19T21:00:23.829Z",
+   "origTitle": "সরকার পতন নয়, অবাধ নির্বাচন চাই: বাংলাদেশ ও ফ্রান্সের সঙ্গে তুলনার জবাবে শশী থারুর",
+   "en": {
+    "title": "Congress MP rejects India-Bangladesh-France comparison",
+    "summary": "Congress MP Shashi Tharoor rejected claims that India's situation mirrors instability in Bangladesh or France. He said the opposition's core demand is free and fair elections, not toppling the government. Tharoor stressed that protests must remain peaceful and criticized recent voter list changes as constitutional violations, not an attempt at regime change."
+   },
+   "bn": {
+    "title": "ভারতকে বাংলাদেশ বা ফ্রান্সের সঙ্গে তুলনা করবেন না: শশী থারুর",
+    "summary": "কংগ্রেস সাংসদ শশী থারুর ভারতের অবস্থার সঙ্গে বাংলাদেশ বা ফ্রান্সের তুলনার বিরোধিতা করেছেন। বিরোধী দলের মূল দাবি সরকার পরিবর্তন নয়, বরং অবাধ ও সুষ্ঠু নির্বাচন, তিনি বলেন। থারুর জোর দিয়ে বলেছেন যে সব আন্দোলন শান্তিপূর্ণ হওয়া উচিত এবং ভোটার তালিকায় বৃহৎ সংখ্যক মানুষ বাদ দেওয়া একটি সাংবিধানিক সমস্যা।"
+   }
+  },
+  {
+   "id": "3wwu0k",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/government/via3921jcm",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-16/i3u7h51h/image-435608-1792154655.webp",
+   "published": "2026-10-19T17:15:07.000Z",
+   "added": "2026-10-19T21:00:11.564Z",
+   "origTitle": "Durga Puja: PM Tarique Rahman to visit 3 divisions in a day to greet devotees",
+   "en": {
+    "title": "PM Tarique Rahman visits 3 divisions for Durga Puja",
+    "summary": "Prime Minister Tarique Rahman will visit Rangpur, Rajshahi, and Chattogram on Tuesday to greet Hindu devotees at Durga Puja mandaps. This marks the first time a Bangladesh PM has visited puja sites outside the capital during the festival. He'll depart Dhaka at 9:00 am by military aircraft."
+   },
+   "bn": {
+    "title": "প্রধানমন্ত্রী তারেক রহমান দুর্গা পূজায় তিন বিভাগ পরিদর্শন করবেন",
+    "summary": "প্রধানমন্ত্রী তারেক রহমান মঙ্গলবার রংপুর, রাজশাহী এবং চট্টগ্রাম পরিদর্শন করবেন দুর্গা পূজার মণ্ডপ দেখতে। এটি বাংলাদেশের প্রধানমন্ত্রীর রাজধানীর বাইরে পূজার মণ্ডপ পরিদর্শনের প্রথম ঘটনা। তিনি সকাল ৯টায় সেনাবাহিনীর বিমানে ঢাকা থেকে রওনা হবেন।"
+   }
+  },
+  {
+   "id": "1ts3d6x",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/trump-boasts-tariffs-a-huge-success-at-making-things-expensive/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Trump_Boasts_NIB_G_PH.jpg",
+   "published": "2026-10-19T18:54:43.000Z",
+   "added": "2026-10-19T21:00:11.564Z",
+   "origTitle": "Trump Boasts Tariffs A Huge Success At Making Things Expensive",
+   "en": {
+    "title": "Trump brags tariffs are great at making things expensive",
+    "summary": "The Onion reports President Trump boasted that his tariffs have successfully made everything more expensive for Americans. He claimed credit for surging costs on gas, eggs, and household items, calling it a victory. This is satire."
+   },
+   "bn": {
+    "title": "ট্রাম্প গর্ব করছে ট্যারিফ দাম বাড়ায় খুব ভালো",
+    "summary": "দ্য অনিয়ন রিপোর্ট করে ট্রাম্প দাবি করছেন তার ট্যারিফ আমেরিকানদের জন্য সবকিছু অনেক দামী করে তুলেছে। গ্যাস, ডিম এবং দৈনন্দিন পণ্যের দাম বৃদ্ধির জন্য তিনি নিজেকে যোগ্য দেখাচ্ছেন। এটা ব্যঙ্গ।"
+   }
+  },
+  {
+   "id": "1oomj9",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
+   "published": "2026-10-19T20:09:24.000Z",
+   "added": "2026-10-19T21:00:11.564Z",
+   "origTitle": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+   "en": {
+    "title": "Amazon launches TorchNeuron to challenge Nvidia's AI dominance",
+    "summary": "Amazon Web Services released TorchNeuron, a tool that lets AI apps run on its Trainium chip with just one configuration change—no code rewriting needed. About 85% of AI apps use PyTorch, which Nvidia's CUDA has long dominated. Amazon is taking a direct shot at Nvidia's grip on AI development."
+   },
+   "bn": {
+    "title": "এমাজন এনভিডিয়াকে চ্যালেঞ্জ জানাতে টর্চনিউরন লঞ্চ করল",
+    "summary": "আমাজন ওয়েব সার্ভিসেস টর্চনিউরন টুল বের করেছে যা এআই অ্যাপকে তার ট্রেনিয়াম চিপে চালাতে দেয় একটি কনফিগারেশন লাইন বদলেই। এআই ডেভেলপারদের ৮৫ শতাংশ পাইটর্চ ব্যবহার করে যেখানে এনভিডিয়ার সিইউডিএ ঐতিহ্যবাহী শীর্ষস্থানীয়। এমাজন সরাসরি এনভিডিয়ার এআই আধিপত্যে আঘাত করছে।"
+   }
+  },
+  {
+   "id": "19tijrb",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+   "image": "https://i.guim.co.uk/img/media/1fcb4211343f1e186853a25b4e44873a28588f33/124_21_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=cc8854a028b039b4861c34a8bb8679b9",
+   "published": "2026-10-19T16:08:14.000Z",
+   "added": "2026-10-19T21:00:11.564Z",
+   "origTitle": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+   "en": {
+    "title": "Kenyan cult leader guilty of murdering 190 children",
+    "summary": "Paul Mackenzie and about 30 others were convicted of murdering 190 children and one adult in Kenya's worst cult disaster. Mackenzie's Good News International Church ordered followers to starve themselves and their children to reach heaven. Over 400 bodies were found in Shakahola forest; only 26 identified."
+   },
+   "bn": {
+    "title": "কেনিয়ার সম্প্রদায়নেতা ১৯০ শিশু হত্যায় দোষী",
+    "summary": "পল ম্যাকেনজি এবং আরো ৩০ জনকে কেনিয়ায় ১৯০ শিশু ও একজন প্রাপ্তবয়স্ক হত্যায় দোষী সাব্যস্ত করা হয়েছে। তার গির্জা সদস্যদের জন্য নির্ধারণ করেছিল স্বেচ্ছায় ক্ষুধার্ত থাকার আদেশ, দাবি করে স্বর্গে যাওয়ার জন্য। শাকাহোলা বনে ৪০০ এর বেশি মৃতদেহ পাওয়া গেছে।"
+   }
+  },
+  {
+   "id": "1kra7ej",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/no-other-country-matches-bangladesh-communal-harmony-muktadir-1577911",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/khandakar_abdul_muktadir.jpg",
+   "published": "2026-10-19T18:50:00.000Z",
+   "added": "2026-10-19T21:00:11.564Z",
+   "origTitle": "No other country matches Bangladesh in communal harmony: Muktadir",
+   "en": {
+    "title": "Bangladesh has unmatched communal harmony, says minister",
+    "summary": "Commerce Minister Khandakar Abdul Muktadir said Bangladesh stands alone in communal harmony across world history. He was visiting Durga Puja mandaps in Sylhet on October 19. Muktadir claimed disturbances only happen when vested groups try to sabotage for political gain."
+   },
+   "bn": {
+    "title": "বাংলাদেশের সাম্প্রদায়িক সম্প্রীতি অতুলনীয়: মুক্তাদির",
+    "summary": "বাণিজ্য মন্ত্রী খন্দকার আব্দুল মুক্তাদির বলেছেন বাংলাদেশের মতো সাম্প্রদায়িক সম্প্রীতি বিশ্বে দ্বিতীয়টি নেই। তিনি সিলেটে দুর্গা পূজার মণ্ডপ পরিদর্শন করেছেন ১৯ অক্টোবরে। মুক্তাদির বলেন সাম্প্রদায়িক অশান্তি আসে যখন স্বার্থবাজ গোষ্ঠী রাজনৈতিক লাভের জন্য ষড়যন্ত্র করে।"
+   }
+  },
+  {
+   "id": "gwafyl",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/sport/football/975584/%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A7%8B-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%87%E0%A6%A7%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%93",
+   "image": null,
+   "published": "2026-10-19T20:09:39.000Z",
+   "added": "2026-10-19T21:00:11.564Z",
+   "origTitle": "বিপাকে রোনালদো, নিষেধাজ্ঞার সঙ্গে গুনলেন জরিমানাও",
+   "en": {
+    "title": "Ronaldo banned and fined for leaving Portugal squad",
+    "summary": "Cristiano Ronaldo got hit with a 30-day ban and a 255 euro fine by Portugal's football federation. The 41-year-old Al-Nasr forward deliberately broke federation rules by leaving the national team during the UEFA Nations League campaign. The disciplinary council didn't hold back."
+   },
+   "bn": {
+    "title": "রোনালদো নিষেধাজ্ঞা এবং জরিমানায় পড়লেন",
+    "summary": "ক্রিস্টিয়ানো রোনালদোকে ৩০ দিনের নিষেধাজ্ঞা এবং ২৫৫ ইউরো জরিমানা দিল পর্তুগাল ফুটবল ফেডারেশন। ৪১ বছর বয়সী তারকা উয়েফা নেশনস লিগের সময় জাতীয় দল ছেড়ে চলে গিয়েছিলেন। শৃঙ্খলা কমিটি নিয়মের লঙ্ঘন ধরেছে।"
+   }
+  },
   {
    "id": "c846yt",
    "section": "news",
@@ -3079,380 +3277,6 @@
    "bn": {
     "title": "বাঁশ নিয়ে ঝগড়া হাসপাতালে গড়িয়ে পড়েছে সুনামগঞ্জে",
     "summary": "শুক্রবার বিকালে সুনামগঞ্জের দিরাই উপজেলার সাকিতপুর গ্রামে বাঁশ কাটা নিয়ে দুই পক্ষের সংঘর্ষ শুরু হয়। এই ঝগড়া শেষ পর্যন্ত হাসপাতালের জরুরি বিভাগে চলে যায়। সেখানে চিকিৎসা সরঞ্জাম ভাঙা হয় এবং রোগী ও কর্মীরা আতঙ্কিত হয়।"
-   }
-  },
-  {
-   "id": "5voh96",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajd2VUY4QVdBVGNEbXdVMkRjeXluM183eTZZT3BNZXhMMmNyZWY1MzFVY2o1eEloTmNock9CZ0p2eTNUWVRYNDNNYWtVV2tyODNDMXdpcV9rRmpGNlVjb0o4c3RDSEdsb3pRNjdJb1c1bTFiNGp4ZkRKNi14R0lUc0NybThzczRIWlpjcGZzTHZFZHBFRzYtSFJValFvQ2kxY1HSAacBQVVfeXFMTWtvbDhubWk1MzF2TjdYenFfSlZXSXl1ZThqb1J1OWxQZ2ozSEE2U1JJcGdiY2kzSElyS3loYWowMGtYdHQtWWsyb2NLVzVuQUpncllab2tCSS1kazctRXFST2NKNXB0WFdrUGlpd2NwRFo2N2V2VlAteXVyYUtfQXdYclp2MEdNZnZTZWlFWWI0eEIyYmpWMDRRSFdLWG5CcHFpSTdyQVk?oc=5",
-   "image": null,
-   "published": "2026-10-16T08:03:13.000Z",
-   "added": "2026-10-16T20:59:06.626Z",
-   "origTitle": "Italian teenager Cisse nets hat-trick as AC Milan run riot in Salzburg",
-   "en": {
-    "title": "Teenage Cisse scores hat-trick as Milan thrash Salzburg",
-    "summary": "Italian teenager Cisse was on fire, netting a hat-trick as AC Milan demolished Salzburg. It was a dominant performance that showed why Milan are serious contenders this season. Cisse's clinical finishing was the highlight of the night."
-   },
-   "bn": {
-    "title": "অল্পবয়সী সিসে হ্যাট-ট্রিক করে মিলানকে জয় এনে দেন",
-    "summary": "ইতালিয়ান কিশোর সিসে তিনটি গোল করে এসি মিলানকে সাল্জবার্গের বিরুদ্ধে বিশাল জয় এনে দিয়েছেন। মিলানের আধিপত্যময় পারফরম্যান্স ছিল দারুণ। সিসের সুনিপুণ গোল স্কোরিং ছিল রাতের হাইলাইট।"
-   }
-  },
-  {
-   "id": "eovju0",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "UNB",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0xteEFKZ0xzM3ZRTlpuWnhUaG8yQ052Y0xGUFVfcl9HSkdySHJvS1M4UU14ajg3Nkg3WE1QN2ItUm9vcG92cnQ1ZGkzZWhjSFJQbEV5SFE3cU5PaTdKRmt1ZTZ5QS1xcXBrWXpJZ2MzM1N0TEM5VHl0UWN6MFJTaDV5RmhXNUJRN3BOaGs3am1MOWFKcWtPLXdMX0plbHlTb2Zpd29jYTBNS0FOM3FGRDRUbmVxODVv?oc=5",
-   "image": null,
-   "published": "2026-10-16T08:22:34.000Z",
-   "added": "2026-10-16T20:59:06.626Z",
-   "origTitle": "Teen gunman kills 4 at Oregon elementary school before being shot by witness",
-   "en": {
-    "title": "Teen gunman kills 4 at Oregon elementary school",
-    "summary": "A teenage gunman opened fire at an elementary school in Oregon, killing four people before being shot by a witness. Details about the incident remain limited. The shooting marks another tragedy at an American school."
-   },
-   "bn": {
-    "title": "অরেগনের প্রাথমিক বিদ্যালয়ে নিরস্ত্র হামলা, ৪ জন নিহত",
-    "summary": "ওরেগনের একটি প্রাথমিক বিদ্যালয়ে একজন কিশোর বন্দুকধারী গুলি চালিয়ে ৪ জনকে হত্যা করেছে। তিনি পরে একজন সাক্ষীর দ্বারা গুলিবিদ্ধ হন। এটি আমেরিকার স্কুলগুলিতে আরও একটি দুর্ঘটনা।"
-   }
-  },
-  {
-   "id": "153884g",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/asia/ch6ze5x17n",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-04-22/s9h1c8xe/myanmars-president-min-aung-hlaing-afp-file-22042026.jpg",
-   "published": "2026-10-16T20:27:01.000Z",
-   "added": "2026-10-16T20:59:06.626Z",
-   "origTitle": "মিয়ানমারের জান্তা–সমর্থিত সরকারের সঙ্গে টোকিওতে যুক্তরাষ্ট্রের গোপন বৈঠক",
-   "en": {
-    "title": "US holds secret talks with Myanmar junta in Tokyo",
-    "summary": "US officials met with Myanmar's junta-backed government in Tokyo last week, marking their second meeting in a month. This follows Washington's earlier distance from Myanmar after the 2021 military coup. The previous meeting in Naypyidaw in mid-September focused on freeing a US businessman and shutting down scam centers targeting Americans. The talks suggest both sides are keen to expand dialogue on broader issues including Myanmar's rare minerals."
-   },
-   "bn": {
-    "title": "মিয়ানমারের জান্তার সাথে আমেরিকার গোপন বৈঠক টোকিওতে",
-    "summary": "গত সপ্তাহে টোকিওতে মিয়ানমারের জান্তা-সমর্থিত সরকারের কর্মকর্তাদের সাথে আমেরিকার কর্মকর্তারা বৈঠক করেছেন। এক মাসে এটি তাদের দ্বিতীয় মিলন। ২০২১ সালের সামরিক অভ্যুত্থানের পর ওয়াশিংটন মিয়ানমার থেকে দূরত্ব বাড়িয়েছিল, কিন্তু এখন আবার সংযোগ বাড়াচ্ছে। সেপ্টেম্বরের নেপিডো বৈঠকে মার্কিন ব্যবসায়ীর মুক্তি এবং স্ক্যাম সেন্টার বন্ধ নিয়ে আলোচনা হয়েছিল।"
-   }
-  },
-  {
-   "id": "6iukzt",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/whalefall-star-stuns-on-red-carpet-in-40000-gallon-tank/",
-   "image": null,
-   "published": "2026-10-16T17:31:12.000Z",
-   "added": "2026-10-16T20:58:53.450Z",
-   "origTitle": "‘Whalefall’ Star Stuns On Red Carpet In 40,000-Gallon Tank",
-   "en": {
-    "title": "'Whalefall' star stuns on red carpet in 40,000-gallon tank (satire)",
-    "summary": "This is satire from The Onion. A fictional celebrity attended a red carpet event inside a 40,000-gallon water tank for the movie 'Whalefall.' The absurd premise pokes fun at elaborate celebrity fashion statements and over-the-top awards show appearances."
-   },
-   "bn": {
-    "title": "'হোয়েলফল' স্টার ৪০,০০০ গ্যালন ট্যাঙ্কে রেড কার্পেটে ঝলমলে করেছেন (ব্যঙ্গ)",
-    "summary": "এটি দ্য অনিয়ন থেকে একটি ব্যঙ্গাত্মক খবর। একটি কাল্পনিক সেলিব্রিটি 'হোয়েলফল' মুভির জন্য রেড কার্পেট ইভেন্টে ৪০,০০০ গ্যালন পানির ট্যাঙ্কের মধ্যে উপস্থিত ছিলেন। এটি সেলিব্রিটি ফ্যাশন এবং অতিরঞ্জিত পুরস্কার অনুষ্ঠানের উপস্থাপনার মজা করে।"
-   }
-  },
-  {
-   "id": "x3b25p",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/16/escaped-emu-Santa-cruz-california/5421792172564/",
-   "image": "https://cdnph.upi.com/ph/st/th/5421792172564/2026/i/17921727102081/v1.5/Escaped-emu-runs-through-traffic-on-California-road.jpg",
-   "published": "2026-10-16T17:45:44.000Z",
-   "added": "2026-10-16T20:58:53.450Z",
-   "origTitle": "Watch: Escaped emu runs through traffic on California road",
-   "en": {
-    "title": "Escaped emu runs wild through California traffic",
-    "summary": "California Highway Patrol helped capture a loose emu that was running in and out of traffic on a Santa Cruz road. The bird managed to evade capture for a while before authorities wrangled it to safety."
-   },
-   "bn": {
-    "title": "ক্যালিফোর্নিয়ায় পালানো ইমু রাস্তায় ছুটে বেড়ায়",
-    "summary": "ক্যালিফোর্নিয়া হাইওয়ে পেট্রোল সান্তা ক্রুজ রাস্তায় ট্রাফিকের মধ্য দিয়ে ছুটছে এমন একটি পালানো ইমু ধরতে সাহায্য করেছে। পাখিটি কর্তৃপক্ষ ধরার আগে কিছুক্ষণ পালিয়ে থাকতে সক্ষম হয়েছিল।"
-   }
-  },
-  {
-   "id": "jl1lqv",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
-   "published": "2026-10-16T19:40:00.000Z",
-   "added": "2026-10-16T20:58:53.450Z",
-   "origTitle": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-   "en": {
-    "title": "New Porsche Macan electric car blends sports power with crossover look",
-    "summary": "TechCrunch tested the 2026 Porsche Macan Turbo electric crossover and found it surprisingly sporty despite its bland appearance. The car accelerates aggressively—hitting hard at 70 mph—and handles beautifully on winding roads. Its four-wheel steering and Sport Plus mode make it feel more like a sports car than a typical crossover, even though it looks ordinary next to conventional gas-powered siblings."
-   },
-   "bn": {
-    "title": "নতুন পোর্শে ম্যাকান ইলেকট্রিক গাড়ি দারুণ পারফরম্যান্স দেয়",
-    "summary": "টেকক্রাঞ্চ ২০২৬ পোর্শে ম্যাকান টার্বো ইলেকট্রিক ক্রসওভার পরীক্ষা করেছে এবং দেখেছে এটি সাধারণ দেখতে হলেও অসাধারণ দ্রুত। গাড়িটি ৭০ মাইল গতিতেও তীব্র ত্বরণ দেয় এবং বাঁকা রাস্তায় দুর্দান্তভাবে চলে। এর চার চাকার স্টিয়ারিং এবং স্পোর্ট প্লাস মোড এটিকে সাধারণ ক্রসওভারের চেয়ে আরও স্পোর্টস কারের মতো অনুভব করায়।"
-   }
-  },
-  {
-   "id": "1pv51kv",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/khulna/974979/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%B8-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%93",
-   "image": null,
-   "published": "2026-10-16T20:42:00.000Z",
-   "added": "2026-10-16T20:58:53.450Z",
-   "origTitle": "আমাদের দলের প্রার্থী পাস না করলে সেই ইউনিয়নে কোনও কাজ হবে না: চিফ হুইপ",
-   "en": {
-    "title": "No development work if our candidate loses: BNP chief whip",
-    "summary": "Nurul Islam Moni, chief whip of parliament and BNP MP from Barguna-2, warned that if the BNP's candidate fails to win in the upcoming union council election, that union will receive no development work from him. He said people cannot approach him for projects if they don't vote for his party's nominee. He added that ongoing work will continue but new development depends on the election result."
-   },
-   "bn": {
-    "title": "আমাদের প্রার্থী পাস না করলে কোনো উন্নয়ন কাজ হবে না: বিএনপি চিফ হুইপ",
-    "summary": "জাতীয় সংসদের চিফ হুইপ এবং বরগুনা-২ এর সংসদ সদস্য নূরুল ইসলাম মনি সতর্ক করেছেন যে আসন্ন ইউনিয়ন পরিষদ নির্বাচনে বিএনপির প্রার্থী পাস না করলে সেই ইউনিয়নে কোনো উন্নয়ন কাজ হবে না। তিনি বলেছেন যে মানুষ তার কাছে আসতে পারবে না এবং তিনি কোনো কাজ দেবেন না। চলমান কাজ বাস্তবায়ন হবে কিন্তু নতুন প্রকল্প ভোটের ফলাফলের উপর নির্ভর করে।"
-   }
-  },
-  {
-   "id": "1y10lwr",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/rajshahi-university-students-car-kills-autorickshaw-driver-injures-3-1574976",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/dead_2.jpg",
-   "published": "2026-10-16T19:50:00.000Z",
-   "added": "2026-10-16T20:58:53.450Z",
-   "origTitle": "Rajshahi University student’s car kills autorickshaw driver, injures 3",
-   "en": {
-    "title": "Rajshahi University student's car kills autorickshaw driver",
-    "summary": "An autorickshaw driver named Shahjahan died and three others were injured after a private car hit the autorickshaw near Shaheed Minar in Rajshahi city on October 16. The car was driven by SM Rizon, a fourth-year student at Rajshahi University. Police say the autorickshaw made a sudden U-turn in front of the car. Rizon has been detained and the car seized."
-   },
-   "bn": {
-    "title": "রাজশাহী বিশ্ববিদ্যালয়ের শিক্ষকের গাড়িতে অটোরিকশা চালক নিহত",
-    "summary": "রাজশাহীর শহীদ মিনারের কাছে একটি ব্যক্তিগত গাড়ি একটি অটোরিকশার সাথে সংঘর্ষে সংঘর্ষে শাহজাহান নামের অটোরিকশা চালক নিহত হয়েছেন এবং তিনজন আহত হয়েছেন। গাড়িটি রাজশাহী বিশ্ববিদ্যালয়ের চতুর্থ বর্ষের শিক্ষার্থী এসএম রিজন চালাচ্ছিলেন। পুলিশের মতে অটোরিকশাটি গাড়ির সামনে হঠাৎ ইউ-টার্ন দিয়েছিল। রিজনকে আটক এবং গাড়ি জব্দ করা হয়েছে।"
-   }
-  },
-  {
-   "id": "9nirrj",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/weird-family-settles-disputes-calmly-respectfully/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Weird_Family_NIB_S_PH.jpg",
-   "published": "2026-10-16T13:00:00.000Z",
-   "added": "2026-10-16T17:21:36.927Z",
-   "origTitle": "Weird Family Settles Disputes Calmly, Respectfully",
-   "en": {
-    "title": "Weird family stuns onlookers by resolving disputes calmly",
-    "summary": "A St. Louis family baffled observers at a bistro by handling disagreements respectfully—they took turns speaking, listened carefully, and apologized when needed. No one yelled, insulted anyone, or stormed out. One witness called their polite approach to problem-solving \"incredibly off-putting\" and \"freaky.\" (This is satire.)"
-   },
-   "bn": {
-    "title": "অদ্ভুত পরিবার শান্তিপূর্ণভাবে বিরোধ নিষ্পত্তি করে দর্শকদের অবাক করে দিলো",
-    "summary": "সেন্ট লুইসের এক রেস্তোরাঁয় একটি পরিবার অপ্রত্যাশিত উপায়ে ঝগড়া সামলিয়েছে—তারা পালাক্রমে কথা বলেছে, একে অপরের কথা শুনেছে এবং ক্ষতি হলে ক্ষমা চেয়েছে। কেউ চিৎকার করেনি বা রেস্তোরাঁ ছেড়ে যায়নি। দর্শকরা এই শান্ত আচরণকে 'অত্যন্ত অস্বস্তিকর' বলে মন্তব্য করেছেন। (এটি রসালাপ।)"
-   }
-  },
-  {
-   "id": "s7jxih",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/sports/bgdcftly8s",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-16/37kmgncg/British-Bangladeshi-Anisa-Khan-named-England-women%E2%80%99s-kabaddi-team-captain.jpg",
-   "published": "2026-10-16T16:02:15.000Z",
-   "added": "2026-10-16T17:21:36.927Z",
-   "origTitle": "British-Bangladeshi Anisa Khan named England women’s kabaddi team captain",
-   "en": {
-    "title": "British-Bangladeshi Anisa Khan captains England women's kabaddi team",
-    "summary": "Anisa Khan, a British-Bangladeshi businesswoman and TV personality with roots in Moulvibazar, has been named captain of England's women's national kabaddi team. She'll make her debut as captain at the Commonwealth Kabaddi Championship in India next week. Anisa joined kabaddi at university in 2017 as a beginner and worked at consulting firm Accenture before pursuing this new sports role."
-   },
-   "bn": {
-    "title": "ব্রিটিশ-বাঙালি অনিসা খান ইংল্যান্ড মহিলা কাবাডি দলের ক্যাপ্টেন নিয়োগ পেলেন",
-    "summary": "মৌলভীবাজারের শিকড় সম্পন্ন ব্রিটিশ-বাঙালি ব্যবসায়ী অনিসা খান ইংল্যান্ড মহিলা কাবাডি দলের ক্যাপ্টেন হিসেবে নিয়োগ পেয়েছেন। তিনি আগামী সপ্তাহে ভারতে অনুষ্ঠিত কমনওয়েলথ কাবাডি চ্যাম্পিয়নশিপে ক্যাপ্টেন হিসেবে আত্মপ্রকাশ করবেন। অনিসা ২০১৭ সালে বিশ্ববিদ্যালয়ে সম্পূর্ণ নতুন খেলোয়াড় হিসেবে কাবাডি শুরু করেছিলেন এবং পরবর্তীতে ন্যাশনাল টিমে স্থান পেয়েছেন।"
-   }
-  },
-  {
-   "id": "8jwwpe",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/district/yb5hnldgds",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-16/q696qlao/RAJBARIDH054420261016FBIMG1792165025812.JPG.JPG",
-   "published": "2026-10-16T17:00:07.000Z",
-   "added": "2026-10-16T17:21:36.927Z",
-   "origTitle": "রাজবাড়ীতে মোটরসাইকেলে এসে যুবককে গুলি করে হত্যা",
-   "en": {
-    "title": "Man shot dead by two attackers on motorcycle in Rajbari",
-    "summary": "Piarul Sardar, 30, was killed Friday night near a mosque in Rajbari city when two helmeted gunmen on a motorcycle shot him twice at close range. He was rushed to Rajbari Sadar Hospital but was declared dead on arrival. Police say Piarul had 14 cases against him including weapons, murder, and drug charges, and was arrested as recently as February this year."
-   },
-   "bn": {
-    "title": "রাজবাড়ীতে দুই বন্দুকধারী মোটরসাইকেলে এসে যুবককে গুলি করে হত্যা",
-    "summary": "শুক্রবার রাতে রাজবাড়ী শহরে মসজিদের কাছে ৩০ বছর বয়সী পিয়ারুল সরদারকে মোটরসাইকেলে আসা দুই ব্যক্তি গুলি করে হত্যা করে। তাকে হাসপাতালে নিয়ে যাওয়া হলেও সেখানে তাকে মৃত ঘোষণা করা হয়। পুলিশ জানায়, পিয়ারুলের বিরুদ্ধে অস্ত্র, হত্যা এবং মাদকসহ ১৪টি মামলা ছিল এবং তাকে এই বছরের ফেব্রুয়ারিতে গ্রেপ্তার করা হয়েছিল।"
-   }
-  },
-  {
-   "id": "uhbdwx",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/16/canada-Guinness-World-Records-fastest-skateboard-downhill/3261792164806/",
-   "image": "https://cdnph.upi.com/ph/st/th/3261792164806/2026/i/17921649488939/v1.5/Skateboarder-reaches-record-breaking-speed-of-9434-mph.jpg",
-   "published": "2026-10-16T15:36:24.000Z",
-   "added": "2026-10-16T17:21:19.806Z",
-   "origTitle": "Watch: Skateboarder reaches record-breaking speed of 94.34 mph",
-   "en": {
-    "title": "Spanish skateboarder breaks Guinness record at 94.34 mph",
-    "summary": "A Spanish skateboarder set a new Guinness World Record in Canada, reaching a downhill speed of 94.34 miles per hour. The extreme feat demonstrates the limits of skateboarding when riders tackle steep terrain at dangerous velocities."
-   },
-   "bn": {
-    "title": "স্পেনীয় স্কেটবোর্ডার ৯৪.৩৪ মাইল গতি অর্জন করে রেকর্ড স্থাপন",
-    "summary": "একজন স্পেনীয় স্কেটবোর্ডার কানাডায় ৯৪.৩৪ মাইল প্রতি ঘণ্টা গতিতে গিনেস বিশ্ব রেকর্ড স্থাপন করেছে। এটি ঢাল নেমে স্কেটবোর্ডিংয়ে একটি নতুন মাইলফলক।"
-   }
-  },
-  {
-   "id": "vneur4",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/durga-puja-carries-eternal-call-justice-and-humanity-president-1574936",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/president_fakhrul.jpg",
-   "published": "2026-10-16T16:10:00.000Z",
-   "added": "2026-10-16T17:21:19.806Z",
-   "origTitle": "Durga Puja carries an eternal call for justice and humanity: President",
-   "en": {
-    "title": "President greets Hindu community on Durga Puja, emphasizes harmony",
-    "summary": "President Mirza Fakhrul Islam Alamgir extended greetings to the Hindu community on Durga Puja, calling the festival a symbol of justice, truth, and communal harmony. He said the festival awakens hope and commitment to welfare among devotees. The government is supporting Hindu religious institutions and providing honorariums to priests, he added."
-   },
-   "bn": {
-    "title": "দুর্গাপূজায় রাষ্ট্রপতির শুভেচ্ছা, সম্প্রীতির আহ্বান",
-    "summary": "রাষ্ট্রপতি মিরজা ফখরুল ইসলাম আলমগীর শারদীয় দুর্গাপূজায় হিন্দু সম্প্রদায়কে শুভেচ্ছা জানিয়েছেন। তিনি উৎসবকে ন্যায়বিচার এবং সত্যের প্রতীক বলে অভিহিত করেছেন। তিনি বলেন সরকার হিন্দু ধর্মীয় প্রতিষ্ঠান সংস্কারে সহায়তা করছে এবং পুরোহিতদের ভাতা প্রদান করছে।"
-   }
-  },
-  {
-   "id": "10fghcl",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-   "published": "2026-10-16T16:30:00.000Z",
-   "added": "2026-10-16T17:21:19.806Z",
-   "origTitle": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-   "en": {
-    "title": "Ex-Nvidia exec: robotics still in 'Lego era', not ChatGPT moment",
-    "summary": "Amulya Vishwanath, former NVIDIA robotics product lead, says robotics is still in early stages with basic building blocks like actuators and software being refined. She disagrees with those predicting robotics will soon have a 'ChatGPT moment' with general foundation models. Vishwanath now runs Techable VC, investing in physical AI across robotics, materials science, and life sciences."
-   },
-   "bn": {
-    "title": "এনভিডিয়ার প্রাক্তন এক্সিকিউটিভ: রোবটিক্স এখনও শুরু পর্যায়ে",
-    "summary": "এনভিডিয়ার প্রাক্তন রোবটিক্স প্রোডাক্ট লিড অ্যামুল্য বিশ্বনাথ বলেছেন রোবটিক্স এখনও 'লেগো যুগে' আছে। অ্যাকচুয়েটর এবং সফটওয়্যারের মতো মৌলিক উপাদান এখনও তৈরি হচ্ছে। তিনি এখন টেকেবল ভিসি চালান যা রোবটিক্স, ম্যাটেরিয়াল সায়েন্স এবং লাইফ সায়েন্সে বিনিয়োগ করে।"
-   }
-  },
-  {
-   "id": "b5r2dp",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg",
-   "published": "2026-10-16T16:00:30.000Z",
-   "added": "2026-10-16T17:21:19.806Z",
-   "origTitle": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-   "en": {
-    "title": "Ukraine gains 277 sq km in counter-offensive against Russia",
-    "summary": "Ukraine's Operation Vivaldi counter-offensive has liberated 277 square kilometers in the Donbas region recently. Kyiv claims 8,000 Russian casualties in this operation alone and says Ukrainian forces have pushed back Russian attempts to encircle key cities. Starlink satellites enable Ukrainian commanders to monitor drones and direct ground troops in real-time."
-   },
-   "bn": {
-    "title": "ইউক্রেন আক্রমণে রাশিয়ার বিরুদ্ধে অঞ্চল পুনরুদ্ধার",
-    "summary": "ইউক্রেনের অপারেশন ভিভালডি পাল্টা আক্রমণে ডনবাস অঞ্চলে ২৭৭ বর্গ কিলোমিটার অঞ্চল পুনরুদ্ধার করেছে। কিয়েভ দাবি করে এই অপারেশনে ৮,০০০ রাশিয়ান সৈনিক হতাহত হয়েছে। ইউক্রেনীয় কমান্ডাররা স্টারলিঙ্ক উপগ্রহ ব্যবহার করে ড্রোন নিয়ন্ত্রণ এবং ভূমি সৈনিকদের নির্দেশনা দিচ্ছেন।"
-   }
-  },
-  {
-   "id": "rz906q",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/974965/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%80-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AC-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%AA%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%B2-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%B9%E0%A7%9C%E0%A6%BE",
-   "image": null,
-   "published": "2026-10-16T17:18:21.000Z",
-   "added": "2026-10-16T17:21:19.805Z",
-   "origTitle": "ঢাকেশ্বরী মন্দিরে বোম্ব ডিসপোজাল ইউনিটের মহড়া",
-   "en": {
-    "title": "Dhaka police hold bomb drill at Dhakeshwari temple",
-    "summary": "Dhaka Metropolitan Police's bomb disposal unit held a security drill at Dhakeshwari Temple on Friday ahead of Sharadiya Durga Puja celebrations. The team demonstrated techniques for deactivating explosives using advanced robots and handling emergency situations. The exercise aims to ensure public safety during the festival."
-   },
-   "bn": {
-    "title": "ঢাকেশ্বরী মন্দিরে পুলিশের বোম্ব মহড়া",
-    "summary": "শারদীয় দুর্গোৎসবের জন্য নিরাপত্তা নিশ্চিত করতে ঢাকা মহানগর পুলিশ শুক্রবার ঢাকেশ্বরী মন্দিরে বিশেষ মহড়া করেছে। বোম্ব ডিসপোজাল ইউনিট আধুনিক রোবট ব্যবহার করে বোমা নিষ্ক্রিয় করার কৌশল প্রদর্শন করেছে। এটি জরুরি পরিস্থিতি মোকাবিলার প্রস্তুতির অংশ।"
-   }
-  },
-  {
-   "id": "5j5w1y",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cx1l3j4080pzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2050/live/97bd8960-c94a-11f1-8566-4db41fa77717.jpg",
-   "published": "2026-10-16T12:50:09.000Z",
-   "added": "2026-10-16T17:21:19.805Z",
-   "origTitle": "নেত্রকোনায় গুলিতে নিহত সাংবাদিক আগে থেকেই 'ঝুঁকিতে ছিলেন'",
-   "en": {
-    "title": "Netrokona journalist shot dead while returning home",
-    "summary": "Lutfuzzaman Alif Fakir, a journalist who ran a Facebook page called 'Detective Article' exposing corruption and crime, was shot and killed in Netrokona's Durgapur area Thursday night. Two unidentified men followed him from a tea shop and fired at close range. He also worked as Netrokona correspondent for a private IPTV channel. Police say he had faced previous attacks and threats due to his reporting."
-   },
-   "bn": {
-    "title": "নেত্রকোনায় সাংবাদিক গুলিতে নিহত",
-    "summary": "লুৎফুজ্জামান আলিফ ফকির নামের একজন সাংবাদিককে গুলি করে হত্যা করা হয়েছে নেত্রকোনার দুর্গাপুরে। তিনি 'ডিটেকটিভ আর্টিকেল' ফেসবুক পেজে দুর্নীতি এবং অপরাধ নিয়ে লেখালেখি করতেন এবং একটি প্রাইভেট আইপিটিভি চ্যানেলে নেত্রকোনা প্রতিনিধি ছিলেন। বৃহস্পতিবার রাত সোয়া ৮টার দিকে চায়ের দোকান থেকে ফিরে আসার সময় দুই অজানা ব্যক্তি তাকে অনুসরণ করে গুলি করে। পুলিশ জানায় তার আগেও হামলার ঘটনা ঘটেছিল।"
    }
   }
  ]

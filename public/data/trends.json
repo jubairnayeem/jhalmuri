@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-19T15:32:52.801Z",
+ "updatedAt": "2026-10-19T21:00:38.344Z",
  "burning": [
-  {
-   "id": "1l560y8",
-   "heat": 5,
-   "why": {
-    "en": "Cox's Bazar resort fire dominates coverage; families still missing after deaths.",
-    "bn": "কক্সবাজার রিসর্ট আগুনে পরিবারগুলো এখনও নিখোঁজ, বড় খবর হিসেবে উঠেছে।"
-   },
-   "rank": 1
-  },
   {
    "id": "1vj73dh",
    "heat": 5,
    "why": {
-    "en": "PM orders State Minister Ishraque to resign; major domestic political move.",
-    "bn": "প্রধানমন্ত্রী স্টেট মিনিস্টার ইশরাককে পদত্যাগের আদেশ দিয়েছেন।"
+    "en": "State Minister Ishraque ordered to resign by PM after armed drug raid video sparks major backlash.",
+    "bn": "প্রাইম মিনিস্টার রাষ্ট্রমন্ত্রী ইশরাকের পদত্যাগ নির্দেশ দিয়েছেন সশস্ত্র ড্রাগ রেইড ভিডিওর পর।"
+   },
+   "rank": 1
+  },
+  {
+   "id": "1lng543",
+   "heat": 4,
+   "why": {
+    "en": "Durga Puja celebrations trending nationwide with stars sharing moments online and PM visiting divisions.",
+    "bn": "দুর্গাপূজার উদযাপন দেশজুড়ে ট্রেন্ডিং, স্টারদের সোশ্যাল মিডিয়া পোস্ট এবং পিএম ভ্রমণ।"
    },
    "rank": 2
   },
   {
-   "id": "1r2yhlf",
-   "heat": 4,
+   "id": "1ftw5ov",
+   "heat": 3,
    "why": {
-    "en": "France riots and violence spread across major cities; multiple outlets covering crisis.",
-    "bn": "ফ্রান্সে দাঙ্গা ও সহিংসতা ছড়িয়ে পড়েছে, একাধিক আউটলেট কভার করছে।"
+    "en": "Bangladesh questions Saudi envoy over execution of two nationals, raising diplomatic tensions.",
+    "bn": "বাংলাদেশ সৌদি দূতের কাছে দুই নাগরিকের মৃত্যুদণ্ড নিয়ে প্রশ্ন তুলেছে।"
    },
    "rank": 3
   },
   {
    "id": "egs45n",
-   "heat": 4,
+   "heat": 2,
    "why": {
-    "en": "118 flights cancelled at Dhaka airport in 7 days; impacts travel significantly.",
-    "bn": "ঢাকা বিমানবন্দরে ৭ দিনে ১১৮ ফ্লাইট বাতিল হয়েছে।"
+    "en": "118 flights cancelled at Dhaka airport in a week disrupts travel plans.",
+    "bn": "ঢাকা বিমানবন্দরে সপ্তাহে ১১৮টি ফ্লাইট বাতিল হয়েছে।"
    },
    "rank": 4
   },
   {
-   "id": "12dnlzx",
-   "heat": 3,
+   "id": "1pkxps1",
+   "heat": 2,
    "why": {
-    "en": "Mbappé scores twice as Real Madrid thrash Sevilla 4-1; sports momentum story.",
-    "bn": "রিয়েল মাদ্রিদ সেভিল্লাকে ৪-১ গোলে পরাজিত করেছে, খেলার বড় খবর।"
+    "en": "Van driver's body found four days after going missing in suspicious circumstances.",
+    "bn": "ভ্যান চালক নিখোঁজ হওয়ার চার দিন পর লাশ পাওয়া গেছে।"
    },
    "rank": 5
   }
@@ -50,66 +50,50 @@
  "gossip": [
   {
    "id": "mye3w8",
-   "tag": "#CricketWins",
+   "tag": "#CricketBuzz",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Pakistan seals victory with pace",
-    "text": "Pakistan's quick bowlers dominated to secure a win over Sri Lanka. Trending as sports fans follow the contest live."
+    "title": "Pakistan bowlers seal Sri Lanka win",
+    "text": "Pakistan's quick bowlers delivered a strong performance to win against Sri Lanka in recent cricket action."
    },
    "bn": {
-    "title": "পাকিস্তানের দ্রুত বোলাররা জয় আনলো",
-    "text": "পাকিস্তানের ফাস্ট বোলাররা শ্রীলঙ্কার বিরুদ্ধে জয় নিশ্চিত করেছে। ক্রিকেট ফ্যানরা ট্রেন্ডিং এ রাখছে।"
+    "title": "পাকিস্তান শ্রীলঙ্কাকে হারাল",
+    "text": "পাকিস্তানের দ্রুত গতির বোলাররা শ্রীলঙ্কার বিরুদ্ধে জয় নিশ্চিত করেছেন।"
    }
   },
   {
-   "id": "ba9k6s",
-   "tag": "#BangladeshTourism",
+   "id": "12dnlzx",
+   "tag": "#RealMadrid",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Japan invests $1.2B in BD tourism",
-    "text": "Japan to invest $1.2 billion in Bangladesh tourism, signaling major economic interest and development plans."
+    "title": "Mbappé scores twice in Madrid rout",
+    "text": "Kylian Mbappé netted two goals as Real Madrid thrashed Sevilla 4-1 in dominant fashion."
    },
    "bn": {
-    "title": "জাপান বাংলাদেশ পর্যটনে ১.২ বিলিয়ন বিনিয়োগ করবে",
-    "text": "জাপান বাংলাদেশের পর্যটন খাতে ১.২ বিলিয়ন ডলার বিনিয়োগ করতে যাচ্ছে।"
+    "title": "এমবাপ্পে ডাবল করেছে",
+    "text": "কিলিয়ান এমবাপ্পে দুটি গোল করেছেন যখন রিয়েল মাদ্রিদ সেভিল্লাকে ৪-১ এ চূর্ণ করেছে।"
    }
   },
   {
-   "id": "1wk96pj",
-   "tag": "#WomensCricket",
+   "id": "1d4h8rz",
+   "tag": "#BollywoodNews",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Nahida Akter leads BD T20",
-    "text": "Nahida Akter takes over as Bangladesh women's T20 captain, marking a new leadership chapter for the team."
+    "title": "Tiger Shroff shot at in Mumbai",
+    "text": "Bollywood actor Tiger Shroff was shot at in Mumbai but escaped unhurt in an apparent attack."
    },
    "bn": {
-    "title": "নাহিদা আক্তার নতুন ক্যাপ্টেন",
-    "text": "নাহিদা আক্তার বাংলাদেশ মহিলা টি২০ দলের নতুন ক্যাপ্টেন হয়েছেন।"
-   }
-  },
-  {
-   "id": "ui9c9l",
-   "tag": "#RooftopSolar",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Cabinet pushes rooftop solar power",
-    "text": "Cabinet backs a rooftop solar initiative to reduce Bangladesh's power imports and boost renewable energy use."
-   },
-   "bn": {
-    "title": "ছাদে সৌর বিদ্যুৎ প্রকল্প",
-    "text": "ক্যাবিনেট আমদানি কমাতে এবং পুনর্নবীকরণযোগ্য শক্তি বাড়াতে ছাদে সৌর বিদ্যুৎ পরিকল্পনা অনুমোদন করেছে।"
+    "title": "টাইগার শ্রফ গুলিবিদ্ধ হয়েছেন",
+    "text": "বলিউড অভিনেতা টাইগার শ্রফ মুম্বাইতে গুলি খাওয়ার শিকার হয়েছিলেন কিন্তু নিরাপদে বেরিয়েছেন।"
    }
   }
  ],
