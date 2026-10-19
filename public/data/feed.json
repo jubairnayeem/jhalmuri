@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-19T01:08:28.686Z",
+ "updatedAt": "2026-10-19T07:41:17.706Z",
  "items": [
+  {
+   "id": "16ynt7u",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMcEVJMEtSU2ltTldUSWhadnctanhoanhTOWZlVkw1R0IzRmRTa2NZbWVFbl9rVV80S2xtamFiZ0F3LXgwSzBtVGpLQVpJYmt2UXdndlllZTY5RVN3RjluMEd6NVJDaUk?oc=5",
+   "image": null,
+   "published": "2026-10-19T06:27:00.000Z",
+   "added": "2026-10-19T07:41:17.706Z",
+   "origTitle": "গাজীপুরে সাবেক স্ত্রীকে রেললাইনে ডেকে নিয়ে গলাকেটে হত্যা",
+   "en": {
+    "title": "Man kills ex-wife by slitting throat on railway line in Gazipur",
+    "summary": "A man in Gazipur killed his ex-wife by slitting her throat and luring her to railway tracks. The incident highlights ongoing domestic violence issues in Bangladesh. Police are investigating the case."
+   },
+   "bn": {
+    "title": "গাজীপুরে সাবেক স্ত্রীকে রেললাইনে ডেকে নিয়ে হত্যা করেছেন",
+    "summary": "গাজীপুরে একজন লোক তার সাবেক স্ত্রীকে রেললাইনে ডেকে নিয়ে গলা কেটে হত্যা করেছেন। এই ঘটনা দেশে পারিবারিক হিংসা একটি গুরুতর সমস্যা তুলে ধরে। পুলিশ বিষয়টি নিয়ে তদন্ত করছে।"
+   }
+  },
+  {
+   "id": "9tpzp9",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/india/ml8xtujiwo",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-08/wsmitgaj/1.avif",
+   "published": "2026-10-19T07:30:00.000Z",
+   "added": "2026-10-19T07:41:17.706Z",
+   "origTitle": "ভারতীয় নাগরিককে বাংলাদেশ থেকে ফেরত নিতে আবার নির্দেশ দিলেন আসামের হাইকোর্ট",
+   "en": {
+    "title": "Indian woman pushed to Bangladesh, Assam court orders her return",
+    "summary": "Guahati High Court has ordered India's central and Assam governments to find a woman named Momtaz Begum who was pushed across the border into Bangladesh in June after a tribunal declared her a foreigner. She never received a copy of the tribunal's May ruling, so she couldn't appeal to a higher court. The court has emphasized the need to protect citizens' safety and track their whereabouts even after deportation."
+   },
+   "bn": {
+    "title": "বাংলাদেশে ঠেলে দেওয়া ভারতীয় নারীকে ফেরত আনতে হাইকোর্টের নির্দেশ",
+    "summary": "গুয়াহাটি হাইকোর্ট ভারত ও আসাম সরকারকে মমতাজ বেগম নামের এক নারীকে খুঁজে বের করার নির্দেশ দিয়েছেন, যিনি জুনে সীমান্ত পার করে বাংলাদেশে পাঠানো হয়েছিলেন। ট্রাইব্যুনালের রায়ের অনুলিপি না পাওয়ায় তিনি উচ্চ আদালতে আবেদন করতেও পারেননি। এই রায় নাগরিকত্ব পরীক্ষায় আইনি ধারাবাহিকতা এবং মানবাধিকার রক্ষার প্রশ্ন নতুন করে উঠিয়েছে।"
+   }
+  },
+  {
+   "id": "2uz73l",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/local-news/vimsyhdqh5",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-19/rs8cuck4/prothomalo-bangla2026-10-18tb1fx7vvCapture.avif",
+   "published": "2026-10-19T07:15:41.000Z",
+   "added": "2026-10-19T07:41:06.935Z",
+   "origTitle": "Illegal resorts thrive across Cox's Bazar, administration inactive",
+   "en": {
+    "title": "Illegal Cox's Bazar resorts operate despite warnings, safety gaps",
+    "summary": "Coral Beach Resort is under construction in an ecologically critical area near Patowartek beach in Ukhia, Cox's Bazar, without fire safety measures or regulatory clearance. A visit Sunday found no fire extinguishers despite ongoing two-story construction. This follows Saturday's deadly fire at Tuptup Resort that killed 10 tourists, including six from one family, despite previous warnings from authorities."
+   },
+   "bn": {
+    "title": "কক্সবাজারে অবৈধ রিসর্টগুলো সতর্কতা উপেক্ষা করে চলছে",
+    "summary": "উখিয়ার পাটোয়ারটেক বিচের কাছে কোরাল বিচ রিসর্ট জরুরি পরিবেশ এলাকায় অগ্নি নিরাপত্তা ছাড়াই নির্মাণাধীন। রবিবারের পরিদর্শনে কোনো অগ্নিনির্বাপক যন্ত্র পাওয়া যায়নি। টাপটাপ রিসর্টে শনিবার আগুনে ১০ পর্যটক মারা গেছেন, যার মধ্যে একটি পরিবারের ছয় সদস্য ছিলেন, কর্তৃপক্ষের পূর্ববর্তী সতর্কতা সত্ত্বেও।"
+   }
+  },
+  {
+   "id": "1xjgqn8",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800",
+   "published": "2026-10-19T07:30:00.000Z",
+   "added": "2026-10-19T07:41:06.935Z",
+   "origTitle": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+   "en": {
+    "title": "Even Healthcare raises $50M to fix India's hospital business model",
+    "summary": "Indian startup Even Healthcare has raised $50 million in Series B funding led by Khosla Ventures, valuing the company at $300 million. Even wants to change how Indian hospitals earn money—currently they profit from unnecessary tests and longer patient stays. The startup is now building its own hospitals to give better control over patient care and costs."
+   },
+   "bn": {
+    "title": "ইভেন হেলথকেয়ার ৫০ মিলিয়ন ডলার সংগ্রহ করেছে",
+    "summary": "ভারতীয় স্টার্টআপ ইভেন হেলথকেয়ার সিরিজ বি তে ৫০ মিলিয়ন ডলার সংগ্রহ করেছে যা কোম্পানিকে ৩০০ মিলিয়ন ডলারে মূল্যায়ন করে। ইভেন ভারতীয় হাসপাতালের আয়ের মডেল পরিবর্তন করতে চায়—বর্তমানে তারা অপ্রয়োজনীয় পরীক্ষা থেকে লাভ করে। কোম্পানি এখন নিজের হাসপাতাল তৈরি করছে।"
+   }
+  },
+  {
+   "id": "v1undo",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP910727066-1792393314.jpg?resize=1920%2C1440",
+   "published": "2026-10-19T07:02:58.000Z",
+   "added": "2026-10-19T07:41:06.935Z",
+   "origTitle": "Losing Cuba, the global trickster",
+   "en": {
+    "title": "Cuba's outsized role as global trickster facing uncertain future",
+    "summary": "With US military activity near Cuba and officials calling for the island to be \"free,\" the 60-year-old Cuban Revolution may be ending. The article reflects on Cuba's role as a geopolitical trickster—like the spirit Eshu in Santeria—challenging US hegemony, sparking debates about global order, and forcing the empire to reckon with its power."
+   },
+   "bn": {
+    "title": "বৈশ্বিক মঞ্চে কিউবার অনিশ্চিত ভবিষ্যত নিয়ে প্রতিফলন",
+    "summary": "মার্কিন সামরিক কার্যক্রম কিউবার কাছে বৃদ্ধি পেয়েছে এবং কর্মকর্তারা দ্বীপটিকে \"মুক্ত\" করতে চান। ৬০ বছরের কিউবান বিপ্লব সম্ভবত শেষ হতে চলেছে। নিবন্ধটি কিউবার একটি বৈশ্বিক প্রতারক হিসাবে ভূমিকা তুলে ধরে যা আমেরিকার আধিপত্যকে চ্যালেঞ্জ জানিয়েছে এবং বিশ্ব ক্রমের বিষয়ে বিতর্ক সৃষ্টি করেছে।"
+   }
+  },
+  {
+   "id": "1r2yhlf",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4190/live/1ce2e400-cb80-11f1-bba6-c7bcff195158.jpg",
+   "published": "2026-10-19T04:16:46.000Z",
+   "added": "2026-10-19T07:41:06.935Z",
+   "origTitle": "France's government under pressure after weekend of widespread violence",
+   "en": {
+    "title": "France's PM holds crisis meeting after nationwide weekend violence",
+    "summary": "Prime Minister Sébastien Lecornu convened an emergency cabinet meeting Monday to address weekend chaos across France. Over 500,000 protesters initially demonstrated peacefully against rising living costs and deteriorating public services, but vandals looted 1,500 shops and burned buildings. Police injured about 1,000 officers. Critics say Macron's televised address lacked concrete solutions for education and the cost-of-living crisis."
+   },
+   "bn": {
+    "title": "সারা ফ্রান্সে সপ্তাহান্তের হিংসার পর সংকট বৈঠক",
+    "summary": "প্রধানমন্ত্রী সেবাস্তিয়ান লেকোর্নু সোমবার জরুরি মন্ত্রিসভা সভা আহ্বান করেছেন। ৫ লক্ষাধিক শান্তিপূর্ণ বিক্ষোভকারী জীবনযাত্রার খরচ এবং জনসেবার বিপর্যয়ের বিরুদ্ধে প্রতিবাদ করেছেন, কিন্তু দাঙ্গাকারীরা ১,৫০০ দোকান লুটপাট করেছে। পুলিশ প্রায় ১,০০০ অফিসারকে আহত হতে দেখেছে। সমালোচকরা বলেন ম্যাক্রঁর বক্তৃতায় শিক্ষা ও খরচের কোনো সমাধান নেই।"
+   }
+  },
+  {
+   "id": "1j3lwni",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cm86z0dv7g1no?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dfda/live/208c3bc0-cb66-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-19T07:08:17.000Z",
+   "added": "2026-10-19T07:41:06.935Z",
+   "origTitle": "ফ্রান্স জুড়ে দাঙ্গার পর 'শান্তি ও শৃঙ্খলা' বজায় রাখার আহ্বান প্রেসিডেন্ট ম্যাক্রঁর",
+   "en": {
+    "title": "France's Macron calls for peace after weekend riots across country",
+    "summary": "France experienced some of its worst public disorder in modern history over the weekend. About 550,000 mostly peaceful protesters demonstrated against rising costs and failing public services on Saturday, but masked vandals looted around 1,500 shops and set fires. Police arrested about 2,400 people. President Macron called for unity, distinguishing between legitimate protesters and those who caused destruction."
+   },
+   "bn": {
+    "title": "সারা দেশে দাঙ্গার পর ম্যাক্রঁ শান্তির আহ্বান জানিয়েছেন",
+    "summary": "ফ্রান্স শনিবার আধুনিক ইতিহাসের সবচেয়ে খারাপ বিশৃঙ্খলা দেখেছে। প্রায় ৫.৫ লক্ষ শান্তিপূর্ণ বিক্ষোভকারী জীবনযাত্রার খরচ এবং জনসেবার মান নিয়ে প্রতিবাদ করেছেন, কিন্তু মুখোশধারী দাঙ্গাকারীরা প্রায় ১,৫০০ দোকান লুটপাট করেছে। পুলিশ ২,৪০০ জনকে গ্রেপ্তার করেছে। ম্যাক্রঁ বৈধ বিক্ষোভকারী এবং ধ্বংসকারীদের আলাদা করে দেখেছেন।"
+   }
+  },
+  {
+   "id": "1lng543",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/splash/durga-puja-through-eyes-bangladeshs-entertainment-stars-1577311",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/15/20211015172909_sap_2518-01.jpeg",
+   "published": "2026-10-19T07:10:00.000Z",
+   "added": "2026-10-19T07:41:06.935Z",
+   "origTitle": "Durga Puja through the eyes of Bangladesh’s entertainment stars",
+   "en": {
+    "title": "Bangladesh stars share Durga Puja moments on social media",
+    "summary": "Bangladeshi celebrities are celebrating Durga Puja and sharing the festival online. Actress Bidya Sinha Saha Mim posted family photos on Maha Shashthi, while Puja Chery visited different mandaps highlighting women's strength. Actor Manoj Pramanik and actress Apu Biswas are staying in Dhaka this year—Pramanik due to shooting, Apu due to personal reasons."
+   },
+   "bn": {
+    "title": "দুর্গা পূজায় বাংলাদেশের সেলিব্রিটিরা মুহূর্ত শেয়ার করছেন",
+    "summary": "বাংলাদেশের অভিনেত্রী এবং অভিনেতারা দুর্গা পূজা উদযাপন করছেন এবং সোশ্যাল মিডিয়ায় শেয়ার করছেন। বিদ্যা সিনহা সাহা মিম মহা ষষ্ঠীতে পরিবারের ছবি পোস্ট করেছেন, যখন পূজা চেরি বিভিন্ন মণ্ডপ ভিজিট করে নারীদের শক্তি তুলে ধরেছেন। মনোজ প্রমাণিক এবং অপু বিশ্বাস এ বছর ঢাকায় থাকবেন।"
+   }
+  },
   {
    "id": "388wim",
    "section": "news",
@@ -3189,336 +3365,6 @@
    "bn": {
     "title": "দিল্লিতে প্রতিবাদী নেতা আটক, পতাকা মিছিল আগে",
     "summary": "ভারতের কক্সরোচ জান্তা পার্টির প্রতিষ্ঠাতা অভিজিৎ দিপকে ১৬ অক্টোবর দিল্লিতে গ্রেপ্তার করেছে পুলিশ। তার আগে অফিসে থেকেই একটি নোটিস দেওয়া হয়েছিল। সপ্তাহের মধ্যে এটি তার দ্বিতীয় গ্রেপ্তারি। সিজিপির দুই নেতা ১৩ অক্টোবরে জন্তর মন্তরে পতাকা উড়িয়ে পাঁচ দিনের কাস্টডিতে পাঠানো হয়েছিল।"
-   }
-  },
-  {
-   "id": "1lo7wsu",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/yunus-receives-hillary-rodham-clinton-award-washington-1574606",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/3910484.jpg",
-   "published": "2026-10-16T06:55:00.000Z",
-   "added": "2026-10-16T07:04:25.075Z",
-   "origTitle": "Yunus receives Hillary Rodham Clinton Award in Washington",
-   "en": {
-    "title": "Yunus wins Hillary Clinton Award in Washington",
-    "summary": "Nobel Laureate Muhammad Yunus received the Hillary Rodham Clinton Award at Georgetown University yesterday, drawing a standing ovation. Former US Secretary of State Hillary Clinton presented the award, recognising Yunus's work in poverty alleviation and women's rights. Yunus spoke about his vision of encouraging young people to become entrepreneurs rather than job seekers, and plans to launch Grameen University by year's end."
-   },
-   "bn": {
-    "title": "ওয়াশিংটনে ইউনুস পেলেন হিলারি ক্লিনটন পুরস্কার",
-    "summary": "কল নোবেলবিজয়ী মুহাম্মদ ইউনুস জর্জটাউন ইউনিভার্সিটিতে হিলারি রডহ্যাম ক্লিনটন পুরস্কার পেয়েছেন গতকাল। সাবেক আমেরিকান সেক্রেটারি অফ স্টেট হিলারি ক্লিনটন নিজেই পুরস্কার দিয়েছেন, যা মহিলা অধিকার এবং দারিদ্র্য বিমোচনে ইউনুসের অবদানকে স্বীকৃতি দেয়। ইউনুস তরুণদের চাকরিখুঁজির পরিবর্তে উদ্যোক্তা হতে উৎসাহিত করার লক্ষ্যের কথা বলেছেন এবং এই বছরের শেষে গ্রামীণ ইউনিভার্সিটি চালু করার পরিকল্পনা জানিয়েছেন।"
-   }
-  },
-  {
-   "id": "1yocys1",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/opinion/column/y0c6m9410s",
-   "image": "https://media.prothomalo.com/prothomalo/import/media/2013/06/24/51c754655fc9d-Untitled-4.jpg",
-   "published": "2026-10-16T06:52:24.000Z",
-   "added": "2026-10-16T07:04:16.911Z",
-   "origTitle": "দারিদ্র্য বিমোচনে ইসলামের নির্দেশনা",
-   "en": {
-    "title": "Islam's guidance on fighting poverty: zakat and debt relief",
-    "summary": "Islam offers solutions to poverty through mechanisms like zakat, a mandatory charitable contribution and one of the five pillars of Islam. The system redistributes wealth from the rich to the poor. Islam also permits creditors to grant extension to struggling debtors or forgive debts entirely, helping people climb out of financial hardship."
-   },
-   "bn": {
-    "title": "দারিদ্র্য দূরে ইসলামের নির্দেশনা: জাকাত ও ঋণমুক্তি",
-    "summary": "ইসলাম জাকাতের মাধ্যমে দারিদ্র্য দূর করার সমাধান প্রদান করে, যা বাধ্যতামূলক দাতব্য অবদান এবং ইসলামের পাঁচটি স্তম্ভের একটি। এটি ধনীদের কাছ থেকে গরিবদের কাছে সম্পদ পুনর্বন্টন করে। ইসলাম ঋণগ্রস্ত ব্যক্তিদের সময় বৃদ্ধি বা ঋণ মাফের অনুমতি দেয়, যা মানুষকে আর্থিক কষ্ট থেকে বেরিয়ে আসতে সাহায্য করে।"
-   }
-  },
-  {
-   "id": "wp0w9c",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/video/ylrjpp8tui",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-16/1a5p7wy3/prothomalo-bangla2026-10-15tec2v0kwWEB.avif",
-   "published": "2026-10-16T06:28:04.000Z",
-   "added": "2026-10-16T07:04:16.911Z",
-   "origTitle": "Sundarbans open to tourists; spotted deer roam freely at Katka",
-   "en": {
-    "title": "Sundarbans reopen to tourists; spotted deer delight visitors",
-    "summary": "The world's largest mangrove forest, the Sundarbans, officially reopened to visitors on September 1. Herds of spotted deer roam freely at Katka, a popular tourist spot, offering a beautiful experience for visitors exploring this unique ecosystem."
-   },
-   "bn": {
-    "title": "পর্যটকদের জন্য খোলা হয়েছে সুন্দরবন, কাটকায় হরিণের দল",
-    "summary": "বিশ্বের বৃহত্তম ম্যানগ্রোভ বন সুন্দরবন সেপ্টেম্বর ১ তারিখে পর্যটকদের জন্য আবার খোলা হয়েছে। জনপ্রিয় পর্যটন কেন্দ্র কাটকায় চিতাবাঘী হরিণের দল স্বাধীনভাবে বিচরণ করছে, যা দর্শকদের এই অনন্য ইকোসিস্টেম অন্বেষণের সুন্দর অভিজ্ঞতা দিচ্ছে।"
-   }
-  },
-  {
-   "id": "1tbn1wa",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/c6d09lrn8pnyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20b7/live/1908e0c0-c8a4-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-16T01:13:24.000Z",
-   "added": "2026-10-16T07:04:16.911Z",
-   "origTitle": "ইউক্রেনের বিরুদ্ধে যুদ্ধে বাংলাদেশিদের 'টোপ' হিসেবে ব্যবহারের অভিযোগ",
-   "en": {
-    "title": "Bangladeshis used as 'bait' in Ukraine war, investigator says",
-    "summary": "A young Bangladeshi named Rajan Hosen who returned from Ukraine's battlefield says he was lured with construction job promises and sent to Russia in May. His passport and phone were confiscated, then he was forced into the Russian army. Of 30 Bangladeshis sent to the front, 20 were killed—17 in the first day by Ukrainian drone strikes. Police investigator Md. Asaduzzaman says they're being used as 'bait' to locate enemy positions."
-   },
-   "bn": {
-    "title": "ইউক্রেনের যুদ্ধে বাংলাদেশিদের টোপ হিসেবে ব্যবহার, তদন্তকারী জানান",
-    "summary": "ইউক্রেনের যুদ্ধক্ষেত্র থেকে ফিরে আসা রাজন হোসেন বলেছেন তাকে নির্মাণের চাকরির প্রতিশ্রুতি দিয়ে মে মাসে রাশিয়া পাঠানো হয়েছিল। সেখানে পাসপোর্ট ও ফোন কেড়ে নিয়ে সেনাবাহিনীতে বাধ্য করা হয়। ৩০ জন বাংলাদেশি ফ্রন্টে পাঠানো হয়েছিল, তার মধ্যে ২০ জন নিহত হয়েছে—প্রথম দিনেই ইউক্রেনের ড্রোন হামলায় ১৭ জন। পুলিশ তদন্তকারী বলেছেন তাদের শত্রু অবস্থান চিহ্নিত করতে টোপ হিসেবে ব্যবহার করা হচ্ছে।"
-   }
-  },
-  {
-   "id": "1cvtcv3",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/974844/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%8F%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A7%A8-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%86%E0%A6%9B%E0%A7%87%E0%A6%A8",
-   "image": null,
-   "published": "2026-10-16T07:01:39.000Z",
-   "added": "2026-10-16T07:04:16.911Z",
-   "origTitle": "বিএসএফের ধরে নিয়ে যাওয়া ২ পুলিশ সদস্য কেমন আছেন, জানালেন বিজিবি পরিচালক",
-   "en": {
-    "title": "Two Bangladesh police officers taken by BSF, says BGB",
-    "summary": "Border Guard Bangladesh confirmed Friday that one Assistant Sub-Inspector and one constable were taken by India's Border Security Force from Shashidal border in Cumilla's Brahmanbaria upazila. BGB Director Lieutenant Colonel Md. Mahabub Murshid announced formal contact has been made with BSF to secure their quick return."
-   },
-   "bn": {
-    "title": "বিএসএফ ধরে নিয়ে যাওয়া দুই পুলিশ সদস্যের খবর দিল বিজিবি",
-    "summary": "বিজিবি শুক্রবার নিশ্চিত করেছে যে কুমিল্লার ব্রাহ্মণপাড়া উপজেলার শশীদল সীমান্ত থেকে একজন এএসআই এবং একজন কনস্টেবলকে ভারতের বর্ডার সিকিউরিটি ফোর্স ধরে নিয়ে গেছে। বিজিবির পরিচালক লেফটেন্যান্ট কর্নেল মো. মাহবুব মুর্শেদ জানান যে তাদের দ্রুত ফেরত আনার জন্য বিএসএফের সাথে আনুষ্ঠানিক যোগাযোগ করা হয়েছে।"
-   }
-  },
-  {
-   "id": "1ispwa3",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260817__C4VA8T6__v1__HighRes__IsraelPoliticsElection-1788673288.jpg?resize=1920%2C1440",
-   "published": "2026-10-16T06:41:15.000Z",
-   "added": "2026-10-16T07:04:16.911Z",
-   "origTitle": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
-   "en": {
-    "title": "Netanyahu's divisive legacy shapes Israel's election race",
-    "summary": "Benjamin Netanyahu is seeking re-election on October 27 while facing International Criminal Court charges for war crimes in Gaza. Delegates walked out during his UN speech in late September, but his supporters view him as Israel's strongest leader. His political identity is shaped by his father's pessimism and his brother Yonatan's death during a 1976 military raid in Uganda."
-   },
-   "bn": {
-    "title": "নেতানিয়াহুর বিভাজনকারী উত্তরাধিকার ইসরায়েলের নির্বাচনে",
-    "summary": "বেঞ্জামিন নেতানিয়াহু ২৭ অক্টোবর পুনরায় নির্বাচিত হওয়ার চেষ্টা করছেন, যখন তিনি গাজায় যুদ্ধাপরাধের জন্য আন্তর্জাতিক ফৌজদারি আদালতের অভিযোগে আছেন। সেপ্টেম্বরের শেষে জাতিসংঘে তার বক্তৃতার সময় প্রতিনিধিরা চলে গেছেন, কিন্তু তার সমর্থকরা তাকে ইসরায়েলের শক্তিশালী নেতা মনে করেন।"
-   }
-  },
-  {
-   "id": "e3hdqu",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-16T03:45:09.000Z",
-   "added": "2026-10-16T07:04:16.911Z",
-   "origTitle": "Three children and teacher killed in US primary school shooting",
-   "en": {
-    "title": "Shooting at US primary school kills three children, teacher",
-    "summary": "A 16-year-old opened fire at Silver Rail Elementary School in Bend, Oregon on Thursday, killing three children aged 5, 8 and 11, plus a teacher. He shot at locked doors to force his way inside. A bystander pursued and killed him; police arrived three minutes later. A 7-year-old and the 54-year-old teacher were hospitalised in critical condition."
-   },
-   "bn": {
-    "title": "যুক্তরাষ্ট্রের প্রাথমিক স্কুলে গুলিতে তিন শিশু ও শিক্ষক নিহত",
-    "summary": "যুক্তরাষ্ট্রের অরেগন রাজ্যের বেন্ড শহরে বৃহস্পতিবার একজন ১৬ বছর বয়সী ছেলে সিলভার রেইল প্রাথমিক বিদ্যালয়ে আক্রমণ করে ৫, ৮ ও ১১ বছর বয়সী তিনটি শিশু এবং একজন শিক্ষকদের হত্যা করেছে। সে দরজায় তালা ভেঙে প্রবেশ করেছিল। একজন স্থানীয় ব্যক্তি তাকে অনুসরণ করে হত্যা করেছেন। ৭ বছর বয়সী একটি শিশু এবং ৫৪ বছর বয়সী শিক্ষক গুরুতর অবস্থায় হাসপাতালে রয়েছেন।"
-   }
-  },
-  {
-   "id": "azlqfa",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "The Financial Express",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXlpWGJ0UTI5RlZvMnNHV3JQMVFqX2haeHdTUExfbXBjWXU0QUs1NkFUWXFHZDVUMlkwQ1pRLTd3eUFLUUMzLUZKclN4dXlLbXpjUzZaMXpoTUdJMi1vLVgxSGQ2NFRUdVQ0NTNhSUhnQmFIbEQtV2hIRDFXd3Ewd19GQV9mb0Z0b0hvUVhDUWxYNjJGOUpGM1FFMkN1WVMwVUdPU3BiekRjZTRWUEs1Z2FHclYzbTMta3hSZnEzQzRXT21GZEt4cThsSQ?oc=5",
-   "image": null,
-   "published": "2026-10-15T05:33:19.000Z",
-   "added": "2026-10-16T01:13:29.927Z",
-   "origTitle": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says",
-   "en": {
-    "title": "US mulls easing shadow fleet sanctions to cut freight",
-    "summary": "The US is considering loosening sanctions on shadow fleet vessels to help reduce freight rates, according to a US official. Shadow fleets are ships that operate outside normal regulations to dodge penalties. Lower shipping costs could help ease global supply chain pressures. The move would represent a significant policy shift on enforcement."
-   },
-   "bn": {
-    "title": "যুক্তরাষ্ট্র শিপিং খরচ কমাতে ছায়া বহরের নিষেধাজ্ঞা শিথিল করতে ভাবছে",
-    "summary": "মার্কিন সরকার পণ্য পরিবহনের খরচ কমাতে ছায়া বহরের উপর থেকে নিষেধাজ্ঞা হালকা করার কথা ভাবছে। ছায়া বহর হলো এমন জাহাজ যা নিয়মকানুনের বাইরে চলে। শিপিং খরচ কমলে বিশ্বব্যাপী সরবরাহ সহজ হবে। এটি একটি বড় নীতিগত পরিবর্তন হবে।"
-   }
-  },
-  {
-   "id": "fcz6s7",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "যুগান্তর",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRODhBZG96ZXJGZWtGeGNEeV9YTmd2WVU4ZmdWRGxTS0laYm5CWWpldDRtdkJxRFlQMkVoRjQ3ZGVtelJlaVdfR2NRWm40VHh0NjJPczRYNGhJZw?oc=5",
-   "image": null,
-   "published": "2026-10-15T07:59:41.000Z",
-   "added": "2026-10-16T01:13:29.927Z",
-   "origTitle": "কেন ইমরান খানকে ভারত ছাড়ার নোটিশ দিল মোদি সরকার",
-   "en": {
-    "title": "India's Modi government asks Imran Khan to leave",
-    "summary": "India's government under Prime Minister Modi has issued a notice asking former Pakistan PM Imran Khan to leave India. The reason for this directive has not been fully detailed in available reports. Imran Khan has been a controversial figure in South Asian politics. The move marks a significant diplomatic moment between the two countries."
-   },
-   "bn": {
-    "title": "মোদি সরকার ইমরান খানকে ভারত ছাড়তে নোটিশ দিয়েছে",
-    "summary": "প্রধানমন্ত্রী মোদির সরকার পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানকে ভারত ছাড়তে বলেছে। এই সিদ্ধান্তের কারণ স্পষ্ট করা হয়নি। ইমরান খান দক্ষিণ এশিয়ার রাজনীতিতে একটি বিতর্কিত ব্যক্তিত্ব। দুই দেশের মধ্যে এটি একটি গুরুত্বপূর্ণ পদক্ষেপ।"
-   }
-  },
-  {
-   "id": "fct2mh",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "জাগো নিউজ",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12T2FTd0FobVJIRVBBY2tkMGVKQXNQdFJraHV4V09KX3ZWakVHb1pUcVUyTDJ4Y2txeDNWWjRoeE1VRS14dXNxMGl6NjlOaDMxX3V5OGZweDdvbDA?oc=5",
-   "image": null,
-   "published": "2026-10-15T08:42:43.000Z",
-   "added": "2026-10-16T01:13:29.927Z",
-   "origTitle": "কুষ্টিয়ায় রেললাইন থেকে যুবকের মরদেহ উদ্ধার",
-   "en": {
-    "title": "Young man's body found on railway tracks in Kushtia",
-    "summary": "The body of a young man has been recovered from railway tracks in Kushtia. The circumstances of his death are under investigation. Police are working to identify how he came to be on the tracks. The incident remains under inquiry."
-   },
-   "bn": {
-    "title": "কুষ্টিয়ায় রেলপথে যুবকের লাশ পাওয়া গেছে",
-    "summary": "কুষ্টিয়ায় রেলপথ থেকে একজন যুবকের মরদেহ উদ্ধার করা হয়েছে। তার মৃত্যুর পরিস্থিতি তদন্তাধীন। পুলিশ জানার চেষ্টা করছে তিনি সেখানে কীভাবে গিয়েছিলেন। বিষয়টি তদন্তের অধীন রয়েছে।"
-   }
-  },
-  {
-   "id": "190ojfi",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": true,
-   "src": "eArki",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPQmR0SzZUYzNndzZ2bWtIX0xEZl80ZnV1cWlReEdNeERmWkJjU3psNDJRS3BCdnNEUWpPak9qY0QtSzhvT0E2UmFXXy12MW9DQVU4SHBEbFFmakNUUjB1ZlNwQkttZzZ5UC1QdFNrdzl3SElDNjhUOS1veGRTOHR2Z2ZXSDdUbFNvV3VqSzRlNVRnNzYyallzdF9ydExHV1V5eDAxVnJBRHlPdkRTdGNSUXFHcGRsUHlkZVNsdGVOVF9KVjFvYUtvTDhkMWlBV0Q1a1M1QmI5aDhHYmRpQmkxSmJ0bldrODFJdXVndFhSVkpRdU5GYXBYeHkza21SZWU2clBnSDY4eXVsT0gwMjJDdUxfNl83NjhUREdYR0J3TVpHZDQ0M0REcUMwTHJDRmkxWXZjQzBVUW5jWjBPU2VjcDJJRTZrM05TdlYyLXNsNU03VkNqcjZUaXZjX2lmdXpXWExKOWdyYlZNYjQ0TUo2VW4ta0JLT2k3NGtuLUlKa3lxWEp5MDdsdkh3V2RZVm5reTlobWJvZnowLTdQejNjV01HUlpQc3RBSzRUM1JhSHBiOFROOFdCc2R6LUh0VkFWLXhaV0JyMV9NRURVM3Bac0FISzFySFppOERqMDdCLTZnWS1TWENGU0RnSUdwYWMyd25sYzhaa25lT1VxZWZQQUlVRmxpWjRSdklDM3VoV0cycmxvQl9seTNxNDN0NVkzTi1ZTWZveThLLTBELXJJVg?oc=5",
-   "image": null,
-   "published": "2026-10-15T12:11:20.000Z",
-   "added": "2026-10-16T01:13:29.927Z",
-   "origTitle": "মোল্লা নাসরুদ্দীনকে একবার এক ধনী লোক জিজ্ঞাসা করিয়াছিল, মোল্লা সাহেব, পৃথিবীর সবচেয়ে সুস্বাদু আর সেরা খাদ্য কোনটি?",
-   "en": {
-    "title": "Mulla Nasrudin on the world's best food",
-    "summary": "A classic Mulla Nasrudin tale: a rich man asks the clever mulla what the tastiest and finest food in the world is. This is satire—a humorous folk story meant to teach a lesson through wit. Nasrudin stories have entertained people for centuries with their simple yet profound wisdom about life."
-   },
-   "bn": {
-    "title": "মোল্লা নাসরুদ্দীনের পৃথিবীর সেরা খাবার",
-    "summary": "এটি একটি ব্যঙ্গ গল্প। ধনী লোকটি মোল্লা নাসরুদ্দীনকে জিজ্ঞাসা করে পৃথিবীর সবচেয়ে সুস্বাদু খাবার কোনটি। মোল্লার বুদ্ধিমান উত্তর কী হবে তা জানতে পড়ুন। এই ধরনের মজার গল্প দিয়ে আগের যুগের মানুষ জীবনের শিক্ষা শিখতো।"
-   }
-  },
-  {
-   "id": "8wza8t",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "UNB",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWlWLVJXWjZmX05oNWpCU0VnVFhiaUViYlhXTnRRVEpnVDI2dzdmajRKU0lnVUhrZWVRLTNVVmc5WC12c1dCeDBUWUFpcUxQM3IyYWJVSGl3QVJWanZvLV82MWJQQU5Vckl0cHktNnl3VEZQc2ZLNE9GRTloX0tTc3VoblFWc185RndoRHJrdUtCNmo2SEg4?oc=5",
-   "image": null,
-   "published": "2026-10-15T13:17:11.000Z",
-   "added": "2026-10-16T01:13:29.927Z",
-   "origTitle": "4 more children die with measles-like symptoms",
-   "en": {
-    "title": "Four more children die from measles-like illness",
-    "summary": "Four more children have died showing measles-like symptoms, adding to a growing health concern. The outbreak appears to be spreading, though details on the exact cause and location remain limited. Health authorities are investigating the cases. Parents and communities are urged to watch for warning signs and seek medical help immediately."
-   },
-   "bn": {
-    "title": "হামের মতো উপসর্গে আরও চারজন শিশু মৃত্যুবরণ করেছে",
-    "summary": "হামের মতো উপসর্গ দেখিয়ে আরও চারজন শিশু মারা গেছে। এই রোগের প্রাদুর্ভাব বাড়ছে বলে মনে হচ্ছে। স্বাস্থ্য কর্তৃপক্ষ তদন্ত করছে। অভিভাবকদের সাবধানে থাকতে এবং দ্রুত চিকিৎসা নিতে বলা হচ্ছে।"
-   }
-  },
-  {
-   "id": "1frj4zg",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
-   "published": "2026-10-15T23:44:56.000Z",
-   "added": "2026-10-16T01:13:11.170Z",
-   "origTitle": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-   "en": {
-    "title": "19-year-old founder exploded app via influencer army strategy",
-    "summary": "Zach Yadegari, 19, founded Cal AI, an AI calorie-tracking app that went viral by paying a network of influencers to promote it. The company made over $30 million in revenue in two years and was acquired by MyFitnessPal in March. Yadegari discovered the formula worked: more influencer posts meant predictable, linear user growth."
-   },
-   "bn": {
-    "title": "১৯ বছরের ফাউন্ডার, ইনফ্লুয়েন্সার আর্মি দিয়ে ভাইরাল অ্যাপ",
-    "summary": "জ্যাক ইয়াডেগারি, মাত্র ১৯ বছর বয়সী, ক্যাল এআই তৈরি করেছে—একটি এআই-চালিত ক্যালোরি ট্র্যাকিং অ্যাপ। তিনি ইনফ্লুয়েন্সারদের একটি নেটওয়ার্ক দিয়ে অ্যাপটি ভাইরাল করেছেন এবং দুই বছরে ৩০ মিলিয়ন ডলারের বেশি আয় করেছেন। মার্চে মাইফিটনেসপ্যাল এটি কিনেছে।"
-   }
-  },
-  {
-   "id": "172ilcd",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad148b5-1792100533.jpg?resize=1920%2C1440",
-   "published": "2026-10-16T00:31:18.000Z",
-   "added": "2026-10-16T01:13:11.170Z",
-   "origTitle": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-   "en": {
-    "title": "Iraq approves al-Zaidi cabinet with US-sanctioned deputy",
-    "summary": "Iraq's parliament approved Prime Minister Ali al-Zaidi's government on Thursday, filling 11 cabinet posts and appointing three deputy prime ministers. One deputy, Laith al-Khazali, is under US sanctions as a designated terrorist for attacks including a 2007 assault that killed five US soldiers. Al-Zaidi cited economic and security challenges from regional conflict."
-   },
-   "bn": {
-    "title": "ইরাকের মন্ত্রিসভা অনুমোদিত, ইউএস-নিষিদ্ধ ডেপুটি অন্তর্ভুক্ত",
-    "summary": "ইরাকের সংসদ প্রধানমন্ত্রী আলি আল-জায়েদির সরকার অনুমোদন করেছে এবং ১১টি মন্ত্রণালয় পূরণ করা হয়েছে। তিনজন ডেপুটি প্রাইম মিনিস্টার নিয়োগ দেওয়া হয়েছে, যার মধ্যে লাইথ আল-খাজালি মার্কিন নিষেধাজ্ঞার অধীন। আল-জায়েদি অঞ্চলীয় সংঘাত থেকে জাত অর্থনৈতিক চ্যালেঞ্জের কথা উল্লেখ করেছেন।"
-   }
-  },
-  {
-   "id": "z63lz2",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/974800/%E0%A6%97%E0%A7%81%E0%A6%97%E0%A6%B2-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%97%E0%A7%87%E0%A6%93-%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A7%87%E0%A6%A8",
-   "image": null,
-   "published": "2026-10-16T01:02:48.000Z",
-   "added": "2026-10-16T01:13:11.170Z",
-   "origTitle": "গুগল ম্যাপের যুগেও সাইনবোর্ড জরুরি কেন?",
-   "en": {
-    "title": "Why Google Maps isn't enough: signs still matter",
-    "summary": "Even with Google Maps, people get lost inside hospitals, big buildings, and busy streets. You need clear signboards to find emergency departments, entrances, and directions that a phone can't always show. Wayfinding needs both technology and real-world signs working together."
-   },
-   "bn": {
-    "title": "গুগল ম্যাপের যুগেও সাইনবোর্ড কেন জরুরি",
-    "summary": "হাসপাতাল, বড় ভবন আর ব্যস্ত রাস্তায় গুগল ম্যাপ থাকলেও মানুষ পথ হারায়। জরুরি বিভাগ, প্রবেশপথ এবং সঠিক দিকনির্দেশনা খুঁজে পেতে স্পষ্ট সাইনবোর্ডের প্রয়োজন রয়েছে। প্রযুক্তি আর চারপাশের চিহ্ন উভয়েই সাফল্যের চাবিকাঠি।"
    }
   }
  ]

@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-18T23:03:03.247Z",
+ "updatedAt": "2026-10-19T07:41:30.644Z",
  "burning": [
-  {
-   "id": "1qld3c",
-   "heat": 5,
-   "why": {
-    "en": "Cox's Bazar resort fire killed 10 tourists, covered by multiple outlets with ongoing probe and missing families.",
-    "bn": "কক্সবাজার রিসোর্ট আগুনে ১০ জন পর্যটক মারা গেছে, একাধিক মাধ্যম কভার করছে এবং পরিবার নিখোঁজ।"
-   },
-   "rank": 1
-  },
   {
    "id": "52oteu",
    "heat": 5,
    "why": {
-    "en": "France riots over cost of living: 1,200+ arrested, buildings burning, massive social upheaval across multiple outlets.",
-    "bn": "ফ্রান্সে জীবনযাত্রার খরচ নিয়ে দাঙ্গা: ১,২০০+ জন গ্রেপ্তার, ভবন জ্বলছে, একাধিক সংবাদপত্র কভার করছে।"
+    "en": "France riots dominate global news: 1,200 arrested, buildings burning, multiple outlets covering.",
+    "bn": "ফ্রান্সের দাঙ্গা বিশ্বব্যাপী খবর: ১,২০০ গ্রেপ্তার, বিল্ডিং জ্বলছে, একাধিক আউটলেট কভার করছে।"
+   },
+   "rank": 1
+  },
+  {
+   "id": "40vvlh",
+   "heat": 5,
+   "why": {
+    "en": "Cox's Bazar resort fire kills 10, investigation ongoing, major disaster in Bangladesh.",
+    "bn": "কক্সবাজার রিসোর্ট ফায়ারে ১০ জন মৃত, তদন্ত চলছে, বাংলাদেশে বড় দুর্ঘটনা।"
    },
    "rank": 2
   },
   {
-   "id": "1hdn70z",
+   "id": "1vj73dh",
    "heat": 4,
    "why": {
-    "en": "Albania Supreme Court fire during protests signals escalating civil unrest in the region.",
-    "bn": "আলবেনিয়ার সুপ্রিম কোর্টে প্রতিবাদের সময় আগুন, এলাকায় বেসামাল অস্থিরতার ইঙ্গিত।"
+    "en": "PM orders cabinet minister Ishraque to resign; political shake-up covered by multiple outlets.",
+    "bn": "প্রধানমন্ত্রী ক্যাবিনেট মন্ত্রী ইশরাককে পদত্যাগের নির্দেশ দিয়েছেন; একাধিক আউটলেট কভার করছে।"
    },
    "rank": 3
-  },
-  {
-   "id": "qq56rh",
-   "heat": 4,
-   "why": {
-    "en": "At least 17 dead in Kolkata Durga Puja pandal stampede, major tragedy in the region.",
-    "bn": "কলকাতার দুর্গাপূজা প্যান্ডেলে ১৭ জন মারা যায় ভিড়ের ধাক্কায়, অঞ্চলে বড় দুর্যোগ।"
-   },
-   "rank": 4
   },
   {
    "id": "egs45n",
    "heat": 3,
    "why": {
-    "en": "118 flights cancelled at Dhaka airport in 7 days affects thousands of passengers locally.",
-    "bn": "ঢাকা বিমানবন্দরে ৭ দিনে ১১৮ ফ্লাইট বাতিল, হাজারো যাত্রী প্রভাবিত।"
+    "en": "118 flights cancelled at Dhaka airport in 7 days; major disruption to travel.",
+    "bn": "ঢাকা বিমানবন্দরে ৭ দিনে ১১৮ ফ্লাইট বাতিল; যাত্রায় বড় বিঘ্ন।"
+   },
+   "rank": 4
+  },
+  {
+   "id": "2uz73l",
+   "heat": 3,
+   "why": {
+    "en": "Illegal Cox's Bazar resorts operate despite warnings; safety gaps exposed.",
+    "bn": "অবৈধ কক্সবাজার রিসোর্ট সতর্কতা সত্ত্বেও পরিচালিত; নিরাপত্তা ফাঁক প্রকাশ।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1r28obm",
-   "tag": "#LaLiga",
+   "id": "1ncvwbn",
+   "tag": "#HealthcareFailure",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Barcelona's winning streak historic",
-    "text": "Barcelona wins 9 straight, matching Real Madrid's 58-year record in La Liga. Massive season momentum for the Catalan club."
+    "title": "Young engineer dies before wedding",
+    "text": "A young engineer died the day before his wedding; family blames inadequate hospital care. Story raising questions about healthcare standards."
    },
    "bn": {
-    "title": "বার্সেলোনার অপরাজেয় সিরিজ রেকর্ড",
-    "text": "বার্সেলোনা পরপর ৯ ম্যাচ জিতে রিয়েলের ৫৮ বছরের রেকর্ডের সাথে মিলিয়েছে। লা লিগায় বিশাল ধাক্কা।"
-   }
-  },
-  {
-   "id": "1wk96pj",
-   "tag": "#BanglaCricket",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "New women's T20 captain appointed",
-    "text": "Nahida Akter takes over Bangladesh women's T20 captaincy, fresh leadership for the national team."
-   },
-   "bn": {
-    "title": "নতুন মহিলা টি২০ ক্যাপ্টেন",
-    "text": "নাহিদা আক্তার বাংলাদেশ মহিলা টি২০ দল পরিচালনা করবেন নতুন নেতৃত্বে।"
+    "title": "বিয়ার দিন আগে যুবক প্রকৌশলী মৃত",
+    "text": "বিয়ার দিন আগে একজন যুবক প্রকৌশলী মারা গেছেন; পরিবার হাসপাতালের যত্নের অভাবকে দায়ী করছে। স্বাস্থ্যসেবার মান নিয়ে প্রশ্ন উঠছে।"
    }
   },
   {
    "id": "ba9k6s",
-   "tag": "#VisitBangladesh",
+   "tag": "#JapanInvestment",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Japan invests big in BD tourism",
-    "text": "Japan to invest $1.2 billion in Bangladesh tourism sector, boosting hospitality and travel infrastructure."
+    "title": "Japan invests $1.2B in Bangladesh tourism",
+    "text": "Japan commits $1.2 billion to develop Bangladesh's tourism sector, signalling major economic partnership."
    },
    "bn": {
-    "title": "জাপান বাংলাদেশে ট্যুরিজম বিনিয়োগ",
-    "text": "জাপান বাংলাদেশের পর্যটন খাতে ১.২ বিলিয়ন ডলার বিনিয়োগ করবে, হোটেল এবং ইনফ্রা উন্নত হবে।"
+    "title": "বাংলাদেশ পর্যটনে জাপানের ১.২ বিলিয়ন বিনিয়োগ",
+    "text": "জাপান বাংলাদেশের পর্যটন খাত উন্নয়নে ১.২ বিলিয়ন ডলার বিনিয়োগ করছে, বড় অর্থনৈতিক অংশীদারিত্ব দেখাচ্ছে।"
+   }
+  },
+  {
+   "id": "1l560y8",
+   "tag": "#DisasterRelief",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Families still missing after Cox's resort fire",
+    "text": "Three days after the Cox's Bazar resort fire, families of three victims remain unaccounted for, sparking desperate search efforts."
+   },
+   "bn": {
+    "title": "কক্সবাজার রিসোর্ট আগুনে পরিবার নিখোঁজ",
+    "text": "কক্সবাজার রিসোর্ট আগুনের তিন দিন পর তিন জন ভুক্তভোগীর পরিবার এখনো নিখোঁজ, হতাশ অনুসন্ধান চলছে।"
    }
   }
  ],
