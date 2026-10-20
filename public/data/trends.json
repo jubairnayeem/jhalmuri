@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-20T05:57:01.915Z",
+ "updatedAt": "2026-10-20T11:26:27.243Z",
  "burning": [
   {
-   "id": "1j3lwni",
+   "id": "dzppdr",
    "heat": 5,
    "why": {
-    "en": "France riots dominate global news; multiple outlets covering nationwide violence, curfews, and Macron's response.",
-    "bn": "ফ্রান্সের দাঙ্গা বিশ্বব্যাপী সংবাদে শীর্ষে; কারফিউ আর ম্যাক্রোঁর প্রতিক্রিয়া নিয়ে একাধিক আউটলেট কভার করছে।"
+    "en": "Two outlets covering fatal bus-truck crash in Natore killing 12-13 people.",
+    "bn": "নাটোরে বাস-ট্রাক সংঘর্ষে ১২-১৩ জন নিহত, দুটি আউটলেট কভার করেছে।"
    },
    "rank": 1
   },
   {
-   "id": "u5lmb3",
+   "id": "vo0515",
    "heat": 4,
    "why": {
-    "en": "Bus-truck crash in Natore kills 13 and injures 30; major road accident dominating Bangladesh news.",
-    "bn": "নাটোরে বাস-ট্রাক দুর্ঘটনায় ১৩ জন মারা গেছেন, ৩০ জন আহত; বাংলাদেশের প্রধান খবর।"
+    "en": "Measles outbreak death toll reaches 1,204 as crisis spreads across Bangladesh.",
+    "bn": "হাসি রোগের মহামারিতে মৃত্যু ১,২০৪ জনে পৌঁছেছে, ছড়িয়ে পড়ছে সারাদেশে।"
    },
    "rank": 2
   },
   {
-   "id": "puf2jz",
+   "id": "1j3lwni",
    "heat": 4,
    "why": {
-    "en": "Armed robbery wave on highways loots 50–60 vehicles and 100+ passengers; serious crime story gaining traction.",
-    "bn": "হাইওয়েতে সশস্ত্র ডাকাতি: ৫০-৬০টি গাড়ি আর ১০০+ যাত্রী লুণ্ঠিত; গুরুতর অপরাধ সংবাদ।"
+    "en": "France riots dominate international coverage with multiple outlets reporting on Macron's response.",
+    "bn": "ফ্রান্সের দাঙ্গা আন্তর্জাতিক মিডিয়ায় বড় ছবি, ম্যাক্রঁর বক্তব্য নিয়ে খবর।"
    },
    "rank": 3
   },
   {
-   "id": "149v2ds",
+   "id": "1twrotv",
    "heat": 3,
    "why": {
-    "en": "Australian MP critically injured in apparent car attack; international incident covered by major outlets.",
-    "bn": "অস্ট্রেলিয়ার এমপি গাড়ির আঘাতে গুরুতরভাবে আহত; আন্তর্জাতিক ঘটনা ব্যাপক কভারেজ পাচ্ছে।"
+    "en": "Model Sahara's death at 34 draws significant showbiz attention.",
+    "bn": "মডেল সাহারার ৩৪ বছর বয়সে মৃত্যু বিনোদন জগতে আলোড়ন সৃষ্টি করেছে।"
    },
    "rank": 4
   },
   {
-   "id": "8ce8pl",
+   "id": "puf2jz",
    "heat": 3,
    "why": {
-    "en": "Durga Puja holidays draw tourist crowds to Khagrachari; seasonal Bangladesh story with regional interest.",
-    "bn": "দুর্গা পূজার ছুটিতে খাগড়াছড়িতে পর্যটক ভিড়; আঞ্চলিক আগ্রহের বাংলাদেশ সংবাদ।"
+    "en": "Armed robbery of 50-60 vehicles and 100+ passengers is a major crime story.",
+    "bn": "সশস্ত্র ডাকাতরা ৫০-৬০টি যানবাহন ও ১০০+ যাত্রী লুট করেছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "149v2ds",
-   "tag": "#AustralianMPAttacked",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Australian MP hit by car",
-    "text": "Independent MP Helen Haines critically injured after being struck by a vehicle in what authorities are treating as an apparent attack. The incident has drawn widespread political condemnation."
-   },
-   "bn": {
-    "title": "অস্ট্রেলিয়ান এমপি গাড়িতে আঘাতপ্রাপ্ত",
-    "text": "স্বাধীন এমপি হেলেন হেইনস একটি গাড়ির আঘাতে গুরুতরভাবে আহত হয়েছেন, যা কর্তৃপক্ষ একটি আক্রমণ হিসেবে দেখছে। এটি ব্যাপক রাজনৈতিক নিন্দা এনেছে।"
-   }
-  },
-  {
    "id": "3wwu0k",
    "tag": "#DurgaPuja",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
     "title": "PM visits Durga Puja celebrations",
-    "text": "PM Tarique Rahman is touring three divisions during the Durga Puja holiday season, marking the festival's significance in the country."
+    "text": "PM Tarique Rahman toured three divisions to attend Durga Puja festivities, while stars share their celebrations on social media."
    },
    "bn": {
-    "title": "প্রধানমন্ত্রী পূজা উদযাপন পরিদর্শন",
-    "text": "প্রধানমন্ত্রী তারিক রহমান দুর্গা পূজা উদযাপনের সময় তিনটি বিভাগ ভ্রমণ করছেন, উৎসবের গুরুত্ব তুলে ধরতে।"
+    "title": "দুর্গাপূজায় প্রধানমন্ত্রীর সফর",
+    "text": "প্রধানমন্ত্রী তারেক রহমান তিনটি বিভাগ ভ্রমণ করে দুর্গাপূজা উদযাপন দেখেছেন, তারকারা সোশ্যাল মিডিয়ায় শেয়ার করছেন।"
+   }
+  },
+  {
+   "id": "sskpe8",
+   "tag": "#BusinessUpdate",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Bangladesh investment agencies merged",
+    "text": "The government merged multiple investment agencies into a single one-stop shop to simplify business processes."
+   },
+   "bn": {
+    "title": "বিনিয়োগ সংস্থা একীভূত হয়েছে",
+    "text": "সরকার একাধিক বিনিয়োগ সংস্থা একটি এক জায়গায় সেবায় পরিণত করেছে।"
    }
   },
   {
    "id": "1d33qd6",
-   "tag": "#DeputyMinisterQuits",
+   "tag": "#Politics",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Deputy minister resigns over video",
-    "text": "A deputy minister has quit following backlash after a video surfaced showing an armed drug raid, sparking public controversy."
+    "title": "Deputy minister resigns over drug raid",
+    "text": "A deputy minister quit after a video of armed drug raid sparked public backlash."
    },
    "bn": {
-    "title": "ভিডিও নিয়ে ডেপুটি মন্ত্রী ইস্তিফা",
-    "text": "একটি সশস্ত্র ওষুধ অভিযানের ভিডিও ভাইরাল হওয়ার পর জনরোষের কারণে একজন ডেপুটি মন্ত্রী পদত্যাগ করেছেন।"
-   }
-  },
-  {
-   "id": "1oomj9",
-   "tag": "#AmazonAI",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 2,
-   "en": {
-    "title": "Amazon launches AI chip rival",
-    "text": "Amazon has unveiled TorchNeuron, a new AI chip designed to challenge Nvidia's dominance in the artificial intelligence hardware market."
-   },
-   "bn": {
-    "title": "অ্যামাজন AI চিপ লঞ্চ করল",
-    "text": "অ্যামাজন TorchNeuron নামের নতুন AI চিপ প্রকাশ করেছে, যা এনভিডিয়ার বিরুদ্ধে প্রতিযোগিতা করবে।"
+    "title": "মন্ত্রীর পদত্যাগ, ভিডিও ভাইরাল",
+    "text": "সশস্ত্র মাদক অভিযানের ভিডিও ভাইরাল হওয়ার পর উপমন্ত্রী পদ ছেড়েছেন।"
    }
   }
  ],

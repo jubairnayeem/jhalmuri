@@ -1,6 +1,270 @@
 {
- "updatedAt": "2026-10-20T05:56:43.643Z",
+ "updatedAt": "2026-10-20T11:26:13.215Z",
  "items": [
+  {
+   "id": "dzppdr",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUHBzdU1XODdEQkV1c2ozazZBaXZjVFZSLUREdlNsVG8yaVZFUUV6QmVkVlFFNldOb0VXOEhCVGE1OE90SHh5RllQUGhvOTcwSHpGZzh5YVhRSU05R05EYUJ6X192dlk?oc=5",
+   "image": null,
+   "published": "2026-10-20T03:13:00.000Z",
+   "added": "2026-10-20T11:26:13.215Z",
+   "origTitle": "নাটোরে বাস ও ট্রাকের সংঘর্ষে নিহত ১২",
+   "en": {
+    "title": "12 killed in bus-truck collision in Natore",
+    "summary": "A collision between a bus and a truck in Natore has resulted in 12 deaths. The accident highlights continuing road safety concerns in the region."
+   },
+   "bn": {
+    "title": "নাটোরে বাস ও ট্রাকের সংঘর্ষে ১২ জন মৃত",
+    "summary": "নাটোরে একটি বাস এবং ট্রাকের সংঘর্ষে ১২ জন মৃত হয়েছেন। এ ধরনের দুর্ঘটনা রাস্তায় নিরাপত্তার ঝুঁকি আরও প্রকট করে তোলে।"
+   }
+  },
+  {
+   "id": "1twrotv",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো বিনোদন",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90Z1NJNnVEa3dFLUpmdzlkRTEzUU5oUlpTX1FKVVh1NGY0aDhiMU1tenEwMHhwQ3ZqbGFnSlZwSU1nY25JS2NVMUllNXJRWm5Nbld6STk2VDJQUl9HUVVDamU1TmF2d2fSAXRBVV95cUxQNEktX1BmYkdxQXVUcWRZSWxQZjB1R1lxRmdONWo5bkxqMTJPV0tPTWhDUnlsWFQtd3VRWGxKYzZxSzV0bUZfakRsdkVYeUhGZTdFdVhJSnJFaUVzMlFUdzdlemZaNmUtcjFWcWw5Vy1jVF9wMw?oc=5",
+   "image": null,
+   "published": "2026-10-20T04:31:58.000Z",
+   "added": "2026-10-20T11:26:13.215Z",
+   "origTitle": "মাত্র ৩৪ বছর বয়সে মারা গেলেন আলোচিত মডেল সাহারা",
+   "en": {
+    "title": "Popular model Sahara dies at 34",
+    "summary": "Bangladeshi model Sahara has passed away at the age of 34. No further details about the cause or circumstances were provided in the report."
+   },
+   "bn": {
+    "title": "আলোচিত মডেল সাহারা মাত্র ৩৪ বছর বয়সে মৃত্যুবরণ",
+    "summary": "বাংলাদেশী আলোচিত মডেল সাহারা মাত্র ৩৪ বছর বয়সে মৃত্যুবরণ করেছেন। তার মৃত্যুর কারণ বা বিস্তারিত তথ্য প্রতিবেদনে দেওয়া হয়নি।"
+   }
+  },
+  {
+   "id": "1tecy8i",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/guides/how-to-overcome-task-paralysis",
+   "image": "https://images.aeonmedia.co/images/97132dde-0fba-4546-bc3b-33b1999cee57/sz-surface-hpw43cbt1lk-unsplash.jpg?top=125&left=0&cropWidth=2416&cropHeight=1359&width=1200&quality=75&format=jpeg",
+   "published": "2026-10-20T10:00:00.000Z",
+   "added": "2026-10-20T11:26:13.215Z",
+   "origTitle": "How to overcome task paralysis",
+   "en": {
+    "title": "Understanding task paralysis and how to break free from it",
+    "summary": "Task paralysis is when you want to start something but can't, even after clearing time and distractions—different from procrastination. It happens to anyone under stress or lack of sleep, but people with ADHD face it more often due to executive function issues. Goal management training is an evidence-based approach that helps strengthen the ability to plan and execute tasks."
+   },
+   "bn": {
+    "title": "কাজ শুরু করতে না পারা: কেন এবং কীভাবে সমাধান",
+    "summary": "টাস্ক প্যারালাইসিস হলো এমন পরিস্থিতি যেখানে আপনি কিছু শুরু করতে চান কিন্তু পারেন না, যদিও সময় আছে। এটা প্রকৃতপক্ষে পিছিয়ে ফেলা নয়। যে কেউ বেশি চাপ বা ঘুমের অভাবে এর সম্মুখীন হতে পারে। এডিএইচডি থাকা মানুষদের এটা বেশি হয়। লক্ষ্য ব্যবস্থাপনা প্রশিক্ষণ এই সমস্যা সমাধানে কার্যকর।"
+   }
+  },
+  {
+   "id": "1211d64",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/23uojahbv0",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-20/75lqtjne/Pabna-Murder.jfif",
+   "published": "2026-10-20T11:22:36.000Z",
+   "added": "2026-10-20T11:26:13.215Z",
+   "origTitle": "নেশার টাকা না পেয়ে মাকে গলা কেটে হত্যার অভিযোগ, ছেলে আটক",
+   "en": {
+    "title": "Man arrested for allegedly killing mother over drug money in Pabna",
+    "summary": "A 35-year-old man has been arrested in Faridpur, Pabna, on suspicion of killing his mother after she refused to give him drug money. The victim, Suryakhatun, 55, was found with her throat cut with a sickle in Lakshmikhola village on Tuesday morning. Police recovered the weapon based on the suspect's confession."
+   },
+   "bn": {
+    "title": "নেশার টাকায় মায়ের হত্যার অভিযোগে ছেলে গ্রেফতার",
+    "summary": "পাবনার ফরিদপুরে একজন ৩৫ বছর বয়সী ব্যক্তি গ্রেফতার হয়েছেন মায়ের হত্যার অভিযোগে। তিনি নেশার টাকা না পেয়ে মঙ্গলবার সকালে লক্ষ্মীকোলা গ্রামে কাস্তে দিয়ে মাকে গলা কেটেছেন। ৫৫ বছর বয়সী মায়ের নাম সূর্য খাতুন। পুলিশ অভিযুক্তের জবানীতে হত্যাকাণ্ডে ব্যবহৃত কাস্তে উদ্ধার করেছে।"
+   }
+  },
+  {
+   "id": "38036p",
+   "section": "news",
+   "cat": "politics",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/acz7fg9j16",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-20/3i84zg2j/jdd.avif",
+   "published": "2026-10-20T10:53:48.000Z",
+   "added": "2026-10-20T11:26:13.215Z",
+   "origTitle": "Several MoUs likely to be announced during PM's visit to Japan",
+   "en": {
+    "title": "Bangladesh, Japan to sign multiple agreements during PM's visit",
+    "summary": "PM Tarique Rahman heads to Japan on October 26 for a four-day visit. Several memorandums of understanding are expected to cover trade, agriculture, fisheries, skills training, and private aviation. The delegation will include Finance Minister Amir Khasru Mahmud Chowdhury, Commerce Minister Moktadir Chowdhury, and other state ministers."
+   },
+   "bn": {
+    "title": "জাপান সফরে বাংলাদেশ-জাপানের একাধিক চুক্তি স্বাক্ষর সম্ভব",
+    "summary": "প্রধানমন্ত্রী তারিক রহমান ২৬ অক্টোবর জাপান ভিষ্যণের জন্য রওনা দিচ্ছেন। ব্যবসা, কৃষি, মৎস্য, দক্ষতা উন্নয়ন এবং ব্যক্তিগত বিমান চলাচল বিষয়ে একাধিক সমঝোতা স্মারক স্বাক্ষরিত হতে পারে। অর্থমন্ত্রী, বাণিজ্যমন্ত্রী এবং অন্যান্য রাষ্ট্রমন্ত্রী প্রতিনিধিদলে থাকবেন।"
+   }
+  },
+  {
+   "id": "14dzery",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+   "image": "https://images.aeonmedia.co/images/ebbfc9dd-2883-4780-837a-43887f0fbdb5/pessay-ar211874.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-20T10:00:00.000Z",
+   "added": "2026-10-20T11:25:54.091Z",
+   "origTitle": "How intuitions work",
+   "en": {
+    "title": "Why your gut feelings are actually rational decisions",
+    "summary": "Your instincts—like feeling a person is creepy or spotting a fraudulent email—aren't based on conscious reasoning, but they're genuinely rational. Philosophers usually dismiss intuitions as irrational, but they actually work like perception: directly presenting something as true. Understanding how intuition works helps explain why trusting your vibes often leads to smart choices, even when you can't explain why."
+   },
+   "bn": {
+    "title": "কেন আপনার গাট ফিলিং আসলে যুক্তিসঙ্গত সিদ্ধান্ত",
+    "summary": "আপনার অনুভূতি—যেমন কাউকে বিশ্বাসহীন মনে হওয়া বা জালিয়াতির ইমেইল চিনে ফেলা—সচেতন চিন্তাভাবনার উপর ভিত্তি করে নয়, কিন্তু সেগুলি সম্পূর্ণভাবে যুক্তিসঙ্গত। দর্শনবিদরা সাধারণত অন্তর্দৃষ্টিকে অযৌক্তিক বলে মনে করেন, কিন্তু এটি আসলে উপলব্ধির মতো কাজ করে: সরাসরি কিছু উপস্থাপন করে। আপনার 'ভাইবস' বিশ্বাস করা প্রায়ই স্মার্ট পছন্দ করতে সাহায্য করে।"
+   }
+  },
+  {
+   "id": "1b123x9",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
+   "published": "2026-10-20T11:00:00.000Z",
+   "added": "2026-10-20T11:25:54.091Z",
+   "origTitle": "Yelp can now call on your behalf to check wait times at a restaurant",
+   "en": {
+    "title": "Yelp now calls restaurants for you to check wait times",
+    "summary": "Yelp launched a new AI feature called Check for Me that calls restaurants on your behalf to check wait times. Users enter their party size and phone number, and the voice agent calls the restaurant, then texts back the results. Yelp also added an updated AI assistant with OpenTable integration for easy reservations and better personalization through chat history and custom reminders."
+   },
+   "bn": {
+    "title": "এলপ এআই এখন আপনার হয়ে রেস্টুরেঁয়ে কল করবে",
+    "summary": "এলপ নতুন ফিচার 'চেক ফর মি' লঞ্চ করেছে যা আপনার হয়ে রেস্তোরাঁয় কল করে অপেক্ষার সময় জানায়। ব্যবহারকারীরা তাদের পার্টি সাইজ এবং ফোন নম্বর দেন এবং এআই ভয়েস এজেন্ট রেস্তোরাঁকে ফোন করে ফলাফল পাঠায়। এলপ এলপ এআই সহায়ককে আপডেট করেছে যাতে ওপেনটেবল ইন্টিগ্রেশন এবং চ্যাট ইতিহাস সংরক্ষণের সুবিধা রয়েছে।"
+   }
+  },
+  {
+   "id": "ctzdca",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/foreign/asia/975697/%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%A8%E0%A7%8C%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80",
+   "image": null,
+   "published": "2026-10-20T11:24:55.000Z",
+   "added": "2026-10-20T11:25:54.091Z",
+   "origTitle": "যুদ্ধ জাহাজ পাঠালো যুক্তরাষ্ট্র, পাল্টা নৌবাহিনী পাঠিয়েছে চীন: এবার প্রকাশ্যে মুখোমুখি",
+   "en": {
+    "title": "US warship and Chinese navy face off in disputed waters",
+    "summary": "China's military said it deployed forces to monitor a US warship that entered disputed waters near a contested outcrop in the South China Sea on Tuesday. Taiwan reported a Chinese ship nearby in the same area. The US and China often clash over these strategic waters, with multiple countries—Brunei, Malaysia, Philippines, Taiwan, and Vietnam—also claiming rights to the region."
+   },
+   "bn": {
+    "title": "দক্ষিণ চীন সাগরে যুক্তরাষ্ট্র এবং চীনের নৌ-মুখোমুখি",
+    "summary": "মঙ্গলবার চীনের সামরিক বাহিনী জানায়, দক্ষিণ চীন সাগরের একটি বিরোধপূর্ণ এলাকায় একটি মার্কিন যুদ্ধজাহাজ অবৈধভাবে প্রবেশ করায় তারা বাহিনী পাঠিয়েছে। তাইওয়ান একই এলাকায় একটি চীনা জাহাজের উপস্থিতির কথা জানায়। এই কৌশলগত জলপথে ব্রুনেই, মালয়েশিয়া, ফিলিপাইন, তাইওয়ান এবং ভিয়েতনাম সহ একাধিক দেশের দাবি রয়েছে।"
+   }
+  },
+  {
+   "id": "175l9d5",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad731ed20ed-1792487917.jpg?resize=1200%2C675",
+   "published": "2026-10-20T11:07:55.000Z",
+   "added": "2026-10-20T11:25:54.091Z",
+   "origTitle": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+   "en": {
+    "title": "Myanmar's Suu Kyi receives parcel from King Charles III",
+    "summary": "Myanmar's detained former leader Aung San Suu Kyi received a package from King Charles III containing two books about soil and sealed diplomatic correspondence. Myanmar's military government released the first photos of her in two months, showing her meeting with home ministry officials. She remains under house arrest since the 2021 military coup, which triggered an ongoing civil war that has killed over 100,000 people."
+   },
+   "bn": {
+    "title": "কিং চার্লস তৃতীয় থেকে সু চি পেলেন প্যাকেজ",
+    "summary": "মিয়ানমারের বন্দী সাবেক নেতা অং সান সু চি কিং চার্লস তৃতীয়ের কাছ থেকে মাটি সম্পর্কিত দুটি বই এবং সিল করা কূটনৈতিক পত্র সহ একটি প্যাকেজ পেয়েছেন। মিয়ানমারের সামরিক সরকার দুই মাসের মধ্যে তার প্রথম ছবি প্রকাশ করেছে। ২০২১ সালের সামরিক অভ্যুত্থানের পর থেকে তিনি গৃহবন্দীতে রয়েছেন এবং এই অভ্যুত্থান এখন পর্যন্ত ১০০,০০০ এরও বেশি মানুষের মৃত্যু ঘটিয়েছে।"
+   }
+  },
+  {
+   "id": "jpuv9p",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-20T08:58:26.000Z",
+   "added": "2026-10-20T11:25:54.091Z",
+   "origTitle": "Suspect arrested after historic town hall set alight during disorder - French media",
+   "en": {
+    "title": "Far-left suspect arrested after 19th century town hall set ablaze",
+    "summary": "A 40-year-old suspect linked to far-left movements was arrested in France after a historic 19th-century city hall in Limoges was gutted by fire during mass disorder on Saturday. Over 120 people have been imprisoned so far. Hundreds of thousands protested against rising fuel prices, cost of living, and deteriorating public services. Curfews were introduced across Paris and other cities to control the unrest."
+   },
+   "bn": {
+    "title": "ফ্রান্সে ঐতিহাসিক টাউন হল আগুনে বিধ্বস্ত, সন্দেহভাজন গ্রেফতার",
+    "summary": "ফ্রান্সের লিমোজেসে একটি ১৯ শতকের টাউন হল শনিবার বিশাল আন্দোলনের সময় আগুনে সম্পূর্ণভাবে বিধ্বস্ত হয়েছে এবং বামপন্থী আন্দোলনের সাথে যুক্ত একজন ৪০ বছর বয়সী সন্দেহভাজনকে গ্রেফতার করা হয়েছে। এ পর্যন্ত ১২০ জনেরও বেশি মানুষ বন্দী করা হয়েছে। জ্বালানি দাম বৃদ্ধি এবং জীবনযাত্রার ব্যয় বাড়ার বিরুদ্ধে প্রতিবাদকারীরা রাস্তায় নেমেছিলেন।"
+   }
+  },
+  {
+   "id": "g4g0ay",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.co.uk/bengali/live/c6073vv8e0e9t?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/075e/live/604e3700-cc73-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-20T11:25:54.091Z",
+   "added": "2026-10-20T11:25:54.091Z",
+   "origTitle": "রিয়াদের বাসিন্দাদের ফোনে বিমান হামলার হুমকির সতর্কতা",
+   "en": {
+    "title": "Riyadh residents warned of air strikes as Houthi attacks persist",
+    "summary": "Residents in Saudi Arabia's capital Riyadh received phone warnings about air strike threats as Houthi attacks continue. Officials say no casualties or damage have been reported so far. Saudi officials also cancelled in-person attendance at a conference following the escalating violence. Meanwhile, Australian MP Helen Haynes remains hospitalised in stable condition after being hit by a car in a suspected planned attack."
+   },
+   "bn": {
+    "title": "হুথিদের হামলার মধ্যে রিয়াদের বাসিন্দারা বিমান হামলার সতর্কতা পেলেন",
+    "summary": "সৌদি আরবের রাজধানী রিয়াদের বাসিন্দারা বিমান হামলার হুমকি সম্পর্কে ফোনে সতর্কবার্তা পেয়েছেন যখন হুথিদের আক্রমণ অব্যাহত রয়েছে। এখনো কোনো হতাহত বা ক্ষয়ক্ষতির খবর পাওয়া যায়নি। অস্ট্রেলিয়ার সাংসদ হেলেন হেইনস একটি গাড়ির ধাক্কায় গুরুতরভাবে আহত হয়েছেন এবং এখন হাসপাতালে স্থিতিশীল অবস্থায় আছেন।"
+   }
+  },
+  {
+   "id": "vo0515",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1204-3-more-children-die-24hrs-1578446",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
+   "published": "2026-10-20T11:15:00.000Z",
+   "added": "2026-10-20T11:25:54.091Z",
+   "origTitle": "Measles: Death toll reaches 1,204 as 3 more children die in 24hrs",
+   "en": {
+    "title": "Measles death toll hits 1,204 as outbreak spreads",
+    "summary": "Bangladesh's measles crisis has killed 1,204 people—104 confirmed, 1,100 suspected—as of October 20. In just 24 hours, three more children died and 1,217 new suspected cases were reported. Total confirmed cases now stand at 23,199, with over 215,000 suspected cases nationwide. Nearly 185,000 of 191,761 hospitalised patients have recovered so far."
+   },
+   "bn": {
+    "title": "মাম্পস মহামারীতে সারাদেশে ১,২০৪ জনের মৃত্যু",
+    "summary": "বাংলাদেশে মাম্পসের কারণে ১,২০৪ জন মারা গেছেন—এর মধ্যে ১০৪ জন পরীক্ষিত এবং ১,১০০ জন সন্দেহভাজন। অক্টোবর ২০ পর্যন্ত মাত্র ২৪ ঘণ্টায় তিনটি শিশু প্রাণ হারিয়েছে এবং ১,২১৭টি নতুন সন্দেহভাজন কেস শনাক্ত হয়েছে। সারাদেশে মোট ২৩,১৯৯টি নিশ্চিত কেস এবং ২,১৫,০০০ এর বেশি সন্দেহভাজন কেস রয়েছে।"
+   }
+  },
   {
    "id": "8ce8pl",
    "section": "news",
@@ -3101,204 +3365,6 @@
    "bn": {
     "title": "স্কুল-কলেজের ছাদ মাপুন, সোলার প্যানেল লাগানোর জন্য",
     "summary": "শিক্ষা মন্ত্রণালয় গ্রীষ্মের আগে সব শিক্ষা প্রতিষ্ঠানে সোলার প্যানেল লাগাতে ছাদের তথ্য সংগ্রহ করছে। সরকার ছাদে সোলার থেকে ৩ হাজার থেকে ৪ হাজার মেগাওয়াট বিদ্যুৎ তৈরির লক্ষ্য রেখেছে। প্রতিষ্ঠানগুলোকে দুই কর্মদিনের মধ্যে ছাদের ব্যবহারযোগ্য এলাকা ও বিদ্যুৎ লোডের তথ্য জমা দিতে হবে। এটি নবায়নযোগ্য শক্তি বাড়ানোর একটি জাতীয় উদ্যোগ।"
-   }
-  },
-  {
-   "id": "5m29du",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/pm-orders-cleanup-azimpur-government-quarters-within-two-weeks-1575296",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/screenshot_2026-10-17_150504.png",
-   "published": "2026-10-17T09:05:00.000Z",
-   "added": "2026-10-17T09:14:19.199Z",
-   "origTitle": "PM orders cleanup of Azimpur government quarters within two weeks",
-   "en": {
-    "title": "PM orders Azimpur quarters cleaned within two weeks",
-    "summary": "Prime Minister Tarique Rahman visited the Azimpur Government Officers' Residential Quarters on October 17 and expressed strong displeasure at unhygienic conditions. He ordered authorities to complete a full cleanup within two weeks. Residents also complained about poor security and maintenance, which the PM asked officials to address."
-   },
-   "bn": {
-    "title": "আজিমপুর কোয়ার্টার দুই সপ্তাহে পরিষ্কার করার নির্দেশ",
-    "summary": "প্রধানমন্ত্রী তারিক রহমান ১৭ অক্টোবর আজিমপুর সরকারি কর্মকর্তাদের আবাসিক এলাকা পরিদর্শন করেন এবং অপরিচ্ছন্ন অবস্থায় দৃঢ় অসন্তুষ্টি প্রকাশ করেন। তিনি কর্তৃপক্ষকে দুই সপ্তাহের মধ্যে সম্পূর্ণ পরিষ্কার করার নির্দেশ দেন। বাসিন্দারা নিরাপত্তা এবং রক্ষণাবেক্ষণ সমস্যার অভিযোগ করেন, যা সমাধানে প্রধানমন্ত্রী কর্মচারীদের নির্দেশ দেন।"
-   }
-  },
-  {
-   "id": "mkd7yg",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHcyNlNIVFc3R0RPX1NTeGlnZ3F3UXhJcU1pYVZEZ0kxS2RRYzBmb3BGVGxQX3d3dHBUeFNQeHVOVl8zUGdBNkhQanFmSE0taEc3RS1HYzMtcEVsMkVEV1VjV3lMelkteEpLc0pTUExySldLNm94bFlobTc4elZROXhVSWM2Wmlmc2tiWmFzVDBCVXBJOEdnSUpwOGdqZ9IBowFBVV95cUxNd0diZmo1TDFhTnUtMGFWS3RrelBpdGdhWkI5M1BRb3MwUTh6ODdQOFVXVDZsUWNuTFdwZ2hqTDdrNnEzeUtTY01SeEFRZUhLZFV6MFRCZmgtUUg1X1JHNGVXVHhVVVR3blRjMjM0bkNGRXJmY3dQRXlMUlU0VU5rcWxlaXlwN2NkMlVxS2FrSDdNb2UzanZSWEVIUjBmSnNVZFNr?oc=5",
-   "image": null,
-   "published": "2026-10-16T18:00:00.000Z",
-   "added": "2026-10-17T09:14:19.199Z",
-   "origTitle": "More than 1,000 arrested daily as Bangladesh prisons exceed capacity",
-   "en": {
-    "title": "Over 1,000 arrested daily, prisons bursting at seams",
-    "summary": "Bangladesh's prison system is overwhelmed, with more than 1,000 people arrested every single day. The jails have far exceeded their capacity limits. This crowding raises serious concerns about detention conditions and the justice system's ability to handle the caseload."
-   },
-   "bn": {
-    "title": "দৈনিক ১০০০ জন গ্রেপ্তার, জেলখানা পূর্ণ",
-    "summary": "বাংলাদেশের জেল ব্যবস্থা সম্পূর্ণ অতিপূর্ণ হয়ে গেছে—প্রতিদিন হাজারেরও বেশি মানুষ গ্রেপ্তার হচ্ছেন। জেলগুলো তাদের ক্ষমতার চেয়ে অনেক বেশি বন্দিদের ধরে রাখছে। এটা বন্দিদের অবস্থা এবং আইনি ব্যবস্থার ক্ষমতা নিয়ে গুরুতর সমস্যা তৈরি করছে।"
-   }
-  },
-  {
-   "id": "1nb1shq",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো বিনোদন",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOVNMMUxnVld3VXVxZDQzXzgzNzdmMU5LRnpiRVR1N2FIUmsxTldncGFNQTVybWhqdHc5bUdoRWRpYjZDRU1QODZ2UEFNLXVqWU9uYy1UMVlIcWZUSVpudnFZMVZwZllLT0IzLUlR0gF7QVVfeXFMUG0yZVFtVmVWVWROSTJ3STVqTk03SGwxaFZWb2YwdmpWWWEzVmt0QzV6YUprWkRydzBVNWhHeEh5ZmNiV1RkMklIU3gwTDdacG9IZEFRQUMzNlU1Tl9mY0N6bC10V2FPbFFvS3l3c3k4TzV2bWJBLUU2SGJn?oc=5",
-   "image": null,
-   "published": "2026-10-17T04:30:00.000Z",
-   "added": "2026-10-17T09:14:19.198Z",
-   "origTitle": "সংসার চালাতে চাটনি বিক্রি করতেন মা, মেয়ে এখন ৬০ কোটি টাকার মালিক",
-   "en": {
-    "title": "From selling chutney to 600 crore taka empire",
-    "summary": "A woman built a massive business empire starting from humble beginnings—her mother used to sell chutney to support the family. Now the daughter owns assets worth 600 crore taka. It's a classic rags-to-riches story that shows how hard work and entrepreneurship can completely transform a family's fortune."
-   },
-   "bn": {
-    "title": "চাটনি বিক্রি থেকে ৬০ কোটি টাকার মালিক",
-    "summary": "একজন মহিলা ছোট থেকে শুরু করে বিশাল ব্যবসায়িক সাম্রাজ্য গড়েছেন—তার মা সংসার চালাতে চাটনি বিক্রি করতেন। এখন মেয়ে ৬০ কোটি টাকার মালিক। এটা একটা ক্লাসিক রাগস টু রিচেস স্টোরি যা দেখায় কীভাবে পরিশ্রম এবং উদ্যোগ একটা পরিবারের ভাগ্য বদলে দিতে পারে।"
-   }
-  },
-  {
-   "id": "vczste",
-   "section": "news",
-   "cat": "campus",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/education/higher-education/99k0r37loi",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-17/t5ygpe0o/5.jpg",
-   "published": "2026-10-17T08:50:36.000Z",
-   "added": "2026-10-17T09:14:06.234Z",
-   "origTitle": "ঢাকা বিশ্ববিদ্যালয়ে উইন্টার কোর্স, উন্নয়নসংক্রান্ত নানা বিষয়ে হাতে–কলমে প্রশিক্ষণ",
-   "en": {
-    "title": "DU launches winter course mixing development theory with real fieldwork",
-    "summary": "Dhaka University's Department of Development Studies and Friendship Academy are offering a month-long winter executive course called Development in Practice 2026. The course combines classroom sessions with a two-day field study in Gaibandha's char areas to give young professionals hands-on experience. Classes run only on weekends, and top international development experts will lead sessions."
-   },
-   "bn": {
-    "title": "ঢাকা বিশ্ববিদ্যালয়ের শীতকালীন কোর্সে তত্ত্ব ও প্রায়োগিক অভিজ্ঞতা",
-    "summary": "ঢাকা বিশ্ববিদ্যালয়ের উন্নয়ন অধ্যয়ন বিভাগ ও ফ্রেন্ডশিপ একাডেমি মাসব্যাপী ডেভেলপমেন্ট ইন প্র্যাকটিস ২০২৬ কোর্স চালু করছে। ক্লাসরুমের পাশাপাশি গাইবান্ধার চরাঞ্চলে দুই দিনের ফিল্ড স্টাডি রয়েছে। ক্লাস শুধু উইকএন্ডে হবে এবং আন্তর্জাতিক উন্নয়ন বিশেষজ্ঞরা শেখাবেন।"
-   }
-  },
-  {
-   "id": "1phqau",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/youth/employment/taictskqth",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-17/3jwjf1xi/UYRPDCDMKNI4BC652TSGZB7L6M.jpg",
-   "published": "2026-10-17T07:32:55.000Z",
-   "added": "2026-10-17T09:14:06.234Z",
-   "origTitle": "Canada Express Entry: Up to 100 extra points for high-wage jobs, key changes announced",
-   "en": {
-    "title": "Canada boosts Express Entry with up to 100 bonus points",
-    "summary": "Canada has announced major changes to its Express Entry pathway for Permanent Residency. High-wage job holders will get extra points: 100 points for earning double the median wage, 70 points for 1.5 times, and 50 points for 1.3 times the median. New rules take effect November 3, 2026, and the Labour Market Impact Assessment requirement is waived for high-wage jobs."
-   },
-   "bn": {
-    "title": "কানাডা এক্সপ্রেস এন্ট্রিতে ১০০ বোনাস পয়েন্ট যোগ করেছে",
-    "summary": "কানাডা স্থায়ী আবাসনের জন্য এক্সপ্রেস এন্ট্রি সিস্টেমে বড় পরিবর্তন ঘোষণা করেছে। উচ্চ বেতনের চাকরিধারীরা অতিরিক্ত পয়েন্ট পাবেন: মধ্যমা বেতনের দ্বিগুণ উপার্জনে ১০০ পয়েন্ট, ১.৫ গুণে ৭০ পয়েন্ট এবং ১.৩ গুণে ৫০ পয়েন্ট। নতুন নিয়ম ৩ নভেম্বর ২০২৬ থেকে কার্যকর হবে।"
-   }
-  },
-  {
-   "id": "6z0tq2",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792112818.jpg?resize=1920%2C1080&quality=80",
-   "published": "2026-10-17T08:40:47.000Z",
-   "added": "2026-10-17T09:14:06.234Z",
-   "origTitle": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
-   "en": {
-    "title": "Twenty-year-old Mongolian murder case in Malaysia revisited",
-    "summary": "A new investigation examines the 2006 killing of Mongolian woman Altantuya Shaariibuu by two Malaysian special forces police who used C4 explosives. The truth about why she was killed remains unclear, sparking suspicions of a political cover-up. The inquiry probes alleged trial interference, her links to a corrupt submarine deal, and claims the officers acted on orders from former Prime Minister Najib Razak, who denies involvement."
-   },
-   "bn": {
-    "title": "মালয়েশিয়ায় বিশ বছরের পুরনো মঙ্গোলিয়ান নারীর হত্যা পুনরীক্ষিত",
-    "summary": "২০০৬ সালে মঙ্গোলিয়ান নারী আলতানতুয়া শারিবুকে মালয়েশিয়ার দুজন বিশেষ বাহিনীর পুলিশ সি-৪ বিস্ফোরক দিয়ে হত্যা করে। তার মৃত্যুর কারণ আজও অস্পষ্ট এবং রাজনৈতিক ষড়যন্ত্রের সন্দেহ রয়েছে। তদন্ত ট্রায়ালে হস্তক্ষেপ, অবৈধ সাবমেরিন ডিলের সাথে তার সম্পর্ক এবং প্রাক্তন প্রধানমন্ত্রী নাজিব রাজাকের নির্দেশনায় কাজ করার দাবি পরীক্ষা করছে।"
-   }
-  },
-  {
-   "id": "32a747",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-   "published": "2026-10-17T07:41:01.000Z",
-   "added": "2026-10-17T09:14:06.234Z",
-   "origTitle": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "en": {
-    "title": "Trump halts Russian sanctions as US-Ukraine tensions spike",
-    "summary": "US President Donald Trump blocked multiple sanctions on Russia two days before they were set to take effect, citing national interest. The sanctions were passed by Congress in September but Trump's Friday executive order waived some. The move sparked criticism from US lawmakers and worsened relations with Ukraine, after the US imported Russian diesel and cut military support to Kyiv."
-   },
-   "bn": {
-    "title": "ট্রাম্প রাশিয়ার উপর মার্কিন নিষেধাজ্ঞা স্থগিত করেছেন",
-    "summary": "মার্কিন রাষ্ট্রপতি ডোনাল্ড ট্রাম্প রাশিয়ার বিরুদ্ধে অসংখ্য নিষেধাজ্ঞা স্থগিত করেছেন যা কার্যকর হওয়ার দুই দিন আগে। সেপ্টেম্বরে কংগ্রেস এই নিষেধাজ্ঞা পাস করেছিল কিন্তু ট্রাম্প শুক্রবার এক্সিকিউটিভ অর্ডারে কিছু রহিত করেন। মার্কিন আইনপ্রণেতারা সমালোচনা করছেন এবং ইউক্রেনের সাথে সম্পর্ক খারাপ হয়েছে।"
-   }
-  },
-  {
-   "id": "ke8orf",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cqrly015p1nzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f30/live/d59b5590-c9fa-11f1-bb10-89ce65f72e2c.jpg",
-   "published": "2026-10-17T07:51:52.000Z",
-   "added": "2026-10-17T09:14:06.234Z",
-   "origTitle": "কক্সবাজারে রিসোর্টে আগুনে অন্তত ১০ জনের মৃত্যু, আরো যা জানা যাচ্ছে",
-   "en": {
-    "title": "At least 10 dead in Cox's Bazar resort fire",
-    "summary": "A fire broke out at a resort and restaurant in Inani, Ukhia, Cox's Bazar on Saturday morning, killing at least 10 people. Fire Service recovered 10 bodies; one child, two women and one man have been identified so far. Six injured were taken to Cox's Bazar General Hospital. The two-storey resort is built partly of brick and partly of wood, bamboo and tin."
-   },
-   "bn": {
-    "title": "কক্সবাজারের রিসোর্টে আগুনে অন্তত ১০ জন মৃত",
-    "summary": "শনিবার সকালে উখিয়ার ইনানীতে একটি রিসোর্ট ও রেস্তোরাঁয় আগুন লাগে। ফায়ার সার্ভিস দশজনের মরদেহ উদ্ধার করেছে। এর মধ্যে একজন শিশু, দুজন নারী এবং একজন পুরুষ চিহ্নিত হয়েছে। ছয়জন আহত সদর হাসপাতালে পাঠানো হয়েছে। রিসোর্টটি কাঠ, বাঁশ ও টিন দিয়ে তৈরি ছিল।"
-   }
-  },
-  {
-   "id": "4v9pv8",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/entertainment/dhallywood/975046/%E2%80%98%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%A8%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8%E2%80%99-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%AE%E0%A6%A3%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD",
-   "image": null,
-   "published": "2026-10-17T09:09:47.000Z",
-   "added": "2026-10-17T09:14:06.234Z",
-   "origTitle": "‘আমার কাজ নষ্ট করে দিলেন’, পরীমণির ক্ষোভ",
-   "en": {
-    "title": "Deepfake videos of actresses posted by TV channel spark backlash",
-    "summary": "Machiranga Television's verified Instagram account posted five posts with distorted videos of actresses Parimonee and Mehjabin Chowdhury on Monday night. The posts stayed up until Tuesday morning. The channel later apologised with a photo card. Parimonee expressed anger, saying her work was ruined."
-   },
-   "bn": {
-    "title": "টিভি চ্যানেলের বিকৃত ভিডিও পোস্টে অভিনেত্রীর ক্ষোভ",
-    "summary": "সোমবার রাতে মাছরাঙা টেলিভিশনের ভেরিফাইড ইনস্টাগ্রাম অ্যাকাউন্টে পরীমণি ও মেহজাবীনের বিকৃত ভিডিওসহ পাঁচটি পোস্ট প্রকাশ করা হয়। মঙ্গলবার দুপুর পর্যন্ত পোস্টগুলো ছিল। এরপর চ্যানেল কতৃপক্ষ দু:খ প্রকাশ করে একটি ফটোকার্ড দেয়। পরীমণি রেগে গিয়ে বলেন, তার কাজ নষ্ট করে দিলেন।"
    }
   }
  ]
