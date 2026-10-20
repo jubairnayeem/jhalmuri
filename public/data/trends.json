@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-20T16:53:13.291Z",
+ "updatedAt": "2026-10-20T20:30:17.603Z",
  "burning": [
   {
-   "id": "pbkfes",
+   "id": "1rys5ee",
    "heat": 5,
    "why": {
-    "en": "Pakistan cricket dominates trends with Arafat Minhas' historic performance against England.",
-    "bn": "পাকিস্তানের বিপক্ষে ইংল্যান্ডের হারে আরাফাত মিনহাসের অসাধারণ পারফরম্যান্স ট্রেন্ডিং।"
+    "en": "Measles death toll at 1,204—major health crisis dominating news across multiple outlets.",
+    "bn": "হাম রোগে মৃত্যু ১,২০৪ এ পৌঁছেছে—একাধিক মাধ্যম কভার করছে, বড় স্বাস্থ্য সংকট।"
    },
    "rank": 1
   },
   {
-   "id": "dzppdr",
+   "id": "u5lmb3",
    "heat": 4,
    "why": {
-    "en": "Bus-truck collision in Natore kills 12-13 people, major accident coverage.",
-    "bn": "নাটোরে বাস-ট্রাকের সংঘর্ষে ১২-১৩ জন নিহত, বড় দুর্ঘটনা খবর।"
+    "en": "Bus-truck collision in Natore kills 13—serious transport accident covered by multiple sources.",
+    "bn": "নাটোরে বাস-ট্রাকের সংঘর্ষে ১৩ জন মৃত—একাধিক সূত্র কভার করেছে, মারাত্মক দুর্ঘটনা।"
    },
    "rank": 2
   },
   {
-   "id": "vo0515",
+   "id": "1wij9hk",
    "heat": 4,
    "why": {
-    "en": "Measles outbreak death toll reaches 1,204, serious public health crisis.",
-    "bn": "হামের প্রাদুর্ভাবে মৃত্যু ১,২০৪, গুরুতর স্বাস্থ্য সংকট।"
+    "en": "Durga Puja peaks with Maha Nabami celebration—major cultural event generating widespread coverage.",
+    "bn": "মহা নবমীতে দুর্গা পূজা শীর্ষে—বড় সাংস্কৃতিক অনুষ্ঠান, ব্যাপক কভারেজ পাচ্ছে।"
    },
    "rank": 3
   },
   {
-   "id": "jpdv49",
+   "id": "mxlifw",
    "heat": 3,
    "why": {
-    "en": "Police officer cleared after drugs found in rented house, notable legal relief story.",
-    "bn": "পুলিশ অফিসার ভাড়া বাড়িতে মাদক মিলে রিলিফ পান।"
+    "en": "School teacher found dead in Shariatpur after extortion demand—crime story with serious angle.",
+    "bn": "শরিয়তপুরে শিক্ষক মৃত পাওয়া গেছেন চাঁদাবাজির পর—গুরুতর অপরাধ সংবাদ।"
    },
    "rank": 4
   },
   {
-   "id": "38036p",
+   "id": "puf2jz",
    "heat": 3,
    "why": {
-    "en": "Bangladesh-Japan diplomatic visit draws political attention with bilateral agreements.",
-    "bn": "বাংলাদেশ-জাপান ডিপ্লোম্যাটিক ভিজিট দ্বিপক্ষীয় চুক্তি নিয়ে।"
+    "en": "Armed robbers loot 50–60 vehicles and over 100 passengers—crime wave getting attention.",
+    "bn": "সশস্ত্র ডাকাত ৫০-৬০ গাড়ি ও ১০০+ যাত্রী লুট করেছে—অপরাধ সংবাদ।"
    },
    "rank": 5
   }
@@ -50,50 +50,50 @@
  "gossip": [
   {
    "id": "pbkfes",
-   "tag": "#PakVsEng",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Arafat Minhas Destroys England",
-    "text": "Pakistan's Arafat Minhas takes 6 wickets after scoring a fifty against England, leading Pakistan to a commanding victory."
-   },
-   "bn": {
-    "title": "আরাফাত মিনহাস ইংল্যান্ডকে গুঁড়িয়ে দিলেন",
-    "text": "পাকিস্তানের আরাফাত মিনহাস ইংল্যান্ডের বিপক্ষে ৫০ স্কোর করে ৬ উইকেট নেন এবং পাকিস্তানকে বড় জয়ে নিয়ে যান।"
-   }
-  },
-  {
-   "id": "vo0515",
-   "tag": "#MeaslesOutbreak",
+   "tag": "#AFGvWI",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Measles Crisis Deepens",
-    "text": "Bangladesh faces a severe measles outbreak with death toll reaching 1,204 as cases continue spreading."
+    "title": "Afghanistan cricket big win",
+    "text": "Atal and Rashid powered Afghanistan to comprehensive victory. Cricket fans tracking Champions League and league matches across platforms."
    },
    "bn": {
-    "title": "হাম সংকট গভীর হচ্ছে",
-    "text": "বাংলাদেশে হামের প্রাদুর্ভাব ক্রমাগত ছড়াচ্ছে এবং মৃত্যু ১,২০৪ ছুঁয়েছে।"
+    "title": "আফগানিস্তানের ক্রিকেট বড় জয়",
+    "text": "আতাল এবং রশিদ আফগানিস্তানকে বড় জয়ে নিয়ে গেছেন। ক্রিকেট ফ্যানরা চ্যাম্পিয়নস লিগ ফলো করছেন।"
+   }
+  },
+  {
+   "id": "1kkjp6i",
+   "tag": "#BarçavPSG",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Barcelona-PSG delayed by Paris riots",
+    "text": "Barcelona faces delays ahead of PSG clash as Paris riots disrupt city. Champions League match caught in civil unrest."
+   },
+   "bn": {
+    "title": "বার্সেলোনা-পিএসজি দেরিতে খেলা হবে",
+    "text": "প্যারিসের দাঙ্গায় আটকে বার্সেলোনা-পিএসজির খেলা। চ্যাম্পিয়নস লিগ ম্যাচ গৃহযুদ্ধে ফেঁসেছে।"
    }
   },
   {
    "id": "8ce8pl",
-   "tag": "#DurgaPuja",
+   "tag": "#DurgaPujaTravel",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Durga Puja Tourist Boom",
-    "text": "Khagrachari sees a rush of tourists during Durga Puja holidays as people flock to the scenic district."
+    "title": "Durga Puja draws tourists to Khagrachari",
+    "text": "Holiday season brings rush to Khagrachari as Durga Puja celebrations attract visitors across regions."
    },
    "bn": {
-    "title": "দুর্গা পূজায় পর্যটক ভিড়",
-    "text": "দুর্গা পূজার ছুটিতে খাগড়াছড়িতে পর্যটকদের ভিড় বাড়ছে।"
+    "title": "দুর্গা পূজায় খাগড়াছড়িতে পর্যটক ভিড়",
+    "text": "পূজার ছুটিতে খাগড়াছড়িতে পর্যটক ভিড়। উৎসবে আকৃষ্ট হচ্ছে দেশের বিভিন্ন প্রান্তের মানুষ।"
    }
   }
  ],

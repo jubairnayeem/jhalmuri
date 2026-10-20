@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-10-20T16:52:59.653Z",
+ "updatedAt": "2026-10-20T20:30:02.306Z",
  "items": [
+  {
+   "id": "1rys5ee",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Dhaka Tribune",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2s1RXZWb0hvZ1c1MC00T1dJelg5OU5ydkZTZXdPQmtnVjNGRjUyNmlpTDdoTDRZYU9NcnN5Wm80Qmtxemk5WkhLbWwxQmwxbzgweUpEWThiZV8wQkt6MFBUZUVZSE90OVVsdlUySzdVdWl3SElfNTROZ2FOM3dxVzB4Q0k0dkZBR1BiWWdxb1gyeDVlV28zcllIOTJSOWvSAaQBQVVfeXFMTnNNTDVjYjlnNXBxX3hOdHRBQmYtamtoNVo4YnlJTHB4Z0ZBalJKbjFoMjBMbmdoYTEta014VEdBOXF5aXB1bkhQVmgyZ2JCZzdlcy1tWDBaVUs2WU1yTUMtc0VhOXRaS0lNalhtVWEyanFsNHNfQU5ycmNzbElUUkhaNThMamZVd2FHWS1DNTFLMktWUzdzMGp2SXRoMHV0OTBTUTQ?oc=5",
+   "image": null,
+   "published": "2026-10-20T10:36:38.000Z",
+   "added": "2026-10-20T20:30:02.306Z",
+   "origTitle": "Measles outbreak: Death toll reaches 1,204 as three die in 24 hours",
+   "en": {
+    "title": "Measles outbreak death toll reaches 1,204",
+    "summary": "Bangladesh is facing a severe measles outbreak with the death toll rising to 1,204. Three deaths were reported in the last 24 hours. The outbreak represents a serious public health crisis requiring immediate vaccination and medical intervention across the country."
+   },
+   "bn": {
+    "title": "হামের প্রাদুর্ভাবে মৃত্যু ১,২০৪ জন",
+    "summary": "বাংলাদেশে হামের প্রাদুর্ভাব গুরুতর আকার ধারণ করেছে, মৃত্যু ১,২০৪ জনে পৌঁছেছে। গত ২৪ ঘণ্টায় ৩ জন মারা গেছেন। এটি একটি গুরুতর জনস্বাস্থ্য সংকট যার জন্য সর্বত্র টিকাকরণ এবং চিকিৎসা জরুরি।"
+   }
+  },
+  {
+   "id": "1tvb862",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/nbr/cpa-disputes-nbr-study-11-day-cargo-clearance-time-1578866",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/855677999_1106529678899163_4914778462406529654_n.jpg",
+   "published": "2026-10-20T18:55:00.000Z",
+   "added": "2026-10-20T20:30:02.306Z",
+   "origTitle": "CPA disputes NBR study on 11-day cargo clearance time",
+   "en": {
+    "title": "Chittagong Port disputes 11-day cargo clearance study",
+    "summary": "The Chittagong Port Authority challenged an NBR Time Release Study claiming cargo takes 11 days to clear, saying the report was misleading. The CPA says port operations account for only 14% of clearance time, with customs at 8%, while delays stem from other agencies. CPA data shows containers take 5 hours to clear port premises on average. The authority says 70-80% of shipments clear within the four-day free storage period."
+   },
+   "bn": {
+    "title": "চট্টগ্রাম বন্দর ১১ দিনের কার্গো পরিষ্কারের গবেষণার বিরোধিতা করল",
+    "summary": "চট্টগ্রাম বন্দর কর্তৃপক্ষ এনবিআরের একটি গবেষণার বিরোধিতা করেছে যেখানে কার্গো পরিষ্কারে ১১ দিন সময় লাগে বলা হয়। বন্দর কর্তৃপক্ষ বলে পোর্ট অপারেশন মাত্র ১৪% এবং কাস্টমস ৮% সময় নেয়, বাকিটা অন্য সংস্থার কারণে। তাদের তথ্যে কন্টেইনার বন্দর থেকে গড়ে ৫ ঘণ্টায় পরিষ্কার হয়। ৭০-৮০% শিপমেন্ট চার দিনের ফ্রি স্টোরেজ পিরিয়ডে পরিষ্কার হয়।"
+   }
+  },
+  {
+   "id": "1ljcaco",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/india/6eju18qq5v",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-20/1g9kr90a/CJP-1.jpg",
+   "published": "2026-10-20T19:51:25.000Z",
+   "added": "2026-10-20T20:30:02.306Z",
+   "origTitle": "ভারতের আন্দোলনকে নেপাল ও বাংলাদেশে সরকার পরিবর্তনের আন্দোলনের সঙ্গে তুলনা করা যাবে না, বললেন অভিজিৎ দিপকে",
+   "en": {
+    "title": "India's youth movement not like Nepal, Bangladesh transitions: CPA leader",
+    "summary": "Cockroach Jana Party leader Abhijit Dipke says India's recent youth-led protests cannot be compared to government changes in Nepal and Bangladesh. He argues the detained party members—Sourav Das and Ashutosh Ranker—pursued non-violent methods inspired by Gandhi's satyagraha, not violent overthrow. Dipke stressed their peaceful approach even while imprisoned, contrasting India's movement with external examples."
+   },
+   "bn": {
+    "title": "ভারতের আন্দোলন নেপাল-বাংলাদেশের সাথে তুলনা করা যায় না",
+    "summary": "কক্করোচ জনতা পার্টির নেতা অভিজিৎ দিপকে বলেছেন ভারতের তরুণদের আন্দোলনকে নেপাল ও বাংলাদেশের সরকার পরিবর্তনের সাথে তুলনা করা যায় না। তিনি দাবি করেন বন্দী নেতা সৌরভ দাস ও আশুতোষ রাঙ্করের অহিংস পদ্ধতি গান্ধীর সত্যাগ্রহ আন্দোলনের মতো। দিপকে তাদের শান্তিপূর্ণ আচরণ এবং কারাগারেও হাসিমুখে থাকার কথা তুলে ধরেন।"
+   }
+  },
+  {
+   "id": "1wij9hk",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/k43p074sxi",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-20/4uwwdiom/d.webp",
+   "published": "2026-10-20T16:57:29.000Z",
+   "added": "2026-10-20T20:30:02.306Z",
+   "origTitle": "Durga Puja: Maha Nabami celebrated, Bijaya Dashami tomorrow",
+   "en": {
+    "title": "Durga Puja peaks: Maha Nabami celebrated, Bisarjan tomorrow",
+    "summary": "Maha Nabami, the ninth day of Durga Puja, was celebrated across Bangladesh with traditional rituals, animal sacrifices, and prayers. Tomorrow is Bijaya Dashami, when devotees will immerse goddess idols in rivers and ponds. This year 33,851 puja mandaps were set up nationwide, up 1,500 from last year. Major celebrations are happening in Dhaka at Kamal Ataturk Park and other grounds."
+   },
+   "bn": {
+    "title": "মহা নবমী পালিত, আগামীকাল বিজয়া দশমী",
+    "summary": "দুর্গা পূজার মহা নবমী সারাদেশে পালিত হয়েছে ঐতিহ্যবাহী পূজা, পশুবলি এবং প্রার্থনার মাধ্যমে। আগামীকাল বিজয়া দশমী, যেদিন ভক্তরা দেবীর মূর্তি নদী ও পুকুরে বিসর্জন দেবেন। এ বছর সারাদেশে ৩৩,৮৫১টি পূজা মণ্ডপ স্থাপন করা হয়েছে, যা গত বছরের চেয়ে ১,৫০০টি বেশি। ঢাকায় কামাল আতাতুর্ক পার্ক এবং অন্যান্য স্থানে বড় আয়োজন চলছে।"
+   }
+  },
+  {
+   "id": "13moba",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/aoc-tidies-up-in-case-federal-agents-stop-by-for-raid/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/AOC_Tidies_NIB_G_GR.jpg",
+   "published": "2026-10-20T17:14:14.000Z",
+   "added": "2026-10-20T20:29:42.461Z",
+   "origTitle": "AOC Tidies Up In Case Federal Agents Stop By For Raid",
+   "en": {
+    "title": "AOC tidies apartment in case FBI raids, reports satirical outlet",
+    "summary": "This is satire. The Onion joked that Rep. Alexandria Ocasio-Cortez was frantically cleaning her apartment ahead of a potential federal raid. The article parodied over-the-top politeness and anxiety about unexpected government inspections."
+   },
+   "bn": {
+    "title": "এওসি এফবিআই রেইডের জন্য অ্যাপার্টমেন্ট পরিষ্কার করছেন—এটি শুধু রসালাপ",
+    "summary": "এটি পরিহাসমূলক গল্প। দ্য অনিয়ন ম্যাগাজিন মজা করে বলেছে রেপ্রেজেন্টেটিভ এওসি তার অ্যাপার্টমেন্ট পরিষ্কার করছেন সম্ভাব্য ফেডারেল রেইডের আগে। এটি সরকারি অনুসন্ধানের আগে অপ্রয়োজনীয় শিষ্টাচারের মজা ওড়া ছিল।"
+   }
+  },
+  {
+   "id": "8wnq1m",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
+   "published": "2026-10-20T20:00:00.000Z",
+   "added": "2026-10-20T20:29:42.461Z",
+   "origTitle": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+   "en": {
+    "title": "Google's Gemini AI in cars now learns your habits and preferences",
+    "summary": "Google is adding a personalized Gemini feature to millions of cars via Android Auto and Google Built-in vehicles. The AI taps into your Gmail, Calendar, Maps, YouTube, and search history to understand your routines. Drivers must opt in, but the feature can alert you about flight delays or predict what you need."
+   },
+   "bn": {
+    "title": "গাড়িতে গুগলের জেমিনি এআই এখন আপনার অভ্যাস শিখবে",
+    "summary": "গুগল জেমিনি এআইকে গাড়িতে আরও ব্যক্তিগত করে তুলছে যা আপনার জিমেইল, ক্যালেন্ডার এবং ম্যাপস ডেটা ব্যবহার করবে। এটি আপনার প্রিফারেন্স বুঝে আপনাকে সাহায্য করতে পারবে, যেমন ফ্লাইট ডিলে জানানো। অ্যান্ড্রয়েড অটোতে এখন থেকে চালু হবে, বাকি গাড়িতে পরে আসবে।"
+   }
+  },
+  {
+   "id": "i67n89",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad7a7dd430d-1792518109.jpg?resize=1920%2C1440",
+   "published": "2026-10-20T20:05:39.000Z",
+   "added": "2026-10-20T20:29:42.461Z",
+   "origTitle": "EU revises Arctic strategy as pressure from Russia, US grows",
+   "en": {
+    "title": "EU unveils new Arctic strategy as Russia and US tensions rise",
+    "summary": "The European Commission released an updated Arctic strategy prioritizing security alongside climate change and economic growth. It plans a maritime security hub to monitor activity and expand icebreaker capacity. The EU is also building infrastructure to reduce dependence on US tech, including a fibre-optic cable to Greenland."
+   },
+   "bn": {
+    "title": "আর্কটিক নিয়ে নতুন কৌশল প্রকাশ করল ইউরোপীয় ইউনিয়ন",
+    "summary": "ইউরোপীয় কমিশন আর্কটিক অঞ্চলে নতুন কৌশল ঘোষণা করেছে যেখানে নিরাপত্তা প্রথম অগ্রাধিকার। এটি সামুদ্রিক তথ্য ভাগাভাগির জন্য একটি নতুন হাব তৈরি করবে এবং আইসব্রেকার সংখ্যা বাড়াবে। ইইউ গ্রীনল্যান্ডে ফাইবার অপটিক্যাল ক্যাবল স্থাপনের মাধ্যমে আমেরিকার উপর নির্ভরতা কমাতে চায়।"
+   }
+  },
+  {
+   "id": "u4wo88",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-20T20:01:04.000Z",
+   "added": "2026-10-20T20:29:42.461Z",
+   "origTitle": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+   "en": {
+    "title": "Zelensky says US intel sharing works again after talks with Trump envoy",
+    "summary": "Ukraine's President Zelensky said US intelligence sharing on Russian missile attacks is working after meeting Trump's envoy Steve Witkoff in Oslo. Finland's president said genuine progress was made on peace proposals, though details were not revealed. The meeting followed accusations that Washington had been withholding key intelligence."
+   },
+   "bn": {
+    "title": "ট্রাম্পের দূতের সাথে দেখা করে জেলেনস্কি বলেন, যুক্তরাষ্ট্রের বুদ্ধিমত্তা শেয়ারিং কাজ করছে",
+    "summary": "ইউক্রেনের রাষ্ট্রপতি জেলেনস্কি অসলোতে ট্রাম্পের বিশেষ দূত স্টিভ উইটকফের সাথে দেখা করে বলেছেন যুক্তরাষ্ট্র থেকে বুদ্ধিমত্তা শেয়ারিং এখন কাজ করছে। ফিনল্যান্ডের রাষ্ট্রপতি বলেছেন শান্তি প্রস্তাব নিয়ে আসল অগ্রগতি হয়েছে। কিয়েভ আগে অভিযোগ করেছিল যুক্তরাষ্ট্র গুরুত্বপূর্ণ তথ্য লুকিয়ে রেখেছে।"
+   }
+  },
+  {
+   "id": "1258mhu",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+   "image": "https://i.guim.co.uk/img/media/e3cc6bc2df625d8764ff2c26a21f332c70f8c113/447_0_4469_3577/master/4469.jpg?width=140&quality=85&auto=format&fit=max&s=9a270fba2605bd139c530a307d72bcbe",
+   "published": "2026-10-20T19:18:03.000Z",
+   "added": "2026-10-20T20:29:42.461Z",
+   "origTitle": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+   "en": {
+    "title": "Guinea-Bissau police raid offices of vaccine researchers praised by RFK Jr",
+    "summary": "Judicial police in Guinea-Bissau raided the offices of controversial vaccine researchers whom RFK Jr, now US HHS secretary, has praised. They seized hepatitis B vaccine doses related to a $3.2 million trial studying African newborns. Police said the seizure did not indicate irregularities in vaccine quality or safety."
+   },
+   "bn": {
+    "title": "গিনি-বিসাউতে পুলিশ অভিযান, ভ্যাকসিন গবেষকদের অফিস তল্লাশি",
+    "summary": "গিনি-বিসাউতে পুলিশ ভ্যাকসিন গবেষকদের অফিসে অভিযান চালিয়ে হেপাটাইটিস বি ভ্যাকসিন জব্দ করেছে। এই গবেষকরা আমেরিকার স্বাস্থ্য বিভাগের সচিব আরএফকে জুনিয়রের প্রশংসিত। গবেষণা প্রকল্পে ৩.২ মিলিয়ন ডলার বিনিয়োগ হয়েছে আফ্রিকান শিশুদের উপর পরীক্ষার জন্য।"
+   }
+  },
+  {
+   "id": "mxlifw",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/975783/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%9B%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87",
+   "image": null,
+   "published": "2026-10-20T20:28:09.000Z",
+   "added": "2026-10-20T20:29:42.461Z",
+   "origTitle": "শিক্ষকের রক্তাক্ত ছবি পাঠিয়ে টাকা দাবি, পারে আবাসিক হোটেল থেকে লাশ উদ্ধার",
+   "en": {
+    "title": "School teacher found dead in Shariatpur hotel after extortion demand",
+    "summary": "A schoolteacher named Abul Bashar was found dead in a residential hotel in Bhedarganj, Shariatpur on Tuesday afternoon. His family says he was abducted and the kidnappers demanded money before the killing. The hotel manager Mamun is absconding."
+   },
+   "bn": {
+    "title": "শরীয়তপুরে শিক্ষক খুন, আগে টাকা দাবি করা হয়েছিল",
+    "summary": "শরীয়তপুরের ভেদরগঞ্জ উপজেলায় একটি আবাসিক হোটেল থেকে স্কুল শিক্ষক আবুল বাশারের লাশ উদ্ধার করা হয়েছে মঙ্গলবার দুপুরে। তার পরিবার জানিয়েছে, অপহরণের পর তাকে হত্যা করা হয় এবং টাকা দাবি করা হয়েছিল। হোটেলের ম্যানেজার মামুন এখন পলাতক।"
+   }
+  },
   {
    "id": "kve9py",
    "section": "bhabna",
@@ -3123,292 +3343,6 @@
    "bn": {
     "title": "ফ্রান্সে জীবনযাত্রার ব্যয় নিয়ে বিক্ষোভ, ১২০০ জন গ্রেপ্তার",
     "summary": "শনিবার ফ্রান্সে শিক্ষা মান এবং জীবনযাত্রার খরচের বিরুদ্ধে ৫৫ লক্ষেরও বেশি মানুষ প্রতিবাদ করেছে। কমপক্ষে ১২০০ জন গ্রেপ্তার হয়েছে যখন ভবন পুড়েছে এবং দোকান লুট হয়েছে। পুলিশ অশ্রুগ্যাস এবং ওয়াটার ক্যানন ব্যবহার করেছে। ৬০ জন আইন প্রয়োগকারী আহত হয়েছেন।"
-   }
-  },
-  {
-   "id": "1xnycmw",
-   "section": "hasi",
-   "cat": "politics",
-   "tone": "light",
-   "satire": true,
-   "src": "eArki",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxQcnhoQWhudjlnWl93bjJwd3dsRFlBT3dHSFlpaGhHVjRYSXdjTzk0U05ILVAwUnRWLTkwRlU3VjJrZ2FKZTlrc0VWZVlDc1AxeFNkSGVqMGs4WnlKOFBuRDhVOEtPTmtIaDBQU0tIYzVkdGUyZHpvRmtHNExMTXhjOWtuUi05YXFHUzQzRDdoUEh4SGNLbXB3aFJ6Z3Y0SzJ1d08xMUlNcEx4Q0g5ZmF3cy1aWklJRGhCcllIaVUwekFsV19OSjFfYlNHMDBMM0ljRzFqWFJpeVVpMWg3TDJERGlhamQ1Q09GMURodzRJbElRT1llNGpHWVhnMVJIM1lGd01jODBSVUhmOTZ3alFEMTh1YzVYbkJFM1BaaGY3YnN3YlNrX29sUnVld1hzSjl6dEtqRXl0MlR3cGYwMUJGLW85V3NrSDlhX2tsZDdqZ2xJZGRaWGpWYW1CdzZzbVZ0ZEszblRTRk0xcTZmdVhvdDZhM1YtemFZWk5aaHoxNE1aQ1dLaWI0cENnRmlfcktTQnRBRzFUYVdEUVg5M21Xck1wUTJRTWswbVJocUVBR0d6RGlFQnhyenJqV0x2UHN6V3plRGVnQVFnRVdjZnRvWWNxN2ZuV1Y2aFVLbWZYWUlySnkweEFERWFUdVI3NE9VWGttX1UwSHFMeXZZakNIVFF1b0pQQmo3eVd5amNNcndiTTd0dF9OOUpBUE9nUmRZNXFTZ1IydXp4S1d1SmRrNlhlV0dPb2l2U2xzcFhMVG5VQUJM?oc=5",
-   "image": null,
-   "published": "2026-10-17T06:34:18.000Z",
-   "added": "2026-10-17T19:17:41.592Z",
-   "origTitle": "অপরাধীদের অভয়ারণ্য হিসেবে বাংলাদেশের নাম ঘোষণা ইউনেস্কোর। অপরাধীরা ধন্যবাদ দিল সালাউদ্দিন আহমেদকে",
-   "en": {
-    "title": "This is satire: UNESCO supposedly labels Bangladesh crime sanctuary",
-    "summary": "This is a joke article. It satirically claims UNESCO has declared Bangladesh a sanctuary for criminals and that they thanked politician Salauddin Ahmed. It's not real—just poking fun at current events."
-   },
-   "bn": {
-    "title": "এটা হাসি-ঠাট্টা: ইউনেস্কো বাংলাদেশকে অপরাধী আশ্রয়কেন্দ্র ঘোষণা করেছে (সত্যি নয়)",
-    "summary": "এটা একটা মজার নিবন্ধ। এটা ঠাট্টা করে দাবি করছে যে ইউনেস্কো বাংলাদেশকে অপরাধীদের আশ্রয়কেন্দ্র ঘোষণা করেছে এবং তারা রাজনেতা সালাউদ্দিন আহমেদকে ধন্যবাদ জানিয়েছে। এটা সত্যি নয়—শুধু বর্তমান ঘটনাবলী নিয়ে মজা করা।"
-   }
-  },
-  {
-   "id": "1ez2dpq",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "সমকাল",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxPZXFlWEVPam5SQkdHUk5COGVGWXhydTV3Z3lELUluS1RLMDJUbWlWamdXMlVuTFZYVWtJUnI3NTV0bWR1cTNtOWVTTUs1TUZ1YUFBc0l0YmxQR25tWm5tU2x0UVlOOEVUQ2RSYjkwdGFTQUR6cVc2MmVlWFprYV9nV1ZqYVI2X1lsUkY1M0hXdnpMOU9YZk5JQVc3Zm9mZDk5UFlaTkFNa3Q1X2g5eXFrUEI3blF5TEJXSU1PS1dIWlkwU2Y1ZEV6Ml9CU3U2QjlGOXVlR0JsLXVIQWxRY1NkQmwxUzc3ODBIOFdCQUVVbnB6SHJha3RLVjZsNjZOZ180UUVZbzFmbFRHcXNfWW9JN2w3MXFqYlBaTkhlYkNtMXg5SDU1ZkRBM0V3cDBEUV9kcEp5UHd0VHVZS21sZ3RkblhPNDhjUEc3WFRrS1YxODZrNmlBa05JNVctYnBJQnNXSDVTSUZad0d4MjN5VVQ2c200NHJPWHAwa0lQQlV3cG9QTElmZjlaUHlvLUhrVXppR3lUS3dFT3AyekFNUllsYmI0S3pObFBiR053SVZfcWZ1V3Q2M3Z2bFpsZERjZ3JWNFkxWTBsLVpaRFJoaWRWT0FlQm9vZWUzeDBLS2VuZ3IyOU1JTE4wdHlHTUV2ZnFBcm1SdlhuMmdCYTR0RHhiNzVQVlYzSE43QTlFTllTV25rUFpBX3NkWGdtemEtWFdaZkdwZ2FRdXZnS3NBVm5xQWg1MEVWakM3SlFUNXpDOUNwWmtQQURfbUt0OS1wckFLSlpiMkJQZ1ZpOVotcWtSLU50T3RCMTFEaWF1d1FJclNXWUxSV09iamt4UkhEX2wwTU5id2lqMmUybi1SZXN4YWFvSQ?oc=5",
-   "image": null,
-   "published": "2026-10-17T10:42:29.000Z",
-   "added": "2026-10-17T19:17:41.592Z",
-   "origTitle": "গাছ থেকে সুপারি পাড়ায় ছোট ভাইয়ের লাঠির আঘাতে বড় ভাই নিহত",
-   "en": {
-    "title": "Man dies after being struck by brother while collecting betel nut",
-    "summary": "An older brother died after his younger brother hit him with a stick while the older man was picking betel nuts from a tree. The incident happened in what police are investigating as a tragic accident or dispute between the two."
-   },
-   "bn": {
-    "title": "সুপারি পাড়ার সময় ছোট ভাইয়ের লাঠির আঘাতে বড় ভাই মারা গেছেন",
-    "summary": "একজন বড় ভাই মারা গেছেন যখন তার ছোট ভাই তাকে গাছ থেকে সুপারি পাড়ার সময় লাঠি দিয়ে আঘাত করে। এই ঘটনা দুই ভাইয়ের মধ্যে একটি মারাত্মক দুর্ঘটনা বা বিরোধ হিসেবে পুলিশ তদন্ত করছে।"
-   }
-  },
-  {
-   "id": "1g6gz1z",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558835.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/402000/402061.jpg",
-   "published": "2026-10-17T18:31:06.000Z",
-   "added": "2026-10-17T19:17:41.592Z",
-   "origTitle": "Rabada's back to bolster South Africa as Australia chase series win",
-   "en": {
-    "title": "Rabada's fitness a big boost for South Africa",
-    "summary": "South Africa got good news: their top fast bowler Rabada is fit and ready to go. Australia are hunting a series win, but both teams are still waiting to see what the playing conditions and weather will do. The uncertainty means XIs won't be named until the last minute."
-   },
-   "bn": {
-    "title": "দক্ষিণ আফ্রিকার জন্য ভালো খবর: রাবাদা খেলতে প্রস্তুত",
-    "summary": "দক্ষিণ আফ্রিকা স্বস্তির খবর পেয়েছে—তাদের প্রধান দ্রুত বোলার রাবাদা ফিট এবং প্রস্তুত। অস্ট্রেলিয়া সিরিজ জেতার চেষ্টা করছে, কিন্তু আবহাওয়া এবং মাঠের অবস্থা কী হবে তা নিয়ে অনিশ্চয়তা আছে। এই অনিশ্চয়তার কারণে দুই দলই শেষ মুহূর্তে দল ঘোষণা করবে।"
-   }
-  },
-  {
-   "id": "1qiwmxe",
-   "section": "hasi",
-   "cat": "world",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/what-to-know-about-trumps-russia-diesel-deal/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/EXP_Trumps_Russian_Diesel_Deal_G_PH.jpg",
-   "published": "2026-10-17T18:49:31.000Z",
-   "added": "2026-10-17T19:17:29.399Z",
-   "origTitle": "What To Know About Trump’s Russia Diesel Deal",
-   "en": {
-    "title": "The Onion on Trump's Russia diesel deal (satire)",
-    "summary": "This is satire from The Onion. It jokes that Trump agreed to lift sanctions on Russian diesel to lower gas prices for midterm elections. The piece humorously suggests Trump thought farmers drink diesel and claims money will flow back as campaign donations. This is not real reporting."
-   },
-   "bn": {
-    "title": "দ্য অনিয়ন: ট্রাম্পের রাশিয়া ডিজেল চুক্তি (ব্যঙ্গ)",
-    "summary": "এটি দ্য অনিয়ন ম্যাগাজিনের ব্যঙ্গাত্মক কন্টেন্ট। এতে হাসিতামাশা করে বলা হয় ট্রাম্প মিডটার্ম নির্বাচনে গ্যাসের দাম কমাতে রাশিয়ার উপর প্রতিবন্ধকতা তুলেছেন। নকল সংবাদ নয়, কেবল পরিহাস।"
-   }
-  },
-  {
-   "id": "1nmmdbw",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/albanian-police-fire-rubber-bullets-student-protests-rage-1575976",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/fire.png",
-   "published": "2026-10-17T19:05:00.000Z",
-   "added": "2026-10-17T19:17:29.399Z",
-   "origTitle": "Albanian police fire rubber bullets as student protests rage",
-   "en": {
-    "title": "Albanian police use rubber bullets on student protesters",
-    "summary": "Albanian police fired rubber bullets at student protesters on October 17, the fifth day of mass demonstrations demanding PM Edi Rama resign. Reuters footage showed police firing shotguns at crowds, injuring two journalists and several protesters. Police chief Skender Hita confirmed rubber bullets were used and suspended seven officers for exceeding authority. Protests stem from anger over corruption, joblessness, and education failures."
-   },
-   "bn": {
-    "title": "আলবেনিয়ায় পুলিশের রাবার বুলেট, ছাত্রদের প্রতিবাদ অব্যাহত",
-    "summary": "অক্টোবর ১৭ তারিখে আলবেনিয়ার পুলিশ প্রতিবাদকারী ছাত্রদের লক্ষ্যে রাবার বুলেট ছুড়েছে। এটি প্রধানমন্ত্রী এদি রামার পদত্যাগের দাবিতে পাঁচদিনের প্রতিবাদের অংশ। পুলিশ প্রধান স্কেন্ডার হিতা স্বীকার করেছেন যে রাবার বুলেট ব্যবহার করা হয়েছে এবং সাতজন অফিসারকে স্থগিত করা হয়েছে। প্রতিবাদ দুর্নীতি, বেকারত্ব এবং শিক্ষার মানের কারণে হয়েছে।"
-   }
-  },
-  {
-   "id": "1ofd0q0",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792263811.jpg?resize=1920%2C1080&quality=80",
-   "published": "2026-10-17T19:04:00.000Z",
-   "added": "2026-10-17T19:17:29.399Z",
-   "origTitle": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-   "en": {
-    "title": "Kyiv residents protest Mayor Klitschko over winter preparations",
-    "summary": "Hundreds of protesters gathered outside Kyiv Mayor Vitali Klitschko's office demanding his resignation. They blame his failure to prepare the city for winter as Russian strikes have left millions without power across Ukraine. The rallies highlight growing frustration over energy infrastructure vulnerability."
-   },
-   "bn": {
-    "title": "কিয়েভে মেয়র ক্লিৎশকোর পদত্যাগের দাবিতে প্রতিবাদ",
-    "summary": "কিয়েভের মেয়র ভিটালি ক্লিৎশকোর পদত্যাগের দাবিতে শত শত বিক্ষোভকারী তার অফিসের বাইরে সমবেত হয়েছেন। শীত মৌসুমের জন্য প্রস্তুতি ব্যর্থতার জন্য তারা তাকে দায়ী করছেন। রাশিয়ার হামলায় দেশজুড়ে লক্ষ লক্ষ মানুষ বিদ্যুৎহীন অবস্থায় রয়েছেন।"
-   }
-  },
-  {
-   "id": "osm03q",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/politics/other-politics/975186/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%89%E0%A6%AA%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%AA%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%A6",
-   "image": null,
-   "published": "2026-10-17T18:50:21.000Z",
-   "added": "2026-10-17T19:17:29.399Z",
-   "origTitle": "দুর্গাপূজা উপলক্ষে রাজধানীর বিভিন্ন মণ্ডপে জাসদ নেতাদের শুভেচ্ছা বিনিময়",
-   "en": {
-    "title": "JASSAD leaders visit Durga Puja pandals across Dhaka",
-    "summary": "Leaders from the Jassad party visited different Durga Puja pandals in Dhaka on Saturday to exchange greetings with worshippers. Co-chairman Shafi Uddin Molla and joint secretary Shawkat Rayhan visited Dhakeshwari Temple's puja site. The visits were part of the party's engagement during Sharadi Durga Puja celebrations."
-   },
-   "bn": {
-    "title": "ঢাকার বিভিন্ন দুর্গাপূজা মণ্ডপে জাসদ নেতাদের শুভেচ্ছা",
-    "summary": "শনিবার ঢাকার বিভিন্ন দুর্গাপূজা মণ্ডপ পরিদর্শন করেছেন জাসদ নেতারা। ঢাকেশ্বরী মন্দিরের পূজা মণ্ডপে জাসদ সহ-সভাপতি শফি উদ্দিন মোল্লা এবং যুগ্ম সাধারণ সম্পাদক শওকত রায়হান শুভেচ্ছা বক্তব্য রেখেছেন। শরৎকালীন দুর্গাপূজা উপলক্ষে এই পরিদর্শন অনুষ্ঠিত হয়।"
-   }
-  },
-  {
-   "id": "bqc1vy",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558881.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/422500/422558.jpg",
-   "published": "2026-10-17T16:04:29.000Z",
-   "added": "2026-10-17T17:03:36.956Z",
-   "origTitle": "Taylor and Ervine lift Zimbabwe to 271 after top-order collapse",
-   "en": {
-    "title": "Taylor and Ervine rescue Zimbabwe with 150-run stand",
-    "summary": "Zimbabwe nearly collapsed at the top but Taylor and Ervine steadied the ship with a 150-run partnership. Taskin Ahmed took three early wickets to put Bangladesh on top. The pair lifted Zimbabwe to 271, turning the match back in their favour after a shaky start."
-   },
-   "bn": {
-    "title": "টেইলর আর এরভিনের ১৫০ রানের পার্টনারশিপে জিম্বাবোয়ে বাঁচল",
-    "summary": "জিম্বাবোয়ের ব্যাটিং লাইনআপ শুরুতেই ধুলোয় পড়েছিল। তাসকিন আহমেদ আগাম তিনটা উইকেট নিয়ে বাংলাদেশকে এগিয়ে রেখেছিলেন। কিন্তু টেইলর আর এরভিন ১৫০ রান যোগ করে জিম্বাবোয়েকে ২৭১ এ নিয়ে আসে এবং ম্যাচ ফিরিয়ে আনে।"
-   }
-  },
-  {
-   "id": "w58nen",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/cricket/6vyj1m8i15",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-17/xtik0spt/WhatsApp-Image-2026-10-17-at-9.20.13-PM.jpeg",
-   "published": "2026-10-17T10:43:47.000Z",
-   "added": "2026-10-17T17:03:31.594Z",
-   "origTitle": "জীবন পাওয়ার পরের বলেই আউট হয়ে গেলেন তানজিদ",
-   "en": {
-    "title": "Tanzid caught out after surviving close lbw appeal",
-    "summary": "Bangladesh batter Tanzid Hasan was caught off the next delivery after getting a lucky escape from an lbw appeal. He had already shaved a boundary earlier in the over. Zimbabwe scored 271 batting first, and Bangladesh's chase got off to a reasonable start before losing early wickets including Tanzid and Soumya Sarkar."
-   },
-   "bn": {
-    "title": "এলবিডব্লু বাঁচার পরই তানজিদ ধরা পড়েন",
-    "summary": "বাংলাদেশী ব্যাটার তানজিদ হাসান একটি কাছাকাছি এলবিডব্লু আবেদন থেকে বাঁচার পরের বলেই ক্যাচ হয়ে গেছেন। ওভারের শুরুতে ইতিমধ্যে ক্যাচ মিস পেয়েছিলেন। জিম্বাবুয়ে ব্যাটিং প্রথম করে ২৭১ রান করে এবং বাংলাদেশ ভালো শুরু করলেও তানজিদ ও সৌম্য সহ তাড়াতাড়ি উইকেট হারায়।"
-   }
-  },
-  {
-   "id": "hzy72o",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/jr9y66iu2c",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-17/r3w3zi24/prothomalo-bangla2026-10-176lrn34jgWhatsApp-Image-2026-10-17-at-20.37.58.avif",
-   "published": "2026-10-17T16:27:10.000Z",
-   "added": "2026-10-17T17:03:31.593Z",
-   "origTitle": "State Minister Ishraque joins anti-drug drive with firearm, faces questions over its use",
-   "en": {
-    "title": "State Minister Ishraque wields firearm in anti-drug operation",
-    "summary": "Liberation War Affairs State Minister Ishraque Hossain brandished a firearm during an anti-drug raid Saturday in Gendaria, Dhaka. The video, posted on his Facebook, showed armed bodyguards apprehending suspects near railway tracks. Police confirmed the operation and arrests, but the state minister's use of a firearm raised questions."
-   },
-   "bn": {
-    "title": "মাদক অভিযানে স্টেট মিনিস্টার ইশরাক আগ্নেয়াস্ত্র ব্যবহার করেন",
-    "summary": "মুক্তিযুদ্ধ বিষয়ক স্টেট মিনিস্টার ইশরাক হোসেন শনিবার ঢাকার গেন্ডারিয়ায় একটি মাদক অভিযানে আগ্নেয়াস্ত্র বহন করেছিলেন। তার ফেসবুকে পোস্ট করা ভিডিওতে সশস্ত্র বডিগার্ড রেলপথের কাছে সন্দেহভাজনদের গ্রেফতার করতে দেখা যায়। পুলিশ অভিযান এবং গ্রেফতার নিশ্চিত করেছে, তবে মিনিস্টারের অস্ত্র ব্যবহার প্রশ্ন তুলেছে।"
-   }
-  },
-  {
-   "id": "7qc3r0",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/stocks/bsec-fines-cbc-capital-led-syndicate-tk3592-lakh-lovello-share-manipulation-1575891",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
-   "published": "2026-10-17T16:00:00.000Z",
-   "added": "2026-10-17T17:03:31.593Z",
-   "origTitle": "BSEC fines CBC Capital-led syndicate Tk35.92 lakh for Lovello share manipulation",
-   "en": {
-    "title": "BSEC fines CBC Capital and others 35.92 lakh for stock manipulation",
-    "summary": "Bangladesh Securities and Exchange Commission penalized CBC Capital merchant bank, a corporate fund, and three individuals a total of Tk35.92 lakh for manipulating Lovello Ice-Cream shares between May and June 2025. The group executed 13 matched trades involving 967,125 shares to artificially inflate volume and price, generating Tk2.24 crore in gains."
-   },
-   "bn": {
-    "title": "শেয়ার ম্যানিপুলেশনে সিবিসি ক্যাপিটাল ও অন্যদের ৩৫.৯২ লাখ জরিমানা",
-    "summary": "বাংলাদেশ সিকিউরিটিজ এন্ড এক্সচেঞ্জ কমিশন সিবিসি ক্যাপিটাল মার্চেন্ট ব্যাংক, একটি কর্পোরেট ফান্ড এবং তিনজন ব্যক্তিকে মোট ৩৫.৯২ লাখ টাকা জরিমানা দিয়েছে লভেলো আইসক্রিম শেয়ার ম্যানিপুলেশনের জন্য। এই গ্রুপ ২০২৫ সালের মে-জুনে ৯৬৭,১২৫ শেয়ার নিয়ে ১৩টি ম্যাচড ট্রেড করে মূল্য বৃদ্ধি করেছিল এবং ২.২৪ কোটি টাকা লাভ করেছিল।"
-   }
-  },
-  {
-   "id": "mor5g5",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/ck5yn9lrz597o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2d8/live/be92ed50-ca3a-11f1-9ab2-b325ce61f9d2.jpg",
-   "published": "2026-10-17T15:10:05.000Z",
-   "added": "2026-10-17T17:03:31.593Z",
-   "origTitle": "তিন বান্ধবীর দুইজন হাঁটতে গিয়েছিলেন, আরেকজন ফিরলেন লাশ হয়ে",
-   "en": {
-    "title": "Resort fire in Cox's Bazar kills 10, including three friends",
-    "summary": "Three childhood friends—Aireen Jahan Meem, Israt Jahan Ima, and Nasrin Akhtar Mukta—went to Inani area in Ukhiya for a trip. While Meem and Ima went out early, Mukta stayed behind to sleep. A fire broke out at the resort, killing at least 10 people including Mukta. Charred bodies made identification difficult."
-   },
-   "bn": {
-    "title": "কক্সবাজারে রিসোর্ট আগুনে ১০ জন নিহত, তিন বন্ধু ছাড়াছড়ি",
-    "summary": "তিন শৈশব-সঙ্গী—আইরীন জাহান মীম, ইসরাত জাহান ইমা এবং নাসরিন আক্তার মুক্তা—উখিয়ার ইনানী এলাকায় ঘুরতে গিয়েছিলেন। মীম এবং ইমা যখন বাইরে ছিলেন, মুক্তা ঘুমাতে থেকে গেলেন। রিসোর্টে আগুন লাগে এবং কমপক্ষে ১০ জন মারা যান, তাদের মধ্যে মুক্তাও রয়েছেন। পোড়া লাশ শনাক্ত করা কঠিন হয়েছে।"
-   }
-  },
-  {
-   "id": "1o83rcw",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9ef5f80f-1788802552.jpg?resize=1920%2C1440",
-   "published": "2026-10-17T16:54:44.000Z",
-   "added": "2026-10-17T17:03:31.593Z",
-   "origTitle": "Why are Latin American countries building closer ties with Israel?",
-   "en": {
-    "title": "Latin America shifts closer to Israel as right-wing rises",
-    "summary": "Colombia moved its embassy to Jerusalem, and Brazil may follow as right-wing politicians gain power in Latin America. Israeli Foreign Minister Gideon Saar called it a diplomatic victory. The shift marks a major change from the region's traditionally pro-Palestine stance, with Israel-support now becoming a campaign issue in Brazil's presidential race."
-   },
-   "bn": {
-    "title": "ডান-পন্থী শক্তির উত্থানে ল্যাটিন আমেরিকা ইসরায়েলের কাছাকাছি হচ্ছে",
-    "summary": "কলম্বিয়া তার দূতাবাস জেরুসালেমে স্থানান্তরিত করেছে এবং ব্রাজিলও এই পথ অনুসরণ করতে পারে। ইসরায়েলের বিদেশমন্ত্রী এটিকে কূটনৈতিক জয় বলে অভিহিত করেছেন। ল্যাটিন আমেরিকার ঐতিহ্যবাহী প্যালেস্টাইন-সমর্থক অবস্থান থেকে এটি একটি বড় পরিবর্তন, যেখানে ইসরায়েল-সমর্থন এখন ব্রাজিলের রাষ্ট্রপতি নির্বাচনে একটি ক্যাম্পেইন ইস্যু হয়ে উঠেছে।"
    }
   }
  ]
