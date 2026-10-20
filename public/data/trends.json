@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-20T11:26:27.243Z",
+ "updatedAt": "2026-10-20T16:53:13.291Z",
  "burning": [
   {
-   "id": "dzppdr",
+   "id": "pbkfes",
    "heat": 5,
    "why": {
-    "en": "Two outlets covering fatal bus-truck crash in Natore killing 12-13 people.",
-    "bn": "নাটোরে বাস-ট্রাক সংঘর্ষে ১২-১৩ জন নিহত, দুটি আউটলেট কভার করেছে।"
+    "en": "Pakistan cricket dominates trends with Arafat Minhas' historic performance against England.",
+    "bn": "পাকিস্তানের বিপক্ষে ইংল্যান্ডের হারে আরাফাত মিনহাসের অসাধারণ পারফরম্যান্স ট্রেন্ডিং।"
    },
    "rank": 1
+  },
+  {
+   "id": "dzppdr",
+   "heat": 4,
+   "why": {
+    "en": "Bus-truck collision in Natore kills 12-13 people, major accident coverage.",
+    "bn": "নাটোরে বাস-ট্রাকের সংঘর্ষে ১২-১৩ জন নিহত, বড় দুর্ঘটনা খবর।"
+   },
+   "rank": 2
   },
   {
    "id": "vo0515",
    "heat": 4,
    "why": {
-    "en": "Measles outbreak death toll reaches 1,204 as crisis spreads across Bangladesh.",
-    "bn": "হাসি রোগের মহামারিতে মৃত্যু ১,২০৪ জনে পৌঁছেছে, ছড়িয়ে পড়ছে সারাদেশে।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "1j3lwni",
-   "heat": 4,
-   "why": {
-    "en": "France riots dominate international coverage with multiple outlets reporting on Macron's response.",
-    "bn": "ফ্রান্সের দাঙ্গা আন্তর্জাতিক মিডিয়ায় বড় ছবি, ম্যাক্রঁর বক্তব্য নিয়ে খবর।"
+    "en": "Measles outbreak death toll reaches 1,204, serious public health crisis.",
+    "bn": "হামের প্রাদুর্ভাবে মৃত্যু ১,২০৪, গুরুতর স্বাস্থ্য সংকট।"
    },
    "rank": 3
   },
   {
-   "id": "1twrotv",
+   "id": "jpdv49",
    "heat": 3,
    "why": {
-    "en": "Model Sahara's death at 34 draws significant showbiz attention.",
-    "bn": "মডেল সাহারার ৩৪ বছর বয়সে মৃত্যু বিনোদন জগতে আলোড়ন সৃষ্টি করেছে।"
+    "en": "Police officer cleared after drugs found in rented house, notable legal relief story.",
+    "bn": "পুলিশ অফিসার ভাড়া বাড়িতে মাদক মিলে রিলিফ পান।"
    },
    "rank": 4
   },
   {
-   "id": "puf2jz",
+   "id": "38036p",
    "heat": 3,
    "why": {
-    "en": "Armed robbery of 50-60 vehicles and 100+ passengers is a major crime story.",
-    "bn": "সশস্ত্র ডাকাতরা ৫০-৬০টি যানবাহন ও ১০০+ যাত্রী লুট করেছে।"
+    "en": "Bangladesh-Japan diplomatic visit draws political attention with bilateral agreements.",
+    "bn": "বাংলাদেশ-জাপান ডিপ্লোম্যাটিক ভিজিট দ্বিপক্ষীয় চুক্তি নিয়ে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "3wwu0k",
-   "tag": "#DurgaPuja",
+   "id": "pbkfes",
+   "tag": "#PakVsEng",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Arafat Minhas Destroys England",
+    "text": "Pakistan's Arafat Minhas takes 6 wickets after scoring a fifty against England, leading Pakistan to a commanding victory."
+   },
+   "bn": {
+    "title": "আরাফাত মিনহাস ইংল্যান্ডকে গুঁড়িয়ে দিলেন",
+    "text": "পাকিস্তানের আরাফাত মিনহাস ইংল্যান্ডের বিপক্ষে ৫০ স্কোর করে ৬ উইকেট নেন এবং পাকিস্তানকে বড় জয়ে নিয়ে যান।"
+   }
+  },
+  {
+   "id": "vo0515",
+   "tag": "#MeaslesOutbreak",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "PM visits Durga Puja celebrations",
-    "text": "PM Tarique Rahman toured three divisions to attend Durga Puja festivities, while stars share their celebrations on social media."
+    "title": "Measles Crisis Deepens",
+    "text": "Bangladesh faces a severe measles outbreak with death toll reaching 1,204 as cases continue spreading."
    },
    "bn": {
-    "title": "দুর্গাপূজায় প্রধানমন্ত্রীর সফর",
-    "text": "প্রধানমন্ত্রী তারেক রহমান তিনটি বিভাগ ভ্রমণ করে দুর্গাপূজা উদযাপন দেখেছেন, তারকারা সোশ্যাল মিডিয়ায় শেয়ার করছেন।"
+    "title": "হাম সংকট গভীর হচ্ছে",
+    "text": "বাংলাদেশে হামের প্রাদুর্ভাব ক্রমাগত ছড়াচ্ছে এবং মৃত্যু ১,২০৪ ছুঁয়েছে।"
    }
   },
   {
-   "id": "sskpe8",
-   "tag": "#BusinessUpdate",
+   "id": "8ce8pl",
+   "tag": "#DurgaPuja",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Bangladesh investment agencies merged",
-    "text": "The government merged multiple investment agencies into a single one-stop shop to simplify business processes."
+    "title": "Durga Puja Tourist Boom",
+    "text": "Khagrachari sees a rush of tourists during Durga Puja holidays as people flock to the scenic district."
    },
    "bn": {
-    "title": "বিনিয়োগ সংস্থা একীভূত হয়েছে",
-    "text": "সরকার একাধিক বিনিয়োগ সংস্থা একটি এক জায়গায় সেবায় পরিণত করেছে।"
-   }
-  },
-  {
-   "id": "1d33qd6",
-   "tag": "#Politics",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Deputy minister resigns over drug raid",
-    "text": "A deputy minister quit after a video of armed drug raid sparked public backlash."
-   },
-   "bn": {
-    "title": "মন্ত্রীর পদত্যাগ, ভিডিও ভাইরাল",
-    "text": "সশস্ত্র মাদক অভিযানের ভিডিও ভাইরাল হওয়ার পর উপমন্ত্রী পদ ছেড়েছেন।"
+    "title": "দুর্গা পূজায় পর্যটক ভিড়",
+    "text": "দুর্গা পূজার ছুটিতে খাগড়াছড়িতে পর্যটকদের ভিড় বাড়ছে।"
    }
   }
  ],

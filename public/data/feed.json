@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-20T11:26:13.215Z",
+ "updatedAt": "2026-10-20T16:52:59.653Z",
  "items": [
+  {
+   "id": "kve9py",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/notes-to-self/why-sunlight-is-vital-to-our-physical-and-mental-health",
+   "image": "https://images.aeonmedia.co/images/4bd4e006-07c9-4580-b6df-7c356885e4be/sz-2014-07-27t120000z_1298661931_lm1ea7r16uz01_rtrmadp_3_britain-weather.jpg?top=143&left=0&cropWidth=2448&cropHeight=1377&width=1200&quality=75&format=jpeg",
+   "published": "2026-10-20T10:00:00.000Z",
+   "added": "2026-10-20T16:52:59.653Z",
+   "origTitle": "Are you getting enough sun?",
+   "en": {
+    "title": "Why Avoiding Sun Might Be Harming Your Health",
+    "summary": "Fear of sun damage has made many people overly cautious about sunlight, but journalist Rowan Jacobsen's new book argues this goes too far. Research shows moderate sunlight boosts vitamin D, lowers blood pressure, releases endorphins, and helps regulate sleep. A 20-year Swedish study even found avoiding sun was as risky as smoking. The key is balance: enjoy the sun safely without throwing away your sunscreen."
+   },
+   "bn": {
+    "title": "রোদ এড়ানো আপনার স্বাস্থ্যের ক্ষতি করছে না কি?",
+    "summary": "রোদের ক্ষতি নিয়ে ভয় অনেককে অতিরিক্ত সতর্ক করে তুলেছে, কিন্তু সাংবাদিক রোয়ান জেকবসেনের নতুন বই এই ধারণাকে চ্যালেঞ্জ করছে। গবেষণায় দেখা যাচ্ছে যে মাঝারি মাত্রার রোদ ভিটামিন ডি বাড়ায়, রক্তচাপ কমায়, এনডোরফিন নিঃসরণ করে এবং ঘুমের নিয়ম ঠিক করে। এক ২০ বছরের সুইডিশ গবেষণায় দেখা গেছে রোদ এড়ানো ধূমপানের মতোই ঝুঁকিপূর্ণ। আসল ব্যাপার হলো ভারসাম্য রাখা—নিরাপদে রোদ উপভোগ করুন কিন্তু সানস্ক্রিন ফেলে দেবেন না।"
+   }
+  },
+  {
+   "id": "e2isqo",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/middle-east/dorg98dhbw",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2025-06-22/8q8chz54/2.avif",
+   "published": "2026-10-20T16:30:22.000Z",
+   "added": "2026-10-20T16:52:59.653Z",
+   "origTitle": "ইরানে আবার হামলার ইঙ্গিত দিলেন নেতানিয়াহু",
+   "en": {
+    "title": "Netanyahu Hints at Fresh Strikes on Iran Alongside Trump",
+    "summary": "Israeli PM Benjamin Netanyahu suggested new attacks on Iran, saying he and US President Donald Trump are committed to toppling Iran's government. He mentioned discussing fresh initiatives with Trump, with whom he met last Sunday. This comes nine months after a February 28 US-Israel strike on Iran and Iran's retaliatory attacks that closed the Hormuz Strait and disrupted global fuel prices."
+   },
+   "bn": {
+    "title": "ট্রাম্পের সাথে ইরানে নতুন হামলার ইঙ্গিত দিলেন নেতানিয়াহু",
+    "summary": "ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু ইরানে নতুন হামলার পরামর্শ দিয়েছেন এবং বলেছেন তিনি এবং মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানের সরকারের পতন ঘটাতে প্রতিশ্রুতিবদ্ধ। তিনি গত রোববার ট্রাম্পের সাথে আলোচনায় এই বিষয়ে নতুন উদ্যোগের কথা বলেছেন। এটি আসছে ফেব্রুয়ারি ২৮-এর মার্কিন-ইসরায়েল হামলা এবং ইরানের প্রতিশোধমূলক আক্রমণের নয় মাস পর যা হরমুজ প্রণালি বন্ধ করে দিয়েছিল এবং বিশ্ব জ্বালানির দাম অস্থির করেছিল।"
+   }
+  },
+  {
+   "id": "jpdv49",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/o4jjmitip8",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-20/k2ge9gr7/ASA.avif",
+   "published": "2026-10-20T15:30:43.000Z",
+   "added": "2026-10-20T16:52:59.653Z",
+   "origTitle": "Additional DIG relieved of duties after police detain 85 in raid on his house",
+   "en": {
+    "title": "Police Officer Relieved After Drugs Found in His Rental House",
+    "summary": "Additional Deputy Inspector General Abdullah Al Zahir was removed from his post after police raided a house he owned in Vatara, Dhaka. Officers found cannabis, yaba tablets, alcohol, and drug equipment, detaining 85 people including 26 women. Police say the tenants had rented the property through an online platform and were using it for drug activities and illegal DJ parties."
+   },
+   "bn": {
+    "title": "পুলিশ অফিসারকে বিনা দায়িত্বে বরখাস্ত করা হয়েছে মাদকদ্রব্য পাওয়ায়",
+    "summary": "অতিরিক্ত পুলিশ মহাপরিচালক আবদুল্লাহ আল জাহির তার পদ থেকে বরখাস্ত হয়েছেন ঢাকার ভাতারায় তার মালিকানাধীন বাড়িতে পুলিশ রেড অভিযান চালানোর পর। অফিসাররা গাঁজা, ইয়াবা ট্যাবলেট, অ্যালকোহল এবং ড্রাগ সামগ্রী উদ্ধার করেছেন এবং ৮৫ জনকে আটক করেছেন যার মধ্যে ২৬ জন মহিলা। পুলিশ বলছে ভাড়াটিয়ারা অনলাইন প্ল্যাটফর্মের মাধ্যমে সম্পত্তি ভাড়া নিয়ে তা মাদক কার্যক্রম এবং অবৈধ ডিজে পার্টির জন্য ব্যবহার করছিল।"
+   }
+  },
+  {
+   "id": "15wtt6n",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/whalefall-writer-reveals-story-inspired-by-time-he-ate-a-scuba-diver/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Whalefall_Writer_NIB_G_GR.jpg",
+   "published": "2026-10-20T13:00:00.000Z",
+   "added": "2026-10-20T16:52:59.653Z",
+   "origTitle": "‘Whalefall’ Writer Reveals Story Inspired By Time He Ate A Scuba Diver",
+   "en": {
+    "title": "Novelist Jokes About Eating Scuba Diver Inspiring 'Whalefall'",
+    "summary": "In a satirical interview, writer Daniel Kraus claimed his novel Whalefall was inspired by a real incident where he ate a scuba diver in Florida in the early '90s. He joked that he changed details for drama—replacing himself with a 60-ton sperm whale. The Onion piece ends with Kraus announcing his next project: a whale who killed a teenager with a car."
+   },
+   "bn": {
+    "title": "লেখক জানালেন, স্কুবা ডাইভার খেয়ে লেখা হয়েছে 'হোয়েলফল'",
+    "summary": "দ্য অনিয়নের একটি ব্যঙ্গাত্মক সাক্ষাৎকারে লেখক ড্যানিয়েল ক্রাউস বলেছেন তার উপন্যাস হোয়েলফল একটি বাস্তব ঘটনা থেকে অনুপ্রাণিত—যখন তিনি নিজেই ১৯৯০ এর দশকের শুরুতে ফ্লোরিডায় একজন স্কুবা ডাইভার খেয়েছিলেন। তিনি মজার করে বলেন বিস্তারিত পরিবর্তন করেছেন—নিজের জায়গায় একটি ৬০ টন শুশুক রেখেছেন। শেষে ক্রাউস জানান তার পরবর্তী প্রকল্প হবে একটি তিমির গল্প যে গাড়ি দিয়ে একজন কিশোরকে মারে।"
+   }
+  },
+  {
+   "id": "odxpwb",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/20/parrot-chicago-ohare-airport/1791792511463/",
+   "image": "https://cdnph.upi.com/ph/st/th/1791792511463/2026/i/17925116526589/v1.5/Exotic-bird-flies-into-Chicago-airport-fights-with-passengers.jpg",
+   "published": "2026-10-20T15:54:54.000Z",
+   "added": "2026-10-20T16:52:36.722Z",
+   "origTitle": "Watch: Exotic bird flies into Chicago airport, fights with passengers",
+   "en": {
+    "title": "Exotic Green Bird Fights Passengers at Chicago Airport",
+    "summary": "An exotic green bird somehow made its way into a terminal at Chicago O'Hare International Airport and got into scraps with passengers and airline workers. The unusual scene was caught on video, turning an ordinary airport morning into peak chaos."
+   },
+   "bn": {
+    "title": "চিকাগো বিমানবন্দরে বিদেশী পাখির হৈচৈ",
+    "summary": "একটি বিদেশী সবুজ পাখি চিকাগোর ও'হেয়ার আন্তর্জাতিক বিমানবন্দরের টার্মিনালে ঢুকে পড়েছে এবং যাত্রী ও কর্মচারীদের সাথে ঝগড়া লাগিয়েছে। অবিশ্বাস্য দৃশ্যটি ভিডিওতে ধরা পড়েছে।"
+   }
+  },
+  {
+   "id": "3mzjnu",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://www.jagonews24.com/economy/news/1170381",
+   "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/patenga-container-terminal-chittagong-port-bangl-m-mvgwbxeb7r658n9-20261020222949.jpg",
+   "published": "2026-10-20T16:29:49.000Z",
+   "added": "2026-10-20T16:52:36.722Z",
+   "origTitle": "পতেঙ্গা কনটেইনার টার্মিনালে আরএসজিটির রেকর্ড, ঘণ্টায় ৭২ মুভ হ্যান্ডলিং",
+   "en": {
+    "title": "Chattogram Port Terminal Sets New Container Handling Record",
+    "summary": "RSGT (Red Sea Gateway Terminal), a Saudi-based operator at Chattogram port's Patenga Container Terminal, has set a new productivity record with 72 container moves per hour. The achievement marks a significant milestone in vessel handling efficiency at the facility."
+   },
+   "bn": {
+    "title": "চট্টগ্রাম বন্দরে নতুন কনটেইনার হ্যান্ডলিং রেকর্ড",
+    "summary": "চট্টগ্রাম বন্দরের পতেঙ্গা কনটেইনার টার্মিনালে সৌদি আরবভিত্তিক অপারেটর আরএসজিটি নতুন উৎপাদনশীলতার রেকর্ড স্থাপন করেছে। ঘণ্টায় ৭২টি মুভ হ্যান্ডলিং করে সুবিধাটি জাহাজ পরিচালনায় দক্ষতার নতুন মাইলফলক তৈরি করেছে।"
+   }
+  },
+  {
+   "id": "1ohxh69",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+   "published": "2026-10-20T16:20:06.000Z",
+   "added": "2026-10-20T16:52:36.722Z",
+   "origTitle": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+   "en": {
+    "title": "Physical AI Is Still in Its 'LEGO Era,' Says VC",
+    "summary": "Amulya Vishwanath, founder of robotics-focused VC firm Techable Ventures and ex-Nvidia product marketer, says physical AI isn't yet at its ChatGPT moment. Right now, companies are building foundational blocks—robotic hands, actuators—that will eventually combine into advanced systems, much like the early internet or Industrial Revolution."
+   },
+   "bn": {
+    "title": "ফিজিক্যাল এআই এখনও 'লেগো যুগে', ভিসি বলেছেন",
+    "summary": "টেকেবল ভেঞ্চার্সের প্রতিষ্ঠাতা এবং এনভিডিয়ার প্রাক্তন প্রোডাক্ট মার্কেটার অমুল্য বিশ্বনাথ বলেছেন ফিজিক্যাল এআই এখনও তার চ্যাটজিপিটি মুহূর্তে পৌঁছায়নি। এখন কোম্পানিগুলো রোবটিক হাত এবং অ্যাকচুয়েটরের মতো ভিত্তিমূলক জিনিস তৈরি করছে যা পরে একসাথে মিশবে।"
+   }
+  },
+  {
+   "id": "5fzc6c",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f072/live/051b0900-cc94-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-20T16:11:56.000Z",
+   "added": "2026-10-20T16:52:36.722Z",
+   "origTitle": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+   "en": {
+    "title": "Zelensky in Oslo Talks With US Envoy as Ties Strain",
+    "summary": "Ukraine's President Zelensky met US special envoy Steve Witkoff in Oslo with tensions rising between Kyiv and Washington. Ukraine's military adviser says the US is withholding intelligence, costing lives, while US Secretary of State Marco Rubio denied this. Trump has recently suggested Ukraine needs new leadership and a different negotiator."
+   },
+   "bn": {
+    "title": "জেলেনস্কি অসলোতে আমেরিকা দূতের সাথে আলোচনা",
+    "summary": "ইউক্রেনের রাষ্ট্রপতি জেলেনস্কি অসলোতে আমেরিকান বিশেষ দূত স্টিভ উইটকফের সাথে দেখা করেছেন। কিয়েভ এবং ওয়াশিংটনের মধ্যে উত্তেজনা বাড়ছে। ইউক্রেনীয় সামরিক উপদেষ্টা বলেছেন আমেরিকা গোয়েন্দা তথ্য আটকে রেখে প্রাণ নিচ্ছে, যা আমেরিকা অস্বীকার করেছে।"
+   }
+  },
+  {
+   "id": "er8xxk",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/chitagong/975771/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95",
+   "image": null,
+   "published": "2026-10-20T16:44:17.000Z",
+   "added": "2026-10-20T16:52:36.722Z",
+   "origTitle": "কক্সবাজারে ১০ পর্যটকের মৃত্যু: রিসোর্টের মালিক দুজন, আসামি কেন একজন?",
+   "en": {
+    "title": "Cox's Bazar Fire: Why Only One Resort Owner Arrested?",
+    "summary": "Ten tourists died in a fire at Tuktuk Restaurant and Resort in Ukhiya, Cox's Bazar. The resort's website lists two owners, but police named only one as an accused in the case. Questions are now being raised about why the second owner wasn't charged and what legal grounds were used to select the accused."
+   },
+   "bn": {
+    "title": "কক্সবাজার অগ্নিকাণ্ড: দুই মালিক, একজন আসামি কেন?",
+    "summary": "উখিয়ার টুপটুপ রেস্তোরাঁ অ্যান্ড রিসোর্টে আগুনে ১০ জন পর্যটক মারা গেছেন। রিসোর্টের ওয়েবসাইটে দুই মালিক থাকলেও পুলিশ শুধু একজনকে আসামি করেছে। কেন দ্বিতীয় মালিকের নাম নেই এবং আসামি নির্বাচনের ভিত্তি কী, তা নিয়ে প্রশ্ন উঠেছে।"
+   }
+  },
   {
    "id": "dzppdr",
    "section": "news",
@@ -3211,160 +3409,6 @@
    "bn": {
     "title": "ডান-পন্থী শক্তির উত্থানে ল্যাটিন আমেরিকা ইসরায়েলের কাছাকাছি হচ্ছে",
     "summary": "কলম্বিয়া তার দূতাবাস জেরুসালেমে স্থানান্তরিত করেছে এবং ব্রাজিলও এই পথ অনুসরণ করতে পারে। ইসরায়েলের বিদেশমন্ত্রী এটিকে কূটনৈতিক জয় বলে অভিহিত করেছেন। ল্যাটিন আমেরিকার ঐতিহ্যবাহী প্যালেস্টাইন-সমর্থক অবস্থান থেকে এটি একটি বড় পরিবর্তন, যেখানে ইসরায়েল-সমর্থন এখন ব্রাজিলের রাষ্ট্রপতি নির্বাচনে একটি ক্যাম্পেইন ইস্যু হয়ে উঠেছে।"
-   }
-  },
-  {
-   "id": "nmsz5n",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Financial Express",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVc4U2o4Yi0wYXd0dkhOV0NNLUxyTkxqaldmcWlUY0lFWDNxRlJkSDVyd0M1ZHdFZTkyV2g2UUlfRnl2Mm05QVhEZVk4b3lpa2NBY1BsQUtmZjg5NlVlcHFJNGdfLWc0aGRVTVY0bXRNTy1yTGVGeHlrNDJ6ajRmemhTS1pBcl9XSTk0ekE0VUpLWnlBNmxDOUdrMHhtVTdJVlhxVmJ1bG4ySmZwV3V2Nm5DV3oyRlFleHJUVUNsa0psaFZVMlctN3NkbHA4d25uTjIyZ3FBc0xKWmvSAecBQVVfeXFMTU9Qa2pGSjNIN1ZYNno2R1otN0otZlE3dF9uWllXemliVFFPYXZGVDFZbzZtU1dLODBRZndoakZRckpxcGJyUW94a0pjNXdCNjBUeDRnZVZZbm1XN1JzNHhmSVJ4bGJwTHF1U3dJWXFHaG5US2F1YldkZEU4VGZXZ2JJbWxKTVZaSVNJVk1kbkloVVVyOVVHek12V1JsU1ZqZTlfWXk1WDVZUmpZcUJEZkhaZEhaMzZsZWM4bm9ySzZoRnJVY2l4eXR2bTNyY2JVeHlXaVZWcHRKWjJxVDJlMEhJckJDRWxB?oc=5",
-   "image": null,
-   "published": "2026-10-16T18:21:01.000Z",
-   "added": "2026-10-17T13:39:44.052Z",
-   "origTitle": "DMP beefs up roundtheclock surveillance at 257 puja mandaps across the capital",
-   "en": {
-    "title": "Dhaka police step up security at 257 puja mandaps this season",
-    "summary": "The Dhaka Metropolitan Police have deployed round-the-clock surveillance across 257 puja mandaps throughout the capital. This heightened security measures aims to ensure safety during the puja celebrations. All mandaps will have continuous monitoring in place."
-   },
-   "bn": {
-    "title": "ঢাকা জুড়ে ২৫৭ পূজা মণ্ডপে পুলিশের ২৪ ঘণ্টা নজরদারি",
-    "summary": "ঢাকা মেট্রোপলিটন পুলিশ রাজধানী জুড়ে ২৫৭ পূজা মণ্ডপে চব্বিশ ঘণ্টা নজরদারি নিয়োগ করেছে। এই নিরাপত্তা ব্যবস্থা পূজা উৎসবের সময় সবার নিরাপত্তা নিশ্চিত করতে নেওয়া হয়েছে। সব মণ্ডপে ক্রমাগত মনিটরিং থাকবে।"
-   }
-  },
-  {
-   "id": "m3d650",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558865.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/421000/421075.jpg",
-   "published": "2026-10-17T13:29:33.000Z",
-   "added": "2026-10-17T13:39:44.052Z",
-   "origTitle": "Gill to feature for Punjab in second round of Ranji Trophy",
-   "en": {
-    "title": "Gill gets red-ball practice before New Zealand ODI tour",
-    "summary": "Shubman Gill is set to play for Punjab in the second round of the Ranji Trophy. He wants match practice in Test cricket before heading to New Zealand for the ODI series in November. Red-ball cricket will help him sharpen up before the tour."
-   },
-   "bn": {
-    "title": "নিউজিল্যান্ড ট্যুরের আগে গিল রেড-বল প্র্যাকটিস করবেন",
-    "summary": "শুভমন গিল রঞ্জি ট্রফির দ্বিতীয় রাউন্ডে পাঞ্জাবের হয়ে খেলবেন। নভেম্বরে নিউজিল্যান্ড ODI সিরিজের আগে তিনি টেস্ট ক্রিকেটে ম্যাচ প্র্যাকটিস চান। এই ট্যুরের জন্য লাল বল ক্রিকেট তার ফর্ম ঠিক করতে সাহায্য করবে।"
-   }
-  },
-  {
-   "id": "6p0huz",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.bigganchinta.com/space/67yk7dqfbd",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-17/654sf3as/hypernova20261013213243.webp",
-   "published": "2026-10-17T13:30:00.000Z",
-   "added": "2026-10-17T13:39:35.915Z",
-   "origTitle": "হাইপারনোভা কি আসলেই আছে, নাকি পুরোটাই ফাঁকি",
-   "en": {
-    "title": "Is hypernova real, or just cosmic science fiction?",
-    "summary": "Hypernova is supposedly a massive stellar explosion far brighter and more powerful than supernovae. Scientists thought only stars over 30 times the sun's mass could create one. But recent research suggests hypernovae might not actually exist—all the evidence could fit regular supernova data. The cosmic mystery isn't yet solved."
-   },
-   "bn": {
-    "title": "হাইপারনোভা আসলে আছে, নাকি কল্পনা?",
-    "summary": "হাইপারনোভা একটি অতিকল্পিত নক্ষত্র বিস্ফোরণ যা সাধারণ সুপারনোভার চেয়ে দশগুণ বেশি উজ্জ্বল। বিজ্ঞানীরা ভাবেন সূর্যের চেয়ে ৩০ গুণ বেশি ভরের নক্ষত্রই শুধু এটি সৃষ্টি করতে পারে। কিন্তু সম্প্রতি গবেষণা বলছে হাইপারনোভা আসলে নাও থাকতে পারে। সব তথ্য সাধারণ সুপারনোভা দিয়েই ব্যাখ্যা করা যায়।"
-   }
-  },
-  {
-   "id": "atcudw",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/evl2fdzosr",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-17/gp780rne/shama-obaid.avif",
-   "published": "2026-10-17T13:14:50.000Z",
-   "added": "2026-10-17T13:39:35.915Z",
-   "origTitle": "Death sentence for two Bangladeshis in Saudi Arabia a lesson for us: Shama Obaed",
-   "en": {
-    "title": "Death of two Bangladeshis in Saudi Arabia a lesson, says minister",
-    "summary": "State Minister Shama Obaed Islam called the execution of two Bangladeshis a major lesson for citizens abroad. She said Saudi Arabia had not officially informed Bangladesh, but their mission reported the two were involved in adultery in a Mecca mosque. She advised Bangladeshis to follow host country laws. Bangladesh is seeking details about the bodies."
-   },
-   "bn": {
-    "title": "দুই বাংলাদেশির মৃত্যু একটি শিক্ষা, বলেন পররাষ্ট্র প্রতিমন্ত্রী",
-    "summary": "রাষ্ট্রমন্ত্রী শামা ওবায়েদ ইসলাম দুই বাংলাদেশির মৃত্যুদণ্ডকে বিদেশে কর্মরত নাগরিকদের জন্য একটি প্রধান শিক্ষা বলেছেন। তিনি বলেন সৌদি আরব সরকারিভাবে জানায়নি, তবে তাদের মিশন জানিয়েছে দুজন মক্কার একটি মসজিদে ব্যভিচারে জড়িত ছিলেন। তিনি বাংলাদেশিদের মেজবান দেশের আইন মেনে চলার পরামর্শ দিয়েছেন।"
-   }
-  },
-  {
-   "id": "1dsfplt",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T094210Z_503381275_RC254OAOMY72_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-ATTACK-1792230965.jpg?resize=1920%2C1440",
-   "published": "2026-10-17T12:48:03.000Z",
-   "added": "2026-10-17T13:39:35.915Z",
-   "origTitle": "Child, four women among Palestinians injured in West Bank pogroms",
-   "en": {
-    "title": "Israeli settlers and forces injure Palestinians across West Bank",
-    "summary": "Israeli settlers attacked Palestinians in multiple West Bank villages on Saturday, injuring six people including four women and a child in Ma'in. Israeli forces opened fire on olive farmers in several areas, forcing them off their land. Settlers destroyed olive trees, killed sheep on farms, and attacked international activists. Homes were damaged by tear gas that sparked fires."
-   },
-   "bn": {
-    "title": "পশ্চিম তীরে ইসরায়েলি সেটলার ও বাহিনীর আক্রমণে ফিলিস্তিনি আহত",
-    "summary": "শনিবার ইসরায়েলি সেটলাররা পশ্চিম তীরের একাধিক গ্রাম আক্রমণ করে মহিলা ও শিশুসহ ছয় জন ফিলিস্তিনিকে আহত করেছে। ইসরায়েলি বাহিনী জলপাই সংগ্রহকারীদের উপর গুলি চালিয়েছে এবং জমি থেকে তাড়িয়েছে। সেটলাররা জলপাই গাছ নষ্ট করেছে এবং সম্পত্তিতে আগুন লেগেছে।"
-   }
-  },
-  {
-   "id": "yaw2el",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cj20vwy1pqyxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cbf5/live/43193810-ca1b-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-17T13:00:44.000Z",
-   "added": "2026-10-17T13:39:35.915Z",
-   "origTitle": "মক্কায় মৃত্যুদণ্ড দেওয়া দুই বাংলাদেশির বিষয়ে সৌদি আরব কি ভিয়েনা প্রটোকল লঙ্ঘন করেছে?",
-   "en": {
-    "title": "Did Saudi Arabia break Vienna Convention rules in executions?",
-    "summary": "Two Bangladeshi nationals were executed in Mecca on charges of immoral conduct in a mosque. Bangladesh says Saudi authorities never informed the embassy or families before carrying out the sentence. Experts say this may violate the Vienna Convention, which requires notifying a foreign national's embassy when they are detained. Bangladesh has demanded a full explanation from Saudi authorities."
-   },
-   "bn": {
-    "title": "দুই বাংলাদেশির মৃত্যুদণ্ডে ভিয়েনা প্রটোকল লঙ্ঘন হয়েছে?",
-    "summary": "মক্কায় একটি মসজিদে অনৈতিক কাজের অভিযোগে দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর হয়েছে। সৌদি কর্তৃপক্ষ শাস্তি কার্যকরের আগে বাংলাদেশ দূতাবাস বা পরিবারকে কিছুই জানায়নি। বিশেষজ্ঞরা বলছেন এটি ভিয়েনা প্রটোকল লঙ্ঘন করেছে, যা বিদেশি নাগরিক গ্রেপ্তারের খবর দূতাবাসকে দিতে বাধ্য করে। বাংলাদেশ সৌদি আরবের কাছে সম্পূর্ণ ব্যাখ্যা চেয়েছে।"
-   }
-  },
-  {
-   "id": "1limgkf",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/economy/energy/dshe-directs-educational-institutions-measure-rooftops-solar-panel-installation",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/copy_of_solar_panel_6_1.jpg",
-   "published": "2026-10-17T13:15:00.000Z",
-   "added": "2026-10-17T13:39:35.915Z",
-   "origTitle": "DSHE directs educational institutions to measure rooftops for solar panel installation",
-   "en": {
-    "title": "Schools must measure rooftops for solar panels by Monday",
-    "summary": "The education ministry is collecting rooftop data from all schools and colleges to install solar panels before summer. The government has set a target of 3,000 to 4,000 megawatts from rooftop solar. Institutions must submit details like usable area and electrical load within two working days. This is part of a nationwide push to boost renewable energy."
-   },
-   "bn": {
-    "title": "স্কুল-কলেজের ছাদ মাপুন, সোলার প্যানেল লাগানোর জন্য",
-    "summary": "শিক্ষা মন্ত্রণালয় গ্রীষ্মের আগে সব শিক্ষা প্রতিষ্ঠানে সোলার প্যানেল লাগাতে ছাদের তথ্য সংগ্রহ করছে। সরকার ছাদে সোলার থেকে ৩ হাজার থেকে ৪ হাজার মেগাওয়াট বিদ্যুৎ তৈরির লক্ষ্য রেখেছে। প্রতিষ্ঠানগুলোকে দুই কর্মদিনের মধ্যে ছাদের ব্যবহারযোগ্য এলাকা ও বিদ্যুৎ লোডের তথ্য জমা দিতে হবে। এটি নবায়নযোগ্য শক্তি বাড়ানোর একটি জাতীয় উদ্যোগ।"
    }
   }
  ]
