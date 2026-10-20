@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-19T21:00:38.344Z",
+ "updatedAt": "2026-10-20T00:16:49.713Z",
  "burning": [
   {
-   "id": "1vj73dh",
+   "id": "1j3lwni",
    "heat": 5,
    "why": {
-    "en": "State Minister Ishraque ordered to resign by PM after armed drug raid video sparks major backlash.",
-    "bn": "প্রাইম মিনিস্টার রাষ্ট্রমন্ত্রী ইশরাকের পদত্যাগ নির্দেশ দিয়েছেন সশস্ত্র ড্রাগ রেইড ভিডিওর পর।"
+    "en": "France riots dominate global news; multiple outlets covering Macron's response and nationwide violence.",
+    "bn": "ফ্রান্সের দাঙ্গা বিশ্বব্যাপী খবরে শীর্ষে; ম্যাক্রোঁর প্রতিক্রিয়া এবং সর্বত্র সহিংসতা নিয়ে একাধিক আউটলেট রিপোর্ট করছে।"
    },
    "rank": 1
   },
   {
-   "id": "1lng543",
-   "heat": 4,
+   "id": "1vj73dh",
+   "heat": 5,
    "why": {
-    "en": "Durga Puja celebrations trending nationwide with stars sharing moments online and PM visiting divisions.",
-    "bn": "দুর্গাপূজার উদযাপন দেশজুড়ে ট্রেন্ডিং, স্টারদের সোশ্যাল মিডিয়া পোস্ট এবং পিএম ভ্রমণ।"
+    "en": "Bangladesh PM directs deputy minister's resignation amid armed drug raid backlash; major domestic political story.",
+    "bn": "সশস্ত্র ড্রাগ অভিযানের প্রতিক্রিয়ায় বাংলাদেশের প্রধানমন্ত্রী ডেপুটি মন্ত্রীর পদত্যাগের নির্দেশ দিয়েছেন; গুরুত্বপূর্ণ দেশীয় রাজনৈতিক খবর।"
    },
    "rank": 2
   },
   {
-   "id": "1ftw5ov",
-   "heat": 3,
+   "id": "16ynt7u",
+   "heat": 4,
    "why": {
-    "en": "Bangladesh questions Saudi envoy over execution of two nationals, raising diplomatic tensions.",
-    "bn": "বাংলাদেশ সৌদি দূতের কাছে দুই নাগরিকের মৃত্যুদণ্ড নিয়ে প্রশ্ন তুলেছে।"
+    "en": "Gazipur murder case draws attention; serious crime story with significant local impact.",
+    "bn": "গাজীপুরে হত্যার ঘটনা মনোযোগ আকর্ষণ করছে; স্থানীয় প্রভাব সহ গুরুতর অপরাধ খবর।"
    },
    "rank": 3
   },
   {
-   "id": "egs45n",
-   "heat": 2,
+   "id": "pbkfes",
+   "heat": 4,
    "why": {
-    "en": "118 flights cancelled at Dhaka airport in a week disrupts travel plans.",
-    "bn": "ঢাকা বিমানবন্দরে সপ্তাহে ১১৮টি ফ্লাইট বাতিল হয়েছে।"
+    "en": "Afghanistan cricket victory gets sports media coverage; regional interest in khela news.",
+    "bn": "আফগানিস্তানের ক্রিকেট বিজয় খেলাধুলার মিডিয়া কভারেজ পাচ্ছে; খেলা খবরে আঞ্চলিক আগ্রহ।"
    },
    "rank": 4
   },
   {
-   "id": "1pkxps1",
-   "heat": 2,
+   "id": "1ftw5ov",
+   "heat": 4,
    "why": {
-    "en": "Van driver's body found four days after going missing in suspicious circumstances.",
-    "bn": "ভ্যান চালক নিখোঁজ হওয়ার চার দিন পর লাশ পাওয়া গেছে।"
+    "en": "Bangladesh questions Saudi Arabia over execution of nationals; significant diplomatic story.",
+    "bn": "বাংলাদেশ সৌদি আরবের কাছে তার নাগরিকদের মৃত্যুদণ্ড নিয়ে প্রশ্ন তুলেছে; গুরুত্বপূর্ণ কূটনৈতিক খবর।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "mye3w8",
-   "tag": "#CricketBuzz",
+   "id": "1ncvwbn",
+   "tag": "#হাসপাতাল",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Pakistan bowlers seal Sri Lanka win",
-    "text": "Pakistan's quick bowlers delivered a strong performance to win against Sri Lanka in recent cricket action."
+    "title": "Engineer dies day before wedding",
+    "text": "A young engineer in Bangladesh died just before his wedding. Family blames hospital care for the death."
    },
    "bn": {
-    "title": "পাকিস্তান শ্রীলঙ্কাকে হারাল",
-    "text": "পাকিস্তানের দ্রুত গতির বোলাররা শ্রীলঙ্কার বিরুদ্ধে জয় নিশ্চিত করেছেন।"
+    "title": "বিবাহের আগের দিন প্রকৌশলীর মৃত্যু",
+    "text": "বাংলাদেশে একজন তরুণ প্রকৌশলী তার বিবাহের আগে মারা গেছেন। পরিবার হাসপাতালের যত্নকে দায়ী করছে।"
    }
   },
   {
-   "id": "12dnlzx",
-   "tag": "#RealMadrid",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Mbappé scores twice in Madrid rout",
-    "text": "Kylian Mbappé netted two goals as Real Madrid thrashed Sevilla 4-1 in dominant fashion."
-   },
-   "bn": {
-    "title": "এমবাপ্পে ডাবল করেছে",
-    "text": "কিলিয়ান এমবাপ্পে দুটি গোল করেছেন যখন রিয়েল মাদ্রিদ সেভিল্লাকে ৪-১ এ চূর্ণ করেছে।"
-   }
-  },
-  {
-   "id": "1d4h8rz",
-   "tag": "#BollywoodNews",
+   "id": "rrbb0o",
+   "tag": "#এয়ারঅ্যাম্বুলেন্স",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Tiger Shroff shot at in Mumbai",
-    "text": "Bollywood actor Tiger Shroff was shot at in Mumbai but escaped unhurt in an apparent attack."
+    "title": "Air ambulance door opens mid-flight",
+    "text": "An Indian air ambulance's door opened while in the air, and a patient died. A serious aviation incident."
    },
    "bn": {
-    "title": "টাইগার শ্রফ গুলিবিদ্ধ হয়েছেন",
-    "text": "বলিউড অভিনেতা টাইগার শ্রফ মুম্বাইতে গুলি খাওয়ার শিকার হয়েছিলেন কিন্তু নিরাপদে বেরিয়েছেন।"
+    "title": "ভাসমান অ্যাম্বুলেন্সের দরজা খুলে গেল",
+    "text": "ভারতীয় এয়ার অ্যাম্বুলেন্সের দরজা উড়ার সময় খুলে গেছে এবং রোগী মারা গেছেন। গুরুতর বিমান ঘটনা।"
+   }
+  },
+  {
+   "id": "1hlhx9i",
+   "tag": "#আহসানম্যানজিল",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Five mysterious safes found at Ahsan Manzil",
+    "text": "Discovery of five mysterious safes inside the historic Ahsan Manzil building has sparked curiosity about what they contain."
+   },
+   "bn": {
+    "title": "আহসান মঞ্জিলে রহস্যময় সেফ পাওয়া গেছে",
+    "text": "ঐতিহাসিক আহসান মঞ্জিলের ভেতরে পাঁচটি রহস্যময় সেফ পাওয়া গেছে যা কী আছে তা নিয়ে কৌতূহল জাগছে।"
+   }
+  },
+  {
+   "id": "12dnlzx",
+   "tag": "#রিয়েলমাদ্রিদ",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Mbappé scores twice in Real Madrid rout",
+    "text": "Real Madrid thrashed Sevilla 4-1 with Mbappé hitting two goals in a dominant performance."
+   },
+   "bn": {
+    "title": "এমবাপ্পে দুই গোল করে রিয়েল জিতিয়েছে",
+    "text": "এমবাপ্পে দুটি গোল করে রিয়েল মাদ্রিদকে সেভিয়ার বিপক্ষে ৪-১ জয়ে সাহায্য করেছে।"
    }
   }
  ],

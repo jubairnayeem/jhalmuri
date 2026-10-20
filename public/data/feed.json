@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-19T21:00:23.830Z",
+ "updatedAt": "2026-10-20T00:16:31.115Z",
  "items": [
+  {
+   "id": "pbkfes",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1559091.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/423900/423967.jpg",
+   "published": "2026-10-19T20:23:07.000Z",
+   "added": "2026-10-20T00:16:31.114Z",
+   "origTitle": "Atal and Rashid seal Afghanistan's comprehensive win",
+   "en": {
+    "title": "Atal and Rashid power Afghanistan to comprehensive victory",
+    "summary": "Afghanistan cruised to an impressive win as Atal and Rashid sealed the result. Zimbabwe needed 196 to make the final but were restricted to 136 in their chase of 295, falling short by a significant margin."
+   },
+   "bn": {
+    "title": "আতাল এবং রাশিদ আফগানিস্তানকে জয়ের দিকে এগিয়ে নিল",
+    "summary": "আফগানিস্তান আতাল এবং রাশিদের দুর্দান্ত পারফরম্যান্সে জিম্বাবোয়েকে ধরাশায়ী করেছে। জিম্বাবোয়েকে ২৯৫ রানের লক্ষ্য ছিল, তবে তারা মাত্র ১৩৬ রানে অল আউট হয়েছে এবং ফাইনালে যাওয়ার স্বপ্ন ভেঙে গেছে।"
+   }
+  },
+  {
+   "id": "139ahxe",
+   "section": "news",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/religion/islam/5fwezam2m6",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-19/x2lurggm/pexels-michael-burrows-7129570.jpg",
+   "published": "2026-10-19T22:30:00.000Z",
+   "added": "2026-10-20T00:16:31.114Z",
+   "origTitle": "জেনে নিন, সর্বোচ্চ বেহেশত ‘ফেরদাউস’ পাওয়ার ৫ আমল",
+   "en": {
+    "title": "Five daily practices to aim for paradise's highest level",
+    "summary": "Islamic teaching describes Firdaws, the highest level of paradise, with golden buildings, crystal rivers, and eternal bliss. Scholars say it sits directly below God's throne, making it the most honourable place. The article outlines five daily practices—starting with strong faith and good deeds—to work toward this goal."
+   },
+   "bn": {
+    "title": "স্বর্গের সর্বোচ্চ স্তর ফেরদাউস পাওয়ার পাঁচটি আমল",
+    "summary": "ফেরদাউস হলো সোনা-রূপার ইট, স্ফটিক স্বচ্ছ নদী এবং চিরন্তন আনন্দে পূর্ণ জান্নার সর্বোচ্চ অংশ। এটি সরাসরি আল্লাহর আরশের নিচে অবস্থিত বলে ইসলামী শিক্ষায় বর্ণিত। প্রতিদিনের জীবনে এই স্তরে পৌঁছানোর জন্য পাঁচটি বিশেষ কাজ রয়েছে, যার প্রথমটি হলো সুদৃঢ় ইমান এবং সৎকর্ম।"
+   }
+  },
+  {
+   "id": "17gifar",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "ঢাকা পোস্ট",
+   "srcLang": "bn",
+   "url": "https://www.dhakapost.com/country/491733",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026October/sasa-20261020052734.jpg?cid=491733",
+   "published": "2026-10-19T23:27:34.000Z",
+   "added": "2026-10-20T00:16:31.114Z",
+   "origTitle": "শিশুখাদ্য চিপসে ক্ষতিকর রং ও ইন্ডাস্ট্রিয়াল সল্ট, জরিমানা ১ লাখ ৭০ হাজার",
+   "en": {
+    "title": "Kids' snack brand fined for harmful colours and salt",
+    "summary": "A children's chips product was found to contain harmful artificial colours and industrial-grade salt. The manufacturer was fined 1 lakh 70 thousand taka. The discovery raises concerns about food safety standards in products marketed for young consumers."
+   },
+   "bn": {
+    "title": "শিশুখাদ্য চিপসে ক্ষতিকর রং ও ইন্ডাস্ট্রিয়াল সল্ট",
+    "summary": "একটি শিশু খাদ্য চিপস পণ্যে ক্ষতিকর কৃত্রিম রং এবং ইন্ডাস্ট্রিয়াল মানের লবণ পাওয়া গেছে। নির্মাতাকে ১ লাখ ৭০ হাজার টাকা জরিমানা দেওয়া হয়েছে। ছোটদের জন্য বাজারজাত পণ্যে খাদ্য নিরাপত্তার মান নিয়ে প্রশ্ন উঠেছে।"
+   }
+  },
+  {
+   "id": "105y7dc",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+   "published": "2026-10-19T23:39:38.000Z",
+   "added": "2026-10-20T00:16:14.429Z",
+   "origTitle": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+   "en": {
+    "title": "Anthropic and Nscale eyeing another $45 billion compute deal",
+    "summary": "Just over a month after striking a $45 billion compute deal, Anthropic and AI infrastructure firm Nscale are reportedly negotiating another identical agreement, Bloomberg reports. If finalized, it joins a string of massive compute deals Anthropic has made recently. Both companies are also pursuing IPOs, though Nscale faces investor pushback over its $30 billion valuation."
+   },
+   "bn": {
+    "title": "Anthropic এবং Nscale আবার ৪৫ বিলিয়ন ডলারের ডিল",
+    "summary": "মাত্র এক মাস আগে ৪৫ বিলিয়ন ডলারের একটা ডিল করার পর এখন Anthropic এবং Nscale আবার একই পরিমাণের ডিল নিয়ে আলোচনা করছে। এটা সাফল্য পেলে Anthropic-র অসংখ্য বড় চুক্তির সিরিজে যুক্ত হবে। দুই কোম্পানিই IPO-র দিকে যাচ্ছে, তবে Nscale-র ৩০ বিলিয়ন ডলার মূল্যায়ন নিয়ে বিনিয়োগকারীদের প্রতিবাদ আছে।"
+   }
+  },
+  {
+   "id": "151663d",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-07-28T175706Z_848845793_RC25NMA8QQQU_RTRMADP_3_PEOPLE-LINDSEY-GRAHAM-1792452329.jpg?resize=1920%2C1440",
+   "published": "2026-10-20T00:08:01.000Z",
+   "added": "2026-10-20T00:16:14.429Z",
+   "origTitle": "Hegseth meets Netanyahu in unannounced Israel visit",
+   "en": {
+    "title": "US Defense Secretary meets Netanyahu during secret Israel trip",
+    "summary": "Defense Secretary Pete Hegseth visited Israel undisclosed and met Prime Minister Benjamin Netanyahu on Monday, according to Axios. Trump endorsed Netanyahu on social media ahead of next week's elections, but Vice President JD Vance said he's staying out of Israeli politics. Netanyahu's coalition faces losing its governing majority, polls suggest."
+   },
+   "bn": {
+    "title": "আমেরিকার প্রতিরক্ষা সচিব নেতানিয়াহুর সাথে গোপনে দেখা",
+    "summary": "আমেরিকার প্রতিরক্ষা সচিব পিট হেগসেথ সোমবার ইসরায়েল এ গিয়ে প্রধানমন্ত্রী নেতানিয়াহুর সাথে দেখা করেন। ট্রাম্প সোশ্যাল মিডিয়ায় আসন্ন নির্বাচনে নেতানিয়াহুকে সমর্থন করেছেন। কিন্তু ভাইস প্রেসিডেন্ট জেডি ভ্যান্স বলেছেন তিনি ইসরায়েলী রাজনীতিতে জড়িত হচ্ছেন না।"
+   }
+  },
+  {
+   "id": "giz3og",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+   "image": "https://i.guim.co.uk/img/media/9bd27b70fe701104ae96a61f3b5d9b87bdb4e4b4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c2ba89fc03967397614f10e34e06f647",
+   "published": "2026-10-19T22:34:43.000Z",
+   "added": "2026-10-20T00:16:14.429Z",
+   "origTitle": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+   "en": {
+    "title": "US extends temporary protection for Ukrainians and Sudanese",
+    "summary": "The Department of Homeland Security has granted a temporary reprieve to over 100,000 Ukrainians and 1,800 Sudanese whose protection status was set to expire on Monday. Protected migrants can remain in the US and keep working while details of their permanent status are decided. The DHS did not specify how long the extension lasts or when a final announcement will come."
+   },
+   "bn": {
+    "title": "আমেরিকা ইউক্রেইনীয় এবং সুদানী মাইগ্রেন্টদের আশ্রয় বাড়িয়ে দিল",
+    "summary": "সোমবার শেষ হওয়া ১ লাখ ১ হাজার ইউক্রেইনীয় এবং ১,৮০০ সুদানীর সুরক্ষা মর্যাদা আমেরিকা বাড়িয়ে দিয়েছে। তারা এখন দেশে থাকতে পারবে এবং কাজ করতে পারবে যতক্ষণ স্থায়ী সিদ্ধান্ত আসে। কতদিন এই আশ্রয় থাকবে বা চূড়ান্ত ঘোষণা কখন আসবে সে বিষয়ে বিভাগ কোনো তথ্য দেয়নি।"
+   }
+  },
+  {
+   "id": "17vm4ln",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d92/live/581e2ba0-cbfe-11f1-a0c1-e5a096ec3cfb.jpg",
+   "published": "2026-10-19T21:14:53.000Z",
+   "added": "2026-10-20T00:16:14.429Z",
+   "origTitle": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+   "en": {
+    "title": "France imposes curfews after weekend rioting and looting",
+    "summary": "French authorities imposed overnight curfews in central Paris and major cities after riots last weekend. Curfews run from 23:00 to 06:00 in Place de la République and Les Halles shopping area. Over 2,500 arrests were made, one person lost a hand to a police grenade, and about 1,000 police were injured. The Interior Minister admitted police \"lost control\" in some cities."
+   },
+   "bn": {
+    "title": "ফ্রান্সে বিক্ষোভের পর রাতের আইন-কানুন চালু",
+    "summary": "সপ্তাহান্তের বিক্ষোভের পর ফ্রান্স প্যারিসের কেন্দ্রীয় এলাকা এবং বড় শহরগুলোতে রাতের আইন-কানুন চালু করেছে। Place de la République এবং Les Halles শপিং এলাকায় রাত ১১টা থেকে সকাল ৬টা পর্যন্ত চলবে। আড়াই হাজারের বেশি গ্রেফতার হয়েছে, একজনের হাত পুলিশের গ্রেনেডে উড়ে গেছে, এবং হাজারো পুলিশ আহত হয়েছে।"
+   }
+  },
+  {
+   "id": "1ytul1i",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/foreign/uk/975588/%E0%A7%AF%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B-%E0%A6%B2%E0%A7%81%E0%A6%9F-%E0%A6%B9%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%AB%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE",
+   "image": null,
+   "published": "2026-10-20T00:10:22.000Z",
+   "added": "2026-10-20T00:16:14.429Z",
+   "origTitle": "৯০ হাজার ইউরো লুট হওয়া বাংলাদেশির পাশে ফরাসিরা",
+   "en": {
+    "title": "French community rallies around Bangladeshi after 90,000 euro robbery",
+    "summary": "During violent riots in Paris on October 17, a business owned by Bangladeshi expat Robiul Hasan in the Boulevard Masséna area was severely damaged and looted, losing 90,000 euros. After the destruction and financial shock, local French residents showed unprecedented solidarity and compassion for Hasan. The community's support provided vital help during this difficult period."
+   },
+   "bn": {
+    "title": "ফ্রান্সের ৯০ হাজার ইউরো লুটের ঘটনায় স্থানীয়দের সমর্থন",
+    "summary": "১৭ অক্টোবর প্যারিসের রাজপথের বিশৃঙ্খলার সময় বাংলাদেশী প্রবাসী রবিউল হাসানের ব্যবসা মারাত্মকভাবে ক্ষতিগ্রস্ত হয় এবং ৯০ হাজার ইউরো লুটপাটের শিকার হয়। এই ধ্বংসযজ্ঞের পর ফ্রান্সের স্থানীয় সাধারণ মানুষ অভূতপূর্ব সহমর্মিতা দেখায়। তাদের সংহতি হাসানের কঠিন সময়ে গুরুত্বপূর্ণ সহায়তা প্রদান করে।"
+   }
+  },
+  {
+   "id": "sskpe8",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/features/panorama/energy-banking-and-law-and-order-investors-top-concerns-1577921",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/19/picsart_24-11-19_08-55-45-410.jpg",
+   "published": "2026-10-19T21:20:00.000Z",
+   "added": "2026-10-20T00:16:14.429Z",
+   "origTitle": "Energy, banking and law and order investors’ top concerns",
+   "en": {
+    "title": "Bangladesh merges investment agencies into one-stop shop",
+    "summary": "Bangladesh just consolidated three separate investment agencies into Invest Bangladesh to cut investor confusion. Previously, investors had to visit multiple offices to find information—something no other country does. A new digital platform will be the only legal way to get trade licences and services, replacing the messy old system. The new head says energy and banking are the real problems holding back investment."
+   },
+   "bn": {
+    "title": "বিনিয়োগকারীদের জন্য এক জায়গায় সব সেবা",
+    "summary": "বাংলাদেশ তিনটা বিনিয়োগ সংস্থা মার্জ করে Invest Bangladesh বানিয়েছে যাতে বিনিয়োগকারীরা তিনটা আলাদা অফিসে না ঘুরতে হয়। এর আগে এমনটা কোনো দেশে ছিল না। একটা নতুন ডিজিটাল প্ল্যাটফর্ম সব কিছু সামলাবে, হাতে-কলমে লাইসেন্স দেওয়া বন্ধ হবে। আসলে বড় সমস্যা হলো বিদ্যুৎ এবং ব্যাংকিং সেক্টরের অবস্থা।"
+   }
+  },
   {
    "id": "1pkxps1",
    "section": "news",
@@ -3123,160 +3321,6 @@
    "bn": {
     "title": "জাপানের কাছ থেকে ১৪ বিলিয়ন ডলার বিনিয়োগের প্রস্তাব",
     "summary": "প্রধানমন্ত্রী তারিক রহমান ২৬ অক্টোবর টোকিওতে গিয়ে জাপানকে ২০২৬-৩১ সালের জন্য ¥২.২ ট্রিলিয়ন বিনিয়োগ প্যাকেজ দেখাবেন। এতে মেট্রো রেল, সেতু এবং বে অফ বেঙ্গল ইন্ডাস্ট্রিয়াল গ্রোথ বেল্টের মতো ১২টি খাত থাকবে। জাপান ১৯৭১ সালের পর থেকে ৩৪ বিলিয়ন ডলারেরও বেশি দিয়েছে।"
-   }
-  },
-  {
-   "id": "1jp3ib7",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Daily Star",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzhFQWJiMGxKVThYdjZuZXVBXzN5MlVlOHBVNU0wTDN3QTdUV3lrb3FFZmg5cmluVXRNOUE4OVktQU03UVpYSWc3QVlkbnhwa1BkRjJsLVBSMHJOSUN1U01odW91QVZtX3l4elZyMmNDbktiZktOS1RvVFI0R0Vra2hPeDJ0bHR1VldCNTQ2OFhKYVJSZF9kRWU2RjRhWFY3bFY3MkZLYm5waWV3aVJZWlVfdFg5SDRNSkdSTkxhTWVaMGxKMXhZNzk0VGM?oc=5",
-   "image": null,
-   "published": "2026-10-16T20:50:38.000Z",
-   "added": "2026-10-16T23:30:25.310Z",
-   "origTitle": "Saudi Arabia executes 2 Bangladeshis over ‘immoral act’ in Makkah mosque",
-   "en": {
-    "title": "Saudi Arabia executes 2 Bangladeshis in Makkah",
-    "summary": "Saudi Arabia has executed two Bangladeshi nationals over an alleged immoral act in Makkah mosque. The executions highlight ongoing enforcement of strict laws in the kingdom. Details about the specific charges and legal proceedings were not disclosed."
-   },
-   "bn": {
-    "title": "মক্কার মসজিদে অসংগত কাজের জন্য ২ বাংলাদেশী মৃত্যুদণ্ডপ্রাপ্ত",
-    "summary": "সৌদি আরব মক্কার মসজিদে একটি অসংগত কাজের অভিযোগে দুইজন বাংলাদেশী নাগরিককে মৃত্যুদণ্ড দিয়েছে। এটি সাউদি আরবের কঠোর আইনের প্রয়োগ তুলে ধরে। নির্দিষ্ট অভিযোগ এবং আইনি কার্যক্রমের বিবরণ প্রকাশ করা হয়নি।"
-   }
-  },
-  {
-   "id": "xdygys",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Financial Express",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2xCRFhTb3owRnozcGs1RVE5bVpNZjIyVGhQUjRBRmZVTDFOcU91NkNmbXBuSE1mdi0zRVBoUENwRG9nMFA1MUJxVWo2NGN6VXZWa3BhOGxkQ1RaeWxiemcwb0JyYWotWERndXlvUGdxVXRBeDI1WXpTSUlXUTgyLVlFNDZ3QWFnczZTQko5Z1ZicnFjVGJOdnNsemRZeENOeF95S3Zla0x2R0hBN3gwRzJybzE3ZWhxOXc5YWhMa1llZE54M0t30gHHAUFVX3lxTE5fbEJEWFNvejBGejNwazVFUTltWk1mMjJUaFBSNEFGZlVMMU5xT3U2Q2ZtcG5ITWZ2LTNFUGhQQ3BEb2cwUDUxQnFVajY0Y3pVdlZrcGE4bGRDVFp5bGJ6ZzBvQnJhai1YRGd1eW9QZ3FVdEF4MjVZelNJSVdRODItWUU0NndBYWdzNlNCSjlnVmJycWNUYk52c2x6ZFl4Q054X3lLdmVrTHZHSEE3eDBHMnJvMTdlaHE5dzlhaExrWWVkTngzS3c?oc=5",
-   "image": null,
-   "published": "2026-10-16T18:00:00.000Z",
-   "added": "2026-10-16T23:30:25.310Z",
-   "origTitle": "PM enquires about nurse shot during July Uprising",
-   "en": {
-    "title": "PM asks about nurse injured in July Uprising",
-    "summary": "The Prime Minister has enquired about a nurse who was shot during the July Uprising. The enquiry shows ongoing concern for those wounded during the political unrest. Details about the nurse's condition or recovery were not provided in the report."
-   },
-   "bn": {
-    "title": "জুলাই আন্দোলনে গুলিবিদ্ধ নার্সের খোঁজ নিলেন প্রধানমন্ত্রী",
-    "summary": "প্রধানমন্ত্রী জুলাই আন্দোলনের সময় গুলিবিদ্ধ একজন নার্সের খোঁজ নিয়েছেন। এই পদক্ষেপ রাজনৈতিক অস্থিরতায় আহতদের প্রতি সরকারের মনোযোগ দেখায়। নার্সের অবস্থা বা সুস্থতার বিষয়ে বিস্তারিত তথ্য পাওয়া যায়নি।"
-   }
-  },
-  {
-   "id": "sch167",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/403400/403450.jpg",
-   "published": "2026-10-16T21:04:05.000Z",
-   "added": "2026-10-16T23:30:16.181Z",
-   "origTitle": "Bumrah, Pant in India squad for New Zealand Test series",
-   "en": {
-    "title": "Bumrah returns for India's Test series against New Zealand",
-    "summary": "Fast bowler Jasprit Bumrah has been included in India's squad for the two-match Test series against New Zealand. Bumrah will not play in the ODI format but returns to lead the attack in Tests, bringing crucial experience to the squad."
-   },
-   "bn": {
-    "title": "বুমরাহ নিউজিল্যান্ডের বিপরীতে টেস্ট সিরিজের জন্য ফিরছেন",
-    "summary": "দ্রুত গতির বোলার জসপ্রিত বুমরাহ নিউজিল্যান্ডের বিপরীতে দুই ম্যাচের টেস্ট সিরিজের জন্য ভারতের দলে অন্তর্ভুক্ত হয়েছেন। বুমরাহ ওডিআই খেলবেন না কিন্তু টেস্টে আক্রমণের নেতৃত্ব দেবেন।"
-   }
-  },
-  {
-   "id": "1swnre",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/religion/islam/do51r74lph",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-16/9gmx0csl/pexels-anete-lusina-5721137.jpg",
-   "published": "2026-10-16T22:30:00.000Z",
-   "added": "2026-10-16T23:30:16.181Z",
-   "origTitle": "মুসলিম সমাজে মোনাফেক কারা, তারা কীভাবে কাজ করে",
-   "en": {
-    "title": "Who are hypocrites in Muslim society and how they operate",
-    "summary": "The article explains the Islamic concept of munafiq (hypocrites) through the behavior of a desert jerboa, which digs escape tunnels. Hypocrites outwardly claim faith but inwardly harbour disbelief and ill will. The Quran describes this as a spiritual ailment that spreads like disease in society."
-   },
-   "bn": {
-    "title": "মুসলিম সমাজে মোনাফেক কারা এবং তারা কীভাবে কাজ করে",
-    "summary": "নিবন্ধে মরুভূমির জারবোয়া প্রাণীর উদাহরণ দিয়ে ইসলামে মোনাফেকির ধারণা ব্যাখ্যা করা হয়েছে। মোনাফেকরা বাইরে থেকে মুসলিম সমাজের অংশ দেখায় কিন্তু ভেতরে অবিশ্বাস লালন করে। কোরআনে এটিকে একটি আধ্যাত্মিক ব্যাধি বলা হয়েছে যা সমাজে ছড়িয়ে পড়ে।"
-   }
-  },
-  {
-   "id": "1b3pie8",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
-   "published": "2026-10-16T21:22:28.000Z",
-   "added": "2026-10-16T23:30:16.181Z",
-   "origTitle": "Replit is no longer working with Anthropic, CEO says",
-   "en": {
-    "title": "Replit ends partnership with Anthropic, switches to OpenAI",
-    "summary": "Replit CEO Amjad Masad announced Thursday that the coding platform is no longer working with Anthropic. The decision was based on cost, partnership terms, and performance metrics. Replit switched to OpenAI partnership announced in August, but industry insiders dispute whether Anthropic work has fully stopped."
-   },
-   "bn": {
-    "title": "রিপ্লিট অ্যান্থ্রোপিক থেকে সরে গেছে, ওপেনএআইতে চলে এসেছে",
-    "summary": "রিপ্লিট সিইও অমজাদ মাসাদ বৃহস্পতিবার জানিয়েছেন যে তারা আর অ্যান্থ্রোপিকের সাথে কাজ করছে না। খরচ, পার্টনারশিপ শর্তাবলী এবং পারফরম্যান্সের ভিত্তিতে এই সিদ্ধান্ত নেওয়া হয়েছে। রিপ্লিট এখন ওপেনএআইয়ের সাথে কাজ করবে, তবে জানাশোনা মানুষরা বলছেন অ্যান্থ্রোপিকের কাজ সম্পূর্ণ বন্ধ হয়নি।"
-   }
-  },
-  {
-   "id": "1kmcrbo",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-08-12T185012Z_480043168_UP1EM8C1GBM60_RTRMADP_3_SOCCER-FRIENDLY-MUN-LEE-1792151986.jpg?resize=1920%2C1440",
-   "published": "2026-10-16T22:53:26.000Z",
-   "added": "2026-10-16T23:30:16.181Z",
-   "origTitle": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
-   "en": {
-    "title": "Leeds face Manchester United in Premier League clash Sunday",
-    "summary": "Leeds United hosts Manchester United at Elland Road on Sunday at 2pm GMT in a fierce rivalry renewed. Leeds have been strong this season, losing just one of six league games. Manchester United, seeking to end a 40-year title drought, look to challenge."
-   },
-   "bn": {
-    "title": "লিডস ম্যানচেস্টার ইউনাইটেডকে মুখোমুখি করবে রবিবার",
-    "summary": "রবিবার দুপুর ২টায় ইল্যান্ড রোডে লিডস ম্যানচেস্টার ইউনাইটেডের সাথে খেলবে। এই দুই দলের মধ্যে প্রিমিয়ার লিগের অন্যতম প্রাণবন্ত প্রতিদ্বন্দ্বিতা রয়েছে। লিডস এ মৌসুমে ছয় ম্যাচে এক বার হেরেছে এবং শক্তিশালী অবস্থানে আছে।"
-   }
-  },
-  {
-   "id": "1d8olrn",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/sylhet/974985/%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%B6-%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87",
-   "image": null,
-   "published": "2026-10-16T22:32:45.000Z",
-   "added": "2026-10-16T23:30:16.181Z",
-   "origTitle": "বাঁশ কাটা নিয়ে সংঘর্ষ, এলাকা থেকে গড়ালো হাসপাতালে",
-   "en": {
-    "title": "Bamboo dispute escalates into hospital clash in Sunamganj",
-    "summary": "A fight over bamboo cutting at a house in Sakitpur village, Dirai upazila, Sunamganj, spilled into the local hospital's emergency ward on Friday afternoon. The conflict between two groups caused damage to medical equipment and spread panic among patients and staff. Police are investigating the incident."
-   },
-   "bn": {
-    "title": "বাঁশ নিয়ে ঝগড়া হাসপাতালে গড়িয়ে পড়েছে সুনামগঞ্জে",
-    "summary": "শুক্রবার বিকালে সুনামগঞ্জের দিরাই উপজেলার সাকিতপুর গ্রামে বাঁশ কাটা নিয়ে দুই পক্ষের সংঘর্ষ শুরু হয়। এই ঝগড়া শেষ পর্যন্ত হাসপাতালের জরুরি বিভাগে চলে যায়। সেখানে চিকিৎসা সরঞ্জাম ভাঙা হয় এবং রোগী ও কর্মীরা আতঙ্কিত হয়।"
    }
   }
  ]
