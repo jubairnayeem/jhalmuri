@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-20T20:30:17.603Z",
+ "updatedAt": "2026-10-20T23:48:56.283Z",
  "burning": [
   {
-   "id": "1rys5ee",
+   "id": "u5lmb3",
    "heat": 5,
    "why": {
-    "en": "Measles death toll at 1,204—major health crisis dominating news across multiple outlets.",
-    "bn": "হাম রোগে মৃত্যু ১,২০৪ এ পৌঁছেছে—একাধিক মাধ্যম কভার করছে, বড় স্বাস্থ্য সংকট।"
+    "en": "Bus-truck crash in Natore killed 13, a major transport disaster getting wide coverage.",
+    "bn": "নাটোরে বাস-ট্রাক সংঘর্ষে ১৩ জন নিহত, ব্যাপক আলোচনা চলছে।"
    },
    "rank": 1
   },
   {
-   "id": "u5lmb3",
-   "heat": 4,
+   "id": "1rys5ee",
+   "heat": 5,
    "why": {
-    "en": "Bus-truck collision in Natore kills 13—serious transport accident covered by multiple sources.",
-    "bn": "নাটোরে বাস-ট্রাকের সংঘর্ষে ১৩ জন মৃত—একাধিক সূত্র কভার করেছে, মারাত্মক দুর্ঘটনা।"
+    "en": "Measles outbreak death toll at 1,204 — a major health crisis dominating coverage.",
+    "bn": "হাম রোগের মহামারিতে ১,২০৪ জনের মৃত্যু, স্বাস্থ্য সংকট নিয়ে ব্যাপক আলোচনা।"
    },
    "rank": 2
   },
   {
-   "id": "1wij9hk",
+   "id": "gysy72",
    "heat": 4,
    "why": {
-    "en": "Durga Puja peaks with Maha Nabami celebration—major cultural event generating widespread coverage.",
-    "bn": "মহা নবমীতে দুর্গা পূজা শীর্ষে—বড় সাংস্কৃতিক অনুষ্ঠান, ব্যাপক কভারেজ পাচ্ছে।"
+    "en": "Google Cloud outage crashed websites and banking apps across multiple platforms.",
+    "bn": "গুগল ক্লাউড নেটওয়ার্ক ব্যর্থতা ওয়েবসাইট এবং ব্যাংকিং অ্যাপ ডাউন করেছে।"
    },
    "rank": 3
   },
   {
-   "id": "mxlifw",
-   "heat": 3,
+   "id": "144i70u",
+   "heat": 4,
    "why": {
-    "en": "School teacher found dead in Shariatpur after extortion demand—crime story with serious angle.",
-    "bn": "শরিয়তপুরে শিক্ষক মৃত পাওয়া গেছেন চাঁদাবাজির পর—গুরুতর অপরাধ সংবাদ।"
+    "en": "Saudi Arabia execution of 2 Bangladeshis is sensitive and widely reported regionally.",
+    "bn": "সৌদি আরবায় ২ বাংলাদেশির ফাঁসি অঞ্চলব্যাপী গুরুত্বপূর্ণ খবর।"
    },
    "rank": 4
   },
   {
-   "id": "puf2jz",
+   "id": "1wij9hk",
    "heat": 3,
    "why": {
-    "en": "Armed robbers loot 50–60 vehicles and over 100 passengers—crime wave getting attention.",
-    "bn": "সশস্ত্র ডাকাত ৫০-৬০ গাড়ি ও ১০০+ যাত্রী লুট করেছে—অপরাধ সংবাদ।"
+    "en": "Durga Puja peak celebration with Maha Nabami trending during the festival season.",
+    "bn": "দুর্গা পূজার মহা নবমী উৎসব মৌসুমে ট্রেন্ডিং।"
    },
    "rank": 5
   }
@@ -50,50 +50,50 @@
  "gossip": [
   {
    "id": "pbkfes",
-   "tag": "#AFGvWI",
+   "tag": "#AfghanCricket",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Afghanistan cricket big win",
-    "text": "Atal and Rashid powered Afghanistan to comprehensive victory. Cricket fans tracking Champions League and league matches across platforms."
+    "title": "Afghanistan cricket dominates",
+    "text": "Atal and Rashid power Afghanistan to a comprehensive victory, drawing interest from cricket fans across the region."
    },
    "bn": {
-    "title": "আফগানিস্তানের ক্রিকেট বড় জয়",
-    "text": "আতাল এবং রশিদ আফগানিস্তানকে বড় জয়ে নিয়ে গেছেন। ক্রিকেট ফ্যানরা চ্যাম্পিয়নস লিগ ফলো করছেন।"
+    "title": "আফগান ক্রিকেট আধিপত্য",
+    "text": "আতাল এবং রাশিদ আফগানিস্তানকে বড় জয়ে নিয়ে যায়, অঞ্চলব্যাপী ক্রিকেট ভক্তদের আগ্রহ বাড়ায়।"
    }
   },
   {
-   "id": "1kkjp6i",
-   "tag": "#BarçavPSG",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Barcelona-PSG delayed by Paris riots",
-    "text": "Barcelona faces delays ahead of PSG clash as Paris riots disrupt city. Champions League match caught in civil unrest."
-   },
-   "bn": {
-    "title": "বার্সেলোনা-পিএসজি দেরিতে খেলা হবে",
-    "text": "প্যারিসের দাঙ্গায় আটকে বার্সেলোনা-পিএসজির খেলা। চ্যাম্পিয়নস লিগ ম্যাচ গৃহযুদ্ধে ফেঁসেছে।"
-   }
-  },
-  {
-   "id": "8ce8pl",
-   "tag": "#DurgaPujaTravel",
+   "id": "5p7wjz",
+   "tag": "#HarmanpreetKaur",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Durga Puja draws tourists to Khagrachari",
-    "text": "Holiday season brings rush to Khagrachari as Durga Puja celebrations attract visitors across regions."
+    "title": "Harmanpreet ready for new chapter",
+    "text": "India's Harmanpreet Kaur prepares to enjoy life after captaincy without the pressure that came with the role."
    },
    "bn": {
-    "title": "দুর্গা পূজায় খাগড়াছড়িতে পর্যটক ভিড়",
-    "text": "পূজার ছুটিতে খাগড়াছড়িতে পর্যটক ভিড়। উৎসবে আকৃষ্ট হচ্ছে দেশের বিভিন্ন প্রান্তের মানুষ।"
+    "title": "হারমনপ্রীত নতুন দিকে",
+    "text": "ভারতের হারমনপ্রীত কৌর ক্যাপ্টেইনসিপ্রত্যাহারের পর চাপমুক্ত জীবন উপভোগ করতে প্রস্তুত।"
+   }
+  },
+  {
+   "id": "1twrotv",
+   "tag": "#Showbiz",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Popular model Sahara dies",
+    "text": "Renowned model Sahara passed away at 34, sending shockwaves through the entertainment industry."
+   },
+   "bn": {
+    "title": "জনপ্রিয় মডেল সাহারার মৃত্যু",
+    "text": "বিখ্যাত মডেল সাহারা ৩৪ বছর বয়সে মারা গেছেন, বিনোদন জগতে আলোড়ন পড়েছে।"
    }
   }
  ],
