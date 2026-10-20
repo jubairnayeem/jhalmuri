@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-20T00:16:31.115Z",
+ "updatedAt": "2026-10-20T05:56:43.643Z",
  "items": [
+  {
+   "id": "8ce8pl",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/ml9o0leds6",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-20/cyjmp14t/8053373a-0331-47c1-affa-90d1f7747186.jfif",
+   "published": "2026-10-20T05:49:09.000Z",
+   "added": "2026-10-20T05:56:43.643Z",
+   "origTitle": "পূজার ছুটিতে পাহাড়, নদী, ঝরনা দেখতে পর্যটকদের ভিড়, মুখর খাগড়াছড়ি",
+   "en": {
+    "title": "Durga Puja holidays bring tourist rush to Khagrachari",
+    "summary": "Khagrachari's mountain spots—Alutiala, Mayabini Lake, district council park—are packed with visitors during the Durga Puja break. On Monday alone, about 700 tourists visited the district park, triple the usual daily count. Jeeps heading to Sajek are fully booked through Saturday, and restaurants are swamped."
+   },
+   "bn": {
+    "title": "দুর্গাপূজার ছুটিতে খাগড়াছড়িতে পর্যটকদের ভিড়",
+    "summary": "দুর্গাপূজার ছুটিতে খাগড়াছড়ির পাহাড়, নদী আর ঝরনা দেখতে হাজার হাজার পর্যটক ভিড় করেছে। আলুটিলা, মায়াবিনী লেক, জেলা পরিষদ পার্ক সব জায়গায় মানুষের উপস্থিতি লক্ষ্য করা যাচ্ছে। সোমবার একা জেলা পরিষদ পার্কে ৭০০ জন পর্যটক প্রবেশ করেছেন, যা সাধারণ দিনের তিনগুণ।"
+   }
+  },
+  {
+   "id": "puf2jz",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/local-news/fwyvxl83ad",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-20/6c4uxdrz/prothomalo-bangla2026-10-19mavjknpjWhatsApp-Image-2026-10-19-at-9.33.26-PM.avif",
+   "published": "2026-10-20T05:35:31.000Z",
+   "added": "2026-10-20T05:56:36.473Z",
+   "origTitle": "Masked robbers hold over 100 passengers at gunpoint, loot 50–60 vehicles",
+   "en": {
+    "title": "Armed robbers loot 50–60 vehicles, over 100 passengers",
+    "summary": "Armed robbers held over 100 passengers at gunpoint on the Eidgaon–Eidgarh–Baishari road in Cox's Bazar's hilly upazilas on Monday, robbing 50–60 vehicles including CNGs and motorcycles. A group of 10–12 masked men stopped vehicles, beat passengers, and took cash, phones and valuables. Police had not made arrests by evening despite stepped-up patrols."
+   },
+   "bn": {
+    "title": "সশস্ত্র ডাকাতরা ৫০-৬০ গাড়ি ও ১০০ জন যাত্রী লুট করেছে",
+    "summary": "সোমবার কক্সবাজারের আইদগাঁও ও রামু উপজেলার পাহাড়ি রাস্তায় সশস্ত্র ডাকাতরা ১০০ জনেরও বেশি যাত্রীকে বন্দুকের মুখে লুট করেছে। ১০-১২ জন মুখোশধারী সদস্যের দল ৫০-৬০টি গাড়ি থেমিয়ে টাকা, মোবাইল ও মূল্যবান জিনিস নিয়েছে। সন্ধ্যা পর্যন্ত কেউ গ্রেপ্তার হয়নি।"
+   }
+  },
+  {
+   "id": "1dngmgx",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/world/japan-launches-spacecraft-explore-mars-mysterious-moons-bring-back-soil-samples-1578101",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/screenshot_2026-10-20_114918.png",
+   "published": "2026-10-20T05:45:00.000Z",
+   "added": "2026-10-20T05:56:36.473Z",
+   "origTitle": "Japan launches spacecraft to explore Mars' mysterious moons, bring back soil samples",
+   "en": {
+    "title": "Japan launches historic Mars moon sample mission",
+    "summary": "Japan launched a spacecraft October 20 on an unprecedented mission to Mars' moon Phobos to collect soil and rock samples returning in 2031. Five international space agencies joined the five-year, $578 million effort. No spacecraft has ever landed on Phobos; Japan has an edge after two successful asteroid sample-return missions."
+   },
+   "bn": {
+    "title": "মঙ্গল গ্রহের চাঁদ থেকে নমুনা সংগ্রহে জাপানের মিশন",
+    "summary": "জাপান ২০ অক্টোবর মঙ্গলের চাঁদ ফোবসে নেমে নমুনা সংগ্রহের অভূতপূর্ব মিশন শুরু করেছে। পাঁচটি মহাকাশ সংস্থা এই পাঁচ বছরের, ৫৭৮ মিলিয়ন ডলার মূল্যের মিশনে অংশ নিচ্ছে। ২০৩১ সালে নমুনা পৃথিবীতে ফেরত আসবে এবং কোনো যান এর আগে ফোবসে অবতরণ করেনি।"
+   }
+  },
+  {
+   "id": "148pks2",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?resize=1200,800",
+   "published": "2026-10-20T02:00:00.000Z",
+   "added": "2026-10-20T05:56:36.473Z",
+   "origTitle": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+   "en": {
+    "title": "Walmart's Flipkart tests food delivery in India",
+    "summary": "Flipkart, owned by Walmart, is quietly preparing to challenge India's food delivery duopoly of Zomato and Swiggy. The company has expanded internal testing from a few hundred to over 8,000 employees and deployed a dedicated rider fleet under the 'Eat-in by Minutes' branding. The market grows 18–20% annually, though Zomato and Swiggy still dominate with 85–95 million paying customers yearly."
+   },
+   "bn": {
+    "title": "ওয়ালমার্টের ফ্লিপকার্ট খাবার ডেলিভারি পরীক্ষা করছে",
+    "summary": "ওয়ালমার্টের মালিকানাধীন ফ্লিপকার্ট ভারতে খাবার ডেলিভারি সেবা পরীক্ষা করছে। কর্মচারী পর্যায়ের পরীক্ষা এখন ৮০০০ জন ছাড়িয়ে গেছে এবং তারা 'Eat-in by Minutes' ব্র্যান্ডিংয়ের অধীনে রাইডার নিয়োগ করেছে। বাজার বছরে ১৮-২০ শতাংশ বৃদ্ধি পাচ্ছে, কিন্তু জোমাটো ও সুইগি এখনও প্রভাবশালী।"
+   }
+  },
+  {
+   "id": "1ersduj",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c5vgj4p0nv83o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
+   "published": "2026-10-20T03:21:29.000Z",
+   "added": "2026-10-20T05:56:36.473Z",
+   "origTitle": "ফ্রান্সজুড়ে দাঙ্গা, প্যারিসের কিছু জায়গা এবং অন্যান্য শহরে কারফিউ জারি",
+   "en": {
+    "title": "France enforces curfews as riots spread across cities",
+    "summary": "France has imposed nighttime curfews (11pm–6am) in central Paris and other cities after widespread rioting and looting. Police have arrested over 2,500 people, and approximately 1,000 officers have been injured. Interior Minister Laurent Nunez faced criticism but rejected resignation as PM Sebastian Lecornu weighed emergency measures and said compensation for damages would be recovered from those responsible."
+   },
+   "bn": {
+    "title": "ফ্রান্সজুড়ে দাঙ্গা, প্যারিস ও শহরগুলোতে কারফিউ",
+    "summary": "ফ্রান্সে ব্যাপক দাঙ্গা ও লুটপাটের পর প্যারিস এবং দেশের বিভিন্ন শহরে রাত ১১টা থেকে সকাল ৬টা পর্যন্ত কারফিউ জারি করা হয়েছে। পুলিশ ২৫০০ জনেরও বেশি গ্রেপ্তার করেছে এবং প্রায় ১০০০ পুলিশ কর্মকর্তা আহত হয়েছেন। প্রধানমন্ত্রী জরুরি অবস্থা জারির সম্ভাবনা নাকচ করেননি।"
+   }
+  },
+  {
+   "id": "1g345n4",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acf35b67a05-1791964598.jpg?resize=1920%2C1440",
+   "published": "2026-10-20T05:25:31.000Z",
+   "added": "2026-10-20T05:56:36.473Z",
+   "origTitle": "Israel’s elections 2026 explained in maps and charts",
+   "en": {
+    "title": "Israel holds elections amid wars and corruption trial",
+    "summary": "Israelis vote October 27 for the 120-seat parliament in the first general election since Gaza, Lebanon and Iran conflicts. PM Benjamin Netanyahu, leading for 19 years, is running again despite corruption charges. About 7.3 million eligible voters will decide between Netanyahu's Likud coalition and the opposition bloc, with neither side expected to win outright."
+   },
+   "bn": {
+    "title": "যুদ্ধ ও দুর্নীতির মধ্যে ইসরায়েল নির্বাচন",
+    "summary": "২৭ অক্টোবর ইসরায়েলে ১২০ আসনের সংসদের নির্বাচন হবে। দীর্ঘমেয়াদী প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহু দুর্নীতির অভিযোগের মধ্যেও আবার মেয়াদ চাচ্ছেন। প্রায় ৭.৩ মিলিয়ন ভোটার তার লিকুড এবং বিরোধী জোটের মধ্যে পছন্দ করবেন।"
+   }
+  },
+  {
+   "id": "u5lmb3",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/politics/jamat-e-islam/975626/%E0%A6%A8%E0%A6%BE%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0",
+   "image": null,
+   "published": "2026-10-20T05:54:52.000Z",
+   "added": "2026-10-20T05:56:36.473Z",
+   "origTitle": "নাটোরে বাস-ট্রাক সংঘর্ষে হতাহতের ঘটনায় জামায়াতের শোক",
+   "en": {
+    "title": "Bus-truck crash kills 13, injures 30 in Natore",
+    "summary": "A head-on collision between a bus and truck on the Natore-Pabna highway in Bonpara left 13 dead and at least 30 injured. Jamaat-e-Islami expressed deep concern, with party secretary-general Mia Golam Parwar citing poor traffic management on the country's roads as a contributing factor. The accident highlights ongoing safety issues on major highways."
+   },
+   "bn": {
+    "title": "নাটোরে বাস-ট্রাক সংঘর্ষে ১৩ জন নিহত, ৩০ জন আহত",
+    "summary": "নাটোর-পাবনা মহাসড়কের বনপাড়ায় বাস ও ট্রাকের মুখোমুখি সংঘর্ষে ১৩ জন নিহত এবং অন্তত ৩০ জন আহত হয়েছেন। জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার দেশের সড়কে ট্রাফিক ব্যবস্থাপনার ত্রুটি এবং এমন ঘটনার পুনরাবৃত্তির কথা উল্লেখ করেছেন।"
+   }
+  },
   {
    "id": "pbkfes",
    "section": "news",
@@ -3145,182 +3299,6 @@
    "bn": {
     "title": "টিভি চ্যানেলের বিকৃত ভিডিও পোস্টে অভিনেত্রীর ক্ষোভ",
     "summary": "সোমবার রাতে মাছরাঙা টেলিভিশনের ভেরিফাইড ইনস্টাগ্রাম অ্যাকাউন্টে পরীমণি ও মেহজাবীনের বিকৃত ভিডিওসহ পাঁচটি পোস্ট প্রকাশ করা হয়। মঙ্গলবার দুপুর পর্যন্ত পোস্টগুলো ছিল। এরপর চ্যানেল কতৃপক্ষ দু:খ প্রকাশ করে একটি ফটোকার্ড দেয়। পরীমণি রেগে গিয়ে বলেন, তার কাজ নষ্ট করে দিলেন।"
-   }
-  },
-  {
-   "id": "ypb20i",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558830.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423800/423868.jpg",
-   "published": "2026-10-17T03:50:26.000Z",
-   "added": "2026-10-17T04:14:53.128Z",
-   "origTitle": "Deepti on Niki Prasad: 'It didn't seem at all like she was making her debut'",
-   "en": {
-    "title": "Deepti backs Niki Prasad's debut for India in T20I",
-    "summary": "India's Deepti praised debutant Niki Prasad after India fell to 19 for 4 against Zimbabwe in a T20I. Despite the early collapse, Deepti backed the batters' aggressive approach. Prasad looked calm and confident for someone making her first appearance. India's aggressive strategy is paying off even when things look rough early on."
-   },
-   "bn": {
-    "title": "দীপ্তি নিকী প্রসাদের ডেবিউ ম্যাচ নিয়ে প্রশংসা করেছেন",
-    "summary": "জিম্বাবোয়ের বিপক্ষে টি২০আই তে ভারত ১৯ রান দুই উইকেটে পড়ে গিয়েছিল, তখন দীপ্তি নিকী প্রসাদকে প্রশংসা করেছেন। প্রসাদ তার প্রথম ম্যাচে খুবই আত্মবিশ্বাসী দেখাচ্ছিলেন। ভারত আক্রমণাত্মক খেলার পথ ধরে আছে যা কাজ দিচ্ছে। দলটি শুরুর দিকে কঠিন পরিস্থিতিতেও এই কৌশলে বিশ্বাস রাখছে।"
-   }
-  },
-  {
-   "id": "h2jx6y",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XRDNkX1dhemwxTjlQRzNQdzdQTjFHMGZMOFNueno3SENVdkowemJHVEZfQ0JMYmJ5MXNVdnoxa2l0LV9YV0tyWXhHcXZkOFc1OTZ0YnpxbmkzSDJlb2pzVjBzbGdWcE3SAXRBVV95cUxQemtUWVF5a2szUW9FQ2Z3TkJMc1lfZjBIWUh6aFZsZ1JuX1haWWQ2ZVN2YU5Qc2lyZ0VpR0FvS3IwMHJNOW5jRlgtSm5nYnlaNmQ4b2dNem9hV2xRWkY3RVFVZEFrd1RORWFocFRZZzhGeERpbw?oc=5",
-   "image": null,
-   "published": "2026-10-16T08:00:12.000Z",
-   "added": "2026-10-17T04:14:53.128Z",
-   "origTitle": "Two killed by speeding truck in Shyamoli, crushed bodies found on street",
-   "en": {
-    "title": "Two killed by speeding truck in Shyamoli",
-    "summary": "A speeding truck hit two people in Shyamoli, leaving their bodies on the street. The incident highlights the ongoing danger of reckless driving in busy areas of Dhaka. Local authorities are investigating the accident. Road safety remains a critical concern in the city."
-   },
-   "bn": {
-    "title": "শ্যামলীতে দ্রুতগামী ট্রাক দুই জনকে মেরে ফেলেছে",
-    "summary": "শ্যামলীতে একটি দ্রুতগামী ট্রাক দুই জনকে আঘাত করেছে এবং তাদের লাশ রাস্তায় পড়ে থাকে। এই ঘটনা ঢাকার ব্যস্ত এলাকায় অসম্মতিপূর্ণ ড্রাইভিং এর বিপদ তুলে ধরে। স্থানীয় কর্তৃপক্ষ দুর্ঘটনার তদন্ত করছে। রাস্তায় নিরাপত্তা শহরে একটি গুরুতর সমস্যা থেকে যায়।"
-   }
-  },
-  {
-   "id": "atgzmd",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/cricket/7z5hrtix8i",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-16/hince120/gettyimages-2249071161-2048x2048b.jpg",
-   "published": "2026-10-17T03:30:00.000Z",
-   "added": "2026-10-17T04:14:43.062Z",
-   "origTitle": "দিনের বেলার টেস্টে গোলাপি বল: পক্ষে-বিপক্ষে কার কী যুক্তি",
-   "en": {
-    "title": "Pink ball in day-time Test cricket sparks debate among players",
-    "summary": "Cricket's International Council allows day-time Test matches to use pink balls if both teams agree before play starts. During Australia vs South Africa in Durban, light stopped play 25 overs short on day one. Coach Andrew McDonald rejected the pink-ball option, calling it risky compared to the traditional red ball."
-   },
-   "bn": {
-    "title": "দিনের টেস্টে গোলাপি বল নিয়ে বিতর্ক",
-    "summary": "আন্তর্জাতিক ক্রিকেট কাউন্সিল দিনের বেলার টেস্টে গোলাপি বল ব্যবহারের অনুমতি দিয়েছে যদি উভয় দল ম্যাচের আগে সম্মতি দেয়। ডারবানে অস্ট্রেলিয়া-দক্ষিণ আফ্রিকা ম্যাচে আলোর অভাবে প্রথম দিনে ২৫ ওভার হারিয়ে গেছে। অস্ট্রেলিয়ার কোচ গোলাপি বল ব্যবহার করতে অনিচ্ছা দেখিয়েছেন।"
-   }
-  },
-  {
-   "id": "zllneo",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad2d683dbb6-1792202371.jpg?resize=1920%2C1440",
-   "published": "2026-10-17T03:30:36.000Z",
-   "added": "2026-10-17T04:14:43.062Z",
-   "origTitle": "Southern California wildfire engulfs homes, prompts evacuation orders",
-   "en": {
-    "title": "Fast wildfire in Orange County prompts mass evacuations",
-    "summary": "The Norte Fire in Southern California has burned about 231 hectares and destroyed at least six homes in San Juan Capistrano. Some 16,000 residents are under evacuation orders. Unseasonably high temperatures, low humidity, and Santa Ana winds with gusts up to 90 km/h are driving rapid spread."
-   },
-   "bn": {
-    "title": "দক্ষিণ ক্যালিফোর্নিয়ায় দ্রুত ছড়ানো দাবানল",
-    "summary": "নর্তে ফায়ার অতি দ্রুত ছড়িয়ে পড়ে প্রায় ২৩১ হেক্টর জ্বালিয়ে দিয়েছে এবং সান জুয়ান কাপিস্ট্রানোতে অন্তত ছয়টি ঘর ধ্বংস করেছে। প্রায় ১৬,০০০ বাসিন্দা সরিয়ে নেওয়া হয়েছে। অস্বাভাবিক তাপমাত্রা, শুষ্ক আবহাওয়া এবং ঘন্টায় ৯০ কিমি বেগের বাতাস আগুন দ্রুত ছড়াচ্ছে।"
-   }
-  },
-  {
-   "id": "okva9b",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
-   "published": "2026-10-17T02:36:18.000Z",
-   "added": "2026-10-17T04:14:43.062Z",
-   "origTitle": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-   "en": {
-    "title": "Mark Wahlberg launches affordable gym to take on luxury wellness",
-    "summary": "Actor Mark Wahlberg is opening Municipal Gym in December near Las Vegas, a 32,000-square-foot club with blood work, epigenetic testing, and recovery gear. He's pitching it as a cheaper alternative to longevity clubs that charge tens of thousands yearly. The project grew from his seven-year-old Municipal clothing brand started during COVID."
-   },
-   "bn": {
-    "title": "মার্ক ওয়ালবার্গের সাশ্রয়ী জিম প্রজেক্ট লঞ্চ",
-    "summary": "অভিনেতা মার্ক ওয়ালবার্গ ডিসেম্বরে লাস ভেগাসের কাছে ৩২,০০০ বর্গফুটের মিউনিসিপাল জিম খুলছেন যেখানে ব্লাড ওয়ার্ক এবং রিকভারি গিয়ার থাকবে। তিনি এটিকে বিলাসবহুল ওয়েলনেস ক্লাবের চেয়ে সাশ্রয়ী বিকল্প হিসেবে উপস্থাপন করছেন। প্রকল্পটি তার কোভিড সময়ের সাত বছর পুরনো মিউনিসিপাল পোশাক ব্র্যান্ড থেকে বেড়ে উঠেছে।"
-   }
-  },
-  {
-   "id": "hmptm1",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
-   "published": "2026-10-17T02:33:09.000Z",
-   "added": "2026-10-17T04:14:43.062Z",
-   "origTitle": "Brazil sees record fall in Amazon deforestation as key election looms",
-   "en": {
-    "title": "Brazil's Amazon deforestation hits record low ahead of election",
-    "summary": "Deforestation in Brazil's Amazon fell 41.8% in the year to July 2026, the biggest drop since records began in 1988. President Lula pledged to end illegal logging by 2030 after reversing his predecessor Bolsonaro's policies. The Amazon, home to millions of species, is critical for fighting climate change."
-   },
-   "bn": {
-    "title": "ব্রাজিলে অ্যামাজন বন উজাড় রেকর্ড হারে কমেছে",
-    "summary": "২০২৬ সালের জুলাই পর্যন্ত বছরে ব্রাজিলের অ্যামাজনে বন উজাড় ৪১.৮ শতাংশ কমেছে, যা ১৯৮৮ সালের রেকর্ড শুরু থেকে সর্বোচ্চ হ্রাস। প্রেসিডেন্ট লুলা পূর্বসূরি বোলসোনারোর নীতি বাতিল করে ২০৩০ সালের মধ্যে অবৈধ কাটছাঁট শেষ করার প্রতিশ্রুতি দিয়েছেন।"
-   }
-  },
-  {
-   "id": "1wsjnmq",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cwm26yr13vydo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df6a/live/70f66cf0-c8c0-11f1-bdfb-e3788aeae9ec.jpg",
-   "published": "2026-10-17T01:59:41.000Z",
-   "added": "2026-10-17T04:14:43.062Z",
-   "origTitle": "ভুট্টা চাষীদের সার সংকটের যে চিত্র দেখেছে বিবিসি",
-   "en": {
-    "title": "Corn farmers in Gaibandha face severe fertiliser shortage, price hikes",
-    "summary": "Farmers in Gaibandha's Char Guptamoni are struggling to buy fertiliser for corn planting season. Prices are 300 taka higher than government rates, with dealers limiting purchases and demanding ID cards. Some farmers can only plant on part of their land due to shortages, threatening the coming harvest."
-   },
-   "bn": {
-    "title": "গাইবান্ধায় ভুট্টা চাষীরা সারের সংকটে জর্জরিত",
-    "summary": "গাইবান্ধার চর গুপ্তমনিতে ভুট্টা চাষের মৌসুমে কৃষকরা সার কিনতে গিয়ে দুর্ভোগ পাচ্ছেন। সরকার নির্ধারিত দাম থেকে ৩০০ টাকা বেশি দামে সার পাওয়া যাচ্ছে এবং ডিলাররা আইডি কার্ড ছাড়া বিক্রি করছেন না। অনেক চাষী তাদের জমির একটি অংশেই শুধু সার দিয়ে আবাদ করতে পারছেন।"
-   }
-  },
-  {
-   "id": "11stlxk",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/foreign-policy/transport-tech-energy-bangladesh-seek-14b-investment-japan-during-pms-visit-1575021",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/p1_infograph_bangladesh_to_seek_14b_loan_from_japan_lead-1.png",
-   "published": "2026-10-17T04:00:00.000Z",
-   "added": "2026-10-17T04:14:43.062Z",
-   "origTitle": "Transport, tech, energy: Bangladesh to seek $14b investment from Japan during PM's visit",
-   "en": {
-    "title": "Bangladesh seeks $14B from Japan for transport and energy",
-    "summary": "PM Tarique Rahman is heading to Tokyo on 26 October to pitch a massive ¥2.2 trillion investment package to Japan for 2026-31. The plan covers 12 sectors including metro rail, bridges, and the Bay of Bengal Industrial Growth Belt. Japan has already given over $34 billion since 1971 and remains Bangladesh's top development partner."
-   },
-   "bn": {
-    "title": "জাপানের কাছ থেকে ১৪ বিলিয়ন ডলার বিনিয়োগের প্রস্তাব",
-    "summary": "প্রধানমন্ত্রী তারিক রহমান ২৬ অক্টোবর টোকিওতে গিয়ে জাপানকে ২০২৬-৩১ সালের জন্য ¥২.২ ট্রিলিয়ন বিনিয়োগ প্যাকেজ দেখাবেন। এতে মেট্রো রেল, সেতু এবং বে অফ বেঙ্গল ইন্ডাস্ট্রিয়াল গ্রোথ বেল্টের মতো ১২টি খাত থাকবে। জাপান ১৯৭১ সালের পর থেকে ৩৪ বিলিয়ন ডলারেরও বেশি দিয়েছে।"
    }
   }
  ]

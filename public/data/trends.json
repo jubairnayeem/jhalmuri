@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-20T00:16:49.713Z",
+ "updatedAt": "2026-10-20T05:57:01.915Z",
  "burning": [
   {
    "id": "1j3lwni",
    "heat": 5,
    "why": {
-    "en": "France riots dominate global news; multiple outlets covering Macron's response and nationwide violence.",
-    "bn": "ফ্রান্সের দাঙ্গা বিশ্বব্যাপী খবরে শীর্ষে; ম্যাক্রোঁর প্রতিক্রিয়া এবং সর্বত্র সহিংসতা নিয়ে একাধিক আউটলেট রিপোর্ট করছে।"
+    "en": "France riots dominate global news; multiple outlets covering nationwide violence, curfews, and Macron's response.",
+    "bn": "ফ্রান্সের দাঙ্গা বিশ্বব্যাপী সংবাদে শীর্ষে; কারফিউ আর ম্যাক্রোঁর প্রতিক্রিয়া নিয়ে একাধিক আউটলেট কভার করছে।"
    },
    "rank": 1
   },
   {
-   "id": "1vj73dh",
-   "heat": 5,
+   "id": "u5lmb3",
+   "heat": 4,
    "why": {
-    "en": "Bangladesh PM directs deputy minister's resignation amid armed drug raid backlash; major domestic political story.",
-    "bn": "সশস্ত্র ড্রাগ অভিযানের প্রতিক্রিয়ায় বাংলাদেশের প্রধানমন্ত্রী ডেপুটি মন্ত্রীর পদত্যাগের নির্দেশ দিয়েছেন; গুরুত্বপূর্ণ দেশীয় রাজনৈতিক খবর।"
+    "en": "Bus-truck crash in Natore kills 13 and injures 30; major road accident dominating Bangladesh news.",
+    "bn": "নাটোরে বাস-ট্রাক দুর্ঘটনায় ১৩ জন মারা গেছেন, ৩০ জন আহত; বাংলাদেশের প্রধান খবর।"
    },
    "rank": 2
   },
   {
-   "id": "16ynt7u",
+   "id": "puf2jz",
    "heat": 4,
    "why": {
-    "en": "Gazipur murder case draws attention; serious crime story with significant local impact.",
-    "bn": "গাজীপুরে হত্যার ঘটনা মনোযোগ আকর্ষণ করছে; স্থানীয় প্রভাব সহ গুরুতর অপরাধ খবর।"
+    "en": "Armed robbery wave on highways loots 50–60 vehicles and 100+ passengers; serious crime story gaining traction.",
+    "bn": "হাইওয়েতে সশস্ত্র ডাকাতি: ৫০-৬০টি গাড়ি আর ১০০+ যাত্রী লুণ্ঠিত; গুরুতর অপরাধ সংবাদ।"
    },
    "rank": 3
   },
   {
-   "id": "pbkfes",
-   "heat": 4,
+   "id": "149v2ds",
+   "heat": 3,
    "why": {
-    "en": "Afghanistan cricket victory gets sports media coverage; regional interest in khela news.",
-    "bn": "আফগানিস্তানের ক্রিকেট বিজয় খেলাধুলার মিডিয়া কভারেজ পাচ্ছে; খেলা খবরে আঞ্চলিক আগ্রহ।"
+    "en": "Australian MP critically injured in apparent car attack; international incident covered by major outlets.",
+    "bn": "অস্ট্রেলিয়ার এমপি গাড়ির আঘাতে গুরুতরভাবে আহত; আন্তর্জাতিক ঘটনা ব্যাপক কভারেজ পাচ্ছে।"
    },
    "rank": 4
   },
   {
-   "id": "1ftw5ov",
-   "heat": 4,
+   "id": "8ce8pl",
+   "heat": 3,
    "why": {
-    "en": "Bangladesh questions Saudi Arabia over execution of nationals; significant diplomatic story.",
-    "bn": "বাংলাদেশ সৌদি আরবের কাছে তার নাগরিকদের মৃত্যুদণ্ড নিয়ে প্রশ্ন তুলেছে; গুরুত্বপূর্ণ কূটনৈতিক খবর।"
+    "en": "Durga Puja holidays draw tourist crowds to Khagrachari; seasonal Bangladesh story with regional interest.",
+    "bn": "দুর্গা পূজার ছুটিতে খাগড়াছড়িতে পর্যটক ভিড়; আঞ্চলিক আগ্রহের বাংলাদেশ সংবাদ।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1ncvwbn",
-   "tag": "#হাসপাতাল",
+   "id": "149v2ds",
+   "tag": "#AustralianMPAttacked",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Engineer dies day before wedding",
-    "text": "A young engineer in Bangladesh died just before his wedding. Family blames hospital care for the death."
+    "title": "Australian MP hit by car",
+    "text": "Independent MP Helen Haines critically injured after being struck by a vehicle in what authorities are treating as an apparent attack. The incident has drawn widespread political condemnation."
    },
    "bn": {
-    "title": "বিবাহের আগের দিন প্রকৌশলীর মৃত্যু",
-    "text": "বাংলাদেশে একজন তরুণ প্রকৌশলী তার বিবাহের আগে মারা গেছেন। পরিবার হাসপাতালের যত্নকে দায়ী করছে।"
+    "title": "অস্ট্রেলিয়ান এমপি গাড়িতে আঘাতপ্রাপ্ত",
+    "text": "স্বাধীন এমপি হেলেন হেইনস একটি গাড়ির আঘাতে গুরুতরভাবে আহত হয়েছেন, যা কর্তৃপক্ষ একটি আক্রমণ হিসেবে দেখছে। এটি ব্যাপক রাজনৈতিক নিন্দা এনেছে।"
    }
   },
   {
-   "id": "rrbb0o",
-   "tag": "#এয়ারঅ্যাম্বুলেন্স",
+   "id": "3wwu0k",
+   "tag": "#DurgaPuja",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Air ambulance door opens mid-flight",
-    "text": "An Indian air ambulance's door opened while in the air, and a patient died. A serious aviation incident."
+    "title": "PM visits Durga Puja celebrations",
+    "text": "PM Tarique Rahman is touring three divisions during the Durga Puja holiday season, marking the festival's significance in the country."
    },
    "bn": {
-    "title": "ভাসমান অ্যাম্বুলেন্সের দরজা খুলে গেল",
-    "text": "ভারতীয় এয়ার অ্যাম্বুলেন্সের দরজা উড়ার সময় খুলে গেছে এবং রোগী মারা গেছেন। গুরুতর বিমান ঘটনা।"
+    "title": "প্রধানমন্ত্রী পূজা উদযাপন পরিদর্শন",
+    "text": "প্রধানমন্ত্রী তারিক রহমান দুর্গা পূজা উদযাপনের সময় তিনটি বিভাগ ভ্রমণ করছেন, উৎসবের গুরুত্ব তুলে ধরতে।"
    }
   },
   {
-   "id": "1hlhx9i",
-   "tag": "#আহসানম্যানজিল",
+   "id": "1d33qd6",
+   "tag": "#DeputyMinisterQuits",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Five mysterious safes found at Ahsan Manzil",
-    "text": "Discovery of five mysterious safes inside the historic Ahsan Manzil building has sparked curiosity about what they contain."
+    "title": "Deputy minister resigns over video",
+    "text": "A deputy minister has quit following backlash after a video surfaced showing an armed drug raid, sparking public controversy."
    },
    "bn": {
-    "title": "আহসান মঞ্জিলে রহস্যময় সেফ পাওয়া গেছে",
-    "text": "ঐতিহাসিক আহসান মঞ্জিলের ভেতরে পাঁচটি রহস্যময় সেফ পাওয়া গেছে যা কী আছে তা নিয়ে কৌতূহল জাগছে।"
+    "title": "ভিডিও নিয়ে ডেপুটি মন্ত্রী ইস্তিফা",
+    "text": "একটি সশস্ত্র ওষুধ অভিযানের ভিডিও ভাইরাল হওয়ার পর জনরোষের কারণে একজন ডেপুটি মন্ত্রী পদত্যাগ করেছেন।"
    }
   },
   {
-   "id": "12dnlzx",
-   "tag": "#রিয়েলমাদ্রিদ",
+   "id": "1oomj9",
+   "tag": "#AmazonAI",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 2,
    "en": {
-    "title": "Mbappé scores twice in Real Madrid rout",
-    "text": "Real Madrid thrashed Sevilla 4-1 with Mbappé hitting two goals in a dominant performance."
+    "title": "Amazon launches AI chip rival",
+    "text": "Amazon has unveiled TorchNeuron, a new AI chip designed to challenge Nvidia's dominance in the artificial intelligence hardware market."
    },
    "bn": {
-    "title": "এমবাপ্পে দুই গোল করে রিয়েল জিতিয়েছে",
-    "text": "এমবাপ্পে দুটি গোল করে রিয়েল মাদ্রিদকে সেভিয়ার বিপক্ষে ৪-১ জয়ে সাহায্য করেছে।"
+    "title": "অ্যামাজন AI চিপ লঞ্চ করল",
+    "text": "অ্যামাজন TorchNeuron নামের নতুন AI চিপ প্রকাশ করেছে, যা এনভিডিয়ার বিরুদ্ধে প্রতিযোগিতা করবে।"
    }
   }
  ],

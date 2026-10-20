@@ -1,10 +1,18 @@
 {
- "updatedAt": "2026-10-19T07:41:31.340Z",
+ "updatedAt": "2026-10-20T05:57:02.889Z",
  "english": {
   "source": "Apple Music · most played (US)",
   "items": [
    {
     "rank": 1,
+    "title": "Housewife",
+    "artist": "Tate McRae",
+    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+    "key": "housewife|tate mcrae",
+    "prev": 2
+   },
+   {
+    "rank": 2,
     "title": "Lies (feat. Lana Del Rey)",
     "artist": "Zach Bryan & Lana Del Rey",
     "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
@@ -12,20 +20,12 @@
     "prev": 1
    },
    {
-    "rank": 2,
-    "title": "Housewife",
-    "artist": "Tate McRae",
-    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
-    "key": "housewife|tate mcrae",
-    "prev": 3
-   },
-   {
     "rank": 3,
     "title": "Choosin' Texas",
     "artist": "Ella Langley",
     "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
     "key": "choosin' texas|ella langley",
-    "prev": 2
+    "prev": 3
    },
    {
     "rank": 4,
@@ -33,7 +33,7 @@
     "artist": "KAROL G, Judeline & rusowsky",
     "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
     "key": "bby wow|karol g, judeline & rusowsky",
-    "prev": 5
+    "prev": 4
    },
    {
     "rank": 5,
@@ -41,7 +41,7 @@
     "artist": "Drake & Don Toliver",
     "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
     "key": "solar eclipse|drake & don toliver",
-    "prev": 4
+    "prev": 5
    },
    {
     "rank": 6,
@@ -61,6 +61,14 @@
    },
    {
     "rank": 8,
+    "title": "Nicole Kidman",
+    "artist": "ADÉLA",
+    "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825",
+    "key": "nicole kidman|adéla",
+    "prev": 9
+   },
+   {
+    "rank": 9,
     "title": "Janice STFU",
     "artist": "Drake",
     "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
@@ -68,20 +76,12 @@
     "prev": 8
    },
    {
-    "rank": 9,
-    "title": "Nicole Kidman",
-    "artist": "ADÉLA",
-    "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825",
-    "key": "nicole kidman|adéla",
-    "prev": 10
-   },
-   {
     "rank": 10,
     "title": "Been By Now",
     "artist": "Morgan Wallen",
     "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
     "key": "been by now|morgan wallen",
-    "prev": 9
+    "prev": 10
    }
   ]
  },
