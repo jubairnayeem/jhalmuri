@@ -1,6 +1,248 @@
 {
- "updatedAt": "2026-10-21T15:08:13.287Z",
+ "updatedAt": "2026-10-21T20:05:11.620Z",
  "items": [
+  {
+   "id": "16ik88c",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1559341.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/424100/424114.jpg",
+   "published": "2026-10-21T19:20:56.000Z",
+   "added": "2026-10-21T20:05:11.620Z",
+   "origTitle": "Rahmat, Rashid knock Bangladesh out and send Afghanistan to final",
+   "en": {
+    "title": "Rahmat and Rashid send Afghanistan to final",
+    "summary": "Afghanistan knocked Bangladesh out of the tournament with a comfortable chase of Bangladesh's 160-run total. The victory sends Afghanistan to the final to face Zimbabwe. Bangladesh's score fell short as Afghanistan reached their target with relative ease."
+   },
+   "bn": {
+    "title": "রাহমাত-রাশিদ আফগানিস্তানকে ফাইনালে পাঠালেন",
+    "summary": "আফগানিস্তান বাংলাদেশের ১৬০ রান ধরে ফেলে তাদের বের করে দিয়েছে। এই জয়ে আফগানিস্তান জিম্বাবুয়ের মুখোমুখি হতে ফাইনালে পৌঁছেছে। বাংলাদেশের স্কোর আফগানিস্তানের জন্য যথেষ্ট ছিল না।"
+   }
+  },
+  {
+   "id": "1ujhhw",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/world/europe/lmqle5gu4o",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/44nux2fe/Capture.PNG",
+   "published": "2026-10-21T19:24:31.000Z",
+   "added": "2026-10-21T20:05:11.620Z",
+   "origTitle": "রাজপরিবারের সঙ্গে স্বাভাবিক সম্পর্কে ফিরতে চান হ্যারি",
+   "en": {
+    "title": "Prince Harry wants normal ties with royal family again",
+    "summary": "Prince Harry told GQ magazine he wants to heal the rift with Britain's royal family. He moved to California six years ago and has since criticized the family publicly, causing tension. Contact resumed recently after King Charles's cancer diagnosis, and Harry hopes to repair relationships and eventually return to the UK."
+   },
+   "bn": {
+    "title": "প্রিন্স হ্যারি রাজপরিবারের সাথে স্বাভাবিক সম্পর্ক চান",
+    "summary": "প্রিন্স হ্যারি জিকিউ ম্যাগাজিনকে বলেছেন তিনি ব্রিটিশ রাজপরিবারের সাথে সম্পর্ক উন্নত করতে চান। ছয় বছর আগে ক্যালিফোর্নিয়ায় গিয়ে পরিবারকে সমালোচনা করায় দূরত্ব তৈরি হয়েছিল। রাজা চার্লসের ক্যানসার ধরা পড়ার পর থেকে সম্পর্ক উন্নত হচ্ছে এবং হ্যারি যুক্তরাজ্যে ফিরে আসার পরিকল্পনা করছেন।"
+   }
+  },
+  {
+   "id": "q17cd7",
+   "section": "hasi",
+   "cat": "world",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/fired-general-warned-of-missile-shortages-before-iran-war/",
+   "image": "https://theonion.com/wp-content/uploads/2026/03/AmericanVoice_OG_FINAL_2.jpg",
+   "published": "2026-10-21T16:26:04.000Z",
+   "added": "2026-10-21T20:05:11.620Z",
+   "origTitle": "Fired General Warned Of Missile Shortages Before Iran War",
+   "en": {
+    "title": "The Onion: General warned of missile shortages before Iran War",
+    "summary": "This is satire. The Onion reports that Gen. Randy George warned of low US interceptor missile stockpiles two months before an imaginary Iran War started. The piece mocks military planning and the concept of keeping serious warnings quiet until writing a memoir later."
+   },
+   "bn": {
+    "title": "সেটায়ার: ইরান যুদ্ধের আগে জেনারেল দিয়েছিলেন ক্ষেপণাস্ত্র সতর্কতা",
+    "summary": "এটা সেটায়ার (তামাশাকারী সংবাদ)। দ্য অনিয়ন লেখে যে জেনারেল র্যান্ডি জর্জ একটি কাল্পনিক ইরান যুদ্ধের দুই মাস আগে আমেরিকার ক্ষেপণাস্ত্র সংকট সম্পর্কে সতর্ক করেছিলেন। এটা সামরিক পরিকল্পনা এবং গুরুত্বপূর্ণ তথ্য চুপ করে রেখে পরে বই লেখার ধারণা নিয়ে মজা করে।"
+   }
+  },
+  {
+   "id": "lvxs4d",
+   "section": "hasi",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/21/space-debris-stevens-county-minnesota/1601792604854/",
+   "image": "https://cdnph.upi.com/ph/st/th/1601792604854/2026/i/17926051081188/v1.5/Presumed-space-object-lands-in-Minnesota-cornfield.jpg",
+   "published": "2026-10-21T17:52:57.000Z",
+   "added": "2026-10-21T20:05:11.620Z",
+   "origTitle": "Look: Presumed 'space object' lands in Minnesota cornfield",
+   "en": {
+    "title": "Mystery metal object falls in Minnesota cornfield",
+    "summary": "Federal agencies are investigating metal debris found in a Minnesota cornfield to figure out if it came from space. The discovery has sparked curiosity about what exactly fell to Earth and where it came from. Experts are working to determine its origin and composition."
+   },
+   "bn": {
+    "title": "মিনেসোটার ভুট্টাক্ষেতে পড়ল রহস্যময় ধাতব বস্তু",
+    "summary": "মিনেসোটার একটি ভুট্টাক্ষেতে পাওয়া ধাতব বর্জ্য মহাকাশ থেকে পড়েছে কিনা তা নিয়ে তদন্ত চলছে। এই আবিষ্কার নিয়ে অনেক কৌতূহল সৃষ্টি হয়েছে। বিশেষজ্ঞরা জানতে চাইছেন এটি আসলে কী এবং কোথা থেকে এসেছে।"
+   }
+  },
+  {
+   "id": "1a60owu",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://www.jagonews24.com/country/news/1170712",
+   "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/narayongo-mviit7k9f108ngw-20261022014836.jpg",
+   "published": "2026-10-21T19:48:37.000Z",
+   "added": "2026-10-21T20:04:52.878Z",
+   "origTitle": "সরকারি নির্ধারিত মূল্যে সার না পাওয়ায় কৃষকদের বিক্ষোভ",
+   "en": {
+    "title": "Farmers protest over shortfall of government-priced fertiliser",
+    "summary": "Farmers in Fatulla, Narayanganj, protested on Wednesday evening after failing to obtain fertiliser at government-fixed prices. The demonstration took place at Kanainagar Bakery More in Bokatabali, highlighting ongoing struggles for affordable agricultural supplies at controlled rates."
+   },
+   "bn": {
+    "title": "সরকারি দামে সার না পেয়ে কৃষকদের বিক্ষোভ",
+    "summary": "নারায়ণগঞ্জের ফতুল্লায় কৃষকরা বুধবার সন্ধ্যায় বিক্ষোভ করেছেন কারণ তারা সরকার নির্ধারিত মূল্যে সার পাচ্ছেন না। বক্তাবলীর কানাইনগর বেকারী মোড়ে এই প্রতিবাদ সমাবেশ অনুষ্ঠিত হয় যা কৃষকদের নিয়ন্ত্রিত মূল্যে সাশ্রয়ী সার সংগ্রহের চ্যালেঞ্জ তুলে ধরে।"
+   }
+  },
+  {
+   "id": "125ezim",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/features/panorama/how-many-migrant-workers-must-die-dhaka-speaks-1579896",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/whatsapp_image_2026-10-22_at_1.44.42_am.jpeg",
+   "published": "2026-10-21T19:50:00.000Z",
+   "added": "2026-10-21T20:04:52.878Z",
+   "origTitle": "How many migrant workers must die before Dhaka speaks up?",
+   "en": {
+    "title": "Two Bangladeshi migrant workers executed in Saudi Arabia",
+    "summary": "Sweety Akhtar and Nazrul Islam, both Bangladeshi migrant workers in Saudi Arabia, were executed on 13 and 14 October respectively without notice to Bangladesh's embassy or families beforehand. Akhtar, detained over an adultery allegation, spoke to family the day before her execution. Nazrul, 22, had been detained since August 2023. Saudi authorities failed to notify Bangladeshi diplomats of death sentences."
+   },
+   "bn": {
+    "title": "সৌদি আরবে দুই বাংলাদেশি অভিবাসী শ্রমিক ফাঁসিতে",
+    "summary": "সুইটি আখতার এবং নাজরুল ইসলাম—দুই বাংলাদেশি অভিবাসী শ্রমিক—সৌদি আরবে ১৩ এবং ১৪ অক্টোবরে ফাঁসিতে ঝোলানো হয় কিন্তু পরিবার বা দূতাবাস আগে থেকে কোনো সংবাদ পায় না। সুইটি সম্মানহানির অভিযোগে আটক ছিলেন এবং ফাঁসির আগেরদিন পরিবারের সাথে কথা বলেছেন। ২২ বছর বয়সী নাজরুল ২০২৩ সালের আগস্ট থেকে কারাগারে ছিলেন। সৌদি কর্তৃপক্ষ বাংলাদেশ দূতাবাসকে মৃত্যুদণ্ডের তথ্য জানায়নি।"
+   }
+  },
+  {
+   "id": "11oz8j9",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801",
+   "published": "2026-10-21T19:52:20.000Z",
+   "added": "2026-10-21T20:04:52.878Z",
+   "origTitle": "GM is betting compute and AI will help it compete with Chinese automakers",
+   "en": {
+    "title": "GM bets on AI and computing to rival Chinese automakers",
+    "summary": "GM unveiled a new fourth-generation EV platform at its annual Forward event in New York, focusing on computing power and software rather than traditional suspension specs. The automaker is betting that AI and central computing—controlling everything from acceleration to steering to safety features—will set it apart in a market where Tesla, Rivian, and Chinese makers dominate through software innovation."
+   },
+   "bn": {
+    "title": "জিএম চীনা গাড়িনির্মাতাদের প্রতিদ্বন্দ্বিতায় এআই-তে বাজি",
+    "summary": "জিএম নিউইয়র্কের ফরওয়ার্ড ইভেন্টে একটি নতুন ইলেকট্রিক ভেহিকেল প্ল্যাটফর্ম ঘোষণা করেছে যা সফটওয়্যার এবং কম্পিউটিং শক্তির উপর জোর দেয়। টেসলা, রিভিয়ান এবং চীনা নির্মাতাদের সাথে প্রতিযোগিতায় এআই-চালিত সিস্টেম যা ত্বরণ থেকে স্টিয়ারিং পর্যন্ত সবকিছু নিয়ন্ত্রণ করে তা ভবিষ্যতের চাবিকাঠি।"
+   }
+  },
+  {
+   "id": "hgsf9h",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad8ff8454c6-1792606084.jpg?resize=1920%2C1440",
+   "published": "2026-10-21T19:51:29.000Z",
+   "added": "2026-10-21T20:04:52.878Z",
+   "origTitle": "Cuba accuses US of threatening countries ahead of UN embargo vote",
+   "en": {
+    "title": "Cuba alleges US threatening nations over UN embargo vote",
+    "summary": "Cuba's Foreign Minister Bruno Rodriguez accused the US of threatening countries with tariffs, visa bans, and election interference to sway votes on a UN resolution seeking an end to the US embargo. He said Secretary of State Marco Rubio and UN Ambassador Mike Waltz are leading the pressure campaign. The embargo, in place since the early 1960s, has long affected Cuba's economy."
+   },
+   "bn": {
+    "title": "কিউবা জাতিসংঘের ভোট নিয়ে যুক্তরাষ্ট্রের হুমকির অভিযোগ",
+    "summary": "কিউবার পররাষ্ট্রমন্ত্রী ব্রুনো রডরিগেজ যুক্তরাষ্ট্রকে অভিযুক্ত করেছেন যে ইউএন ভোটে প্রভাব ফেলতে দেশগুলোকে শুল্ক, ভিসা নিষেধাজ্ঞা এবং নির্বাচন হস্তক্ষেপের হুমকি দিচ্ছে। তিনি বলেন সেক্রেটারি অফ স্টেট মার্কো রুবিও এবং জাতিসংঘের রাষ্ট্রদূত মাইক ওয়াল্টজ এই প্রচারাভিযান চালাচ্ছেন। ১৯৬০ দশকের শুরু থেকে চলমান এই অবরোধ কিউবার অর্থনীতিকে ক্ষতিগ্রস্ত করেছে।"
+   }
+  },
+  {
+   "id": "16y66wj",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+   "image": "https://i.guim.co.uk/img/media/344d52d116791a7470b0fa4bee4effb65774989e/298_0_3376_2700/master/3376.jpg?width=140&quality=85&auto=format&fit=max&s=605258982228562e94285640cb2ada9c",
+   "published": "2026-10-21T17:18:56.000Z",
+   "added": "2026-10-21T20:04:52.878Z",
+   "origTitle": "Controversial US-backed vaccine trial in African newborns halted",
+   "en": {
+    "title": "US-backed hepatitis B vaccine trial in Guinea-Bissau halted",
+    "summary": "A controversial vaccine study in Guinea-Bissau, set to receive $1.6 million from the US CDC, has been stopped. Lead researcher Frederik Schaltz-Buchholzer said the project \"will not move forward\" after failing to get governmental approval. Guinea-Bissau's health minister and government officials opposed the trial, which drew global criticism over ethics concerns."
+   },
+   "bn": {
+    "title": "গিনি-বিসাউতে আমেরিকা-সমর্থিত ভ্যাকসিন ট্রায়াল স্থগিত",
+    "summary": "গিনি-বিসাউতে বিতর্কিত হেপাটাইটিস বি ভ্যাকসিন গবেষণা বন্ধ করা হয়েছে যা সিডিসি থেকে ১.৬ মিলিয়ন ডলার পেতে যাচ্ছিল। গবেষক ফ্রেডেরিক শালটজ-বুখোলজার জানান সরকারি অনুমোদন না পাওয়ায় প্রকল্পটি এগিয়ে যাবে না। বৈশ্বিক নৈতিক সমালোচনার পরে গিনি-বিসাউর স্বাস্থ্য মন্ত্রী এবং সরকার এই ট্রায়ালের বিরোধিতা করেন।"
+   }
+  },
+  {
+   "id": "8hcw0m",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-21T17:42:34.000Z",
+   "added": "2026-10-21T20:04:52.878Z",
+   "origTitle": "Russia says it is ready to resume talks with Ukraine and US to end war",
+   "en": {
+    "title": "Russia signals openness to resume Ukraine peace talks",
+    "summary": "Vladimir Putin's aide Yuri Ushakov said Russia is \"ready in principle\" to restart negotiations with Ukraine and the US after Trump's envoy Steve Witkoff visited St Petersburg. Ukraine's President Zelensky welcomed the move. A potential new round could happen around November 10 in Abu Dhabi, though Russia demands talks focus on security for itself and Ukraine post-conflict."
+   },
+   "bn": {
+    "title": "রাশিয়া ইউক্রেন শান্তি আলোচনা পুনরায় শুরু করতে প্রস্তুত",
+    "summary": "ভ্লাদিমির পুতিনের সহযোগী ইউরি উশাকভ বলেছেন রাশিয়া ইউক্রেন এবং যুক্তরাষ্ট্রের সাথে আলোচনা পুনরায় করতে 'নীতিগতভাবে প্রস্তুত'। ট্রাম্পের বিশেষ প্রতিনিধি স্টিভ উইটকফ সেন্ট পিটার্সবার্গে পুতিনের সাথে দেখা করেন। জেলেনস্কি আলোচনায় সমর্থন জানিয়েছেন এবং নভেম্বর ১০ এর কাছাকাছি আবু ধাবিতে নতুন রাউন্ড হতে পারে।"
+   }
+  },
+  {
+   "id": "1xlc7el",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/law-and-crime/975968/%E0%A6%AB%E0%A7%87%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%95-%E0%A6%AA%E0%A7%87%E0%A6%9C-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A8",
+   "image": null,
+   "published": "2026-10-21T20:01:41.000Z",
+   "added": "2026-10-21T20:04:52.878Z",
+   "origTitle": "ফেসবুক পেজ খুলে চাকরির নামে প্রতারণা, গ্রেফতার ২",
+   "en": {
+    "title": "Two arrested for job scam targeting UNICEF posts",
+    "summary": "Police arrested two men, Mo. Mozammel Hoque (29) and Mo. Al Amin Sardar (25), for running a fake job racket on Facebook. They lured victims with promises of positions at UNICEF and stole money. The arrests came after cyber monitoring flagged their fraudulent Facebook page on Wednesday night."
+   },
+   "bn": {
+    "title": "ইউনিসেফ চাকরির নামে প্রতারণায় দুই জন গ্রেফতার",
+    "summary": "ঢাকা মহানগর পুলিশের গোয়েন্দা বিভাগ দুই জন সাইবার অপরাধীকে গ্রেফতার করেছে যারা ফেসবুকে ইউনিসেফের চাকরির নামে অর্থ আত্মসাৎ করছিল। গ্রেফতারকৃতরা হলেন মো. মোজাম্মেল হক (২৯) এবং মো. আল আমিন সরদার (২৫)। নিয়মিত সাইবার মনিটরিং থেকে তাদের জালিয়াতির ফেসবুক পেজ ধরা পড়ে।"
+   }
+  },
   {
    "id": "tbf879",
    "section": "news",
@@ -3102,204 +3344,6 @@
    "bn": {
     "title": "COP31-এ জলবায়ু কূটনীতির পরীক্ষা বাংলাদেশের",
     "summary": "নভেম্বরে তুরস্কের আন্তালিয়ায় অনুষ্ঠিত COP31-এ বাংলাদেশ জলবায়ু ক্ষতির শক্তিশালী প্রমাণ নিয়ে হাজির হবে। ২০২৪ সালেই তাপপ্রবাহজনিত ক্ষতি দেশকে ১.৭৮ বিলিয়ন ডলার খরচ করেছে এবং ২৫ মিলিয়ন কর্মদিবস হারিয়েছে। নতুন সরকারের এই শিখরসম্মেলনকে পরবর্তী দশকের জলবায়ু কৌশলের শুরু হিসেবে ব্যবহার করা উচিত।"
-   }
-  },
-  {
-   "id": "vauo1p",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "UNB",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTlhlTDJlWUtMNDd3N2tHRGtvOHZyTjk3dUpCTlR3bVlBcnVCaG1OanNCbGNseE5kaXN5a3lMLW82cHZqNlVmMWhHMnNNV2FXaC12U3Ewclpzb3YyTGd2Mi1FaEVfcUkzVzZMVF9mZkxDbVA5MW95bjZtR1RHTHRsaUk2QkpWbTVtaXN3bkJiYXo2U1V6aHlz?oc=5",
-   "image": null,
-   "published": "2026-10-18T16:59:14.000Z",
-   "added": "2026-10-18T18:01:58.907Z",
-   "origTitle": "2 killed in light aircraft crash in northern Greece",
-   "en": {
-    "title": "Light aircraft crash kills 2 in northern Greece",
-    "summary": "A light aircraft crashed in northern Greece, killing two people. Details about the crash are still emerging. The incident has been reported by international news outlets."
-   },
-   "bn": {
-    "title": "উত্তর গ্রিসে হালকা বিমান দুর্ঘটনায় ২ জন নিহত",
-    "summary": "উত্তর গ্রিসে একটি হালকা বিমান দুর্ঘটনা ঘটেছে যাতে ২ জন নিহত হয়েছেন। দুর্ঘটনার বিবরণ এখনো পাওয়া যাচ্ছে। আন্তর্জাতিক মিডিয়া এই ঘটনা প্রকাশ করেছে।"
-   }
-  },
-  {
-   "id": "mye3w8",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558979.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423900/423920.jpg",
-   "published": "2026-10-18T17:04:57.000Z",
-   "added": "2026-10-18T18:01:58.907Z",
-   "origTitle": "Pakistan quicks seal win after Salman Agha ton sets tone",
-   "en": {
-    "title": "Pakistan quick bowlers seal win over Sri Lanka",
-    "summary": "Pakistan's fast bowlers came through when it mattered. Sri Lanka had set a target of 306 and fought hard with half-centuries from Rathnayake and Liyanage, but couldn't hold it together in the end. Pakistan's quicker bowling proved too much to handle."
-   },
-   "bn": {
-    "title": "পাকিস্তানের দ্রুত বোলাররা শ্রীলঙ্কাকে পরাজিত করল",
-    "summary": "পাকিস্তানের দ্রুত বোলাররা ম্যাচ জিতিয়ে দিল। শ্রীলঙ্কা ৩০৬ রান তৈরি করেছিল এবং Rathnayake আর Liyanage অর্ধশতক করেছিল, কিন্তু শেষ পর্যন্ত তারা সামলাতে পারলো না। পাকিস্তানের দ্রুত বোলিং খুবই কার্যকর ছিল।"
-   }
-  },
-  {
-   "id": "egs45n",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYk9ybnE1WUI4X0dtcVUzYVZXZ2k0SnZGZDNpWHVIblcwajAyRnJxTjhndjAxNUtvY1lsZDJ4WlhQR3F6M3JINHZtSTlTWllCLVhXQXNQV090d2M2ZXVmdklReE55RW05TDhpOG0tNkMwR041V043YmtFV1dlVmtoZjJsNUFWUUFjZ1NIWExIeU5LRGJtdi1qUVRVNNIBoAFBVV95cUxOM1A4cEVYaDNTeGo4WVVxaXFhTy1lakNnd0FaQVNZV1JELU54NWFwakc4TnB1UGVuVGJJQXVGSllacDdhWExYcVNaUlYxVm52b1pOTXZ0d3FINnU2dXdiZTJJNnJzMWlxVXgteDBJOEZiWnV6YWVMcEhTNDRsRjAwcFE1T0VSNlNMdWZlclc3eHMyWDFiWWxfRjVRZkRvbUtL?oc=5",
-   "image": null,
-   "published": "2026-10-18T13:32:25.000Z",
-   "added": "2026-10-18T18:01:58.907Z",
-   "origTitle": "118 flights cancelled at Dhaka airport in 7 days",
-   "en": {
-    "title": "118 flights cancelled at Dhaka airport in 7 days",
-    "summary": "A week of chaos at Dhaka airport: 118 flights got scrapped. That's a lot of people missing connections, rescheduling plans, and probably losing their minds. No details given yet on why it happened, but if you had a flight booked, you definitely felt this one."
-   },
-   "bn": {
-    "title": "এক সপ্তাহে ঢাকা বিমানবন্দরে ১১৮ ফ্লাইট বাতিল",
-    "summary": "ঢাকা বিমানবন্দরে এক সপ্তাহে ১১৮টি ফ্লাইট বাতিল হয়েছে। যাত্রীরা ফ্লাইট পরিবর্তন করতে বাধ্য হচ্ছেন এবং পরিকল্পনা বদলাতে হচ্ছে। এটা সত্যিই একটা বড় সমস্যা যারা যাত্রা করার পরিকল্পনা করেছিলেন তাদের জন্য।"
-   }
-  },
-  {
-   "id": "1gvbxfb",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/government/xekpxubrq6",
-   "image": "https://media.prothomalo.com/prothomalo-english/2022-04/86b154cb-1be3-47db-a45b-78a8f443f8db/BNP_leader_Ishraque_Hossain.webp",
-   "published": "2026-10-18T16:24:51.000Z",
-   "added": "2026-10-18T18:01:48.530Z",
-   "origTitle": "Prime Minister orders Ishraque to resign from Cabinet",
-   "en": {
-    "title": "PM orders State Minister Ishraque to resign from Cabinet",
-    "summary": "Prime Minister Tarique Rahman instructed State Minister for Liberation War Affairs Ishraque Hossain to resign after he participated in an anti-narcotics operation in Gandaria carrying a firearm. The incident sparked controversy and circulated widely on social media. Senior government and BNP sources said the resignation came a day after the operation."
-   },
-   "bn": {
-    "title": "মুক্তিযুদ্ধ বিষয়ক রাষ্ট্রমন্ত্রী ইশরাক পদত্যাগ করবেন",
-    "summary": "প্রধানমন্ত্রী তারেক রহমান মুক্তিযুদ্ধ বিষয়ক রাষ্ট্রমন্ত্রী ইশরাক হোসেনকে পদত্যাগ করতে নির্দেশ দিয়েছেন। গান্ধারিয়ায় মাদকদ্রব্য বিরোধী অভিযানে অংশগ্রহণকালে তিনি অস্ত্র ধারণ করেছিলেন। এ ঘটনায় সোশ্যাল মিডিয়ায় ব্যাপক সমালোচনা হয়েছে।"
-   }
-  },
-  {
-   "id": "1quebpz",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/weird-cleveland-browns-fan-has-no-children-on-team/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Weird_Cleveland_NIB_G_GR-R-socials.jpg",
-   "published": "2026-10-18T16:50:00.000Z",
-   "added": "2026-10-18T18:01:48.530Z",
-   "origTitle": "Weird Cleveland Browns Fan Has No Children On Team",
-   "en": {
-    "title": "Bizarre: Browns fan attends games with no family on team",
-    "summary": "This is satire. A Cleveland Browns fan confounded other spectators by attending a game without having a relative on the field. Other fans couldn't fathom why anyone would voluntarily watch a last-place team unless they had a child in it. The man's season ticket holder status made it even more bewildering."
-   },
-   "bn": {
-    "title": "অদ্ভুত: ব্রাউন্স ফ্যান পরিবার ছাড়াই খেলা দেখতে যায়",
-    "summary": "এটি একটি মজার গল্প (সত্য নয়)। ক্লিভল্যান্ড ব্রাউন্স ফ্যান নন্দিত সবাইকে বিস্মিত করেছেন—তার পরিবারের কেউই টিমে নেই। অন্য ফ্যানরা বুঝতেই পারছে না কেন কেউ এই খারাপ টিমের খেলা দেখতে আসবে আত্মীয় ছাড়া। লোকটা এমনকি মৌসুমের টিকেটও কেটেছে।"
-   }
-  },
-  {
-   "id": "30bhic",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
-   "published": "2026-10-18T16:30:00.000Z",
-   "added": "2026-10-18T18:01:48.530Z",
-   "origTitle": "Disney agrees to hire the majority of Character.AI’s workforce",
-   "en": {
-    "title": "Disney hires majority of bankrupt Character.AI's workforce",
-    "summary": "After Character.AI filed for bankruptcy, Disney agreed to hire at least 60 employees—the majority of the startup's staff—for an estimated $60 million in annual compensation. Disney is also acquiring some of Character.AI's assets for $20 million. Most employees accepted the Disney job offers."
-   },
-   "bn": {
-    "title": "দেউলিয়া Character.AI এর কর্মীদের নিয়োগ দিচ্ছে ডিজনি",
-    "summary": "Character.AI দেউলিয়া হওয়ার পর ডিজনি কোম্পানির অন্তত ৬০ জন কর্মচারীকে নিয়োগ দিতে সম্মত হয়েছে। বার্ষিক বেতন হবে প্রায় ৬ কোটি ডলার। ডিজনি ২ কোটি ডলারে কোম্পানির কিছু সম্পদও কিনছে।"
-   }
-  },
-  {
-   "id": "1d4h8rz",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792346294.jpg?resize=1920%2C1080&quality=80",
-   "published": "2026-10-18T17:58:49.000Z",
-   "added": "2026-10-18T18:01:48.530Z",
-   "origTitle": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
-   "en": {
-    "title": "Bollywood star Tiger Shroff shot at in Mumbai; escapes unhurt",
-    "summary": "Gunmen opened fire on Bollywood actor Tiger Shroff's vehicle in Mumbai, but he escaped unharmed. His driver and an autorickshaw driver were injured in the shooting. A social media post linked to the Lawrence Bishnoi gang claimed responsibility, though police are still investigating the claim."
-   },
-   "bn": {
-    "title": "মুম্বাইতে বলিউড তারকা টাইগার শ্রফের গাড়িতে গুলি",
-    "summary": "মুম্বাইতে অজানা বন্দুকধারীরা বলিউড অভিনেতা টাইগার শ্রফের গাড়িতে গুলি চালায়। তিনি নিরাপদে থাকলেও তার ড্রাইভার এবং একজন অটোরিকশা চালক আহত হন। লরেন্স বিষ্ণই গ্যাংয়ের সাথে সংযুক্ত একটি সোশ্যাল মিডিয়া পোস্ট এই ঘটনার দায়িত্ব দাবি করেছে।"
-   }
-  },
-  {
-   "id": "1ci6xhq",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/law-and-crime/975381/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8-%E0%A6%93-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A7%9C%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87",
-   "image": null,
-   "published": "2026-10-18T17:59:00.000Z",
-   "added": "2026-10-18T18:01:48.530Z",
-   "origTitle": "মাদক সেবন ও কারবারে জড়াচ্ছে পুলিশ, নিয়ন্ত্রণ করবে কে?",
-   "en": {
-    "title": "Police officers arrested for drug involvement and consumption",
-    "summary": "Several police officers at various ranks are facing arrest and investigation for drug consumption, trafficking, and dealing. Officers responsible for preserving drug case evidence have been caught with drugs themselves. One police superintendent was temporarily suspended after testing positive in a drug screening."
-   },
-   "bn": {
-    "title": "মাদক কারবারে জড়িত পুলিশ অফিসার গ্রেফতার",
-    "summary": "বিভিন্ন পদমর্যাদার পুলিশ সদস্য মাদক সেবন, পাচার এবং বিক্রয়ের অভিযোগে গ্রেফতার হচ্ছেন। মাদক মামলার আলামত সংরক্ষণের দায়িত্বে থাকা পুলিশ সদস্যরা নিজেরাই মাদক নিয়ে ধরা পড়েছেন। একজন পুলিশ সুপার ড্রাগ টেস্টে পজিটিভ আসায় সাময়িক বরখাস্ত হয়েছেন।"
-   }
-  },
-  {
-   "id": "ui9c9l",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/cabinet-approves-draft-ordinance-boost-rooftop-solar-power-installations-1576981",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/screenshot_2026-10-18_234958.png",
-   "published": "2026-10-18T17:50:00.000Z",
-   "added": "2026-10-18T18:01:48.530Z",
-   "origTitle": "Cabinet approves draft ordinance to boost rooftop solar power installations",
-   "en": {
-    "title": "Cabinet backs rooftop solar push to cut power imports",
-    "summary": "Bangladesh approved a new ordinance today to speed up rooftop solar installations and reduce reliance on imported fossil fuels. The government plans to install 3,000–4,000 megawatts before next summer across government buildings and state companies. Solar systems will be funded by investors under two models depending on whether institutions generate their own revenue."
-   },
-   "bn": {
-    "title": "ছাদের সোলার প্যানেল বাড়ানোর অনুমোদন ক্যাবিনেটের",
-    "summary": "বাংলাদেশের ক্যাবিনেট আজ রুফটপ সোলার পাওয়ার বাড়ানোর জন্য একটি নতুন অধ্যাদেশ অনুমোদন করেছে। আগামী গ্রীষ্মের আগে সরকার ৩ হাজার থেকে ৪ হাজার মেগাওয়াট সোলার শক্তি স্থাপন করবে। সরকারি ভবন এবং সরকারি কোম্পানিগুলোতে বিনিয়োগকারীরা এই প্যানেলগুলো ইনস্টল করবে।"
    }
   }
  ]

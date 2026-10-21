@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-21T15:08:29.616Z",
+ "updatedAt": "2026-10-21T20:05:26.070Z",
  "burning": [
   {
-   "id": "144i70u",
+   "id": "125ezim",
    "heat": 5,
    "why": {
-    "en": "Saudi executions of 2 Bangladeshis dominating coverage across multiple outlets with families pleading for return and questions raised.",
-    "bn": "সৌদি আরবে ২ বাংলাদেশি বাস্তবায়নের খবর একাধিক মাধ্যমে প্রধান; পরিবার ফিরিয়ে আনার আবেদন ও প্রশ্ন উঠছে।"
+    "en": "Two Bangladeshi executions in Saudi Arabia covered by multiple outlets with high concern.",
+    "bn": "সৌদি আরবিয়ায় দুই বাংলাদেশী মৃত্যুদণ্ড একাধিক মাধ্যম কভার করেছে এবং ব্যাপক উদ্বেগ রয়েছে।"
    },
    "rank": 1
   },
   {
-   "id": "1rys5ee",
-   "heat": 5,
+   "id": "1a60owu",
+   "heat": 4,
    "why": {
-    "en": "Measles outbreak death toll reaching 1,204 — major public health crisis with serious impact across Bangladesh.",
-    "bn": "মাম্পস রোগের মহামারীতে মৃত্যু সংখ্যা ১,২০৪-এ পৌঁছেছে — দেশব্যাপী গুরুতর স্বাস্থ্য সংকট।"
+    "en": "Farmers protesting over fertiliser shortage reflects broader rural economic concerns.",
+    "bn": "সার সংকটে কৃষকদের প্রতিবাদ গ্রামীণ অর্থনৈতিক চিন্তা প্রতিফলিত করে।"
    },
    "rank": 2
   },
   {
-   "id": "dzppdr",
+   "id": "psssjc",
    "heat": 4,
    "why": {
-    "en": "Bus-truck collision in Natore kills 12 — major road accident commanding significant news attention.",
-    "bn": "নাটোরে বাস-ট্রাকের সংঘর্ষে ১২ জন মৃত — বড় দুর্ঘটনা, ব্যাপক খবর।"
+    "en": "Road blockade in Sajek Valley affects tourism and local movement significantly.",
+    "bn": "সাজেক রোড অবরোধ পর্যটন এবং স্থানীয় চলাচল ব্যাপকভাবে প্রভাবিত করছে।"
    },
    "rank": 3
   },
   {
-   "id": "gdsrws",
+   "id": "16ik88c",
    "heat": 4,
    "why": {
-    "en": "Dhaka ranked seventh globally for air pollution — environmental crisis affecting millions in the capital.",
-    "bn": "ঢাকা বিশ্বব্যাপী বায়ু দূষণে সপ্তম — রাজধানীর লক্ষ লক্ষ মানুষকে প্রভাবিত করছে।"
+    "en": "Afghanistan advances to cricket final with Rahmat and Rashid's key performance.",
+    "bn": "রাহমাত এবং রাশিদের গুরুত্বপূর্ণ পারফরম্যান্সে আফগানিস্তান ক্রিকেট ফাইনালে পৌঁছেছে।"
    },
    "rank": 4
   },
   {
-   "id": "go7t9w",
-   "heat": 4,
+   "id": "1rys5ee",
+   "heat": 3,
    "why": {
-    "en": "100,000 government temporary jobs stuck in policy limbo — major employment issue for youth.",
-    "bn": "১০০,০০০ সরকারি অস্থায়ী চাকরি নীতিগত সমস্যায় আটকে — যুবকদের জন্য বড় কর্মসংস্থান সংকট।"
+    "en": "Measles death toll reaches 1,204—serious public health crisis escalating.",
+    "bn": "হাম রোগে মৃত্যু ১,২০৪-এ পৌঁছেছে—গুরুতর স্বাস্থ্য সংকট বাড়ছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "z24w1f",
-   "tag": "#IslamicHistory",
+   "id": "125ezim",
+   "tag": "#SaudiExecutions",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 5,
    "en": {
-    "title": "Prophet's diplomacy in Year 9",
-    "text": "Article explores diplomatic success of Prophet Muhammad in the 9th year of Hijra, drawing interest from readers following Islamic history."
+    "title": "Saudi executions spark global outcry",
+    "text": "Two Bangladeshi nationals executed in Saudi Arabia for mosque offences. Multiple news outlets reporting international concern and questions about the cases."
    },
    "bn": {
-    "title": "হিজরার নবম বছরে নবীর কূটনীতি",
-    "text": "হজরত মুহাম্মদের হিজরার নবম বছরের কূটনৈতিক সাফল্য নিয়ে আলোচনা; ইসলামিক ইতিহাসে আগ্রহী পাঠকদের কাছে জনপ্রিয়।"
+    "title": "সৌদি মৃত্যুদণ্ডে বিশ্বব্যাপী সোচ্চার প্রতিবাদ",
+    "text": "সৌদি আরবিয়ায় মসজিদ সংক্রান্ত অপরাধে দুই বাংলাদেশী মৃত্যুদণ্ডে দণ্ডিত হয়েছেন। একাধিক মাধ্যম আন্তর্জাতিক উদ্বেগ এবং মামলার প্রশ্ন রিপোর্ট করছে।"
    }
   },
   {
-   "id": "1wij9hk",
-   "tag": "#DurgaPuja",
+   "id": "1a60owu",
+   "tag": "#FarmersProtest",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Durga Puja peaks this season",
-    "text": "Maha Nabami celebrations underway with Bijaya Dashami coming tomorrow — major cultural festival drawing wide attention."
+    "title": "Fertiliser shortage hits farmers hard",
+    "text": "Farmers across Bangladesh protesting over shortfall of government-priced fertiliser, threatening crop production."
    },
    "bn": {
-    "title": "দুর্গা পূজার চূড়ায় উৎসব",
-    "text": "মহা নবমী পালন চলছে, আগামীকাল বিজয়া দশমী — দেশের বড় সাংস্কৃতিক উৎসব।"
+    "title": "সার সংকটে কৃষকদের ক্ষোভ",
+    "text": "বাংলাদেশ জুড়ে কৃষকরা সরকার নির্ধারিত সার সংকটে প্রতিবাদ করছেন, ফসল উৎপাদন হুমকির মুখে।"
    }
   },
   {
-   "id": "1twrotv",
-   "tag": "#ShowbizNews",
+   "id": "16ik88c",
+   "tag": "#AfghansCricket",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Popular model Sahara dies",
-    "text": "Model Sahara passed away at 34 — significant loss in Bangladesh entertainment industry."
+    "title": "Afghanistan stuns way to final",
+    "text": "Rahmat and Rashid lead Afghanistan to cricket series final with dominant performance against Bangladesh."
    },
    "bn": {
-    "title": "জনপ্রিয় মডেল সাহারার মৃত্যু",
-    "text": "মডেল সাহারা ৩৪ বছর বয়সে মৃত্যুবরণ করেছেন — বিনোদন জগতে বড় ক্ষতি।"
-   }
-  },
-  {
-   "id": "1up8b9l",
-   "tag": "#CancerWarrior",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 2,
-   "en": {
-    "title": "Samia's cancer battle continues",
-    "text": "Actress Samia fights cancer with family support — personal health story resonating with audiences."
-   },
-   "bn": {
-    "title": "সামিয়ার ক্যান্সারের লড়াই",
-    "text": "অভিনেত্রী সামিয়া পরিবারের সাথে নিয়ে ক্যান্সারের বিরুদ্ধে লড়াই করছেন।"
+    "title": "আফগানিস্তান ফাইনালে পৌঁছেছে",
+    "text": "রাহমাত এবং রাশিদের নেতৃত্বে আফগানিস্তান বাংলাদেশের বিপরীতে শক্তিশালী পারফরম্যান্সে সিরিজ ফাইনালে পৌঁছেছে।"
    }
   }
  ],
