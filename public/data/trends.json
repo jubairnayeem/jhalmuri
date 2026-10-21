@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-21T20:05:26.070Z",
+ "updatedAt": "2026-10-21T23:14:56.637Z",
  "burning": [
   {
-   "id": "125ezim",
+   "id": "8r8f9a",
    "heat": 5,
    "why": {
-    "en": "Two Bangladeshi executions in Saudi Arabia covered by multiple outlets with high concern.",
-    "bn": "সৌদি আরবিয়ায় দুই বাংলাদেশী মৃত্যুদণ্ড একাধিক মাধ্যম কভার করেছে এবং ব্যাপক উদ্বেগ রয়েছে।"
+    "en": "Real Madrid's 4-1 demolition of Leipzig dominates Champions League trending with 10k+ searches on 'real madrid' alone.",
+    "bn": "রিয়েল মাড্রিডের লাইপজিগের বিপক্ষে ৪-১ জয় চ্যাম্পিয়ন্স লিগে ট্রেন্ডিং-এর শীর্ষে, রিয়েল মাড্রিড সার্চ ১০ হাজারের উপরে।"
    },
    "rank": 1
   },
   {
-   "id": "1a60owu",
-   "heat": 4,
+   "id": "125ezim",
+   "heat": 5,
    "why": {
-    "en": "Farmers protesting over fertiliser shortage reflects broader rural economic concerns.",
-    "bn": "সার সংকটে কৃষকদের প্রতিবাদ গ্রামীণ অর্থনৈতিক চিন্তা প্রতিফলিত করে।"
+    "en": "Two Bangladeshi migrant workers executed in Saudi Arabia covered by multiple outlets, draws international concern.",
+    "bn": "সৌদি আরবে দুই বাংলাদেশী অভিবাসী কর্মীর মৃত্যুদণ্ড একাধিক মাধ্যম কভার করেছে, আন্তর্জাতিক উদ্বেগ সৃষ্টি করেছে।"
    },
    "rank": 2
   },
   {
-   "id": "psssjc",
+   "id": "fi0nrp",
    "heat": 4,
    "why": {
-    "en": "Road blockade in Sajek Valley affects tourism and local movement significantly.",
-    "bn": "সাজেক রোড অবরোধ পর্যটন এবং স্থানীয় চলাচল ব্যাপকভাবে প্রভাবিত করছে।"
+    "en": "UN warns Asia-Pacific coastal floods could cost $739 billion by 2100, high-stakes climate story.",
+    "bn": "জাতিসংঘ সতর্ক করছে এশিয়া-প্রশান্ত মহাসাগরীয় অঞ্চলে বন্যা ২১০০ সালের মধ্যে ৭৩৯ বিলিয়ন ডলার খরচ করতে পারে।"
    },
    "rank": 3
   },
   {
-   "id": "16ik88c",
+   "id": "821ffc",
    "heat": 4,
    "why": {
-    "en": "Afghanistan advances to cricket final with Rahmat and Rashid's key performance.",
-    "bn": "রাহমাত এবং রাশিদের গুরুত্বপূর্ণ পারফরম্যান্সে আফগানিস্তান ক্রিকেট ফাইনালে পৌঁছেছে।"
+    "en": "Treasury bill rates spike to 8.74%, signals economic pressure on Bangladesh finances.",
+    "bn": "ট্রেজারি বিলের সুদের হার ৮.৭৪% এ উঠেছে, বাংলাদেশের আর্থিক চাপের ইঙ্গিত দেয়।"
    },
    "rank": 4
   },
   {
-   "id": "1rys5ee",
-   "heat": 3,
+   "id": "16k9drh",
+   "heat": 4,
    "why": {
-    "en": "Measles death toll reaches 1,204—serious public health crisis escalating.",
-    "bn": "হাম রোগে মৃত্যু ১,২০৪-এ পৌঁছেছে—গুরুতর স্বাস্থ্য সংকট বাড়ছে।"
+    "en": "Three tourists drown at Himchari beach, local tragedy raising safety concerns.",
+    "bn": "হিমছড়ি সৈকতে তিন পর্যটক ডুবে যায়, নিরাপত্তা সংক্রান্ত উদ্বেগ উঠছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "125ezim",
-   "tag": "#SaudiExecutions",
+   "id": "8r8f9a",
+   "tag": "#ChampionsLeague",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Saudi executions spark global outcry",
-    "text": "Two Bangladeshi nationals executed in Saudi Arabia for mosque offences. Multiple news outlets reporting international concern and questions about the cases."
+    "title": "Real Madrid crushes Leipzig 4-1",
+    "text": "Real Madrid delivered a masterclass in the Champions League, thrashing RB Leipzig 4-1. The victory sets up a classic showdown with Barcelona and keeps Madrid's European campaign on fire."
    },
    "bn": {
-    "title": "সৌদি মৃত্যুদণ্ডে বিশ্বব্যাপী সোচ্চার প্রতিবাদ",
-    "text": "সৌদি আরবিয়ায় মসজিদ সংক্রান্ত অপরাধে দুই বাংলাদেশী মৃত্যুদণ্ডে দণ্ডিত হয়েছেন। একাধিক মাধ্যম আন্তর্জাতিক উদ্বেগ এবং মামলার প্রশ্ন রিপোর্ট করছে।"
+    "title": "রিয়েল মাড্রিড লাইপজিগকে ৪-১ে হারায়",
+    "text": "চ্যাম্পিয়ন্স লিগে রিয়েল মাড্রিড লাইপজিগকে ৪-১ গোলে পরাজিত করল। এই জয় ম্যাড্রিড এবং বার্সিলোনার মধ্যে ক্লাসিক ম্যাচের পথ তৈরি করেছে।"
    }
   },
   {
-   "id": "1a60owu",
-   "tag": "#FarmersProtest",
+   "id": "mwydjg",
+   "tag": "#CricketCollapse",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Fertiliser shortage hits farmers hard",
-    "text": "Farmers across Bangladesh protesting over shortfall of government-priced fertiliser, threatening crop production."
+    "title": "Australia all out for just 99",
+    "text": "Australia's batsmen fell apart in brutal fashion, collapsing to 99 all out in a one-day international. The historic low marks one of cricket's most shocking team meltdowns."
    },
    "bn": {
-    "title": "সার সংকটে কৃষকদের ক্ষোভ",
-    "text": "বাংলাদেশ জুড়ে কৃষকরা সরকার নির্ধারিত সার সংকটে প্রতিবাদ করছেন, ফসল উৎপাদন হুমকির মুখে।"
+    "title": "অস্ট্রেলিয়া মাত্র ৯৯ রানে সব আউট",
+    "text": "অডিআইতে অস্ট্রেলিয়া ৯৯ রানে সব আউট হয়েছে। ক্রিকেটের ইতিহাসে এটি সবচেয়ে লজ্জাজনক স্কোরগুলির মধ্যে একটি।"
    }
   },
   {
    "id": "16ik88c",
-   "tag": "#AfghansCricket",
+   "tag": "#AfghanistanCricket",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Afghanistan stuns way to final",
-    "text": "Rahmat and Rashid lead Afghanistan to cricket series final with dominant performance against Bangladesh."
+    "title": "Rahmat and Rashid take Afghanistan to final",
+    "text": "Afghanistan's dynamic duo Rahmat and Rashid propelled their team to the final with a strong performance. The victory sparks excitement in Afghan cricket circles."
    },
    "bn": {
-    "title": "আফগানিস্তান ফাইনালে পৌঁছেছে",
-    "text": "রাহমাত এবং রাশিদের নেতৃত্বে আফগানিস্তান বাংলাদেশের বিপরীতে শক্তিশালী পারফরম্যান্সে সিরিজ ফাইনালে পৌঁছেছে।"
+    "title": "রহমাৎ এবং রাশিদ আফগানিস্তানকে ফাইনালে নিয়ে যান",
+    "text": "আফগানিস্তানের রহমাৎ এবং রাশিদ শক্তিশালী পারফরম্যান্সে টিমকে ফাইনালে নিয়ে গেছেন। এই জয় আফগান ক্রিকেটে উত্তেজনা ছড়াচ্ছে।"
+   }
+  },
+  {
+   "id": "1up8b9l",
+   "tag": "#ShowbizHealth",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Samia battles cancer with family support",
+    "text": "Showbiz personality Samia is fighting her health battle surrounded by loved ones. The story resonates across social media as fans show their support."
+   },
+   "bn": {
+    "title": "সামিয়া পরিবারের সাথে ক্যান্সারের বিরুদ্ধে লড়াই করছেন",
+    "text": "গুণী ব্যক্তিত্ব সামিয়া পরিবারের পাশে থেকে স্বাস্থ্য সংকট মোকাবেলা করছেন। ফ্যানরা সোশ্যাল মিডিয়ায় সমর্থন দেখাচ্ছেন।"
    }
   }
  ],

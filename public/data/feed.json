@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-21T20:05:11.620Z",
+ "updatedAt": "2026-10-21T23:14:36.813Z",
  "items": [
+  {
+   "id": "11gvylm",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "যুগান্তর",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VSzluR01jYWZiTFBFMnFmeDZmazN0Sm8zRnBac1h6RGpyYlVQV0xsSHNsSDktWFlOV0xTdjhiU3U0cDZPYzg2VTZudHRmWFpqVmtadnoxVFdRQQ?oc=5",
+   "image": null,
+   "published": "2026-10-21T13:35:01.000Z",
+   "added": "2026-10-21T23:14:36.813Z",
+   "origTitle": "ডিভি লটারি চালুর আদেশ স্থগিত চেয়ে ট্রাম্প প্রশাসনের আপিল",
+   "en": {
+    "title": "Trump administration appeals to suspend DV lottery order",
+    "summary": "The Trump administration has filed an appeal seeking to suspend an order that would resume the DV (Diversity Visa) lottery program. The move adds another legal layer to immigration policy debates in the US."
+   },
+   "bn": {
+    "title": "ডিভি লটারি চালুর আদেশ স্থগিত চেয়ে ট্রাম্প প্রশাসনের আপিল",
+    "summary": "ট্রাম্প প্রশাসন ডিভি লটারি প্রোগ্রাম পুনরায় চালুর আদেশ স্থগিত করার জন্য আপিল করেছে। এই পদক্ষেপ আমেরিকার ইমিগ্রেশন নীতি বিতর্কে আরও একটি আইনি স্তর যোগ করে।"
+   }
+  },
+  {
+   "id": "arzh6k",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPOWJ1cjQ0WlFDRVhOTEtvNFdPeENwbTlsTlFwdG1MblM0ZEdveVdiV2NSWE9LYTRlam5nLTBPdXJxajY2aEJId1FIemo4cGF0R0xfVDloMVh3YVR0YjFsMTExRmZBZVF4S29oS2lqUVlBcUxGWU9CbkZHX0tiX2VkbzE4bFljY3paZUxSdjZRcWhpX1c5ay1rYWo3V1p0OHZVbjEtd2RTcXRXZGV2NXVnZzl2SUVRSEhZcVBwTkduc1JrYjI3U0hQMm11RWJYTFdUMFRpR3NrMnd4eGMwRWREcGE4elMxSEk0a2Y1WHBBVHkwSnhwOWxTQm5zNDhkMGFYRnpPazJPeFg1d2h5VzlrZXJLXzlhcW5wSU5rSTJSNFh5dXV5Vzk1VzQwcjQ5V0NDazBrQ2l5VEVHTW1QT1NnOGhnM0d3R2hk?oc=5",
+   "image": null,
+   "published": "2026-10-21T20:39:11.000Z",
+   "added": "2026-10-21T23:14:36.812Z",
+   "origTitle": "২ বাংলাদেশির মৃত্যুদণ্ড",
+   "en": {
+    "title": "Two Bangladeshis sentenced to death",
+    "summary": "Two Bangladeshi nationals have been sentenced to death, though details of the case are not provided in the report. The nature of charges and jurisdiction remain unclear from the limited information available."
+   },
+   "bn": {
+    "title": "দুই বাংলাদেশির মৃত্যুদণ্ড দণ্ড",
+    "summary": "দুইজন বাংলাদেশি নাগরিককে মৃত্যুদণ্ড দেওয়া হয়েছে, তবে মামলার বিবরণ সরবরাহ করা হয়নি। অভিযোগের প্রকৃতি এবং এখতিয়ার সীমিত তথ্য থেকে স্পষ্ট নয়।"
+   }
+  },
+  {
+   "id": "821ffc",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "কালের কণ্ঠ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWowN21MQ0E3OFRrVUNkaXZ2Y0lTUFM0WkxMa05WQmJDVmVfMTl6cFBaNnZXYVJ6Y0w2ZG5Da3QtcGJYckU2MHpwcnEyX3lZSzhiUXZSQmFWaEROM2xkVGpNR0lORXlSQXg1b3VINlhick9oTDFaVU1SbjNrV2JlbzVVWWM?oc=5",
+   "image": null,
+   "published": "2026-10-21T18:00:00.000Z",
+   "added": "2026-10-21T23:14:36.812Z",
+   "origTitle": "ট্রেজারি বিলের সুদহার বেড়ে ৮.৭৪ শতাংশ",
+   "en": {
+    "title": "Treasury bill interest rate jumps to 8.74%",
+    "summary": "The interest rate on treasury bills has risen to 8.74%, reflecting tighter monetary conditions. Higher rates make government borrowing more expensive. This affects savings instruments and overall market interest rates."
+   },
+   "bn": {
+    "title": "ট্রেজারি বিলের সুদহার বেড়ে ৮.৭৪ শতাংশ",
+    "summary": "ট্রেজারি বিলের সুদহার ৮.৭৪ শতাংশে পৌঁছেছে, যা টাইট মানিটারি পরিস্থিতি প্রতিফলিত করে। উচ্চতর হার সরকারের ঋণ নেওয়াকে আরও ব্যয়বহুল করে তোলে। এটি সেভিংস ইন্সট্রুমেন্ট এবং সামগ্রিক বাজার সুদের হার প্রভাবিত করে।"
+   }
+  },
+  {
+   "id": "fi0nrp",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "UNB",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMXN6Z3l2UGJRd2xuOVBOWk1ocl9WaDY5d25FRE5DNDUyVUtuTWNLb3lmYk9hQ1VaMk9mbC02QXJtaHc3bUFIbnctY0J6ODl6SzR4NnJVclVMRWUzOGdMdDh6YjBTb1U1bTJJSUVFWUx1NXZTa1k2T3FMSGxOdllrUXVzZUpnUHVUN00teXAydjRZM3VmWEVMOEVhaGlPYVI4Z0ozb2NBWC14TGllLWc?oc=5",
+   "image": null,
+   "published": "2026-10-21T07:32:09.000Z",
+   "added": "2026-10-21T23:14:36.812Z",
+   "origTitle": "Coastal flood damage in Asia-Pacific may reach $739b by 2100: ADB",
+   "en": {
+    "title": "Asia-Pacific coastal floods may cost $739b by 2100",
+    "summary": "The Asian Development Bank warns that coastal flooding in Asia-Pacific could cause $739 billion in damage by 2100. Rising sea levels and extreme weather pose growing threats to the region. Bangladesh, as a low-lying delta nation, faces particular vulnerability to such disasters."
+   },
+   "bn": {
+    "title": "এশিয়া-প্রশান্ত মহাসাগরীয় উপকূল বন্যায় ৭৩৯ বিলিয়ন ডলার ক্ষতি ২১০০",
+    "summary": "এশীয় উন্নয়ন ব্যাংক সতর্ক করেছে যে ২১০০ সালের মধ্যে এশিয়া-প্রশান্ত মহাসাগরীয় অঞ্চলে উপকূলীয় বন্যায় ৭৩৯ বিলিয়ন ডলার ক্ষতি হতে পারে। সমুদ্রপৃষ্ঠ বৃদ্ধি এবং চরম আবহাওয়া এলাকার জন্য বিপদজনক হয়ে উঠছে। বাংলাদেশ নিচু ব-দ্বীপ হিসাবে এর জন্য বিশেষভাবে ঝুঁকিপূর্ণ।"
+   }
+  },
+  {
+   "id": "16k9drh",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Dhaka Tribune",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZG1MY2x4anhsOE9XWlVMeW5YWmxXbktncHVtSzIyaXdvWWlpcml3OW5ZZDNFVXpQcHZoM09sc0pEak41ZFE1MXp4OS0tVEZVN0tfY0hPR2tJd0I5V2NHaExYejVjVnZhLTV6emtBUnJVU09tSmYxR0NGN1p3Y3E3UXlYbnRVSmhCdndTc2NWMXFJUWp5aURraTV5bUotdFRlLWRj0gGoAUFVX3lxTFBya3FMaTFlY0tsdHk4WUtMYlhSMGhUVEZZTDMtamt4X3JUVkx5LUlNNER4cDdtSmd2RWRsLXJZLWdHSDd5NmxvMFJuUHpGUjBZUEVMY0lhU2pWUjQyY2NNUzVxNWd0aVNPUkNKZC1FRlJGOTI5aUdNWi1qUGREZHNVOE1ySm5ZWGtUN1BfMEVtNUY5cEdkUGVUMWN3LXY2UGJoTHZ6VWR3Xw?oc=5",
+   "image": null,
+   "published": "2026-10-21T13:56:44.000Z",
+   "added": "2026-10-21T23:14:36.812Z",
+   "origTitle": "Three tourists drown at Himchari beach, two missing",
+   "en": {
+    "title": "Three tourists drown at Himchari beach",
+    "summary": "Three tourists drowned at Himchari beach, and two others are still missing. Rescue operations are underway as authorities search for the missing persons. The incident highlights ongoing water safety concerns at popular beach destinations."
+   },
+   "bn": {
+    "title": "হিমছড়ি সমুদ্র সৈকতে তিন পর্যটক নিমজ্জিত",
+    "summary": "হিমছড়ি সমুদ্র সৈকতে তিনজন পর্যটক ডুবে মারা গেছেন এবং দুজন এখনও নিরুদ্দেশ। উদ্ধার অভিযান চলছে এবং কর্তৃপক্ষ অনুপস্থিত ব্যক্তিদের খোঁজ করছে। এটি জনপ্রিয় সৈকত এলাকায় নিরাপত্তার সমস্যা তুলে ধরে।"
+   }
+  },
+  {
+   "id": "mwydjg",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1559374.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/424100/424107.jpg",
+   "published": "2026-10-21T21:14:47.000Z",
+   "added": "2026-10-21T23:14:36.812Z",
+   "origTitle": "'Can't defend that' - Australia's batting deficiencies exposed",
+   "en": {
+    "title": "Australia's batting collapse: 99 all out",
+    "summary": "Australia got bundled out for just 99 runs, exposing serious problems in their batting lineup. Coach Andrew McDonald defended the team's longer-term record despite the poor performance. The low score has raised questions about their batting depth and consistency."
+   },
+   "bn": {
+    "title": "অস্ট্রেলিয়ার ব্যাটিং ধসানো ৯৯ রানে",
+    "summary": "অস্ট্রেলিয়া মাত্র ৯৯ রানে সব আউট হয়ে তাদের ব্যাটিং এ বড় সমস্যা দেখিয়ে দিয়েছে। কোচ অ্যান্ড্রু ম্যাকডোনাল্ড টিমের দীর্ঘমেয়াদী রেকর্ড নিয়ে রক্ষা করলেও এই ঘটনা উদ্বেগের বিষয়। এত কম স্কোর তাদের ব্যাটিং লাইনআপ নিয়ে প্রশ্ন তুলেছে।"
+   }
+  },
+  {
+   "id": "8r8f9a",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/football/rn02mxb8ws",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/iqrhz7u1/realmadridc.f.vrbleipzig-uefachampionsleague202627leaguephasemd3.avif",
+   "published": "2026-10-21T21:04:31.000Z",
+   "added": "2026-10-21T23:14:16.380Z",
+   "origTitle": "বড় জয়ে এল ক্লাসিকোর প্রস্তুতি সারল রিয়াল মাদ্রিদ",
+   "en": {
+    "title": "Real Madrid crush Leipzig 4-1, prep for Barcelona classic",
+    "summary": "Real Madrid dominated Leipzig 4-1 at Santiago Bernabéu in the Champions League, scoring all four goals in the first 87 minutes. Bernardo Silva, Arda Güler, Kylian Mbappé and Jude Bellingham scored. This was perfect warm-up before Real faces Barcelona in El Clásico in three days. Real has now won three consecutive Champions League matches."
+   },
+   "bn": {
+    "title": "লাইপজিগকে ৪-১ গোলে হারিয়ে ক্লাসিকোর প্রস্তুতি নিল রিয়াল",
+    "summary": "রিয়াল মাদ্রিদ সান্তিয়াগো বার্নাব্যুতে লাইপজিগকে ৪-১ গোলে হারিয়ে দারুণ জয় পেয়েছে চ্যাম্পিয়নস লিগে। বের্নার্দো সিলভা, গুলের, এমবাপ্পে আর দিওমান্দে গোল করেছেন। এই জয় রিয়ালকে তিন দিন পরে বার্সেলোনার বিপক্ষে এল ক্লাসিকোর জন্য দারুণ প্রস্তুতি দিয়েছে। রিয়াল এখন চ্যাম্পিয়নস লিগে টানা তিন ম্যাচ জিতেছে।"
+   }
+  },
+  {
+   "id": "7phhcp",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260924__C9AR2KL__v2__HighRes__FranceCultureLiteratureFestival-1792600154.jpg?resize=1920%2C1440",
+   "published": "2026-10-21T22:16:50.000Z",
+   "added": "2026-10-21T23:14:16.380Z",
+   "origTitle": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+   "en": {
+    "title": "Canadian publisher drops writer over AI use in novel",
+    "summary": "Canadian publisher Boreal has ended its relationship with Haitian-Canadian author Thelyson Orelien after confirming he used artificial intelligence in writing his novel 'It Was Either That or Die'. Analysis of the manuscript revealed AI tags in the metadata of certain documents. Orelien had previously denied the allegations but refused to provide further information to help prove his innocence."
+   },
+   "bn": {
+    "title": "উপন্যাসে এআই ব্যবহারের কারণে লেখক বাদ দিল প্রকাশক",
+    "summary": "কানাডিয়ান প্রকাশক বোরিয়াল হাইতিয়ান-কানাডিয়ান লেখক থেলিসন ওরেলিয়েনের সাথে সম্পর্ক শেষ করেছে তার উপন্যাসে কৃত্রিম বুদ্ধিমত্তা ব্যবহার করার কারণে। পাণ্ডুলিপি বিশ্লেষণে কিছু ডকুমেন্টের মেটাডেটায় এআই ট্যাগ পাওয়া গেছে। ওরেলিয়েন আগে অভিযোগ অস্বীকার করেছিল কিন্তু নিজেকে সাফাই দিতে কোনো তথ্য দিতে অস্বীকার করেছে।"
+   }
+  },
+  {
+   "id": "18n7r8v",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/sport/football/975971/%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%A1%E0%A7%8D%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%89%E0%A7%8E%E0%A6%B8%E0%A6%AC",
+   "image": null,
+   "published": "2026-10-21T22:48:31.000Z",
+   "added": "2026-10-21T23:14:16.380Z",
+   "origTitle": "বায়ার্ন-আর্সেনাল মহারণে ড্র, রিয়ালের গোল উৎসব",
+   "en": {
+    "title": "Arsenal holds Bayern, Real thrash Leipzig in Champions League",
+    "summary": "Arsenal fought back from behind to draw 2-2 against Bayern Munich at their home ground in the UEFA Champions League. Real Madrid had a much easier night, crushing Leipzig 4-1 at Santiago Bernabéu. Bernardo Silva, Arda Güler, Kylian Mbappé and Jude Bellingham scored for Real, with three goals coming in the first half."
+   },
+   "bn": {
+    "title": "বায়ার্নের সাথে ড্র, লাইপজিগকে ৪-১ গোলে হারাল রিয়াল",
+    "summary": "চ্যাম্পিয়নস লিগে আর্সেনাল বায়ার্ন মিউনিখের বিপক্ষে ২-২ ড্র করেছে, পিছিয়ে পড়ার পরও শেষ দিকে সমান করেছে। অন্যদিকে রিয়াল মাদ্রিদ তাদের মাঠে লাইপজিগকে ৪-১ গোলে বড় হারে জয়ে সারল। বের্নার্দো সিলভা, আরদা গুলের, এমবাপ্পে আর দিওমান্দে গোল করেছেন রিয়ালের হয়ে।"
+   }
+  },
   {
    "id": "16ik88c",
    "section": "news",
@@ -3014,336 +3212,6 @@
    "bn": {
     "title": "এমবাপ্পের দুই গোল, রিয়ালের ৪-১ জয়",
     "summary": "কিলিয়ান এমবাপ্পে দুটি গোল করে রবিবার (১৮ অক্টোবর) রিয়াল মাদ্রিদকে সেভিয়ার বিরুদ্ধে ৪-১ জয় দিয়েছেন। আরদা গুলেরও একটি গোল করেছেন এবং ইয়ান ডিওমান্দ দূরপাল্লা থেকে একটি আঘাত করেছেন। এই জয়ে রিয়াল মাদ্রিদ লা লিগায় তৃতীয় স্থানে উঠে এসেছে।"
-   }
-  },
-  {
-   "id": "1hlhx9i",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VeFJueUFEVi1TYTI3UGJJd3Q5Q0ZmaTJTN3hlenJ1SEN1ODVlbnBnUTlvRE82a1dHSk1KLW9USWNoQWs3c3Z0empFdTBCRlNEc1FxNtIBYkFVX3lxTE00bkZXNEU5T1Jod1JKbTRicF9heTMxR2ZEUXpsTXFRMExXQi01TjM1Q1ZTclJuMWh1SmEwV0o5bDBxNVhNcFFDRk9kaHdQNkhZS0ozdmNoWlg1ck13SUZZRHZB?oc=5",
-   "image": null,
-   "published": "2026-10-18T10:54:52.000Z",
-   "added": "2026-10-18T23:02:48.194Z",
-   "origTitle": "Hidden treasure or nothing? The mystery of Ahsan Manzil’s five safes",
-   "en": {
-    "title": "Five mysterious safes discovered in Ahsan Manzil",
-    "summary": "Five safes have been found at Ahsan Manzil, the historic palace in Dhaka, raising questions about what might be inside. Whether they contain treasure, documents, or nothing at all remains a mystery. Experts are investigating the discovery. The safes add another layer of intrigue to the landmark's already fascinating history."
-   },
-   "bn": {
-    "title": "আহসান মঞ্জিলে পাঁচটি রহস্যময় তিজোরি পাওয়া গেছে",
-    "summary": "ঢাকার ঐতিহাসিক প্রাসাদ আহসান মঞ্জিলে পাঁচটি তিজোরি খুঁজে পাওয়া গেছে, যা বড় প্রশ্ন তুলেছে। এগুলোতে কী আছে—গুপ্তধন, কাগজপত্র নাকি কিছু নেই—সেটা এখনো রহস্য। বিশেষজ্ঞরা তদন্ত করছেন। এই আবিষ্কার সেই ঐতিহাসিক স্থানের গল্পকে আরও রোমাঞ্চকর করে তুলেছে।"
-   }
-  },
-  {
-   "id": "rrbb0o",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFN6R2ZoZDFGUXNmU2pNN0JQTmQ1aDBQQ2tKSzJ6eWRTaUxLSG43Q05qSWNhMkJBN2RycWt4clhZR2JrTFFnOThvRWM3b3JnelllTEgzd2h3QWdkM1JYQVpIWTZRVGJwNk1yVnY4N1lySzhvN0tkal9zWDh2ZWRxR0JfYXZjM3NycVVDcEJab083dDZsSmtLWtIBngFBVV95cUxNTUdTOW9TR1NNN1ZBcDZHcjN5RWllY01ud0tUeFhCU3YzQkl1ejl2Uy1GeFJfcFVITF9iOVNtYkx3cDZxNUQ3R0t0NVRsYTNHSmtTZVNIY2xkbWlTbzBVR1VRVWdYTEhzYkxiWWxrdnppZGFrM01CT0h1M1FPd1hqbWdUX0FzZC1Md0ZSUHFhSkJBMFRHUGNwYk02OVB2QQ?oc=5",
-   "image": null,
-   "published": "2026-10-18T14:10:08.000Z",
-   "added": "2026-10-18T23:02:48.194Z",
-   "origTitle": "Indian air ambulance lands in Dhaka after door opens mid-air; patient dies",
-   "en": {
-    "title": "Indian air ambulance door opens mid-air; patient dies",
-    "summary": "An Indian air ambulance experienced a critical emergency when its door opened during flight to Dhaka. The patient being transported died in the incident. The aircraft was able to land safely in Dhaka despite the emergency. Details about the cause of the door opening remain unclear."
-   },
-   "bn": {
-    "title": "ভারতীয় এয়ার অ্যাম্বুলেন্সের দরজা খুলে গেছে মাঝ আকাশে",
-    "summary": "একটি ভারতীয় এয়ার অ্যাম্বুলেন্স ঢাকায় আসার পথে উড়ার সময় দরজা খুলে গিয়েছে। বিমানে থাকা রোগী মারা গেছে। বিমানটি জরুরি অবস্থা সত্ত্বেও ঢাকায় নিরাপদে অবতরণ করেছে। দরজা খোলার কারণ এখনো স্পষ্ট নয়।"
-   }
-  },
-  {
-   "id": "gvgnxg",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/religion/islam/1ndrizem2d",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-18/pdlpgrdj/pexels-kaderdygnn-8429441.jpg",
-   "published": "2026-10-18T22:30:00.000Z",
-   "added": "2026-10-18T23:02:39.544Z",
-   "origTitle": "আমাদের জীবনে ‘বিসমিল্লাহ’র ৭ শিক্ষা",
-   "en": {
-    "title": "Seven lessons from Bismillah for everyday life and work",
-    "summary": "Bismillah—starting in God's name—teaches that ability and opportunity come from Allah, not just ourselves. It reminds us to pursue knowledge and legitimate livelihoods. The practice also guards the mind against temptation. Key lesson: saying God's name doesn't make haram (forbidden) work halal; we must avoid bribery, fraud, and dishonest earnings."
-   },
-   "bn": {
-    "title": "বিসমিল্লাহর সাতটি শিক্ষা জীবনে কীভাবে প্রয়োগ করবেন",
-    "summary": "আল্লাহর নামে কাজ শুরু করা মানে সামর্থ্য আল্লাহর থেকে আসে—আমাদের নিজেদের থেকে নয়। এটি জ্ঞানচর্চা এবং সৎকর্মে উৎসাহ দেয়। কিন্তু গুরুত্বপূর্ণ কথা হলো, আল্লাহর নাম নিয়েও হারাম কাজ করা যায় না। সুদ, ঘুস, জালিয়াতি এড়িয়ে চলা জরুরি।"
-   }
-  },
-  {
-   "id": "1kklbhc",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799",
-   "published": "2026-10-18T21:00:00.000Z",
-   "added": "2026-10-18T23:02:39.544Z",
-   "origTitle": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-   "en": {
-    "title": "Benchmark venture firm stays calm, bets slow despite market frenzy",
-    "summary": "Venture capital firm Benchmark, which raised $2 billion this summer, is sticking to its slow investment approach: just two or three new bets per partner per year. Despite rivals speeding up and market chaos swirling, the five partners say their Monday meetings have no agenda and their 10-to-15-year founder partnerships still don't scale."
-   },
-   "bn": {
-    "title": "বেঞ্চমার্ক ভেঞ্চার ফার্ম শান্ত থাকলো, ধীর গতিতে বিনিয়োগ করছে",
-    "summary": "এই গ্রীষ্মে ২ বিলিয়ন ডলার সংগ্রহ করা ভেঞ্চার ফার্ম বেঞ্চমার্ক তার পুরানো ধীরগতির কৌশল রাখছে — প্রতি পার্টনার প্রতি বছর দুই-তিনটি নতুন বিনিয়োগ। বাজারে সবাই তাড়াহুড়ো করলেও, এদের পার্টনাররা বলছেন তাদের সোমবারের মিটিংয়ে কোনো এজেন্ডাই নেই।"
-   }
-  },
-  {
-   "id": "1ncvwbn",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/rangpur/975408/%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%BE-%E0%A6%B9%E0%A6%B2%E0%A7%8B-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2%E0%A7%80%E0%A6%B0-%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87",
-   "image": null,
-   "published": "2026-10-18T23:00:00.000Z",
-   "added": "2026-10-18T23:02:39.544Z",
-   "origTitle": "বিয়ের দিনে জানাজা হলো তরুণ প্রকৌশলীর, চিকিৎসা নিয়ে অভিযোগ পরিবারের",
-   "en": {
-    "title": "Young engineer dies day before wedding; family blames hospital care",
-    "summary": "Arif Shaharia Soumic, 22, a young engineer from Gaibandha, died the day before his wedding. His family has filed serious complaints against Maisha Diagnostic Centre, claiming poor treatment and delayed care worsened his condition. After seeking further help at Gaibandha General Hospital, he received inadequate medical attention before passing away on Sunday."
-   },
-   "bn": {
-    "title": "বিয়ের একদিন আগে তরুণ প্রকৌশলীর মৃত্যু, চিকিৎসা নিয়ে অভিযোগ",
-    "summary": "গাইবান্ধার তরুণ প্রকৌশলী আরিফ শাহারিয়া সৌমিক (২২) বিয়ের একদিন আগে মারা গেছেন। তার পরিবার মাইশা ডায়াগনস্টিক সেন্টার এবং চিকিৎসকদের বিরুদ্ধে দাবি করছে যে তারা সঠিক চিকিৎসা দেয়নি এবং দেরি করেছেন। গাইবান্ধা জেনারেল হাসপাতালেও একই সমস্যা হয়েছিল।"
-   }
-  },
-  {
-   "id": "yv2c95",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad53d6be9-1792359787.jpg?resize=1920%2C1440",
-   "published": "2026-10-18T22:41:49.000Z",
-   "added": "2026-10-18T23:02:39.544Z",
-   "origTitle": "Venezuela opposition renews support for Maria Corina Machado as leader",
-   "en": {
-    "title": "Venezuela opposition reaffirms Maria Corina Machado as leader",
-    "summary": "Venezuelan opposition parties meeting in Caracas have renewed their backing for exiled Nobel laureate Maria Corina Machado as their leader. They're pushing for free elections, release of political prisoners, and the safe return of those in exile. Machado, living outside Venezuela since December, has been barred from returning despite international pressure on authorities."
-   },
-   "bn": {
-    "title": "ভেনেজুয়েলার বিরোধী দল মারিয়া কোরিনা মাচাদোকে সমর্থন করছে",
-    "summary": "ভেনেজুয়েলার বিরোধী পক্ষ নোবেল পুরস্কার বিজয়ী মারিয়া কোরিনা মাচাদোকে তাদের নেতা হিসেবে আবার সমর্থন করেছে। তারা স্বাধীন নির্বাচন এবং রাজনৈতিক বন্দিদের মুক্তি দাবি করছে। মাচাদো ডিসেম্বর থেকে বিদেশে আছেন এবং ফেরত আসতে পারছেন না।"
-   }
-  },
-  {
-   "id": "7db3x7",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg",
-   "published": "2026-10-18T20:33:21.000Z",
-   "added": "2026-10-18T23:02:39.544Z",
-   "origTitle": "Macron calls for 'calm and order' after riots across France",
-   "en": {
-    "title": "France braces as riots grip major cities after fuel protests",
-    "summary": "France saw massive protests turn violent over the weekend, with around 550,000 people initially marching against rising fuel prices and cost of living. Rioters looted shops, torched cars and buildings, and even gutted a 19th-century city hall in Limoges. Police arrested about 2,400 people, and President Macron warned those involved would face justice, urging calm and order."
-   },
-   "bn": {
-    "title": "জ্বালানি মূল্যের বিরুদ্ধে প্রতিবাদ, ফ্রান্সে হিংসা ছড়িয়ে পড়লো",
-    "summary": "জ্বালানির দাম এবং জীবনযাত্রার খরচের বিরুদ্ধে ফ্রান্সে বড় প্রতিবাদ হয়েছে। প্রায় ৫৫০,০০০ মানুষ রাস্তায় নেমেছিল, কিন্তু পরে অংশের মানুষ দোকান লুট করে এবং গাড়ি-বাড়িতে আগুন ধরায়। পুলিশ প্রায় ২,৪০০ জনকে গ্রেফতার করেছে এবং প্রেসিডেন্ট ম্যাক্রো শৃঙ্খলা ফিরিয়ে আনতে আহ্বান জানিয়েছেন।"
-   }
-  },
-  {
-   "id": "1vj73dh",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "ইত্তেফাক",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxNak94bW9YSEg5NXFUWXM0QXUxXzF6WWIyelhod19vaGVmbENPcHkwR2R4MTJHUEdzMDU2Q1FSOWpyc3EwckVKRkdvQUJYZlhhbmtTV2dZNVF6aTdWZ2dLR1ZrSGRyd3BSWDN5RFFFZ1BLaTF5TzhPR0ZwUTMxeWtpYXVMbmhUU2prQm1qamh6QWxxWHZJZHllSHY2U3laS2RJQWl5R181NU40eGU2cjFueWdWMms2MnJuTHloa0RLUmxMTV9zTUVmZ3dtbFlNdFRSeDhDd1FpZHlmTzQ1X3JDVFNOZ0NXTkJQRHowQzdIS2pBWV83R0xWOFZFcEJVSW5vVk9WOXRqdUVEN3pXbnRvRlhQSFNRaUxmazF2TmNaZmFHYlRJOWVlQ0QwWVVTZHlKUlRObGlaUEFnbzJyYlRJUnVKalR6dEFTUEFldGJWTll1aGx0VE1yRU9Ia3czNDZaYkxJbmtfSkRlV2tNeUEzQkY2cUs4T2RCNEZVU0VuQUlmeFU3SHN1Z1pVczRKY2NocXdDLXYySUtLTUxoM3U1Q3BhV1YxdzJkQ0NPbUc5YUptMjRud2Mta1N3djRPcnJtX21HXy1naW5vMEhaNUtOMlZwVXRqcmkwb3pNR2VxLWxRWTU5NnZPbEo2WEVUSkJDMmd2cFVTVHRET2otbzIxSjhVRWdtdmZQOXRz0gGQBEFVX3lxTE4yemllaHFERGtPUHhSeDZvUjBhQnd1T2d6am9MQUhyT0ZEbnZ1SHYyTndqRFZaU0x5cms5cVJ0bHBqTmxxc1lNWE51VXd4bUx0ZFJpUmJYM042RDYwMDhwRzkzblEzRlZyLUtERkNSVWdIV1Q2SlZKNFVEUU1CaUpoT3ZJWmVVemtJRHRFNm9Famo3OUtZSmVuLXdPQm5JYmdzd2x3RnVEMk5xUXNWcEJqZDdVVl9EbEZIMXdfRmxrN2dyRGVWLWxNNnRYUG9UWTZvQXMyLXVlVDVrWHJDVkQyc3k2LS04VXhHYkR1d0dpVzBPcEk5NlkyZHBnMDE5ZEtmN1ZHdDQwUlVyY2JuYnJzbG5TWWprcmYtTlNBSVNtS3VlTmpseUVaZHUxWmktRmpUYVJ4M1ZtYndDLW4tVmpXd3pMaVpHSXNUb0ZEeHpvNG15cmFQbWdFT3FwQlYzdDZxa3k2ZWc5UWY2ZkFEUHJpUFh0Ym9iMmF6bHZEXzlaOGtTWlcwNzFIcU85OGcyODhuRkQ3YjJYSmpnYmZ3eWtLWjFXeWx0SWJKN2hQNTFCakRGRzgyVS1NMV9fTFk4bGptU2wzTEIyS1MwR3hmR29waWU4NEZMVVpXejMydl83MFJwdy1HS1JYNUhlSTcxVTVxUzlGaWVORmtYc19VREd0bUQ3OUlhMDR1azlRdkJWNg?oc=5",
-   "image": null,
-   "published": "2026-10-18T16:20:49.000Z",
-   "added": "2026-10-18T20:33:51.225Z",
-   "origTitle": "মন্ত্রিসভা থেকে ইশরাককে পদত্যাগের নির্দেশ প্রধানমন্ত্রীর",
-   "en": {
-    "title": "PM Directs Ishraque to Resign from Cabinet",
-    "summary": "The Prime Minister has ordered Ishraque to step down from his cabinet position. This follows recent controversy involving Ishraque. The move signals swift government action on the matter. An official announcement confirms the directive."
-   },
-   "bn": {
-    "title": "প্রধানমন্ত্রী ইশরাককে মন্ত্রিসভা থেকে পদত্যাগের নির্দেশ দিয়েছেন",
-    "summary": "প্রধানমন্ত্রী ইশরাককে তার মন্ত্রী পদ থেকে পদত্যাগের নির্দেশ দিয়েছেন। এটি সম্প্রতি ইশরাককে নিয়ে বিরোধের পরে ঘটেছে। এই পদক্ষেপ বিষয়টিতে সরকারের দ্রুত পদক্ষেপের সংকেত দেয়। একটি সরকারি ঘোষণা এই নির্দেশ নিশ্চিত করে।"
-   }
-  },
-  {
-   "id": "z6r5xb",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "জাগো নিউজ",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tcHdNZXhaWjlCTDd3dkFINnNWM0xBR0dFMk9wNkxoOHc4QTVwSUFmWGs0S2Q5XzFQVHBGc0o5b1V0WEljbXFaVHhyS0xjU0p1R1Q2aks2bllTM0dyR2pjVTNubw?oc=5",
-   "image": null,
-   "published": "2026-10-18T17:45:34.000Z",
-   "added": "2026-10-18T20:33:51.225Z",
-   "origTitle": "সোহেল রানার এই ছবিটি এঁকেছিলেন এক জাপানি",
-   "en": {
-    "title": "Japanese Artist Painted Famous Portrait of Sohel Rana",
-    "summary": "A well-known portrait of actor Sohel Rana was painted by a Japanese artist. The artwork has caught attention in media circles. It highlights international interest in Bangladeshi entertainment figures. The piece showcases the artist's unique style and interpretation."
-   },
-   "bn": {
-    "title": "সোহেল রানার বিখ্যাত ছবি এঁকেছিলেন একজন জাপানি শিল্পী",
-    "summary": "অভিনেতা সোহেল রানার একটি বিখ্যাত প্রতিকৃতি একজন জাপানি শিল্পী এঁকেছিলেন। শিল্পকর্মটি মিডিয়া সার্কেলে মনোযোগ আকর্ষণ করেছে। এটি বাংলাদেশী বিনোদন ব্যক্তিত্বদের প্রতি আন্তর্জাতিক আগ্রহ তুলে ধরে। টুকরোটি শিল্পীর অনন্য শৈলী এবং ব্যাখ্যা প্রদর্শন করে।"
-   }
-  },
-  {
-   "id": "14tvcgh",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Financial Express",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzdHeXRWWEp6TGJsMmV3ekFtTUdGdExjNWxVdmlsUzdoM1Rudm1TZjdJenJXMng2XzR5RjdqVnljejFobTNRYU5qQlN4eUJfRTNiendsZ2dPLUlFdjlPbmJKNzBzTklkRVVMWk13dXZKQlBpdmppVnpGT2d4TVlMSnZoZUZnanVrZzlwaWtxSzRjNmJLMFdrUzRjM3NwUkktcElBdUZUd2ZIT1dlbG1LTnYwdWNJMHlrWGZHbTFFajBxcGZveFJDR1l1LXRtTXBuUTN0SF9Ca9IB1wFBVV95cUxNUzdHeXRWWEp6TGJsMmV3ekFtTUdGdExjNWxVdmlsUzdoM1Rudm1TZjdJenJXMng2XzR5RjdqVnljejFobTNRYU5qQlN4eUJfRTNiendsZ2dPLUlFdjlPbmJKNzBzTklkRVVMWk13dXZKQlBpdmppVnpGT2d4TVlMSnZoZUZnanVrZzlwaWtxSzRjNmJLMFdrUzRjM3NwUkktcElBdUZUd2ZIT1dlbG1LTnYwdWNJMHlrWGZHbTFFajBxcGZveFJDR1l1LXRtTXBuUTN0SF9Caw?oc=5",
-   "image": null,
-   "published": "2026-10-18T18:00:00.000Z",
-   "added": "2026-10-18T20:33:51.225Z",
-   "origTitle": "Ishraque's firearm brandishing reflects 'reign of terror' Jamaat",
-   "en": {
-    "title": "Ishraque's Gun Display Reflects 'Reign of Terror': Jamaat",
-    "summary": "Jamaat has condemned Ishraque's brandishing of a firearm as reflecting a pattern of intimidation. The party describes it as part of a broader 'reign of terror.' The incident has drawn criticism from multiple political quarters. Jamaat says the government is enabling such behaviour."
-   },
-   "bn": {
-    "title": "ইশরাকের অস্ত্র প্রদর্শন 'সন্ত্রাসের রাজত্বের' প্রতিফলন: জামায়াত",
-    "summary": "জামায়াত ইশরাকের অস্ত্র প্রদর্শনকে হয়রানির প্যাটার্ন হিসেবে নিন্দা করেছে। দল এটিকে ব্যাপক 'সন্ত্রাসের রাজত্বের' অংশ বলে বর্ণনা করে। ঘটনাটি একাধিক রাজনৈতিক মহলে সমালোচনা এনেছে। জামায়াত বলছে সরকার এমন আচরণকে সক্ষম করছে।"
-   }
-  },
-  {
-   "id": "gpbmip",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "New Age",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVhYajNBSlNaVzFDcWIwNlpaWW1KcHB1SnF4bFhIUENiMHg0WmFQdDlyRzB0RG52Q0EwYklYa09aa2hMOHp6cE5JQkVtbHVkeE5na21aOEllbGNDa3NPeDlyaFpGTk95R1N3QWhRbGxxaVp4UGhKMm5SUHVTMDBfT01nemRKd08tUmc?oc=5",
-   "image": null,
-   "published": "2026-10-18T09:49:00.000Z",
-   "added": "2026-10-18T20:33:51.225Z",
-   "origTitle": "Ex-air chief Hannan arrested in Qatar",
-   "en": {
-    "title": "Former Air Chief Hannan Arrested in Qatar",
-    "summary": "Ex-air chief Hannan has been arrested in Qatar. Details about the charges and circumstances are still unclear. This follows recent political changes in Bangladesh. The arrest marks a significant development in ongoing accountability measures."
-   },
-   "bn": {
-    "title": "প্রাক্তন বিমান বাহিনী প্রধান হান্নান কাতারে গ্রেফতার",
-    "summary": "প্রাক্তন বিমান বাহিনী প্রধান হান্নান কাতারে গ্রেফতার হয়েছেন। চার্জ এবং পরিস্থিতি সম্পর্কে বিস্তারিত এখনো পরিষ্কার নয়। এটি বাংলাদেশের সাম্প্রতিক রাজনৈতিক পরিবর্তনের পরে ঘটেছে। গ্রেফতারটি চলমান জবাবদিহিতা ব্যবস্থায় একটি উল্লেখযোগ্য উন্নয়ন।"
-   }
-  },
-  {
-   "id": "19ge743",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/europe/xxwruheg1e",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-18/x71965o3/Piazza-Duomo.jpg",
-   "published": "2026-10-18T20:08:26.000Z",
-   "added": "2026-10-18T20:33:35.969Z",
-   "origTitle": "‘আমাদের দম বন্ধ হয়ে আসছে’: আবাসন ও জীবনযাত্রার ব্যয় নিয়ে ইউরোপের দেশে দেশে বিক্ষোভ",
-   "en": {
-    "title": "Housing crisis sparks protests across Europe: Milan clashes",
-    "summary": "Protests over housing shortages and rising living costs have spread from Spain and France to Italy and Portugal. In Milan, masked demonstrators clashed with police, throwing stones and setting fires to barricades. Police used water cannons and tear gas; at least two officers were injured and around 50 protesters arrested, many minors."
-   },
-   "bn": {
-    "title": "আবাসন সংকট নিয়ে ইউরোপ জুড়ে বিক্ষোভ, মিলানে সংঘর্ষ",
-    "summary": "স্পেন ও ফ্রান্সের পর ইতালি ও পর্তুগালে ছড়িয়ে পড়েছে আবাসন সংকট ও জীবনযাত্রার ব্যয় বৃদ্ধির বিরুদ্ধে বিক্ষোভ। মিলানে মুখোশধারী প্রদর্শনকারীরা পুলিশের সাথে সংঘর্ষে জড়িয়েছে, পাথর ছুড়েছে এবং ব্যারিকেডে আগুন ধরিয়েছে। পুলিশ জলকামান ও কাঁদানে গ্যাস প্রয়োগ করেছে; দুই অফিসার আহত এবং ৫০ জন বিক্ষোভকারী আটক হয়েছেন।"
-   }
-  },
-  {
-   "id": "1h1iuzn",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
-   "published": "2026-10-18T19:03:38.000Z",
-   "added": "2026-10-18T20:33:35.969Z",
-   "origTitle": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-   "en": {
-    "title": "Elizabeth Holmes documentary hits $15 million opening weekend",
-    "summary": "\"You Can See Everything,\" a documentary about Theranos founder Elizabeth Holmes, earned $15 million in its opening weekend—the second-biggest documentary opening ever. Playing in just 855 theaters, it had 2,000 sellout screenings. The film features rare access to Holmes and her family, with co-direction by \"The Rehearsal\" creator Nathan Fielder."
-   },
-   "bn": {
-    "title": "এলিজাবেথ হোমস ডকুমেন্টারি ভাইরাল, ১৫ মিলিয়ন ডলার আয়",
-    "summary": "থেরানোস প্রতিষ্ঠাতা এলিজাবেথ হোমসের গল্প নিয়ে ডকুমেন্টারি ছবি \"ইউ ক্যান সি এভরিথিং\" খোলার সপ্তাহান্তে ১৫ মিলিয়ন ডলার আয় করেছে—ডকুমেন্টারির জন্য দ্বিতীয় বৃহত্তম খোলা। মাত্র ৮৫৫ থিয়েটারে মুক্তি পেয়েও এটি ২০০০ সোল্ডআউট শো করেছে, এবং নেথান ফিল্ডার সহ-পরিচালনা করেছেন।"
-   }
-  },
-  {
-   "id": "1hdn70z",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792355094.jpg?resize=1920%2C1080&quality=80",
-   "published": "2026-10-18T20:26:03.000Z",
-   "added": "2026-10-18T20:33:35.969Z",
-   "origTitle": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
-   "en": {
-    "title": "Fire erupts at Albania's Supreme Court during protests",
-    "summary": "Offices at Albania's Supreme Court in Tirana were set ablaze as anti-government protests entered their fifth day. The demonstrations are driven by anger over corruption, education, and unemployment affecting the country."
-   },
-   "bn": {
-    "title": "আলবেনিয়ার সুপ্রিম কোর্টে আগুন, বিক্ষোভ চলছে",
-    "summary": "আলবেনিয়ার তিরানায় সুপ্রিম কোর্টের অফিসে আগুন জ্বলে উঠেছে। বিক্ষোভ এখন পাঁচ দিনে প্রবেশ করেছে, যেখানে মানুষ দুর্নীতি, শিক্ষা ও বেকারত্বের বিরুদ্ধে রাস্তায় নেমেছে।"
-   }
-  },
-  {
-   "id": "l19ffp",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/thoughts/cop31-bangladeshs-test-climate-diplomacy-1577046",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/uncc.jpg",
-   "published": "2026-10-18T19:35:00.000Z",
-   "added": "2026-10-18T20:33:35.969Z",
-   "origTitle": "COP31: Bangladesh’s test of climate diplomacy",
-   "en": {
-    "title": "Bangladesh gears up for climate diplomacy test at COP31",
-    "summary": "Bangladesh will attend COP31 in Antalya, Türkiye this November with strong evidence of climate damage. In 2024 alone, heat-related losses cost the country $1.78 billion and 25 million working days. The newly elected government should use this summit to launch a 10-year climate strategy, with a quantified position on national losses across all sectors."
-   },
-   "bn": {
-    "title": "COP31-এ জলবায়ু কূটনীতির পরীক্ষা বাংলাদেশের",
-    "summary": "নভেম্বরে তুরস্কের আন্তালিয়ায় অনুষ্ঠিত COP31-এ বাংলাদেশ জলবায়ু ক্ষতির শক্তিশালী প্রমাণ নিয়ে হাজির হবে। ২০২৪ সালেই তাপপ্রবাহজনিত ক্ষতি দেশকে ১.৭৮ বিলিয়ন ডলার খরচ করেছে এবং ২৫ মিলিয়ন কর্মদিবস হারিয়েছে। নতুন সরকারের এই শিখরসম্মেলনকে পরবর্তী দশকের জলবায়ু কৌশলের শুরু হিসেবে ব্যবহার করা উচিত।"
    }
   }
  ]
