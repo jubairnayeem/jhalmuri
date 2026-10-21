@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-21T04:33:58.736Z",
+ "updatedAt": "2026-10-21T10:03:22.143Z",
  "burning": [
   {
-   "id": "1rys5ee",
+   "id": "144i70u",
    "heat": 5,
    "why": {
-    "en": "Measles death toll at 1,204 — major public health crisis dominating coverage.",
-    "bn": "মিজেলস আউটব্রেক ১,২০৪ মৃত্যু — দেশব্যাপী স্বাস্থ্য জরুরি অবস্থা সবচেয়ে বড় খবর।"
+    "en": "Saudi executions of 2 Bangladeshis is dominating searches and multiple outlets; videos and claims about it are viral.",
+    "bn": "সৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড নিয়ে ব্যাপক সার্চ এবং একাধিক আউটলেটে কভারেজ; ভিডিও এবং দাবি ভাইরাল।"
    },
    "rank": 1
-  },
-  {
-   "id": "v9ouga",
-   "heat": 5,
-   "why": {
-    "en": "Two Bangladeshis executed in Saudi Arabia raises diplomatic and human rights questions.",
-    "bn": "সৌদি আরবে দুই বাংলাদেশি মৃত্যুদণ্ড — বৈদেশিক সম্পর্ক এবং অধিকার নিয়ে প্রশ্ন উঠেছে।"
-   },
-   "rank": 2
-  },
-  {
-   "id": "dzppdr",
-   "heat": 4,
-   "why": {
-    "en": "Bus-truck collision in Natore kills at least 12 — major road accident.",
-    "bn": "নাটোরে বাস-ট্রাক সংঘর্ষে ১২ জন মারা গেছে — মহা দুর্ঘটনা।"
-   },
-   "rank": 3
   },
   {
    "id": "de8999",
    "heat": 4,
    "why": {
-    "en": "Bangladeshi tricked into fighting war in Russia — trafficking and exploitation story.",
-    "bn": "বাংলাদেশি রাশিয়ায় যুদ্ধে ঠকিয়ে পাঠানো — জোরপূর্বক নিয়োগের খবর।"
+    "en": "Bangladeshi sent to Ukraine war under false job promise is trending on Google (রাশিয়া trending with 500+ traffic) and covered by major outlets.",
+    "bn": "মিথ্যা চাকরির প্রতিশ্রুতিতে বাংলাদেশি রাশিয়ায় পাঠানো গুগলে ট্রেন্ডিং এবং একাধিক আউটলেটে কভারেজ পেয়েছে।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "1rys5ee",
+   "heat": 4,
+   "why": {
+    "en": "Measles outbreak death toll reaching 1,204 is a major health crisis covered by multiple outlets with serious public concern.",
+    "bn": "হাম রোগের মৃত্যু ১,২০৪ পৌঁছানো একটি বড় স্বাস্থ্য সংকট যা একাধিক মিডিয়ায় কভার হয়েছে।"
+   },
+   "rank": 3
+  },
+  {
+   "id": "j3ijqj",
+   "heat": 3,
+   "why": {
+    "en": "Mother and daughter killed in Chattogram highway crash is a tragic accident covered by major outlets.",
+    "bn": "চট্টগ্রামে হাইওয়ে দুর্ঘটনায় মা-মেয়ে নিহত হওয়া একটি মর্মান্তিক ঘটনা যা প্রধান মিডিয়ায় রিপোর্ট হয়েছে।"
    },
    "rank": 4
   },
   {
-   "id": "gdsrws",
+   "id": "go7t9w",
    "heat": 3,
    "why": {
-    "en": "Dhaka ranks seventh globally for air pollution — environmental and health alert.",
-    "bn": "ঢাকা বিশ্বব্যাপী সপ্তম সবচেয়ে দূষিত শহর — পরিবেশ ও স্বাস্থ্য সংকট।"
+    "en": "100,000 government temporary jobs stuck in policy limbo affects many job seekers and is covered by Prothom Alo.",
+    "bn": "১ লাখ সরকারি অস্থায়ী চাকরি নীতিগত সমস্যায় আটকে আছে যা অনেক চাকরি প্রার্থীকে প্রভাবিত করছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "pbkfes",
-   "tag": "#AfghanCricket",
+   "id": "144i70u",
+   "tag": "#SaudiExecutions",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Saudi executions of 2 Bangladeshis",
+    "text": "Saudi Arabia executed 2 Bangladeshis for mosque offences. Google searches and multiple outlets are covering the story; false videos about the executions are also spreading."
+   },
+   "bn": {
+    "title": "সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড",
+    "text": "সৌদি আরব দুই বাংলাদেশিকে মসজিদ সংক্রান্ত অপরাধে মৃত্যুদণ্ড দিয়েছে। এ নিয়ে ভুয়া ভিডিও ছড়ানো হচ্ছে এবং একাধিক আউটলেট এটি কভার করছে।"
+   }
+  },
+  {
+   "id": "de8999",
+   "tag": "#WarTrap",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Afghanistan cricket powers through",
-    "text": "Atal and Rashid led Afghanistan to a comprehensive victory in cricket. The performance is drawing attention on trending search."
+    "title": "Bangladeshi tricked into Russian war",
+    "text": "A Bangladeshi was sent to fight in the Russia-Ukraine war after being promised a regular job. The story is trending on searches about Russia."
    },
    "bn": {
-    "title": "আফগানিস্তানের ক্রিকেট জয়",
-    "text": "আতাল এবং রাশিদ আফগানিস্তানকে বড় জয়ে নিয়ে গেছেন। খেলাধুলা ট্রেন্ডিং-এ আছে।"
+    "title": "মিথ্যা চাকরির প্রতিশ্রুতিতে বাংলাদেশি যুদ্ধে",
+    "text": "একজন বাংলাদেশি নিয়মিত চাকরির প্রতিশ্রুতি দিয়ে রাশিয়া-ইউক্রেন যুদ্ধে পাঠানো হয়েছেন। রাশিয়া সংক্রান্ত সার্চে এটি ট্রেন্ডিং।"
    }
   },
   {
-   "id": "5p7wjz",
-   "tag": "#HarmanpreetCaptaincy",
+   "id": "1rys5ee",
+   "tag": "#MeaslesOutbreak",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Measles death toll reaches 1,204",
+    "text": "Bangladesh faces a measles outbreak with 1,204 deaths reported. Health authorities are working to contain the spread."
+   },
+   "bn": {
+    "title": "হামের মৃত্যু ১,২০৪এ পৌঁছেছে",
+    "text": "বাংলাদেশে হাম রোগের প্রকোপে এখন পর্যন্ত ১,২০৪ জনের মৃত্যু হয়েছে। স্বাস্থ্য কর্তৃপক্ষ রোগ নিয়ন্ত্রণে কাজ করছে।"
+   }
+  },
+  {
+   "id": "dzppdr",
+   "tag": "#RoadAccident",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Harmanpreet enjoys post-captaincy phase",
-    "text": "Indian cricketer Harmanpreet Kaur ready to play without captaincy pressure. Cricket fans discussing her new chapter."
+    "title": "Bus-truck collision kills 12 in Natore",
+    "text": "A major highway accident in Natore left 12 people dead in a collision between a bus and truck."
    },
    "bn": {
-    "title": "হরমনপ্রীত ক্যাপ্টেন্সির পর",
-    "text": "হরমনপ্রীত কৌর ক্যাপ্টেন্সি ছাড়িয়ে নতুন পর্যায়ে। ক্রিকেট ফ্যানরা তার নতুন অধ্যায় নিয়ে কথা বলছে।"
-   }
-  },
-  {
-   "id": "1twrotv",
-   "tag": "#SaharaPassing",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Popular model Sahara dies at 34",
-    "text": "Bangladeshi model Sahara passed away, drawing tributes from entertainment industry and fans."
-   },
-   "bn": {
-    "title": "মডেল সাহারা ৩৪ বছরে মৃত",
-    "text": "জনপ্রিয় মডেল সাহারার মৃত্যু ৩৪ বছর বয়সে। বিনোদন জগত ও ভক্তরা সম্মান প্রদর্শন করছেন।"
+    "title": "নাটোরে বাস-ট্রাক সংঘর্ষে ১২ জন নিহত",
+    "text": "নাটোরে একটি বাস এবং ট্রাক সংঘর্ষে ১২ জন মানুষ প্রাণ হারিয়েছেন।"
    }
   }
  ],

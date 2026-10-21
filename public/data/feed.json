@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-21T04:33:42.230Z",
+ "updatedAt": "2026-10-21T10:03:03.799Z",
  "items": [
+  {
+   "id": "go7t9w",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/wybcuizxa5",
+   "image": "https://media.prothomalo.com/prothomalo-english/2025-10-03/hulov4dk/Bangladesh-Government.jpg",
+   "published": "2026-10-21T08:55:58.000Z",
+   "added": "2026-10-21T10:03:03.799Z",
+   "origTitle": "Recruitment for 100,000 third and fourth class govt posts stalls",
+   "en": {
+    "title": "100,000 government temporary jobs stuck in policy limbo",
+    "summary": "About 100,000 third and fourth class government posts are pending recruitment because of a revised outsourcing policy issued by the Finance Ministry on 21 September. Previously these were hired through private companies, but the new rules prevent that—yet don't clearly explain how to hire directly. Government offices now can't recruit staff or provide essential services. Legal gaps in the Public Procurement Act are blocking implementation."
+   },
+   "bn": {
+    "title": "এক লাখ সরকারি চাকরির নিয়োগ নীতিগত জটিলতায় আটকে আছে",
+    "summary": "তৃতীয় ও চতুর্থ শ্রেণীর প্রায় এক লাখ সরকারি স্থায়ী পদের নিয়োগ ২১ সেপ্টেম্বর আপডেট করা আউটসোর্সিং নীতির কারণে ঝুলছে। আগে ব্যক্তিগত কোম্পানির মাধ্যমে এই পদের কর্মী নিয়োগ হতো, কিন্তু নতুন নিয়মে তা নিষিদ্ধ। তবে সরাসরি নিয়োগের পদ্ধতি স্পষ্ট নয়, তাই সরকারি অফিসগুলো কর্মচারী নিতে পারছে না।"
+   }
+  },
+  {
+   "id": "2x2rkw",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/899rru06eg",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/kf1t550a/President.jfif",
+   "published": "2026-10-21T09:52:57.000Z",
+   "added": "2026-10-21T10:03:03.799Z",
+   "origTitle": "সত্য, ন্যায় ও মানবিকতার পক্ষে তরুণদের সোচ্চার থাকার আহ্বান রাষ্ট্রপতির",
+   "en": {
+    "title": "President urges youth to stand for truth, justice, humanity",
+    "summary": "President Mirza Fakhrul Islam Almgir called on young Bangladeshis to speak up for truth, justice and humanity, and to resist rumours, propaganda and religious extremism that try to divide the nation. He said all religions here celebrate festivals peacefully while conflict rages elsewhere—this harmony is Bangladesh's greatest strength. He stressed that communal unity, built on all faiths participating together in democratic struggles, must be protected at any cost."
+   },
+   "bn": {
+    "title": "রাষ্ট্রপতির তরুণদের সত্য ও ন্যায়ের জন্য সোচ্চার হওয়ার আহ্বান",
+    "summary": "রাষ্ট্রপতি মির্জা ফখরুল ইসলাম আলমগীর তরুণ প্রজন্মকে গুজব, অপপ্রচার ও ধর্মীয় উগ্রতার বিরুদ্ধে দৃঢ় থাকার আহ্বান জানিয়েছেন। তিনি বলেছেন, যখন বিশ্বে যুদ্ধ ও সাম্প্রদায়িক হানাহানি চলছে, তখন বাংলাদেশে সব ধর্মের মানুষ শান্তিতে উৎসব পালন করছে—এটাই আমাদের বড় অর্জন। তিনি এই সম্প্রীতি অক্ষুণ্ণ রাখতে জোর দিয়েছেন।"
+   }
+  },
+  {
+   "id": "j3ijqj",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/mother-daughter-killed-ctg-road-crash-1579336",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/screenshot_2026-10-21_154808.png",
+   "published": "2026-10-21T09:45:00.000Z",
+   "added": "2026-10-21T10:02:52.446Z",
+   "origTitle": "Mother, daughter killed in Ctg road crash",
+   "en": {
+    "title": "Mother and daughter killed in Chattogram highway crash",
+    "summary": "A woman and her daughter died when a microbus crashed into an electricity pole on the Dhaka-Chattogram highway in Sitakunda upazila on Tuesday morning. The driver lost control of the vehicle, which was carrying six people. Four others were injured and taken to Chattogram Medical College Hospital for treatment."
+   },
+   "bn": {
+    "title": "চট্টগ্রামের সড়ক দুর্ঘটনায় মা-মেয়ে নিহত",
+    "summary": "মঙ্গলবার সকালে ঢাকা-চট্টগ্রাম মহাসড়কে সিতাকুণ্ডায় একটি মাইক্রোবাস বিদ্যুৎ খুঁটিতে ঢেউ খেয়ে পড়ে। চালক নিয়ন্ত্রণ হারায় এবং ছয় যাত্রীর মধ্যে দুইজন মারা যান। চার জন আহত হয়ে চট্টগ্রাম মেডিকেল কলেজ হাসপাতালে পাঠানো হয়।"
+   }
+  },
+  {
+   "id": "11uva8x",
+   "section": "bhabna",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
+   "image": "https://images.aeonmedia.co/images/6c5e566f-cdc2-410f-8762-825565f1c6f3/when-it-started-to-burn-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-21T10:01:00.000Z",
+   "added": "2026-10-21T10:02:52.446Z",
+   "origTitle": "When it started to burn",
+   "en": {
+    "title": "Filmmaker Anders Hammer's Ukraine war trilogy completes with new film",
+    "summary": "Norwegian filmmaker Anders Hammer has released When It Started to Burn, documenting Russia's invasion of Ukraine from 2022 onward. The film follows Kyiv resident Kseniia, who sends her children abroad while staying to run a humanitarian center. It's the third in Hammer's trilogy capturing global conflicts, after films on Hong Kong and Afghanistan."
+   },
+   "bn": {
+    "title": "নরওয়েজিয়ান চলচ্চিত্রকার আন্ডার্স হ্যামারের নতুন ইউক্রেন চলচ্চিত্র প্রকাশিত",
+    "summary": "নরওয়েজিয়ান চলচ্চিত্রকার আন্ডার্স হ্যামার তার নতুন ছবি 'হোয়েন ইট স্টার্টেড টু বার্ন' প্রকাশ করেছেন যা ২০২২ থেকে রাশিয়ার ইউক্রেন আক্রমণ নথিভুক্ত করে। ছবিটি কিয়েভ বাসী ক্সেনিয়াকে অনুসরণ করে, যিনি তার সন্তানদের বিদেশে পাঠিয়ে নিজে মানবিক সাহায্য কেন্দ্র পরিচালনা করেন।"
+   }
+  },
+  {
+   "id": "1pvwcpt",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg",
+   "published": "2026-10-21T09:22:23.000Z",
+   "added": "2026-10-21T10:02:52.446Z",
+   "origTitle": "Russia frees US citizen Stephen Hubbard, state media reports",
+   "en": {
+    "title": "Putin says Russia frees detained US citizen Stephen Hubbard",
+    "summary": "President Putin announced Russia has agreed to release American Stephen Hubbard, originally from Michigan, who was serving a seven-year sentence for allegedly fighting for Ukraine. The 72-year-old was captured two years ago near Izyum. Trump had previously raised Hubbard's case with Putin and said the US was focused on securing his release."
+   },
+   "bn": {
+    "title": "পুতিন বলেছেন রাশিয়া মার্কিন নাগরিক স্টিফেন হাবার্ডকে মুক্ত করছে",
+    "summary": "পুতিন ঘোষণা করেছেন রাশিয়া আমেরিকান স্টিফেন হাবার্ডকে মুক্তি দিতে সম্মত হয়েছে, যিনি ইজিয়ামে ইউক্রেনের পক্ষে লড়াই করার জন্য সাত বছরের সাজা পাচ্ছিলেন। ৭২ বছর বয়সী এই ব্যক্তি দুই বছর আগে ধরা পড়েন। ট্রাম্প পূর্বে পুতিনের সাথে তার মুক্তির কথা উঠিয়েছিলেন।"
+   }
+  },
+  {
+   "id": "7wnw4i",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3WP3XN__v1__MidRes__AustraliaPoliticsAttack-1792566224.jpg?resize=1200%2C630",
+   "published": "2026-10-21T09:24:47.000Z",
+   "added": "2026-10-21T10:02:52.446Z",
+   "origTitle": "Attack on Australian MP Haines: How threats against legislators have soared",
+   "en": {
+    "title": "Australian MP Helen Haines loses both legs in deliberate car attack",
+    "summary": "Independent MP Helen Haines, 65, had both legs amputated after being struck by an SUV outside her office in Victoria on Monday. Police say the 43-year-old driver deliberately hit her. Prime Minister Anthony Albanese called it targeted violence, highlighting a disturbing rise in threats and abuse toward Australian lawmakers fuelled by online extremism."
+   },
+   "bn": {
+    "title": "অস্ট্রেলিয়ান সাংসদ হেলেন হেইনস গাড়ির আঘাতে দুই পা হারান",
+    "summary": "অস্ট্রেলিয়ার স্বাধীন সাংসদ হেলেন হেইনস, ৬৫, সোমবার তার অফিসের বাইরে একটি এসইউভি দ্বারা আঘাত পেয়ে দুই পা হারিয়েছেন। পুলিশ বলেছে চালক ইচ্ছাকৃতভাবে তাকে আঘাত করেছে। প্রধানমন্ত্রী এটিকে লক্ষ্যবস্তু হিংসা বলে অভিহিত করেছেন এবং সাংসদদের বিরুদ্ধে হুমকি ও হয়রানির ঊর্ধ্বমুখী প্রবণতার কথা জানিয়েছেন।"
+   }
+  },
+  {
+   "id": "1aj5vpa",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/rangpur/975865/%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%AB%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A6%B0%E0%A7%8B%E0%A6%A7",
+   "image": null,
+   "published": "2026-10-21T09:58:56.000Z",
+   "added": "2026-10-21T10:02:52.446Z",
+   "origTitle": "যাত্রাবিরতির দাবিতে নীলফামারীতে ট্রেন আটকে অবরোধ, ৪ ঘণ্টা পর চলাচল স্বাভাবিক",
+   "en": {
+    "title": "Nilphamari residents block train over station demand",
+    "summary": "Local residents in Nilphamari blocked railway tracks on Wednesday morning demanding the reintroduction of train stops at Darwani station. The blockade, which drew over a thousand people, halted several trains for about four hours. After assurances from the administration, protesters withdrew and normal service resumed."
+   },
+   "bn": {
+    "title": "ট্রেনের যাত্রাবিরতি চালুর দাবিতে নীলফামারীতে রেলপথ অবরোধ",
+    "summary": "বুধবার সকালে নীলফামারীর দারোয়ানী এলাকায় স্থানীয় বাসিন্দারা রেলপথ অবরোধ করেছেন। তারা দারোয়ানী রেলস্টেশনে ট্রেনের যাত্রাবিরতি চালুর দাবি জানান। সহস্রাধিক মানুষের অংশগ্রহণে চার ঘণ্টা ধরে অবরোধ চলে এবং প্রশাসনের আশ্বাসে তা প্রত্যাহার করা হয়।"
+   }
+  },
+  {
+   "id": "tcxgjg",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cxvgd9dnrv39o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a8ca/live/9dc70340-c7a6-11f1-a624-a3d8608fc192.jpg",
+   "published": "2026-10-21T05:19:06.000Z",
+   "added": "2026-10-21T10:02:52.446Z",
+   "origTitle": "ডোনাল্ড ট্রাম্প কি মিয়ানমারের সঙ্গে ব্যবসা করতে আগ্রহী?",
+   "en": {
+    "title": "Trump administration signals shift toward Myanmar military talks",
+    "summary": "A senior US official met Myanmar's military leader Min Aung Hlaing in September, marking the highest-level contact since the 2021 coup. The US also removed some businessmen from sanctions lists. These moves suggest a policy shift from Washington's long isolationist stance toward Myanmar's junta, though the administration framed the meeting as securing a detained American's release."
+   },
+   "bn": {
+    "title": "ট্রাম্প প্রশাসন মিয়ানমারের সামরিক নেতার সাথে আলোচনা শুরু করছে",
+    "summary": "সেপ্টেম্বরে একজন মার্কিন শীর্ষ কর্মকর্তা মিয়ানমারের সামরিক নেতা মিন অং হ্লাইংয়ের সাথে দেখা করেছেন - ২০২১ সামরিক অভ্যুত্থানের পর প্রথম সর্বোচ্চ পর্যায়ের যোগাযোগ। যুক্তরাষ্ট্র কয়েকজন ব্যবসায়ীকে নিষেধাজ্ঞা তালিকা থেকে বাদ দিয়েছে। এই পদক্ষেপগুলো সামরিক শাসনের প্রতি ওয়াশিংটনের নীতির পরিবর্তন ইঙ্গিত করছে।"
+   }
+  },
   {
    "id": "behalm",
    "section": "news",
@@ -3145,182 +3321,6 @@
    "bn": {
     "title": "বাংলাদেশের পর্যটন খাতে জাপানের ১.২ বিলিয়ন ডলার বিনিয়োগ",
     "summary": "জাপানি বিনিয়োগকারীরা বাংলাদেশের পর্যটন ও আতিথেয়তা খাতে ১.২ বিলিয়ন ডলার বিনিয়োগের পরিকল্পনা ঘোষণা করেছেন। অক্টোবর ১৮ তারিখে বেসামরিক বিমান ও পর্যটন মন্ত্রণালয়ের একটি সভায় এই ঘোষণা হয়েছে। মন্ত্রী সুন্দরবন, কক্সবাজার এবং সিলেটের চা বাগান সহ প্রধান আকর্ষণগুলো তুলে ধরেছেন।"
-   }
-  },
-  {
-   "id": "12t8b8d",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558907.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423600/423679.jpg",
-   "published": "2026-10-18T04:11:41.000Z",
-   "added": "2026-10-18T05:47:20.969Z",
-   "origTitle": "Springer replaces Paul on West Indies' Test tour of Bangladesh",
-   "en": {
-    "title": "Springer Gets Test Call-Up as Paul Withdraws from Bangladesh Tour",
-    "summary": "West Indies cricketer Springer has earned his first Test call-up for the team's tour of Bangladesh. He replaces Paul, who has withdrawn for personal and family reasons. Springer's maiden Test selection is a big moment in his cricket career. The tour will test the squad's depth as it adjusts to the change."
-   },
-   "bn": {
-    "title": "বাংলাদেশ ট্যুরে স্প্রিঙ্গার পল-এর জায়গা নিচ্ছেন টেস্ট দলে",
-    "summary": "ওয়েস্ট ইন্ডিজ ক্রিকেটার স্প্রিঙ্গার বাংলাদেশ ট্যুরের জন্য তার প্রথমবার টেস্ট দলে আহূত হয়েছেন। তিনি পল-এর জায়গা নিচ্ছেন, যিনি ব্যক্তিগত এবং পারিবারিক কারণে আহ্বান থেকে সরে গেছেন। স্প্রিঙ্গারের প্রথম টেস্ট নির্বাচন তার ক্যারিয়ারে বড় মুহূর্ত। দলটি এই পরিবর্তনের সাথে মানিয়ে নিয়ে ট্যুরে তার দক্ষতা পরীক্ষা করবে।"
-   }
-  },
-  {
-   "id": "s377dg",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMkZTRDZGYkxWNXVMZEFKMzU4NERNWjM2cGxVLXVuUGRSc2JnaUpzRm9zdzdqaXBxUnBTcFJrNHNzV3V6eWxQWGQyWVBiLVljeEdMeE1zclJEZVZwTl9LTk1velZzTFBjQzZLNXhlMk5ScDl5eE51emctVlNZUTV4TXh0MndsUVF3MmlRVEtjMy1sSFExNlVEeHRn0gGfAUFVX3lxTE5fWU5lYkxnMk84Q0k2R0NLSU05aFJCUHB6aWJHZG9YWEo2VkZDZU5fZmFMVUxjRjZRcXpiMjB0a1VSdDhLMVhtOEdsTnFhb2J3bHNWVjl6c1FWVE1FRHhhMzBqZlF3dDBrQ0liQVVGcEpzNXo2c0F4UEg1di16Z0gyZ1N3YUppVXNtVlBFUWttZmpWVTl5RWx6ZjV2cFNKaw?oc=5",
-   "image": null,
-   "published": "2026-10-17T11:59:43.000Z",
-   "added": "2026-10-18T05:47:20.969Z",
-   "origTitle": "JU Professor Nahreen Islam Khan appointed Chief Information Commissioner",
-   "en": {
-    "title": "JU Professor Nahreen Islam Khan Named Chief Information Commissioner",
-    "summary": "Nahreen Islam Khan, a professor at Jahangirnagar University, has been appointed as Chief Information Commissioner. The role oversees information access and transparency in government. Khan will lead the commission's work on implementing right-to-information laws. This is a key position for ensuring public access to government records."
-   },
-   "bn": {
-    "title": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের অধ্যাপক নাহরিন ইসলাম খান প্রধান তথ্য কমিশনার নিযুক্ত",
-    "summary": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের অধ্যাপক নাহরিন ইসলাম খান প্রধান তথ্য কমিশনার হিসেবে নিযুক্ত হয়েছেন। এই পদটি সরকারের তথ্য প্রবেশাধিকার এবং স্বচ্ছতা তদারকি করে। খান তথ্য অধিকার আইন বাস্তবায়নে কমিশনের কাজ নেতৃত্ব দেবেন। জনগণের সরকারি তথ্য অ্যাক্সেসের জন্য এটি একটি গুরুত্বপূর্ণ পদ।"
-   }
-  },
-  {
-   "id": "sbd3tv",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/capital/f0zp1wrmww",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-18/snnvo4g1/780773b26ec3432582560e593e16c832.jpg",
-   "published": "2026-10-18T05:24:18.000Z",
-   "added": "2026-10-18T05:47:10.995Z",
-   "origTitle": "১৫ বছর আগে মা, এবার বাবাকে হারিয়ে দিশাহারা তাসমিয়া",
-   "en": {
-    "title": "Former secretary found dead after 15 years of hardship, daughter devastated",
-    "summary": "Mo. Mosharraf Hosen, a former additional secretary, was found bloodied and unconscious Friday morning near stairs at Officer's Club construction site in Dhaka. He died at Dhaka Medical College Hospital shortly after. His wife died 15 years ago; his elder daughter works as a doctor in the US. His younger daughter Tasmia, 28, now faces life alone after losing her only support."
-   },
-   "bn": {
-    "title": "সাবেক সচিব মারা গেলেন, ১৫ বছরের পর ছোট মেয়ে আবার একা",
-    "summary": "সাবেক অতিরিক্ত সচিব মো. মোশাররফ হোসেনকে শুক্রবার সকালে ঢাকায় অফিসার্স ক্লাবের নির্মাণাধীন ভবনে রক্তাক্ত অবস্থায় পাওয়া যায়। ঢাকা মেডিকেল কলেজ হাসপাতালে তিনি মারা যান। তার স্ত্রী ১৫ বছর আগে মারা গেছেন এবং বড় মেয়ে যুক্তরাষ্ট্রে চিকিৎসক হিসেবে কাজ করে। ২৮ বছর বয়সী ছোট মেয়ে তাসমিয়া এখন সম্পূর্ণ একা পড়ে গেছেন।"
-   }
-  },
-  {
-   "id": "81v33p",
-   "section": "news",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/o9wo6bdi2i",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-18/bj65vvz2/prothomalo-bangla2026-10-17xvehe58cWhatsApp-Image-2026-10-17-at-9.33.06-PM.avif",
-   "published": "2026-10-18T05:22:30.000Z",
-   "added": "2026-10-18T05:47:10.995Z",
-   "origTitle": "Jagannath University: Questions raised over back-to-back ‘Beef Feasts’",
-   "en": {
-    "title": "Jagannath University hosts back-to-back beef feasts during Hindu festival",
-    "summary": "Jagannath University student groups organised two large beef feasts on consecutive days—Friday and Saturday 16-17 October—during Durga Puja, the major Hindu religious festival. The Bangladesh Khelafat Chhatra Majlis group distributed beef and organised qawwali on Saturday; the Central Students' Union held a separate event Friday. Each charged students a small registration fee and served over 600 people."
-   },
-   "bn": {
-    "title": "জগন্নাথ বিশ্ববিদ্যালয়ে দুরগা পূজার সময় পাঁচিল ভোজের আয়োজন",
-    "summary": "জগন্নাথ বিশ্ববিদ্যালয়ে শুক্রবার এবং শনিবার (১৬-১৭ অক্টোবর) পরপর দুটি বড় পাঁচিল ভোজের আয়োজন করা হয়েছে যা হিন্দু সম্প্রদায়ের সবচেয়ে বড় উৎসব দুর্গা পূজার সময়ে অনুষ্ঠিত হয়। বাংলাদেশ খেলাফত ছাত্র মজলিস শনিবার পাঁচিল এবং কাওয়ালির আয়োজন করে এবং কেন্দ্রীয় শিক্ষার্থী ইউনিয়ন শুক্রবার আলাদা অনুষ্ঠান করে। প্রতিটি ইভেন্টে ৬০০ জনেরও বেশি অংশগ্রহণ করে।"
-   }
-  },
-  {
-   "id": "1c0wft4",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-05-26T055926Z_1447473893_RC2TGLAS2BBQ_RTRMADP_3_INDIA-USA-1792229243.jpg?resize=1920%2C1440",
-   "published": "2026-10-18T05:16:49.000Z",
-   "added": "2026-10-18T05:47:10.995Z",
-   "origTitle": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
-   "en": {
-    "title": "US Secretary of State Rubio skips New Delhi, stirs Indian tensions",
-    "summary": "US Secretary of State Marco Rubio is visiting India next week but will avoid the capital New Delhi, instead meeting Foreign Minister Subrahmanyam Jaishankar in Mumbai on Monday. The snub sparked anger from Indian opposition leaders who accused the government of allowing India's top diplomat to be \"summoned\" on home soil. The two countries' relations are strained over trade, tariffs and Russian oil purchases."
-   },
-   "bn": {
-    "title": "মার্কিন পররাষ্ট্র মন্ত্রী নতুন দিল্লি এড়িয়ে গেলেন, ভারত নাখোশ",
-    "summary": "মার্কিন পররাষ্ট্র মন্ত্রী মার্কো রুবিও আগামী সপ্তাহে ভারত পরিদর্শন করবেন কিন্তু রাজধানী নতুন দিল্লি এড়িয়ে সোমবার মুম্বাইয়ে ভারতীয় পররাষ্ট্র মন্ত্রী সুব্রহ্মণ্যম জৈশঙ্করের সাথে দেখা করবেন। এই অপমানজনক সিদ্ধান্তে ভারতীয় বিরোধী নেতারা রেগে গেছেন এবং সরকারকে তাদের শীর্ষ কূটনীতিবিদকে নিজের মাটিতে ডাকার অনুমতি দেওয়ার অভিযোগ করেছেন।"
-   }
-  },
-  {
-   "id": "1aq9h0v",
-   "section": "news",
-   "cat": "campus",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/mymensing/975220/%E2%80%98%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E2%80%99-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93-%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2",
-   "image": null,
-   "published": "2026-10-18T05:28:01.000Z",
-   "added": "2026-10-18T05:47:10.995Z",
-   "origTitle": "‘মাদক’ সেবনের ভিডিও ভাইরাল, ময়মনসিংহে ছাত্রদল নেতাকে অব্যাহতি",
-   "en": {
-    "title": "Mymensingh Chhatra Dal leader suspended over drug video",
-    "summary": "Zahirul Islam, co-secretary of Mymensingh North district Chhatra Dal and joint convener of Gauri Pur upazila unit, has been suspended from his organisational posts after a drug-use video went viral on social media. The district office issued a suspension notice on Friday night, citing breach of organisational discipline."
-   },
-   "bn": {
-    "title": "ময়মনসিংহে ছাত্রদল নেতা ড্রাগ ভিডিওর কারণে সাসপেন্ড",
-    "summary": "মাদক সেবনের ভিডিও ভাইরাল হওয়ার পর ময়মনসিংহ উত্তর জেলা ছাত্রদলের সহসভাপতি ও গৌরীপুর উপজেলা ছাত্রদলের যুগ্ম আহ্বায়ক জহিরুল ইসলামকে সাংগঠনিক পদ থেকে সাময়িক অব্যাহতি দেওয়া হয়েছে। জেলা সংগঠন শুক্রবার রাতে সাংগঠনিক শৃঙ্খলা ভঙ্গের কারণে এ সিদ্ধান্ত জানিয়েছে।"
-   }
-  },
-  {
-   "id": "52oteu",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/c5gm029lmnneo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a04/live/fe7163c0-caa3-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-18T04:31:22.000Z",
-   "added": "2026-10-18T05:47:10.995Z",
-   "origTitle": "ফ্রান্সজুড়ে সহিংস সংঘর্ষ, লুটপাট ও অগ্নিসংযোগ চলছে, গ্রেপ্তার ১ হাজারের বেশি",
-   "en": {
-    "title": "France erupts: violent protests leave 1,200 arrested, buildings burning",
-    "summary": "Widespread violence swept France on Saturday as protests over school conditions and rising living costs turned destructive. Over 1,200 people were arrested and around 550,000 demonstrated nationwide. Rioters set fires across cities including Paris and Limoges, looted shops, and clashed with police who used tear gas and water cannons. About 150 police officers were injured."
-   },
-   "bn": {
-    "title": "ফ্রান্সে আগুন এবং লুটপাট: ১,২০০ গ্রেপ্তার, ভবন জ্বলছে",
-    "summary": "শনিবার স্কুলের অবস্থা এবং ক্রমবর্ধমান খরচের বিক্ষোভ সংঘর্ষে পরিণত হয়েছে। সারা ফ্রান্সে ১২০০ জনেরও বেশি গ্রেপ্তার হয়েছে এবং প্রায় সাড়ে পাঁচ লক্ষ মানুষ বিক্ষোভে অংশ নিয়েছে। প্যারিস সহ শহরগুলিতে বিক্ষোভকারীরা দোকান লুট করেছে, ভবনে আগুন লাগিয়েছে এবং পুলিশের সাথে সংঘর্ষ হয়েছে। প্রায় ১৫০ পুলিশ সদস্য আহত হয়েছেন।"
-   }
-  },
-  {
-   "id": "18j56p",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/pm-stresses-discipline-professionalism-public-trust-armed-forces-1576146",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/tarique_rahman_.jpg",
-   "published": "2026-10-18T05:35:00.000Z",
-   "added": "2026-10-18T05:47:10.995Z",
-   "origTitle": "PM stresses discipline, professionalism, public trust in armed forces",
-   "en": {
-    "title": "PM tells armed forces: discipline and trust matter most",
-    "summary": "Prime Minister Tarique Rahman told Bangladesh Army units that real military strength comes from discipline, skills and public trust—not just weapons. He stressed the need to modernise defence, develop cyber and AI capabilities, and maintain high standards. The PM presented National Standards to several battalions at Savar Cantonment on 18 October."
-   },
-   "bn": {
-    "title": "প্রধানমন্ত্রী সেনাবাহিনীকে বলেন: শৃঙ্খলা এবং জনবিশ্বাসই মূল শক্তি",
-    "summary": "প্রধানমন্ত্রী তারিক রহমান বাংলাদেশ সেনাবাহিনীর ইউনিটগুলিকে বলেছেন যে সামরিক শক্তির প্রকৃত উৎস হলো শৃঙ্খলা, দক্ষতা এবং জনবিশ্বাস—শুধু অস্ত্র নয়। তিনি প্রতিরক্ষা আধুনিকীকরণ, সাইবার ও কৃত্রিম বুদ্ধিমত্তা উন্নয়ন এবং উচ্চ মান বজায় রাখার ওপর জোর দিয়েছেন। প্রধানমন্ত্রী ১৮ অক্টোবর সাভার ক্যান্টনমেন্টে বেশ কয়েকটি ব্যাটালিয়নকে জাতীয় মান প্রদান করেন।"
    }
   }
  ]
