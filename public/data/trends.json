@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-20T23:48:56.283Z",
+ "updatedAt": "2026-10-21T04:33:58.736Z",
  "burning": [
-  {
-   "id": "u5lmb3",
-   "heat": 5,
-   "why": {
-    "en": "Bus-truck crash in Natore killed 13, a major transport disaster getting wide coverage.",
-    "bn": "নাটোরে বাস-ট্রাক সংঘর্ষে ১৩ জন নিহত, ব্যাপক আলোচনা চলছে।"
-   },
-   "rank": 1
-  },
   {
    "id": "1rys5ee",
    "heat": 5,
    "why": {
-    "en": "Measles outbreak death toll at 1,204 — a major health crisis dominating coverage.",
-    "bn": "হাম রোগের মহামারিতে ১,২০৪ জনের মৃত্যু, স্বাস্থ্য সংকট নিয়ে ব্যাপক আলোচনা।"
+    "en": "Measles death toll at 1,204 — major public health crisis dominating coverage.",
+    "bn": "মিজেলস আউটব্রেক ১,২০৪ মৃত্যু — দেশব্যাপী স্বাস্থ্য জরুরি অবস্থা সবচেয়ে বড় খবর।"
+   },
+   "rank": 1
+  },
+  {
+   "id": "v9ouga",
+   "heat": 5,
+   "why": {
+    "en": "Two Bangladeshis executed in Saudi Arabia raises diplomatic and human rights questions.",
+    "bn": "সৌদি আরবে দুই বাংলাদেশি মৃত্যুদণ্ড — বৈদেশিক সম্পর্ক এবং অধিকার নিয়ে প্রশ্ন উঠেছে।"
    },
    "rank": 2
   },
   {
-   "id": "gysy72",
+   "id": "dzppdr",
    "heat": 4,
    "why": {
-    "en": "Google Cloud outage crashed websites and banking apps across multiple platforms.",
-    "bn": "গুগল ক্লাউড নেটওয়ার্ক ব্যর্থতা ওয়েবসাইট এবং ব্যাংকিং অ্যাপ ডাউন করেছে।"
+    "en": "Bus-truck collision in Natore kills at least 12 — major road accident.",
+    "bn": "নাটোরে বাস-ট্রাক সংঘর্ষে ১২ জন মারা গেছে — মহা দুর্ঘটনা।"
    },
    "rank": 3
   },
   {
-   "id": "144i70u",
+   "id": "de8999",
    "heat": 4,
    "why": {
-    "en": "Saudi Arabia execution of 2 Bangladeshis is sensitive and widely reported regionally.",
-    "bn": "সৌদি আরবায় ২ বাংলাদেশির ফাঁসি অঞ্চলব্যাপী গুরুত্বপূর্ণ খবর।"
+    "en": "Bangladeshi tricked into fighting war in Russia — trafficking and exploitation story.",
+    "bn": "বাংলাদেশি রাশিয়ায় যুদ্ধে ঠকিয়ে পাঠানো — জোরপূর্বক নিয়োগের খবর।"
    },
    "rank": 4
   },
   {
-   "id": "1wij9hk",
+   "id": "gdsrws",
    "heat": 3,
    "why": {
-    "en": "Durga Puja peak celebration with Maha Nabami trending during the festival season.",
-    "bn": "দুর্গা পূজার মহা নবমী উৎসব মৌসুমে ট্রেন্ডিং।"
+    "en": "Dhaka ranks seventh globally for air pollution — environmental and health alert.",
+    "bn": "ঢাকা বিশ্বব্যাপী সপ্তম সবচেয়ে দূষিত শহর — পরিবেশ ও স্বাস্থ্য সংকট।"
    },
    "rank": 5
   }
@@ -56,44 +56,44 @@
    ],
    "heat": 4,
    "en": {
-    "title": "Afghanistan cricket dominates",
-    "text": "Atal and Rashid power Afghanistan to a comprehensive victory, drawing interest from cricket fans across the region."
+    "title": "Afghanistan cricket powers through",
+    "text": "Atal and Rashid led Afghanistan to a comprehensive victory in cricket. The performance is drawing attention on trending search."
    },
    "bn": {
-    "title": "আফগান ক্রিকেট আধিপত্য",
-    "text": "আতাল এবং রাশিদ আফগানিস্তানকে বড় জয়ে নিয়ে যায়, অঞ্চলব্যাপী ক্রিকেট ভক্তদের আগ্রহ বাড়ায়।"
+    "title": "আফগানিস্তানের ক্রিকেট জয়",
+    "text": "আতাল এবং রাশিদ আফগানিস্তানকে বড় জয়ে নিয়ে গেছেন। খেলাধুলা ট্রেন্ডিং-এ আছে।"
    }
   },
   {
    "id": "5p7wjz",
-   "tag": "#HarmanpreetKaur",
+   "tag": "#HarmanpreetCaptaincy",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Harmanpreet ready for new chapter",
-    "text": "India's Harmanpreet Kaur prepares to enjoy life after captaincy without the pressure that came with the role."
+    "title": "Harmanpreet enjoys post-captaincy phase",
+    "text": "Indian cricketer Harmanpreet Kaur ready to play without captaincy pressure. Cricket fans discussing her new chapter."
    },
    "bn": {
-    "title": "হারমনপ্রীত নতুন দিকে",
-    "text": "ভারতের হারমনপ্রীত কৌর ক্যাপ্টেইনসিপ্রত্যাহারের পর চাপমুক্ত জীবন উপভোগ করতে প্রস্তুত।"
+    "title": "হরমনপ্রীত ক্যাপ্টেন্সির পর",
+    "text": "হরমনপ্রীত কৌর ক্যাপ্টেন্সি ছাড়িয়ে নতুন পর্যায়ে। ক্রিকেট ফ্যানরা তার নতুন অধ্যায় নিয়ে কথা বলছে।"
    }
   },
   {
    "id": "1twrotv",
-   "tag": "#Showbiz",
+   "tag": "#SaharaPassing",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Popular model Sahara dies",
-    "text": "Renowned model Sahara passed away at 34, sending shockwaves through the entertainment industry."
+    "title": "Popular model Sahara dies at 34",
+    "text": "Bangladeshi model Sahara passed away, drawing tributes from entertainment industry and fans."
    },
    "bn": {
-    "title": "জনপ্রিয় মডেল সাহারার মৃত্যু",
-    "text": "বিখ্যাত মডেল সাহারা ৩৪ বছর বয়সে মারা গেছেন, বিনোদন জগতে আলোড়ন পড়েছে।"
+    "title": "মডেল সাহারা ৩৪ বছরে মৃত",
+    "text": "জনপ্রিয় মডেল সাহারার মৃত্যু ৩৪ বছর বয়সে। বিনোদন জগত ও ভক্তরা সম্মান প্রদর্শন করছেন।"
    }
   }
  ],

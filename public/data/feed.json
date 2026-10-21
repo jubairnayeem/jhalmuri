@@ -1,6 +1,270 @@
 {
- "updatedAt": "2026-10-20T23:48:42.539Z",
+ "updatedAt": "2026-10-21T04:33:42.230Z",
  "items": [
+  {
+   "id": "behalm",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzN2VvQTJES0xIWC10aEk2U0I1YWQ2TXVLNTJwU0dZYUtfanMwYXVydFBUcnFzekxkMG5wWlM5RHhSN0NSSGNybU9NV2ExUnRwQTVDeTJNN0cwc2pFUFdmLUVCZzRkRmc?oc=5",
+   "image": null,
+   "published": "2026-10-20T15:03:00.000Z",
+   "added": "2026-10-21T04:33:42.229Z",
+   "origTitle": "পাবনায় নেশার টাকা না পেয়ে মাকে হত্যা, ছেলে আটক",
+   "en": {
+    "title": "Son arrested after killing mother for drug money in Pabna",
+    "summary": "In Pabna, a man has been arrested for killing his mother after she refused to give him money for drugs. The incident reflects a serious case of substance abuse leading to domestic violence. Police have taken the suspect into custody."
+   },
+   "bn": {
+    "title": "পাবনায় নেশার টাকা না পেয়ে ছেলে মাকে হত্যা",
+    "summary": "পাবনায় একজন ছেলে নেশার টাকা পাওয়ার জন্য তার মাকে হত্যা করেছে। মা টাকা দিতে অস্বীকার করলে এই ঘটনা ঘটে। ছেলেকে পুলিশ গ্রেফতার করেছে এবং এটি নেশা আসক্তি ও পারিবারিক সহিংসতার একটি মর্মান্তিক ঘটনা।"
+   }
+  },
+  {
+   "id": "gdsrws",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Bangladesh Post",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3U5eC1wRjNLeXBjUWFDcG94cC1rajlaTVpoWmU5V1lVZnJaQ29VeDltcFhnT3ozQjVpZkloR0N1Y0duUHdEbS1LSkE4bnhEZmZNMDFneG9WZlg0VnpzYzJzN1BJX2wzMlQ4YWo2RnlpWm5IdW9IM2gzX2dhd05HanZCcGJKMXRTTzkyNEpqQTRMNjNFbm4tQmF3?oc=5",
+   "image": null,
+   "published": "2026-10-21T04:12:32.000Z",
+   "added": "2026-10-21T04:33:42.229Z",
+   "origTitle": "Dhaka ranks seventh among 126 cities for air pollution",
+   "en": {
+    "title": "Dhaka ranks seventh globally for air pollution",
+    "summary": "Dhaka has been ranked seventh among 126 cities worldwide for air pollution levels. The ranking highlights the city's ongoing air quality crisis. This places Dhaka among the most polluted urban areas globally."
+   },
+   "bn": {
+    "title": "বায়ু দূষণে বিশ্বের সপ্তম সবচেয়ে দূষিত শহর ঢাকা",
+    "summary": "বিশ্বব্যাপী ১২৬টি শহরের মধ্যে ঢাকা বায়ু দূষণে সপ্তম স্থানে রয়েছে। এই র‍্যাঙ্কিং ঢাকার ক্রমবর্ধমান বায়ু দূষণের সংকট তুলে ধরে। এটি ঢাকাকে বিশ্বের সবচেয়ে দূষিত শহরগুলির মধ্যে স্থান দেয়।"
+   }
+  },
+  {
+   "id": "1edbdz9",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Dhaka Tribune",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFBNZENEbmlxaXBYa3hmUHNrYkNOUjBEOGltNkZmc2xEVTBCakZ6cjBVOVQ5N0wxbGFrMy1lQ2xRY0ExbGUwQ256MXJSLTBHUDhfbmVzYXRTQlRDb1NyWmMwTllHZ1VTNEJjaEFfWjFaRmx5czU3eUVmVC1MaWJsV0JpSlVJUnFBSktMYUdwMlJtel84em1jMHlES2VHME9ubVBOblZzWjRIVVXSAbABQVVfeXFMTkJUS1JibkMtTS1PVTltdXd6YkVPN2FnaU92X2pkeHJtb3Q3Sk16a1BVRklsaWdwWkZVU0JRc0VnWjZ1R2w1TnBVZktGWE1zd0lEdFBmWHkzalloekZLLXFNcEk5RHNMNzdvNWtWbFFHaDhWYzNySUpPN0JTeDdLQ1RHNm1Zejdxb3NlN0swOHlrN1dfX05JMGVGWGtJY2lnODlsOUJVbm5fWjFQdzhJQ2k?oc=5",
+   "image": null,
+   "published": "2026-10-20T15:57:27.000Z",
+   "added": "2026-10-21T04:33:42.229Z",
+   "origTitle": "A troubling silence behind two Saudi executions",
+   "en": {
+    "title": "Saudi executions draw international concern and silence",
+    "summary": "Two executions in Saudi Arabia have raised troubling questions about a lack of public response and transparency. International observers note the silence surrounding these cases. The situation highlights concerns about accountability in capital punishment."
+   },
+   "bn": {
+    "title": "সৌদি আরবে দুটি মৃত্যুদণ্ড, আন্তর্জাতিক আলোচনা অনুপস্থিত",
+    "summary": "সৌদি আরবে দুটি মৃত্যুদণ্ড বাস্তবায়নের ঘটনা নিয়ে জনসাধারণের পক্ষ থেকে নীরবতা রয়েছে। আন্তর্জাতিক পর্যবেক্ষকরা এই বিষয়ে স্বচ্ছতার অভাব নিয়ে উদ্বিগ্ন। মামলাটি মৃত্যুদণ্ডের জবাবদিহিতা সম্পর্কে প্রশ্ন তুলছে।"
+   }
+  },
+  {
+   "id": "1up8b9l",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো বিনোদন",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfZ2NMWUJ3Y2pPRVU2Y3U1aUJrcUdQSHRCa2RXTXZMT1FtMVE5SzI0YXJlQ3ZpQm1DMjllSGRxRjBRdDNGUmkyTnlzUU05VWlDSHBXWWR5UzZMeWpmODZTb2lyNU_SAXJBVV95cUxQRU1VNmFyc042MmJURU1aa1BKd0h4YXU4Yldnak1UNGNmSzFKZGtRNUNMRGNvYnBVNS1MX29EQkRRYlFCbXBwV3RzM1B2c1hmODFmcEFxZkcyV1EtbHRqcTNtN29ra2RXVFNaQXI5b3paTnc?oc=5",
+   "image": null,
+   "published": "2026-10-20T09:00:00.000Z",
+   "added": "2026-10-21T04:33:42.229Z",
+   "origTitle": "ক্যানসারের লড়াইয়ে সামিয়া, মাথা ন্যাড়া করে পাশে স্বামী-সন্তান",
+   "en": {
+    "title": "Samia fights cancer with family by her side",
+    "summary": "Bangladeshi actress Samia is battling cancer and has shaved her head during treatment. Her husband and children have stood by her throughout her fight. The family's public support shows their unity during a difficult health crisis."
+   },
+   "bn": {
+    "title": "ক্যানসারের লড়াইয়ে সামিয়া, স্বামী-সন্তান পাশে আছে",
+    "summary": "অভিনেত্রী সামিয়া ক্যানসারের বিরুদ্ধে লড়াই করছেন এবং চিকিৎসার সময় তার মাথা ন্যাড়া করে ফেলেছেন। তার স্বামী ও সন্তানরা সবসময় তার পাশে আছেন। পরিবারের এই সমর্থন তাদের কঠিন সময়ে দৃঢ় বন্ধন দেখায়।"
+   }
+  },
+  {
+   "id": "1a60mra",
+   "section": "news",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://www.jagonews24.com/country/news/1170440",
+   "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/patuakhali-cover-mvhm0wn9myo99ht-20261021102841.jpg",
+   "published": "2026-10-21T04:28:42.000Z",
+   "added": "2026-10-21T04:33:42.229Z",
+   "origTitle": "প্রকৃতি-সংস্কৃতির মেলবন্ধন নিয়ে কুয়াকাটায় ফিরছে পর্যটন কার্নিভাল",
+   "en": {
+    "title": "Kuakata tourism carnival returns with nature and culture",
+    "summary": "Kuakata is getting its tourism carnival back, mixing natural beauty with local culture. You can watch sunrise and sunset from the same beach, see the Bay of Bengal's waves, spot red crabs, explore Lembu forest, and experience Rakhine community traditions. It's a full sensory experience for visitors."
+   },
+   "bn": {
+    "title": "কুয়াকাটায় ফিরছে পর্যটন কার্নিভাল, প্রকৃতি ও সংস্কৃতির মেলবন্ধন",
+    "summary": "কুয়াকাটায় পর্যটন কার্নিভাল আবার শুরু হচ্ছে, প্রকৃতি আর সংস্কৃতির সমন্বয় নিয়ে। একই সৈকতে সূর্যোদয় আর সূর্যাস্ত দেখা যাবে, বঙ্গোপসাগরের ঢেউ দেখা যাবে, লাল কাঁকড়া পাওয়া যাবে, লেম্বুর বনের সবুজ উপভোগ করা যাবে, আর রাখাইন কমিউনিটির সংস্কৃতি চেনা যাবে।"
+   }
+  },
+  {
+   "id": "de8999",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/yuddhe-paatthaacche-aar-dekhaa-naa-o-hte-paare",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/nb3ni8t5/C_3.png",
+   "published": "2026-10-21T04:09:11.000Z",
+   "added": "2026-10-21T04:33:23.333Z",
+   "origTitle": "‘যুদ্ধে পাঠাচ্ছে, আর দেখা না-ও হতে পারে’",
+   "en": {
+    "title": "Bangladeshi sent to war in Russia after false job promise",
+    "summary": "Abdullah Al Mamun from Lalmonirhat went to Russia seeking better employment but ended up in a military training camp instead. The day before deployment to combat, he called his younger brother saying he might not return alive. Over three years, at least 54 Bangladeshis have died after being deceived into fighting in the Russia-Ukraine war."
+   },
+   "bn": {
+    "title": "রাশিয়ায় চাকরির কল, যুদ্ধে পাঠানো হয়েছে",
+    "summary": "লালমনিরহাটের আবদুল্লাহ আল মামুন চাকরির প্রতিশ্রুতিতে রাশিয়ায় যান কিন্তু যুদ্ধ ক্যাম্পে পড়েন। প্রশিক্ষণের পর যুদ্ধে পাঠানোর আগের দিন তার ছোট ভাইকে বলেন, 'আর দেখা না-ও হতে পারে।' গত তিন বছরে অন্তত ৫৪ জন বাংলাদেশি এভাবে রাশিয়া-ইউক্রেন যুদ্ধে মারা পড়েছেন।"
+   }
+  },
+  {
+   "id": "agsjb3",
+   "section": "news",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/photo/bangladesh/dlo8viwyny",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-21/ugxzvkii/Sylhe-Photo-10.JPG",
+   "published": "2026-10-21T03:28:29.000Z",
+   "added": "2026-10-21T04:33:23.333Z",
+   "origTitle": "Familiar scenes of the haors in late autumn",
+   "en": {
+    "title": "Late autumn brings familiar haor scenes of rural beauty",
+    "summary": "As late autumn arrives, water levels in Sylhet's haors are receding, revealing re-emerged rural paths and green fields where cattle graze. Boats that filled the landscape weeks ago now lie idle. The seasonal shift paints a picture of the timeless bond between nature and village life across Bengal's wetlands."
+   },
+   "bn": {
+    "title": "শরতের শেষে হাওর এলাকার প্রকৃতির সুন্দর রূপ",
+    "summary": "শরতের শেষে সিলেটের হাওরের পানি কমছে, আবার গ্রামীণ পথ দেখা যাচ্ছে এবং গাছপালা সবুজ হয়ে উঠছে। পশু গুলো মাঠে চড়ে বেড়াচ্ছে। যে নৌকাগুলো কয়েক সপ্তাহ আগে পানিতে ছিল তা এখন নিষ্ক্রিয়। প্রকৃতি ও গ্রামীণ জীবনের চিরন্তন বন্ধন এই দৃশ্যে ফুটে উঠেছে।"
+   }
+  },
+  {
+   "id": "42m8w",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad8222bb7f8-1792549419.jpg?resize=1920%2C1440",
+   "published": "2026-10-21T04:13:00.000Z",
+   "added": "2026-10-21T04:33:23.333Z",
+   "origTitle": "Italy approves sweeping security measures in response to protests",
+   "en": {
+    "title": "Italy deploys troops, tougher laws after violent protests",
+    "summary": "Italy's cabinet approved deploying 500 troops to Milan and new security measures after protests over fuel prices, high rents, and low wages turned violent over the weekend. New laws make violent protest participation a crime with up to five years prison and €20,000 fines. Parents can also be held financially liable for children's vandalism. Police gained expanded detention powers for youth aged 14-17."
+   },
+   "bn": {
+    "title": "ইতালি সেনা মোতায়েন, সংঘর্ষ পরবর্তী কঠোর আইন",
+    "summary": "ইতালির ক্যাবিনেট মিলানে ৫০০ সেনা মোতায়েনের অনুমতি দিয়েছে জ্বালানি মূল্য, ভাড়া এবং নিম্ন মজুরির বিরুদ্ধে সহিংস প্রতিবাদের পর। নতুন আইনে সংঘর্ষপূর্ণ বিক্ষোভে অংশগ্রহণ পাঁচ বছরের জেলা ও ২০,০০০ ইউরো জরিমানা করা যাবে। পিতামাতারা সন্তানদের ভাংচুর কাজের জন্য দায়বদ্ধ।"
+   }
+  },
+  {
+   "id": "rvvpx9",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+   "image": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=140&quality=85&auto=format&fit=max&s=16352e02a522e9bb6270cae4acc5a411",
+   "published": "2026-10-21T00:14:55.000Z",
+   "added": "2026-10-21T04:33:23.333Z",
+   "origTitle": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+   "en": {
+    "title": "Nigeria confirms Ebola case as outbreak spreads westward",
+    "summary": "Nigeria has confirmed an Ebola case in its capital Abuja in a woman who travelled from Uganda. She showed symptoms on October 7 and was hospitalized four days later. Health authorities are tracing 44 contacts. Kenya and Uganda have also reported cases, making this the most geographically extensive Ebola outbreak in history with a nearly 50% fatality rate."
+   },
+   "bn": {
+    "title": "নাইজেরিয়ায় ইবোলা নিশ্চিত, পশ্চিম আফ্রিকায় ছড়িয়ে পড়ছে",
+    "summary": "নাইজেরিয়ার রাজধানী আবুজায় উগান্ডা থেকে আসা একজন নারীর মধ্যে ইবোলা শনাক্ত হয়েছে। তিনি ৭ অক্টোবর উপসর্গ দেখান এবং চার দিন পর হাসপাতালে ভর্তি হন। স্বাস্থ্য কর্তৃপক্ষ ৪৪ জন যোগাযোগের ব্যক্তিকে চিহ্নিত করছে। কেনিয়া ও উগান্ডাও মামলা রিপোর্ট করেছে।"
+   }
+  },
+  {
+   "id": "1kg8xdg",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/rajshahi/975808/%E0%A7%A8%E0%A7%AE-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%B9%E0%A6%A4",
+   "image": null,
+   "published": "2026-10-21T04:21:17.000Z",
+   "added": "2026-10-21T04:33:23.333Z",
+   "origTitle": "২৮ মামলার আসামিকে ছাড়াতে পুলিশের ওপর হামলা, আহত এএসআই",
+   "en": {
+    "title": "Accused's associates attack police in Bogura, one injured",
+    "summary": "In Bogura, associates and family members of a 28-case criminal suspect attacked police patrolling during Durga Puja security duties on Tuesday. They attempted to snatch the accused, Ratan Bepari, injuring ASI Ujjwal. Reinforcements arrived and arrested Bepari, who was taken to the police station."
+   },
+   "bn": {
+    "title": "বগুড়ায় পুলিশের উপর হামলা, ২৮ মামলার আসামি গ্রেফতার",
+    "summary": "বগুড়ায় দুর্গাপূজার নিরাপত্তায় নিয়োজিত টহল পুলিশের উপর আসামি রতন ব্যাপারীর সহযোগীরা হামলা চালান। এএসআই উজ্জ্বল আহত হন। অতিরিক্ত পুলিশ এসে পরিস্থিতি নিয়ন্ত্রণ করে ২৮ মামলার আসামি রতনকে গ্রেফতার করেন।"
+   }
+  },
+  {
+   "id": "v9ouga",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cjy5606yg95do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af7f/live/81216f40-ccf2-11f1-843d-719a1ce49d54.jpg",
+   "published": "2026-10-21T02:43:45.000Z",
+   "added": "2026-10-21T04:33:23.333Z",
+   "origTitle": "পত্রিকা: 'সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড: মিশন ও পররাষ্ট্রের না জানার কারণ কী?'",
+   "en": {
+    "title": "Questions raised over Saudi executions of two Bangladeshis",
+    "summary": "Two Bangladeshi nationals, identified as Nazrul Islam Abdul Basir and Suiti Aktar, were executed in Saudi Arabia on October 14. The Bangladesh foreign ministry and mission faced criticism for reportedly having no prior knowledge despite Saudi authorities sending a list of condemned prisoners beforehand. The Bangladeshi consulate in Jeddah and Dhaka only sought details after the execution was announced."
+   },
+   "bn": {
+    "title": "সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড: মন্ত্রণালয়ের ভূমিকা নিয়ে প্রশ্ন",
+    "summary": "নজরুল ইসলাম আবদুল বাসির এবং সুইটি আক্তার নামে দুই বাংলাদেশি ১৪ অক্টোবর সৌদি আরবে মৃত্যুদণ্ড পান। বাংলাদেশের পররাষ্ট্র মন্ত্রণালয় ও সংশ্লিষ্ট মিশন আগে থেকে জানতে পারেনি বলে সমালোচিত হচ্ছে। সৌদি সরকার আগে দণ্ডপ্রাপ্তদের তালিকা পাঠিয়েছিল, কিন্তু কার্যকরের পর ঢাকা তথ্য চেয়েছে।"
+   }
+  },
+  {
+   "id": "3givqq",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/worldbiz/asia/kim-jong-un-appears-state-media-after-online-death-rumours-1578966",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/kim_jong_un.jpg",
+   "published": "2026-10-21T04:25:00.000Z",
+   "added": "2026-10-21T04:33:23.333Z",
+   "origTitle": "Kim Jong Un appears in state media after online death rumours",
+   "en": {
+    "title": "Kim Jong Un alive: appears in photos after death rumours",
+    "summary": "North Korea's state media released photos of leader Kim Jong Un touring an exhibition on Monday, dismissing online claims he had died from a brain haemorrhage. A US-based activist had alleged Kim suffered a stroke and was secretly transported to a Chinese hospital. North Korea routinely publishes reports of Kim's activities, but independent verification is impossible due to the country's limited information access."
+   },
+   "bn": {
+    "title": "কিম জং উন জীবিত: মৃত্যুর আলোচনার পর ছবি প্রকাশ",
+    "summary": "উত্তর কোরিয়ার অফিশিয়াল মিডিয়া সোমবার কিম জং উনের একটি প্রদর্শনী ট্যুর করার ছবি প্রকাশ করেছে, যা মস্তিষ্কে রক্তক্ষরণে তার মৃত্যুর অনলাইন দাবি বাতিল করে। একজন মার্কিন ভিত্তিক কর্মী দাবি করেছিলেন যে কিম স্ট্রোক করেছেন এবং চীনে সরিয়ে নেওয়া হয়েছিল। উত্তর কোরিয়ার তথ্য সীমিত তাই এই খবর যাচাই করা যায় না।"
+   }
+  },
   {
    "id": "gysy72",
    "section": "news",
@@ -3057,248 +3321,6 @@
    "bn": {
     "title": "প্রধানমন্ত্রী সেনাবাহিনীকে বলেন: শৃঙ্খলা এবং জনবিশ্বাসই মূল শক্তি",
     "summary": "প্রধানমন্ত্রী তারিক রহমান বাংলাদেশ সেনাবাহিনীর ইউনিটগুলিকে বলেছেন যে সামরিক শক্তির প্রকৃত উৎস হলো শৃঙ্খলা, দক্ষতা এবং জনবিশ্বাস—শুধু অস্ত্র নয়। তিনি প্রতিরক্ষা আধুনিকীকরণ, সাইবার ও কৃত্রিম বুদ্ধিমত্তা উন্নয়ন এবং উচ্চ মান বজায় রাখার ওপর জোর দিয়েছেন। প্রধানমন্ত্রী ১৮ অক্টোবর সাভার ক্যান্টনমেন্টে বেশ কয়েকটি ব্যাটালিয়নকে জাতীয় মান প্রদান করেন।"
-   }
-  },
-  {
-   "id": "1wonurf",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-05T090101Z_1633775855_RC2WCNAEYFSP_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-USA-1792274264.jpg?resize=1920%2C1440",
-   "published": "2026-10-17T23:40:59.000Z",
-   "added": "2026-10-18T00:55:08.292Z",
-   "origTitle": "US ambassador urges Israel to prosecute attackers of American journalist",
-   "en": {
-    "title": "US Envoy Demands Israel Prosecute Attackers of American Journalist",
-    "summary": "US Ambassador Mike Huckabee has called for Israel to prosecute those who attacked Washington Post photographer Heidi Levine in the occupied West Bank. Israeli settlers brutally assaulted Levine while she was covering Palestinian olive harvest on Friday. She suffered a broken rib, multiple broken vertebrae, and a nearly detached finger, and underwent surgery."
-   },
-   "bn": {
-    "title": "আমেরিকা সাংবাদিককে আক্রমণকারীদের বিচার দাবি করছে",
-    "summary": "যুক্তরাষ্ট্রের ইসরাইল রাষ্ট্রদূত মাইক হাকাবি ইসরাইলকে দাবি করছেন যারা ওয়াশিংটন পোস্টের সাংবাদিক হেইডি লেভাইনকে দখলকৃত ওয়েস্ট ব্যাংকে আক্রমণ করেছে তাদের বিচার করতে। ইসরাইলি বসতিবাসীরা শুক্রবার ফিলিস্তিনীদের জলপাই ফসল কাটার সময় লেভাইনকে নৃশংসভাবে আক্রমণ করেছে। তিনি পাঁজরে ভাঙা, মেরুদণ্ডে একাধিক ফ্র্যাকচার, এবং প্রায় বিচ্ছিন্ন আঙুল সহ আঘাত পেয়েছেন এবং অস্ত্রোপচার করিয়েছেন।"
-   }
-  },
-  {
-   "id": "incdf8",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/dhaka/975198/%E0%A6%B8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0",
-   "image": null,
-   "published": "2026-10-17T23:54:00.000Z",
-   "added": "2026-10-18T00:55:08.292Z",
-   "origTitle": "সাভারে পোশাকশ্রমিকের মৃত্যু, সিসিটিভিতে কর্মকর্তার চড়াও হওয়ার দৃশ্য",
-   "en": {
-    "title": "Garment Worker Dies at Savar Factory; CCTV Shows Abuse",
-    "summary": "Sumi Akter, 27, a garment worker in Savar's Ashuliya, died while working at Agami Apparels Limited on Friday, October 16. CCTV footage shows a male supervisor repeatedly approaching her, hitting her machine, and assaulting her. The incident has raised serious concerns about workplace safety and worker treatment in factories."
-   },
-   "bn": {
-    "title": "সাভার কারখানায় পোশাকশ্রমিকের মৃত্যু, সিসিটিভিতে নিয়োগকর্তার অত্যাচার",
-    "summary": "সাভারের আশুলিয়ায় আগামী অ্যাপারেলস লিমিটেডে কাজ করা ২৭ বছর বয়সী সুমি আক্তার শুক্রবার (১৬ অক্টোবর) মারা গেছেন। সিসিটিভি ফুটেজে দেখা যায় একজন পুরুষ কর্মকর্তা বারবার তার দিকে তেড়ে যাচ্ছেন এবং তার মেশিনে আঘাত করছেন। এই ঘটনা কারখানায় কর্মীদের নিরাপত্তা এবং আচরণ নিয়ে গুরুতর প্রশ্ন তুলেছে।"
-   }
-  },
-  {
-   "id": "hicsfz",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "New Age",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkNKcjhncUwyWmhXSGR2d19tQ3NHbFR6UnpmVThXRWZ2bTdNZEwzdDJSaTBMV084UTVXSm82cU1iTHFzWlVxRGwyOExZMm1NV0FXNHo3UkFMa0RUYWxhTmNCNmlUTmdITTlRa2kxWWxObXhZa0pYdWxFYVhZRVkxMWhSRE0xY1M3OWNDRWJTNTBGMnc1Tk5ZemRLU2tpbUQtOFhBQmNEYnlwRl9IWEE?oc=5",
-   "image": null,
-   "published": "2026-10-17T06:44:00.000Z",
-   "added": "2026-10-18T00:55:08.292Z",
-   "origTitle": "IMF projects Bangladesh’s per capita GDP to exceed India’s in 2026",
-   "en": {
-    "title": "IMF Says Bangladesh Per Capita GDP Will Beat India's by 2026",
-    "summary": "The International Monetary Fund has projected that Bangladesh's per capita GDP will surpass India's by 2026. This marks a significant economic milestone for the country. The projection reflects Bangladesh's steady economic growth and development over recent years."
-   },
-   "bn": {
-    "title": "আইএমএফ বলছে বাংলাদেশের জিডিপি ২০২৬ সালে ভারতকে ছাড়িয়ে যাবে",
-    "summary": "আন্তর্জাতিক মুদ্রা তহবিল (আইএমএফ) প্রজেকশন দিয়েছে যে বাংলাদেশের পার ক্যাপিটা জিডিপি ২০২৬ সালে ভারতকে ছাড়িয়ে যাবে। এটি দেশের জন্য একটি বড় অর্থনৈতিক মাইলফলক। প্রজেকশনটি বাংলাদেশের ক্রমাগত অর্থনৈতিক বৃদ্ধি এবং উন্নয়ন প্রতিফলিত করে।"
-   }
-  },
-  {
-   "id": "1qld3c",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Daily Star",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlk1WGZOeG4xcGdKeWtBdC1WRFdhU2xMc2M0WUJGSWl6azk4N1NZTnUxQkdyME10X1JBR0NKb2FvWV9LMk85Tk9sUVJzR3RCdUs3R3lTOHdMdlRpT0lFRTJ6QXk4U2g0amtmd1d3NEQ4aklOdURLMmxuXzJzd245M2xSR1RBVHZ5SERSakgyQzRXdUZEdVg4MHJqblNPZEFqVWs4?oc=5",
-   "image": null,
-   "published": "2026-10-17T17:45:23.000Z",
-   "added": "2026-10-18T00:55:08.292Z",
-   "origTitle": "10 tourists killed in fire at Cox’s Bazar resort",
-   "en": {
-    "title": "10 Tourists Killed in Cox's Bazar Resort Fire",
-    "summary": "A fire at a resort in Cox's Bazar has killed 10 tourists. Emergency services responded to the incident, but the rapid spread of flames made evacuation difficult. Authorities are investigating the cause of the fire and the circumstances surrounding the deaths."
-   },
-   "bn": {
-    "title": "কক্সবাজারের রিসোর্টে আগুনে ১০ পর্যটক নিহত",
-    "summary": "কক্সবাজারের একটি রিসোর্টে আগুন লেগে ১০ জন পর্যটক মারা গেছেন। দমকল সেবা ঘটনা স্থলে পৌঁছেছে, কিন্তু দ্রুত ছড়িয়ে পড়া আগুনের কারণে সবাইকে নিরাপদে সরানো সম্ভব হয়নি। কর্তৃপক্ষ আগুনের কারণ এবং পরিস্থিতি নিয়ে তদন্ত করছে।"
-   }
-  },
-  {
-   "id": "p5effu",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "ইত্তেফাক",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPdHo0enZPR1lFWnFnS3h3TXlHNzIzS1RwMGxkTnFaYW53QjBteGowaTB5TWlseWNkZWhhSG5EczRuM1lGWHY1SDNHSUI2a05BUVFxUUNhOVBUbVNxUGs2SHBFNGJKLXVYT3RZZjQyMjB1STdfMVgwUXp6U2Y3WDJwVXJNQkRiaXRUV19RSGlzYU94LVkyRFlFOExtUjRUbk5XTlR6TG5lQVRpNUNsYk9BT3RPb0ZWMXBNNVU2MjFxY3NvRk9xQkJCZG9kV2JhX0dtd09ocWNiNlNRcWpNMlpSdnBjSkM2bnJIMWpzTWdMd0dPNXdWU3ZpYkZiWF9xQ3dsMGp6Yi1HcG9rSi1EWHcxUGEwQVpUTHU1dVhwME1GdF9LNVplYV80eVRpek5NSkR0anpZbVhhSXg5NHJNODEzak5wMHJzLUJ4ZHhVUldUbVcyN0RLamY2bjVmTmFfVGxxRTlNS1ltc19GY21JamdrTk5pNzNnTm45NDlDSDkzSVh4SWxIM1U2bEZvYUlCSUlJNTlZUm5zSDhaYlgzdTdxb0FBYVFZRHZTa3FjdDR4SWNnc1ZKTFZTYTdORUhrUWdJQS14SHBwU1U5clo4NndZdF9LTnVsejZDbkd3eHhCb0VINVNYcVdEUnhKZVhBSGZVLUthbHo5VDc2alN6TWVoampRbTZxVVZKTmR3V3BpUUxCZEpWbHBmQk84ZGZEOG9wMWpMblllT0NQZnRONU1NaFhn0gG3BEFVX3lxTE9TVXQ5MVhfS1FuUHpOVkE2NmVGZjdCRGxCVW9wZ1hzZDljVnBRcElQVHk1ZXJzdkFOU3lBUDdmZEphazRheTdtb2F4eTh6UW5QWm1CSUFzYlVDR1JxT2ZPQ01jelFNVTV5ZlljVU9kRk1PTDEzMkNBRjFJalBGdDNFemtiNk0tcVd3MUlCRUNaNjFzYzk5Q2I5OFFDa3JfRmxLd3lKRGpRcWVvY2xFejUwbk5iOWtGMDlydzB6aGRoYzducXNjTmZQczFtRzFOQlJwOXpFdHBQVFdCTFlhN0Q0aG1JRFoxaDNFUXg1RzFaWk1PTXNqaWJNMTg3SmxHMWlmcDNRSk94Wm5BNWwtWUpXajVZRFp5VmdwNmxHVEs1R3BXcG1veTlNZE1SbUJuZXZ0eEgxN0tKZkRqTDBMa3ZUc3pfUFp3elFBcE0zS01xeWlNUFE5VlpKREJibFRMcFcta2xhR2JETThGLUY4dzRxTWs5TDd5RDNRSjhnbFhwNEJQcmk4dUpvRkFMTklWYVdJeXZEekRqWTg1TUwwUnFrQnJhVVVOUXNHUUMzaDd2cEdNZE82UWhFYmMzQjBJMXJUTi1hQkR0ZkZ5UzgyMHJ5NzN6ZDBDWi1ZbjNfME4xOUM4Qm9GWDd6d3NDQjBmUjJCc0lmSHh1ZWZPeUtTVXUtWEVKODFGU09aNERNdmlaTVJaZ2VVcnlWU1BiUkhvVGJXbUlBc2FSeWZWV2hJcWtVcHF3T2Fzbw?oc=5",
-   "image": null,
-   "published": "2026-10-17T21:36:00.000Z",
-   "added": "2026-10-18T00:55:08.292Z",
-   "origTitle": "শাহজালালে দেখা যাবে লাগেজের গতিবিধি, বসেছে সিসি ক্যামেরা ও মনিটর",
-   "en": {
-    "title": "Shahjalal Airport Now Tracking Your Luggage on Camera",
-    "summary": "Shahjalal International Airport has installed CCTV cameras and monitors to track luggage movement in real time. The new system aims to improve baggage handling and reduce lost or delayed bags. Passengers will be able to see their luggage's journey through the airport on displays."
-   },
-   "bn": {
-    "title": "শাহজালালে এখন আপনার লাগেজের গতিবিধি দেখা যাবে",
-    "summary": "শাহজালাল আন্তর্জাতিক বিমানবন্দরে নতুন সিসি ক্যামেরা এবং মনিটর বসানো হয়েছে যাতে রিয়েল টাইমে লাগেজের গতিবিধি ট্র্যাক করা যায়। এই সিস্টেম ব্যাগেজ হ্যান্ডলিং উন্নত করতে এবং হারিয়ে যাওয়া বা বিলম্বিত ব্যাগ কমাতে সাহায্য করবে। যাত্রীরা এখন বিমানবন্দরে তাদের লাগেজের যাত্রা মনিটরে দেখতে পারবেন।"
-   }
-  },
-  {
-   "id": "1kzk377",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "জাগো নিউজ",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44V3lkTDBHQ2hLdVdlVk1WUUN1UjlyS2ZGNEJmM2JoX2RxVDBUM0xEM3hyQTBVSF9RSlUxNktpVGZCazVzYzNlekFQR0pmcFN1UTd5Q2JGY3FIQzFzMGpMYjhRZw?oc=5",
-   "image": null,
-   "published": "2026-10-17T18:33:21.000Z",
-   "added": "2026-10-18T00:54:48.931Z",
-   "origTitle": "রুপালি গিটার ফেলে চলে গেছেন আইয়ুব বাচ্চু, আজও কাঁদায় তার গান",
-   "en": {
-    "title": "Ayub Bacchu: The Legend Lives Through His Music",
-    "summary": "Legendary guitarist Ayub Bacchu passed away, but his silver guitar and timeless songs live on. His music continues to move hearts and bring tears to listeners today. The musician's legacy remains immortal through the powerful melodies he created."
-   },
-   "bn": {
-    "title": "আইয়ুব বাচ্চু: রুপালি গিটার, চিরন্তন সুর",
-    "summary": "কিংবদন্তি গিটারিস্ট আইয়ুব বাচ্চু চলে গেছেন, কিন্তু তার রুপালি গিটার এবং গান থেকে যাচ্ছে। তার সুর আজও শ্রোতাদের মনে অসংখ্য স্পর্শ করে যাচ্ছে। মিউজিশিয়ানের উত্তরাধিকার তার সংগীতের মাধ্যমে চিরকাল বেঁচে থাকবে।"
-   }
-  },
-  {
-   "id": "1jaljsl",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50LXI4VWVqTHg0X2tJTlo4OE1wR2RDQUFwMEUwWmNabWVXZ3h0MG1TQlFHV1JjNVYwRnotZE5kWHpyWFlqYWxmXzdZT2NzYVpLSjVRVkU5UUFpZy1VdUMza1Foa3cwT2M?oc=5",
-   "image": null,
-   "published": "2026-10-17T14:16:00.000Z",
-   "added": "2026-10-18T00:54:48.931Z",
-   "origTitle": "মাত্র ১৫০ টাকার জন্য কৃষককে মাথায় আঘাত করে হত্যা",
-   "en": {
-    "title": "Farmer Killed Over 150 Taka Debt Dispute",
-    "summary": "A farmer has been murdered over a debt of just 150 taka. The attacker struck him on the head in a brutal assault. The incident highlights how petty disputes can escalate to tragic violence in rural areas."
-   },
-   "bn": {
-    "title": "মাত্র ১৫০ টাকার ঋণে কৃষক খুন হয়েছেন",
-    "summary": "একজন কৃষককে মাত্র ১৫০ টাকার ঋণ নিয়ে মাথায় আঘাত করে খুন করা হয়েছে। এই ঘটনা দেখায় কীভাবে ছোট্ট বিরোধ গ্রামে ভয়াবহ হিংসায় পরিণত হয়।"
-   }
-  },
-  {
-   "id": "m4qgzr",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OSzBOUEdwTmk5LUVQNkpSOWJpcFdSNzJkTE5wWnRSWF93SVJWakhzX01kTDJWVXFPSjNwUHVnWWJPTEVqNWZtX0FkcGNEOVZPd1FhWEtucFVJd3ZzMXBGb0JDaHBtc09UbkHSAXdBVV95cUxNaXM1Yy1Nb1MxRUczM3hlY244ajRUM3cwWWk3UmF1UjdMQzdqUklyYXNRTVltY3g3UEFBRWROVnFieFhDUVVkbk83MVhuXzRYdkRLNDBLUUJWcDVoeE9udFVSQTllb1VZNTlDbUkyRzlNMWlZV2R1VQ?oc=5",
-   "image": null,
-   "published": "2026-10-17T09:30:46.000Z",
-   "added": "2026-10-18T00:54:48.931Z",
-   "origTitle": "Fire breaks out at Cox’s Bazar resort, 10 dead, 6 victims identified",
-   "en": {
-    "title": "Fire at Cox's Bazar Resort: 10 Dead, 6 Identified",
-    "summary": "A devastating fire broke out at a resort in Cox's Bazar, leaving 10 people dead. Six of the victims have been identified so far. Rescue efforts are underway to search for any remaining survivors and investigate the cause of the blaze."
-   },
-   "bn": {
-    "title": "কক্সবাজারে রিসোর্টে আগুন: ১০ জন মৃত, ৬ জন চিহ্নিত",
-    "summary": "কক্সবাজারের একটি রিসোর্টে ভয়াবহ আগুন লেগেছে যাতে ১০ জন মারা গেছেন। এর মধ্যে ছয়জন চিহ্নিত হয়েছেন। উদ্ধার কাজ চলছে এবং আগুনের কারণ খতিয়ে দেখা হচ্ছে।"
-   }
-  },
-  {
-   "id": "kas21g",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/religion/islam/7vq0s7wajd",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-17/dx001kyz/pexels-a-darmel-8164385.jpg",
-   "published": "2026-10-17T22:30:00.000Z",
-   "added": "2026-10-18T00:54:48.931Z",
-   "origTitle": "রাগ দমন: মুমিনের প্রকৃত শক্তি যেভাবে প্রকাশ পায়",
-   "en": {
-    "title": "Controlling Anger: The Real Strength of a Believer",
-    "summary": "Ever felt rage at a reckless auto driver or delayed bus? Science shows anger hijacks your brain's logic center, making bad decisions inevitable. Islamic teaching says true strength isn't winning fights—it's staying calm when furious. The Quran calls anger control a mark of the righteous."
-   },
-   "bn": {
-    "title": "রাগ নিয়ন্ত্রণ: প্রকৃত শক্তি কোথায় লুকিয়ে আছে",
-    "summary": "অবাধ্য রিকশাওয়ালা বা দেরি করা বাসে রাগ পেয়েছেন? বিজ্ঞান বলে রাগ আপনার মস্তিষ্কের বিচারবুদ্ধি কে বন্ধ করে দেয়। ইসলাম শেখায় সত্যিকারের শক্তি লড়াইতে জেতা নয়, বরং রেগে গিয়েও শান্ত থাকা। কোরআন রাগ নিয়ন্ত্রণকে নেককার মানুষের আলামত বলে।"
-   }
-  },
-  {
-   "id": "1dt1rrm",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T171815Z_654600475_RC2IXNAY40YY_RTRMADP_3_IRAN-CRISIS-HORMUZ-1792281574.jpg?resize=1920%2C1440",
-   "published": "2026-10-18T00:00:11.000Z",
-   "added": "2026-10-18T00:54:48.931Z",
-   "origTitle": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
-   "en": {
-    "title": "Iran Tensions Escalate: Tankers Hit, Settlers Attack Diplomats",
-    "summary": "Tensions in the Middle East are intensifying as fires break out on three tankers near the Strait of Hormuz. In a separate incident, masked Israeli settlers attacked European diplomats visiting the occupied West Bank. The situation reflects growing regional instability."
-   },
-   "bn": {
-    "title": "ইরান সংকট বাড়ছে: ট্যাঙ্কার আক্রমণ, কূটনীতিকদের হামলা",
-    "summary": "হরমুজ প্রণালীতে তিনটি ট্যাঙ্কারে আগুন লাগার ঘটনা ঘটেছে। একই সময়ে দখলকৃত ওয়েস্ট ব্যাংকে ইউরোপীয় কূটনীতিকদের উপর ইসরায়েলি বসতিবাসীরা হামলা করেছে। মধ্যপ্রাচ্যের পরিস্থিতি ক্রমেই উত্তেজনাপূর্ণ হচ্ছে।"
-   }
-  },
-  {
-   "id": "1koq898",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/sport/other-sports/975171/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A7%E0%A7%AE-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
-   "image": null,
-   "published": "2026-10-18T00:00:00.000Z",
-   "added": "2026-10-18T00:54:48.931Z",
-   "origTitle": "টিভিতে আজকের খেলা (১৮ অক্টোবর, ২০২৬)",
-   "en": {
-    "title": "Today's Sports on TV: Cricket Finals and More",
-    "summary": "Catch live cricket action today on Bangladeshi channels. Pakistan takes on Sri Lanka in a tri-series match at 2pm on T Sports. Later, England faces West Indies in the World Championship of Legends final at 9:30pm. Check your TV guide for all the timings and channels."
-   },
-   "bn": {
-    "title": "টিভিতে আজকের খেলা: ক্রিকেট ফাইনাল এবং আরও অনেক কিছু",
-    "summary": "আজ বাংলাদেশী চ্যানেলে লাইভ ক্রিকেট দেখুন। পাকিস্তান-শ্রীলঙ্কা ম্যাচ দুপুর ২টায় টি স্পোর্টসে যাবে। রাত সাড়ে নয়টায় ইংল্যান্ড-ওয়েস্ট ইন্ডিজ ওয়ার্ল্ড চ্যাম্পিয়নশিপ অফ লিজেন্ডস ফাইনাল। টিভি গাইড চেক করে সময় মতো তৈরি হয়ে বসুন।"
    }
   }
  ]
