@@ -1,6 +1,205 @@
 {
- "updatedAt": "2026-10-21T10:03:03.799Z",
+ "updatedAt": "2026-10-21T15:08:13.287Z",
  "items": [
+  {
+   "id": "tbf879",
+   "section": "news",
+   "cat": "khela",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/cricket/0b0vobpedl",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/tinc03ag/DSC6868.JPG",
+   "published": "2026-10-21T10:52:05.000Z",
+   "added": "2026-10-21T15:08:13.287Z",
+   "origTitle": "১৬০ রানে অলআউট বাংলাদেশ",
+   "en": {
+    "title": "Bangladesh all out for 160 in ODI series",
+    "summary": "Bangladesh batted first after winning the toss but lost four wickets for just 28 runs. Parvez Hossain scored 70 runs off 96 balls, while Saif Hasan made 41 off 82 as they added 92 runs for the fifth wicket. But the lower order fell apart, adding only 39 runs across the last six wickets in 41.2 overs."
+   },
+   "bn": {
+    "title": "বাংলাদেশ ১৬০ রানে সম্পূর্ণ আউট",
+    "summary": "টসে জিতে ব্যাট করা বাংলাদেশ শুরুতেই ২৮ রানে ৪ উইকেট হারিয়েছে। পারভেজ হোসেন ৯৬ বলে ৭০ রান এবং সাইফ হাসান ৮২ বলে ৪১ রান করে ৯২ রানের পার্টনারশিপ গড়েন। তবে বাকি ব্যাটসম্যানরা কোনো প্রতিরোধ না করেই অলআউট হয়ে যান ১৬০ রানে।"
+   }
+  },
+  {
+   "id": "1se4qgv",
+   "section": "hasi",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/diagram-of-a-patriots-brain/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Header_6e9c24.jpg",
+   "published": "2026-10-21T14:31:53.000Z",
+   "added": "2026-10-21T15:08:13.287Z",
+   "origTitle": "Diagram Of A Patriot’s Brain",
+   "en": {
+    "title": "The Onion: Inside a patriot's brain",
+    "summary": "The Onion dishes out a hilarious satirical diagram of an American patriot's brain, complete with absurd features like a 'freedom sac' that swells during pickup truck commercials, an unexploded bottle rocket lodged in the skull, and a debate stage for imaginary arguments. It's pure comedy lampooning overblown nationalism and political tribalism."
+   },
+   "bn": {
+    "title": "দ্য অনিয়ন: দেশপ্রেমিকের মস্তিষ্কের ডায়াগ্রাম",
+    "summary": "সাটায়ার মিডিয়া দ্য অনিয়ন একজন আমেরিকান দেশপ্রেমিকের মস্তিষ্কের একটি মজার ডায়াগ্রাম তৈরি করেছে। এতে আছে পিকআপ ট্রাক বিজ্ঞাপনে ফুলে যাওয়া 'ফ্রিডম স্যাক', মাথায় বসে থাকা অবিস্ফোরিত আতশবাজি, আর কল্পনার বিতর্কমঞ্চ। এটা শুধু মজা এবং অতিরঞ্জিত জাতীয়তাবাদের বিদ্রূপ।"
+   }
+  },
+  {
+   "id": "zzswnj",
+   "section": "news",
+   "cat": "khela",
+   "tone": "serious",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://www.jagonews24.com/sports/cricket/1170675",
+   "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/bd-mvi8c4xy2fl8xno-20261021205433.jpg",
+   "published": "2026-10-21T14:54:34.000Z",
+   "added": "2026-10-21T15:08:13.287Z",
+   "origTitle": "ইমন-সাইফের লড়াইয়ের পরও ১৬০ রানে অলআউট বাংলাদেশ",
+   "en": {
+    "title": "Bangladesh collapse to 160 against Afghanistan",
+    "summary": "Bangladesh lost four wickets for just 28 runs after winning the toss and choosing to bat in the ODI series. Parvez Hossain and Saif Hasan steadied things with a 92-run partnership, but the rest of the batting lineup crumbled. The team managed only 160 runs in 41.2 overs, losing their last six wickets for just 39 runs."
+   },
+   "bn": {
+    "title": "আফগানিস্তানের বিপক্ষে ১৬০ রানে অলআউট বাংলাদেশ",
+    "summary": "টসে জিতে ব্যাট করতে নামা বাংলাদেশ মাত্র ২৮ রানে ৪ উইকেট হারিয়ে দুর্দান্ত শুরু করেছিল। পারভেজ হোসেন ও সাইফ হাসান ৯২ রানের জুটি দিয়ে অবস্থা সামলেছিলেন। তবে বাকি ব্যাটাররা মোট ১৬০ রানে টিমকে অলআউট করে দিয়েছেন ৪১.২ ওভারে।"
+   }
+  },
+  {
+   "id": "psssjc",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/local-news/8ns5tjuacr",
+   "image": "https://media.prothomalo.com/prothomalo-english/2023-09/78b6a5fe-34ce-4de8-8853-a7e84e6df5ae/Sajek.webp",
+   "published": "2026-10-21T13:46:40.000Z",
+   "added": "2026-10-21T15:07:59.053Z",
+   "origTitle": "Fresh blockade announced in Sajek from Thursday, tourists urged to leave",
+   "en": {
+    "title": "Fresh blockade on Sajek road starting Thursday, tourists told to leave",
+    "summary": "Protesters announced a third round of indefinite blockade on the Sajek tourist road in Rangamati starting Thursday. The Sajek Karbari Association and local protection committee suspended the previous blockade during Durga Puja but are resuming after their demands went unmet. Activists are demanding the withdrawal of armed JSS members from Sajek."
+   },
+   "bn": {
+    "title": "সাজেক রাস্তায় নতুন অবরোধ বৃহস্পতিবার থেকে, পর্যটকদের চলে যেতে বলা হয়েছে",
+    "summary": "সাজেক কার্বারি এসোসিয়েশন এবং সুরক্ষা কমিটি বৃহস্পতিবার থেকে রাঙামাটির সাজেক পর্যটন রাস্তায় তৃতীয় দফার অনির্দিষ্টকালীন অবরোধ ঘোষণা করেছে। দুর্গাপূজার সময় অবরোধ সাময়িকভাবে সাসপেন্ড করা হয়েছিল কিন্তু তাদের দাবি পূরণ না হওয়ায় এখন আবার শুরু হবে। জিএসএস সশস্ত্র সদস্যদের সাজেক থেকে সরিয়ে নেওয়া তাদের প্রধান দাবি।"
+   }
+  },
+  {
+   "id": "s301so",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cmkg7knyy8d3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b49/live/a8150f30-cd56-11f1-b962-b7ff822cde72.jpg",
+   "published": "2026-10-21T14:21:40.000Z",
+   "added": "2026-10-21T15:07:59.053Z",
+   "origTitle": "সৌদি আরবে মৃত্যুদণ্ড কার্যকর হওয়া দুই বাংলাদেশির মরদেহ দেশে ফিরবে কবে?",
+   "en": {
+    "title": "Families plead for return of executed Bangladeshis from Saudi Arabia",
+    "summary": "Two Bangladeshis were executed in Saudi Arabia last week, and their heartbroken families are now demanding the government bring their bodies home. The mother of one victim, from Tangail's Mirzapur, stopped eating for days after hearing the news. The other victim's father hasn't seen his son in three years and wants one last look at his face before burial.",
+    "hint": ""
+   },
+   "bn": {
+    "title": "সৌদি আরবে মৃত্যুদণ্ডপ্রাপ্ত দুই বাংলাদেশির মরদেহ ফিরিয়ে দিতে পরিবারের আর্জি",
+    "summary": "গত সপ্তাহে সৌদি আরবে দুই বাংলাদেশি সম্পন্ন করা হয়েছে এবং তাদের পরিবারগুলো সরকারকে লাশ দেশে ফিরিয়ে আনার দাবি জানাচ্ছে। টাঙ্গাইলের মির্জাপুরের একজন মায়ের খবরটা শুনে পরপর সাত দিন খাবার খান না। অন্যজনের বাবা তিন বছর তিন মাস ধরে ছেলের মুখ দেখেননি এবং শেষবারের মতো দেখতে চান।"
+   }
+  },
+  {
+   "id": "vc7eq3",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797",
+   "published": "2026-10-21T14:03:11.000Z",
+   "added": "2026-10-21T15:07:59.053Z",
+   "origTitle": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+   "en": {
+    "title": "Foursquare investors lost money in acquisition by Infillion",
+    "summary": "Advertising firm Infillion acquired location platform Foursquare last month, but co-founder Dennis Crowley said investors received zero returns from the deal. The once-popular social network had raised over $411 million and earned $100 million annually before decline. Crowley blamed the outcome on management changes in 2019-2021 that failed to preserve the company's value before its app shut down in 2024."
+   },
+   "bn": {
+    "title": "ফোরস্কোয়্যার বিক্রয়ে বিনিয়োগকারীরা কোনো লাভ পেলো না",
+    "summary": "বিজ্ঞাপন সংস্থা ইনফিলিয়ন গত মাসে লোকেশন প্ল্যাটফর্ম ফোরস্কোয়্যার কিনেছে, কিন্তু সহ-প্রতিষ্ঠাতা ডেনিস ক্রাউলি বলেছেন বিনিয়োগকারীরা কোনো রিটার্ন পায়নি। জনপ্রিয় এই সোশ্যাল নেটওয়ার্ক ৪১১ মিলিয়ন ডলার তুলেছিল এবং বছরে ১০০ মিলিয়ন আয় করছিল। ২০১৯-২০২১ সালের ম্যানেজমেন্ট পরিবর্তনকে তিনি দায়ী করেছেন, যা কোম্পানির মূল্য রক্ষা করতে পারেনি।"
+   }
+  },
+  {
+   "id": "1yulp3q",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/dhaka/975945/%E0%A6%85%E0%A6%AC%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E2%80%98%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%B6%E0%A6%BE%E0%A6%95%E0%A7%87%E2%80%99-%E0%A6%A7%E0%A6%B0%E0%A6%B2%E0%A7%8B-%E0%A6%AA%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%86%E0%A6%87",
+   "image": null,
+   "published": "2026-10-21T15:04:30.000Z",
+   "added": "2026-10-21T15:07:59.053Z",
+   "origTitle": "অবশেষে ‘জিনের বাদশাকে’ ধরলো পিবিআই",
+   "en": {
+    "title": "Police arrest two con artists posing as tantric healers and sorcerers",
+    "summary": "The Police Bureau of Investigation arrested two men from Barisal's Bhola district on Monday for running a fake healer scam. Suman Haoladar, 26, from Fulkachiya village and Mohammad Rajib Mia from Mulpaittan village posed variously as tantric healers and sorcerers to defraud people out of money. Both men were arrested near Kunjerhat Bazaar in Borhanuddin upazila."
+   },
+   "bn": {
+    "title": "জিনের বাদশা সাজিয়ে ঠগি করা দুই জন ধরা পড়লো",
+    "summary": "পুলিশ ব্যুরো অব ইনভেস্টিগেশন সোমবার ভোলা জেলার দুই জন অপরাধীকে গ্রেফতার করেছে যারা তান্ত্রিক-কবিরাজ এবং জিনের বাদশা হয়ে মানুষকে প্রতারণা করছিল। সুমন হাওলাদার (২৬) এবং মো. রাজিব মিয়া বিভিন্ন ছদ্মবেশে মানুষের বিশ্বাস অর্জন করে টাকা হাতিয়ে নিচ্ছিল। তাদের বোরহানউদ্দিন উপজেলার কুঞ্জেরহাট বাজার থেকে গ্রেফতার করা হয়েছে।"
+   }
+  },
+  {
+   "id": "1e0lyt2",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+   "image": "https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=06b2c45462af36f0767e7c85a990df76",
+   "published": "2026-10-21T13:40:08.000Z",
+   "added": "2026-10-21T15:07:59.053Z",
+   "origTitle": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+   "en": {
+    "title": "Critically ill ICE detainees facing deportation to African states",
+    "summary": "Relatives and immigration advocates say severely ill detainees at two Florida immigration facilities are scheduled for deportation to unknown African countries as early as Wednesday. The sick inmates were informed that Mexico would not accept them due to their medical conditions. Advocates warn that detainees face poor medical care and difficulty accessing medicine in third countries."
+   },
+   "bn": {
+    "title": "গুরুতরভাবে অসুস্থ বন্দীদের আফ্রিকায় পাঠানোর প্রস্তুতি",
+    "summary": "ফ্লোরিডার দুটি ইমিগ্রেশন জেলখানায় গুরুতর অসুস্থ বন্দীদের বুধবার থেকেই আফ্রিকার অজানা দেশে পাঠানোর পরিকল্পনা আছে বলে পরিবার ও অধিকার কর্মীরা জানাচ্ছেন। স্বাস্থ্যগত কারণে মেক্সিকো তাদের নেবে না বলে জানানো হয়েছে। তৃতীয় দেশে চিকিৎসা সেবা এবং ওষুধ পাওয়ার ক্ষেত্রে তারা বড় সমস্যার সম্মুখীন হবেন বলে আশঙ্কা করছেন।"
+   }
+  },
+  {
+   "id": "g1gh85",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad8a934e686-1792583988.jpg?resize=1920%2C1440",
+   "published": "2026-10-21T14:41:03.000Z",
+   "added": "2026-10-21T15:07:59.053Z",
+   "origTitle": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
+   "en": {
+    "title": "Musk pledges $10bn in SpaceX shares to US children",
+    "summary": "Elon Musk promised to give one SpaceX share to every child under 18 in the US next year—worth about $10.7 billion at current prices. The pledge comes right before midterm elections, and Musk has already donated over $276 million to Republican groups. The billionaire hasn't said which kids qualify or how the shares will actually be handed over."
+   },
+   "bn": {
+    "title": "মাস্ক আমেরিকার সব শিশুকে স্পেসএক্স শেয়ার দেওয়ার প্রতিশ্রুতি দিলো",
+    "summary": "ইলন মাস্ক আগামী বছর আমেরিকার ১৮ বছরের নিচে প্রতিটি শিশুকে একটা করে স্পেসএক্স শেয়ার দেওয়ার ঘোষণা দিয়েছেন—যার মূল্য প্রায় ১০.৭ বিলিয়ন ডলার। মধ্যমেয়াদী নির্বাচনের ঠিক আগে এই প্রতিশ্রুতি এসেছে, আর মাস্ক ইতিমধ্যে রিপাবলিকান গ্রুপে ২৭৬ মিলিয়ন ডলারের বেশি দান করেছেন। শেয়ার ঠিক কিভাবে পৌঁছাবে তা এখনো পরিষ্কার নয়।"
+   }
+  },
   {
    "id": "go7t9w",
    "section": "news",
@@ -3101,226 +3300,6 @@
    "bn": {
     "title": "ছাদের সোলার প্যানেল বাড়ানোর অনুমোদন ক্যাবিনেটের",
     "summary": "বাংলাদেশের ক্যাবিনেট আজ রুফটপ সোলার পাওয়ার বাড়ানোর জন্য একটি নতুন অধ্যাদেশ অনুমোদন করেছে। আগামী গ্রীষ্মের আগে সরকার ৩ হাজার থেকে ৪ হাজার মেগাওয়াট সোলার শক্তি স্থাপন করবে। সরকারি ভবন এবং সরকারি কোম্পানিগুলোতে বিনিয়োগকারীরা এই প্যানেলগুলো ইনস্টল করবে।"
-   }
-  },
-  {
-   "id": "w6yuc2",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1558962.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423900/423922.jpg",
-   "published": "2026-10-18T14:22:31.000Z",
-   "added": "2026-10-18T14:31:20.646Z",
-   "origTitle": "Rain and Boland hound South Africa in Gqeberha",
-   "en": {
-    "title": "Rain and Boland wreck South Africa's opening day",
-    "summary": "South Africa got off to a rough start in their home match at Gqeberha. After just 12.2 overs, the hosts were already 2 wickets down for 20 runs. Rain and bowler Boland made conditions miserable on day one."
-   },
-   "bn": {
-    "title": "বৃষ্টি এবং বোল্যান্ড দক্ষিণ আফ্রিকার প্রথম দিন বরবাদ করল",
-    "summary": "গকেবার্হায় দক্ষিণ আফ্রিকার হোম ম্যাচ শুরুটা মোটেই ভালো হয়নি। মাত্র ১২.২ ওভারে হোস্টরা ইতিমধ্যে ২ উইকেট হারিয়ে ২০ রান করেছে। বৃষ্টি এবং বোল্যান্ডের বোলিং প্রথম দিনটা একেবারে ঝামেলায় পূর্ণ করে দিয়েছে।"
-   }
-  },
-  {
-   "id": "j8bvi6",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/district/rxz8q5bqab",
-   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-18%2Fv99jxs5v%2FUntitled-8.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-   "published": "2026-10-18T14:13:08.000Z",
-   "added": "2026-10-18T14:31:14.996Z",
-   "origTitle": "নিয়ন্ত্রণহীন অটোরিকশায় শহরে যানজট বেড়েছে",
-   "en": {
-    "title": "Unregulated auto-rickshaws choking Netrokona city with traffic",
-    "summary": "Traffic congestion in Netrokona city is worsening, with a 2-kilometre journey sometimes taking an hour. Official records show 5,659 registered three-wheelers, but authorities estimate over 7,500 actually operate. Oversized vehicles with excess capacity take up more road space. District officials say they're implementing step-by-step measures including regulating vehicles and establishing designated stands."
-   },
-   "bn": {
-    "title": "অটোরিকশার নিয়ন্ত্রণহীন চলাচলে নেত্রকোনায় যানজট",
-    "summary": "নেত্রকোনা শহরে যানজট বাড়ছে। মাত্র দুই কিলোমিটার পথ কখনো কখনো এক ঘণ্টা সময় নেয়। পৌরসভার হিসাবে ৫ হাজার ৬৫৯টি নিবন্ধিত অটোরিকশা থাকলেও আসল সংখ্যা সাড়ে সাত হাজারের বেশি। বড় আকারের অটোরিকশা সড়ক দখল করে। জেলা প্রশাসক বলেছেন ধাপে ধাপে ব্যবস্থা নেওয়া হচ্ছে।"
-   }
-  },
-  {
-   "id": "1asb3lb",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad49a5ba15d-1792318043.jpg?resize=1200%2C675",
-   "published": "2026-10-18T13:48:04.000Z",
-   "added": "2026-10-18T14:31:14.996Z",
-   "origTitle": "Why have France’s school protests become a wider political crisis?",
-   "en": {
-    "title": "France's school protests spiral into wider political crisis",
-    "summary": "About 550,000 people demonstrated across France on Saturday over school conditions, high living costs, and government inaction. Protests began last month in Paris's northern suburbs over teacher shortages and poor facilities, then spread nationwide. Demonstrators included students, trade unions, and yellow vest supporters. Police arrested 1,200 people and 150 officers were injured."
-   },
-   "bn": {
-    "title": "ফ্রান্সে স্কুল বিক্ষোভ রাজনৈতিক সংকটে পরিণত",
-    "summary": "শনিবার ফ্রান্সে ৫ লাখ ৫০ হাজার মানুষ স্কুলের অবস্থা, দুর্বহ জীবনযাত্রা এবং সরকারের নিষ্ক্রিয়তার বিরুদ্ধে বিক্ষোভ করেছেন। গত মাসে প্যারিসের উত্তরাঞ্চলে শিক্ষক সংকট এবং খারাপ সুবিধার বিরুদ্ধে বিক্ষোভ শুরু হয়েছিল। পুলিশ ১ হাজার ২০০ জনকে গ্রেপ্তার করেছে এবং ১৫০ জন পুলিশ আহত হয়েছে।"
-   }
-  },
-  {
-   "id": "1wk96pj",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/sports/nahida-akter-named-bangladesh-womens-t20-captain-1576781",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/nahida_akter.jpg",
-   "published": "2026-10-18T14:10:00.000Z",
-   "added": "2026-10-18T14:31:14.996Z",
-   "origTitle": "Nahida Akter named Bangladesh women’s T20 captain",
-   "en": {
-    "title": "Nahida Akter takes over Bangladesh women's T20 captaincy",
-    "summary": "Left-arm spinner Nahida Akter is now captain of Bangladesh's women's T20 team, replacing Nigar Sultana Joty who stepped down to focus on her game. Sobhana Mostary becomes vice-captain. Nahida has been Joty's deputy since 2022. Joty will continue leading the ODI team. Bangladesh's next match is against Pakistan on November 12 in Thailand's Emerging Nations Trophy."
-   },
-   "bn": {
-    "title": "নাহিদা আক্তার বাংলাদেশ নারী টি২০ দলের নতুন ক্যাপ্টেন",
-    "summary": "বাম-হাতি স্পিনার নাহিদা আক্তার এখন বাংলাদেশ মহিলা টি২০ দলের ক্যাপ্টেন। নিগার সুলতানা জয়তি নিজের খেলায় মনোনিবেশ করতে ধাপ নেমে গেছেন। সোভনা মোস্তারি ভাইস-ক্যাপ্টেন হয়েছেন। নাহিদা ২০২২ সাল থেকে জয়তির ডেপুটি ছিলেন। জয়তি ওডিআই দলের ক্যাপ্টেন থাকবেন।"
-   }
-  },
-  {
-   "id": "40vvlh",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/district/3td9fuvzn4",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-18/h4o786d6/WhatsApp-Image-2026-10-18-at-16.41.21.jpeg",
-   "published": "2026-10-18T10:45:55.000Z",
-   "added": "2026-10-18T10:55:52.957Z",
-   "origTitle": "আগুনে পুড়ে যাওয়া টুপটুপ রিসোর্টে তদন্ত দলের সদস্যরা, যা দেখলেন",
-   "en": {
-    "title": "Probe team visits burnt-out Tuptup Resort after fire kills 10",
-    "summary": "An investigation committee appointed by Cox's Bazar district administration visited Tuptup Resort in Ukhia on Sunday morning to examine the wooden three-storey building where a fire on Saturday killed 10 tourists and injured six others. The five-member committee, led by Additional District Magistrate Tasneem Jahan, is looking into the cause of the fire, any negligence by resort management, safety compliance, and infrastructure issues. They have been given five working days to submit their report."
-   },
-   "bn": {
-    "title": "টুপটুপ রিসোর্ট দুর্ঘটনার তদন্ত শুরু, ১০ জনের মৃত্যু",
-    "summary": "কক্সবাজারের উখিয়ার টুপটুপ রিসোর্টে শনিবারের আগুনে ১০ জন পর্যটক মারা গেছেন এবং ছয়জন আহত হয়েছেন। রোববার সকালে জেলা প্রশাসনের গঠিত পাঁচ সদস্যের তদন্ত দল ঘটনাস্থল পরিদর্শন করেছে। অতিরিক্ত জেলা ম্যাজিস্ট্রেট তাসনীম জাহান যে দলটির নেতৃত্ব দিচ্ছেন তারা আগুনের কারণ, রিসোর্ট ব্যবস্থাপনার গাফিলতি এবং নিরাপত্তা ব্যবস্থা খতিয়ে দেখছেন। পাঁচ কার্যদিসের মধ্যে প্রতিবেদন জমা দিতে হবে।"
-   }
-  },
-  {
-   "id": "m80m05",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2294948719-1792318885.jpg?resize=1200%2C630",
-   "published": "2026-10-18T10:23:38.000Z",
-   "added": "2026-10-18T10:55:44.524Z",
-   "origTitle": "Egypt to provide ‘all necessary and possible support to Saudi Arabia’",
-   "en": {
-    "title": "Egypt pledges support to Saudi Arabia against Houthis",
-    "summary": "Egypt's National Defence Council said it will provide all necessary support to Saudi Arabia to defend its safety and stability. This comes as Yemen's Iran-aligned Houthis have recently attacked Riyadh's international airport and Saudi Aramco oil facilities. Egypt also committed to intensifying diplomatic efforts for de-escalation in the region."
-   },
-   "bn": {
-    "title": "সৌদি আরবকে সমর্থন করবে মিশর, হুথি হামলায়",
-    "summary": "মিশরের জাতীয় প্রতিরক্ষা পরিষদ সৌদি আরবকে তার নিরাপত্তা রক্ষায় সর্বাত্মক সহায়তা প্রদানের প্রতিশ্রুতি দিয়েছে। ইয়েমেনের ইরান-সম্পর্কিত হুথি বাহিনী সম্প্রতি রিয়াদের বিমানবন্দর ও সৌদি আরামকো তেল সুবিধায় আক্রমণ করেছে। মিশর এই অঞ্চলে কূটনৈতিক উদ্যোগও বাড়াবে।"
-   }
-  },
-  {
-   "id": "1ssqn61",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg",
-   "published": "2026-10-18T10:53:54.000Z",
-   "added": "2026-10-18T10:55:44.524Z",
-   "origTitle": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-   "en": {
-    "title": "Paris riots and looting after fuel price protests",
-    "summary": "France faced widespread rioting and looting on Saturday as around 550,000 people protested rising fuel prices, cost of living, and deteriorating public services. Police arrested about 1,800 people as rioters burned cars, smashed shops, and looted stores across Paris, Marseille, and Lille. More than 500 police and firefighters were injured, and around 1,500 shops were damaged."
-   },
-   "bn": {
-    "title": "জ্বালানি মূল্য বৃদ্ধি: প্যারিসে বিক্ষোভ থেকে দাঙ্গা-লুটপাট",
-    "summary": "জ্বালানি মূল্য বৃদ্ধি, জীবনযাত্রার ব্যয় এবং জনসেবার অবনতির বিরুদ্ধে সাড়ে পাঁচ লক্ষ মানুষ প্যারিসে বিক্ষোভ করেছে। দাঙ্গাবাজরা গাড়ি জ্বালিয়ে, দোকান ভেঙে এবং লুটপাট করেছে। পুলিশ প্রায় ১৮০০ জনকে গ্রেফতার করেছে এবং ৫০০ জনেরও বেশি আহত হয়েছে।"
-   }
-  },
-  {
-   "id": "1l560y8",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.co.uk/bengali/live/cmx2870x0plyt?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506b/live/9dfff1b0-cad4-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-18T10:55:44.524Z",
-   "added": "2026-10-18T10:55:44.524Z",
-   "origTitle": "কক্সবাজারে রিসোর্টে আগুনে নিহতদের মধ্যে তিনজনের পরিবারের সন্ধান পাওয়া যায়নি: পুলিশ",
-   "en": {
-    "title": "Cox's Bazar resort fire: families of 3 dead still missing",
-    "summary": "24 hours after a fire at Tupton Resort in Cox's Bazar's Ukhia area, police have not located the families of 3 of the 10 people who died. The families of the other 7 victims have provided DNA samples sent to Dhaka for testing. Police are continuing efforts to identify the remaining victims and contact their relatives."
-   },
-   "bn": {
-    "title": "কক্সবাজারের রিসোর্ট অগ্নিকাণ্ড: তিন জনের পরিবার অনুপস্থিত",
-    "summary": "কক্সবাজারের উখিয়ায় টুপটুপ রিসোর্টে অগ্নিকাণ্ডের ২৪ ঘণ্টা পরও ১০ জন নিহতের মধ্যে তিনজনের পরিবার খুঁজে পাওয়া যায়নি। বাকি সাতজনের পরিবার যোগাযোগ করেছে এবং তাদের ডিএনএ নমুনা সংগ্রহ করা হয়েছে। পরীক্ষার জন্য নমুনা ঢাকায় পাঠানো হয়েছে।"
-   }
-  },
-  {
-   "id": "q5zns0",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/sport/other-sports/975282/%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%A8%E0%A7%87%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
-   "image": null,
-   "published": "2026-10-18T10:52:19.000Z",
-   "added": "2026-10-18T10:55:44.524Z",
-   "origTitle": "শুরুতেই নেপালকে উড়িয়ে দিয়েছে বাংলাদেশ",
-   "en": {
-    "title": "Bangladesh women's handball crushes Nepal 33-20",
-    "summary": "Bangladesh's women's handball team dominated Nepal 33-20 in the opening match of the Begum Khaleda Zia IHF Nations Trophy at the Shaheed Captain M Mansuir Ali National Handball Stadium. Under Spanish coach Ana Alonso, Bangladesh controlled the match from start to finish. Nepal tried to level in the first half but couldn't withstand Bangladesh's tactical attack and solid defence."
-   },
-   "bn": {
-    "title": "বাংলাদেশ নারী হ্যান্ডবল দল নেপালকে ৩৩-২০ গোলে হারায়",
-    "summary": "বেগম খালেদা জিয়া আইএইচএফ নেশনস ট্রফির উদ্বোধনী ম্যাচে বাংলাদেশ নারী হ্যান্ডবল দল নেপালকে ৩৩-২০ গোলে পরাজিত করেছে। স্প্যানিশ কোচ আনা আলোনসোর দলটি শুরু থেকেই খেলা নিয়ন্ত্রণে রেখেছিল। প্রথমার্ধে নেপাল সমতা আনার চেষ্টা করেছিল কিন্তু বাংলাদেশের শক্তিশালী আক্রমণ ও প্রতিরক্ষা তা ঠেকিয়ে দেয়।"
-   }
-  },
-  {
-   "id": "ba9k6s",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/japanese-investors-announce-12b-investment-plan-bangladeshs-tourism-sector-1576511",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/843410124_950600471027929_6996526397375968469_n.jpg",
-   "published": "2026-10-18T10:40:00.000Z",
-   "added": "2026-10-18T10:55:44.524Z",
-   "origTitle": "Japanese investors announce $1.2b investment plan for Bangladesh's tourism sector",
-   "en": {
-    "title": "Japan to invest $1.2 billion in Bangladesh tourism",
-    "summary": "Japanese investors announced a $1.2 billion investment plan for Bangladesh's tourism and hospitality sectors at a meeting with the Civil Aviation and Tourism Ministry on October 18. Minister M Rashiduzzaman Millat highlighted major attractions like the Sundarbans, Cox's Bazar, and Sylhet tea gardens. The government wants to develop the sector through public-private partnerships that benefit both sides."
-   },
-   "bn": {
-    "title": "বাংলাদেশের পর্যটন খাতে জাপানের ১.২ বিলিয়ন ডলার বিনিয়োগ",
-    "summary": "জাপানি বিনিয়োগকারীরা বাংলাদেশের পর্যটন ও আতিথেয়তা খাতে ১.২ বিলিয়ন ডলার বিনিয়োগের পরিকল্পনা ঘোষণা করেছেন। অক্টোবর ১৮ তারিখে বেসামরিক বিমান ও পর্যটন মন্ত্রণালয়ের একটি সভায় এই ঘোষণা হয়েছে। মন্ত্রী সুন্দরবন, কক্সবাজার এবং সিলেটের চা বাগান সহ প্রধান আকর্ষণগুলো তুলে ধরেছেন।"
    }
   }
  ]
