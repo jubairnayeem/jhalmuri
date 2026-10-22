@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-10-22T10:03:42.590Z",
+ "updatedAt": "2026-10-22T15:09:54.124Z",
  "items": [
+  {
+   "id": "w7fj5b",
+   "section": "hasi",
+   "cat": "khela",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/pelicans-announce-upcoming-basketball-night/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Pelicans_Announce_NIB_G_GR-socials.jpg",
+   "published": "2026-10-22T13:00:00.000Z",
+   "added": "2026-10-22T15:09:54.123Z",
+   "origTitle": "Pelicans Announce Upcoming ‘Basketball Night’",
+   "en": {
+    "title": "New Orleans Pelicans announce 'Basketball Night' promo",
+    "summary": "The New Orleans Pelicans are launching a Basketball Night on March 11 to boost attendance—and it includes a pretty funny twist. Fans will enjoy photo ops with cutouts of NBA stars, dance performances, and free LA Lakers hats for the first 10,000 people. Oh, and the Pelicans say the Toronto Raptors will also be there, so fans can watch actual professional basketball while supporting their hometown team (whether that's the Celtics, Warriors, or anyone else)."
+   },
+   "bn": {
+    "title": "পেলিকান্স 'বাস্কেটবল নাইট' প্রচারণা ঘোষণা করল",
+    "summary": "নিউ অরলিন্স পেলিকান্স ১১ মার্চে একটি বাস্কেটবল নাইট আয়োজন করবে দর্শক বাড়ানোর জন্য—এবং এটা বেশ মজার। ফ্যানরা এনবিএ তারকাদের কাটআউটের সাথে ছবি তোলার সুযোগ পাবে, নৃত্য অনুষ্ঠান দেখবে এবং প্রথম ১০ হাজার পাবে এলএ লেকার্সের ফ্রি টুপি। তারপর টরোন্টো র‍্যাপ্টরসও আসবে, তাই খাঁটি পেশাদার বাস্কেটবল দেখতে পারবেন।"
+   }
+  },
+  {
+   "id": "grbuuk",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Psyche",
+   "srcLang": "en",
+   "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
+   "image": "https://images.aeonmedia.co/images/a06b67b7-aa2b-45ee-af27-6c06a73bb569/how-to-live-a-life-of-awe-landscape-1-v2.jpg?top=101&left=96&cropWidth=2368&cropHeight=1332&width=1200&quality=75&format=jpeg",
+   "published": "2026-10-22T10:01:00.000Z",
+   "added": "2026-10-22T15:09:54.123Z",
+   "origTitle": "How to live a life of awe",
+   "en": {
+    "title": "How to find awe in everyday life without mountain summits",
+    "summary": "Awe doesn't need Mount Kilimanjaro or the Arctic—it's everywhere if you know where to look. Psychologist Dacher Keltner says this feeling of wonder and connection to something vast is deeply human and hugely beneficial for us. You can experience it daily through small, everyday moments in nature, with loved ones, or just by rediscovering childlike curiosity about how things work. Finding regular awe, not just rare peak experiences, rewires how you see the world and keeps you connected."
+   },
+   "bn": {
+    "title": "প্রতিদিনের জীবনে আশ্চর্য খুঁজে পান",
+    "summary": "পর্বত জয় বা উত্তর মেরুতে যাওয়ার দরকার নেই আশ্চর্য অনুভব করতে—এটা সব সময়ই চারপাশে আছে। মনোবিজ্ঞানী ড্যাচার কেলটনার বলছেন, এই অনুভূতি মানুষের জন্য প্রাকৃতিক এবং খুবই উপকারী। প্রকৃতিতে, প্রিয়জনদের সাথে বা শুধু বাচ্চাদের মতো কৌতূহল নিয়ে ছোট ছোট মুহূর্তে এটা পাওয়া যায়। নিয়মিত এই অনুভূতি জীবনভঙ্গি বদলে দেয় এবং সবার সাথে সংযোগ গড়ে তোলে।"
+   }
+  },
+  {
+   "id": "10rbzkc",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/crime/41sufm8dsu",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2025-03-11/g89ladyj/moneyll.JPG",
+   "published": "2026-10-22T14:53:52.000Z",
+   "added": "2026-10-22T15:09:54.123Z",
+   "origTitle": "চাঁদাবাজির অভিযোগে আদাবর থানা ছাত্রদলের আহ্বায়ক গ্রেপ্তার",
+   "en": {
+    "title": "Adabor Chhatra Dal leader arrested for extortion",
+    "summary": "Police arrested Noyon Hosen, convenor of the Chhatra Dal unit in Dhaka's Adabor area, on charges of obstructing city corporation development work and extorting money from building owners. He was detained on Wednesday and sent to jail on Thursday. The DB (Detective Branch) says he demanded money from locals in the area and blocked drainage and sewerage improvement projects by Dhaka North City Corporation."
+   },
+   "bn": {
+    "title": "আদাবরে ছাত্রদল নেতা চাঁদাবাজির দায়ে গ্রেপ্তার",
+    "summary": "ঢাকার আদাবর এলাকার ছাত্রদল সংগঠনের আহ্বায়ক নয়ন হোসেনকে চাঁদাবাজি এবং সিটি করপোরেশনের উন্নয়ন কাজে বাধা দেওয়ার অভিযোগে গ্রেপ্তার করেছে ডিবি পুলিশ। তাকে বুধবার ধরা হয় এবং বৃহস্পতিবার আদালতের মাধ্যমে জেলে পাঠানো হয়। তিনি স্থানীয় ভবনমালিকদের কাছ থেকে চাঁদা আদায় করছিলেন এবং ড্রেনেজ ও পয়োনিষ্কাশন কাজে বাধা সৃষ্টি করছিলেন বলে পুলিশ জানিয়েছে।"
+   }
+  },
+  {
+   "id": "17915vd",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/sports/cricket/y2pi3suwnf",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-22/5zu9ky6p/715593-01-02.jpg",
+   "published": "2026-10-22T14:48:40.000Z",
+   "added": "2026-10-22T15:09:54.123Z",
+   "origTitle": "England's magnificent Brook hits fastest ODI double century",
+   "en": {
+    "title": "England's Brook smashes fastest ODI double century",
+    "summary": "England captain Harry Brook just rewrote cricket history by scoring 200 runs in 114 balls against Sri Lanka—the fastest double ton in ODI history. The 27-year-old also became the first English player ever to hit a double century in one-day cricket. He finished with 202 from 116 deliveries, hitting 21 fours and 10 sixes before getting out. Joe Root chipped in with 69 as England posted 429-4 in Rawalpindi."
+   },
+   "bn": {
+    "title": "ইংল্যান্ডের ব্রুক সবচেয়ে দ্রুত ওডিআই দুই শতক",
+    "summary": "ইংল্যান্ডের ক্যাপ্টেন হ্যারি ব্রুক শ্রীলঙ্কার বিপক্ষে মাত্র ১১৪ বলে ২০০ রান করে ওডিআই ক্রিকেটের ইতিহাস বদলে দিলেন। এটাই এ ফরম্যাটে সবচেয়ে দ্রুত দুই শতক। ২৭ বছর বয়সী এই খেলোয়াড় ইংল্যান্ডে প্রথম যিনি ওডিআইতে দুই শতক করেছেন। তিনি ১১৬ বলে ২০২ রান বানিয়েছেন—২১টি চার এবং ১০টি ছক্কা।"
+   }
+  },
+  {
+   "id": "c84tyb",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://www.jagonews24.com/international/news/1171006",
+   "image": null,
+   "published": "2026-10-22T15:04:54.000Z",
+   "added": "2026-10-22T15:09:31.983Z",
+   "origTitle": "ঝুঁকিতে ৭০ শতাংশ ওয়েবসাইট, বন্ধ হচ্ছে সরকারি-বেসরকারি সেবা",
+   "en": {
+    "title": "Seventy percent of websites at risk from PHP flaws; services shut",
+    "summary": "Two critical security flaws in PHP have been detected using AI assistance. To manage the risk, several countries including the UK have temporarily shut down government and private sector websites. The vulnerabilities could potentially affect around 70 percent of websites relying on PHP infrastructure."
+   },
+   "bn": {
+    "title": "পিএইচপি ত্রুটিতে ৭০ শতাংশ ওয়েবসাইট ঝুঁকিতে, সেবা বন্ধ",
+    "summary": "এআইয়ের সাহায্যে পিএইচপিতে দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত করা হয়েছে। ঝুঁকি মোকাবেলায় যুক্তরাজ্যসহ বিভিন্ন দেশে সরকারি ও বেসরকারি ওয়েবসাইটের সেবা সাময়িকভাবে বন্ধ করা হয়েছে। এই ত্রুটিগুলি পিএইচপিতে চলমান প্রায় ৭০ শতাংশ ওয়েবসাইটকে প্রভাবিত করতে পারে।"
+   }
+  },
+  {
+   "id": "1a6rs31",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
+   "published": "2026-10-22T15:03:58.000Z",
+   "added": "2026-10-22T15:09:31.983Z",
+   "origTitle": "Spotify’s current AI bet is about being the music service that agents choose",
+   "en": {
+    "title": "Spotify bets on AI agents to change how you discover music",
+    "summary": "Spotify hit 788 million monthly users and €5 billion quarterly revenue, but the bigger story is their AI future. Co-CEO Gustav Söderström says music streaming is perfect for AI agents—unlike asking an agent to summarize a song, people will want agents to build playlists and find music for them. Spotify already works with Meta's Muse, ChatGPT, and Claude, betting it'll be the service agents recommend most."
+   },
+   "bn": {
+    "title": "স্পটিফাই এআই এজেন্টের মাধ্যমে সঙ্গীত খোঁজার নতুন উপায়",
+    "summary": "স্পটিফাই ৭৮৮ মিলিয়ন মাসিক সক্রিয় ব্যবহারকারীতে পৌঁছেছে, কিন্তু বড় খবর এআই ভবিষ্যত। কোম্পানি মনে করে এআই এজেন্টরা প্লেলিস্ট তৈরি করতে চাইবে, সঙ্গীত খুঁজে দিতে চাইবে। স্পটিফাই ইতিমধ্যে মেটা, চ্যাটজিপিটি আর ক্লডের সাথে কাজ করছে, এজেন্টরা তাদের সবচেয়ে বেশি সুপারিশ করবে বলে আশা করছে।"
+   }
+  },
+  {
+   "id": "bf3twc",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad6002b1963-1792409643_7c51b4-1792674140.jpg?resize=1200%2C630&quality=80",
+   "published": "2026-10-22T14:55:59.000Z",
+   "added": "2026-10-22T15:09:31.983Z",
+   "origTitle": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+   "en": {
+    "title": "Netanyahu says overthrowing Iran's government is Israel's aim",
+    "summary": "Israeli PM Benjamin Netanyahu told investors that toppling Iran's government remains Israel's \"primary objective,\" following talks with Donald Trump and a Pentagon visit. However, analysts told Al Jazeera that while Israel has the firepower to damage Iran, it lacks a clear strategy to achieve regime change. Air strikes alone won't work, and a ground invasion would require far greater military commitment. US backing remains uncertain."
+   },
+   "bn": {
+    "title": "ইরানের সরকার উৎখাত করা ইসরাইলের লক্ষ্য: নেতানিয়াহু",
+    "summary": "ইসরাইলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহু বলেছেন ইরানের সরকার উৎখাত করা ইসরাইলের প্রাথমিক উদ্দেশ্য। তবে বিশ্লেষকরা বলেছেন ইসরাইলের শক্তি আছে কিন্তু স্পষ্ট কৌশল নেই। শুধু বিমান হামলা রাজপরিবর্তনের জন্য যথেষ্ট নয়, আর স্থল আক্রমণ বিশাল সামরিক প্রতিশ্রুতি দাবি করবে।"
+   }
+  },
+  {
+   "id": "19howo6",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2961/live/b6042340-68e5-11f1-8e1d-bbbb1017d210.jpg",
+   "published": "2026-10-22T09:47:54.000Z",
+   "added": "2026-10-22T15:09:31.983Z",
+   "origTitle": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+   "en": {
+    "title": "Police investigate Married at First Sight Australia over allegations",
+    "summary": "New South Wales Police launched an investigation into the hit reality TV show Married at First Sight Australia following reports of inappropriate content being shared. Channel Nine, which broadcasts the show, confirmed awareness of the probe. This follows a BBC investigation earlier this year revealing cast members weren't informed their partners had prior drug and violence convictions—a finding Australia's media watchdog called \"serious and disturbing.\""
+   },
+   "bn": {
+    "title": "মেরিড অ্যাট ফার্স্ট সাইট অস্ট্রেলিয়ায় পুলিশ তদন্ত",
+    "summary": "নিউ সাউথ ওয়েলস পুলিশ রিয়েলিটি টিভি শো মেরিড অ্যাট ফার্স্ট সাইট অস্ট্রেলিয়া নিয়ে তদন্ত শুরু করেছে। চ্যানেল নাইন নিশ্চিত করেছে যে এটি তদন্তের বিষয়ে অবগত। এর আগে বিবিসি প্রকাশ করেছিল যে অংশগ্রহণকারীদের জানানো হয়নি তাদের অংশীদারদের ড্রাগ ও হিংসা সংক্রান্ত অতীত রয়েছে।"
+   }
+  },
+  {
+   "id": "15t96ev",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cm79p74rx54zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/93b8/live/43cc5d80-ce23-11f1-9a39-31b474234113.png",
+   "published": "2026-10-22T15:06:58.000Z",
+   "added": "2026-10-22T15:09:31.983Z",
+   "origTitle": "সাজেকে গোলাগুলির পর সর্বশেষ পরিস্থিতি কী?",
+   "en": {
+    "title": "Sajek blockade: gunfire, clashing accounts from military and group",
+    "summary": "Gunfire erupted in Sajek, Rangamati, on Thursday morning during the first day of a third-phase indefinite road blockade. The military and UPDF (United People's Democratic Front) gave conflicting accounts—the military said four soldiers and two police were injured by stone attacks, while UPDF denied any armed clashes occurred. About 3,000 tourists were safely evacuated. Another group called for fresh road blockades on Saturday."
+   },
+   "bn": {
+    "title": "সাজেক অবরোধে গোলাগুলি, সেনাবাহিনী ও সংগঠনের ভিন্ন বিবৃতি",
+    "summary": "রাঙামাটির সাজেকে বৃহস্পতিবার সকালে তৃতীয় দফা অবরোধের প্রথম দিনেই গোলাগুলির ঘটনা ঘটেছে। সেনাবাহিনী বলছে চারজন সৈনিক ও দুজন পুলিশ ইটপাটকেলের আঘাতে আহত হয়েছেন, কিন্তু ইউপিডিএফ কোনো সশস্ত্র সংঘর্ষের অস্তিত্ব অস্বীকার করেছে। প্রায় তিন হাজার পর্যটক নিরাপদে খাগড়াছড়িতে ফিরিয়ে আনা হয়েছে।"
+   }
+  },
+  {
+   "id": "pa37gz",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/world/millions-hacking-attempts-companies-governments-rush-patch-php-flaws-1580546",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/php.png",
+   "published": "2026-10-22T14:40:00.000Z",
+   "added": "2026-10-22T15:09:31.983Z",
+   "origTitle": "Millions of hacking attempts as companies, governments rush to patch PHP flaws",
+   "en": {
+    "title": "PHP flaws trigger global shutdown, millions of hacking attempts",
+    "summary": "Critical vulnerabilities in PHP, a programming language running much of the internet, forced governments and companies worldwide to take websites offline on Wednesday. Banks, airlines, tax services and government sites from Tokyo to Helsinki shut down as a precaution. Millions of hacking attempts followed as details leaked before fixes were ready. Microsoft CEO Satya Nadella called it \"a long day and a long night\" for IT security teams worldwide."
+   },
+   "bn": {
+    "title": "পিএইচপি ত্রুটিতে বিশ্বব্যাপী সেবা বন্ধ, লক্ষ লক্ষ হ্যাকিং চেষ্টা",
+    "summary": "ইন্টারনেটের বেশিরভাগ অংশ চালনাকারী প্রোগ্রামিং ভাষা পিএইচপিতে গুরুতর নিরাপত্তাত্রুটি ধরা পড়েছে। টোকিও থেকে হেলসিংকি পর্যন্ত ব্যাংক, এয়ারলাইন্স, ট্যাক্স সেবা এবং সরকারি ওয়েবসাইট সতর্কতার জন্য বন্ধ হয়ে গেছে। মেরামতের আগেই বিবরণ বেরিয়ে গেলে লক্ষ লক্ষ হ্যাকিং চেষ্টা শুরু হয়েছে। মাইক্রোসফট সিইও সত্য নাদেল্লা বলেছেন এটা আইটি নিরাপত্তা টিমের জন্য একটি দীর্ঘ রাত ছিল।"
+   }
+  },
   {
    "id": "2qpel5",
    "section": "news",

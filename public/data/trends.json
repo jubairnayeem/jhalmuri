@@ -1,115 +1,99 @@
 {
- "updatedAt": "2026-10-22T10:03:59.601Z",
+ "updatedAt": "2026-10-22T15:10:10.062Z",
  "burning": [
   {
-   "id": "125ezim",
+   "id": "c84tyb",
    "heat": 5,
    "why": {
-    "en": "Two Bangladeshi executions in Saudi Arabia dominating news across multiple outlets and massive search volume (1000+).",
-    "bn": "সৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড একাধিক মাধ্যমে আলোচনার কেন্দ্রবিন্দু এবং বিশাল সার্চ ভলিউম (১০০০+)।"
+    "en": "PHP flaw knocked millions of websites offline globally, massive cybersecurity crisis.",
+    "bn": "PHP-এর গুরুতর ত্রুটিতে বিশ্বজুড়ে লক্ষ লক্ষ ওয়েবসাইট অফলাইন হয়েছে।"
    },
    "rank": 1
   },
   {
-   "id": "psssjc",
+   "id": "17915vd",
    "heat": 5,
    "why": {
-    "en": "Sajek road blockade escalating with tourist travel disruptions, trending heavily on Google (200+) with multiple outlet coverage.",
-    "bn": "সাজেক সড়ক অবরোধ বৃদ্ধি পাচ্ছে পর্যটক যাত্রায় বাধা সহ, গুগলে ট্রেন্ড করছে (২০০+) এবং একাধিক আউটলেট কভারেজ দিচ্ছে।"
+    "en": "England's Brook smashed fastest ODI double century, breaking Shubman's 22-day-old record.",
+    "bn": "ইংল্যান্ডের ব্রুক দ্রুততম ওডিআই ডাবল সেঞ্চুরি করে শুভমনের রেকর্ড ভেঙে ফেলেছেন।"
    },
    "rank": 2
   },
   {
-   "id": "1p6hwai",
+   "id": "15t96ev",
    "heat": 4,
    "why": {
-    "en": "Bangladesh envoy to Japan illness affecting PM's Tokyo trip with political implications.",
-    "bn": "জাপানে বাংলাদেশের রাষ্ট্রদূতের অসুস্থতা প্রধানমন্ত্রীর টোকিও ভ্রমণ প্রভাবিত করছে।"
+    "en": "Sajek blockade escalates with gunfire and clashing accounts from military and opposition groups.",
+    "bn": "সাজেকে নতুন বন্ধন, গোলাগোলি এবং সেনাবাহিনী-বিরোধী গোষ্ঠীর মধ্যে দ্বন্দ্ব।"
    },
    "rank": 3
   },
   {
-   "id": "1p6hwai",
-   "heat": 3,
+   "id": "1bjdyyp",
+   "heat": 4,
    "why": {
-    "en": "Critical PHP bug disabling millions of websites globally, affecting tech infrastructure worldwide.",
-    "bn": "সমালোচনামূলক PHP বাগ বিশ্বব্যাপী লক্ষ লক্ষ ওয়েবসাইট বন্ধ করছে।"
+    "en": "Two Bangladeshis executed in Saudi Arabia; families blame diplomatic mission for neglect.",
+    "bn": "সৌদি আরবে দুই বাংলাদেশি মৃত্যুদণ্ড পান, পরিবার কূটনৈতিক মিশনকে দায়ী করছে।"
    },
    "rank": 4
   },
   {
-   "id": "16k9drh",
-   "heat": 3,
+   "id": "1d33rro",
+   "heat": 4,
    "why": {
-    "en": "Three tourists drown at Himchari beach, recurring water safety tragedy.",
-    "bn": "হিমছড়ি সৈকতে তিন পর্যটক ডুবে যাওয়া, পুনরাবৃত্ত জল নিরাপত্তা দুর্ঘটনা।"
+    "en": "Bangladesh knocked out of tri-series after Afghanistan loss; cricket campaign disappoints.",
+    "bn": "আফগানিস্তানের কাছে পরাজয়ে ট্রাই-সিরিজ থেকে বাংলাদেশ বাদ পড়েছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "125ezim",
-   "tag": "#SaudiExecutions",
+   "id": "17915vd",
+   "tag": "#ক্রিকেট",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Saudi executions of Bangladeshis",
-    "text": "Two Bangladeshi migrant workers executed in Saudi Arabia sparking international concern and diplomatic questions about alleged consular neglect."
+    "title": "Brook smashes cricket record",
+    "text": "England's Joes Brook hit the fastest ODI double century in just 22 days, breaking Shubman Gill's previous record. A devastating batting performance."
    },
    "bn": {
-    "title": "বাংলাদেশিদের সৌদি মৃত্যুদণ্ড",
-    "text": "সৌদি আরবে দুই বাংলাদেশি অভিবাসী কর্মী মৃত্যুদণ্ডপ্রাপ্ত হয়েছেন এবং কনসুলার অবহেলার প্রশ্ন উঠছে।"
+    "title": "ব্রুক রেকর্ড ভাঙলেন",
+    "text": "ইংল্যান্ডের জো ব্রুক মাত্র ২২ দিনে দ্রুততম ওডিআই ডাবল সেঞ্চুরি করে শুভমনের আগের রেকর্ড ভেঙে দিয়েছেন।"
    }
   },
   {
-   "id": "psssjc",
-   "tag": "#SajekBlockade",
+   "id": "c84tyb",
+   "tag": "#PHP সংকট",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Sajek road blockade worsens",
-    "text": "Fresh blockade on Sajek road starting Thursday forcing tourists to leave amid armed group tensions and military operations."
+    "title": "Global websites down from PHP flaw",
+    "text": "A critical PHP vulnerability has disabled millions of websites worldwide. Bangladesh Bank also went offline due to the cyberattack scare."
    },
    "bn": {
-    "title": "সাজেক সড়ক অবরোধ গুরুতর",
-    "text": "বৃহস্পতিবার থেকে সাজেক সড়ক নতুন অবরোধের মধ্যে পর্যটকদের চলে যেতে বাধ্য করা হচ্ছে।"
+    "title": "PHP ত্রুটিতে বিশ্ব্যাপী ওয়েবসাইট ডাউন",
+    "text": "PHP-এর গুরুতর ত্রুটিতে বিশ্বজুড়ে লক্ষ লক্ষ ওয়েবসাইট অফলাইন হয়েছে। বাংলাদেশ ব্যাংকও সাইবার আক্রমণের ভয়ে অফলাইনে চলে গেছে।"
    }
   },
   {
-   "id": "1a60p1y",
-   "tag": "#JackalAttacks",
+   "id": "16y66wj",
+   "tag": "#বিমান ঝামেলা",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Eleven injured in jackal attacks",
-    "text": "Multiple people attacked by jackals within one hour in a rural area, raising alarm over wildlife encroachment."
+    "title": "Dhaka flights face major disruptions",
+    "text": "Over 134 flights from Dhaka were cancelled or delayed, affecting more than 20,000 passengers amid ongoing airline disruptions."
    },
    "bn": {
-    "title": "শিয়ালের আক্রমণে ১১ জন আহত",
-    "text": "এক ঘণ্টায় একাধিক মানুষ শিয়ালের আক্রমণের শিকার হয়েছেন, বন্যপ্রাণী অনুপ্রবেশের উদ্বেগ বাড়াচ্ছেন।"
-   }
-  },
-  {
-   "id": "1d33rro",
-   "tag": "#CricketElimination",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Bangladesh knocked out of tri-series",
-    "text": "Bangladesh eliminated after losing to Afghanistan in the tri-nation cricket series, ending their tournament hopes."
-   },
-   "bn": {
-    "title": "ত্রিপক্ষীয় সিরিজ থেকে বাংলাদেশ ছিটকে যায়",
-    "text": "আফগানিস্তানের বিরুদ্ধে পরাজয়ের পর বাংলাদেশ ত্রিপক্ষীয় সিরিজ থেকে নির্মূল হয়েছে।"
+    "title": "ঢাকা থেকে ১৩৪ ফ্লাইট বাতিল",
+    "text": "ঢাকা থেকে ১৩৪টি ফ্লাইট বাতিল বা স্থগিত করা হয়েছে, যাতে ২০ হাজার ২৫৪ জন যাত্রী ক্ষতিগ্রস্ত হয়েছেন।"
    }
   }
  ],
