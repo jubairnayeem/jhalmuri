@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-10-22T04:32:38.182Z",
+ "updatedAt": "2026-10-22T10:03:42.590Z",
  "items": [
+  {
+   "id": "2qpel5",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tRUFEV1NaaGFSTW1LQURoc0pEeEhpRloyaFlRVGZrUUZjODdOZ2t5YTV4NEQwa21lc3lHMzJubmdmX010RGlMUnV0NzJkSlc2WWJJQURWQkFSRV96R3ZTcEpucDJPY0U?oc=5",
+   "image": null,
+   "published": "2026-10-22T06:36:00.000Z",
+   "added": "2026-10-22T10:03:42.590Z",
+   "origTitle": "রুয়েটের বাসে প্রধানমন্ত্রী, ‘একটা স্নাইপার থাকলেই হতো’ মন্তব্যকারী আটক",
+   "en": {
+    "title": "Man arrested for threatening remarks about PM during RUET visit",
+    "summary": "A man has been arrested for making threatening remarks during Prime Minister's visit to RUET (Bangladesh University of Engineering and Technology) hostel. According to reports, he made a comment about a sniper that authorities deemed threatening. The arrest was made following the incident. Further details about the case remain unclear."
+   },
+   "bn": {
+    "title": "প্রধানমন্ত্রীর রুয়েট বাসভিজিটে হুমকিমূলক মন্তব্যকারী আটক",
+    "summary": "প্রধানমন্ত্রীর রুয়েট হোস্টেল পরিদর্শনকালে হুমকিমূলক মন্তব্য করার কারণে একজন ব্যক্তিকে আটক করা হয়েছে। তিনি একটি স্নাইপার সংক্রান্ত মন্তব্য করেছিলেন যা কর্তৃপক্ষ হুমকিপূর্ণ বলে বিবেচনা করেছে। ঘটনার পর তাকে গ্রেফতার করা হয়েছে।"
+   }
+  },
+  {
+   "id": "wbo74",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/business/economics/tjo414s3ob",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-22/f2tl3jsw/Spain.jpg",
+   "published": "2026-10-22T09:43:51.000Z",
+   "added": "2026-10-22T10:03:42.590Z",
+   "origTitle": "স্পেনের টেক্সটাইল মেলায় বাংলাদেশের ১৮ প্রতিষ্ঠান,কাল শেষ হবে",
+   "en": {
+    "title": "18 Bangladeshi firms at Barcelona textile fair hunting European buyers",
+    "summary": "Bangladesh sent 18 companies to the Barcelona Textile Expo 2026 in Spain, which wraps up tomorrow. The three-day fair in Barcelona hosts over 300 manufacturers from 12 countries. Bangladesh ambassador Masudur Rahman inaugurated the pavilion, highlighting that Spain has become a bigger export destination for Bangladeshi textiles than Germany in the EU. The fair showcases woven fabrics, garments, home textiles, yarn, and fashion items."
+   },
+   "bn": {
+    "title": "স্পেনের টেক্সটাইল মেলায় বাংলাদেশের ১৮ প্রতিষ্ঠান",
+    "summary": "বাংলাদেশ স্পেনের বার্সেলোনায় অনুষ্ঠিত টেক্সটাইল এক্সপো ২০২৬-তে ১৮টি কোম্পানি পাঠিয়েছে, যা আগামীকাল শেষ হবে। তিন দিনব্যাপী এই মেলায় ১২টি দেশের ৩০০টিরও বেশি উৎপাদনকারী প্রতিষ্ঠান অংশ নিয়েছে। বাংলাদেশের রাষ্ট্রদূত মাসুদুর রহমান পাভিলিয়ন উদ্বোধন করে জানিয়েছেন যে স্পেন এখন ইউরোপীয় ইউনিয়নে বাংলাদেশি বস্ত্রের জন্য জার্মানির চেয়ে বড় ক্রেতা। মেলায় সুতি কাপড়, পোশাক, গৃহসজ্জার বস্ত্র প্রদর্শিত হচ্ছে।"
+   }
+  },
+  {
+   "id": "10malwq",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/btqna8v7x0",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-16/nwsnb8hy/prothomalo-bangla2026-10-16q9zuhzhosaudi-flag.avif",
+   "published": "2026-10-22T09:38:35.000Z",
+   "added": "2026-10-22T10:03:42.590Z",
+   "origTitle": "Bangladeshis among 59 foreigners executed in Saudi Arabia in first 6 months",
+   "en": {
+    "title": "Bangladeshis among 59 foreigners executed in Saudi Arabia",
+    "summary": "Saudi Arabia executed at least 108 people in the first six months of 2026, according to the European Saudi Organisation for Human Rights. About 59 of those were foreign nationals, including Bangladeshis, Pakistanis, Ethiopians, and others from 17 countries. Under King Salman and Crown Prince Mohammed bin Salman, total executions have reached 2,000—a record. Most executions were for drug-related offences."
+   },
+   "bn": {
+    "title": "সৌদি আরবে ৫৯ জন বিদেশি সহ ১০৮ জনকে মৃত্যুদণ্ড",
+    "summary": "২০২৬ সালের প্রথম ছয় মাসে সৌদি আরবে কমপক্ষে ১০৮ জনকে মৃত্যুদণ্ড দেওয়া হয়েছে বলে ইউরোপীয় সৌদি মানবাধিকার সংস্থা জানিয়েছে। এর মধ্যে ৫৯ জন বিদেশি নাগরিক ছিলেন, যাদের মধ্যে বাংলাদেশি, পাকিস্তানি, ইথিওপিয়ান এবং ১৭টি দেশের মানুষ রয়েছেন। কিং সালমান ও ক্রাউন প্রিন্স মোহাম্মদ বিন সালমানের আমলে মোট মৃত্যুদণ্ড ২ হাজারে পৌঁছেছে, যা রেকর্ড সংখ্যা। বেশিরভাগ মৃত্যুদণ্ড ড্রাগ সংক্রান্ত অপরাধের জন্য দেওয়া হয়েছে।"
+   }
+  },
+  {
+   "id": "1os7kdj",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
+   "image": "https://images.aeonmedia.co/images/92d2b7d3-2619-4d46-a6ab-15754363e1eb/bhutan-the-last-place-landscape-1-v2.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-22T10:01:00.000Z",
+   "added": "2026-10-22T10:03:26.284Z",
+   "origTitle": "Bhutan: the last place",
+   "en": {
+    "title": "Bhutan: how TV changed a hidden kingdom overnight",
+    "summary": "Bhutan was the last country on Earth without television until 1999. This 2002 PBS documentary captures the Buddhist kingdom as TV's impact hit: suddenly people wanted things they never knew existed—from branded clothes to wrestling gear. The film's interviews show locals aware TV is culturally damaging, irresistible, and probably unstoppable."
+   },
+   "bn": {
+    "title": "ভুটান: টিভি কীভাবে একটি লুকানো রাজ্য বদলে দিল",
+    "summary": "ভুটান ১৯৯৯ সালের আগ পর্যন্ত পৃথিবীর শেষ দেশ ছিল যেখানে টেলিভিশন ছিল না। এই ২০০২ পিবিএস তথ্যচিত্র দেখায় বৌদ্ধ রাজ্য কীভাবে টিভির আঘাত নিল: হঠাৎ মানুষ এমন জিনিস চাইতে শুরু করে যা তারা জানতোও না—ব্র্যান্ডেড পোশাক থেকে রেসলিং গিয়ার। সাক্ষাৎকারে স্থানীয়রা দেখায় টিভি সাংস্কৃতিকভাবে ক্ষতিকর, অপ্রতিরোধ্য, আর বোধহয় অনিবার্য।"
+   }
+  },
+  {
+   "id": "1ani3mv",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2298923585-1792658470.jpg?resize=1920%2C1440",
+   "published": "2026-10-22T09:58:21.000Z",
+   "added": "2026-10-22T10:03:26.284Z",
+   "origTitle": "Can European leaders fix the cost-of-living crisis?",
+   "en": {
+    "title": "European leaders struggle to fix cost-of-living crisis",
+    "summary": "Protests are spreading across France, Belgium, Italy, Portugal, Spain and Albania over unaffordable housing, low wages, rising fuel costs, and inadequate education. People complain they're paying more while getting less, even with jobs. Governments face pressure to provide relief while managing high debt and rising borrowing costs before looming elections."
+   },
+   "bn": {
+    "title": "ইউরোপীয় নেতারা জীবনযাত্রার সংকট সমাধানে হিমশিম খাচ্ছেন",
+    "summary": "ফ্রান্স, বেলজিয়াম, ইতালি, পর্তুগাল, স্পেন এবং আলবেনিয়া জুড়ে সাশ্রয়ী আবাসন, কম মজুরি এবং বাড়তি জ্বালানি খরচের বিরুদ্ধে প্রতিবাদ ছড়িয়ে পড়ছে। মানুষ অভিযোগ করছে যে চাকরি থাকলেও তারা বেশি খরচ করে কম পাচ্ছে। সরকারগুলো স্বস্তি দিতে চাপের মুখে থাকলেও উচ্চ ঋণ এবং বৃদ্ধির খরচ সামলাতে গলদঘর্ম।"
+   }
+  },
+  {
+   "id": "8o7poj",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9938/live/80172d90-cd26-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-22T05:30:22.000Z",
+   "added": "2026-10-22T10:03:26.284Z",
+   "origTitle": "How Arab parties could hold critical balance of power in Israeli election",
+   "en": {
+    "title": "Arab parties hold balance of power in Israeli election",
+    "summary": "Arab parties in Israel could decide the outcome of next week's election, as neither Netanyahu nor the opposition Change Bloc appears to have a clear path to a majority. Young Arab Israelis are pushing for higher turnout to unseat the current right-wing coalition. However, opposition leader Gadi Eisenkot has ruled out forming a government with Arab parties, citing differing values."
+   },
+   "bn": {
+    "title": "ইসরায়েলের নির্বাচনে আরব পক্ষগুলো গুরুত্বপূর্ণ ভূমিকা রাখতে পারে",
+    "summary": "আগামী সপ্তাহের ইসরায়েলি নির্বাচনে আরব পক্ষগুলো ফলাফল নির্ধারণ করতে পারে, কারণ নেতানিয়াহু এবং বিরোধী পক্ষ উভয়েরই সংসদে স্পষ্ট সংখ্যাগরিষ্ঠতা নেই। তরুণ আরব ইসরায়েলিরা বর্তমান ডানপন্থী জোট সরাতে ভোট বৃদ্ধি করতে চাপ দিচ্ছে। তবে বিরোধী নেতা গাদি আইজেনকট আরব পক্ষের সাথে সরকার গঠন করতে অস্বীকার করেছেন।"
+   }
+  },
+  {
+   "id": "1p6hwai",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cq8jzrx7zvgeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-22T08:40:48.000Z",
+   "added": "2026-10-22T10:03:26.284Z",
+   "origTitle": "বিশ্বব্যাপী অনেক ওয়েবসাইট কেন বন্ধ?",
+   "en": {
+    "title": "Critical PHP bug disabled millions of websites globally",
+    "summary": "A serious flaw in PHP, a programming language used to build websites since the 2000s, went undetected for over a decade. AI helped uncover it on Wednesday. Governments and cybersecurity firms worldwide are urging website operators to install urgent fixes or take platforms offline. Cybersecurity firm Wise called it the most severe flaw ever identified by AI."
+   },
+   "bn": {
+    "title": "পিএইচপির গুরুতর ত্রুটিতে বিশ্বজুড়ে লক্ষ লক্ষ ওয়েবসাইট বন্ধ",
+    "summary": "পিএইচপি নামের প্রোগ্রামিং ভাষায় একটি মারাত্মক ত্রুটি দশকেরও বেশি সময় ধরে লুকানো ছিল। এআই বুধবার এটি খুঁজে বের করতে সাহায্য করেছে। বিশ্বজুড়ে সরকার ও সাইবার-নিরাপত্তা সংস্থাগুলো ওয়েবসাইট পরিচালনাকারীদের জরুরি সমাধান ইনস্টল করতে বা প্ল্যাটফর্ম অফলাইনে নিতে আহ্বান জানাচ্ছে। উইজ কোম্পানি এটিকে এআই দ্বারা খুঁজে পাওয়া সবচেয়ে গুরুতর ত্রুটি বলেছে।"
+   }
+  },
+  {
+   "id": "p1x4c5",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/bangladesh-envoy-japan-returns-dhaka-due-illness-mofa-1580251",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/md_daud_ali.jpg",
+   "published": "2026-10-22T09:40:00.000Z",
+   "added": "2026-10-22T10:03:26.284Z",
+   "origTitle": "Bangladesh envoy to Japan returns to Dhaka due to illness: MoFA",
+   "en": {
+    "title": "Bangladesh envoy to Japan ill, PM's Tokyo trip unclear",
+    "summary": "Bangladesh's Ambassador to Japan Md Daud Ali is in Dhaka due to illness, the Foreign Ministry said on 22 October. PM Tarique Rahman is set to visit Tokyo from 26-29 October, but it's unclear if Daud will join him. The ministry hasn't clarified whether the ambassador has been recalled or is just consulting in the capital."
+   },
+   "bn": {
+    "title": "জাপানে বাংলাদেশের রাষ্ট্রদূত অসুস্থ, প্রধানমন্ত্রীর যাত্রা অনিশ্চিত",
+    "summary": "জাপানে বাংলাদেশের রাষ্ট্রদূত মো. দাউদ আলি অসুস্থতার কারণে ঢাকায় রয়েছেন বলে বিদেশ মন্ত্রণালয় জানিয়েছে। প্রধানমন্ত্রী তারিক রহমান ২৬-২৯ অক্টোবর টোকিও সফর করবেন, কিন্তু দাউদ তার সাথে যাবেন কিনা তা অস্পষ্ট। মন্ত্রণালয় এখনো স্পষ্ট করেনি রাষ্ট্রদূত প্রত্যাহত হয়েছেন নাকি রুটিন পরামর্শের জন্য ঢাকায় আছেন।"
+   }
+  },
   {
    "id": "yek7sx",
    "section": "news",
@@ -3036,182 +3212,6 @@
    "bn": {
     "title": "অস্ত্র নিয়ে মাদকবিরোধী অভিযানের পর ইশরাক হোসেন পদত্যাগ",
     "summary": "সোমবার মুক্তিযুদ্ধ বিষয়ক মন্ত্রণালয়ের প্রতিমন্ত্রী ইশরাক হোসেন পদত্যাগ করেছেন। তিনি বলেছেন এটা তার নিজের সিদ্ধান্ত, কিন্তু মিডিয়া খবর দিয়েছে প্রধানমন্ত্রী তাকে পদ ছাড়তে নির্দেশ দিয়েছেন। শনিবার অস্ত্র হাতে মাদকব্যবসায়ীদের ধাওয়া করার ভিডিও পোস্ট করায় সোশ্যাল মিডিয়ায় ব্যাপক সমালোচনা হয়েছিল।"
-   }
-  },
-  {
-   "id": "16ynt7u",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMcEVJMEtSU2ltTldUSWhadnctanhoanhTOWZlVkw1R0IzRmRTa2NZbWVFbl9rVV80S2xtamFiZ0F3LXgwSzBtVGpLQVpJYmt2UXdndlllZTY5RVN3RjluMEd6NVJDaUk?oc=5",
-   "image": null,
-   "published": "2026-10-19T06:27:00.000Z",
-   "added": "2026-10-19T07:41:17.706Z",
-   "origTitle": "গাজীপুরে সাবেক স্ত্রীকে রেললাইনে ডেকে নিয়ে গলাকেটে হত্যা",
-   "en": {
-    "title": "Man kills ex-wife by slitting throat on railway line in Gazipur",
-    "summary": "A man in Gazipur killed his ex-wife by slitting her throat and luring her to railway tracks. The incident highlights ongoing domestic violence issues in Bangladesh. Police are investigating the case."
-   },
-   "bn": {
-    "title": "গাজীপুরে সাবেক স্ত্রীকে রেললাইনে ডেকে নিয়ে হত্যা করেছেন",
-    "summary": "গাজীপুরে একজন লোক তার সাবেক স্ত্রীকে রেললাইনে ডেকে নিয়ে গলা কেটে হত্যা করেছেন। এই ঘটনা দেশে পারিবারিক হিংসা একটি গুরুতর সমস্যা তুলে ধরে। পুলিশ বিষয়টি নিয়ে তদন্ত করছে।"
-   }
-  },
-  {
-   "id": "9tpzp9",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/india/ml8xtujiwo",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-08/wsmitgaj/1.avif",
-   "published": "2026-10-19T07:30:00.000Z",
-   "added": "2026-10-19T07:41:17.706Z",
-   "origTitle": "ভারতীয় নাগরিককে বাংলাদেশ থেকে ফেরত নিতে আবার নির্দেশ দিলেন আসামের হাইকোর্ট",
-   "en": {
-    "title": "Indian woman pushed to Bangladesh, Assam court orders her return",
-    "summary": "Guahati High Court has ordered India's central and Assam governments to find a woman named Momtaz Begum who was pushed across the border into Bangladesh in June after a tribunal declared her a foreigner. She never received a copy of the tribunal's May ruling, so she couldn't appeal to a higher court. The court has emphasized the need to protect citizens' safety and track their whereabouts even after deportation."
-   },
-   "bn": {
-    "title": "বাংলাদেশে ঠেলে দেওয়া ভারতীয় নারীকে ফেরত আনতে হাইকোর্টের নির্দেশ",
-    "summary": "গুয়াহাটি হাইকোর্ট ভারত ও আসাম সরকারকে মমতাজ বেগম নামের এক নারীকে খুঁজে বের করার নির্দেশ দিয়েছেন, যিনি জুনে সীমান্ত পার করে বাংলাদেশে পাঠানো হয়েছিলেন। ট্রাইব্যুনালের রায়ের অনুলিপি না পাওয়ায় তিনি উচ্চ আদালতে আবেদন করতেও পারেননি। এই রায় নাগরিকত্ব পরীক্ষায় আইনি ধারাবাহিকতা এবং মানবাধিকার রক্ষার প্রশ্ন নতুন করে উঠিয়েছে।"
-   }
-  },
-  {
-   "id": "2uz73l",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/local-news/vimsyhdqh5",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-19/rs8cuck4/prothomalo-bangla2026-10-18tb1fx7vvCapture.avif",
-   "published": "2026-10-19T07:15:41.000Z",
-   "added": "2026-10-19T07:41:06.935Z",
-   "origTitle": "Illegal resorts thrive across Cox's Bazar, administration inactive",
-   "en": {
-    "title": "Illegal Cox's Bazar resorts operate despite warnings, safety gaps",
-    "summary": "Coral Beach Resort is under construction in an ecologically critical area near Patowartek beach in Ukhia, Cox's Bazar, without fire safety measures or regulatory clearance. A visit Sunday found no fire extinguishers despite ongoing two-story construction. This follows Saturday's deadly fire at Tuptup Resort that killed 10 tourists, including six from one family, despite previous warnings from authorities."
-   },
-   "bn": {
-    "title": "কক্সবাজারে অবৈধ রিসর্টগুলো সতর্কতা উপেক্ষা করে চলছে",
-    "summary": "উখিয়ার পাটোয়ারটেক বিচের কাছে কোরাল বিচ রিসর্ট জরুরি পরিবেশ এলাকায় অগ্নি নিরাপত্তা ছাড়াই নির্মাণাধীন। রবিবারের পরিদর্শনে কোনো অগ্নিনির্বাপক যন্ত্র পাওয়া যায়নি। টাপটাপ রিসর্টে শনিবার আগুনে ১০ পর্যটক মারা গেছেন, যার মধ্যে একটি পরিবারের ছয় সদস্য ছিলেন, কর্তৃপক্ষের পূর্ববর্তী সতর্কতা সত্ত্বেও।"
-   }
-  },
-  {
-   "id": "1xjgqn8",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800",
-   "published": "2026-10-19T07:30:00.000Z",
-   "added": "2026-10-19T07:41:06.935Z",
-   "origTitle": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-   "en": {
-    "title": "Even Healthcare raises $50M to fix India's hospital business model",
-    "summary": "Indian startup Even Healthcare has raised $50 million in Series B funding led by Khosla Ventures, valuing the company at $300 million. Even wants to change how Indian hospitals earn money—currently they profit from unnecessary tests and longer patient stays. The startup is now building its own hospitals to give better control over patient care and costs."
-   },
-   "bn": {
-    "title": "ইভেন হেলথকেয়ার ৫০ মিলিয়ন ডলার সংগ্রহ করেছে",
-    "summary": "ভারতীয় স্টার্টআপ ইভেন হেলথকেয়ার সিরিজ বি তে ৫০ মিলিয়ন ডলার সংগ্রহ করেছে যা কোম্পানিকে ৩০০ মিলিয়ন ডলারে মূল্যায়ন করে। ইভেন ভারতীয় হাসপাতালের আয়ের মডেল পরিবর্তন করতে চায়—বর্তমানে তারা অপ্রয়োজনীয় পরীক্ষা থেকে লাভ করে। কোম্পানি এখন নিজের হাসপাতাল তৈরি করছে।"
-   }
-  },
-  {
-   "id": "v1undo",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP910727066-1792393314.jpg?resize=1920%2C1440",
-   "published": "2026-10-19T07:02:58.000Z",
-   "added": "2026-10-19T07:41:06.935Z",
-   "origTitle": "Losing Cuba, the global trickster",
-   "en": {
-    "title": "Cuba's outsized role as global trickster facing uncertain future",
-    "summary": "With US military activity near Cuba and officials calling for the island to be \"free,\" the 60-year-old Cuban Revolution may be ending. The article reflects on Cuba's role as a geopolitical trickster—like the spirit Eshu in Santeria—challenging US hegemony, sparking debates about global order, and forcing the empire to reckon with its power."
-   },
-   "bn": {
-    "title": "বৈশ্বিক মঞ্চে কিউবার অনিশ্চিত ভবিষ্যত নিয়ে প্রতিফলন",
-    "summary": "মার্কিন সামরিক কার্যক্রম কিউবার কাছে বৃদ্ধি পেয়েছে এবং কর্মকর্তারা দ্বীপটিকে \"মুক্ত\" করতে চান। ৬০ বছরের কিউবান বিপ্লব সম্ভবত শেষ হতে চলেছে। নিবন্ধটি কিউবার একটি বৈশ্বিক প্রতারক হিসাবে ভূমিকা তুলে ধরে যা আমেরিকার আধিপত্যকে চ্যালেঞ্জ জানিয়েছে এবং বিশ্ব ক্রমের বিষয়ে বিতর্ক সৃষ্টি করেছে।"
-   }
-  },
-  {
-   "id": "1r2yhlf",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4190/live/1ce2e400-cb80-11f1-bba6-c7bcff195158.jpg",
-   "published": "2026-10-19T04:16:46.000Z",
-   "added": "2026-10-19T07:41:06.935Z",
-   "origTitle": "France's government under pressure after weekend of widespread violence",
-   "en": {
-    "title": "France's PM holds crisis meeting after nationwide weekend violence",
-    "summary": "Prime Minister Sébastien Lecornu convened an emergency cabinet meeting Monday to address weekend chaos across France. Over 500,000 protesters initially demonstrated peacefully against rising living costs and deteriorating public services, but vandals looted 1,500 shops and burned buildings. Police injured about 1,000 officers. Critics say Macron's televised address lacked concrete solutions for education and the cost-of-living crisis."
-   },
-   "bn": {
-    "title": "সারা ফ্রান্সে সপ্তাহান্তের হিংসার পর সংকট বৈঠক",
-    "summary": "প্রধানমন্ত্রী সেবাস্তিয়ান লেকোর্নু সোমবার জরুরি মন্ত্রিসভা সভা আহ্বান করেছেন। ৫ লক্ষাধিক শান্তিপূর্ণ বিক্ষোভকারী জীবনযাত্রার খরচ এবং জনসেবার বিপর্যয়ের বিরুদ্ধে প্রতিবাদ করেছেন, কিন্তু দাঙ্গাকারীরা ১,৫০০ দোকান লুটপাট করেছে। পুলিশ প্রায় ১,০০০ অফিসারকে আহত হতে দেখেছে। সমালোচকরা বলেন ম্যাক্রঁর বক্তৃতায় শিক্ষা ও খরচের কোনো সমাধান নেই।"
-   }
-  },
-  {
-   "id": "1j3lwni",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cm86z0dv7g1no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dfda/live/208c3bc0-cb66-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-19T07:08:17.000Z",
-   "added": "2026-10-19T07:41:06.935Z",
-   "origTitle": "ফ্রান্স জুড়ে দাঙ্গার পর 'শান্তি ও শৃঙ্খলা' বজায় রাখার আহ্বান প্রেসিডেন্ট ম্যাক্রঁর",
-   "en": {
-    "title": "France's Macron calls for peace after weekend riots across country",
-    "summary": "France experienced some of its worst public disorder in modern history over the weekend. About 550,000 mostly peaceful protesters demonstrated against rising costs and failing public services on Saturday, but masked vandals looted around 1,500 shops and set fires. Police arrested about 2,400 people. President Macron called for unity, distinguishing between legitimate protesters and those who caused destruction."
-   },
-   "bn": {
-    "title": "সারা দেশে দাঙ্গার পর ম্যাক্রঁ শান্তির আহ্বান জানিয়েছেন",
-    "summary": "ফ্রান্স শনিবার আধুনিক ইতিহাসের সবচেয়ে খারাপ বিশৃঙ্খলা দেখেছে। প্রায় ৫.৫ লক্ষ শান্তিপূর্ণ বিক্ষোভকারী জীবনযাত্রার খরচ এবং জনসেবার মান নিয়ে প্রতিবাদ করেছেন, কিন্তু মুখোশধারী দাঙ্গাকারীরা প্রায় ১,৫০০ দোকান লুটপাট করেছে। পুলিশ ২,৪০০ জনকে গ্রেপ্তার করেছে। ম্যাক্রঁ বৈধ বিক্ষোভকারী এবং ধ্বংসকারীদের আলাদা করে দেখেছেন।"
-   }
-  },
-  {
-   "id": "1lng543",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/splash/durga-puja-through-eyes-bangladeshs-entertainment-stars-1577311",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/15/20211015172909_sap_2518-01.jpeg",
-   "published": "2026-10-19T07:10:00.000Z",
-   "added": "2026-10-19T07:41:06.935Z",
-   "origTitle": "Durga Puja through the eyes of Bangladesh’s entertainment stars",
-   "en": {
-    "title": "Bangladesh stars share Durga Puja moments on social media",
-    "summary": "Bangladeshi celebrities are celebrating Durga Puja and sharing the festival online. Actress Bidya Sinha Saha Mim posted family photos on Maha Shashthi, while Puja Chery visited different mandaps highlighting women's strength. Actor Manoj Pramanik and actress Apu Biswas are staying in Dhaka this year—Pramanik due to shooting, Apu due to personal reasons."
-   },
-   "bn": {
-    "title": "দুর্গা পূজায় বাংলাদেশের সেলিব্রিটিরা মুহূর্ত শেয়ার করছেন",
-    "summary": "বাংলাদেশের অভিনেত্রী এবং অভিনেতারা দুর্গা পূজা উদযাপন করছেন এবং সোশ্যাল মিডিয়ায় শেয়ার করছেন। বিদ্যা সিনহা সাহা মিম মহা ষষ্ঠীতে পরিবারের ছবি পোস্ট করেছেন, যখন পূজা চেরি বিভিন্ন মণ্ডপ ভিজিট করে নারীদের শক্তি তুলে ধরেছেন। মনোজ প্রমাণিক এবং অপু বিশ্বাস এ বছর ঢাকায় থাকবেন।"
    }
   }
  ]

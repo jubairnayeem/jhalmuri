@@ -1,99 +1,83 @@
 {
- "updatedAt": "2026-10-22T04:32:55.665Z",
+ "updatedAt": "2026-10-22T10:03:59.601Z",
  "burning": [
   {
    "id": "125ezim",
    "heat": 5,
    "why": {
-    "en": "Two Bangladeshi migrant workers executed in Saudi Arabia—multiple outlets covering with international concern.",
-    "bn": "সৌদি আরবিয়ায় দুই বাংলাদেশী কর্মীর মৃত্যুদণ্ড—আন্তর্জাতিক উদ্বেগ নিয়ে একাধিক মাধ্যমে খবর।"
+    "en": "Two Bangladeshi executions in Saudi Arabia dominating news across multiple outlets and massive search volume (1000+).",
+    "bn": "সৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড একাধিক মাধ্যমে আলোচনার কেন্দ্রবিন্দু এবং বিশাল সার্চ ভলিউম (১০০০+)।"
    },
    "rank": 1
   },
   {
-   "id": "1d33rro",
-   "heat": 4,
+   "id": "psssjc",
+   "heat": 5,
    "why": {
-    "en": "Bangladesh knocked out of tri-series after Afghanistan loss—major sports story dominating coverage.",
-    "bn": "আফগানিস্তানের কাছে হেরে বাংলাদেশ ট্রাই-সিরিজ থেকে বাদ—ক্রীড়া জগতে প্রধান খবর।"
+    "en": "Sajek road blockade escalating with tourist travel disruptions, trending heavily on Google (200+) with multiple outlet coverage.",
+    "bn": "সাজেক সড়ক অবরোধ বৃদ্ধি পাচ্ছে পর্যটক যাত্রায় বাধা সহ, গুগলে ট্রেন্ড করছে (২০০+) এবং একাধিক আউটলেট কভারেজ দিচ্ছে।"
    },
    "rank": 2
   },
   {
-   "id": "1ej6jfg",
+   "id": "1p6hwai",
    "heat": 4,
    "why": {
-    "en": "Critical PHP flaw forces major websites offline—tech story matching high Google Trends for 'php'.",
-    "bn": "গুরুতর PHP ত্রুটি বিশ্বব্যাপী ওয়েবসাইট অফলাইন—Google Trends–এ 'php' ট্রেন্ড করছে।"
+    "en": "Bangladesh envoy to Japan illness affecting PM's Tokyo trip with political implications.",
+    "bn": "জাপানে বাংলাদেশের রাষ্ট্রদূতের অসুস্থতা প্রধানমন্ত্রীর টোকিও ভ্রমণ প্রভাবিত করছে।"
    },
    "rank": 3
   },
   {
-   "id": "3a87k8",
+   "id": "1p6hwai",
    "heat": 3,
    "why": {
-    "en": "Three-wheeler traffic on highways causing crash surge—domestic road safety crisis.",
-    "bn": "হাইওয়েতে তিন চাকার গাড়ির ট্রাফিক বাড়ছে দুর্ঘটনা—দেশীয় সড়ক নিরাপত্তা সংকট।"
+    "en": "Critical PHP bug disabling millions of websites globally, affecting tech infrastructure worldwide.",
+    "bn": "সমালোচনামূলক PHP বাগ বিশ্বব্যাপী লক্ষ লক্ষ ওয়েবসাইট বন্ধ করছে।"
    },
    "rank": 4
   },
   {
-   "id": "1a60p1y",
+   "id": "16k9drh",
    "heat": 3,
    "why": {
-    "en": "Eleven injured in jackal attacks within one hour—wildlife incident drawing urgent attention.",
-    "bn": "এক ঘণ্টায় সিয়ালের আক্রমণে ১১ জন আহত—বন্যপ্রাণী ঘটনা জরুরি খবর।"
+    "en": "Three tourists drown at Himchari beach, recurring water safety tragedy.",
+    "bn": "হিমছড়ি সৈকতে তিন পর্যটক ডুবে যাওয়া, পুনরাবৃত্ত জল নিরাপত্তা দুর্ঘটনা।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "arzh6k",
+   "id": "125ezim",
    "tag": "#SaudiExecutions",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Bangladeshi executions in Saudi Arabia",
-    "text": "Two Bangladeshi nationals were executed in Saudi Arabia, sparking questions and concern internationally. Families are pleading for the return of their bodies."
+    "title": "Saudi executions of Bangladeshis",
+    "text": "Two Bangladeshi migrant workers executed in Saudi Arabia sparking international concern and diplomatic questions about alleged consular neglect."
    },
    "bn": {
-    "title": "সৌদি আরবিয়ায় বাংলাদেশীদের মৃত্যুদণ্ড",
-    "text": "সৌদি আরবিয়ায় দুই বাংলাদেশী নাগরিকের মৃত্যুদণ্ড দেওয়া হয়েছে যা আন্তর্জাতিকভাবে প্রশ্নের সৃষ্টি করেছে। পরিবারগুলি তাদের দেহ ফেরত দেওয়ার জন্য আবেদন করছে।"
+    "title": "বাংলাদেশিদের সৌদি মৃত্যুদণ্ড",
+    "text": "সৌদি আরবে দুই বাংলাদেশি অভিবাসী কর্মী মৃত্যুদণ্ডপ্রাপ্ত হয়েছেন এবং কনসুলার অবহেলার প্রশ্ন উঠছে।"
    }
   },
   {
-   "id": "1ej6jfg",
-   "tag": "#PHPCrisis",
+   "id": "psssjc",
+   "tag": "#SajekBlockade",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "Critical PHP flaw crashes websites globally",
-    "text": "A critical security flaw in PHP has forced major websites offline worldwide, disrupting internet services at scale."
+    "title": "Sajek road blockade worsens",
+    "text": "Fresh blockade on Sajek road starting Thursday forcing tourists to leave amid armed group tensions and military operations."
    },
    "bn": {
-    "title": "PHP–এ সংকটকর ত্রুটি বিশ্বব্যাপী ওয়েবসাইট ক্র্যাশ",
-    "text": "PHP–তে একটি সংকটকর নিরাপত্তা ত্রুটি বিশ্বব্যাপী প্রধান ওয়েবসাইটগুলি অফলাইন করেছে।"
-   }
-  },
-  {
-   "id": "16k9drh",
-   "tag": "#BeachSafety",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Three tourists drown at Himchari beach",
-    "text": "Three tourists lost their lives in a drowning incident at Himchari beach, raising concerns about water safety."
-   },
-   "bn": {
-    "title": "হিমছড়ি সৈকতে তিন পর্যটক ডুবে মৃত্যু",
-    "text": "হিমছড়ি সৈকতে ডুবে তিন পর্যটক প্রাণ হারিয়েছেন, যা জল নিরাপত্তা নিয়ে উদ্বেগ বাড়িয়েছে।"
+    "title": "সাজেক সড়ক অবরোধ গুরুতর",
+    "text": "বৃহস্পতিবার থেকে সাজেক সড়ক নতুন অবরোধের মধ্যে পর্যটকদের চলে যেতে বাধ্য করা হচ্ছে।"
    }
   },
   {
@@ -104,12 +88,28 @@
    ],
    "heat": 3,
    "en": {
-    "title": "Eleven injured in jackal attacks in one hour",
-    "text": "Within a single hour, eleven people were injured in a series of jackal attacks, highlighting a growing wildlife threat."
+    "title": "Eleven injured in jackal attacks",
+    "text": "Multiple people attacked by jackals within one hour in a rural area, raising alarm over wildlife encroachment."
    },
    "bn": {
-    "title": "এক ঘণ্টায় সিয়ালের ১১ টা আক্রমণ",
-    "text": "মাত্র এক ঘণ্টায় সিয়ালের আক্রমণে ১১ জন আহত হয়েছেন, যা বন্যপ্রাণীর বর্ধনশীল হুমকি দেখাচ্ছে।"
+    "title": "শিয়ালের আক্রমণে ১১ জন আহত",
+    "text": "এক ঘণ্টায় একাধিক মানুষ শিয়ালের আক্রমণের শিকার হয়েছেন, বন্যপ্রাণী অনুপ্রবেশের উদ্বেগ বাড়াচ্ছেন।"
+   }
+  },
+  {
+   "id": "1d33rro",
+   "tag": "#CricketElimination",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Bangladesh knocked out of tri-series",
+    "text": "Bangladesh eliminated after losing to Afghanistan in the tri-nation cricket series, ending their tournament hopes."
+   },
+   "bn": {
+    "title": "ত্রিপক্ষীয় সিরিজ থেকে বাংলাদেশ ছিটকে যায়",
+    "text": "আফগানিস্তানের বিরুদ্ধে পরাজয়ের পর বাংলাদেশ ত্রিপক্ষীয় সিরিজ থেকে নির্মূল হয়েছে।"
    }
   }
  ],
