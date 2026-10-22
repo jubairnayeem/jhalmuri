@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-10-22T15:09:54.124Z",
+ "updatedAt": "2026-10-22T20:00:24.745Z",
  "items": [
+  {
+   "id": "1mmuwdc",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/capital/fb3fg47636",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2021-01/c7711f5e-ed1d-48b4-abbf-9f1147de8885/Dead_Body_2.png",
+   "published": "2026-10-22T19:13:44.000Z",
+   "added": "2026-10-22T20:00:24.745Z",
+   "origTitle": "রাজধানীর নাখালপাড়া থেকে গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক",
+   "en": {
+    "title": "Woman found dead in Dhaka home; husband arrested",
+    "summary": "Police recovered the body of Rozina Khatun, 32, from a house in east Naakhal Para, Dhaka on Thursday after receiving a call to 999. Marks on her neck suggest strangulation. Her husband Arif Hasan, an electrical goods businessman, has been arrested. The autopsy report will determine the exact cause of death."
+   },
+   "bn": {
+    "title": "ঢাকায় বাসা থেকে গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক",
+    "summary": "পূর্ব নাখালপাড়ার একটি বাসা থেকে ৩২ বছর বয়সী রোজিনা খাতুনের মরদেহ উদ্ধার করেছে পুলিশ। তার গলায় ফাঁস লাগানোর দাগ রয়েছে। তার স্বামী আরিফ হাসান, বৈদ্যুতিক সামগ্রীর ব্যবসায়ী, আটক হয়েছেন। ময়নাতদন্তের রিপোর্ট মৃত্যুর সঠিক কারণ নির্ধারণ করবে।"
+   }
+  },
+  {
+   "id": "135rekb",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/sports/cricket/hhmqwurz26",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-22/woj329xp/717341-01-02.jpg",
+   "published": "2026-10-22T17:13:57.000Z",
+   "added": "2026-10-22T20:00:24.745Z",
+   "origTitle": "Sri Lanka make 430 to beat England despite Harry Brook&#39;s 202",
+   "en": {
+    "title": "Sri Lanka chase 430, hunt down England's massive total",
+    "summary": "Harry Brook smashed 202 off 116 deliveries to set England's total of 429/4 in the Pakistan ODI Tri-Series 2026. Sri Lanka pulled off the second-highest successful chase in ODI history, reaching their target with dramatic batting from Avishka Fernando (97) and Pavan Rathnayake (130). Dasun Shanaka sealed it with 97 off 50 balls."
+   },
+   "bn": {
+    "title": "শ্রীলঙ্কা ৪৩০ তাড়িয়ে ইংল্যান্ডকে হারিয়েছে",
+    "summary": "হ্যারি ব্রুক ১১৬ ডেলিভারিতে ২০২ রান করে ইংল্যান্ডকে ৪২৯/৪ এ পৌঁছে দেয়। শ্রীলঙ্কা ওডিআই ইতিহাসের দ্বিতীয় বৃহত্তম তাড়া সফল করে এই লক্ষ্য ধরে ফেলে। আবিষ্কা ফার্নান্দো (৯৭) এবং পাভান রত্নায়ক (১৩০) এর ব্যাটিংয়ে শ্রীলঙ্কা জয় পায়।"
+   }
+  },
+  {
+   "id": "5g8307",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/plan-to-splurge-scrapped-on-account-of-price/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/Plan_To_Splurge_NIB_G_PH.jpg",
+   "published": "2026-10-22T19:30:13.000Z",
+   "added": "2026-10-22T20:00:24.745Z",
+   "origTitle": "Plan To Splurge Scrapped On Account Of Price",
+   "en": {
+    "title": "Woman's splurge plan derailed by actual shirt price",
+    "summary": "Christina Rogers decided to treat herself this week but changed her mind after seeing the price tag: 89.99 dollars plus tax. The hole in her pocket wasn't quite big enough. She's hoping for a sale in a month or two to make her spending dreams happen."
+   },
+   "bn": {
+    "title": "শার্টের দাম দেখে খরচ করার পরিকল্পনা বাতিল",
+    "summary": "ক্রিস্টিনা রজার্স এই সপ্তাহে নিজেকে উপহার দেওয়ার ঠিক করেছিলেন, কিন্তু দাম ট্যাগ দেখে মন বদলে ফেলেন: ৮৯.৯৯ ডলার প্লাস ট্যাক্স। তার পকেটের গর্ত সেত্তার নয়। তিনি আশা করছেন কয়েক সপ্তাহ পর সেল হবে।"
+   }
+  },
+  {
+   "id": "l5ares",
+   "section": "bhabna",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Daily Nous",
+   "srcLang": "en",
+   "url": "https://dailynous.com/2026/10/22/death-just-got-out-of-this-truck-guest-post/",
+   "image": "https://dailynous.com/wp-content/uploads/2026/10/McVicker-J-Jay-Nocturnal-Sequence-ao-1024x755.png",
+   "published": "2026-10-22T12:36:06.000Z",
+   "added": "2026-10-22T20:00:24.745Z",
+   "origTitle": "Death Just Got Out of This Truck (guest post)",
+   "en": {
+    "title": "Philosophy can't fix everything grief does to you",
+    "summary": "Amy Olberding, a philosophy professor at University of Oklahoma, writes about grief's physical toll—how it wrecks your stomach, steals your sleep, makes your hands shake. She shows how people bring food to comfort the bereaved, but sometimes grief leaves you unable to eat or function. Sometimes philosophy has limits."
+   },
+   "bn": {
+    "title": "দুঃখ সব সমস্যার দর্শনীয় সমাধান নেই",
+    "summary": "ওকলাহোমা বিশ্ববিদ্যালয়ের দর্শন অধ্যাপক এমি অলবার্ডিং লেখেন দুঃখ কীভাবে শরীর ভেঙে দেয়—পেট নষ্ট করে, ঘুম কাড়ে, হাত কাঁপায়। মানুষ শোকার্তকে খাবার দিয়ে সান্ত্বনা দেয়, কিন্তু কখনো দুঃখ তোমাকে খেতেও দেয় না। দর্শনেরও সীমা আছে।"
+   }
+  },
+  {
+   "id": "19599tc",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/22/chameleon-tree-forsyth-county-georgia/2111792688158/",
+   "image": "https://cdnph.upi.com/ph/st/th/2111792688158/2026/i/17926882626587/v1.5/Firefighters-rescue-chameleon-stuck-in-Georgia-tree.jpg",
+   "published": "2026-10-22T16:58:33.000Z",
+   "added": "2026-10-22T20:00:24.745Z",
+   "origTitle": "Look: Firefighters rescue chameleon stuck in Georgia tree",
+   "en": {
+    "title": "Georgia firefighters rescue chameleon stuck high in tree",
+    "summary": "Firefighters in Georgia responded to an unusual rescue call involving a chameleon that had climbed to a high branch. The animal got itself into a tricky spot and needed professional help to come back down. Not your typical emergency room visit, but the crew handled it."
+   },
+   "bn": {
+    "title": "গাছে আটকা গিরগিটি উদ্ধারে জর্জিয়ার ফায়ারফাইটাররা",
+    "summary": "জর্জিয়ার ফায়ারফাইটাররা একটি গাছের উঁচু শাখায় আটকা পড়া একটি গিরগিটি বাঁচাতে গিয়েছে। প্রাণীটি নিজেকে ঝামেলায় ফেলেছিল এবং পেশাদার সাহায্য প্রয়োজন ছিল। সাধারণ জরুরি কল নয়, তবে দল সব সামলে নিয়েছে।"
+   }
+  },
+  {
+   "id": "v4orf7",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/crime/teen-gang-leader-who-flaunted-weapons-facebook-detained-cumilla-1580671",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/cumilla_arrested.png",
+   "published": "2026-10-22T19:00:00.000Z",
+   "added": "2026-10-22T20:00:03.263Z",
+   "origTitle": "'Teen gang leader' who flaunted weapons on Facebook detained in Cumilla",
+   "en": {
+    "title": "Teen gang leader arrested in Cumilla after flaunting weapons online",
+    "summary": "The Special Response Battalion detained a teenager named Asif in Cumilla's Lalmai area on October 22 after a video of him displaying weapons went viral. Police raided his home and recovered 16 machetes, knives and cleavers, two airguns, cartridges, a samurai sword, and tools used to make weapons locally."
+   },
+   "bn": {
+    "title": "কুমিল্লায় অস্ত্র প্রদর্শনকারী কিশোর নেতা গ্রেপ্তার",
+    "summary": "এসআরবি অক্টোবর ২২ তারিখে কুমিল্লার লালমাই এলাকায় আসিফ নামের একজন কিশোরকে গ্রেপ্তার করেছে যখন তার অস্ত্র প্রদর্শনের ভিডিও ভাইরাল হয়েছিল। পুলিশের অভিযানে ১৬টি চাপাতি, ছুরি এবং ছেদক যন্ত্র, দুটি এয়ারগান, গোলাবারুদ এবং একটি তরবারি উদ্ধার হয়েছে।"
+   }
+  },
+  {
+   "id": "1l5enk2",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f6f/live/0c562b60-ce2d-11f1-9f18-490cec60aa0f.jpg",
+   "published": "2026-10-22T15:56:36.000Z",
+   "added": "2026-10-22T20:00:03.263Z",
+   "origTitle": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+   "en": {
+    "title": "Newborn twins starve in Yemen's war as hunger crisis deepens",
+    "summary": "Seven-week-old twins Raghad and Raad were born during fighting in Yemen's civil war. Their family fled their village in the Kahboub mountains for Aden after bombs and drone strikes. At the hospital, both were severely malnourished, described as skin and bone, after parents could only afford water as baby formula prices soared."
+   },
+   "bn": {
+    "title": "যেমনে যুদ্ধের মধ্যে নবজাতক যমজ ক্ষুধার্ত থেকে যাচ্ছে",
+    "summary": "সাত সপ্তাহ বয়সী যমজ রাঘাদ এবং রাদ যেমনের গৃহযুদ্ধের সময় জন্মেছিল। তাদের পরিবার কাহবুব পর্বতের একটি গ্রাম থেকে বোমা এবং ড্রোন আক্রমণের কারণে আদেনে পালিয়ে এসেছিল। হাসপাতালে পৌঁছে দেখা গেল উভয়ই গুরুতর অপুষ্টিতে ভুগছে। শিশু দুধের দাম বেড়ে যাওয়ায় বাবা তাদের শুধু পানি দিতে পেরেছিলেন।"
+   }
+  },
+  {
+   "id": "1e8bi2u",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+   "published": "2026-10-22T19:07:09.000Z",
+   "added": "2026-10-22T20:00:03.263Z",
+   "origTitle": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "en": {
+    "title": "1Password lets AI agents log in without ever seeing your password",
+    "summary": "Password manager 1Password launched a new tool for AI agents to access your accounts safely. When an agent tries to log in, a digital key verifies its identity, and you get an alert to confirm. 1Password then enters your credentials on the agent's behalf, so it never sees your actual password."
+   },
+   "bn": {
+    "title": "১Password এআই এজেন্টকে পাসওয়ার্ড না দেখিয়ে লগইন করতে দিচ্ছে",
+    "summary": "১Password নতুন একটি টুল চালু করেছে যেখানে এআই এজেন্ট আপনার অ্যাকাউন্টে সেফে প্রবেশ করতে পারে। এজেন্ট লগইন করার চেষ্টা করলে একটি ডিজিটাল কী তার পরিচয় যাচাই করে। তখন আপনি একটি সতর্কতা পান এবং অনুমোদন দিতে পারেন। ১Password তারপর আপনার পাসওয়ার্ড এজেন্টের হয়ে ভরিয়ে দেয়।"
+   }
+  },
+  {
+   "id": "1m5x0bl",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cr62yee4n4pno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7cad/live/a88c61a0-cdd0-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-22T15:54:14.000Z",
+   "added": "2026-10-22T20:00:03.263Z",
+   "origTitle": "সৌদি আরবে মৃত্যুদণ্ড হওয়া দুই বাংলাদেশির 'অপরাধের' কথা আগে জানলেও কেন পদক্ষেপ নেয়নি ঢাকা?",
+   "en": {
+    "title": "Two Bangladeshis executed in Saudi Arabia; Dhaka knew charges but not sentence",
+    "summary": "Saudi authorities informed Bangladesh's consulate in Jeddah about cyber crime and adultery charges against two Bangladeshi nationals two weeks before their execution. However, the consulate did not learn the sentence was death until after it was carried out. The foreign ministry received the consulate's report on October 18."
+   },
+   "bn": {
+    "title": "সৌদি আরবে মৃত্যুদণ্ড; ঢাকা অভিযোগ জানত কিন্তু শাস্তি নয়",
+    "summary": "দুই বাংলাদেশি নাগরিকের বিরুদ্ধে সাইবার অপরাধ এবং জেনার অভিযোগ সৌদি কর্তৃপক্ষ জেদ্দার বাংলাদেশ কনস্যুলেটকে সেপ্টেম্বরের ৩০ তারিখে জানিয়েছিল। কিন্তু তাদের শাস্তি মৃত্যুদণ্ড হবে এটি কনস্যুলেট বুঝতে পারেনি। পররাষ্ট্র মন্ত্রণালয় অক্টোবর ১৮ তারিখে এই চিঠি পেয়েছে।"
+   }
+  },
+  {
+   "id": "1jtgg3b",
+   "section": "news",
+   "cat": "campus",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/rajshahi/976162/%E0%A6%8F%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%93-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A6%A8%E0%A6%BE",
+   "image": null,
+   "published": "2026-10-22T19:58:10.000Z",
+   "added": "2026-10-22T20:00:03.263Z",
+   "origTitle": "এয়ার অ্যাম্বুলেন্সে ঢাকায় নিয়েও বাঁচানো গেলো না রাবির সেই শিক্ষার্থীকে",
+   "en": {
+    "title": "RABU student dies after air ambulance rush to Dhaka",
+    "summary": "Chessy Tripura, a fourth-year microbiology student at Rajshahi University, died Thursday night at the National Institute of Neurosciences and Hospital in Dhaka. She was airlifted after a road accident but could not be saved. The university proctor announced her death that evening."
+   },
+   "bn": {
+    "title": "সড়ক দুর্ঘটনায় আহত রাবির শিক্ষার্থী ঢাকায় মারা গেছেন",
+    "summary": "রাজশাহী বিশ্ববিদ্যালয়ের চতুর্থ বর্ষের মাইক্রোবায়োলজি শিক্ষার্থী চেসি ত্রিপুরা সড়ক দুর্ঘটনায় আহত হয়েছিলেন। তাকে এয়ার অ্যাম্বুলেন্সে ঢাকায় ন্যাশনাল ইনস্টিটিউট অফ নিউরোসায়েন্সেসে নিয়ে যাওয়া হয়। বৃহস্পতিবার রাতে সেখানে তার মৃত্যু হয়।"
+   }
+  },
   {
    "id": "w7fj5b",
    "section": "hasi",
@@ -3146,292 +3366,6 @@
    "bn": {
     "title": "রোনালদো নিষেধাজ্ঞা এবং জরিমানায় পড়লেন",
     "summary": "ক্রিস্টিয়ানো রোনালদোকে ৩০ দিনের নিষেধাজ্ঞা এবং ২৫৫ ইউরো জরিমানা দিল পর্তুগাল ফুটবল ফেডারেশন। ৪১ বছর বয়সী তারকা উয়েফা নেশনস লিগের সময় জাতীয় দল ছেড়ে চলে গিয়েছিলেন। শৃঙ্খলা কমিটি নিয়মের লঙ্ঘন ধরেছে।"
-   }
-  },
-  {
-   "id": "c846yt",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "জাগো নিউজ",
-   "srcLang": "bn",
-   "url": "https://www.jagonews24.com/international/news/1170007",
-   "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/trump-zelensky-23-mvfemnun8ifar8v-20261019212756.jpg",
-   "published": "2026-10-19T15:27:56.000Z",
-   "added": "2026-10-19T15:32:36.486Z",
-   "origTitle": "জেলেনস্কি রাশিয়ার সঙ্গে যুদ্ধ থামাতে চান না, কখনোই চাননি: ট্রাম্প",
-   "en": {
-    "title": "Trump: Zelenskyy doesn't want to end Russia war",
-    "summary": "Former US President Trump posted on social media that Ukrainian President Zelenskyy has no interest in ending the war with Russia and perhaps never did. Trump made this claim without providing supporting evidence or context for his statement."
-   },
-   "bn": {
-    "title": "ট্রাম্প: জেলেনস্কি রাশিয়ার সাথে যুদ্ধ শেষ করতে চান না",
-    "summary": "সাবেক মার্কিন রাষ্ট্রপতি ট্রাম্প পোস্ট করেছেন যে ইউক্রেনের প্রেসিডেন্ট জেলেনস্কির রাশিয়ার সাথে যুদ্ধ শেষ করার কোনো ইচ্ছা নেই এবং সম্ভবত কখনোই ছিল না। ট্রাম্প কোনো প্রমাণ বা বিবরণ ছাড়াই এই দাবি করেছেন।"
-   }
-  },
-  {
-   "id": "e6d0fl",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/videos/i-take-silly-very-seriously-a-kinetic-sculptors-credo-of-creation",
-   "image": "https://images.aeonmedia.co/images/93a223b5-fad2-48ab-b203-aad45eeb404d/nemo-gould-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-19T10:01:00.000Z",
-   "added": "2026-10-19T15:32:36.486Z",
-   "origTitle": "Portraits of another life: Nemo Gould",
-   "en": {
-    "title": "Artist Nemo Gould turns trash into kinetic sculptures",
-    "summary": "Kinetic sculptor Nemo Gould discovered as a kid that screws hold everything together—and once undone, pieces can become something new. That childhood obsession with taking things apart grew into his art: he rebuilds discarded objects into whirring machines. A documentary follows his creative process and shows why keeping childhood curiosity alive matters."
-   },
-   "bn": {
-    "title": "শিল্পী নেমো গুল্ড ফেলে দেওয়া জিনিস দিয়ে ভাস্কর্য বানান",
-    "summary": "শিল্পী নেমো গুল্ড ছোটবেলায় আবিষ্কার করেছিলেন সবকিছু স্ক্রু দিয়ে বাঁধা—খুলে দিলে নতুন কিছু বানানো যায়। সেই শখ এখন তার শিল্প: ফেলে দেওয়া জিনিস দিয়ে মেশিন বানায় যা নিজেই চলে। একটি ডকুমেন্টারি দেখায় কীভাবে ছোটবেলার কৌতূহল বড় শিল্পী বানায়।"
-   }
-  },
-  {
-   "id": "1kkjp6i",
-   "section": "news",
-   "cat": "khela",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/football/whllv3a8wi",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-19/v6v4gjwi/2026-10-13T201540Z1803571115UP1EMAD1KA2YSRTRMADP3SOCCER-CHAMPIONS-GS-BAR.JPG",
-   "published": "2026-10-19T15:16:08.000Z",
-   "added": "2026-10-19T15:32:36.486Z",
-   "origTitle": "প্যারিসে দাঙ্গার উত্তাপ, বিমান ওড়ার আগে বার্সেলোনার দুই বাধা",
-   "en": {
-    "title": "Barcelona faces delays before PSG clash amid Paris riots",
-    "summary": "Riots and looting erupted across France on Saturday, with over 2,400 arrests reported. Despite the unrest, France's Interior Minister Laurent Nunez confirmed the PSG-Barcelona Champions League match will go ahead Tuesday as scheduled at Parc des Princes. Barcelona faced two travel setbacks: dense fog delayed their plane from Paris airport, and bad weather had caused earlier disruption when returning from Seville."
-   },
-   "bn": {
-    "title": "প্যারিসে দাঙ্গার মধ্যে বার্সেলোনার দেরি, ম্যাচ হবে",
-    "summary": "শনিবার ফ্রান্সজুড়ে সহিংসতা ও লুটপাট শুরু হয়, গ্রেপ্তার ২ হাজার ৪০০ ছাড়িয়েছে। তবে ফ্রান্সের স্বরাষ্ট্রমন্ত্রী বলেছেন মঙ্গলবার পিএসজি-বার্সেলোনা ইউরোপা লিগ ম্যাচ হবে। বার্সেলোনা প্যারিসের শার্ল দ্য গল এয়ারপোর্টে ঘন কুয়াশায় আটকে প্রায় ৮০ মিনিট দেরিতে উড়াল দিয়েছে।"
-   }
-  },
-  {
-   "id": "5ezjxh",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/city/sdl01anehx",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-19/wnq3xpib/Dilip-Kumar-Agarwala.avif",
-   "published": "2026-10-19T14:35:27.000Z",
-   "added": "2026-10-19T15:32:36.486Z",
-   "origTitle": "DB arrests Diamond World MD Dilip Kumar Agarwala",
-   "en": {
-    "title": "Diamond World MD arrested in money laundering investigation",
-    "summary": "The Detective Branch of Dhaka Metropolitan Police arrested Dilip Kumar Agarwala, managing director of Diamond World, in Banani on Monday evening. He is being investigated in connection with a money laundering case at the Criminal Investigation Department. Agarwala, a former independent parliamentary candidate and Awami League central committee member, was previously arrested by RAB in September 2024 and released on bail in October."
-   },
-   "bn": {
-    "title": "ডায়মন্ড ওয়ার্ল্ড এমডি গ্রেপ্তার, মানি লন্ডারিং তদন্ত",
-    "summary": "ঢাকা মেট্রোপলিটন পুলিশের ডিটেকটিভ ব্রাঞ্চ সোমবার সন্ধ্যায় ডায়মন্ড ওয়ার্ল্ডের ম্যানেজিং ডিরেক্টর দিলীপ কুমার আগরওয়ালাকে বানানিতে গ্রেপ্তার করেছে। তাকে মানি লন্ডারিং মামলায় সিআইডিতে তদন্ত করা হচ্ছে। আগরওয়ালা আগে সেপ্টেম্বরে র‍্যাব গ্রেপ্তার করেছিল এবং অক্টোবরে জামিনে মুক্তি পেয়েছিল।"
-   }
-  },
-  {
-   "id": "1qm7vou",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/fbi-investigating-suspicious-substance-sent-to-congressional-offices/",
-   "image": "https://theonion.com/wp-content/uploads/2025/02/AmericanVoice_OG_FINAL.jpg",
-   "published": "2026-10-19T15:13:29.000Z",
-   "added": "2026-10-19T15:32:36.486Z",
-   "origTitle": "FBI Investigating Suspicious Substance Sent To Congressional Offices",
-   "en": {
-    "title": "The Onion: FBI on high alert for mysterious congressional powder",
-    "summary": "This is satire. The Onion's fake headline mocks news cycles around suspicious substances. The 'quotes' are parody opinions—one person worried it's a scare tactic, another blaming the Postal Service. Classic Onion format: absurd premise, deadpan response."
-   },
-   "bn": {
-    "title": "দি অনিয়ন: এফবিআই কংগ্রেসের রহস্যময় পাউডার খুঁজছে",
-    "summary": "এটা হাসির কাগজ 'দি অনিয়ন'-এর নিউজ পেরোডি। মানুষদের বানানো কোটেশন দিয়ে খবরের বেতুকা দিক নিয়ে মজা করছে—কেউ বলছে এটা বাতিল, কেউ পোস্টাল সার্ভিসের দোষ দিচ্ছে। সবই নকল এবং মজার।"
-   }
-  },
-  {
-   "id": "luimjy",
-   "section": "hasi",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/19/nz-Guinness-World-Records-rubiks-cube-robot/6671792423259/",
-   "image": "https://cdnph.upi.com/ph/st/th/6671792423259/2026/i/17924234569123/v1.5/Students-build-robot-to-solve-4x4x4-Rubiks-cube-in-98-seconds.jpg",
-   "published": "2026-10-19T15:24:43.000Z",
-   "added": "2026-10-19T15:32:36.486Z",
-   "origTitle": "Watch: Students build robot to solve 4x4x4 Rubik's cube in 9.8 seconds",
-   "en": {
-    "title": "New Zealand students build robot solving Rubik's cube in 9.8 seconds",
-    "summary": "Four engineering students from New Zealand built a robot that solved a 4x4x4 Rubik's cube in just 9.8 seconds—a record-breaking time. The kind of speed that makes the human brain hurt just thinking about it."
-   },
-   "bn": {
-    "title": "রোবট ৯.৮ সেকেন্ডে রুবিকস কিউব সমাধান করল",
-    "summary": "নিউজিল্যান্ডের চারজন ইঞ্জিনিয়ারিং ছাত্র একটি রোবট তৈরি করেছে যা ৪x৪x৪ রুবিকস কিউব মাত্র ৯.৮ সেকেন্ডে সমাধান করে। এত দ্রুত গতি যে মানুষের মাথা ঘুরে যায়।"
-   }
-  },
-  {
-   "id": "1s90mr9",
-   "section": "bhabna",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "Daily Nous",
-   "srcLang": "en",
-   "url": "https://dailynous.com/2026/10/19/new-philosophy-of-ai-initiatives/",
-   "image": "https://dailynous.com/wp-content/uploads/2026/10/Paolozzi-Eduardo-Perception-through-Impression-The-Conditional-Probability-Machine.png",
-   "published": "2026-10-19T11:00:00.000Z",
-   "added": "2026-10-19T15:32:36.486Z",
-   "origTitle": "New Philosophy of AI Initiatives",
-   "en": {
-    "title": "Top universities launch AI philosophy research groups",
-    "summary": "LSE and University of Toronto just got serious about the big questions AI raises. LSE's new $5.3 million Global Priorities Research Group will dig into what matters most as AI transforms society—including how we should treat artificial systems if they become conscious. Meanwhile, Toronto's Artificial Consciousness Initiative is researching whether AI can actually experience things and what we owe it ethically."
-   },
-   "bn": {
-    "title": "এআই নিয়ে দর্শন গবেষণায় বড় টাকা বিনিয়োগ",
-    "summary": "লন্ডনের স্কুল অফ ইকোনমিক্স এবং টরন্টো বিশ্ববিদ্যালয় এআই-এর বড় প্রশ্নগুলো নিয়ে গবেষণা শুরু করেছে। এলএসই ৫.৩ মিলিয়ন ডলার পেয়ে একটি নতুন গবেষণা দল বানিয়েছে যা খুঁজে বের করবে এআই আমাদের ভবিষ্যত কীভাবে বদলে দেবে এবং আমরা এআইর প্রতি কী দায়বদ্ধ। টরন্টো দেখাচ্ছে এআই কি সত্যিই কিছু অনুভব করতে পারে।"
-   }
-  },
-  {
-   "id": "1yn3ts5",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/videos/theres-nothing-inherently-good-in-the-natural-argues-bruno-latour",
-   "image": "https://images.aeonmedia.co/images/139bbf22-6495-44df-aaee-cc5418d39c57/a-vocabulary-for-the-future-nature-landscape-1.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-19T10:01:00.000Z",
-   "added": "2026-10-19T15:32:05.794Z",
-   "origTitle": "A vocabulary for the future: nature",
-   "en": {
-    "title": "Why nature isn't separate from human life—and why that matters",
-    "summary": "Philosopher Bruno Latour argues we wrongly think of nature and the human-made as opposites. In reality, they're deeply tangled together. This video series explores big ideas about how we understand the world—and shows why rethinking the word 'nature' helps us see reality more clearly."
-   },
-   "bn": {
-    "title": "প্রকৃতি আর মানুষের জীবন আসলে আলাদা নয়—কেন এটা গুরুত্বপূর্ণ",
-    "summary": "দার্শনিক ব্রুনো লাতুর যুক্তি দেন প্রকৃতি এবং মানুষের সৃষ্ট জিনিস আসলে বিপরীত নয়, বরং গভীরভাবে জড়িত। আমরা প্রকৃতি ও কৃত্রিম এর মধ্যে একটি কঠিন সীমানা টানি, কিন্তু সেটা আসলে নৈতিক রায় বেশি। এই ভিডিও সিরিজ বড় ধারণাগুলো অন্বেষণ করে কীভাবে আমরা বিশ্ব বুঝি সে সম্পর্কে।"
-   }
-  },
-  {
-   "id": "149v2ds",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e295/live/21cc3f90-cb97-11f1-93a7-b36f3083f4d3.jpg",
-   "published": "2026-10-19T14:09:54.000Z",
-   "added": "2026-10-19T15:32:05.794Z",
-   "origTitle": "Australian MP critically injured after being hit by car in apparent attack",
-   "en": {
-    "title": "Australian MP critically injured after being hit by car in apparent attack",
-    "summary": "Independent MP Helen Haines, 65, was hit by a car outside her constituency office in Wangaratta, Victoria, on Monday afternoon in what authorities believe may have been a deliberate attack. A 43-year-old man from nearby Tarrawingee was detained at the scene, and a knife was found in the car. Prime Minister Albanese noted rising political tensions in Australia."
-   },
-   "bn": {
-    "title": "অস্ট্রেলিয়ার এমপি গুরুতর আহত, গাড়ির আঘাত সম্ভব ইচ্ছাকৃত",
-    "summary": "স্বাধীন এমপি হেলেন হেইনস সোমবার বিকেলে তার অফিস বাইরে গাড়িতে আঘাতপ্রাপ্ত হয়েছেন। ৬৫ বছর বয়সী তিনি এখন গুরুতর অবস্থায় হাসপাতালে রয়েছেন। কর্তৃপক্ষ বিশ্বাস করে এটি ইচ্ছাকৃত হামলা। ৪৩ বছর বয়সী একজনকে গাড়ির ভিতর ছুরি পাওয়া অবস্থায় ধরা পড়েছে।"
-   }
-  },
-  {
-   "id": "1q9reul",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/19/how-has-the-cost-of-living-changed-in-france-italy-spain-and-portugal?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad49a07-1792317959.jpg?resize=1920%2C1440",
-   "published": "2026-10-19T15:19:04.000Z",
-   "added": "2026-10-19T15:32:05.794Z",
-   "origTitle": "How has the cost of living changed in France, Italy, Spain and Portugal?",
-   "en": {
-    "title": "Cost of living surges 59-78% in France, Italy, Spain, Portugal since 2000",
-    "summary": "Student protests that started in France over school overcrowding have grown into wider European demonstrations about rising costs and failing services. Prices for food, energy, transport and bills have risen 59-78 percent since 2000 across four countries. Spain saw the sharpest increase at 78 percent, followed by Portugal at 71 percent."
-   },
-   "bn": {
-    "title": "ফ্রান্স, ইতালি, স্পেন, পর্তুগালে জীবনযাত্রার খরচ বেড়েছে ৫৯-৭৮%",
-    "summary": "ফ্রান্সে স্কুল ভিড়ের বিরুদ্ধে ছাত্র প্রতিবাদ এখন সারা ইউরোপে জীবনযাত্রার খরচ নিয়ে বিক্ষোভে রূপান্তরিত হয়েছে। ২০০০ সালের পর খাদ্য, শক্তি, পরিবহন ও বিলে দাম ৫৯-৭৮ শতাংশ বেড়েছে। স্পেনে সবচেয়ে বেশি বৃদ্ধি পেয়েছে ৭৮ শতাংশ।"
-   }
-  },
-  {
-   "id": "4ch1k3",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
-   "published": "2026-10-19T12:56:14.000Z",
-   "added": "2026-10-19T15:32:05.794Z",
-   "origTitle": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-   "en": {
-    "title": "Apple bans hidden nudify apps that fake purpose to pass review",
-    "summary": "Apple updated its app guidelines to block apps that pretend to be regular apps during review, then reveal nudification features afterward—a tactic called bait-and-switch. The rule also covers any apps using AI to create offensive content. Apple will remove apps with undisclosed features not present in the reviewed version."
-   },
-   "bn": {
-    "title": "অ্যাপলের নিষেধাজ্ঞা: লুকানো নগ্নতা বিষয়ক অ্যাপের বিরুদ্ধে",
-    "summary": "অ্যাপল তার গাইডলাইন আপডেট করেছে এমন অ্যাপ নিষিদ্ধ করতে যা রিভিউ প্রক্রিয়ায় নিয়মিত অ্যাপ হিসেবে ছদ্মবেশ ধারণ করে। অনুমোদনের পর এরা নগ্নতা বিষয়ক ফিচার আবিষ্কার করায়। কোম্পানি এআই দিয়ে বিবৃত বিষয়বস্তু তৈরির অ্যাপও নিষেধ করেছে।"
-   }
-  },
-  {
-   "id": "15za10y",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-   "image": "https://i.guim.co.uk/img/media/eb787024a897682867056fc8aae201c7d3efbb92/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=ee1d55b879d72ff03f02e89388beac85",
-   "published": "2026-10-19T14:45:53.000Z",
-   "added": "2026-10-19T15:32:05.794Z",
-   "origTitle": "Drone attack near market kills 80 in Sudan",
-   "en": {
-    "title": "Drone strike kills 80 near Sudan market in transport hub attack",
-    "summary": "A drone struck a transport hub in al-Dibab, West Kordofan state, on Sunday evening, killing 80 people, mostly commuters. A witness said the drone attacked twice, ten minutes apart, at a gathering where people wait for rides home after market day. This is among the deadliest single strikes since Sudan's war began in April 2023."
-   },
-   "bn": {
-    "title": "সুদানে ড্রোন হামলায় ৮০ জন নিহত",
-    "summary": "সুদানের পশ্চিম কর্ডোফান রাজ্যের আল-দিবাব শহরে রবিবার সন্ধ্যায় ড্রোন হামলায় ৮০ জন মারা গেছেন। আক্রমণটি একটি পরিবহন কেন্দ্রে ঘটে যেখানে বাজার শেষে মানুষ বাড়ি ফেরার জন্য প্রতীক্ষা করছিল। সাক্ষীরা জানান ড্রোন দশ মিনিট ব্যবধানে দুইবার হামলা করেছে। এপ্রিল ২০২৩ সালে সুদানের যুদ্ধ শুরুর পর এটি সবচেয়ে মারাত্মক হামলাগুলোর মধ্যে একটি।"
-   }
-  },
-  {
-   "id": "1d33qd6",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/ckq6n86y946ro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1f9/live/c9924270-cbb9-11f1-a64c-550be9e3c66b.png",
-   "published": "2026-10-19T13:35:36.000Z",
-   "added": "2026-10-19T15:32:05.794Z",
-   "origTitle": "ইশরাক হোসেন স্বেচ্ছায় পদত্যাগ করেছেন নাকি প্রধানমন্ত্রীর নির্দেশে?",
-   "en": {
-    "title": "Deputy minister quits after armed drug raid video sparks backlash",
-    "summary": "Ishrak Hosen stepped down as Deputy Minister of Liberation War Affairs on Monday, saying it was voluntary, but reports claim the PM ordered him to resign. He posted a video of himself armed during a drug operation on Saturday, which sparked controversy online. At a press conference, he insisted he did nothing wrong but apologized if anyone was hurt by the raid."
-   },
-   "bn": {
-    "title": "অস্ত্র নিয়ে মাদকবিরোধী অভিযানের পর ইশরাক হোসেন পদত্যাগ",
-    "summary": "সোমবার মুক্তিযুদ্ধ বিষয়ক মন্ত্রণালয়ের প্রতিমন্ত্রী ইশরাক হোসেন পদত্যাগ করেছেন। তিনি বলেছেন এটা তার নিজের সিদ্ধান্ত, কিন্তু মিডিয়া খবর দিয়েছে প্রধানমন্ত্রী তাকে পদ ছাড়তে নির্দেশ দিয়েছেন। শনিবার অস্ত্র হাতে মাদকব্যবসায়ীদের ধাওয়া করার ভিডিও পোস্ট করায় সোশ্যাল মিডিয়ায় ব্যাপক সমালোচনা হয়েছিল।"
    }
   }
  ]

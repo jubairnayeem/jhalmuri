@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-22T15:10:10.062Z",
+ "updatedAt": "2026-10-22T20:00:43.158Z",
  "burning": [
   {
-   "id": "c84tyb",
+   "id": "1m5x0bl",
    "heat": 5,
    "why": {
-    "en": "PHP flaw knocked millions of websites offline globally, massive cybersecurity crisis.",
-    "bn": "PHP-এর গুরুতর ত্রুটিতে বিশ্বজুড়ে লক্ষ লক্ষ ওয়েবসাইট অফলাইন হয়েছে।"
+    "en": "Two Bangladeshis executed in Saudi Arabia; major diplomatic and human rights story across multiple outlets.",
+    "bn": "সৌদি আরবে দুই বাংলাদেশি মৃত্যুদণ্ড; কূটনৈতিক এবং মানবাধিকার ইস্যু নিয়ে একাধিক আউটলেট কভার করছে।"
    },
    "rank": 1
   },
   {
-   "id": "17915vd",
+   "id": "1p6hwai",
    "heat": 5,
    "why": {
-    "en": "England's Brook smashed fastest ODI double century, breaking Shubman's 22-day-old record.",
-    "bn": "ইংল্যান্ডের ব্রুক দ্রুততম ওডিআই ডাবল সেঞ্চুরি করে শুভমনের রেকর্ড ভেঙে ফেলেছেন।"
+    "en": "Critical PHP bug disabled millions of websites globally; major tech story covered by multiple news sources.",
+    "bn": "বিশ্বজুড়ে লাখ লাখ ওয়েবসাইট বন্ধ করেছে গুরুতর PHP বাগ; একাধিক মিডিয়া কভার করেছে।"
    },
    "rank": 2
   },
   {
-   "id": "15t96ev",
+   "id": "psssjc",
    "heat": 4,
    "why": {
-    "en": "Sajek blockade escalates with gunfire and clashing accounts from military and opposition groups.",
-    "bn": "সাজেকে নতুন বন্ধন, গোলাগোলি এবং সেনাবাহিনী-বিরোধী গোষ্ঠীর মধ্যে দ্বন্দ্ব।"
+    "en": "Fresh blockade on Sajek road with conflicting accounts from military and activist groups; ongoing domestic crisis.",
+    "bn": "সাজেক রাস্তা বন্ধ নিয়ে সামরিক বাহিনী এবং গোষ্ঠীর মধ্যে বিরোধপূর্ণ বিবৃতি; চলমান সংকট।"
    },
    "rank": 3
   },
   {
-   "id": "1bjdyyp",
+   "id": "1l5enk2",
    "heat": 4,
    "why": {
-    "en": "Two Bangladeshis executed in Saudi Arabia; families blame diplomatic mission for neglect.",
-    "bn": "সৌদি আরবে দুই বাংলাদেশি মৃত্যুদণ্ড পান, পরিবার কূটনৈতিক মিশনকে দায়ী করছে।"
+    "en": "Newborn twins starving in Yemen's war-torn hunger crisis; major humanitarian story gaining international attention.",
+    "bn": "ইয়েমেনের যুদ্ধবিধ্বস্ত ক্ষুধার্ত পরিস্থিতিতে নবজাতক যমজ; আন্তর্জাতিক মানবিক সংকট।"
    },
    "rank": 4
   },
   {
-   "id": "1d33rro",
+   "id": "135rekb",
    "heat": 4,
    "why": {
-    "en": "Bangladesh knocked out of tri-series after Afghanistan loss; cricket campaign disappoints.",
-    "bn": "আফগানিস্তানের কাছে পরাজয়ে ট্রাই-সিরিজ থেকে বাংলাদেশ বাদ পড়েছে।"
+    "en": "Sri Lanka chases England's massive total in cricket; regional sports rivalry and thrilling match engagement.",
+    "bn": "ক্রিকেটে ইংল্যান্ডের বিশাল লক্ষ্য শ্রীলংকা তাড়া করছে; আঞ্চলিক খেলা এবং উত্তেজনাপূর্ণ ম্যাচ।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
+   "id": "1m5x0bl",
+   "tag": "#SaudiExecutions",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Bangladeshis executed in Saudi Arabia",
+    "text": "Two Bangladeshi migrant workers were executed in Saudi Arabia. The Dhaka government knew the charges but was not informed of the death sentence beforehand."
+   },
+   "bn": {
+    "title": "সৌদিতে বাংলাদেশি মৃত্যুদণ্ড",
+    "text": "সৌদি আরবে দুই বাংলাদেশি অভিবাসী শ্রমিক মৃত্যুদণ্ড পেয়েছেন। ঢাকা সরকার অভিযোগ জানতো কিন্তু দণ্ডের কথা আগে থেকে জানায়নি।"
+   }
+  },
+  {
+   "id": "1p6hwai",
+   "tag": "#PHPCrisis",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Critical PHP bug crashes the internet",
+    "text": "A severe PHP flaw knocked millions of websites offline worldwide. The bug has triggered massive global disruption and millions of hacking attempts."
+   },
+   "bn": {
+    "title": "PHP বাগে ইন্টারনেট স্থবির",
+    "text": "একটি গুরুতর PHP ত্রুটি বিশ্বজুড়ে লাখ লাখ ওয়েবসাইট বন্ধ করেছে। লক্ষ লক্ষ হ্যাকিং চেষ্টা বেড়েছে।"
+   }
+  },
+  {
    "id": "17915vd",
-   "tag": "#ক্রিকেট",
+   "tag": "#CricketRecord",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
+   "heat": 4,
    "en": {
-    "title": "Brook smashes cricket record",
-    "text": "England's Joes Brook hit the fastest ODI double century in just 22 days, breaking Shubman Gill's previous record. A devastating batting performance."
+    "title": "England's Brook smashes fastest ODI century",
+    "text": "England's batter smashed the fastest ODI double century in cricket history, delivering a stunning performance."
    },
    "bn": {
-    "title": "ব্রুক রেকর্ড ভাঙলেন",
-    "text": "ইংল্যান্ডের জো ব্রুক মাত্র ২২ দিনে দ্রুততম ওডিআই ডাবল সেঞ্চুরি করে শুভমনের আগের রেকর্ড ভেঙে দিয়েছেন।"
+    "title": "ব্রুকের রেকর্ড দ্বিশত",
+    "text": "ইংল্যান্ডের ব্যাটার ওডিআইয়ে দ্রুততম দ্বিশত সেঞ্চুরি করেছেন, চমৎকার পারফরম্যান্স দেখিয়েছেন।"
    }
   },
   {
-   "id": "c84tyb",
-   "tag": "#PHP সংকট",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Global websites down from PHP flaw",
-    "text": "A critical PHP vulnerability has disabled millions of websites worldwide. Bangladesh Bank also went offline due to the cyberattack scare."
-   },
-   "bn": {
-    "title": "PHP ত্রুটিতে বিশ্ব্যাপী ওয়েবসাইট ডাউন",
-    "text": "PHP-এর গুরুতর ত্রুটিতে বিশ্বজুড়ে লক্ষ লক্ষ ওয়েবসাইট অফলাইন হয়েছে। বাংলাদেশ ব্যাংকও সাইবার আক্রমণের ভয়ে অফলাইনে চলে গেছে।"
-   }
-  },
-  {
-   "id": "16y66wj",
-   "tag": "#বিমান ঝামেলা",
+   "id": "1e8bi2u",
+   "tag": "#AILoginTech",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Dhaka flights face major disruptions",
-    "text": "Over 134 flights from Dhaka were cancelled or delayed, affecting more than 20,000 passengers amid ongoing airline disruptions."
+    "title": "AI agents log in without seeing passwords",
+    "text": "1Password now lets AI agents access accounts without ever viewing your password, shifting how password security works."
    },
    "bn": {
-    "title": "ঢাকা থেকে ১৩৪ ফ্লাইট বাতিল",
-    "text": "ঢাকা থেকে ১৩৪টি ফ্লাইট বাতিল বা স্থগিত করা হয়েছে, যাতে ২০ হাজার ২৫৪ জন যাত্রী ক্ষতিগ্রস্ত হয়েছেন।"
+    "title": "এআই এজেন্ট পাসওয়ার্ড ছাড়া লগইন",
+    "text": "১পাসওয়ার্ড এআই এজেন্টদের পাসওয়ার্ড দেখানো ছাড়াই অ্যাকাউন্ট অ্যাক্সেস দিতে দেয়, নতুন নিরাপত্তা যুগ।"
    }
   }
  ],
