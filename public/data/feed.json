@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-10-21T23:14:36.813Z",
+ "updatedAt": "2026-10-22T04:32:38.182Z",
  "items": [
+  {
+   "id": "yek7sx",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwalIyNHRXb2VjWHVxZVl2cHZ6c1dmT2NwTWtCZmxOUFg2M3JMZVZqZjU0OUlDNlM2Qll1cjNOeGVlVS1VVXRyNlRLQXgyUENXaHNGd1V3Ml96QjZNUnZ1VXdZalVxT1E?oc=5",
+   "image": null,
+   "published": "2026-10-21T15:13:00.000Z",
+   "added": "2026-10-22T04:32:38.181Z",
+   "origTitle": "ফের সড়ক অবরোধ ডাকার পর সাজেক ভ্রমণ বন্ধ করল প্রশাসন",
+   "en": {
+    "title": "Administration halts Sajek travel after renewed road blockade call",
+    "summary": "The administration has stopped travel to Sajek following a fresh call for a road blockade in the area. No further details were provided in the report."
+   },
+   "bn": {
+    "title": "সড়ক অবরোধের নতুন ডাকের পর প্রশাসন সাজেক ভ্রমণ বন্ধ করেছে",
+    "summary": "সাজেক এলাকায় সড়ক অবরোধের নতুন আহ্বানের পরে প্রশাসন এখানে ভ্রমণ বন্ধ করে দিয়েছে। প্রতিবেদনে আর বিস্তারিত তথ্য দেওয়া হয়নি।"
+   }
+  },
+  {
+   "id": "nxevfp",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/onnoalo/treatise/936o9w1377",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/e0kagh3q/WhatsApp-Image-2026-10-21-at-10.09.09-PM.jpeg",
+   "published": "2026-10-22T04:04:00.000Z",
+   "added": "2026-10-22T04:32:38.181Z",
+   "origTitle": "কবি জীবনানন্দের গদ্যভাষা",
+   "en": {
+    "title": "Jibananda Das's prose style deserves serious literary attention",
+    "summary": "A 2006 essay on poet Jibananda Das (1899–1954) explores his distinctive prose writing, which remains less celebrated than his poetry. Das wrote essays, introductions, and critiques—around 30 literary works in total. His essay collections like 'Kabitar Katha' show original thinking and complex sentence structures that set him apart from his contemporaries."
+   },
+   "bn": {
+    "title": "কবি জীবনানন্দ দাশের গদ্যভাষা সাহিত্যের মনোযোগের যোগ্য",
+    "summary": "২০০৬ সালের একটি প্রবন্ধ কবি জীবনানন্দ দাশের (১৮৯৯-১৯৫৪) গদ্য লেখার বৈশিষ্ট্য তুলে ধরে, যা তার কবিতার মতো বিখ্যাত নয়। দাশ প্রবন্ধ, গ্রন্থভূমিকা এবং সমালোচনা লিখেছেন—মোট ৩০টি সাহিত্য রচনা। তার 'কবিতার কথা' সংকলন এবং অন্যান্য কাজ মৌলিক চিন্তাভাবনা এবং অনন্য বাক্যগঠনের প্রমাণ।"
+   }
+  },
+  {
+   "id": "1d33rro",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/sports/cricket/6yxjvc5vei",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-22/hwz6y6l7/Bangladesh-Afghanistan-1.avif",
+   "published": "2026-10-22T04:14:20.000Z",
+   "added": "2026-10-22T04:32:38.181Z",
+   "origTitle": "Bangladesh crash out of tri-series after defeat to Afghanistan",
+   "en": {
+    "title": "Bangladesh knocked out of tri-series after Afghanistan loss",
+    "summary": "Bangladesh's batting collapsed again as they lost to Afghanistan by seven wickets at Sharjah, scoring just 160 runs. Parvez Hossain Emon made 70 but couldn't save the team. Legspinner Rashid Khan took 4-31 to dismantle Bangladesh's middle order. Afghanistan now faces Zimbabwe in the final on Friday."
+   },
+   "bn": {
+    "title": "আফগানিস্তানের কাছে হার, ত্রিদেশীয় সিরিজ থেকে বাদ বাংলাদেশ",
+    "summary": "শারজায় বাংলাদেশ মাত্র ১৬০ রান করে আফগানিস্তানের কাছে সাত উইকেটে হেরেছে। পারভেজ হোসেন এমন ৭০ রান করলেও দলকে বাঁচাতে পারেনি। রাশিদ খান ৪-৩১ নিয়ে বাংলাদেশের মধ্যম ক্রম ভেঙে দিয়েছেন। আফগানিস্তান এখন শুক্রবার জিম্বাবোয়ের বিপক্ষে ফাইনালে খেলবে।"
+   }
+  },
+  {
+   "id": "1a60p1y",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://www.jagonews24.com/country/news/1170770",
+   "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/nator-20261022102717.jpg",
+   "published": "2026-10-22T04:27:17.000Z",
+   "added": "2026-10-22T04:32:23.871Z",
+   "origTitle": "এক ঘণ্টায় শিয়ালের কামড়ে আহত ১১, এলাকায় প্রশাসনের মাইকিং",
+   "en": {
+    "title": "Eleven injured in jackal attacks within one hour",
+    "summary": "Eleven people were bitten and injured by jackals in Bagatipara, Natore in the span of just one hour on Wednesday evening. The attacks occurred across different areas of the upazila. Local administration announced alerts through microphones to warn residents. The sudden spike in wildlife attacks has caused concern in the area."
+   },
+   "bn": {
+    "title": "এক ঘণ্টায় শিয়ালের কামড়ে ১১ জন আহত",
+    "summary": "নাটোরের বাগাতিপাড়ায় বুধবার সন্ধ্যায় মাত্র এক ঘণ্টায় শিয়ালের কামড়ে ১১ জন আহত হয়েছে। আক্রমণগুলি উপজেলার বিভিন্ন এলাকায় ঘটেছে। স্থানীয় প্রশাসন মাইক ঘোষণা দিয়ে বাসিন্দাদের সতর্ক করেছে। বন্যপ্রাণীর আক্রমণের এই আকস্মিক বৃদ্ধি এলাকায় উদ্বেগ সৃষ্টি করেছে।"
+   }
+  },
+  {
+   "id": "19ckh9u",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+   "published": "2026-10-22T00:17:54.000Z",
+   "added": "2026-10-22T04:32:23.871Z",
+   "origTitle": "Tesla says it will start selling Cybercabs by end of year",
+   "en": {
+    "title": "Tesla plans to sell Cybercabs to customers by year-end",
+    "summary": "Tesla said Wednesday it will sell its autonomous Cybercab, a steering-wheel-free two-seater, to customers before December despite federal safety investigations. Currently, all Cybercabs made go into Tesla's own robotaxi fleet. VP of engineering Lars Moravy said Tesla will \"mainly deliver\" the vehicles to customers as its fleet grows. The company will scale slowly while learning about autonomous vehicle ownership."
+   },
+   "bn": {
+    "title": "টেসলা সাইবারক্যাব বছর শেষে বিক্রি শুরু করবে",
+    "summary": "টেসলা বলেছে এটি স্বায়ত্তশাসিত সাইবারক্যাব বছর শেষের আগে গ্রাহকদের কাছে বিক্রি করবে, যদিও ফেডারেল নিরাপত্তা তদন্ত চলছে। এর স্টিয়ারিং হুইল নেই এবং এটি দুই আসনের গাড়ি। বর্তমানে সব সাইবারক্যাব টেসলার নিজস্ব রোবোট্যাক্সি ফ্লিটে যায়। ইঞ্জিনিয়ারিং ভিপি বলেছেন ফ্লিট বাড়ার সাথে সাথে গ্রাহকদের বিতরণ শুরু হবে।"
+   }
+  },
+  {
+   "id": "6u198g",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26281666762924-1792639836.jpg?resize=1920%2C1440",
+   "published": "2026-10-22T03:19:38.000Z",
+   "added": "2026-10-22T04:32:23.871Z",
+   "origTitle": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+   "en": {
+    "title": "Trump administration seeks court approval for Big Bend wall",
+    "summary": "The Trump administration asked the Supreme Court to lift a federal judge's injunction blocking the Big Bend border wall project in West Texas. The $1.7 billion project includes barriers, patrol roads, and detection technology along the 805km border stretch. Environmental and historical groups are suing to block it. A lower court judge ruled in October that the government's waivers of environmental laws were unlawful."
+   },
+   "bn": {
+    "title": "ট্রাম্প প্রশাসন বিগ বেন্ড দেয়াল নির্মাণে আদেশ চায়",
+    "summary": "ট্রাম্প প্রশাসন সুপ্রিম কোর্টের কাছে বিগ বেন্ড সীমান্ত দেয়াল প্রকল্প চালিয়ে যাওয়ার অনুমতি চেয়েছে। এই ১.৭ বিলিয়ন ডলারের প্রকল্পে বাধা, টহল রাস্তা এবং সনাক্তকরণ প্রযুক্তি থাকবে। পরিবেশবাদী এবং ঐতিহাসিক সংস্থাগুলি এটি আটকাতে মামলা করেছে। নিম্ন আদালত অক্টোবরে সরকারের আইন বাতিলকরণ অবৈধ বলে রায় দিয়েছে।"
+   }
+  },
+  {
+   "id": "1ej6jfg",
+   "section": "news",
+   "cat": "tech",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+   "published": "2026-10-21T19:54:57.000Z",
+   "added": "2026-10-22T04:32:23.871Z",
+   "origTitle": "Websites taken down worldwide as critical cyber-security update issued",
+   "en": {
+    "title": "Critical PHP flaw forces major websites offline worldwide",
+    "summary": "Two severe security flaws in PHP programming language prompted governments and agencies globally to take websites offline as a precaution. The Finnish government, Edinburgh council, and the BBC went down, as did parts of Wikipedia. The US NSA and Japan's PM urged organisations to patch immediately. Cyber-security firm Wiz called them the \"most severe vulnerabilities ever discovered\" by AI."
+   },
+   "bn": {
+    "title": "পিএইচপি নিরাপত্তা সমস্যায় বড় ওয়েবসাইট বন্ধ",
+    "summary": "পিএইচপি প্রোগ্রামিং ল্যাঙ্গুয়েজের দুটি গুরুতর নিরাপত্তা ত্রুটিতে বিশ্বব্যাপী সরকার এবং সংস্থা ওয়েবসাইট বন্ধ করেছে। ফিনল্যান্ডের সরকার, এডিনবার্গ কাউন্সিল এবং বিবিসি অফলাইন হয়েছে। উইকিপিডিয়াও প্রভাবিত হয়েছে। আমেরিকার এনএসএ এবং জাপানের প্রধানমন্ত্রী তাৎক্ষণিক প্যাচ করার আহ্বান জানিয়েছেন।"
+   }
+  },
+  {
+   "id": "3a87k8",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/chitagong/975935/%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AA%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%93%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6",
+   "image": null,
+   "published": "2026-10-22T04:30:00.000Z",
+   "added": "2026-10-22T04:32:23.871Z",
+   "origTitle": "তিন চাকার যানের দাপটে বাড়ছে দুর্ঘটনা, হাইওয়ে পুলিশ বলছে ‘অ্যাকশনে যেতে পারছি না’",
+   "en": {
+    "title": "Three-wheeler traffic on highways causing crash surge",
+    "summary": "Three-wheeled vehicles are still operating illegally on Bangladesh's highways despite a 2012 ban, causing frequent road accidents and deaths. The problem is especially bad on routes like Dhaka-Chattogram and Chattogram-Cox's Bazar. Highway police say they cannot take action against the offenders. The continued violations are raising serious safety concerns."
+   },
+   "bn": {
+    "title": "মহাসড়কে তিন চাকার যানে দুর্ঘটনা বাড়ছে",
+    "summary": "২০১২ সালের নিষেধাজ্ঞা সত্ত্বেও তিন চাকার যানবাহন এখনও বাংলাদেশের মহাসড়কে চলাচল করছে এবং দুর্ঘটনা বাড়াচ্ছে। ঢাকা-চট্টগ্রাম এবং চট্টগ্রাম-কক্সবাজার রুটে সমস্যা বেশি। হাইওয়ে পুলিশ বলছে তারা ব্যবস্থা নিতে পারছে না। নিরাপত্তা নিয়ে উদ্বেগ ক্রমাগত বাড়ছে।"
+   }
+  },
+  {
+   "id": "1bjdyyp",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c9ly0z678vxvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0582/live/d64ef960-cdc4-11f1-ae0b-3f5d64e6a869.jpg",
+   "published": "2026-10-22T03:18:16.000Z",
+   "added": "2026-10-22T04:32:23.871Z",
+   "origTitle": "পত্রিকা: 'দুই বাংলাদেশির মৃত্যুদণ্ড: জেদ্দায় অবহেলা, ঢাকায় নেই জবাবদিহি'",
+   "en": {
+    "title": "Two Bangladeshis executed: diplomatic mission blamed for neglect",
+    "summary": "Two Bangladeshi nationals were executed in Saudi Arabia last week without meaningful intervention from the Bangladesh mission in Jeddah. Officials there knew which prison held the men but failed to provide legal support, leading to swift executions. Multiple Foreign Ministry sources confirmed the extreme inaction of diplomats. No accountability or inquiry has been announced against the negligent officials."
+   },
+   "bn": {
+    "title": "দুই বাংলাদেশির মৃত্যুদণ্ড: জেদ্দা মিশনের দায়িত্বহীনতা",
+    "summary": "গত সপ্তাহে সৌদি আরবে দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড হয় জেদ্দার বাংলাদেশ মিশনের কোনো অর্থবহ হস্তক্ষেপ ছাড়াই। অফিসাররা জানতেন তারা কোন কারাগারে আছে কিন্তু আইনি সহায়তা দিতে ব্যর্থ হয়। পররাষ্ট্র মন্ত্রণালয়ের সূত্ররা কর্মকর্তাদের চরম নিষ্ক্রিয়তা নিশ্চিত করেছে। দায়বদ্ধতার জন্য কোনো তদন্ত ঘোষণা করা হয়নি।"
+   }
+  },
+  {
+   "id": "1fcf90a",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/world/airbnb-bans-hosts-asking-guests-strip-beds-wash-dishes-1579956",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/pexels-shvetsa-11369070.jpg",
+   "published": "2026-10-22T04:20:00.000Z",
+   "added": "2026-10-22T04:32:23.871Z",
+   "origTitle": "Airbnb bans hosts from asking guests to strip beds, wash dishes",
+   "en": {
+    "title": "Airbnb stops hosts from making guests clean up",
+    "summary": "Airbnb is cracking down on hosts who demand guests strip beds, wash dishes, or do heavy cleaning before checkout. From November 20, hosts can only set seven standard house rules and make \"reasonable\" requests. Guests who pay cleaning fees won't have to do a cleaner's job. Hosts can't impose fines if rules are broken."
+   },
+   "bn": {
+    "title": "এয়ারবিএনবি গেস্টদের ঝামেলা পরিষ্কার করতে বলতে দেবে না",
+    "summary": "এয়ারবিএনবি হোস্টদের উপর নিয়ন্ত্রণ আনছে যারা গেস্টদের বেড আনস্ট্রিপ করতে বা থালা ধুতে বলে। নভেম্বর ২০ থেকে হোস্টরা শুধু সাতটি স্ট্যান্ডার্ড নিয়ম রাখতে পারবে এবং যুক্তিসঙ্গত অনুরোধ করতে পারবে। যারা ক্লিনিং ফি দেয় তাদের ক্লিনারের কাজ করতে হবে না। নিয়ম ভাঙলে হোস্টরা জরিমানা দিতে পারবে না।"
+   }
+  },
   {
    "id": "11gvylm",
    "section": "news",
@@ -2992,226 +3212,6 @@
    "bn": {
     "title": "দুর্গা পূজায় বাংলাদেশের সেলিব্রিটিরা মুহূর্ত শেয়ার করছেন",
     "summary": "বাংলাদেশের অভিনেত্রী এবং অভিনেতারা দুর্গা পূজা উদযাপন করছেন এবং সোশ্যাল মিডিয়ায় শেয়ার করছেন। বিদ্যা সিনহা সাহা মিম মহা ষষ্ঠীতে পরিবারের ছবি পোস্ট করেছেন, যখন পূজা চেরি বিভিন্ন মণ্ডপ ভিজিট করে নারীদের শক্তি তুলে ধরেছেন। মনোজ প্রমাণিক এবং অপু বিশ্বাস এ বছর ঢাকায় থাকবেন।"
-   }
-  },
-  {
-   "id": "388wim",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-   "published": "2026-10-18T20:37:40.000Z",
-   "added": "2026-10-19T01:08:28.686Z",
-   "origTitle": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-   "en": {
-    "title": "Anthropic commits 5% of shares to public benefit fund",
-    "summary": "AI company Anthropic announced it's creating a \"public benefit fund\" with 5% of its shares to support projects for societal good. The fund can grow by an additional 2% for every 50% increase in the company's value. Anthropic plans to use the money for donations to nonprofits and direct aid to specific groups. The company also committed $200 million to study AI's impact on jobs, and says bolder approaches may be needed as AI advances."
-   },
-   "bn": {
-    "title": "অ্যান্থ্রপিক ৫ শতাংশ শেয়ার 'পাবলিক বেনিফিট ফান্ডে' রাখছে",
-    "summary": "এআই কোম্পানি অ্যান্থ্রপিক তার ৫ শতাংশ শেয়ার দিয়ে সমাজের কল্যাণমূলক প্রকল্পে সহায়তার জন্য একটি 'পাবলিক বেনিফিট ফান্ড' তৈরি করছে। কোম্পানির মূল্য ৫০ শতাংশ বৃদ্ধি পেলে ফান্ড ২ শতাংশ বৃদ্ধি পেতে পারে। অ্যান্থ্রপিক এই অর্থ দাতব্য সংস্থা এবং নির্দিষ্ট জনগোষ্ঠীকে সাহায্যের জন্য ব্যবহার করবে। কোম্পানি এআই-এর কর্মসংস্থানে প্রভাব অধ্যয়নে ২০০ মিলিয়ন ডলার বিনিয়োগ করেছে।"
-   }
-  },
-  {
-   "id": "kbfmsn",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
-   "image": "https://i.guim.co.uk/img/media/822f3793fdecb75b242f6c60da7c821d6a1822ab/299_402_1407_1126/master/1407.jpg?width=140&quality=85&auto=format&fit=max&s=d0fb9e5475078fb88801ba38e12b9a28",
-   "published": "2026-10-18T07:00:53.000Z",
-   "added": "2026-10-19T01:08:28.686Z",
-   "origTitle": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
-   "en": {
-    "title": "Biography celebrates Sarah Forbes Bonetta, 'gifted' to Queen Victoria",
-    "summary": "A new biography tells the story of Sarah Forbes Bonetta, a Yorùbá woman from Nigeria who was presented to Queen Victoria as a \"diplomatic gift\" when she was seven. Born Àìná in 1843, she was captured after her town was attacked by King Ghezo of Dahomey's forces. Victoria paid for her education, approved her marriage, and became godmother to her daughter. Her descendant, British-Nigerian barrister Bayo Randle, says the book explores how her life shaped his existence."
-   },
-   "bn": {
-    "title": "রানী ভিক্টোরিয়াকে উপহার দেওয়া সারা ফোর্বেস বোনেটার জীবনী প্রকাশিত",
-    "summary": "নাইজেরিয়ার একজন ইয়োরুবা নারী সারা ফোর্বেস বোনেটার নতুন জীবনী বই প্রকাশিত হয়েছে যিনি সাত বছর বয়সে রানী ভিক্টোরিয়ার কাছে 'কূটনৈতিক উপহার' হিসেবে উপস্থাপিত হয়েছিলেন। ১৮৪৩ সালে আইনা নামে জন্মগ্রহণকারী তিনি দাহোমি রাজার বাহিনীর আক্রমণে বন্দী হয়েছিলেন। ভিক্টোরিয়া তার শিক্ষার খরচ দিয়েছেন এবং তার বড় মেয়ের গডমাদার ছিলেন। তার বংশধর ব্রিটিশ-নাইজেরিয়ান ব্যারিস্টার বায়ো র্যান্ডেল বলেন এই বইটি তার অস্তিত্বের গল্প বলে।"
-   }
-  },
-  {
-   "id": "yth58o",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2018-01-09T000000Z_498499034_RC1D134EE5B0_RTRMADP_3_GLOBAL-AIRLINES-1792365018.jpg?resize=1920%2C1440",
-   "published": "2026-10-18T23:58:05.000Z",
-   "added": "2026-10-19T01:08:28.686Z",
-   "origTitle": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-   "en": {
-    "title": "Austrian Airlines flight diverts to Bulgaria after bomb threat",
-    "summary": "An Airbus A320 flying from Tel Aviv to Vienna received a bomb threat and made an emergency landing in Sofia, Bulgaria on Sunday. The aircraft carried 51 passengers and 6 crew members, all of whom disembarked safely. A Bulgarian fighter jet escorted the plane to the airport. Security search of the aircraft was conducted, and authorities launched an investigation."
-   },
-   "bn": {
-    "title": "বোমা হুমকিতে অস্ট্রিয়ান বিমান বুলগেরিয়ায় জরুরি অবতরণ",
-    "summary": "তেল আভিভ থেকে ভিয়েনার দিকে যাওয়া একটি এয়ারবাস এ৩২০ রবিবার বোমা হুমকি পেয়ে বুলগেরিয়ার সোফিয়ায় জরুরি অবতরণ করেছে। বিমানে ৫১ জন যাত্রী এবং ৬ জন ক্রু ছিল, সবাই নিরাপদে অবতরণ করেছে। বুলগেরিয়ার যোদ্ধা বিমান বিমানটি বিমানবন্দরে এসকর্ট করেছে এবং নিরাপত্তা পরীক্ষা পরিচালনা করা হয়েছে।"
-   }
-  },
-  {
-   "id": "akrna7",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/26c3d1c0-cb47-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-18T22:22:51.000Z",
-   "added": "2026-10-19T01:08:28.686Z",
-   "origTitle": "'Very upsetting': Residents in shock after historic French town hall set alight",
-   "en": {
-    "title": "Historic Limoges town hall damaged in suspected arson during protests",
-    "summary": "A 19th-century town hall in Limoges, France was set on fire during Saturday's nationwide protests. Firefighters battled the blaze through the night as the clock tower spire collapsed. Residents expressed shock and anger at the destruction of the heritage building. One local told the BBC that damaging historic sites because of grievances with government is selfish."
-   },
-   "bn": {
-    "title": "লিমোজেসের ঐতিহাসিক টাউন হল আগুনে ক্ষতিগ্রস্ত",
-    "summary": "শনিবারের দেশব্যাপী প্রতিবাদের সময় লিমোজেসের একটি ১৯ শতকের টাউন হল আগুনে জ্বলে গেছে। ক্লক টাওয়ারের স্পায়ার ভেঙে পড়ার সময় দমকলকর্মীরা সারারাত আগুন নিয়ন্ত্রণ করছিলেন। স্থানীয় বাসিন্দারা এই ঐতিহাসিক ভবন ধ্বংসে অভিভূত এবং ক্ষুব্ধ। এক বাসিন্দা বিবিসিকে বলেন সরকারের প্রতি ক্ষোভে ঐতিহ্যবাহী ভবন ধ্বংস করা স্বার্থপর কাজ।"
-   }
-  },
-  {
-   "id": "1ftw5ov",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cr9dz0g7770lo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f66c/live/9cbb0810-caf4-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-18T14:14:04.000Z",
-   "added": "2026-10-19T01:08:28.686Z",
-   "origTitle": "সৌদি আরবে বাংলাদেশির মৃত্যুদণ্ড বিষয়ে জানিনা বলে দায়িত্ব এড়ানোর সুযোগ কতটা",
-   "en": {
-    "title": "Bangladesh questions Saudi envoy over execution of two nationals",
-    "summary": "Bangladesh summoned Saudi Arabia's ambassador to ask about the executions of two Bangladeshi nationals in Mecca. The Saudi Press Agency reported the men were executed after being arrested for misconduct at a mosque. Bangladesh's mission in Jeddah said Saudi authorities never informed them of the arrests or executions. Former diplomats debate whether the embassy's claim of not knowing is credible, given Bangladesh has major missions in Riyadh and Jeddah."
-   },
-   "bn": {
-    "title": "দুই বাংলাদেশির মৃত্যুদণ্ড নিয়ে সৌদি দূতকে ডেকেছে বাংলাদেশ",
-    "summary": "মক্কায় দুজন বাংলাদেশির মৃত্যুদণ্ডের বিষয়ে সৌদি আরবের রাষ্ট্রদূতকে ডেকেছে বাংলাদেশ। সৌদি প্রেস এজেন্সি জানিয়েছে তারা একটি মসজিদে অনৈতিক কাজে জড়িত থাকায় গ্রেপ্তার হয়েছিল এবং পরে মৃত্যুদণ্ড দেওয়া হয়েছে। বাংলাদেশের জেদ্দা কনসুলেট বলছে সৌদি কর্তৃপক্ষ আগাম কোনো তথ্য দেয়নি। বাংলাদেশের রিয়াদ ও জেদ্দায় বড় মিশন থাকার পরেও 'জানি না' বলে দায় এড়ানোর কথা বলছে সাবেক কূটনীতিবিদরা।"
-   }
-  },
-  {
-   "id": "1tvy0hd",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/macron-vows-action-against-rioters-after-france-protests-leave-trail-destruction-1577036",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/screenshot_2026-10-19_010427.png",
-   "published": "2026-10-18T19:00:00.000Z",
-   "added": "2026-10-19T01:08:28.686Z",
-   "origTitle": "Macron vows action against rioters after France protests leave trail of destruction",
-   "en": {
-    "title": "Macron vows accountability after France riots leave trail of destruction",
-    "summary": "French President Emmanuel Macron promised to hold rioters and looters accountable after nationwide protests over living costs and school conditions turned violent on Saturday. Police arrested at least 1,800 people as masked groups set fires and attacked public buildings in several cities. Macron blamed \"radical far-left\" groups and criminals, and said he would ban demonstrations when necessary to protect businesses and buildings. Authorities said around 550,000 people participated in demonstrations across France."
-   },
-   "bn": {
-    "title": "ফ্রান্সে দাঙ্গার পর ম্যাক্রো দায়িত্বশীলদের জবাবদিহির প্রতিশ্রুতি",
-    "summary": "জীবনযাত্রার খরচ এবং স্কুলের অবস্থার বিরুদ্ধে দেশব্যাপী প্রতিবাদ হিংসায় পরিণত হওয়ার পর ফ্রান্সের রাষ্ট্রপতি ইম্যানুয়েল ম্যাক্রো দাঙ্গাবাজ এবং লুণ্ঠনকারীদের জবাবদিহির প্রতিশ্রুতি দিয়েছেন। শনিবার মুখোশপরা গ্রুপগুলো অগ্নিসংযোগ করেছে এবং সরকারি ভবন আক্রমণ করেছে, পুলিশ কমপক্ষে ১,৮০০ জনকে গ্রেপ্তার করেছে। ম্যাক্রো বলেছেন তিনি প্রয়োজনে বিক্ষোভ নিষিদ্ধ করবেন ব্যবসা রক্ষার জন্য। ফ্রান্সজুড়ে প্রায় ৫,৫০,০০০ মানুষ বিক্ষোভে অংশ নিয়েছে বলে কর্তৃপক্ষ বলেছে।"
-   }
-  },
-  {
-   "id": "knr3pl",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "যুগান্তর",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pUFduLUd6OUpKTG4xSml5dWtiS1RnRF9qLTZXWE1xT1lFQlFzLVh0VkZoSlgwTUNDc0c3OUFmektvbG5GdF9ra0N0cFdta3FOMkt3aER5YV9qdw?oc=5",
-   "image": null,
-   "published": "2026-10-18T14:50:10.000Z",
-   "added": "2026-10-19T01:07:52.729Z",
-   "origTitle": "ইরানের সঙ্গে সীমান্ত বাণিজ্য বন্ধ করল পাকিস্তান, বড় সংকটের আভাস",
-   "en": {
-    "title": "Pakistan suspends border trade with Iran amid tensions",
-    "summary": "Pakistan has halted border trade with Iran, signaling a potential major crisis in bilateral relations. The move reflects escalating tensions between the two neighbours."
-   },
-   "bn": {
-    "title": "ইরানের সঙ্গে সীমান্ত বাণিজ্য বন্ধ করল পাকিস্তান",
-    "summary": "পাকিস্তান ইরানের সঙ্গে সীমান্ত বাণিজ্য বন্ধ করেছে, যা দ্বিপক্ষীয় সম্পর্কে বড় সংকটের ইঙ্গিত দিচ্ছে। এই পদক্ষেপ দুই প্রতিবেশী দেশের মধ্যে উত্তেজনা বৃদ্ধি প্রতিফলিত করে।"
-   }
-  },
-  {
-   "id": "nggkut",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/entertainment/dhallywood/uszyi5099n",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-18/cfg49fcn/84230849618560766165238046547241463662957328n.png",
-   "published": "2026-10-19T01:00:00.000Z",
-   "added": "2026-10-19T01:07:52.729Z",
-   "origTitle": "১৮৮টি চলচ্চিত্র থেকে বাছাই ১৭টি দেখবেন দর্শক",
-   "en": {
-    "title": "Liberation DocFest picks 17 films from 188 submissions",
-    "summary": "Dhaka will host the 13th Liberation DocFest Bangladesh from 29–31 October at the Liberation War Museum in Agargaon. Seventeen documentary films were selected from 188 global submissions by an 8-member preview committee. The festival theme is 'Presence in Absence,' featuring films across eight thematic categories including gender equality, resistance, and 1971 archives."
-   },
-   "bn": {
-    "title": "মুক্তিযুদ্ধ ডকফেস্টে ১৭টি চলচ্চিত্র নির্বাচিত",
-    "summary": "ঢাকায় ২৯-৩১ অক্টোবর আগারগাঁওয়ের মুক্তিযুদ্ধ জাদুঘরে লিবারেশন ডকফেস্ট বাংলাদেশের ১৩তম আসর অনুষ্ঠিত হবে। বিশ্বব্যাপী ১৮৮টি চলচ্চিত্র থেকে আটজন সদস্যের কমিটি ১৭টি বেছে নিয়েছে। উৎসবের থিম 'প্রেজেন্স ইন অ্যাবসেন্স', যা আট ধরনের বিষয়ে চলচ্চিত্র দেখাবে।"
-   }
-  },
-  {
-   "id": "9d5rs7",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad5540e4647-1792365582.jpg?resize=1920%2C1440",
-   "published": "2026-10-18T23:59:34.000Z",
-   "added": "2026-10-19T01:07:52.729Z",
-   "origTitle": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
-   "en": {
-    "title": "Iran says Netanyahu seeking more war before elections",
-    "summary": "Iran's Foreign Minister Abbas Araghchi said Israeli Prime Minister Benjamin Netanyahu is looking for more conflict before elections. The comment comes as tensions remain high in the region and fighting continues in Yemen."
-   },
-   "bn": {
-    "title": "নেতানিয়াহু নির্বাচনের আগে যুদ্ধ চায়: ইরান",
-    "summary": "ইরানের পররাষ্ট্র মন্ত্রী আব্বাস আরাগচি বলেছেন যে ইসরায়েলের প্রধানমন্ত্রী বেনজামিন নেতানিয়াহু নির্বাচনের আগে আরও সংঘর্ষ চাইছেন। অঞ্চলে উত্তেজনা চলমান থাকার মধ্যে ইয়েমেনে লড়াই তীব্র হয়েছে।"
-   }
-  },
-  {
-   "id": "12dnlzx",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/sport/football/975411/%E0%A6%8F%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A7%8B%E0%A6%A1%E0%A6%BC%E0%A6%BE-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%9C-%E0%A6%9C%E0%A7%9F",
-   "image": null,
-   "published": "2026-10-19T00:36:00.000Z",
-   "added": "2026-10-19T01:07:52.729Z",
-   "origTitle": "এমবাপ্পের জোড়া গোলে রিয়ালের বড় জয়",
-   "en": {
-    "title": "Mbappé hits two as Real Madrid thrash Sevilla 4-1",
-    "summary": "Kilian Mbappé scored twice to lead Real Madrid to a crushing 4-1 victory over Sevilla on Sunday, 18 October. Arda Güler and Éder Militão also scored in the dominant display. The win pushed Real Madrid up to third place in La Liga's table."
-   },
-   "bn": {
-    "title": "এমবাপ্পের দুই গোল, রিয়ালের ৪-১ জয়",
-    "summary": "কিলিয়ান এমবাপ্পে দুটি গোল করে রবিবার (১৮ অক্টোবর) রিয়াল মাদ্রিদকে সেভিয়ার বিরুদ্ধে ৪-১ জয় দিয়েছেন। আরদা গুলেরও একটি গোল করেছেন এবং ইয়ান ডিওমান্দ দূরপাল্লা থেকে একটি আঘাত করেছেন। এই জয়ে রিয়াল মাদ্রিদ লা লিগায় তৃতীয় স্থানে উঠে এসেছে।"
    }
   }
  ]

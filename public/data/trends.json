@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-21T23:14:56.637Z",
+ "updatedAt": "2026-10-22T04:32:55.665Z",
  "burning": [
-  {
-   "id": "8r8f9a",
-   "heat": 5,
-   "why": {
-    "en": "Real Madrid's 4-1 demolition of Leipzig dominates Champions League trending with 10k+ searches on 'real madrid' alone.",
-    "bn": "রিয়েল মাড্রিডের লাইপজিগের বিপক্ষে ৪-১ জয় চ্যাম্পিয়ন্স লিগে ট্রেন্ডিং-এর শীর্ষে, রিয়েল মাড্রিড সার্চ ১০ হাজারের উপরে।"
-   },
-   "rank": 1
-  },
   {
    "id": "125ezim",
    "heat": 5,
    "why": {
-    "en": "Two Bangladeshi migrant workers executed in Saudi Arabia covered by multiple outlets, draws international concern.",
-    "bn": "সৌদি আরবে দুই বাংলাদেশী অভিবাসী কর্মীর মৃত্যুদণ্ড একাধিক মাধ্যম কভার করেছে, আন্তর্জাতিক উদ্বেগ সৃষ্টি করেছে।"
+    "en": "Two Bangladeshi migrant workers executed in Saudi Arabia—multiple outlets covering with international concern.",
+    "bn": "সৌদি আরবিয়ায় দুই বাংলাদেশী কর্মীর মৃত্যুদণ্ড—আন্তর্জাতিক উদ্বেগ নিয়ে একাধিক মাধ্যমে খবর।"
+   },
+   "rank": 1
+  },
+  {
+   "id": "1d33rro",
+   "heat": 4,
+   "why": {
+    "en": "Bangladesh knocked out of tri-series after Afghanistan loss—major sports story dominating coverage.",
+    "bn": "আফগানিস্তানের কাছে হেরে বাংলাদেশ ট্রাই-সিরিজ থেকে বাদ—ক্রীড়া জগতে প্রধান খবর।"
    },
    "rank": 2
   },
   {
-   "id": "fi0nrp",
+   "id": "1ej6jfg",
    "heat": 4,
    "why": {
-    "en": "UN warns Asia-Pacific coastal floods could cost $739 billion by 2100, high-stakes climate story.",
-    "bn": "জাতিসংঘ সতর্ক করছে এশিয়া-প্রশান্ত মহাসাগরীয় অঞ্চলে বন্যা ২১০০ সালের মধ্যে ৭৩৯ বিলিয়ন ডলার খরচ করতে পারে।"
+    "en": "Critical PHP flaw forces major websites offline—tech story matching high Google Trends for 'php'.",
+    "bn": "গুরুতর PHP ত্রুটি বিশ্বব্যাপী ওয়েবসাইট অফলাইন—Google Trends–এ 'php' ট্রেন্ড করছে।"
    },
    "rank": 3
   },
   {
-   "id": "821ffc",
-   "heat": 4,
+   "id": "3a87k8",
+   "heat": 3,
    "why": {
-    "en": "Treasury bill rates spike to 8.74%, signals economic pressure on Bangladesh finances.",
-    "bn": "ট্রেজারি বিলের সুদের হার ৮.৭৪% এ উঠেছে, বাংলাদেশের আর্থিক চাপের ইঙ্গিত দেয়।"
+    "en": "Three-wheeler traffic on highways causing crash surge—domestic road safety crisis.",
+    "bn": "হাইওয়েতে তিন চাকার গাড়ির ট্রাফিক বাড়ছে দুর্ঘটনা—দেশীয় সড়ক নিরাপত্তা সংকট।"
    },
    "rank": 4
   },
   {
-   "id": "16k9drh",
-   "heat": 4,
+   "id": "1a60p1y",
+   "heat": 3,
    "why": {
-    "en": "Three tourists drown at Himchari beach, local tragedy raising safety concerns.",
-    "bn": "হিমছড়ি সৈকতে তিন পর্যটক ডুবে যায়, নিরাপত্তা সংক্রান্ত উদ্বেগ উঠছে।"
+    "en": "Eleven injured in jackal attacks within one hour—wildlife incident drawing urgent attention.",
+    "bn": "এক ঘণ্টায় সিয়ালের আক্রমণে ১১ জন আহত—বন্যপ্রাণী ঘটনা জরুরি খবর।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "8r8f9a",
-   "tag": "#ChampionsLeague",
+   "id": "arzh6k",
+   "tag": "#SaudiExecutions",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Real Madrid crushes Leipzig 4-1",
-    "text": "Real Madrid delivered a masterclass in the Champions League, thrashing RB Leipzig 4-1. The victory sets up a classic showdown with Barcelona and keeps Madrid's European campaign on fire."
+    "title": "Bangladeshi executions in Saudi Arabia",
+    "text": "Two Bangladeshi nationals were executed in Saudi Arabia, sparking questions and concern internationally. Families are pleading for the return of their bodies."
    },
    "bn": {
-    "title": "রিয়েল মাড্রিড লাইপজিগকে ৪-১ে হারায়",
-    "text": "চ্যাম্পিয়ন্স লিগে রিয়েল মাড্রিড লাইপজিগকে ৪-১ গোলে পরাজিত করল। এই জয় ম্যাড্রিড এবং বার্সিলোনার মধ্যে ক্লাসিক ম্যাচের পথ তৈরি করেছে।"
+    "title": "সৌদি আরবিয়ায় বাংলাদেশীদের মৃত্যুদণ্ড",
+    "text": "সৌদি আরবিয়ায় দুই বাংলাদেশী নাগরিকের মৃত্যুদণ্ড দেওয়া হয়েছে যা আন্তর্জাতিকভাবে প্রশ্নের সৃষ্টি করেছে। পরিবারগুলি তাদের দেহ ফেরত দেওয়ার জন্য আবেদন করছে।"
    }
   },
   {
-   "id": "mwydjg",
-   "tag": "#CricketCollapse",
+   "id": "1ej6jfg",
+   "tag": "#PHPCrisis",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Australia all out for just 99",
-    "text": "Australia's batsmen fell apart in brutal fashion, collapsing to 99 all out in a one-day international. The historic low marks one of cricket's most shocking team meltdowns."
+    "title": "Critical PHP flaw crashes websites globally",
+    "text": "A critical security flaw in PHP has forced major websites offline worldwide, disrupting internet services at scale."
    },
    "bn": {
-    "title": "অস্ট্রেলিয়া মাত্র ৯৯ রানে সব আউট",
-    "text": "অডিআইতে অস্ট্রেলিয়া ৯৯ রানে সব আউট হয়েছে। ক্রিকেটের ইতিহাসে এটি সবচেয়ে লজ্জাজনক স্কোরগুলির মধ্যে একটি।"
+    "title": "PHP–এ সংকটকর ত্রুটি বিশ্বব্যাপী ওয়েবসাইট ক্র্যাশ",
+    "text": "PHP–তে একটি সংকটকর নিরাপত্তা ত্রুটি বিশ্বব্যাপী প্রধান ওয়েবসাইটগুলি অফলাইন করেছে।"
    }
   },
   {
-   "id": "16ik88c",
-   "tag": "#AfghanistanCricket",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Rahmat and Rashid take Afghanistan to final",
-    "text": "Afghanistan's dynamic duo Rahmat and Rashid propelled their team to the final with a strong performance. The victory sparks excitement in Afghan cricket circles."
-   },
-   "bn": {
-    "title": "রহমাৎ এবং রাশিদ আফগানিস্তানকে ফাইনালে নিয়ে যান",
-    "text": "আফগানিস্তানের রহমাৎ এবং রাশিদ শক্তিশালী পারফরম্যান্সে টিমকে ফাইনালে নিয়ে গেছেন। এই জয় আফগান ক্রিকেটে উত্তেজনা ছড়াচ্ছে।"
-   }
-  },
-  {
-   "id": "1up8b9l",
-   "tag": "#ShowbizHealth",
+   "id": "16k9drh",
+   "tag": "#BeachSafety",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "Samia battles cancer with family support",
-    "text": "Showbiz personality Samia is fighting her health battle surrounded by loved ones. The story resonates across social media as fans show their support."
+    "title": "Three tourists drown at Himchari beach",
+    "text": "Three tourists lost their lives in a drowning incident at Himchari beach, raising concerns about water safety."
    },
    "bn": {
-    "title": "সামিয়া পরিবারের সাথে ক্যান্সারের বিরুদ্ধে লড়াই করছেন",
-    "text": "গুণী ব্যক্তিত্ব সামিয়া পরিবারের পাশে থেকে স্বাস্থ্য সংকট মোকাবেলা করছেন। ফ্যানরা সোশ্যাল মিডিয়ায় সমর্থন দেখাচ্ছেন।"
+    "title": "হিমছড়ি সৈকতে তিন পর্যটক ডুবে মৃত্যু",
+    "text": "হিমছড়ি সৈকতে ডুবে তিন পর্যটক প্রাণ হারিয়েছেন, যা জল নিরাপত্তা নিয়ে উদ্বেগ বাড়িয়েছে।"
+   }
+  },
+  {
+   "id": "1a60p1y",
+   "tag": "#JackalAttacks",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Eleven injured in jackal attacks in one hour",
+    "text": "Within a single hour, eleven people were injured in a series of jackal attacks, highlighting a growing wildlife threat."
+   },
+   "bn": {
+    "title": "এক ঘণ্টায় সিয়ালের ১১ টা আক্রমণ",
+    "text": "মাত্র এক ঘণ্টায় সিয়ালের আক্রমণে ১১ জন আহত হয়েছেন, যা বন্যপ্রাণীর বর্ধনশীল হুমকি দেখাচ্ছে।"
    }
   }
  ],
