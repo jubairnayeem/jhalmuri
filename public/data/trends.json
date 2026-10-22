@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-10-22T20:00:43.158Z",
+ "updatedAt": "2026-10-22T23:17:06.763Z",
  "burning": [
   {
    "id": "1m5x0bl",
    "heat": 5,
    "why": {
-    "en": "Two Bangladeshis executed in Saudi Arabia; major diplomatic and human rights story across multiple outlets.",
-    "bn": "সৌদি আরবে দুই বাংলাদেশি মৃত্যুদণ্ড; কূটনৈতিক এবং মানবাধিকার ইস্যু নিয়ে একাধিক আউটলেট কভার করছে।"
+    "en": "Two Bangladeshis executed in Saudi Arabia; major coverage across outlets and high emotional resonance.",
+    "bn": "সৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড; একাধিক আউটলেট কভার করেছে এবং জাতীয় গুরুত্ব রাখে।"
    },
    "rank": 1
   },
@@ -14,102 +14,86 @@
    "id": "1p6hwai",
    "heat": 5,
    "why": {
-    "en": "Critical PHP bug disabled millions of websites globally; major tech story covered by multiple news sources.",
-    "bn": "বিশ্বজুড়ে লাখ লাখ ওয়েবসাইট বন্ধ করেছে গুরুতর PHP বাগ; একাধিক মিডিয়া কভার করেছে।"
+    "en": "Critical PHP bug disabled millions of websites globally; tech story with major worldwide impact.",
+    "bn": "সমালোচনামূলক PHP বাগ বিশ্বব্যাপী লক্ষ লক্ষ ওয়েবসাইট বন্ধ করেছে; বৈশ্বিক প্রভাব সহ প্রযুক্তি খবর।"
    },
    "rank": 2
   },
   {
-   "id": "psssjc",
+   "id": "15t96ev",
    "heat": 4,
    "why": {
-    "en": "Fresh blockade on Sajek road with conflicting accounts from military and activist groups; ongoing domestic crisis.",
-    "bn": "সাজেক রাস্তা বন্ধ নিয়ে সামরিক বাহিনী এবং গোষ্ঠীর মধ্যে বিরোধপূর্ণ বিবৃতি; চলমান সংকট।"
+    "en": "Sajek blockade and gunfire incident; domestic controversy with clashing accounts from military and activist groups.",
+    "bn": "সাজেক অবরোধ এবং গুলিবর্ষণ ঘটনা; সামরিক বাহিনী এবং সক্রিয়তাবাদী গ্রুপের বিবরণ নিয়ে দেশীয় বিরোধ।"
    },
    "rank": 3
   },
   {
-   "id": "1l5enk2",
-   "heat": 4,
+   "id": "1jxj3uf",
+   "heat": 3,
    "why": {
-    "en": "Newborn twins starving in Yemen's war-torn hunger crisis; major humanitarian story gaining international attention.",
-    "bn": "ইয়েমেনের যুদ্ধবিধ্বস্ত ক্ষুধার্ত পরিস্থিতিতে নবজাতক যমজ; আন্তর্জাতিক মানবিক সংকট।"
+    "en": "PM Tarique Rahman's Khulna tour; domestic political movement receiving press coverage.",
+    "bn": "প্রধানমন্ত্রী তারিকের খুলনা সফর; রাজনৈতিক কার্যক্রম প্রেস কভারেজ পাচ্ছে।"
    },
    "rank": 4
   },
   {
-   "id": "135rekb",
-   "heat": 4,
+   "id": "13hs8uf",
+   "heat": 3,
    "why": {
-    "en": "Sri Lanka chases England's massive total in cricket; regional sports rivalry and thrilling match engagement.",
-    "bn": "ক্রিকেটে ইংল্যান্ডের বিশাল লক্ষ্য শ্রীলংকা তাড়া করছে; আঞ্চলিক খেলা এবং উত্তেজনাপূর্ণ ম্যাচ।"
+    "en": "Two more deaths from measles-like illness; ongoing health crisis with growing casualty count.",
+    "bn": "হাম-সদৃশ অসুখে আরও দুই মৃত্যু; ক্রমবর্ধমান স্বাস্থ্য সংকট চলছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1m5x0bl",
-   "tag": "#SaudiExecutions",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Bangladeshis executed in Saudi Arabia",
-    "text": "Two Bangladeshi migrant workers were executed in Saudi Arabia. The Dhaka government knew the charges but was not informed of the death sentence beforehand."
-   },
-   "bn": {
-    "title": "সৌদিতে বাংলাদেশি মৃত্যুদণ্ড",
-    "text": "সৌদি আরবে দুই বাংলাদেশি অভিবাসী শ্রমিক মৃত্যুদণ্ড পেয়েছেন। ঢাকা সরকার অভিযোগ জানতো কিন্তু দণ্ডের কথা আগে থেকে জানায়নি।"
-   }
-  },
-  {
-   "id": "1p6hwai",
-   "tag": "#PHPCrisis",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Critical PHP bug crashes the internet",
-    "text": "A severe PHP flaw knocked millions of websites offline worldwide. The bug has triggered massive global disruption and millions of hacking attempts."
-   },
-   "bn": {
-    "title": "PHP বাগে ইন্টারনেট স্থবির",
-    "text": "একটি গুরুতর PHP ত্রুটি বিশ্বজুড়ে লাখ লাখ ওয়েবসাইট বন্ধ করেছে। লক্ষ লক্ষ হ্যাকিং চেষ্টা বেড়েছে।"
-   }
-  },
-  {
-   "id": "17915vd",
-   "tag": "#CricketRecord",
+   "id": "p1x4c5",
+   "tag": "#PMTour",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "England's Brook smashes fastest ODI century",
-    "text": "England's batter smashed the fastest ODI double century in cricket history, delivering a stunning performance."
+    "title": "PM's Japan trip in doubt",
+    "text": "Bangladesh envoy to Japan is ill, raising questions about the Prime Minister's planned Tokyo visit. Google Trends shows high interest in 'dhaka' with news about the PM's Japan tour and investment discussions."
    },
    "bn": {
-    "title": "ব্রুকের রেকর্ড দ্বিশত",
-    "text": "ইংল্যান্ডের ব্যাটার ওডিআইয়ে দ্রুততম দ্বিশত সেঞ্চুরি করেছেন, চমৎকার পারফরম্যান্স দেখিয়েছেন।"
+    "title": "প্রধানমন্ত্রীর জাপান সফর সন্দেহে",
+    "text": "জাপানে বাংলাদেশের রাষ্ট্রদূত অসুস্থ, যা প্রধানমন্ত্রীর টোকিও সফর নিয়ে প্রশ্ন তুলেছে। গুগল ট্রেন্ডে জাপান সফর এবং বিনিয়োগ নিয়ে আলোচনা ভাইরাল।"
    }
   },
   {
-   "id": "1e8bi2u",
-   "tag": "#AILoginTech",
+   "id": "1a60owu",
+   "tag": "#FarmerProtests",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "AI agents log in without seeing passwords",
-    "text": "1Password now lets AI agents access accounts without ever viewing your password, shifting how password security works."
+    "title": "Farmers angry over fertiliser shortage",
+    "text": "Farmers protesting government's failure to supply promised fertiliser at fixed prices, affecting crop planning."
    },
    "bn": {
-    "title": "এআই এজেন্ট পাসওয়ার্ড ছাড়া লগইন",
-    "text": "১পাসওয়ার্ড এআই এজেন্টদের পাসওয়ার্ড দেখানো ছাড়াই অ্যাকাউন্ট অ্যাক্সেস দিতে দেয়, নতুন নিরাপত্তা যুগ।"
+    "title": "সার সরবরাহে কৃষকদের ক্ষোভ",
+    "text": "সরকার নির্ধারিত মূল্যে সারের প্রতিশ্রুত সরবরাহ না দিয়ে কৃষকরা প্রতিবাদ করছেন।"
+   }
+  },
+  {
+   "id": "1a60p1y",
+   "tag": "#JackalAttacks",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Eleven hurt in jackal rampage",
+    "text": "Eleven people injured in jackal attacks within a single hour, highlighting rising wildlife-human conflict."
+   },
+   "bn": {
+    "title": "এক ঘণ্টায় একাধিক শিয়ালের আক্রমণ",
+    "text": "এক ঘণ্টায় এগারো মানুষ শিয়ালের আক্রমণে আহত হয়েছেন।"
    }
   }
  ],

@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-10-22T20:00:24.745Z",
+ "updatedAt": "2026-10-22T23:16:51.173Z",
  "items": [
+  {
+   "id": "1len3zx",
+   "section": "news",
+   "cat": "world",
+   "tone": "light",
+   "satire": false,
+   "src": "যুগান্তর",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01RkVYWVBUOWpOU2ctVkJVaE1iRzRGLTlwOXFmUW5iWlE4bldKRjc2eGF6NVhBRS1vQXhoNFFYdTRuVFltdGtjTTRaaUFjT3BlWktZUzZEUTVOZw?oc=5",
+   "image": null,
+   "published": "2026-10-22T05:36:23.000Z",
+   "added": "2026-10-22T23:16:51.172Z",
+   "origTitle": "ইরান ইস্যুতে ‘শিগগিরই কিছু একটা ঘটবে’: ট্রাম্প",
+   "en": {
+    "title": "Trump hints something will happen soon on Iran issue",
+    "summary": "Donald Trump suggested that action on the Iran issue could come soon. He did not specify what that action might be or when it would happen. Trump's vague comments add to ongoing uncertainty around US-Iran relations. His statement was brief and offered no concrete details."
+   },
+   "bn": {
+    "title": "ইরান ইস্যুতে শীঘ্রই কিছু ঘটবে বলে ট্রাম্প ইঙ্গিত করেছেন",
+    "summary": "ডোনাল্ড ট্রাম্প ইরান ইস্যুতে শীঘ্রই পদক্ষেপ নেওয়ার ইঙ্গিত দিয়েছেন। তিনি কী পদক্ষেপ নেওয়া হবে বা কখন হবে তা নির্দিষ্ট করেননি। ট্রাম্পের অস্পষ্ট মন্তব্য যুক্তরাষ্ট্র-ইরান সম্পর্কের অনিশ্চয়তা বাড়াচ্ছে। তার বিবৃতি সংক্ষিপ্ত ছিল এবং কোনো বিস্তারিত তথ্য প্রদান করেনি।"
+   }
+  },
+  {
+   "id": "zaz3ct",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "কালের কণ্ঠ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0dnWGpwNzFmZHozaHFfUjIzUy1oVm8yS1JJaXZsX040V3BtenBlUU1jTkhSdnl2UFUwVlFCaE83enp4NkwtamR4VUVyam1KUzM1V2RRQ0NwclNoQ0NiVkVub1N1aGlnOTBheDdWeWRpS0lsb2YtVV9nUVNyWXduRWRTUTI?oc=5",
+   "image": null,
+   "published": "2026-10-22T18:00:00.000Z",
+   "added": "2026-10-22T23:16:51.172Z",
+   "origTitle": "বন্ধ আমিন জুট মিলস চালু হলে তৈরি হবে কর্মসংস্থান",
+   "en": {
+    "title": "Reopening closed Amin Jute Mills could create jobs",
+    "summary": "Restarting the shuttered Amin Jute Mills could generate significant employment in the region. The jute industry remains important to Bangladesh's economy and rural livelihoods. Mill closure has left workers without income. Revival of the mill would benefit the local community."
+   },
+   "bn": {
+    "title": "বন্ধ আমিন জুট মিল চালু হলে চাকরি সৃষ্টি হবে",
+    "summary": "বন্ধ আমিন জুট মিল পুনরায় চালু হলে এলাকায় উল্লেখযোগ্য কর্মসংস্থান তৈরি হতে পারে। পাট শিল্প বাংলাদেশের অর্থনীতি এবং গ্রামীণ জীবিকার জন্য গুরুত্বপূর্ণ। মিল বন্ধের ফলে শ্রমিকরা আয়ের উৎ হারিয়েছে। মিলটি পুনরায় চালু হলে স্থানীয় সম্প্রদায় উপকৃত হবে।"
+   }
+  },
+  {
+   "id": "1n8n2jq",
+   "section": "news",
+   "cat": "politics",
+   "tone": "light",
+   "satire": false,
+   "src": "New Age",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFo3RXA2MkppU2g3WWpZOVlNMkx0UFhlbTZVM2M5S3Vvbjc2WkF4QmdhRV9YbHc1R29GMm5yUkRoUHllemZZZ0lqbFlvMGJJaTA3WXlYSEd4WjFaOG02Um13Rmo4bmtKWmoxY3A5QW9RMEROTDN2Sk9nUXNzR1ExTjh4aGdVaVN4aG1qbEFwY0Qzbmd1ZGIxYk5yWEZIazdCN1JN?oc=5",
+   "image": null,
+   "published": "2026-10-22T11:58:00.000Z",
+   "added": "2026-10-22T23:16:51.172Z",
+   "origTitle": "Ambassador Daud Ali to stay in Dhaka during PM’s visit",
+   "en": {
+    "title": "Ambassador Daud Ali to remain in Dhaka during PM visit",
+    "summary": "Ambassador Daud Ali will stay in Dhaka while the Prime Minister is on tour. The ambassador's presence during the visit signals continued diplomatic engagement. Details about which country he represents were not provided. His role during the PM's visit remains unclear."
+   },
+   "bn": {
+    "title": "প্রধানমন্ত্রীর সফরকালে রাষ্ট্রদূত দৌদ আলী ঢাকায় থাকবেন",
+    "summary": "প্রধানমন্ত্রী ভ্রমণের সময় রাষ্ট্রদূত দৌদ আলী ঢাকায় অবস্থান করবেন। রাষ্ট্রদূতের এই উপস্থিতি কূটনৈতিক সম্পর্ক অব্যাহত রাখার ইঙ্গিত দেয়। তিনি কোন দেশের প্রতিনিধি তা জানানো হয়নি। তার সফরকালীন ভূমিকা অস্পষ্ট রয়েছে।"
+   }
+  },
+  {
+   "id": "1jxj3uf",
+   "section": "news",
+   "cat": "politics",
+   "tone": "light",
+   "satire": false,
+   "src": "Bangladesh Post",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXdTX3RkSTM0TkNLOVg1MEV4aUZSV2ZYdWtjajRVZ3JjT1U2Q1J1WUJOQkcxd29MWlJFRklOdzdzYnE0MFBJVXNRWTJjSHlUTjNmcGtTMnJjbmJLNnJ0dE1Yc0pMaUY1LTNoR3hwMEtIVmFITm01Z0FMT0ZNRFFmT0VUZzR4MC00bTFIOVBIUzE5WjBFUmFuTE1R?oc=5",
+   "image": null,
+   "published": "2026-10-22T05:35:59.000Z",
+   "added": "2026-10-22T23:16:51.172Z",
+   "origTitle": "PM Tarique Rahman arrives in Khulna for official visit",
+   "en": {
+    "title": "PM Tarique Rahman visits Khulna on official tour",
+    "summary": "Prime Minister Tarique Rahman has arrived in Khulna for an official visit. The visit is part of his ongoing tour across the country. Local officials and residents welcomed the PM. Details of the agenda and activities during the visit were not provided."
+   },
+   "bn": {
+    "title": "প্রধানমন্ত্রী তারেক রহমান খুলনায় সরকারি সফরে পৌঁছেছেন",
+    "summary": "প্রধানমন্ত্রী তারেক রহমান খুলনায় সরকারি সফরে এসেছেন। এটি দেশব্যাপী তার ভ্রমণের অংশ। স্থানীয় কর্মকর্তা এবং জনগণ প্রধানমন্ত্রীকে স্বাগত জানিয়েছে। সফরের এজেন্ডা ও বিস্তারিত তথ্য প্রকাশ করা হয়নি।"
+   }
+  },
+  {
+   "id": "13hs8uf",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "UNB",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmlub1B0RmphWE9idVFvUWtKd3NsNDBuSDdReFNSVnNPOEJJRlpUWE9VcnJ6OEVvajg2MEZLZFlSbFIwanVxc191d1BWWVd4cV9ORGFYZEdmeF9aVTA4eHJ4cXZpWlNQazNaSnNCSENjZkVEVFRsLTFNMl9FdHMtVjRzNmlJQWl2M2tycF9RSkxrQQ?oc=5",
+   "image": null,
+   "published": "2026-10-22T12:30:06.000Z",
+   "added": "2026-10-22T23:16:51.172Z",
+   "origTitle": "Measles-like symptoms claim two more lives",
+   "en": {
+    "title": "Two more deaths linked to measles-like illness",
+    "summary": "Two more people have died from measles-like symptoms in Bangladesh. The outbreak continues to spread across the country. Health authorities are monitoring the situation closely. People are urged to seek medical help if they show symptoms like fever and rash."
+   },
+   "bn": {
+    "title": "হাম জাতীয় উপসর্গে আরও দুইজনের মৃত্যু",
+    "summary": "বাংলাদেশে হাম জাতীয় উপসর্গে আরও দুই জন মানুষের মৃত্যু হয়েছে। দেশে এই রোগের প্রাদুর্ভাব ক্রমাগত বাড়ছে। স্বাস্থ্য কর্তৃপক্ষ পরিস্থিতি মনিটর করছে। জ্বর এবং ফুসকুড়ির মতো উপসর্গ দেখা দিলে চিকিৎসা নেওয়ার পরামর্শ দেওয়া হচ্ছে।"
+   }
+  },
+  {
+   "id": "1esqrgf",
+   "section": "news",
+   "cat": "lifestyle",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/religion/islam/xian98la32",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-22/wghfjk48/close-up-luxury-retro-radio-buttons-with-open-book.jpg",
+   "published": "2026-10-22T22:30:00.000Z",
+   "added": "2026-10-22T23:16:32.597Z",
+   "origTitle": "ইবাদত কবুলের ৪ শর্ত",
+   "en": {
+    "title": "Four conditions for worship to be accepted in Islam",
+    "summary": "Islamic teaching emphasizes that good deeds must be accepted by Allah to bring real reward. Four key conditions are: having pure faith (iman) free from shirk; following the Prophet's guidance when performing worship; earning money through halal means; and consuming only pure food. Without these foundations, acts of worship cannot become a reliable path to salvation."
+   },
+   "bn": {
+    "title": "ইবাদত কবুলের জন্য চারটি গুরুত্বপূর্ণ শর্ত",
+    "summary": "ইসলামি শিক্ষা জোর দেয় যে নেক আমল আল্লাহর কাছে কবুল হতে হবে প্রকৃত পুরস্কার পাওয়ার জন্য। চারটি মূল শর্ত হল: শিরক মুক্ত বিশুদ্ধ ঈমান রাখা; ইবাদত করার সময় নবীর নির্দেশনা অনুসরণ করা; হালাল উপার্জন করা; এবং শুধুমাত্র পবিত্র খাবার গ্রহণ করা। এই ভিত্তি ছাড়া, ইবাদত পরকালে মুক্তির নির্ভরযোগ্য পথ হতে পারে না।"
+   }
+  },
+  {
+   "id": "1txu6b9",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
+   "published": "2026-10-22T23:15:00.000Z",
+   "added": "2026-10-22T23:16:32.597Z",
+   "origTitle": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+   "en": {
+    "title": "Warhound raises $200M to genetically engineer military working dogs",
+    "summary": "Warhound, a new startup from Colossal Biosciences and Anduril founders, announced a $200 million funding round to genetically engineer working dogs for the U.S. military and law enforcement. The company aims to breed healthier dogs suited for dangerous tasks like bomb detection and search operations. Over 80% of U.S. military working dogs currently come from Europe, creating supply problems and foreign dependence."
+   },
+   "bn": {
+    "title": "সামরিক কুকুর তৈরিতে $২০০ মিলিয়ন ফান্ডিং পেল ওয়ারহাউন্ড",
+    "summary": "কোলোসাল বায়োসায়েন্সেস এবং অ্যান্ডুরিল ফাউন্ডারদের নতুন স্টার্টআপ ওয়ারহাউন্ড $২০০ মিলিয়ন ফান্ডিং ঘোষণা করেছে সামরিক এবং আইন প্রয়োগকারী কুকুর তৈরির জন্য। কোম্পানিটি বোমা সনাক্তকরণ এবং অনুসন্ধান অপারেশনের মতো বিপজ্জনক কাজের জন্য উপযুক্ত স্বাস্থ্যকর কুকুর প্রজনন করার লক্ষ্য রাখে। মার্কিন সামরিক কাজের কুকুরের ৮০% এর বেশি ইউরোপ থেকে আসে, যা সরবরাহ সমস্যা সৃষ্টি করে।"
+   }
+  },
+  {
+   "id": "1qfzz0d",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+   "image": "https://i.guim.co.uk/img/media/6b5476a019b20a202cbcac4ee1f83d662c43506f/426_0_4263_3410/master/4263.jpg?width=140&quality=85&auto=format&fit=max&s=39d1c2cb95b7eec161a46728da12a5a0",
+   "published": "2026-10-22T21:53:28.000Z",
+   "added": "2026-10-22T23:16:32.597Z",
+   "origTitle": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+   "en": {
+    "title": "Lewis Hamilton wants to race until Africa Grand Prix in Rwanda",
+    "summary": "Seven-time Formula One champion Lewis Hamilton hopes to extend his career into the early 2030s to race in Rwanda's African Grand Prix. F1 confirmed last week that Rwanda will host the race on a new circuit in Bugesera, south of Kigali, marking Africa's first F1 race since South Africa in 1993. Hamilton, currently contracted to Ferrari until 2027, says he'll keep fighting to stay fit for this dream race."
+   },
+   "bn": {
+    "title": "আফ্রিকা গ্র্যান্ড প্রি রেস করতে ২০৩০ পর্যন্ত চালিয়ে যেতে চান হ্যামিল্টন",
+    "summary": "সাত বার বিশ্ব চ্যাম্পিয়ন লুইস হ্যামিল্টন ২০৩০ এর দশকে রুয়ান্ডায় অনুষ্ঠিত আফ্রিকা গ্র্যান্ড প্রি তে রেস করার জন্য তার ক্যারিয়ার বাড়াতে চান। F1 গত সপ্তাহে নিশ্চিত করেছে যে কিগালির দক্ষিণে বুগেসেরায় একটি নতুন সার্কিটে রুয়ান্ডা রেস হোস্ট করবে, যা ১৯৯৩ সালের পর থেকে আফ্রিকার প্রথম F1 রেস। ফেরারির সাথে ২০২৭ সাল পর্যন্ত চুক্তিবদ্ধ হ্যামিল্টন বলেছেন তিনি ফিট থাকার জন্য লড়াই চালিয়ে যাবেন।"
+   }
+  },
+  {
+   "id": "1dhwufl",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ada8c1367db-1792707603.jpg?resize=1920%2C1440",
+   "published": "2026-10-22T22:52:35.000Z",
+   "added": "2026-10-22T23:16:32.597Z",
+   "origTitle": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+   "en": {
+    "title": "Hundreds of Ethiopians flee to Kenya over border town fighting",
+    "summary": "Hundreds of Ethiopians, mostly women and children, crossed into Kenya fleeing fighting in the border town of Moyale triggered by flag-raising tensions between regional leaders. The conflict erupted Sunday over raising the flag of Ethiopia's Somali Regional State, escalating into fighting between Oromia and Somali regional forces. Kenya Red Cross is setting up shelters and distributing aid to roughly 1,000 households."
+   },
+   "bn": {
+    "title": "সীমান্ত সংঘর্ষে শত শত ইথিওপিয়ান কেনিয়ায় পালিয়ে গেছে",
+    "summary": "ইথিওপিয়ার মোয়েল সীমান্ত শহরে সংঘর্ষের কারণে শত শত ইথিওপিয়ান, বেশিরভাগ নারী ও শিশু, কেনিয়ায় প্রবেশ করেছে। রবিবার সোমালি রিজিওনাল স্টেটের ফ্ল্যাগ তোলার কারণে শুরু হওয়া সংঘর্ষ অরোমিয়া এবং সোমালি অঞ্চলের বাহিনীর মধ্যে সম্প্রসারিত হয়েছে। কেনিয়া রেড ক্রস ১০০০ পরিবারকে আশ্রয় ও খাদ্য সহায়তা দিচ্ছে।"
+   }
+  },
+  {
+   "id": "2c88az",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/rajshahi/976165/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%AD%E0%A6%A8%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0",
+   "image": null,
+   "published": "2026-10-22T22:36:25.000Z",
+   "added": "2026-10-22T23:16:32.597Z",
+   "origTitle": "অ্যাপে বিনিয়োগের প্রলোভনে টাকা হাতিয়ে নেওয়ার অভিযোগ, গ্রেফতার ৩",
+   "en": {
+    "title": "Three arrested for digital wallet fraud scheme in Bogura",
+    "summary": "Detective police in Bogura arrested three people for using a digital wallet app to defraud and steal money through illegal e-transactions. Four mobile phones and five SIM cards used in the crimes were seized. The announcement came Thursday evening from the detective branch's officer in charge."
+   },
+   "bn": {
+    "title": "বগুড়ায় ডিজিটাল ওয়ালেট জালিয়াতি, তিনজন গ্রেফতার",
+    "summary": "বগুড়ায় ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে প্রতারণার মাধ্যমে টাকা চুরির অভিযোগে তিনজনকে গ্রেফতার করেছে গোয়েন্দা পুলিশ। অপরাধে ব্যবহৃত চারটি মোবাইল ফোন এবং পাঁচটি সিম কার্ড জব্দ করা হয়েছে। বৃহস্পতিবার সন্ধ্যায় ডিবির ভারপ্রাপ্ত কর্মকর্তা এই তথ্য জানিয়েছেন।"
+   }
+  },
   {
    "id": "1mmuwdc",
    "section": "news",
@@ -3168,204 +3388,6 @@
    "bn": {
     "title": "বিনিয়োগকারীদের জন্য এক জায়গায় সব সেবা",
     "summary": "বাংলাদেশ তিনটা বিনিয়োগ সংস্থা মার্জ করে Invest Bangladesh বানিয়েছে যাতে বিনিয়োগকারীরা তিনটা আলাদা অফিসে না ঘুরতে হয়। এর আগে এমনটা কোনো দেশে ছিল না। একটা নতুন ডিজিটাল প্ল্যাটফর্ম সব কিছু সামলাবে, হাতে-কলমে লাইসেন্স দেওয়া বন্ধ হবে। আসলে বড় সমস্যা হলো বিদ্যুৎ এবং ব্যাংকিং সেক্টরের অবস্থা।"
-   }
-  },
-  {
-   "id": "1pkxps1",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "কালের কণ্ঠ",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JeFdGQUpqX2FnNnl1SUMtMGI1N2xySmN3YmZlYVlVYjd2X0RNVk83czNtSHI3UFozcmlRRm5GOWFKdDVNVl85aVYzaUllRHdSYTJpWUpCTDZhR1JYTEhWLTZpeWJNVVlfQVBsLV91QVdRQl9o?oc=5",
-   "image": null,
-   "published": "2026-10-19T06:10:08.000Z",
-   "added": "2026-10-19T21:00:23.829Z",
-   "origTitle": "নিখোঁজের ৪ দিন পর ভ্যানচালকের মাথাবিহীন মরদেহ উদ্ধার",
-   "en": {
-    "title": "Van driver's body found four days after going missing",
-    "summary": "A van driver who had been reported missing for four days was found dead. The body was discovered in a severely mutilated state. Police are investigating the case."
-   },
-   "bn": {
-    "title": "নিখোঁজ ভ্যানচালকের লাশ ৪ দিন পর উদ্ধার হয়েছে",
-    "summary": "চার দিন ধরে নিখোঁজ একজন ভ্যানচালকের মরদেহ উদ্ধার করা হয়েছে। লাশটি অত্যন্ত ক্ষতিগ্রস্ত অবস্থায় পাওয়া গেছে। পুলিশ মামলাটি তদন্ত করছে।"
-   }
-  },
-  {
-   "id": "11c0pve",
-   "section": "hasi",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "UPI Odd News",
-   "srcLang": "en",
-   "url": "https://www.upi.com/Odd_News/2026/10/19/canada-greater-victoria-public-library-43-years-overdue/1141792431813/",
-   "image": "https://cdnph.upi.com/ph/st/th/1141792431813/2026/i/17924320234473/v1.5/Book-returned-to-British-Columbia-library-43-years-after-due-date.jpg",
-   "published": "2026-10-19T17:47:22.000Z",
-   "added": "2026-10-19T21:00:23.829Z",
-   "origTitle": "Book returned to British Columbia library 43 years after due date",
-   "en": {
-    "title": "British Columbia library gets book back after 43 years",
-    "summary": "Workers at a British Columbia library found a dusty book that was 43 years overdue. The tome had no barcode, making it impossible to track until it recently turned up in returns. It's a funny reminder that lost library books sometimes have a way of finding their way home."
-   },
-   "bn": {
-    "title": "৪৩ বছর পর লাইব্রেরিতে ফেরত এসেছে হারানো বই",
-    "summary": "ব্রিটিশ কলম্বিয়ার একটি লাইব্রেরিতে কর্মীরা একটি ধুলোময় বই খুঁজে পেয়েছেন যা ৪৩ বছর ধরে ফেরত দেওয়া হয়নি। বইটির কোনো বারকোড ছিল না, তাই এটি ট্র্যাক করা যায়নি। এটি মজার প্রমাণ যে হারানো লাইব্রেরির বই কখনো কখনো নিজে থেকেই বাড়ি ফিরে আসে।"
-   }
-  },
-  {
-   "id": "ytp562",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/india/9hs866rwze",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-19/8y35756j/Shashi-Tharoor.jpg",
-   "published": "2026-10-19T20:07:01.000Z",
-   "added": "2026-10-19T21:00:23.829Z",
-   "origTitle": "সরকার পতন নয়, অবাধ নির্বাচন চাই: বাংলাদেশ ও ফ্রান্সের সঙ্গে তুলনার জবাবে শশী থারুর",
-   "en": {
-    "title": "Congress MP rejects India-Bangladesh-France comparison",
-    "summary": "Congress MP Shashi Tharoor rejected claims that India's situation mirrors instability in Bangladesh or France. He said the opposition's core demand is free and fair elections, not toppling the government. Tharoor stressed that protests must remain peaceful and criticized recent voter list changes as constitutional violations, not an attempt at regime change."
-   },
-   "bn": {
-    "title": "ভারতকে বাংলাদেশ বা ফ্রান্সের সঙ্গে তুলনা করবেন না: শশী থারুর",
-    "summary": "কংগ্রেস সাংসদ শশী থারুর ভারতের অবস্থার সঙ্গে বাংলাদেশ বা ফ্রান্সের তুলনার বিরোধিতা করেছেন। বিরোধী দলের মূল দাবি সরকার পরিবর্তন নয়, বরং অবাধ ও সুষ্ঠু নির্বাচন, তিনি বলেন। থারুর জোর দিয়ে বলেছেন যে সব আন্দোলন শান্তিপূর্ণ হওয়া উচিত এবং ভোটার তালিকায় বৃহৎ সংখ্যক মানুষ বাদ দেওয়া একটি সাংবিধানিক সমস্যা।"
-   }
-  },
-  {
-   "id": "3wwu0k",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/government/via3921jcm",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-16/i3u7h51h/image-435608-1792154655.webp",
-   "published": "2026-10-19T17:15:07.000Z",
-   "added": "2026-10-19T21:00:11.564Z",
-   "origTitle": "Durga Puja: PM Tarique Rahman to visit 3 divisions in a day to greet devotees",
-   "en": {
-    "title": "PM Tarique Rahman visits 3 divisions for Durga Puja",
-    "summary": "Prime Minister Tarique Rahman will visit Rangpur, Rajshahi, and Chattogram on Tuesday to greet Hindu devotees at Durga Puja mandaps. This marks the first time a Bangladesh PM has visited puja sites outside the capital during the festival. He'll depart Dhaka at 9:00 am by military aircraft."
-   },
-   "bn": {
-    "title": "প্রধানমন্ত্রী তারেক রহমান দুর্গা পূজায় তিন বিভাগ পরিদর্শন করবেন",
-    "summary": "প্রধানমন্ত্রী তারেক রহমান মঙ্গলবার রংপুর, রাজশাহী এবং চট্টগ্রাম পরিদর্শন করবেন দুর্গা পূজার মণ্ডপ দেখতে। এটি বাংলাদেশের প্রধানমন্ত্রীর রাজধানীর বাইরে পূজার মণ্ডপ পরিদর্শনের প্রথম ঘটনা। তিনি সকাল ৯টায় সেনাবাহিনীর বিমানে ঢাকা থেকে রওনা হবেন।"
-   }
-  },
-  {
-   "id": "1ts3d6x",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/trump-boasts-tariffs-a-huge-success-at-making-things-expensive/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Trump_Boasts_NIB_G_PH.jpg",
-   "published": "2026-10-19T18:54:43.000Z",
-   "added": "2026-10-19T21:00:11.564Z",
-   "origTitle": "Trump Boasts Tariffs A Huge Success At Making Things Expensive",
-   "en": {
-    "title": "Trump brags tariffs are great at making things expensive",
-    "summary": "The Onion reports President Trump boasted that his tariffs have successfully made everything more expensive for Americans. He claimed credit for surging costs on gas, eggs, and household items, calling it a victory. This is satire."
-   },
-   "bn": {
-    "title": "ট্রাম্প গর্ব করছে ট্যারিফ দাম বাড়ায় খুব ভালো",
-    "summary": "দ্য অনিয়ন রিপোর্ট করে ট্রাম্প দাবি করছেন তার ট্যারিফ আমেরিকানদের জন্য সবকিছু অনেক দামী করে তুলেছে। গ্যাস, ডিম এবং দৈনন্দিন পণ্যের দাম বৃদ্ধির জন্য তিনি নিজেকে যোগ্য দেখাচ্ছেন। এটা ব্যঙ্গ।"
-   }
-  },
-  {
-   "id": "1oomj9",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
-   "published": "2026-10-19T20:09:24.000Z",
-   "added": "2026-10-19T21:00:11.564Z",
-   "origTitle": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-   "en": {
-    "title": "Amazon launches TorchNeuron to challenge Nvidia's AI dominance",
-    "summary": "Amazon Web Services released TorchNeuron, a tool that lets AI apps run on its Trainium chip with just one configuration change—no code rewriting needed. About 85% of AI apps use PyTorch, which Nvidia's CUDA has long dominated. Amazon is taking a direct shot at Nvidia's grip on AI development."
-   },
-   "bn": {
-    "title": "এমাজন এনভিডিয়াকে চ্যালেঞ্জ জানাতে টর্চনিউরন লঞ্চ করল",
-    "summary": "আমাজন ওয়েব সার্ভিসেস টর্চনিউরন টুল বের করেছে যা এআই অ্যাপকে তার ট্রেনিয়াম চিপে চালাতে দেয় একটি কনফিগারেশন লাইন বদলেই। এআই ডেভেলপারদের ৮৫ শতাংশ পাইটর্চ ব্যবহার করে যেখানে এনভিডিয়ার সিইউডিএ ঐতিহ্যবাহী শীর্ষস্থানীয়। এমাজন সরাসরি এনভিডিয়ার এআই আধিপত্যে আঘাত করছে।"
-   }
-  },
-  {
-   "id": "19tijrb",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-   "image": "https://i.guim.co.uk/img/media/1fcb4211343f1e186853a25b4e44873a28588f33/124_21_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=cc8854a028b039b4861c34a8bb8679b9",
-   "published": "2026-10-19T16:08:14.000Z",
-   "added": "2026-10-19T21:00:11.564Z",
-   "origTitle": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-   "en": {
-    "title": "Kenyan cult leader guilty of murdering 190 children",
-    "summary": "Paul Mackenzie and about 30 others were convicted of murdering 190 children and one adult in Kenya's worst cult disaster. Mackenzie's Good News International Church ordered followers to starve themselves and their children to reach heaven. Over 400 bodies were found in Shakahola forest; only 26 identified."
-   },
-   "bn": {
-    "title": "কেনিয়ার সম্প্রদায়নেতা ১৯০ শিশু হত্যায় দোষী",
-    "summary": "পল ম্যাকেনজি এবং আরো ৩০ জনকে কেনিয়ায় ১৯০ শিশু ও একজন প্রাপ্তবয়স্ক হত্যায় দোষী সাব্যস্ত করা হয়েছে। তার গির্জা সদস্যদের জন্য নির্ধারণ করেছিল স্বেচ্ছায় ক্ষুধার্ত থাকার আদেশ, দাবি করে স্বর্গে যাওয়ার জন্য। শাকাহোলা বনে ৪০০ এর বেশি মৃতদেহ পাওয়া গেছে।"
-   }
-  },
-  {
-   "id": "1kra7ej",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/no-other-country-matches-bangladesh-communal-harmony-muktadir-1577911",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/khandakar_abdul_muktadir.jpg",
-   "published": "2026-10-19T18:50:00.000Z",
-   "added": "2026-10-19T21:00:11.564Z",
-   "origTitle": "No other country matches Bangladesh in communal harmony: Muktadir",
-   "en": {
-    "title": "Bangladesh has unmatched communal harmony, says minister",
-    "summary": "Commerce Minister Khandakar Abdul Muktadir said Bangladesh stands alone in communal harmony across world history. He was visiting Durga Puja mandaps in Sylhet on October 19. Muktadir claimed disturbances only happen when vested groups try to sabotage for political gain."
-   },
-   "bn": {
-    "title": "বাংলাদেশের সাম্প্রদায়িক সম্প্রীতি অতুলনীয়: মুক্তাদির",
-    "summary": "বাণিজ্য মন্ত্রী খন্দকার আব্দুল মুক্তাদির বলেছেন বাংলাদেশের মতো সাম্প্রদায়িক সম্প্রীতি বিশ্বে দ্বিতীয়টি নেই। তিনি সিলেটে দুর্গা পূজার মণ্ডপ পরিদর্শন করেছেন ১৯ অক্টোবরে। মুক্তাদির বলেন সাম্প্রদায়িক অশান্তি আসে যখন স্বার্থবাজ গোষ্ঠী রাজনৈতিক লাভের জন্য ষড়যন্ত্র করে।"
-   }
-  },
-  {
-   "id": "gwafyl",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/sport/football/975584/%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A7%8B-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%87%E0%A6%A7%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%93",
-   "image": null,
-   "published": "2026-10-19T20:09:39.000Z",
-   "added": "2026-10-19T21:00:11.564Z",
-   "origTitle": "বিপাকে রোনালদো, নিষেধাজ্ঞার সঙ্গে গুনলেন জরিমানাও",
-   "en": {
-    "title": "Ronaldo banned and fined for leaving Portugal squad",
-    "summary": "Cristiano Ronaldo got hit with a 30-day ban and a 255 euro fine by Portugal's football federation. The 41-year-old Al-Nasr forward deliberately broke federation rules by leaving the national team during the UEFA Nations League campaign. The disciplinary council didn't hold back."
-   },
-   "bn": {
-    "title": "রোনালদো নিষেধাজ্ঞা এবং জরিমানায় পড়লেন",
-    "summary": "ক্রিস্টিয়ানো রোনালদোকে ৩০ দিনের নিষেধাজ্ঞা এবং ২৫৫ ইউরো জরিমানা দিল পর্তুগাল ফুটবল ফেডারেশন। ৪১ বছর বয়সী তারকা উয়েফা নেশনস লিগের সময় জাতীয় দল ছেড়ে চলে গিয়েছিলেন। শৃঙ্খলা কমিটি নিয়মের লঙ্ঘন ধরেছে।"
    }
   }
  ]
