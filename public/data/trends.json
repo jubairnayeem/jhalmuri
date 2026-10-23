@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-23T19:07:13.027Z",
+ "updatedAt": "2026-10-23T22:06:26.592Z",
  "burning": [
   {
-   "id": "5p7k5e",
+   "id": "12etskv",
    "heat": 5,
    "why": {
-    "en": "Hotel fire in Cox's Bazar trending massively on Google; 300 tourists evacuated safely.",
-    "bn": "কক্সবাজারে হোটেল আগুনের খবর গুগলে ট্রেন্ডিং, ৩০০ পর্যটক নিরাপদে বের হয়েছেন।"
+    "en": "Premier League match generating massive global search traffic (2000+).",
+    "bn": "প্রিমিয়ার লিগ ম্যাচ বিশাল সার্চ ট্রাফিক তৈরি করছে (২০০০+)।"
    },
    "rank": 1
   },
   {
-   "id": "1kizt47",
+   "id": "uqetu7",
    "heat": 4,
    "why": {
-    "en": "Bangladesh Bank website shut over cyber threat; major security story affecting the financial system.",
-    "bn": "বাংলাদেশ ব্যাংকের ওয়েবসাইট সাইবার হুমকির কারণে বন্ধ; আর্থিক ব্যবস্থাকে প্রভাবিত করে এমন বড় ঘটনা।"
+    "en": "Afghanistan's tri-series win covered by multiple Bangladeshi sports outlets.",
+    "bn": "আফগানিস্তানের ট্রাই-সিরিজ জয় একাধিক বাংলাদেশী ক্রীড়া আউটলেটে কভার হয়েছে।"
    },
    "rank": 2
   },
   {
-   "id": "19ibdsv",
+   "id": "1i8ufo0",
    "heat": 4,
    "why": {
-    "en": "Land ministry shuts digital services over PHP security bugs; part of wider cybersecurity crisis.",
-    "bn": "ভূমি মন্ত্রণালয়ের ডিজিটাল সেবা PHP নিরাপত্তা ত্রুটির কারণে বন্ধ; বৃহত্তর সাইবার সংকটের অংশ।"
+    "en": "US-Saudi diplomatic move over Houthi strikes, major geopolitical news.",
+    "bn": "হুথি হামলার কারণে যুক্তরাষ্ট্র-সৌদি কূটনৈতিক পদক্ষেপ, বড় ভূ-রাজনৈতিক খবর।"
    },
    "rank": 3
   },
   {
-   "id": "1yaeacd",
+   "id": "1m5x0bl",
    "heat": 3,
    "why": {
-    "en": "Police arrest 28 in anti-drug operation at Gumtigathor; significant law enforcement action.",
-    "bn": "গুমটিগাথর এলাকায় অ্যান্টি-ড্রাগ অপারেশনে ২৮ জন গ্রেপ্তার; উল্লেখযোগ্য আইনশৃঙ্খলা ব্যবস্থা।"
+    "en": "Two Bangladeshis executed in Saudi Arabia; sensitive consular issue covered nationally.",
+    "bn": "দুই বাংলাদেশী সৌদিতে সম্পাদিত হয়েছে; জাতীয় পর্যায়ে সংবেদনশীল কনসুলার সমস্যা।"
    },
    "rank": 4
   },
   {
-   "id": "zztgmj",
+   "id": "5p7k5e",
    "heat": 3,
    "why": {
-    "en": "Afghanistan wins tri-series, crushes Zimbabwe in final; regional cricket news trending.",
-    "bn": "আফগানিস্তান ট্রাই-সিরিজ জিতে জিম্বাবোয়েকে চূড়ান্তে পরাজিত করেছে; আঞ্চলিক ক্রিকেট খবর।"
+    "en": "Major safety incident at tourist hotspot Cox's Bazar draws local and national attention.",
+    "bn": "পর্যটক কেন্দ্র কক্সবাজারে বড় নিরাপত্তা ঘটনা স্থানীয় ও জাতীয় মনোযোগ আকর্ষণ করছে।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "5p7k5e",
-   "tag": "#CoxsBazarFire",
+   "id": "12etskv",
+   "tag": "#PremierLeague",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Cox's Bazar hotel fire evacuation",
-    "text": "A fire at a Cox's Bazar hotel forced evacuation of 300 tourists. All evacuated safely."
+    "title": "Ipswich vs Nottingham Forest chaos",
+    "text": "Ipswich Town drew 1-1 with Nottingham Forest as Julio Enciso canceled out Neco Williams' opener. VAR drama marked the match."
    },
    "bn": {
-    "title": "কক্সবাজার হোটেল আগুন",
-    "text": "কক্সবাজারের একটি হোটেলে আগুন লেগেছে এবং ৩০০ পর্যটক সরিয়ে আনা হয়েছে। সবাই নিরাপদে বেরিয়ে এসেছেন।"
+    "title": "ইপসুইচ বনাম নটিংহাম জংগল চ্যাওস",
+    "text": "ইপসুইচ টাউন নটিংহাম ফরেস্টের সাথে ১-১ ড্র করেছে। জুলিও এনসিসো নেকো উইলিয়ামসের গোল রদ করেছেন এবং ভিএআর ড্রামা ছিল।"
    }
   },
   {
-   "id": "1kizt47",
-   "tag": "#CyberSecurityAlert",
+   "id": "uqetu7",
+   "tag": "#CricketAsia",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh Bank website shutdown",
-    "text": "Bangladesh Bank closed its website due to a cyber threat, though banking services continue normally."
+    "title": "Afghanistan bowlers dominate tri-series",
+    "text": "Afghanistan's bowling performance powered them to win the tri-series title, crushing Zimbabwe in the final."
    },
    "bn": {
-    "title": "বাংলাদেশ ব্যাংক ওয়েবসাইট বন্ধ",
-    "text": "সাইবার হুমকির কারণে বাংলাদেশ ব্যাংক তার ওয়েবসাইট বন্ধ করেছে, তবে ব্যাংকিং সেবা স্বাভাবিক চলছে।"
+    "title": "আফগানিস্তানের বোলাররা ট্রাই-সিরিজ জয় করেছে",
+    "text": "আফগানিস্তানের বোলিং পারফরম্যান্স তাদের ট্রাই-সিরিজ শিরোপজয়ের দিকে নিয়ে গেছে, জিম্বাবোয়েকে চূড়ান্তে পরাজিত করেছে।"
    }
   },
   {
-   "id": "1m5x0bl",
-   "tag": "#ExecutionNews",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Two Bangladeshis executed in Saudi Arabia",
-    "text": "Two Bangladeshi nationals were executed in Saudi Arabia. Dhaka knew the charges but was not informed of the sentence."
-   },
-   "bn": {
-    "title": "সৌদি আরবে দুই বাঙালির মৃত্যুদণ্ড",
-    "text": "সৌদি আরবে দুই বাঙালি নাগরিকের মৃত্যুদণ্ড দেওয়া হয়েছে। ঢাকা আরোপ জানত কিন্তু সাজার কথা জানানো হয়নি।"
-   }
-  },
-  {
-   "id": "13hs8uf",
-   "tag": "#HealthAlert",
+   "id": "jtjs07",
+   "tag": "#TechViral",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "More measles-like illness deaths",
-    "text": "Two additional deaths have been linked to a measles-like illness in Bangladesh."
+    "title": "Cute robots break preorder records",
+    "text": "Microduck robots went viral, racking up 20,000 preorders in just one day on launch."
    },
    "bn": {
-    "title": "মাম্পস সদৃশ রোগে আরও মৃত্যু",
-    "text": "বাংলাদেশে মাম্পস সদৃশ রোগে আরও দুটি মৃত্যু রেকর্ড করা হয়েছে।"
+    "title": "মিনি রোবট প্রি-অর্ডার রেকর্ড ভাঙছে",
+    "text": "মাইক্রোডাক রোবট ভাইরাল হয়েছে, লঞ্চের প্রথম দিনে ২০,০০০ প্রি-অর্ডার সংগ্রহ করেছে।"
+   }
+  },
+  {
+   "id": "1i8ufo0",
+   "tag": "#MiddleEastTensions",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "US pulls diplomats from Saudi Arabia",
+    "text": "The United States ordered diplomats to leave Saudi Arabia over repeated Houthi strikes on the kingdom."
+   },
+   "bn": {
+    "title": "যুক্তরাষ্ট্র সৌদি থেকে কূটনীতিজ্ঞদের প্রত্যাহার করছে",
+    "text": "হুথি হামলার কারণে যুক্তরাষ্ট্র সৌদি আরবিয়া থেকে কূটনীতিজ্ঞদের প্রত্যাহারের আদেশ দিয়েছে।"
    }
   }
  ],

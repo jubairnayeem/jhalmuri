@@ -1,6 +1,248 @@
 {
- "updatedAt": "2026-10-23T19:06:56.268Z",
+ "updatedAt": "2026-10-23T22:06:09.663Z",
  "items": [
+  {
+   "id": "uqetu7",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1559773.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/424200/424262.jpg",
+   "published": "2026-10-23T18:20:01.000Z",
+   "added": "2026-10-23T22:06:09.663Z",
+   "origTitle": "Nabi, Rashid and quicks lead Afghanistan to tri-series title",
+   "en": {
+    "title": "Afghanistan wins tri-series title with bowling performance",
+    "summary": "Afghanistan clinched the tri-series title, powered by strong bowling from Nabi and Rashid. Zimbabwe were bundled out for 169, with Ibrahim Zadran scoring an unbeaten 70 in the chase. The victory showcases Afghanistan's competitive cricket strength."
+   },
+   "bn": {
+    "title": "দ্রুতগতির বোলিং দিয়ে ত্রিমুখী টুর্নামেন্ট জিলো আফগানিস্তান",
+    "summary": "নবী এবং রশিদের শক্তিশালী বোলিং দিয়ে আফগানিস্তান ত্রিমুখী টুর্নামেন্ট জিতেছে। জিম্বাবোয়ে ১৬৯ রানে অলআউট হয়েছে, আর ইব্রাহিম জাদরান চেজে অপরাজেয় ৭০ বানিয়েছেন। এই জয় আফগানিস্তানের ক্রিকেট শক্তি দেখায়।"
+   }
+  },
+  {
+   "id": "1i8ufo0",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Daily Star",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalRwMXRrMDJmVDJMSzJQcHdQZF84UWZYSUFVYVNyZ2Q4emd3cmkzOWZ3bnEwbzhaLUpyQ1lMclpUTDhsWUx3Tk1UcjhXYWRrMHM3SnM1d3J6SmN3bXd5dVgyS1BSYXdFczBHSnFNemJSc3VyYlFIZUNwdU9kTUI0c3NQWF9BWTNDWVUtVGpTNURZWENOVXpNWUZFMU04bDdBczNYVl9HS0pqS3JxT2VCN3V3?oc=5",
+   "image": null,
+   "published": "2026-10-23T19:24:31.000Z",
+   "added": "2026-10-23T22:06:09.663Z",
+   "origTitle": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+   "en": {
+    "title": "US orders diplomats to leave Saudi Arabia over Houthi strikes",
+    "summary": "The United States has ordered its diplomats to depart Saudi Arabia following Houthi military strikes on the kingdom. The move reflects growing security concerns in the region. The pullback affects diplomatic operations in a key Middle Eastern ally."
+   },
+   "bn": {
+    "title": "হুতি হামলার কারণে সৌদি আরব থেকে US কূটনীতিকদের সরিয়ে নিচ্ছে",
+    "summary": "হুতি বাহিনীর হামলার পর যুক্তরাষ্ট্র সৌদি আরব থেকে তার কূটনীতিকদের সরিয়ে নেওয়ার নির্দেশ দিয়েছে। এই পদক্ষেপ এলাকার নিরাপত্তা উদ্বেগ বৃদ্ধি প্রতিফলিত করে। এটি মধ্যপ্রাচ্যের একটি গুরুত্বপূর্ণ মিত্রে কূটনৈতিক কার্যক্রম প্রভাবিত করবে।"
+   }
+  },
+  {
+   "id": "11nbgj1",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "ইত্তেফাক",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNQkQ0OHd4MlBTWXFVdmFQTFZ3bmhkalVneWh1SWlqTk13NEZRWENMS09VbFhDYlZMRDdpa3Vrcno5eEZadGhmODhIVkt4VEViUGFSRXpyVHZWdEp4OW9EMXl1aGZWWkU1YmFqSHNJZTJNTFBkSVJtLTkyV3NTTEo3SVVIbWRWcDUzUXNaSi1acXduQ3dlR3p2Rm5IN3d0SzJKMXhjZkk5bVpuMmN0Vy1lbXIxdmtXUkFMWk5TVnFHYkN1aUNGRkY5bHFNMEttMnM3OXpwVVI0UERQVnF2TDY5TnR4dTIwaVBlVFNNc3F1RzU0cGgyNDJQdk94cF9Xc18ya1NMTjgxei1LMHFXZTN0MDF4RmRnOVRRbGd4YVE0ZVJ0a2tiVFg2dkpxdkFCQng0OFBTT0o1cnpIYkpkcjQtQUZMaVhPN2dhYTVSU1dNVXZTS3RVYzkwNnBlNEVDc1MyZmhaYWFsOHFMTlVva25OVy1qcTMyN0xjZFFVTGEydEYtRWR6WXpnZ3NpTmxPX0NXMWZPZWg0Z1Zwd2lnVFlTMzY0dGhMejRvdTlPSXhnVlh6a19VdGdNOXhwWnZvd2ticTJVRy1zYlFjVFMzUlc4TWk4QXlRXzlHWmdrSUpjOC1STnJFc2djUll0LTVOaXlYLU1LeNIB-gNBVV95cUxQTFFfMDd1bUF1WmZRTUc3THFXUDFneldERllBTUJWbFJBX1pma0thb1UwcldsNnVHMFFQUEM0WlBnWVRTbFIwVHNKTjhYMm9ITzVZNXBxeEFRZmVFZVBLdnBrWkNsdnN5aG5xM1huZkZ6SUp5RTV1ajhNVGw3dWFkN0F4ejhzVnZPc1ZnTkt2UkMyNF9ZaklBVTdLSkd4Wk1XUUdva0NZNHVjdWpsVTRnaFpwLV81OUdRcFM4Z2VpTVVaNm9SUjEtOUt4bDFlV2kwZUU3UXV6Mk5mLU14ZzJSQzhlX1ZCTThaQ1FtdDF6WDVEcWtWQ1VseGlIQzB0RUxPSnM3UTJMRHFEY3B1Ym9wd0JETHBmQ1BBaXZOOEtLWnlxS3VZb1k4U1ZpSE4xcVRKalUxRjJyb2xqX0RSTjNWcjVlZG1XV2d0ZjNZSzZDZ0sxbEYwV1dHcGxSSVo0c09YS05RdV9IOGlKWjAtVmlPQjRLOGlJTjZ3UHMyMHRidmVXdmFQd09mYWRrQ2R5WWFxcmlHUXVOY2ozeF9Qc3lEdENtZmN1dnRGdl9sWUFJUGd1X2xlYlJ6Znh3bVZhUnZ5bnl0M3RKR1JZVGlabllpRFlnX2p2OFNuNXVBdXZ2R3p6QjV3V2diMXlmUlZNYkNrczY2Mnl1Y1NqZw?oc=5",
+   "image": null,
+   "published": "2026-10-23T11:15:54.000Z",
+   "added": "2026-10-23T22:06:09.663Z",
+   "origTitle": "সৌদি আরবে হামলার তীব্র নিন্দা বাংলাদেশের",
+   "en": {
+    "title": "Bangladesh condemns attack on Saudi Arabia",
+    "summary": "Bangladesh has strongly condemned an attack on Saudi Arabia. The statement reflects the country's position on regional security and international relations. Details of the incident and Bangladesh's formal response were issued through official channels."
+   },
+   "bn": {
+    "title": "সৌদি আরবের উপর হামলার নিন্দা করলো বাংলাদেশ",
+    "summary": "বাংলাদেশ সৌদি আরবের উপর একটি হামলার তীব্র নিন্দা করেছে। এই বিবৃতি আঞ্চলিক নিরাপত্তা এবং আন্তর্জাতিক সম্পর্কের বিষয়ে দেশের অবস্থান প্রতিফলিত করে। ঘটনা এবং বাংলাদেশের সরকারি প্রতিক্রিয়া অফিসিয়াল চ্যানেলের মাধ্যমে জানানো হয়েছে।"
+   }
+  },
+  {
+   "id": "1tghcbx",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "সমকাল",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQLXBtSG9yalRhVTUxazhMRVBxMW4yVWVOTXFrVU4yNHd5b05ubVdlUDk0NEZhdHZ2Q3ZOTVAyUm91d1Y3dGJZb1FOLW5HNFZtQVc3aXUzLWcwdjlxNko4ZF9kTXFSTFVBVE9YUC1YZDdjQkFBcV9rRFVKQlU1TE1ZRnRpbjBOZ2JTZjcyOVBDRXVlUXg2TDVDQ3hwUUVYSTJHYUtmU1l2Q1dJcnFPVnNYaVNOMi1Kcmk5R1J5ZHJNbndrcGx3TGR0aHpRVVp0QzdvbUNpeXBSWlBwNlp2ZHkxbkczZEFybXlVN0RjMFpsbEtVYXByMWNiRFdEVUo0TUFwY042YmxEVHprUzlTaFJ1NVhhaEZGV3RvTkJQN1NlTTRuT1pHNDQ5QWlPZ3U2YXhvdWdZVmoxeVJ2Mkx3a3FZM210LV9Pa3hOYVl0WTA3U2duT1NHdE1wTDhVU2gwaEplcG1aOU9HWkNvTm9QMFIzNmNrZnAwaXlKNmRNOFhkWG1GZGVHWi13ZHotN2ZqbFZSaThhZVBJOFVEMFVfdUFWSy1NQlhPWFJ4bzdPMHlQUi0zNm5CdWhFejc3bzFKdmh0UzNHWDUxZXBTYXI1VVJGQXRwMndvUDBBeG9oWjNsYk1zNGd6QU9xWGRLMXkzVjFBMmZfVnE1UldCVHMzVkpSU05qSExQblhYTHlHdEtQc0ZIVC16dkJCcER5S2JBZ28xWkxDOWJpSkR3RnU4enZ0WC1pWHp2cWtlanRqSFdlN1RIWFFBWG1DYldrWTZfR1NmT0gycw?oc=5",
+   "image": null,
+   "published": "2026-10-23T04:58:49.000Z",
+   "added": "2026-10-23T22:06:09.663Z",
+   "origTitle": "আপত্তির মুখে এবার দিরাইয়ে বন্ধ হলো বাউল গানের আসর",
+   "en": {
+    "title": "Baul music gathering cancelled in Diraai amid opposition",
+    "summary": "A Baul music program in Diraai was cancelled after facing local objections. Baul is a centuries-old tradition of wandering minstrels in Bengali culture. The cancellation raises questions about cultural space and community concerns in the area."
+   },
+   "bn": {
+    "title": "আপত্তির মুখে দিরাইতে বাউল গানের অনুষ্ঠান বাতিল",
+    "summary": "স্থানীয় আপত্তির কারণে দিরাইতে বাউল গানের একটি অনুষ্ঠান বাতিল করা হয়েছে। বাউল বাংলা সংস্কৃতির শত শত বছরের ঐতিহ্য। এই বাতিল সাংস্কৃতিক স্থান এবং সম্প্রদায়ের উদ্বেগ নিয়ে প্রশ্ন তোলে।"
+   }
+  },
+  {
+   "id": "13t7r7p",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "কালের কণ্ঠ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjX05RUm9CdFBaOFlmaHJidXB2UlBmMHVHcWY2am1OeldfTk1iM29xVGFmNnhPYzUxZXdWd0xCRUNMZktlcU9mSGZoRkNkRDJDTXFLeVdOamFoYkJNVldEdnplaHh1dWtGeXQxem1vdnlxLUg4?oc=5",
+   "image": null,
+   "published": "2026-10-23T15:05:01.000Z",
+   "added": "2026-10-23T22:06:09.663Z",
+   "origTitle": "অচেতন করে ধর্ষণের পর জন্মনিয়ন্ত্রণের ওষুধ খাওয়াতেন মাদরাসাশিক্ষক",
+   "en": {
+    "title": "Madrasa teacher arrested for sexual assault and forced contraception",
+    "summary": "A madrasa teacher was arrested for allegedly rendering victims unconscious, committing sexual assault, and then forcing them to take contraceptive pills. The case involves serious criminal charges. Authorities are investigating the extent of the crimes."
+   },
+   "bn": {
+    "title": "মাদরাসা শিক্ষক ধর্ষণ এবং জন্মনিয়ন্ত্রণ ওষুধ জোরপূর্বক খাওয়ানোর অভিযোগে গ্রেপ্তার",
+    "summary": "একজন মাদরাসা শিক্ষক অচেতন করে ধর্ষণ এবং তারপর জন্মনিয়ন্ত্রণের ওষুধ জোরপূর্বক খাওয়ানোর অভিযোগে গ্রেপ্তার হয়েছেন। এটি গুরুতর অপরাধের একটি মামলা। তদন্তকারীরা অপরাধের ব্যাপ্তি নির্ধারণ করছেন।"
+   }
+  },
+  {
+   "id": "1ggc9sp",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDZFNEc0NDc2txOFkzaldqb0VrSHZVNnhVMkN4bExJSUtwajdlN2lJRER1RjFqRmJkRF9xWG1ycnhWa0ZXMHNBY3VadUM0V2o0dmtoTdIBYkFVX3lxTE02aXRVUkN5a3BQRzc2WWJ1dW5hTkpGdnRjTno2NGpjYUFDZktWTUtGSUVMRll1a3dGZk1LRjBvbnM1SUk5TXZmMThjaDBoWWdaZ1Npc25OZlhNQk93eXhvUHdR?oc=5",
+   "image": null,
+   "published": "2026-10-23T08:46:07.000Z",
+   "added": "2026-10-23T22:06:09.663Z",
+   "origTitle": "Rumeen Farhana takes supporters to police station, OC calls it a ‘mob’",
+   "en": {
+    "title": "Rumeen Farhana brings supporters to police station",
+    "summary": "Rumeen Farhana took her supporters to a police station, but the Officer-in-Charge described the group as a 'mob'. The incident highlights tension between activists and law enforcement. Details about what prompted the visit remain unclear from the available information."
+   },
+   "bn": {
+    "title": "রুমিন ফারহানা সমর্থকদের নিয়ে থানায় গেলেন",
+    "summary": "রুমিন ফারহানা তার সমর্থকদের নিয়ে একটি থানায় গিয়েছেন, কিন্তু ওসি এই ভিড়কে 'মব' বলে অভিহিত করেছেন। ঘটনাটি কর্মী এবং আইন প্রয়োগকারীদের মধ্যে টানাপোড়েন তুলে ধরে। তার ঠিক কারণ এখনো স্পষ্ট নয়।"
+   }
+  },
+  {
+   "id": "8idmyh",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/gm3ugus9bd",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-23/18hp60t2/Capture.PNG",
+   "published": "2026-10-23T21:05:16.000Z",
+   "added": "2026-10-23T22:05:48.836Z",
+   "origTitle": "ফ্রান্সে প্রবাসী বাংলাদেশিদের দোকানেও ভাঙচুর-লুটপাট, আতঙ্কে ব্যবসায়ীরা",
+   "en": {
+    "title": "Bangladeshi shops in Paris looted amid unrest over cost of living",
+    "summary": "During protests over rising living costs in France last week, several Bangladeshi-owned businesses in Paris were damaged and looted. One shop selling mobile phones and electronics lost goods worth 90,000 euros. Paris police reported 451 shop break-ins alone. France deployed 70,000 police and gendarmerie nationwide to control the violence. Bangladeshi merchants and migrant workers are now fearful of more unrest."
+   },
+   "bn": {
+    "title": "ফ্রান্সে বাংলাদেশিদের দোকানে লুটপাট, ৯০ হাজার ইউরো ক্ষতি",
+    "summary": "জীবনযাত্রার খরচ নিয়ে ফ্রান্সে চলা বিক্ষোভে গত সপ্তাহে বাঙালি ব্যবসায়ীদের বেশ কয়েকটি দোকান ভাঙচুর ও লুটের শিকার হয়েছে। একজন মোবাইল ফোনের দোকানদার ৯০ হাজার ইউরো সমমূল্যের মাল লুট হারিয়েছেন। ফ্রান্স সরকার সহিংসতা নিয়ন্ত্রণে ৭০ হাজার পুলিশ মোতায়েন করেছে। বাংলাদেশি ব্যবসায়ীরা আরও হামলার আশঙ্কায় আছেন।"
+   }
+  },
+  {
+   "id": "jtjs07",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+   "published": "2026-10-23T21:59:19.000Z",
+   "added": "2026-10-23T22:05:48.836Z",
+   "origTitle": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "en": {
+    "title": "Cute Microduck robots go viral, 20,000 preorders in one day",
+    "summary": "Nvidia CEO Jensen Huang played with adorable waddling Microduck robots at a Berlin conference, and they went viral. The tiny robots can walk, sit, and do summersaults on voice command. Preorders jumped to 20,000 units by the next day, and they're expected to arrive before Christmas. They could be the hottest toy of the season."
+   },
+   "bn": {
+    "title": "মাইক্রোডাক রোবট ভাইরাল, এক দিনে ২০ হাজার প্রি-অর্ডার",
+    "summary": "এনভিডিয়ার সিইও জেনসেন হুয়াং বার্লিনে একটি সম্মেলনে ছোট মাইক্রোডাক রোবটের সাথে খেলেছেন এবং ভিডিওটি ভাইরাল হয়েছে। এই রোবটগুলি কণ্ঠস্বরের নির্দেশে হাঁটে, বসে এবং ডাইভিং করে। পরের দিনই ২০ হাজার প্রি-অর্ডার হয়েছে এবং ক্রিসমাসের আগে পৌঁছানোর কথা। এটি এ বছরের সেরা খেলনা হতে পারে।"
+   }
+  },
+  {
+   "id": "9flp6h",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792790831.jpg?resize=1920%2C1080&quality=80",
+   "published": "2026-10-23T21:27:32.000Z",
+   "added": "2026-10-23T22:05:48.836Z",
+   "origTitle": "Masked gunmen kill seven in attack on church funeral in Jordan",
+   "en": {
+    "title": "Seven killed in attack on church funeral in Karak, Jordan",
+    "summary": "Two masked gunmen opened fire during a funeral at a Greek Orthodox church in Karak, killing at least seven people and wounding 34. Security forces are searching for the suspects. King Abdullah has vowed severe punishment and urged national unity in response to the violence."
+   },
+   "bn": {
+    "title": "জর্ডানের গির্জায় বন্দুকধারীদের হামলায় সাত জন নিহত",
+    "summary": "জর্ডানের করাক শহরে একটি গ্রিক অর্থোডক্স গির্জায় জানাজার সময় মুখোশধারী দুই বন্দুকধারী গুলি চালায়। এতে কমপক্ষে সাত জন মারা যায় এবং ৩৪ জন আহত হয়। রাজা আবদুল্লাহ কঠোর শাস্তির প্রতিশ্রুতি দিয়েছেন এবং জাতীয় ঐক্যের আহ্বান জানিয়েছেন।"
+   }
+  },
+  {
+   "id": "120rn74",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/national/976337/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%B8%E0%A7%9C%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A7%87-%E0%A6%9C%E0%A6%AE%E0%A6%BF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3",
+   "image": null,
+   "published": "2026-10-23T21:39:56.000Z",
+   "added": "2026-10-23T22:05:48.836Z",
+   "origTitle": "কক্সবাজারে সেতুর সংযোগ সড়ক নির্মাণে জমি অধিগ্রহণ: অনুমোদন পেলো ১.৮৯ একর",
+   "en": {
+    "title": "Cox's Bazar bridge project gets land approval for connecting road",
+    "summary": "Local government has cleared the acquisition of 1.8947 acres of land for a connecting road to the bridge being built over Bharuakhali Channel in Cox's Bazar town. The approval came on October 15. This replaces an earlier clearance from March 2021 for 3.1567 acres."
+   },
+   "bn": {
+    "title": "কক্সবাজারে সেতুর রাস্তায় ১.৮৯ একর জমি অধিগ্রহণের অনুমতি",
+    "summary": "কক্সবাজার সদর উপজেলায় ভারুয়াখালী খালের ওপর নতুন সেতুর সংযোগ রাস্তা তৈরিতে ১ দশমিক ৮৯ একর জমি অধিগ্রহণের অনুমোদন দিয়েছে স্থানীয় সরকার বিভাগ। এটি গত অক্টোবরের ১৫ তারিখে ঘোষণা করা হয়। এর আগে ২০২১ সালে এই প্রকল্পে আরও বেশি জমি অধিগ্রহণের অনুমতি ছিল।"
+   }
+  },
+  {
+   "id": "189x1rf",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/features/panorama/bangladeshs-new-poor-why-growth-and-safety-nets-are-failing-1581266",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/25/oms_truck_tcb_goods_poor_5.jpg",
+   "published": "2026-10-23T19:30:00.000Z",
+   "added": "2026-10-23T22:05:48.836Z",
+   "origTitle": "Bangladesh’s new poor: Why growth and safety nets are failing",
+   "en": {
+    "title": "Bangladesh's growth isn't helping millions afford basics",
+    "summary": "Nearly half of Bangladeshi households are borrowing money just to pay for food and daily expenses, even as the economy grows. The World Bank warns poverty could jump to 22.5% by 2026, up from 18.7% in 2022. Without jobs that pay decently, economic growth isn't reaching ordinary people. Families going into debt for survival are trapped—money for repayment means less for healthcare and education."
+   },
+   "bn": {
+    "title": "বৃদ্ধির পরেও লাখো পরিবার খাওয়া-পরার খরচ মেটাতে পারছে না",
+    "summary": "বাংলাদেশের প্রায় ৪৭ শতাংশ পরিবার প্রতিদিনের খরচ মেটাতে ধার নিচ্ছে। গড়ে মাসিক আয় যা হয় তার চেয়ে খরচ বেশি। বিশ্বব্যাংক বলছে দারিদ্র্য ২০২২ সালের ১৮.৭ শতাংশ থেকে ২০২৬ সালে ২২.৫ শতাংশে পৌঁছাতে পারে। অর্থনৈতিক উন্নয়ন যদি সবার জন্য কাজের সুযোগ না বাড়ায়, তাহলে তার লাভ সাধারণ মানুষ পায় না।"
+   }
+  },
   {
    "id": "5p7k5e",
    "section": "news",
@@ -2948,226 +3190,6 @@
    "bn": {
     "title": "শর্ত পূরণ না হলে ইরান যুক্তরাষ্ট্রের সাথে আলোচনা করবে না",
     "summary": "মঙ্গলবার ইরানের সর্বোচ্চ জাতীয় নিরাপত্তা পরিষদের সচিব মেজর জেনারেল মোহসেন রেজাই জানিয়েছেন যে ওয়াশিংটন আগে আস্থা পুনর্গঠনের পদক্ষেপ না নিলে ইরান যুক্তরাষ্ট্রের সাথে কোনো আলোচনায় বসবে না। তিনি এক্সে এই বিবৃতি দিয়েছেন। কোন নির্দিষ্ট শর্ত পূরণ করতে হবে তা তিনি উল্লেখ করেননি।"
-   }
-  },
-  {
-   "id": "1rys5ee",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2s1RXZWb0hvZ1c1MC00T1dJelg5OU5ydkZTZXdPQmtnVjNGRjUyNmlpTDdoTDRZYU9NcnN5Wm80Qmtxemk5WkhLbWwxQmwxbzgweUpEWThiZV8wQkt6MFBUZUVZSE90OVVsdlUySzdVdWl3SElfNTROZ2FOM3dxVzB4Q0k0dkZBR1BiWWdxb1gyeDVlV28zcllIOTJSOWvSAaQBQVVfeXFMTnNNTDVjYjlnNXBxX3hOdHRBQmYtamtoNVo4YnlJTHB4Z0ZBalJKbjFoMjBMbmdoYTEta014VEdBOXF5aXB1bkhQVmgyZ2JCZzdlcy1tWDBaVUs2WU1yTUMtc0VhOXRaS0lNalhtVWEyanFsNHNfQU5ycmNzbElUUkhaNThMamZVd2FHWS1DNTFLMktWUzdzMGp2SXRoMHV0OTBTUTQ?oc=5",
-   "image": null,
-   "published": "2026-10-20T10:36:38.000Z",
-   "added": "2026-10-20T20:30:02.306Z",
-   "origTitle": "Measles outbreak: Death toll reaches 1,204 as three die in 24 hours",
-   "en": {
-    "title": "Measles outbreak death toll reaches 1,204",
-    "summary": "Bangladesh is facing a severe measles outbreak with the death toll rising to 1,204. Three deaths were reported in the last 24 hours. The outbreak represents a serious public health crisis requiring immediate vaccination and medical intervention across the country."
-   },
-   "bn": {
-    "title": "হামের প্রাদুর্ভাবে মৃত্যু ১,২০৪ জন",
-    "summary": "বাংলাদেশে হামের প্রাদুর্ভাব গুরুতর আকার ধারণ করেছে, মৃত্যু ১,২০৪ জনে পৌঁছেছে। গত ২৪ ঘণ্টায় ৩ জন মারা গেছেন। এটি একটি গুরুতর জনস্বাস্থ্য সংকট যার জন্য সর্বত্র টিকাকরণ এবং চিকিৎসা জরুরি।"
-   }
-  },
-  {
-   "id": "1tvb862",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/nbr/cpa-disputes-nbr-study-11-day-cargo-clearance-time-1578866",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/855677999_1106529678899163_4914778462406529654_n.jpg",
-   "published": "2026-10-20T18:55:00.000Z",
-   "added": "2026-10-20T20:30:02.306Z",
-   "origTitle": "CPA disputes NBR study on 11-day cargo clearance time",
-   "en": {
-    "title": "Chittagong Port disputes 11-day cargo clearance study",
-    "summary": "The Chittagong Port Authority challenged an NBR Time Release Study claiming cargo takes 11 days to clear, saying the report was misleading. The CPA says port operations account for only 14% of clearance time, with customs at 8%, while delays stem from other agencies. CPA data shows containers take 5 hours to clear port premises on average. The authority says 70-80% of shipments clear within the four-day free storage period."
-   },
-   "bn": {
-    "title": "চট্টগ্রাম বন্দর ১১ দিনের কার্গো পরিষ্কারের গবেষণার বিরোধিতা করল",
-    "summary": "চট্টগ্রাম বন্দর কর্তৃপক্ষ এনবিআরের একটি গবেষণার বিরোধিতা করেছে যেখানে কার্গো পরিষ্কারে ১১ দিন সময় লাগে বলা হয়। বন্দর কর্তৃপক্ষ বলে পোর্ট অপারেশন মাত্র ১৪% এবং কাস্টমস ৮% সময় নেয়, বাকিটা অন্য সংস্থার কারণে। তাদের তথ্যে কন্টেইনার বন্দর থেকে গড়ে ৫ ঘণ্টায় পরিষ্কার হয়। ৭০-৮০% শিপমেন্ট চার দিনের ফ্রি স্টোরেজ পিরিয়ডে পরিষ্কার হয়।"
-   }
-  },
-  {
-   "id": "1ljcaco",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/world/india/6eju18qq5v",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-20/1g9kr90a/CJP-1.jpg",
-   "published": "2026-10-20T19:51:25.000Z",
-   "added": "2026-10-20T20:30:02.306Z",
-   "origTitle": "ভারতের আন্দোলনকে নেপাল ও বাংলাদেশে সরকার পরিবর্তনের আন্দোলনের সঙ্গে তুলনা করা যাবে না, বললেন অভিজিৎ দিপকে",
-   "en": {
-    "title": "India's youth movement not like Nepal, Bangladesh transitions: CPA leader",
-    "summary": "Cockroach Jana Party leader Abhijit Dipke says India's recent youth-led protests cannot be compared to government changes in Nepal and Bangladesh. He argues the detained party members—Sourav Das and Ashutosh Ranker—pursued non-violent methods inspired by Gandhi's satyagraha, not violent overthrow. Dipke stressed their peaceful approach even while imprisoned, contrasting India's movement with external examples."
-   },
-   "bn": {
-    "title": "ভারতের আন্দোলন নেপাল-বাংলাদেশের সাথে তুলনা করা যায় না",
-    "summary": "কক্করোচ জনতা পার্টির নেতা অভিজিৎ দিপকে বলেছেন ভারতের তরুণদের আন্দোলনকে নেপাল ও বাংলাদেশের সরকার পরিবর্তনের সাথে তুলনা করা যায় না। তিনি দাবি করেন বন্দী নেতা সৌরভ দাস ও আশুতোষ রাঙ্করের অহিংস পদ্ধতি গান্ধীর সত্যাগ্রহ আন্দোলনের মতো। দিপকে তাদের শান্তিপূর্ণ আচরণ এবং কারাগারেও হাসিমুখে থাকার কথা তুলে ধরেন।"
-   }
-  },
-  {
-   "id": "1wij9hk",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/k43p074sxi",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-20/4uwwdiom/d.webp",
-   "published": "2026-10-20T16:57:29.000Z",
-   "added": "2026-10-20T20:30:02.306Z",
-   "origTitle": "Durga Puja: Maha Nabami celebrated, Bijaya Dashami tomorrow",
-   "en": {
-    "title": "Durga Puja peaks: Maha Nabami celebrated, Bisarjan tomorrow",
-    "summary": "Maha Nabami, the ninth day of Durga Puja, was celebrated across Bangladesh with traditional rituals, animal sacrifices, and prayers. Tomorrow is Bijaya Dashami, when devotees will immerse goddess idols in rivers and ponds. This year 33,851 puja mandaps were set up nationwide, up 1,500 from last year. Major celebrations are happening in Dhaka at Kamal Ataturk Park and other grounds."
-   },
-   "bn": {
-    "title": "মহা নবমী পালিত, আগামীকাল বিজয়া দশমী",
-    "summary": "দুর্গা পূজার মহা নবমী সারাদেশে পালিত হয়েছে ঐতিহ্যবাহী পূজা, পশুবলি এবং প্রার্থনার মাধ্যমে। আগামীকাল বিজয়া দশমী, যেদিন ভক্তরা দেবীর মূর্তি নদী ও পুকুরে বিসর্জন দেবেন। এ বছর সারাদেশে ৩৩,৮৫১টি পূজা মণ্ডপ স্থাপন করা হয়েছে, যা গত বছরের চেয়ে ১,৫০০টি বেশি। ঢাকায় কামাল আতাতুর্ক পার্ক এবং অন্যান্য স্থানে বড় আয়োজন চলছে।"
-   }
-  },
-  {
-   "id": "13moba",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/aoc-tidies-up-in-case-federal-agents-stop-by-for-raid/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/AOC_Tidies_NIB_G_GR.jpg",
-   "published": "2026-10-20T17:14:14.000Z",
-   "added": "2026-10-20T20:29:42.461Z",
-   "origTitle": "AOC Tidies Up In Case Federal Agents Stop By For Raid",
-   "en": {
-    "title": "AOC tidies apartment in case FBI raids, reports satirical outlet",
-    "summary": "This is satire. The Onion joked that Rep. Alexandria Ocasio-Cortez was frantically cleaning her apartment ahead of a potential federal raid. The article parodied over-the-top politeness and anxiety about unexpected government inspections."
-   },
-   "bn": {
-    "title": "এওসি এফবিআই রেইডের জন্য অ্যাপার্টমেন্ট পরিষ্কার করছেন—এটি শুধু রসালাপ",
-    "summary": "এটি পরিহাসমূলক গল্প। দ্য অনিয়ন ম্যাগাজিন মজা করে বলেছে রেপ্রেজেন্টেটিভ এওসি তার অ্যাপার্টমেন্ট পরিষ্কার করছেন সম্ভাব্য ফেডারেল রেইডের আগে। এটি সরকারি অনুসন্ধানের আগে অপ্রয়োজনীয় শিষ্টাচারের মজা ওড়া ছিল।"
-   }
-  },
-  {
-   "id": "8wnq1m",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
-   "published": "2026-10-20T20:00:00.000Z",
-   "added": "2026-10-20T20:29:42.461Z",
-   "origTitle": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-   "en": {
-    "title": "Google's Gemini AI in cars now learns your habits and preferences",
-    "summary": "Google is adding a personalized Gemini feature to millions of cars via Android Auto and Google Built-in vehicles. The AI taps into your Gmail, Calendar, Maps, YouTube, and search history to understand your routines. Drivers must opt in, but the feature can alert you about flight delays or predict what you need."
-   },
-   "bn": {
-    "title": "গাড়িতে গুগলের জেমিনি এআই এখন আপনার অভ্যাস শিখবে",
-    "summary": "গুগল জেমিনি এআইকে গাড়িতে আরও ব্যক্তিগত করে তুলছে যা আপনার জিমেইল, ক্যালেন্ডার এবং ম্যাপস ডেটা ব্যবহার করবে। এটি আপনার প্রিফারেন্স বুঝে আপনাকে সাহায্য করতে পারবে, যেমন ফ্লাইট ডিলে জানানো। অ্যান্ড্রয়েড অটোতে এখন থেকে চালু হবে, বাকি গাড়িতে পরে আসবে।"
-   }
-  },
-  {
-   "id": "i67n89",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad7a7dd430d-1792518109.jpg?resize=1920%2C1440",
-   "published": "2026-10-20T20:05:39.000Z",
-   "added": "2026-10-20T20:29:42.461Z",
-   "origTitle": "EU revises Arctic strategy as pressure from Russia, US grows",
-   "en": {
-    "title": "EU unveils new Arctic strategy as Russia and US tensions rise",
-    "summary": "The European Commission released an updated Arctic strategy prioritizing security alongside climate change and economic growth. It plans a maritime security hub to monitor activity and expand icebreaker capacity. The EU is also building infrastructure to reduce dependence on US tech, including a fibre-optic cable to Greenland."
-   },
-   "bn": {
-    "title": "আর্কটিক নিয়ে নতুন কৌশল প্রকাশ করল ইউরোপীয় ইউনিয়ন",
-    "summary": "ইউরোপীয় কমিশন আর্কটিক অঞ্চলে নতুন কৌশল ঘোষণা করেছে যেখানে নিরাপত্তা প্রথম অগ্রাধিকার। এটি সামুদ্রিক তথ্য ভাগাভাগির জন্য একটি নতুন হাব তৈরি করবে এবং আইসব্রেকার সংখ্যা বাড়াবে। ইইউ গ্রীনল্যান্ডে ফাইবার অপটিক্যাল ক্যাবল স্থাপনের মাধ্যমে আমেরিকার উপর নির্ভরতা কমাতে চায়।"
-   }
-  },
-  {
-   "id": "u4wo88",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-20T20:01:04.000Z",
-   "added": "2026-10-20T20:29:42.461Z",
-   "origTitle": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-   "en": {
-    "title": "Zelensky says US intel sharing works again after talks with Trump envoy",
-    "summary": "Ukraine's President Zelensky said US intelligence sharing on Russian missile attacks is working after meeting Trump's envoy Steve Witkoff in Oslo. Finland's president said genuine progress was made on peace proposals, though details were not revealed. The meeting followed accusations that Washington had been withholding key intelligence."
-   },
-   "bn": {
-    "title": "ট্রাম্পের দূতের সাথে দেখা করে জেলেনস্কি বলেন, যুক্তরাষ্ট্রের বুদ্ধিমত্তা শেয়ারিং কাজ করছে",
-    "summary": "ইউক্রেনের রাষ্ট্রপতি জেলেনস্কি অসলোতে ট্রাম্পের বিশেষ দূত স্টিভ উইটকফের সাথে দেখা করে বলেছেন যুক্তরাষ্ট্র থেকে বুদ্ধিমত্তা শেয়ারিং এখন কাজ করছে। ফিনল্যান্ডের রাষ্ট্রপতি বলেছেন শান্তি প্রস্তাব নিয়ে আসল অগ্রগতি হয়েছে। কিয়েভ আগে অভিযোগ করেছিল যুক্তরাষ্ট্র গুরুত্বপূর্ণ তথ্য লুকিয়ে রেখেছে।"
-   }
-  },
-  {
-   "id": "1258mhu",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-   "image": "https://i.guim.co.uk/img/media/e3cc6bc2df625d8764ff2c26a21f332c70f8c113/447_0_4469_3577/master/4469.jpg?width=140&quality=85&auto=format&fit=max&s=9a270fba2605bd139c530a307d72bcbe",
-   "published": "2026-10-20T19:18:03.000Z",
-   "added": "2026-10-20T20:29:42.461Z",
-   "origTitle": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-   "en": {
-    "title": "Guinea-Bissau police raid offices of vaccine researchers praised by RFK Jr",
-    "summary": "Judicial police in Guinea-Bissau raided the offices of controversial vaccine researchers whom RFK Jr, now US HHS secretary, has praised. They seized hepatitis B vaccine doses related to a $3.2 million trial studying African newborns. Police said the seizure did not indicate irregularities in vaccine quality or safety."
-   },
-   "bn": {
-    "title": "গিনি-বিসাউতে পুলিশ অভিযান, ভ্যাকসিন গবেষকদের অফিস তল্লাশি",
-    "summary": "গিনি-বিসাউতে পুলিশ ভ্যাকসিন গবেষকদের অফিসে অভিযান চালিয়ে হেপাটাইটিস বি ভ্যাকসিন জব্দ করেছে। এই গবেষকরা আমেরিকার স্বাস্থ্য বিভাগের সচিব আরএফকে জুনিয়রের প্রশংসিত। গবেষণা প্রকল্পে ৩.২ মিলিয়ন ডলার বিনিয়োগ হয়েছে আফ্রিকান শিশুদের উপর পরীক্ষার জন্য।"
-   }
-  },
-  {
-   "id": "mxlifw",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/975783/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%9B%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87",
-   "image": null,
-   "published": "2026-10-20T20:28:09.000Z",
-   "added": "2026-10-20T20:29:42.461Z",
-   "origTitle": "শিক্ষকের রক্তাক্ত ছবি পাঠিয়ে টাকা দাবি, পারে আবাসিক হোটেল থেকে লাশ উদ্ধার",
-   "en": {
-    "title": "School teacher found dead in Shariatpur hotel after extortion demand",
-    "summary": "A schoolteacher named Abul Bashar was found dead in a residential hotel in Bhedarganj, Shariatpur on Tuesday afternoon. His family says he was abducted and the kidnappers demanded money before the killing. The hotel manager Mamun is absconding."
-   },
-   "bn": {
-    "title": "শরীয়তপুরে শিক্ষক খুন, আগে টাকা দাবি করা হয়েছিল",
-    "summary": "শরীয়তপুরের ভেদরগঞ্জ উপজেলায় একটি আবাসিক হোটেল থেকে স্কুল শিক্ষক আবুল বাশারের লাশ উদ্ধার করা হয়েছে মঙ্গলবার দুপুরে। তার পরিবার জানিয়েছে, অপহরণের পর তাকে হত্যা করা হয় এবং টাকা দাবি করা হয়েছিল। হোটেলের ম্যানেজার মামুন এখন পলাতক।"
    }
   }
  ]
