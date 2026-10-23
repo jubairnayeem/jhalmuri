@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-23T04:38:09.774Z",
+ "updatedAt": "2026-10-23T09:58:24.262Z",
  "burning": [
-  {
-   "id": "1p6hwai",
-   "heat": 5,
-   "why": {
-    "en": "Critical PHP bug knocked millions of websites offline globally; massive cybersecurity story.",
-    "bn": "বিশ্বব্যাপী লক্ষ লক্ষ ওয়েবসাইট অফলাইন করা PHP বাগ; বিশাল সাইবার নিরাপত্তা সংকট।"
-   },
-   "rank": 1
-  },
   {
    "id": "1m5x0bl",
    "heat": 5,
    "why": {
-    "en": "Two Bangladeshis executed in Saudi Arabia; major diplomatic and human rights story.",
-    "bn": "সৌদি আরবে দুজন বাংলাদেশী মৃত্যুদণ্ড কার্যকর; গুরুত্বপূর্ণ কূটনৈতিক সংকট।"
+    "en": "Two Bangladeshis executed in Saudi Arabia; massive Google Trends spike on Saudi Arabia and diplomatic failures.",
+    "bn": "সৌদি আরবে দুই বাংলাদেশি মৃত্যুদণ্ড; গুগল ট্রেন্ডে ভাইরাল এবং কূটনৈতিক ব্যর্থতার প্রশ্ন।"
+   },
+   "rank": 1
+  },
+  {
+   "id": "19ibdsv",
+   "heat": 5,
+   "why": {
+    "en": "Land ministry PHP shutdown plus global PHP crisis story — multiple outlets covering tech security emergency.",
+    "bn": "ল্যান্ড মিনিস্ট্রির পিএইচপি শাটডাউন এবং বৈশ্বিক সংকট একসাথে; প্রযুক্তি জরুরি অবস্থা।"
    },
    "rank": 2
   },
   {
-   "id": "15t96ev",
+   "id": "1netvux",
    "heat": 4,
    "why": {
-    "en": "Sajek blockade: gunfire and conflicting claims between military and group; domestic security tension.",
-    "bn": "সাজেক অবরোধ: গোলাগুলি ও সামরিক বাহিনী ও দলের মধ্যে বিরোধপূর্ণ বিবৃতি।"
+    "en": "Cox's Bazar fire and drowning deaths raising public safety concerns across the country.",
+    "bn": "কক্সবাজারে আগুন এবং ডুবে মৃত্যু; দেশব্যাপী নিরাপত্তা প্রশ্ন।"
    },
    "rank": 3
   },
   {
-   "id": "13hs8uf",
+   "id": "1d33rro",
    "heat": 4,
    "why": {
-    "en": "Measles-like illness deaths rising in Bangladesh; health emergency unfolding.",
-    "bn": "বাংলাদেশে হামের মতো অসুখে মৃত্যু বাড়ছে; স্বাস্থ্য জরুরি অবস্থা।"
+    "en": "Bangladesh knocked out of tri-series after Afghanistan loss; cricket fans reacting strongly.",
+    "bn": "আফগানিস্তানের কাছে হেরে বাংলাদেশ ট্রাই-সিরিজ থেকে বেরিয়ে গেছে।"
    },
    "rank": 4
   },
   {
-   "id": "zojagj",
-   "heat": 4,
+   "id": "15t96ev",
+   "heat": 3,
    "why": {
-    "en": "Murder investigations hampered by decomposed bodies in rivers; ongoing crime crisis.",
-    "bn": "নদীতে পচা লাশ; হত্যার তদন্ত বাধাগ্রস্ত, অপরাধ সংকট চলমান।"
+    "en": "Sajek blockade with gunfire and conflicting accounts; ongoing security tension in hill regions.",
+    "bn": "সাজেকে গোলাগোলি এবং বিরোধপূর্ণ বিবৃতি; পাহাড়ে সংকট চলমান।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
+   "id": "10malwq",
+   "tag": "#SaudiExecutions",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Bangladeshis among 59 executed",
+    "text": "Saudi Arabia has executed 59 foreigners in the first six months of this year, including Bangladeshis. Trending search: 'সৌদি আরব'."
+   },
+   "bn": {
+    "title": "৫৯ জনের মধ্যে বাংলাদেশিরা",
+    "text": "সৌদি আরব এ বছরের প্রথম ছয় মাসে ৫৯ বিদেশির মৃত্যুদণ্ড কার্যকর করেছে, যার মধ্যে বাংলাদেশিও আছে।"
+   }
+  },
+  {
+   "id": "9ku257",
+   "tag": "#BDTestSquad",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Bangladesh squad for West Indies",
+    "text": "Bangladesh announces Test squad for West Indies series. Trending: West Indies cricket team searches are up."
+   },
+   "bn": {
+    "title": "ওয়েস্ট ইন্ডিজ সিরিজ দল",
+    "text": "বাংলাদেশ ওয়েস্ট ইন্ডিজের বিপক্ষে টেস্ট দল ঘোষণা করেছে। গুগলে ট্রেন্ডিং সার্চ বাড়ছে।"
+   }
+  },
+  {
    "id": "pa37gz",
    "tag": "#PHPCrisis",
    "platforms": [
     "Google"
    ],
-   "heat": 5,
-   "en": {
-    "title": "PHP bug triggers global meltdown",
-    "text": "A critical flaw in PHP shut down millions of websites worldwide and triggered millions of hacking attempts. The tech world is scrambling to fix it."
-   },
-   "bn": {
-    "title": "PHP বাগে বৈশ্বিক ধসপতন",
-    "text": "PHP-এর একটি বড় সমস্যা বিশ্বব্যাপী লক্ষ লক্ষ ওয়েবসাইট বন্ধ করে দিয়েছে এবং লক্ষ লক্ষ হ্যাকিং চেষ্টা ঘটিয়েছে। টেক জগত মেরামতে তৎপর।"
-   }
-  },
-  {
-   "id": "1m5x0bl",
-   "tag": "#সৌদিবাস্তবায়ন",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Two Bangladeshis executed in Saudi Arabia",
-    "text": "Dhaka was aware of the charges but not the death sentence. Questions are being raised about diplomatic oversight and consular support."
-   },
-   "bn": {
-    "title": "সৌদিতে দুজন বাংলাদেশী মৃত্যুদণ্ড",
-    "text": "ঢাকা অভিযোগ জানত কিন্তু সাজা জানত না। কূটনৈতিক তত্ত্বাবধান ও কনসুলার সহায়তা নিয়ে প্রশ্ন উঠছে।"
-   }
-  },
-  {
-   "id": "15t96ev",
-   "tag": "#সাজেক",
-   "platforms": [
-    "Google"
-   ],
    "heat": 4,
    "en": {
-    "title": "Sajek road blocked amid gunfire",
-    "text": "A military blockade in Sajek has sparked conflicting accounts. The administration halted travel as tensions escalate over a fresh roadblock call."
+    "title": "Global PHP security meltdown",
+    "text": "Critical PHP flaws triggered worldwide website shutdowns and millions of hacking attempts. Bangladesh land ministry forced offline for 36 hours."
    },
    "bn": {
-    "title": "সাজেকে রাস্তা বন্ধ, গোলাগুলি",
-    "text": "সামরিক বাহিনীর অবরোধ নিয়ে বিরোধপূর্ণ বিবৃতি। প্রশাসন যাতায়াত বন্ধ করেছে কারণ উত্তেজনা বাড়ছে।"
+    "title": "বৈশ্বিক পিএইচপি সংকট",
+    "text": "গুরুতর পিএইচপি ত্রুটি বিশ্বব্যাপী ওয়েবসাইট বন্ধ করে দিয়েছে এবং লক্ষ লক্ষ হ্যাকিং প্রচেষ্টা ঘটিয়েছে।"
    }
   },
   {
-   "id": "13hs8uf",
-   "tag": "#স্বাস্থ্যসংকট",
+   "id": "kh8wqm",
+   "tag": "#HouthiAttacks",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 3,
    "en": {
-    "title": "Measles-like illness deaths rising",
-    "text": "Two more deaths linked to a mysterious measles-like illness have been reported in Bangladesh. Health authorities are investigating the outbreak."
+    "title": "Bangladesh condemns Houthis",
+    "text": "Bangladesh has condemned Houthi attacks on Saudi Arabia. Trending: 'রিয়াদ' searches spike as fighting intensifies."
    },
    "bn": {
-    "title": "হামের মতো অসুখে মৃত্যু",
-    "text": "বাংলাদেশে একটি রহস্যময় হাম-সদৃশ অসুখে আরও দুজনের মৃত্যু হয়েছে। স্বাস্থ্য কর্তৃপক্ষ তদন্ত করছে।"
+    "title": "হুথিদের বিরুদ্ধে নিন্দা",
+    "text": "বাংলাদেশ সৌদি আরবে হুথি হামলা নিন্দা করেছে। রিয়াদ সম্পর্কে গুগল সার্চ বাড়ছে।"
    }
   }
  ],
