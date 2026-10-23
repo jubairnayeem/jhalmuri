@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-23T09:58:07.629Z",
+ "updatedAt": "2026-10-23T14:58:09.141Z",
  "items": [
+  {
+   "id": "2w70oh",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "UNB",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnVOUmlkSThmXzFLVksxUkVlQkdTSWlHdzNRZjl5RFh2S05acVZ0Z3RzN1RjWVlDU19uaUpsVm5QRC1XQkdBR21wUHpQU0Z0TmU5QVdiX25CZHoyVmVtZFBybUE2cXAtSlQyRkpaRExPSXBwQXhzVjBza0Ftb1laei1fSlBSem9uWS1vMjlZRW9leXNBQV9GSkE3cDFrVEZmeVUyMUhpaGVyOHA3NGQ0YXNiV3I?oc=5",
+   "image": null,
+   "published": "2026-10-23T02:41:16.000Z",
+   "added": "2026-10-23T14:58:09.140Z",
+   "origTitle": "Australian coral reefs face collapse risk by 2075: global assessment",
+   "en": {
+    "title": "Australian Coral Reefs Face Collapse Risk by 2075: Global Assessment",
+    "summary": "A new global assessment warns that Australian coral reefs risk collapsing by 2075 without urgent action. The findings highlight the growing threat climate change poses to one of the world's most vital marine ecosystems. Coral reefs support biodiversity and provide livelihoods for millions of people globally."
+   },
+   "bn": {
+    "title": "অস্ট্রেলিয়ার প্রবাল প্রাচীর ২০৭৫ সালের মধ্যে ধসে পড়ার ঝুঁকিতে",
+    "summary": "একটি আন্তর্জাতিক মূল্যায়নে সতর্ক করা হয়েছে যে অস্ট্রেলিয়ার প্রবাল প্রাচীর জরুরি পদক্ষেপ ছাড়া ২০৭৫ সালের মধ্যে ধসে পড়ার ঝুঁকিতে রয়েছে। জলবায়ু পরিবর্তন বিশ্বের সবচেয়ে গুরুত্বপূর্ণ সামুদ্রিক ইকোসিস্টেমগুলির জন্য ক্রমবর্ধমান হুমকি তৈরি করছে। প্রবাল প্রাচীর জৈববৈচিত্র্য এবং লক্ষ লক্ষ মানুষের জীবিকা সমর্থন করে।"
+   }
+  },
+  {
+   "id": "1ygk03s",
+   "section": "news",
+   "cat": "khela",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/sports/cricket/klve2ko6id",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-23/4bq1id0t/180579.webp",
+   "published": "2026-10-23T14:42:15.000Z",
+   "added": "2026-10-23T14:58:09.140Z",
+   "origTitle": "‘কোহলি বলেছিলেন ফিট হলে দলে নেবে, এরপর ফোন ধরেননি’",
+   "en": {
+    "title": "Former India Spinner Mishra: Kohli Promised Return, Then Ignored My Calls",
+    "summary": "Legspinner Amit Mishra has claimed that Virat Kohli and coach Anil Kumble promised to bring him back to the Indian team once he recovered from a 2017 injury. After recovering, Mishra said he repeatedly tried to contact Kohli but received no response—no calls answered, no messages replied to. Mishra's last match for India was in 2017 against England in Bengaluru, where he suffered the injury that effectively ended his international career."
+   },
+   "bn": {
+    "title": "ভারতীয় স্পিনার মিশ্রা: কোহলি প্রতিশ্রুতি দিয়ে কল ধরেননি",
+    "summary": "লেগ স্পিনার অমিত মিশ্রা দাবি করেছেন যে বিরাট কোহলি এবং কোচ অনিল কুম্বলে ২০১৭ সালের একটি আঘাত থেকে সুস্থ হলে তাকে দলে ফেরানোর প্রতিশ্রুতি দিয়েছিলেন। সুস্থ হওয়ার পর মিশ্র বারবার কোহলির সাথে যোগাযোগের চেষ্টা করেছিলেন কিন্তু কোনো সাড়া পাননি। ২০১৭ সালে বেঙ্গালুরুতে ইংল্যান্ডের বিপক্ষে যে আঘাত পান সেটাই আসলে তার আন্তর্জাতিক ক্যারিয়ারের সমাপ্তি নিয়ে এসেছিল।"
+   }
+  },
+  {
+   "id": "nx97q2",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/politics/mo7n0twplm",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-23/hvq8t6hk/Jamaat-Ameers-X-Account-Screenshot.avif",
+   "published": "2026-10-23T14:02:25.000Z",
+   "added": "2026-10-23T14:58:09.140Z",
+   "origTitle": "Jamaat ameer’s X account hacked: DB seeks devices, party raises security concerns",
+   "en": {
+    "title": "Jamaat Chief's Hacked X Account: Investigation Stalled Over Device Handover",
+    "summary": "Over eight months after Jamaat-e-Islami leader Shafiqur Rahman's X account was allegedly hacked, police have requested the devices three times for forensic examination—a step they say is crucial to understanding how and when the breach happened. The party says they have security concerns about handing over the devices but are willing to discuss options, including examination in their presence. Without the devices, investigators cannot find answers to key questions about the hack."
+   },
+   "bn": {
+    "title": "জামায়াত আমীরের হ্যাক হওয়া অ্যাকাউন্ট: ডিভাইস সমর্পণে আটকে আছে তদন্ত",
+    "summary": "জামায়াত-ই-ইসলামীর আমীর শফিকুর রহমানের এক্স অ্যাকাউন্ট হ্যাক হওয়ার আট মাসেরও বেশি সময় পর পুলিশ তদন্তের জন্য ডিভাইস হস্তান্তরের অনুরোধ জানিয়েছে তিনবার। বিশেষজ্ঞরা বলেছেন ফরেনসিক পরীক্ষা ছাড়া কীভাবে এবং কখন হ্যাক হয়েছে তা জানা যাবে না। দলটি নিরাপত্তা নিয়ে উদ্বিগ্ন কিন্তু তাদের উপস্থিতিতে পরীক্ষার মতো বিকল্প নিয়ে আলোচনায় আগ্রহী।"
+   }
+  },
+  {
+   "id": "nrbf3g",
+   "section": "bhabna",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "Aeon",
+   "srcLang": "en",
+   "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+   "image": "https://images.aeonmedia.co/images/44e36cdb-f3d7-45b0-8759-ba91f5eb550c/essay-friction.jpg?width=1200&quality=75&format=jpeg",
+   "published": "2026-10-23T10:00:00.000Z",
+   "added": "2026-10-23T14:57:53.459Z",
+   "origTitle": "Traction!",
+   "en": {
+    "title": "Why friction isn't the enemy—it's what moves us forward",
+    "summary": "A tribologist explains why we're wrong to hate friction. While we chase frictionless lives, friction is actually essential—it's what lets us strike sparks, walk without slipping, and brake safely. Understanding friction has shaped human progress for millennia. The paradox: the force that resists motion is exactly what propels us."
+   },
+   "bn": {
+    "title": "ঘর্ষণ আমাদের শত্রু নয়, এটাই আমাদের এগিয়ে নিয়ে যায়",
+    "summary": "একজন ঘর্ষণ বিশেষজ্ঞ ব্যাখ্যা করছেন কেন আমরা ঘর্ষণকে ভয় করা ভুল। যদিও আমরা ঘর্ষণমুক্ত জীবন চাই, ঘর্ষণ আসলে অপরিহার্য—এটাই আমাদের আগুন জ্বালাতে, পিছলাতে না গিয়ে হাঁটতে এবং নিরাপদে ব্রেক করতে সাহায্য করে। মানব উন্নয়নের পুরো ইতিহাস ঘর্ষণ বোঝার উপর নির্ভর করে।"
+   }
+  },
+  {
+   "id": "1c1kmcc",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Guardian",
+   "srcLang": "en",
+   "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+   "image": "https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=142c318d5db7611f6fefeefc27c3e9af",
+   "published": "2026-10-23T13:57:11.000Z",
+   "added": "2026-10-23T14:57:53.459Z",
+   "origTitle": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+   "en": {
+    "title": "How Nigeria's Ebola patient got infected remains unclear, worrying officials",
+    "summary": "Nigeria's first Ebola case in over a decade sparked confusion about how the patient—the wife of a Swiss diplomat—contracted the virus. Switzerland says she caught it while travelling in Uganda, contradicting earlier Ugandan reports that she visited eastern Congo. The WHO is investigating whether she had contact with infected individuals at Uganda's Entebbe airport on October 3."
+   },
+   "bn": {
+    "title": "নাইজেরিয়ার ইবোলা রোগী কীভাবে সংক্রমিত হয়েছে তা রহস্য",
+    "summary": "এক দশকের বেশি সময় পর নাইজেরিয়ায় প্রথম ইবোলা রোগী শনাক্ত হয়েছেন যিনি একজন সুইস কূটনীতিকের স্ত্রী। সুইজারল্যান্ড বলছে তিনি উগান্ডায় ভ্রমণকালে ভাইরাস পেয়েছেন, যা উগান্ডার আগের দাবির বিরোধিতা করে। বিশ্ব স্বাস্থ্য সংস্থা তদন্ত করছে তিনি অক্টোবর ৩ তারিখে উগান্ডার এন্টেবে বিমানবন্দরে সংক্রমিত ব্যক্তিদের সাথে যোগাযোগ করেছিলেন কিনা।"
+   }
+  },
+  {
+   "id": "y1b6t8",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adb634761-1792762695.jpg?resize=1920%2C1440",
+   "published": "2026-10-23T14:16:14.000Z",
+   "added": "2026-10-23T14:57:53.459Z",
+   "origTitle": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
+   "en": {
+    "title": "Conte denies advanced talks to manage struggling Manchester United",
+    "summary": "Former Chelsea and Napoli manager Antonio Conte denied reports of advanced negotiations to replace Manchester United's Michael Carrick. He called stories about demanding full control and financial terms \"unfounded.\" Conte, who won Serie A with Napoli in 2024-25, said any decision to manage again would come when conditions were right."
+   },
+   "bn": {
+    "title": "ম্যানচেস্টার ইউনাইটেড ম্যানেজার নিয়ে কন্তের কোনো আলোচনা নেই",
+    "summary": "সাবেক চেলসি এবং নাপোলি কোচ আন্তোনিও কন্তে ম্যানচেস্টার ইউনাইটেডের ম্যানেজার হওয়ার জন্য উন্নত আলোচনার খবর অস্বীকার করেছেন। তিনি সম্পূর্ণ নিয়ন্ত্রণ এবং আর্থিক দাবির গল্পগুলিকে ভিত্তিহীন বলে অভিহিত করেছেন। নাপোলির সাথে সিরি এ জয়ী কন্তে বলেছেন যে যখন পরিস্থিতি সঠিক হবে তখনই তিনি নতুন কাজে ফিরবেন।"
+   }
+  },
+  {
+   "id": "hhze0c",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c6/live/ef847520-ced4-11f1-8507-45cb00a1c41c.jpg",
+   "published": "2026-10-23T14:15:23.000Z",
+   "added": "2026-10-23T14:57:53.459Z",
+   "origTitle": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+   "en": {
+    "title": "Drive-by shooting spree near Paris kills one, wounds five",
+    "summary": "One person was killed and five others wounded, including a 12-year-old girl, in multiple drive-by shootings in Trappes and La Verrière near Paris on Friday. The attacker used a grey Renault Clio and fired randomly at people near petrol stations, a medical centre, and a playground over nearly 15 minutes. Authorities are investigating as terrorism, with the mayor suggesting a racist or Islamophobic motive."
+   },
+   "bn": {
+    "title": "প্যারিসের কাছে গুলির ঘটনায় একজন নিহত, পাঁচজন আহত",
+    "summary": "প্যারিসের শহরতলি ট্র্যাপস এবং লা ভেরিয়েরে শুক্রবার একাধিক গুলির হামলা হয়েছে যেখানে একজন নিহত এবং পাঁচজন (একজন ১২ বছরের শিশু সহ) আহত হয়েছে। সন্দেহভাজন আক্রমণকারী ধূসর রেনল্ট ক্লিও গাড়িতে করে পেট্রোল স্টেশন, মেডিকেল সেন্টার এবং খেলার মাঠে ইতস্তত গুলি ছুড়েছেন। কর্তৃপক্ষ এটি সন্ত্রাসবাদ হিসেবে তদন্ত করছে।"
+   }
+  },
+  {
+   "id": "1kizt47",
+   "section": "news",
+   "cat": "money",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/crq8ndq34g25o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d018/live/c020d100-ceb3-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-23T12:47:54.000Z",
+   "added": "2026-10-23T14:57:53.459Z",
+   "origTitle": "বাংলাদেশ ব্যাংকের ওয়েবসাইট বন্ধে লেনদেনে কোনো প্রভাব পড়বে?",
+   "en": {
+    "title": "Bangladesh Bank shuts website over cyber threat, banking unaffected",
+    "summary": "Bangladesh Bank took its website offline as a precaution on October 22 after a global cyber threat targeted a programming language used by many banks worldwide. Spokesperson Arif Hosen Khan said PHP, used to build countless websites, had two serious security flaws. Banking operations continue normally, and the IT team is working to restore the site safely."
+   },
+   "bn": {
+    "title": "সাইবার হুমকিতে বন্ধ বাংলাদেশ ব্যাংকের ওয়েবসাইট, লেনদেন স্বাভাবিক",
+    "summary": "বৈশ্বিক সাইবার হামলার ঝুঁকিতে বাংলাদেশ ব্যাংক ২২ অক্টোবর থেকে তার অফিশিয়াল ওয়েবসাইট বন্ধ রেখেছে। পিএইচপি নামক প্রোগ্রামিং ভাষায় দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ায় এই পদক্ষেপ নেওয়া হয়েছে। মুখপাত্র আরিফ হোসেন খান জানিয়েছেন যে ব্যাংকিং কার্যক্রম স্বাভাবিকভাবে চলছে এবং আইটি টিম নিরবচ্ছিন্নভাবে কাজ করছে।"
+   }
+  },
+  {
+   "id": "zyvsp7",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/foreign/india/976301/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2-%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%89%E0%A7%9C%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3",
+   "image": null,
+   "published": "2026-10-23T14:55:17.000Z",
+   "added": "2026-10-23T14:57:53.459Z",
+   "origTitle": "প্রকৌশল ডিগ্রি ছাড়াই উড়ন্ত গাড়ি বানালেন তরুণ",
+   "en": {
+    "title": "Young Indian builds flying car without engineering degree",
+    "summary": "Ravi Tamta from Almora, Uttarakhand, taught himself to build an electric flying car by learning online and experimenting for 13 years—no formal degree needed. His single-seater vehicle, called Hapida Skynex, completed a test flight in August. It's proof that self-teaching can push ideas beyond the classroom."
+   },
+   "bn": {
+    "title": "প্রকৌশল ডিগ্রি ছাড়াই তরুণ তৈরি করলেন উড়ন্ত গাড়ি",
+    "summary": "উত্তরাখণ্ডের আলমোড়ার রবি তামতা ১৩ বছর ধরে অনলাইনে শিখে এবং হাতে-কলমে পরীক্ষা করে একটি ইলেকট্রিক উড়ন্ত গাড়ির প্রোটোটাইপ বানিয়েছেন। তার একক আসনের যানবাহন হাপিডা স্কাইনেক্স আগস্টে টেস্ট ফ্লাইট সম্পন্ন করেছে। এটি দেখায় যে শ্রেণিকক্ষের বাইরে নিজে শেখা কত শক্তিশালী হতে পারে।"
+   }
+  },
   {
    "id": "19ibdsv",
    "section": "news",
@@ -3014,270 +3212,6 @@
    "bn": {
     "title": "কক্সবাজার অগ্নিকাণ্ড: দুই মালিক, একজন আসামি কেন?",
     "summary": "উখিয়ার টুপটুপ রেস্তোরাঁ অ্যান্ড রিসোর্টে আগুনে ১০ জন পর্যটক মারা গেছেন। রিসোর্টের ওয়েবসাইটে দুই মালিক থাকলেও পুলিশ শুধু একজনকে আসামি করেছে। কেন দ্বিতীয় মালিকের নাম নেই এবং আসামি নির্বাচনের ভিত্তি কী, তা নিয়ে প্রশ্ন উঠেছে।"
-   }
-  },
-  {
-   "id": "dzppdr",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUHBzdU1XODdEQkV1c2ozazZBaXZjVFZSLUREdlNsVG8yaVZFUUV6QmVkVlFFNldOb0VXOEhCVGE1OE90SHh5RllQUGhvOTcwSHpGZzh5YVhRSU05R05EYUJ6X192dlk?oc=5",
-   "image": null,
-   "published": "2026-10-20T03:13:00.000Z",
-   "added": "2026-10-20T11:26:13.215Z",
-   "origTitle": "নাটোরে বাস ও ট্রাকের সংঘর্ষে নিহত ১২",
-   "en": {
-    "title": "12 killed in bus-truck collision in Natore",
-    "summary": "A collision between a bus and a truck in Natore has resulted in 12 deaths. The accident highlights continuing road safety concerns in the region."
-   },
-   "bn": {
-    "title": "নাটোরে বাস ও ট্রাকের সংঘর্ষে ১২ জন মৃত",
-    "summary": "নাটোরে একটি বাস এবং ট্রাকের সংঘর্ষে ১২ জন মৃত হয়েছেন। এ ধরনের দুর্ঘটনা রাস্তায় নিরাপত্তার ঝুঁকি আরও প্রকট করে তোলে।"
-   }
-  },
-  {
-   "id": "1twrotv",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো বিনোদন",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90Z1NJNnVEa3dFLUpmdzlkRTEzUU5oUlpTX1FKVVh1NGY0aDhiMU1tenEwMHhwQ3ZqbGFnSlZwSU1nY25JS2NVMUllNXJRWm5Nbld6STk2VDJQUl9HUVVDamU1TmF2d2fSAXRBVV95cUxQNEktX1BmYkdxQXVUcWRZSWxQZjB1R1lxRmdONWo5bkxqMTJPV0tPTWhDUnlsWFQtd3VRWGxKYzZxSzV0bUZfakRsdkVYeUhGZTdFdVhJSnJFaUVzMlFUdzdlemZaNmUtcjFWcWw5Vy1jVF9wMw?oc=5",
-   "image": null,
-   "published": "2026-10-20T04:31:58.000Z",
-   "added": "2026-10-20T11:26:13.215Z",
-   "origTitle": "মাত্র ৩৪ বছর বয়সে মারা গেলেন আলোচিত মডেল সাহারা",
-   "en": {
-    "title": "Popular model Sahara dies at 34",
-    "summary": "Bangladeshi model Sahara has passed away at the age of 34. No further details about the cause or circumstances were provided in the report."
-   },
-   "bn": {
-    "title": "আলোচিত মডেল সাহারা মাত্র ৩৪ বছর বয়সে মৃত্যুবরণ",
-    "summary": "বাংলাদেশী আলোচিত মডেল সাহারা মাত্র ৩৪ বছর বয়সে মৃত্যুবরণ করেছেন। তার মৃত্যুর কারণ বা বিস্তারিত তথ্য প্রতিবেদনে দেওয়া হয়নি।"
-   }
-  },
-  {
-   "id": "1tecy8i",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Psyche",
-   "srcLang": "en",
-   "url": "https://psyche.co/guides/how-to-overcome-task-paralysis",
-   "image": "https://images.aeonmedia.co/images/97132dde-0fba-4546-bc3b-33b1999cee57/sz-surface-hpw43cbt1lk-unsplash.jpg?top=125&left=0&cropWidth=2416&cropHeight=1359&width=1200&quality=75&format=jpeg",
-   "published": "2026-10-20T10:00:00.000Z",
-   "added": "2026-10-20T11:26:13.215Z",
-   "origTitle": "How to overcome task paralysis",
-   "en": {
-    "title": "Understanding task paralysis and how to break free from it",
-    "summary": "Task paralysis is when you want to start something but can't, even after clearing time and distractions—different from procrastination. It happens to anyone under stress or lack of sleep, but people with ADHD face it more often due to executive function issues. Goal management training is an evidence-based approach that helps strengthen the ability to plan and execute tasks."
-   },
-   "bn": {
-    "title": "কাজ শুরু করতে না পারা: কেন এবং কীভাবে সমাধান",
-    "summary": "টাস্ক প্যারালাইসিস হলো এমন পরিস্থিতি যেখানে আপনি কিছু শুরু করতে চান কিন্তু পারেন না, যদিও সময় আছে। এটা প্রকৃতপক্ষে পিছিয়ে ফেলা নয়। যে কেউ বেশি চাপ বা ঘুমের অভাবে এর সম্মুখীন হতে পারে। এডিএইচডি থাকা মানুষদের এটা বেশি হয়। লক্ষ্য ব্যবস্থাপনা প্রশিক্ষণ এই সমস্যা সমাধানে কার্যকর।"
-   }
-  },
-  {
-   "id": "1211d64",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/district/23uojahbv0",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-20/75lqtjne/Pabna-Murder.jfif",
-   "published": "2026-10-20T11:22:36.000Z",
-   "added": "2026-10-20T11:26:13.215Z",
-   "origTitle": "নেশার টাকা না পেয়ে মাকে গলা কেটে হত্যার অভিযোগ, ছেলে আটক",
-   "en": {
-    "title": "Man arrested for allegedly killing mother over drug money in Pabna",
-    "summary": "A 35-year-old man has been arrested in Faridpur, Pabna, on suspicion of killing his mother after she refused to give him drug money. The victim, Suryakhatun, 55, was found with her throat cut with a sickle in Lakshmikhola village on Tuesday morning. Police recovered the weapon based on the suspect's confession."
-   },
-   "bn": {
-    "title": "নেশার টাকায় মায়ের হত্যার অভিযোগে ছেলে গ্রেফতার",
-    "summary": "পাবনার ফরিদপুরে একজন ৩৫ বছর বয়সী ব্যক্তি গ্রেফতার হয়েছেন মায়ের হত্যার অভিযোগে। তিনি নেশার টাকা না পেয়ে মঙ্গলবার সকালে লক্ষ্মীকোলা গ্রামে কাস্তে দিয়ে মাকে গলা কেটেছেন। ৫৫ বছর বয়সী মায়ের নাম সূর্য খাতুন। পুলিশ অভিযুক্তের জবানীতে হত্যাকাণ্ডে ব্যবহৃত কাস্তে উদ্ধার করেছে।"
-   }
-  },
-  {
-   "id": "38036p",
-   "section": "news",
-   "cat": "politics",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/acz7fg9j16",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-20/3i84zg2j/jdd.avif",
-   "published": "2026-10-20T10:53:48.000Z",
-   "added": "2026-10-20T11:26:13.215Z",
-   "origTitle": "Several MoUs likely to be announced during PM's visit to Japan",
-   "en": {
-    "title": "Bangladesh, Japan to sign multiple agreements during PM's visit",
-    "summary": "PM Tarique Rahman heads to Japan on October 26 for a four-day visit. Several memorandums of understanding are expected to cover trade, agriculture, fisheries, skills training, and private aviation. The delegation will include Finance Minister Amir Khasru Mahmud Chowdhury, Commerce Minister Moktadir Chowdhury, and other state ministers."
-   },
-   "bn": {
-    "title": "জাপান সফরে বাংলাদেশ-জাপানের একাধিক চুক্তি স্বাক্ষর সম্ভব",
-    "summary": "প্রধানমন্ত্রী তারিক রহমান ২৬ অক্টোবর জাপান ভিষ্যণের জন্য রওনা দিচ্ছেন। ব্যবসা, কৃষি, মৎস্য, দক্ষতা উন্নয়ন এবং ব্যক্তিগত বিমান চলাচল বিষয়ে একাধিক সমঝোতা স্মারক স্বাক্ষরিত হতে পারে। অর্থমন্ত্রী, বাণিজ্যমন্ত্রী এবং অন্যান্য রাষ্ট্রমন্ত্রী প্রতিনিধিদলে থাকবেন।"
-   }
-  },
-  {
-   "id": "14dzery",
-   "section": "bhabna",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
-   "image": "https://images.aeonmedia.co/images/ebbfc9dd-2883-4780-837a-43887f0fbdb5/pessay-ar211874.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-20T10:00:00.000Z",
-   "added": "2026-10-20T11:25:54.091Z",
-   "origTitle": "How intuitions work",
-   "en": {
-    "title": "Why your gut feelings are actually rational decisions",
-    "summary": "Your instincts—like feeling a person is creepy or spotting a fraudulent email—aren't based on conscious reasoning, but they're genuinely rational. Philosophers usually dismiss intuitions as irrational, but they actually work like perception: directly presenting something as true. Understanding how intuition works helps explain why trusting your vibes often leads to smart choices, even when you can't explain why."
-   },
-   "bn": {
-    "title": "কেন আপনার গাট ফিলিং আসলে যুক্তিসঙ্গত সিদ্ধান্ত",
-    "summary": "আপনার অনুভূতি—যেমন কাউকে বিশ্বাসহীন মনে হওয়া বা জালিয়াতির ইমেইল চিনে ফেলা—সচেতন চিন্তাভাবনার উপর ভিত্তি করে নয়, কিন্তু সেগুলি সম্পূর্ণভাবে যুক্তিসঙ্গত। দর্শনবিদরা সাধারণত অন্তর্দৃষ্টিকে অযৌক্তিক বলে মনে করেন, কিন্তু এটি আসলে উপলব্ধির মতো কাজ করে: সরাসরি কিছু উপস্থাপন করে। আপনার 'ভাইবস' বিশ্বাস করা প্রায়ই স্মার্ট পছন্দ করতে সাহায্য করে।"
-   }
-  },
-  {
-   "id": "1b123x9",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
-   "published": "2026-10-20T11:00:00.000Z",
-   "added": "2026-10-20T11:25:54.091Z",
-   "origTitle": "Yelp can now call on your behalf to check wait times at a restaurant",
-   "en": {
-    "title": "Yelp now calls restaurants for you to check wait times",
-    "summary": "Yelp launched a new AI feature called Check for Me that calls restaurants on your behalf to check wait times. Users enter their party size and phone number, and the voice agent calls the restaurant, then texts back the results. Yelp also added an updated AI assistant with OpenTable integration for easy reservations and better personalization through chat history and custom reminders."
-   },
-   "bn": {
-    "title": "এলপ এআই এখন আপনার হয়ে রেস্টুরেঁয়ে কল করবে",
-    "summary": "এলপ নতুন ফিচার 'চেক ফর মি' লঞ্চ করেছে যা আপনার হয়ে রেস্তোরাঁয় কল করে অপেক্ষার সময় জানায়। ব্যবহারকারীরা তাদের পার্টি সাইজ এবং ফোন নম্বর দেন এবং এআই ভয়েস এজেন্ট রেস্তোরাঁকে ফোন করে ফলাফল পাঠায়। এলপ এলপ এআই সহায়ককে আপডেট করেছে যাতে ওপেনটেবল ইন্টিগ্রেশন এবং চ্যাট ইতিহাস সংরক্ষণের সুবিধা রয়েছে।"
-   }
-  },
-  {
-   "id": "ctzdca",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/foreign/asia/975697/%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%A8%E0%A7%8C%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80",
-   "image": null,
-   "published": "2026-10-20T11:24:55.000Z",
-   "added": "2026-10-20T11:25:54.091Z",
-   "origTitle": "যুদ্ধ জাহাজ পাঠালো যুক্তরাষ্ট্র, পাল্টা নৌবাহিনী পাঠিয়েছে চীন: এবার প্রকাশ্যে মুখোমুখি",
-   "en": {
-    "title": "US warship and Chinese navy face off in disputed waters",
-    "summary": "China's military said it deployed forces to monitor a US warship that entered disputed waters near a contested outcrop in the South China Sea on Tuesday. Taiwan reported a Chinese ship nearby in the same area. The US and China often clash over these strategic waters, with multiple countries—Brunei, Malaysia, Philippines, Taiwan, and Vietnam—also claiming rights to the region."
-   },
-   "bn": {
-    "title": "দক্ষিণ চীন সাগরে যুক্তরাষ্ট্র এবং চীনের নৌ-মুখোমুখি",
-    "summary": "মঙ্গলবার চীনের সামরিক বাহিনী জানায়, দক্ষিণ চীন সাগরের একটি বিরোধপূর্ণ এলাকায় একটি মার্কিন যুদ্ধজাহাজ অবৈধভাবে প্রবেশ করায় তারা বাহিনী পাঠিয়েছে। তাইওয়ান একই এলাকায় একটি চীনা জাহাজের উপস্থিতির কথা জানায়। এই কৌশলগত জলপথে ব্রুনেই, মালয়েশিয়া, ফিলিপাইন, তাইওয়ান এবং ভিয়েতনাম সহ একাধিক দেশের দাবি রয়েছে।"
-   }
-  },
-  {
-   "id": "175l9d5",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad731ed20ed-1792487917.jpg?resize=1200%2C675",
-   "published": "2026-10-20T11:07:55.000Z",
-   "added": "2026-10-20T11:25:54.091Z",
-   "origTitle": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
-   "en": {
-    "title": "Myanmar's Suu Kyi receives parcel from King Charles III",
-    "summary": "Myanmar's detained former leader Aung San Suu Kyi received a package from King Charles III containing two books about soil and sealed diplomatic correspondence. Myanmar's military government released the first photos of her in two months, showing her meeting with home ministry officials. She remains under house arrest since the 2021 military coup, which triggered an ongoing civil war that has killed over 100,000 people."
-   },
-   "bn": {
-    "title": "কিং চার্লস তৃতীয় থেকে সু চি পেলেন প্যাকেজ",
-    "summary": "মিয়ানমারের বন্দী সাবেক নেতা অং সান সু চি কিং চার্লস তৃতীয়ের কাছ থেকে মাটি সম্পর্কিত দুটি বই এবং সিল করা কূটনৈতিক পত্র সহ একটি প্যাকেজ পেয়েছেন। মিয়ানমারের সামরিক সরকার দুই মাসের মধ্যে তার প্রথম ছবি প্রকাশ করেছে। ২০২১ সালের সামরিক অভ্যুত্থানের পর থেকে তিনি গৃহবন্দীতে রয়েছেন এবং এই অভ্যুত্থান এখন পর্যন্ত ১০০,০০০ এরও বেশি মানুষের মৃত্যু ঘটিয়েছে।"
-   }
-  },
-  {
-   "id": "jpuv9p",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-20T08:58:26.000Z",
-   "added": "2026-10-20T11:25:54.091Z",
-   "origTitle": "Suspect arrested after historic town hall set alight during disorder - French media",
-   "en": {
-    "title": "Far-left suspect arrested after 19th century town hall set ablaze",
-    "summary": "A 40-year-old suspect linked to far-left movements was arrested in France after a historic 19th-century city hall in Limoges was gutted by fire during mass disorder on Saturday. Over 120 people have been imprisoned so far. Hundreds of thousands protested against rising fuel prices, cost of living, and deteriorating public services. Curfews were introduced across Paris and other cities to control the unrest."
-   },
-   "bn": {
-    "title": "ফ্রান্সে ঐতিহাসিক টাউন হল আগুনে বিধ্বস্ত, সন্দেহভাজন গ্রেফতার",
-    "summary": "ফ্রান্সের লিমোজেসে একটি ১৯ শতকের টাউন হল শনিবার বিশাল আন্দোলনের সময় আগুনে সম্পূর্ণভাবে বিধ্বস্ত হয়েছে এবং বামপন্থী আন্দোলনের সাথে যুক্ত একজন ৪০ বছর বয়সী সন্দেহভাজনকে গ্রেফতার করা হয়েছে। এ পর্যন্ত ১২০ জনেরও বেশি মানুষ বন্দী করা হয়েছে। জ্বালানি দাম বৃদ্ধি এবং জীবনযাত্রার ব্যয় বাড়ার বিরুদ্ধে প্রতিবাদকারীরা রাস্তায় নেমেছিলেন।"
-   }
-  },
-  {
-   "id": "g4g0ay",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.co.uk/bengali/live/c6073vv8e0e9t?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/075e/live/604e3700-cc73-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-20T11:25:54.091Z",
-   "added": "2026-10-20T11:25:54.091Z",
-   "origTitle": "রিয়াদের বাসিন্দাদের ফোনে বিমান হামলার হুমকির সতর্কতা",
-   "en": {
-    "title": "Riyadh residents warned of air strikes as Houthi attacks persist",
-    "summary": "Residents in Saudi Arabia's capital Riyadh received phone warnings about air strike threats as Houthi attacks continue. Officials say no casualties or damage have been reported so far. Saudi officials also cancelled in-person attendance at a conference following the escalating violence. Meanwhile, Australian MP Helen Haynes remains hospitalised in stable condition after being hit by a car in a suspected planned attack."
-   },
-   "bn": {
-    "title": "হুথিদের হামলার মধ্যে রিয়াদের বাসিন্দারা বিমান হামলার সতর্কতা পেলেন",
-    "summary": "সৌদি আরবের রাজধানী রিয়াদের বাসিন্দারা বিমান হামলার হুমকি সম্পর্কে ফোনে সতর্কবার্তা পেয়েছেন যখন হুথিদের আক্রমণ অব্যাহত রয়েছে। এখনো কোনো হতাহত বা ক্ষয়ক্ষতির খবর পাওয়া যায়নি। অস্ট্রেলিয়ার সাংসদ হেলেন হেইনস একটি গাড়ির ধাক্কায় গুরুতরভাবে আহত হয়েছেন এবং এখন হাসপাতালে স্থিতিশীল অবস্থায় আছেন।"
-   }
-  },
-  {
-   "id": "vo0515",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1204-3-more-children-die-24hrs-1578446",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
-   "published": "2026-10-20T11:15:00.000Z",
-   "added": "2026-10-20T11:25:54.091Z",
-   "origTitle": "Measles: Death toll reaches 1,204 as 3 more children die in 24hrs",
-   "en": {
-    "title": "Measles death toll hits 1,204 as outbreak spreads",
-    "summary": "Bangladesh's measles crisis has killed 1,204 people—104 confirmed, 1,100 suspected—as of October 20. In just 24 hours, three more children died and 1,217 new suspected cases were reported. Total confirmed cases now stand at 23,199, with over 215,000 suspected cases nationwide. Nearly 185,000 of 191,761 hospitalised patients have recovered so far."
-   },
-   "bn": {
-    "title": "মাম্পস মহামারীতে সারাদেশে ১,২০৪ জনের মৃত্যু",
-    "summary": "বাংলাদেশে মাম্পসের কারণে ১,২০৪ জন মারা গেছেন—এর মধ্যে ১০৪ জন পরীক্ষিত এবং ১,১০০ জন সন্দেহভাজন। অক্টোবর ২০ পর্যন্ত মাত্র ২৪ ঘণ্টায় তিনটি শিশু প্রাণ হারিয়েছে এবং ১,২১৭টি নতুন সন্দেহভাজন কেস শনাক্ত হয়েছে। সারাদেশে মোট ২৩,১৯৯টি নিশ্চিত কেস এবং ২,১৫,০০০ এর বেশি সন্দেহভাজন কেস রয়েছে।"
    }
   }
  ]
