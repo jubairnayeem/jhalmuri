@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-23T14:58:23.846Z",
+ "updatedAt": "2026-10-23T19:07:13.027Z",
  "burning": [
   {
-   "id": "1p6hwai",
+   "id": "5p7k5e",
    "heat": 5,
    "why": {
-    "en": "Critical PHP security bug knocked millions of websites offline globally, Bangladesh affected multiple sectors.",
-    "bn": "একটি গুরুতর PHP নিরাপত্তা ত্রুটি বিশ্বব্যাপী লক্ষ লক্ষ ওয়েবসাইট অফলাইন করেছে, বাংলাদেশের একাধিক সেক্টর প্রভাবিত।"
+    "en": "Hotel fire in Cox's Bazar trending massively on Google; 300 tourists evacuated safely.",
+    "bn": "কক্সবাজারে হোটেল আগুনের খবর গুগলে ট্রেন্ডিং, ৩০০ পর্যটক নিরাপদে বের হয়েছেন।"
    },
    "rank": 1
-  },
-  {
-   "id": "9ku257",
-   "heat": 4,
-   "why": {
-    "en": "Bangladesh Test squad announced for West Indies series amid cricket season momentum.",
-    "bn": "ক্রিকেট সিজনের গতির মধ্যে ওয়েস্ট ইন্ডিজ সিরিজের জন্য বাংলাদেশ টেস্ট স্কোয়াড ঘোষণা।"
-   },
-   "rank": 2
   },
   {
    "id": "1kizt47",
    "heat": 4,
    "why": {
-    "en": "Bangladesh Bank's website shut down as cyber threat precaution; banking services continue normally.",
-    "bn": "সাইবার হুমকির সতর্কতায় বাংলাদেশ ব্যাংকের ওয়েবসাইট বন্ধ; ব্যাংকিং সেবা চলমান।"
+    "en": "Bangladesh Bank website shut over cyber threat; major security story affecting the financial system.",
+    "bn": "বাংলাদেশ ব্যাংকের ওয়েবসাইট সাইবার হুমকির কারণে বন্ধ; আর্থিক ব্যবস্থাকে প্রভাবিত করে এমন বড় ঘটনা।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "19ibdsv",
+   "heat": 4,
+   "why": {
+    "en": "Land ministry shuts digital services over PHP security bugs; part of wider cybersecurity crisis.",
+    "bn": "ভূমি মন্ত্রণালয়ের ডিজিটাল সেবা PHP নিরাপত্তা ত্রুটির কারণে বন্ধ; বৃহত্তর সাইবার সংকটের অংশ।"
    },
    "rank": 3
   },
   {
-   "id": "1m5x0bl",
-   "heat": 4,
+   "id": "1yaeacd",
+   "heat": 3,
    "why": {
-    "en": "Two Bangladeshis executed in Saudi Arabia; Dhaka received charges but not advance notice of sentence.",
-    "bn": "সৌদি আরবে দুই বাংলাদেশী সম্পাদিত; ঢাকা অভিযোগ জানত কিন্তু সাজার আগাম খবর পায়নি।"
+    "en": "Police arrest 28 in anti-drug operation at Gumtigathor; significant law enforcement action.",
+    "bn": "গুমটিগাথর এলাকায় অ্যান্টি-ড্রাগ অপারেশনে ২৮ জন গ্রেপ্তার; উল্লেখযোগ্য আইনশৃঙ্খলা ব্যবস্থা।"
    },
    "rank": 4
   },
   {
-   "id": "13hs8uf",
+   "id": "zztgmj",
    "heat": 3,
    "why": {
-    "en": "Measles-like illness death toll rises in Bangladesh; public health concern growing.",
-    "bn": "বাংলাদেশে হামের মতো অসুখে মৃত্যুর সংখ্যা বৃদ্ধি; জনস্বাস্থ্য উদ্বেগ বাড়ছে।"
+    "en": "Afghanistan wins tri-series, crushes Zimbabwe in final; regional cricket news trending.",
+    "bn": "আফগানিস্তান ট্রাই-সিরিজ জিতে জিম্বাবোয়েকে চূড়ান্তে পরাজিত করেছে; আঞ্চলিক ক্রিকেট খবর।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "9ku257",
-   "tag": "#BDCricket",
+   "id": "5p7k5e",
+   "tag": "#CoxsBazarFire",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Bangladesh squad for West Indies",
-    "text": "National cricket team announced players for upcoming West Indies Test series. Selection sparks discussion among fans and analysts."
+    "title": "Cox's Bazar hotel fire evacuation",
+    "text": "A fire at a Cox's Bazar hotel forced evacuation of 300 tourists. All evacuated safely."
    },
    "bn": {
-    "title": "ওয়েস্ট ইন্ডিজের জন্য বিডি দল",
-    "text": "জাতীয় ক্রিকেট দল আসন্ন ওয়েস্ট ইন্ডিজ টেস্ট সিরিজের জন্য খেলোয়াড় ঘোষণা করেছে। নির্বাচন ভক্ত এবং বিশ্লেষকদের মধ্যে আলোচনা জাগিয়ে তুলেছে।"
-   }
-  },
-  {
-   "id": "1p6hwai",
-   "tag": "#CyberSecurity",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Global PHP security crisis",
-    "text": "Critical vulnerability in PHP triggered worldwide website outages and sparked urgent patch deployments across sectors."
-   },
-   "bn": {
-    "title": "PHP নিরাপত্তা সংকট",
-    "text": "PHP-তে গুরুতর দুর্বলতা বিশ্বব্যাপী ওয়েবসাইট বন্ধ করেছে এবং সব সেক্টরে জরুরি প্যাচ আপডেট ঘটিয়েছে।"
+    "title": "কক্সবাজার হোটেল আগুন",
+    "text": "কক্সবাজারের একটি হোটেলে আগুন লেগেছে এবং ৩০০ পর্যটক সরিয়ে আনা হয়েছে। সবাই নিরাপদে বেরিয়ে এসেছেন।"
    }
   },
   {
    "id": "1kizt47",
-   "tag": "#BankingSecurity",
+   "tag": "#CyberSecurityAlert",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladesh Bank cyber alert",
-    "text": "Central bank's website went offline as precaution against cyber threat; all banking operations stayed unaffected."
+    "title": "Bangladesh Bank website shutdown",
+    "text": "Bangladesh Bank closed its website due to a cyber threat, though banking services continue normally."
    },
    "bn": {
-    "title": "বাংলাদেশ ব্যাংক সাইবার সতর্কতা",
-    "text": "কেন্দ্রীয় ব্যাংক সাইবার হুমকির বিরুদ্ধে সতর্কতা হিসেবে ওয়েবসাইট অফলাইন করেছে; সব ব্যাংকিং কাজ অপ্রভাবিত।"
+    "title": "বাংলাদেশ ব্যাংক ওয়েবসাইট বন্ধ",
+    "text": "সাইবার হুমকির কারণে বাংলাদেশ ব্যাংক তার ওয়েবসাইট বন্ধ করেছে, তবে ব্যাংকিং সেবা স্বাভাবিক চলছে।"
+   }
+  },
+  {
+   "id": "1m5x0bl",
+   "tag": "#ExecutionNews",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Two Bangladeshis executed in Saudi Arabia",
+    "text": "Two Bangladeshi nationals were executed in Saudi Arabia. Dhaka knew the charges but was not informed of the sentence."
+   },
+   "bn": {
+    "title": "সৌদি আরবে দুই বাঙালির মৃত্যুদণ্ড",
+    "text": "সৌদি আরবে দুই বাঙালি নাগরিকের মৃত্যুদণ্ড দেওয়া হয়েছে। ঢাকা আরোপ জানত কিন্তু সাজার কথা জানানো হয়নি।"
+   }
+  },
+  {
+   "id": "13hs8uf",
+   "tag": "#HealthAlert",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "More measles-like illness deaths",
+    "text": "Two additional deaths have been linked to a measles-like illness in Bangladesh."
+   },
+   "bn": {
+    "title": "মাম্পস সদৃশ রোগে আরও মৃত্যু",
+    "text": "বাংলাদেশে মাম্পস সদৃশ রোগে আরও দুটি মৃত্যু রেকর্ড করা হয়েছে।"
    }
   }
  ],
