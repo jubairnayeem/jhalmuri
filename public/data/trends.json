@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-10-22T23:17:06.763Z",
+ "updatedAt": "2026-10-23T04:38:09.774Z",
  "burning": [
-  {
-   "id": "1m5x0bl",
-   "heat": 5,
-   "why": {
-    "en": "Two Bangladeshis executed in Saudi Arabia; major coverage across outlets and high emotional resonance.",
-    "bn": "সৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড; একাধিক আউটলেট কভার করেছে এবং জাতীয় গুরুত্ব রাখে।"
-   },
-   "rank": 1
-  },
   {
    "id": "1p6hwai",
    "heat": 5,
    "why": {
-    "en": "Critical PHP bug disabled millions of websites globally; tech story with major worldwide impact.",
-    "bn": "সমালোচনামূলক PHP বাগ বিশ্বব্যাপী লক্ষ লক্ষ ওয়েবসাইট বন্ধ করেছে; বৈশ্বিক প্রভাব সহ প্রযুক্তি খবর।"
+    "en": "Critical PHP bug knocked millions of websites offline globally; massive cybersecurity story.",
+    "bn": "বিশ্বব্যাপী লক্ষ লক্ষ ওয়েবসাইট অফলাইন করা PHP বাগ; বিশাল সাইবার নিরাপত্তা সংকট।"
+   },
+   "rank": 1
+  },
+  {
+   "id": "1m5x0bl",
+   "heat": 5,
+   "why": {
+    "en": "Two Bangladeshis executed in Saudi Arabia; major diplomatic and human rights story.",
+    "bn": "সৌদি আরবে দুজন বাংলাদেশী মৃত্যুদণ্ড কার্যকর; গুরুত্বপূর্ণ কূটনৈতিক সংকট।"
    },
    "rank": 2
   },
@@ -23,77 +23,93 @@
    "id": "15t96ev",
    "heat": 4,
    "why": {
-    "en": "Sajek blockade and gunfire incident; domestic controversy with clashing accounts from military and activist groups.",
-    "bn": "সাজেক অবরোধ এবং গুলিবর্ষণ ঘটনা; সামরিক বাহিনী এবং সক্রিয়তাবাদী গ্রুপের বিবরণ নিয়ে দেশীয় বিরোধ।"
+    "en": "Sajek blockade: gunfire and conflicting claims between military and group; domestic security tension.",
+    "bn": "সাজেক অবরোধ: গোলাগুলি ও সামরিক বাহিনী ও দলের মধ্যে বিরোধপূর্ণ বিবৃতি।"
    },
    "rank": 3
   },
   {
-   "id": "1jxj3uf",
-   "heat": 3,
+   "id": "13hs8uf",
+   "heat": 4,
    "why": {
-    "en": "PM Tarique Rahman's Khulna tour; domestic political movement receiving press coverage.",
-    "bn": "প্রধানমন্ত্রী তারিকের খুলনা সফর; রাজনৈতিক কার্যক্রম প্রেস কভারেজ পাচ্ছে।"
+    "en": "Measles-like illness deaths rising in Bangladesh; health emergency unfolding.",
+    "bn": "বাংলাদেশে হামের মতো অসুখে মৃত্যু বাড়ছে; স্বাস্থ্য জরুরি অবস্থা।"
    },
    "rank": 4
   },
   {
-   "id": "13hs8uf",
-   "heat": 3,
+   "id": "zojagj",
+   "heat": 4,
    "why": {
-    "en": "Two more deaths from measles-like illness; ongoing health crisis with growing casualty count.",
-    "bn": "হাম-সদৃশ অসুখে আরও দুই মৃত্যু; ক্রমবর্ধমান স্বাস্থ্য সংকট চলছে।"
+    "en": "Murder investigations hampered by decomposed bodies in rivers; ongoing crime crisis.",
+    "bn": "নদীতে পচা লাশ; হত্যার তদন্ত বাধাগ্রস্ত, অপরাধ সংকট চলমান।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "p1x4c5",
-   "tag": "#PMTour",
+   "id": "pa37gz",
+   "tag": "#PHPCrisis",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "PHP bug triggers global meltdown",
+    "text": "A critical flaw in PHP shut down millions of websites worldwide and triggered millions of hacking attempts. The tech world is scrambling to fix it."
+   },
+   "bn": {
+    "title": "PHP বাগে বৈশ্বিক ধসপতন",
+    "text": "PHP-এর একটি বড় সমস্যা বিশ্বব্যাপী লক্ষ লক্ষ ওয়েবসাইট বন্ধ করে দিয়েছে এবং লক্ষ লক্ষ হ্যাকিং চেষ্টা ঘটিয়েছে। টেক জগত মেরামতে তৎপর।"
+   }
+  },
+  {
+   "id": "1m5x0bl",
+   "tag": "#সৌদিবাস্তবায়ন",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Two Bangladeshis executed in Saudi Arabia",
+    "text": "Dhaka was aware of the charges but not the death sentence. Questions are being raised about diplomatic oversight and consular support."
+   },
+   "bn": {
+    "title": "সৌদিতে দুজন বাংলাদেশী মৃত্যুদণ্ড",
+    "text": "ঢাকা অভিযোগ জানত কিন্তু সাজা জানত না। কূটনৈতিক তত্ত্বাবধান ও কনসুলার সহায়তা নিয়ে প্রশ্ন উঠছে।"
+   }
+  },
+  {
+   "id": "15t96ev",
+   "tag": "#সাজেক",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "PM's Japan trip in doubt",
-    "text": "Bangladesh envoy to Japan is ill, raising questions about the Prime Minister's planned Tokyo visit. Google Trends shows high interest in 'dhaka' with news about the PM's Japan tour and investment discussions."
+    "title": "Sajek road blocked amid gunfire",
+    "text": "A military blockade in Sajek has sparked conflicting accounts. The administration halted travel as tensions escalate over a fresh roadblock call."
    },
    "bn": {
-    "title": "প্রধানমন্ত্রীর জাপান সফর সন্দেহে",
-    "text": "জাপানে বাংলাদেশের রাষ্ট্রদূত অসুস্থ, যা প্রধানমন্ত্রীর টোকিও সফর নিয়ে প্রশ্ন তুলেছে। গুগল ট্রেন্ডে জাপান সফর এবং বিনিয়োগ নিয়ে আলোচনা ভাইরাল।"
+    "title": "সাজেকে রাস্তা বন্ধ, গোলাগুলি",
+    "text": "সামরিক বাহিনীর অবরোধ নিয়ে বিরোধপূর্ণ বিবৃতি। প্রশাসন যাতায়াত বন্ধ করেছে কারণ উত্তেজনা বাড়ছে।"
    }
   },
   {
-   "id": "1a60owu",
-   "tag": "#FarmerProtests",
+   "id": "13hs8uf",
+   "tag": "#স্বাস্থ্যসংকট",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Farmers angry over fertiliser shortage",
-    "text": "Farmers protesting government's failure to supply promised fertiliser at fixed prices, affecting crop planning."
+    "title": "Measles-like illness deaths rising",
+    "text": "Two more deaths linked to a mysterious measles-like illness have been reported in Bangladesh. Health authorities are investigating the outbreak."
    },
    "bn": {
-    "title": "সার সরবরাহে কৃষকদের ক্ষোভ",
-    "text": "সরকার নির্ধারিত মূল্যে সারের প্রতিশ্রুত সরবরাহ না দিয়ে কৃষকরা প্রতিবাদ করছেন।"
-   }
-  },
-  {
-   "id": "1a60p1y",
-   "tag": "#JackalAttacks",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Eleven hurt in jackal rampage",
-    "text": "Eleven people injured in jackal attacks within a single hour, highlighting rising wildlife-human conflict."
-   },
-   "bn": {
-    "title": "এক ঘণ্টায় একাধিক শিয়ালের আক্রমণ",
-    "text": "এক ঘণ্টায় এগারো মানুষ শিয়ালের আক্রমণে আহত হয়েছেন।"
+    "title": "হামের মতো অসুখে মৃত্যু",
+    "text": "বাংলাদেশে একটি রহস্যময় হাম-সদৃশ অসুখে আরও দুজনের মৃত্যু হয়েছে। স্বাস্থ্য কর্তৃপক্ষ তদন্ত করছে।"
    }
   }
  ],

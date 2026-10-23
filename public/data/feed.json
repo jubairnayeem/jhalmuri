@@ -1,6 +1,138 @@
 {
- "updatedAt": "2026-10-22T23:16:51.173Z",
+ "updatedAt": "2026-10-23T04:37:52.332Z",
  "items": [
+  {
+   "id": "zojagj",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/crime/7kinm3l7ev",
+   "image": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2F7eg8gmfi%2FUntitled-1.jpg?rect=0%2C36%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+   "published": "2026-10-23T04:20:22.000Z",
+   "added": "2026-10-23T04:37:52.330Z",
+   "origTitle": "স্রোতে ভাসে অপরাধের চিহ্ন, পচন ধরায় জটিল হয় হত্যার তদন্ত",
+   "en": {
+    "title": "Bodies in Rivers: Murder Investigations Hampered by Decomposition",
+    "summary": "River police recovered 2,494 bodies from Bangladesh's rivers between January 2021 and September 2025. On August 23, four bodies were found in Dhaka's Buriganga River within six hours—a woman with cloth around her neck, a child wrapped in a scarf, and two young people with bound hands and injury marks. Police believe they were murdered and dumped to hide evidence. Investigation becomes harder as bodies decompose."
+   },
+   "bn": {
+    "title": "নদীতে লাশ: পচনে জটিল হয় হত্যার তদন্ত",
+    "summary": "জানুয়ারি ২০২১ থেকে সেপ্টেম্বর ২০২৫ পর্যন্ত নৌ পুলিশ দেশের নদী থেকে ২ হাজার ৪৯৪টি মরদেহ উদ্ধার করেছে। গত ২৩ আগস্ট ঢাকার বুড়িগঙ্গায় ছয় ঘণ্টায় চারটি লাশ পাওয়া গেছে—একজন নারীর গলায় কাপড় প্যাঁচানো, একটি শিশু ওড়নায় মোড়ানো, এবং দুই তরুণের হাত একসাথে বাঁধা। পুলিশ মনে করে তাদের খুন করে নদীতে ফেলা হয়েছে প্রমাণ মুছতে। মরদেহ পচলে তদন্ত আরও কঠিন হয়ে যায়।"
+   }
+  },
+  {
+   "id": "1bxvcxr",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/youth/employment/ehriwlrb7q",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-22/nt10grgq/prothomalo-bangla2026-10-21iat97y3oWhatsApp-Image-2026-10-21-at-17.38.30.avif",
+   "published": "2026-10-23T03:26:20.000Z",
+   "added": "2026-10-23T04:37:45.084Z",
+   "origTitle": "45th BCS: Recommended but dropped, allegations of state injustice; state minister assures re-verification",
+   "en": {
+    "title": "45th BCS: Recommended but dropped, injustice alleged",
+    "summary": "105 candidates recommended for the 45th Bangladesh Civil Service exam were excluded from the final gazette notification published October 14, despite being approved by the Public Service Commission. Shamim Al Mahadi, a graduate of Bangladesh Agricultural University, was among those unfairly dropped. His mother is demanding investigation, questioning why approved candidates were suddenly removed."
+   },
+   "bn": {
+    "title": "৪৫তম বিসিএস: সুপারিশ পেয়েও বাদ পড়া, অন্যায়ের অভিযোগ",
+    "summary": "৪৫তম বাংলাদেশ সিভিল সার্ভিস পরীক্ষায় সুপারিশপ্রাপ্ত ১০৫ জন প্রার্থী ১৪ অক্টোবরের গেজেট নোটিফিকেশনে বাদ পড়েছেন। শামিম আল মাহাদি, বাংলাদেশ কৃষি বিশ্ববিদ্যালয় থেকে প্রাপ্ত স্নাতক, এদের মধ্যে একজন। তার মা অন্যায়ের প্রতিবাদ করে তদন্তের দাবি করছেন এবং প্রশ্ন তুলছেন কেন অনুমোদিত প্রার্থীরা হঠাৎ বাদ পড়েছেন।"
+   }
+  },
+  {
+   "id": "16k7a9u",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/VIER-PFOTEN_2026-10-13_00234-1792664877.jpg?resize=1920%2C1440",
+   "published": "2026-10-23T04:27:55.000Z",
+   "added": "2026-10-23T04:37:45.084Z",
+   "origTitle": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+   "en": {
+    "title": "Fighting to save Madhubala, Karachi's ailing elephant",
+    "summary": "Activists including Jude Allen are campaigning to save Madhubala, an African elephant at Karachi Zoo facing serious health issues. Madhubala is one of four calves brought from Tanzania to Pakistan in 2009; her sister Noor Jehan died in 2023 after years of suffering. The effort highlights how captive animals in Pakistan lack proper medical care and facilities."
+   },
+   "bn": {
+    "title": "করাচি চিড়িয়াখানার মাধুবালা বাঁচাতে প্রচেষ্টা অব্যাহত",
+    "summary": "জুড অ্যালেন সহ কর্মীরা করাচি চিড়িয়াখানার আফ্রিকান হাতি মাধুবালাকে বাঁচাতে প্রচারাভিযান চালাচ্ছেন যিনি গুরুতর স্বাস্থ্য সমস্যায় ভুগছেন। মাধুবালা তানজানিয়া থেকে ২০০৯ সালে পাকিস্তানে আনা চারটি হাতির শাবক একটি; তার বোন নুর জেহান ২০২৩ সালে কষ্ট ভোগের পর মারা গিয়েছেন। এটি দেখায় পাকিস্তানে বন্দী প্রাণীদের যথাযথ চিকিৎসা সেবা নেই।"
+   }
+  },
+  {
+   "id": "o77oin",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
+   "published": "2026-10-23T04:22:57.000Z",
+   "added": "2026-10-23T04:37:45.084Z",
+   "origTitle": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+   "en": {
+    "title": "Oura sues Ultrahuman again over smart ring design",
+    "summary": "Smart ring maker Oura has filed a lawsuit in Texas federal court against Indian rival Ultrahuman, alleging its Ring Pro infringes two patents covering design and internal components. This comes months after Ultrahuman's redesigned Ring Pro received US approval following an earlier import ban. Oura claims Ultrahuman has a history of copying its innovations."
+   },
+   "bn": {
+    "title": "ওউরা আবার উল্ট্রাহিউম্যানকে মামলা করলো স্মার্ট রিং নিয়ে",
+    "summary": "স্মার্ট রিং নির্মাতা ওউরা ভারতীয় প্রতিদ্বন্দ্বী উল্ট্রাহিউম্যানের বিরুদ্ধে টেক্সাস ফেডারেল কোর্টে মামলা করেছে, দাবি করে রিং প্রো তার দুটি পেটেন্ট লঙ্ঘন করছে। এটি উল্ট্রাহিউম্যানের পুনর্ডিজাইন করা রিং প্রো যুক্তরাষ্ট্র অনুমোদন পাওয়ার কয়েক মাস পরে হয়েছে। ওউরা বলে উল্ট্রাহিউম্যান তার উদ্ভাবন নকল করার ইতিহাস রাখে।"
+   }
+  },
+  {
+   "id": "1c9ewqj",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bf/live/fa5ffcb0-ce31-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-22T23:16:16.000Z",
+   "added": "2026-10-23T04:37:45.084Z",
+   "origTitle": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+   "en": {
+    "title": "Sudan RSF deliberately targeted hospitals, BBC finds",
+    "summary": "A BBC investigation found evidence that Sudan's Rapid Support Forces systematically destroyed healthcare facilities in el-Fasher during their year-long siege and takeover of the Darfur city. At least 43 separate attacks on hospitals occurred between May 2024 and October 2025, with 120 medical workers injured, 55 killed, and 10 abducted. The UN human rights chief called it a serious violation of international law that may amount to war crimes."
+   },
+   "bn": {
+    "title": "সুডানে আরএসএফ হাসপাতাল ধ্বংসে সংগঠিত: বিবিসি তদন্ত",
+    "summary": "বিবিসির তদন্তে দেখা গেছে, সুডানের র‍্যাপিড সাপোর্ট ফোর্স দারফুরের আলফাশের শহর দখলের সময় জেনে বুঝে স্বাস্থ্যসেবা ব্যবস্থা ধ্বংস করেছে। মে ২০২৪ থেকে অক্টোবর ২০২৫ পর্যন্ত কমপক্ষে ৪৩টি আলাদা হাসপাতাল ও স্বাস্থ্য কেন্দ্রে হামলা হয়েছে। ১২০ চিকিৎসক-কর্মী আহত, ৫৫ জন নিহত এবং ১০ জন অপহৃত হয়েছেন।"
+   }
+  },
+  {
+   "id": "1ns867w",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c35ynjwrjjp4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d603/live/9c9fdf10-ce4e-11f1-8507-d7f0bcb84e7e.jpg",
+   "published": "2026-10-23T04:24:15.000Z",
+   "added": "2026-10-23T04:37:45.084Z",
+   "origTitle": "কারফিউয়ের মেয়াদ বাড়লো প্যারিসে, দুই শহরে বিক্ষোভ নিষিদ্ধ",
+   "en": {
+    "title": "Paris extends curfew, bans protests in two cities",
+    "summary": "Paris has extended a partial curfew until Monday and banned all protests in Marseille and Lyon this weekend, after last week's large demonstrations against cost of living and school conditions turned violent. Major museums including the Louvre will close Saturday due to riot risks. The US State Department has issued travel warnings for American citizens in France."
+   },
+   "bn": {
+    "title": "প্যারিসে কারফিউ বাড়লো, দুই শহরে বিক্ষোভ নিষিদ্ধ",
+    "summary": "প্যারিস সোমবার পর্যন্ত আংশিক কারফিউ বাড়িয়েছে এবং মার্সেই ও লিওঁ শহরে এই সপ্তাহান্তে সব বিক্ষোভ নিষিদ্ধ করেছে। গত সপ্তাহে জীবনযাত্রার খরচ এবং স্কুল নিয়ে বড় বিক্ষোভ হয়েছিল, কিন্তু দাঙ্গা আর লুটপাটে মূল দাবি হারিয়ে গেছে। লুভ, ওর্সে ও পিকাসো জাদুঘর শনিবার বন্ধ থাকবে এবং যুক্তরাষ্ট্র সতর্কতা জারি করেছে।"
+   }
+  },
   {
    "id": "1len3zx",
    "section": "news",
@@ -3190,204 +3322,6 @@
    "bn": {
     "title": "নাটোরে বাস-ট্রাক সংঘর্ষে ১৩ জন নিহত, ৩০ জন আহত",
     "summary": "নাটোর-পাবনা মহাসড়কের বনপাড়ায় বাস ও ট্রাকের মুখোমুখি সংঘর্ষে ১৩ জন নিহত এবং অন্তত ৩০ জন আহত হয়েছেন। জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার দেশের সড়কে ট্রাফিক ব্যবস্থাপনার ত্রুটি এবং এমন ঘটনার পুনরাবৃত্তির কথা উল্লেখ করেছেন।"
-   }
-  },
-  {
-   "id": "pbkfes",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1559091.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/423900/423967.jpg",
-   "published": "2026-10-19T20:23:07.000Z",
-   "added": "2026-10-20T00:16:31.114Z",
-   "origTitle": "Atal and Rashid seal Afghanistan's comprehensive win",
-   "en": {
-    "title": "Atal and Rashid power Afghanistan to comprehensive victory",
-    "summary": "Afghanistan cruised to an impressive win as Atal and Rashid sealed the result. Zimbabwe needed 196 to make the final but were restricted to 136 in their chase of 295, falling short by a significant margin."
-   },
-   "bn": {
-    "title": "আতাল এবং রাশিদ আফগানিস্তানকে জয়ের দিকে এগিয়ে নিল",
-    "summary": "আফগানিস্তান আতাল এবং রাশিদের দুর্দান্ত পারফরম্যান্সে জিম্বাবোয়েকে ধরাশায়ী করেছে। জিম্বাবোয়েকে ২৯৫ রানের লক্ষ্য ছিল, তবে তারা মাত্র ১৩৬ রানে অল আউট হয়েছে এবং ফাইনালে যাওয়ার স্বপ্ন ভেঙে গেছে।"
-   }
-  },
-  {
-   "id": "139ahxe",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/religion/islam/5fwezam2m6",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-19/x2lurggm/pexels-michael-burrows-7129570.jpg",
-   "published": "2026-10-19T22:30:00.000Z",
-   "added": "2026-10-20T00:16:31.114Z",
-   "origTitle": "জেনে নিন, সর্বোচ্চ বেহেশত ‘ফেরদাউস’ পাওয়ার ৫ আমল",
-   "en": {
-    "title": "Five daily practices to aim for paradise's highest level",
-    "summary": "Islamic teaching describes Firdaws, the highest level of paradise, with golden buildings, crystal rivers, and eternal bliss. Scholars say it sits directly below God's throne, making it the most honourable place. The article outlines five daily practices—starting with strong faith and good deeds—to work toward this goal."
-   },
-   "bn": {
-    "title": "স্বর্গের সর্বোচ্চ স্তর ফেরদাউস পাওয়ার পাঁচটি আমল",
-    "summary": "ফেরদাউস হলো সোনা-রূপার ইট, স্ফটিক স্বচ্ছ নদী এবং চিরন্তন আনন্দে পূর্ণ জান্নার সর্বোচ্চ অংশ। এটি সরাসরি আল্লাহর আরশের নিচে অবস্থিত বলে ইসলামী শিক্ষায় বর্ণিত। প্রতিদিনের জীবনে এই স্তরে পৌঁছানোর জন্য পাঁচটি বিশেষ কাজ রয়েছে, যার প্রথমটি হলো সুদৃঢ় ইমান এবং সৎকর্ম।"
-   }
-  },
-  {
-   "id": "17gifar",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "ঢাকা পোস্ট",
-   "srcLang": "bn",
-   "url": "https://www.dhakapost.com/country/491733",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026October/sasa-20261020052734.jpg?cid=491733",
-   "published": "2026-10-19T23:27:34.000Z",
-   "added": "2026-10-20T00:16:31.114Z",
-   "origTitle": "শিশুখাদ্য চিপসে ক্ষতিকর রং ও ইন্ডাস্ট্রিয়াল সল্ট, জরিমানা ১ লাখ ৭০ হাজার",
-   "en": {
-    "title": "Kids' snack brand fined for harmful colours and salt",
-    "summary": "A children's chips product was found to contain harmful artificial colours and industrial-grade salt. The manufacturer was fined 1 lakh 70 thousand taka. The discovery raises concerns about food safety standards in products marketed for young consumers."
-   },
-   "bn": {
-    "title": "শিশুখাদ্য চিপসে ক্ষতিকর রং ও ইন্ডাস্ট্রিয়াল সল্ট",
-    "summary": "একটি শিশু খাদ্য চিপস পণ্যে ক্ষতিকর কৃত্রিম রং এবং ইন্ডাস্ট্রিয়াল মানের লবণ পাওয়া গেছে। নির্মাতাকে ১ লাখ ৭০ হাজার টাকা জরিমানা দেওয়া হয়েছে। ছোটদের জন্য বাজারজাত পণ্যে খাদ্য নিরাপত্তার মান নিয়ে প্রশ্ন উঠেছে।"
-   }
-  },
-  {
-   "id": "105y7dc",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
-   "published": "2026-10-19T23:39:38.000Z",
-   "added": "2026-10-20T00:16:14.429Z",
-   "origTitle": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-   "en": {
-    "title": "Anthropic and Nscale eyeing another $45 billion compute deal",
-    "summary": "Just over a month after striking a $45 billion compute deal, Anthropic and AI infrastructure firm Nscale are reportedly negotiating another identical agreement, Bloomberg reports. If finalized, it joins a string of massive compute deals Anthropic has made recently. Both companies are also pursuing IPOs, though Nscale faces investor pushback over its $30 billion valuation."
-   },
-   "bn": {
-    "title": "Anthropic এবং Nscale আবার ৪৫ বিলিয়ন ডলারের ডিল",
-    "summary": "মাত্র এক মাস আগে ৪৫ বিলিয়ন ডলারের একটা ডিল করার পর এখন Anthropic এবং Nscale আবার একই পরিমাণের ডিল নিয়ে আলোচনা করছে। এটা সাফল্য পেলে Anthropic-র অসংখ্য বড় চুক্তির সিরিজে যুক্ত হবে। দুই কোম্পানিই IPO-র দিকে যাচ্ছে, তবে Nscale-র ৩০ বিলিয়ন ডলার মূল্যায়ন নিয়ে বিনিয়োগকারীদের প্রতিবাদ আছে।"
-   }
-  },
-  {
-   "id": "151663d",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-07-28T175706Z_848845793_RC25NMA8QQQU_RTRMADP_3_PEOPLE-LINDSEY-GRAHAM-1792452329.jpg?resize=1920%2C1440",
-   "published": "2026-10-20T00:08:01.000Z",
-   "added": "2026-10-20T00:16:14.429Z",
-   "origTitle": "Hegseth meets Netanyahu in unannounced Israel visit",
-   "en": {
-    "title": "US Defense Secretary meets Netanyahu during secret Israel trip",
-    "summary": "Defense Secretary Pete Hegseth visited Israel undisclosed and met Prime Minister Benjamin Netanyahu on Monday, according to Axios. Trump endorsed Netanyahu on social media ahead of next week's elections, but Vice President JD Vance said he's staying out of Israeli politics. Netanyahu's coalition faces losing its governing majority, polls suggest."
-   },
-   "bn": {
-    "title": "আমেরিকার প্রতিরক্ষা সচিব নেতানিয়াহুর সাথে গোপনে দেখা",
-    "summary": "আমেরিকার প্রতিরক্ষা সচিব পিট হেগসেথ সোমবার ইসরায়েল এ গিয়ে প্রধানমন্ত্রী নেতানিয়াহুর সাথে দেখা করেন। ট্রাম্প সোশ্যাল মিডিয়ায় আসন্ন নির্বাচনে নেতানিয়াহুকে সমর্থন করেছেন। কিন্তু ভাইস প্রেসিডেন্ট জেডি ভ্যান্স বলেছেন তিনি ইসরায়েলী রাজনীতিতে জড়িত হচ্ছেন না।"
-   }
-  },
-  {
-   "id": "giz3og",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
-   "image": "https://i.guim.co.uk/img/media/9bd27b70fe701104ae96a61f3b5d9b87bdb4e4b4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c2ba89fc03967397614f10e34e06f647",
-   "published": "2026-10-19T22:34:43.000Z",
-   "added": "2026-10-20T00:16:14.429Z",
-   "origTitle": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-   "en": {
-    "title": "US extends temporary protection for Ukrainians and Sudanese",
-    "summary": "The Department of Homeland Security has granted a temporary reprieve to over 100,000 Ukrainians and 1,800 Sudanese whose protection status was set to expire on Monday. Protected migrants can remain in the US and keep working while details of their permanent status are decided. The DHS did not specify how long the extension lasts or when a final announcement will come."
-   },
-   "bn": {
-    "title": "আমেরিকা ইউক্রেইনীয় এবং সুদানী মাইগ্রেন্টদের আশ্রয় বাড়িয়ে দিল",
-    "summary": "সোমবার শেষ হওয়া ১ লাখ ১ হাজার ইউক্রেইনীয় এবং ১,৮০০ সুদানীর সুরক্ষা মর্যাদা আমেরিকা বাড়িয়ে দিয়েছে। তারা এখন দেশে থাকতে পারবে এবং কাজ করতে পারবে যতক্ষণ স্থায়ী সিদ্ধান্ত আসে। কতদিন এই আশ্রয় থাকবে বা চূড়ান্ত ঘোষণা কখন আসবে সে বিষয়ে বিভাগ কোনো তথ্য দেয়নি।"
-   }
-  },
-  {
-   "id": "17vm4ln",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d92/live/581e2ba0-cbfe-11f1-a0c1-e5a096ec3cfb.jpg",
-   "published": "2026-10-19T21:14:53.000Z",
-   "added": "2026-10-20T00:16:14.429Z",
-   "origTitle": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-   "en": {
-    "title": "France imposes curfews after weekend rioting and looting",
-    "summary": "French authorities imposed overnight curfews in central Paris and major cities after riots last weekend. Curfews run from 23:00 to 06:00 in Place de la République and Les Halles shopping area. Over 2,500 arrests were made, one person lost a hand to a police grenade, and about 1,000 police were injured. The Interior Minister admitted police \"lost control\" in some cities."
-   },
-   "bn": {
-    "title": "ফ্রান্সে বিক্ষোভের পর রাতের আইন-কানুন চালু",
-    "summary": "সপ্তাহান্তের বিক্ষোভের পর ফ্রান্স প্যারিসের কেন্দ্রীয় এলাকা এবং বড় শহরগুলোতে রাতের আইন-কানুন চালু করেছে। Place de la République এবং Les Halles শপিং এলাকায় রাত ১১টা থেকে সকাল ৬টা পর্যন্ত চলবে। আড়াই হাজারের বেশি গ্রেফতার হয়েছে, একজনের হাত পুলিশের গ্রেনেডে উড়ে গেছে, এবং হাজারো পুলিশ আহত হয়েছে।"
-   }
-  },
-  {
-   "id": "1ytul1i",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/foreign/uk/975588/%E0%A7%AF%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B-%E0%A6%B2%E0%A7%81%E0%A6%9F-%E0%A6%B9%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%AB%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE",
-   "image": null,
-   "published": "2026-10-20T00:10:22.000Z",
-   "added": "2026-10-20T00:16:14.429Z",
-   "origTitle": "৯০ হাজার ইউরো লুট হওয়া বাংলাদেশির পাশে ফরাসিরা",
-   "en": {
-    "title": "French community rallies around Bangladeshi after 90,000 euro robbery",
-    "summary": "During violent riots in Paris on October 17, a business owned by Bangladeshi expat Robiul Hasan in the Boulevard Masséna area was severely damaged and looted, losing 90,000 euros. After the destruction and financial shock, local French residents showed unprecedented solidarity and compassion for Hasan. The community's support provided vital help during this difficult period."
-   },
-   "bn": {
-    "title": "ফ্রান্সের ৯০ হাজার ইউরো লুটের ঘটনায় স্থানীয়দের সমর্থন",
-    "summary": "১৭ অক্টোবর প্যারিসের রাজপথের বিশৃঙ্খলার সময় বাংলাদেশী প্রবাসী রবিউল হাসানের ব্যবসা মারাত্মকভাবে ক্ষতিগ্রস্ত হয় এবং ৯০ হাজার ইউরো লুটপাটের শিকার হয়। এই ধ্বংসযজ্ঞের পর ফ্রান্সের স্থানীয় সাধারণ মানুষ অভূতপূর্ব সহমর্মিতা দেখায়। তাদের সংহতি হাসানের কঠিন সময়ে গুরুত্বপূর্ণ সহায়তা প্রদান করে।"
-   }
-  },
-  {
-   "id": "sskpe8",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/features/panorama/energy-banking-and-law-and-order-investors-top-concerns-1577921",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/19/picsart_24-11-19_08-55-45-410.jpg",
-   "published": "2026-10-19T21:20:00.000Z",
-   "added": "2026-10-20T00:16:14.429Z",
-   "origTitle": "Energy, banking and law and order investors’ top concerns",
-   "en": {
-    "title": "Bangladesh merges investment agencies into one-stop shop",
-    "summary": "Bangladesh just consolidated three separate investment agencies into Invest Bangladesh to cut investor confusion. Previously, investors had to visit multiple offices to find information—something no other country does. A new digital platform will be the only legal way to get trade licences and services, replacing the messy old system. The new head says energy and banking are the real problems holding back investment."
-   },
-   "bn": {
-    "title": "বিনিয়োগকারীদের জন্য এক জায়গায় সব সেবা",
-    "summary": "বাংলাদেশ তিনটা বিনিয়োগ সংস্থা মার্জ করে Invest Bangladesh বানিয়েছে যাতে বিনিয়োগকারীরা তিনটা আলাদা অফিসে না ঘুরতে হয়। এর আগে এমনটা কোনো দেশে ছিল না। একটা নতুন ডিজিটাল প্ল্যাটফর্ম সব কিছু সামলাবে, হাতে-কলমে লাইসেন্স দেওয়া বন্ধ হবে। আসলে বড় সমস্যা হলো বিদ্যুৎ এবং ব্যাংকিং সেক্টরের অবস্থা।"
    }
   }
  ]
