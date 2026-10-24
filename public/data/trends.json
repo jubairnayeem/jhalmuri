@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-24T05:43:19.358Z",
+ "updatedAt": "2026-10-24T10:50:33.395Z",
  "burning": [
   {
-   "id": "189x1rf",
+   "id": "12etskv",
    "heat": 5,
    "why": {
-    "en": "Economy story hitting hard as growth isn't reaching ordinary people's wallets.",
-    "bn": "অর্থনৈতিক বৃদ্ধি সাধারণ মানুষের কাছে পৌঁছাচ্ছে না, এটা বড় প্রশ্ন উঠিয়েছে।"
+    "en": "Aston Villa vs Manchester City is trending massively (1000+ searches) with heavy media coverage and live match interest.",
+    "bn": "ম্যানচেস্টার সিটি বনাম অ্যাস্টন ভিলা ম্যাচ সবচেয়ে বেশি সার্চ হচ্ছে এবং লাইভ কভারেজ চলছে।"
    },
    "rank": 1
   },
   {
-   "id": "69ag29",
-   "heat": 5,
+   "id": "1jar704",
+   "heat": 4,
    "why": {
-    "en": "France deploys massive police force as unrest spreads over living costs and cost of living.",
-    "bn": "ফ্রান্সে খরচ বৃদ্ধি নিয়ে বিশাল আন্দোলন হচ্ছে, সরকার ৭০ হাজার পুলিশ মোতায়েন করেছে।"
+    "en": "Dengue deaths and hospitalisations are a major health crisis affecting thousands across Bangladesh right now.",
+    "bn": "ডেঙ্গু নিয়ে গুরুতর সংকট — প্রতিদিন মৃত্যু এবং হাজার হাজার হাসপাতালে ভর্তি হচ্ছে।"
    },
    "rank": 2
   },
   {
-   "id": "1kizt47",
+   "id": "v4tt3r",
    "heat": 4,
    "why": {
-    "en": "Bangladesh Bank website goes down over cyber threat—people worried about their money but banking is still running.",
-    "bn": "সাইবার হুমকির কারণে বাংলাদেশ ব্যাংকের ওয়েবসাইট বন্ধ, মানুষ চিন্তিত কিন্তু ব্যাংকিং সেবা চলছে।"
+    "en": "France's violent protests with 70,000 police deployment is major international news affecting Bangladeshi communities there.",
+    "bn": "ফ্রান্সের প্রতিবাদে বাঙালিদের দোকান লুট হয়েছে এবং বিশাল পুলিশ মোতায়েন হয়েছে।"
    },
    "rank": 3
   },
   {
-   "id": "9bhzhu",
+   "id": "pyri0m",
    "heat": 3,
    "why": {
-    "en": "Road accident in Chattogram kills father and daughter in bus-CNG collision.",
-    "bn": "চট্টগ্রামে বাস ও সিএনজির সংঘর্ষে পিতা-কন্যা নিহত হয়েছেন।"
+    "en": "150 ship-breaking workers killed over 12 years is a serious labour safety story getting attention.",
+    "bn": "শিপব্রেকিং ইন্ডাস্ট্রিতে ১২ বছরে ১৫০ জন কর্মী মৃত্যু — গুরুতর শ্রম নিরাপত্তা সংকট।"
    },
    "rank": 4
   },
   {
-   "id": "5p7k5e",
+   "id": "1netvux",
    "heat": 3,
    "why": {
-    "en": "Cox's Bazar hotel fire evacuates 300 tourists but all escape safely.",
-    "bn": "কক্সবাজারে হোটেলে আগুন লেগেছে কিন্তু ৩০০ পর্যটক নিরাপদে বের হয়ে এসেছেন।"
+    "en": "Cox's Bazar fire and drowning deaths highlight urgent safety and infrastructure issues in a key tourist area.",
+    "bn": "কক্সবাজারে আগুন এবং ডুবে মৃত্যু — পর্যটন এলাকায় নিরাপত্তা ঝুঁকি।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "zyvsp7",
-   "tag": "#FlyingCar",
+   "id": "12etskv",
+   "tag": "#ManCityAston",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "Indian teen builds flying car",
-    "text": "A young Indian without an engineering degree has built a flying car. The project is turning heads online as people talk about DIY innovation and what's possible without formal credentials."
+    "title": "Man City at Villa",
+    "text": "Manchester City travel to Aston Villa in the Premier League with massive buzz around Haaland's availability and match predictions trending across Bangladesh."
    },
    "bn": {
-    "title": "ইঞ্জিনিয়ারিং ছাড়াই ফ্লাইং কার",
-    "text": "একজন তরুণ ভারতীয় প্রকৌশল ডিগ্রি ছাড়াই একটি উড়ন্ত গাড়ি তৈরি করেছেন। এই প্রকল্প অনলাইনে আলোড়ন সৃষ্টি করছে।"
+    "title": "ম্যান সিটি-ভিলা ম্যাচ",
+    "text": "ম্যানচেস্টার সিটি অ্যাস্টন ভিলায় যাচ্ছে প্রিমিয়ার লিগে। হালান্ড খেলবেন কিনা এবং ম্যাচ পূর্বাভাস নিয়ে ব্যাপক কথাবার্তা।"
    }
   },
   {
-   "id": "jtjs07",
-   "tag": "#MicroduckRobots",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Cute robot ducks go viral",
-    "text": "Microduck robots have taken off online with 20,000 preorders in a single day. People are loving the adorable design and what they can do."
-   },
-   "bn": {
-    "title": "মজার রোবট হাঁস ভাইরাল",
-    "text": "মাইক্রোডাক রোবটগুলি এক দিনে ২০ হাজার প্রি-অর্ডার পেয়ে ভাইরাল হয়েছে। মানুষ এর প্রাণবন্ত ডিজাইন পছন্দ করছে।"
-   }
-  },
-  {
-   "id": "1npo1lq",
-   "tag": "#AIStartup",
+   "id": "1ygk03s",
+   "tag": "#KohliControversy",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "AI startup Daytona raises $60M",
-    "text": "Daytona, an AI agent cloud startup, has raised $60 million at a $1 billion valuation. Big money is flowing into AI infrastructure right now."
+    "title": "Kohli snubs Indian spinner",
+    "text": "Former India spinner Mishra claims Kohli promised his return, then ignored his calls—creating fresh drama in Indian cricket."
    },
    "bn": {
-    "title": "এআই স্টার্টআপ বিশাল তহবিল সংগ্রহ",
-    "text": "ডেটোনা নামের এআই স্টার্টআপ ৬০ মিলিয়ন ডলার তুলেছে এবং এক বিলিয়ন ডলার মূল্যায়িত হয়েছে।"
+    "title": "কোহলি-মিশ্রার বিরোধ",
+    "text": "ভারতের প্রাক্তন স্পিনার মিশ্রা দাবি করছেন কোহলি ফিরে আসার প্রতিশ্রুতি দিয়েছেন, তারপর তার ফোনের কোনো জবাব দেননি।"
    }
   },
   {
-   "id": "xfefq6",
-   "tag": "#HealthTourism",
+   "id": "9ku257",
+   "tag": "#BangladeshCricket",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "China opens fast-track eye care for Bangladesh",
-    "text": "China has launched fast-track eye treatment services for Bangladeshi patients. It's part of expanding healthcare ties between the two countries."
+    "title": "Bangladesh squad for West Indies",
+    "text": "Bangladesh Test squad announced for the West Indies series, sparking discussion about team selection and tour expectations."
    },
    "bn": {
-    "title": "চীনে বাঙালি রোগী চোখের সেবা",
-    "text": "চীন বাংলাদেশি রোগীদের জন্য দ্রুত চোখের চিকিৎসা সেবা খুলেছে।"
+    "title": "বাংলাদেশ ওয়েস্ট ইন্ডিজ সিরিজ",
+    "text": "বাংলাদেশের ওয়েস্ট ইন্ডিজ সিরিজের টেস্ট দল ঘোষণা হয়েছে। দল নির্বাচন এবং সিরিজের প্রত্যাশা নিয়ে আলোচনা চলছে।"
+   }
+  },
+  {
+   "id": "uqetu7",
+   "tag": "#AfghanistanSports",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Afghanistan wins tri-series",
+    "text": "Afghanistan claimed the tri-series title with a strong bowling performance, making waves in regional cricket."
+   },
+   "bn": {
+    "title": "আফগানিস্তান ট্রাই-সিরিজ জয়",
+    "text": "আফগানিস্তান দুর্দান্ত বোলিং পারফরম্যান্সের মাধ্যমে ট্রাই-সিরিজ জয় করেছে।"
    }
   }
  ],

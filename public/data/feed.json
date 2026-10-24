@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-24T05:43:02.320Z",
+ "updatedAt": "2026-10-24T10:50:16.555Z",
  "items": [
+  {
+   "id": "19va9gn",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিডিনিউজ২৪",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wLXpFY05aYURpWFZRcXEwOF9nTGF3SFV2dUNSRWQyZ3lrOXZxbGdGZTJveG1za0htSl9QRTNWbnZ3ODVCNlNYbFFfelEtM1hzYjVZZjB4TkJnRUNVTkVIRy1ON0IweUk?oc=5",
+   "image": null,
+   "published": "2026-10-24T06:50:00.000Z",
+   "added": "2026-10-24T10:50:16.555Z",
+   "origTitle": "সাড়ে ৩ ঘণ্টার চেষ্টায় গাজীপুরে গুদামের আগুন নিয়ন্ত্রণে",
+   "en": {
+    "title": "Warehouse fire in Gazipur brought under control",
+    "summary": "A warehouse fire in Gazipur was brought under control after three and a half hours of firefighting efforts. Emergency services worked to contain the blaze and prevent it from spreading further."
+   },
+   "bn": {
+    "title": "গাজীপুরের গুদামের আগুন নিয়ন্ত্রণে",
+    "summary": "গাজীপুরে একটি গুদামের আগুন সাড়ে তিন ঘণ্টার চেষ্টায় নিয়ন্ত্রণে আনা হয়েছে। দমকল বাহিনী আগুন ছড়িয়ে পড়া প্রতিরোধে কাজ করেছে।"
+   }
+  },
+  {
+   "id": "xlev9t",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1559830.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/330300/330392.jpg",
+   "published": "2026-10-24T09:55:26.000Z",
+   "added": "2026-10-24T10:50:16.555Z",
+   "origTitle": "President's Trophy final shifted again, this time from Karachi to Lahore",
+   "en": {
+    "title": "Pakistan's President's Trophy final moves to Lahore",
+    "summary": "The President's Trophy cricket final has been shifted from Karachi to Lahore for the second time. The match will now take place at Bagh-e-Jinnah Park starting October 27, pushed back two days from the original schedule."
+   },
+   "bn": {
+    "title": "প্রেসিডেন্ট ট্রফি ফাইনাল এখন লাহোরে",
+    "summary": "পাকিস্তানের প্রেসিডেন্ট ট্রফি ক্রিকেট ফাইনাল দ্বিতীয়বার স্থান বদল করেছে। এটি এখন করাচির বদলে লাহোরের বাগ-ই-জিন্নাহ পার্কে ২৭ অক্টোবর থেকে শুরু হবে। এটি আগের সময়সূচীর চেয়ে দুই দিন পিছিয়ে গেছে।"
+   }
+  },
+  {
+   "id": "1r7lu04",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো বিনোদন",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbVdWcjRyTFB0b3JfdnRyOUdxNUV1aDdITXp6VmJudDB3Y3d0eGNTa2ZrRVJSUHprTGM4NzVhaGs2UWVmbGJWcXYzQktmOU9KRVFJU005QUZ5X3kzMmVKS29QUVpGRzDSAXRBVV95cUxNdG9KS2NLS0VDY2M1cXBTNjdQRjhPT3N5RW8zWUtrTWphNjRya1NCS2VFVTBwN0VWMWZpM0pJTXdQVjBlWFdjd0lGZXlNMlh6bm5xMjJ3LXZ1WU9pc3JGUnJOZzA1SXZCLVFoS0ItNnJTbm00ZQ?oc=5",
+   "image": null,
+   "published": "2026-10-24T06:31:17.000Z",
+   "added": "2026-10-24T10:50:16.555Z",
+   "origTitle": "গাড়িতে গুলির ঘটনার পর আসিফের স্ত্রী বললেন, ‘কেউ একজন দৌড়ে পালিয়েছে’",
+   "en": {
+    "title": "Actor Asif's wife speaks after car shooting incident",
+    "summary": "Following a shooting incident involving a vehicle, the wife of actor Asif has given her account of what happened. She stated that someone fled the scene on foot. Details about the incident remain limited at this time."
+   },
+   "bn": {
+    "title": "গাড়িতে গুলির ঘটনার পর আসিফের স্ত্রী কী বলেছেন",
+    "summary": "অভিনেতা আসিফের গাড়িতে গুলির ঘটনার পরে তার স্ত্রী তার বক্তব্য দিয়েছেন। তিনি বলেছেন যে কেউ একজন দৌড়ে পালিয়েছে। এই ঘটনার বিস্তারিত তথ্য এখনো সীমিত।"
+   }
+  },
+  {
+   "id": "pyri0m",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/bangladesh/district/1nrk874lps",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-08-18/dcxrhy4z/shipyard.jpg",
+   "published": "2026-10-24T10:34:45.000Z",
+   "added": "2026-10-24T10:50:05.705Z",
+   "origTitle": "জাহাজভাঙা শিল্পে ১২ বছরে ১৫০ শ্রমিক নিহত, কেমন আছে পরিবারগুলো",
+   "en": {
+    "title": "150 workers killed in ship breaking industry in 12 years",
+    "summary": "At least 150 workers have died in Sitakunda's ship recycling factories over the past 12 years. Reshma Akhtar, 21, lost her father Muhammad Munshur on August 14 in a toxic gas accident at Ferdous Steel Ship Recycling. The family received 10 lakh taka in compensation but worries it won't sustain them long-term."
+   },
+   "bn": {
+    "title": "১২ বছরে জাহাজভাঙা শিল্পে ১৫০ শ্রমিক নিহত",
+    "summary": "সীতাকুণ্ডের জাহাজভাঙা কারখানায় গত ১২ বছরে কমপক্ষে ১৫০ শ্রমিক মারা গেছেন। ২১ বছরের রেশমা আক্তার আগস্টে বিষাক্ত গ্যাসে বাবা হারিয়েছেন ফেরদৌস স্টিল শিপ রিসাইক্লিংয়ে। পরিবার ১০ লাখ টাকা ক্ষতিপূরণ পেয়েছে কিন্তু সেটা দীর্ঘমেয়াদী নিরাপত্তা দিতে পারবে না বলে চিন্তিত।"
+   }
+  },
+  {
+   "id": "15i3xzs",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/hjj8syjaii",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-24/v5npipkl/prothomalo-bangla2026-10-2318hp60t2Capture.avif",
+   "published": "2026-10-24T09:16:46.000Z",
+   "added": "2026-10-24T10:50:05.705Z",
+   "origTitle": "France protests: Bangladeshi-owned shops also vandalised, looted; business owners anxious",
+   "en": {
+    "title": "Bangladeshi shops in Paris looted in France's violent protests",
+    "summary": "Several Bangladeshi-owned businesses in Paris were vandalised and looted during France's October 17-18 riots. One businessman lost goods worth €90,000. Money transfer shops run by Bangladeshi expats fear repeat violence. By October 21, at least 451 shops in Paris alone and several thousand across France had been damaged."
+   },
+   "bn": {
+    "title": "ফ্রান্সের দাঙ্গায় পারিতে বাঙালিদের দোকান লুট হয়েছে",
+    "summary": "ফ্রান্সের ১৭-১৮ অক্টোবরের দাঙ্গায় পারিসে বাঙালিদের মালিকানাধীন একাধিক দোকান ভাঙচুর ও লুট হয়েছে। একজন ব্যবসায়ী ৯০ হাজার ইউরো মূল্যের পণ্য হারিয়েছেন। বাঙালিরা চালাচ্ছেন টাকা পাঠানোর ব্যবসা যেখানে পুনরায় সহিংসতার ঝুঁকি আছে। ২১ অক্টোবর পর্যন্ত পারিসে ৪৫১টি এবং সারা দেশে হাজারো দোকান ক্ষতিগ্রস্ত হয়েছে।"
+   }
+  },
+  {
+   "id": "v4tt3r",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T090907Z_1916558855_RC2K9OAT2WHH_RTRMADP_3_FRANCE-PROTEST-1792834167.jpg?resize=1920%2C1440",
+   "published": "2026-10-24T10:04:25.000Z",
+   "added": "2026-10-24T10:50:05.705Z",
+   "origTitle": "France braces for another day of mass protests as security on high alert",
+   "en": {
+    "title": "France deploys 70,000 police for second wave of nationwide protests",
+    "summary": "France is bracing for fresh mass demonstrations on Saturday against rising living costs and deteriorating school conditions. Over 70,000 police and gendarmes will be deployed after October 17 riots left over 2,000 arrested and thousands of businesses looted or damaged. Authorities have banned most protests in city centres and adopted strict demonstration conditions."
+   },
+   "bn": {
+    "title": "ফ্রান্সে দোকানপাট লুট, বিক্ষোভের দ্বিতীয় ঢেউ আসছে",
+    "summary": "জীবনযাত্রার খরচ বৃদ্ধির বিরুদ্ধে শনিবার ফ্রান্সে নতুন বিক্ষোভ আসছে। গত ১৭ অক্টোবরের দাঙ্গায় ২০০০ জনেরও বেশি গ্রেপ্তার হয়েছেন এবং হাজারো দোকানপাট ভাঙচুর হয়েছে। সেই সাহসিকতার পুনরাবৃত্তি রোধ করতে সরকার ৭০ হাজার পুলিশ-জেন্ডার্ম মোতায়েন করবে এবং বেশিরভাগ বিক্ষোভ শহরের কেন্দ্রে নিষিদ্ধ করেছে।"
+   }
+  },
+  {
+   "id": "jb6cqx",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg",
+   "published": "2026-10-24T10:22:34.000Z",
+   "added": "2026-10-24T10:50:05.705Z",
+   "origTitle": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+   "en": {
+    "title": "Arrest made after fire at Hitler's Eagle's Nest Alpine retreat",
+    "summary": "A suspect has been detained after a fire broke out at the Kehlsteinhaus (Eagle's Nest), Adolf Hitler's mountaintop retreat above Berchtesgaden in southern Germany, on Friday night. Some 200 emergency personnel fought the blaze, which was still burning Saturday. The Nazi-built structure, a popular tourist site since 1945, now serves as a reminder of Nazi atrocities."
+   },
+   "bn": {
+    "title": "হিটলারের পর্বত দুর্গে আগুনের পর গ্রেপ্তার",
+    "summary": "জার্মানির দক্ষিণে বার্চটেসগ্যাডেনের উপরে অবস্থিত হিটলারের আল্পাইন রিট্রিট কেহলস্টেইনহাউস (ঈগলস নেস্ট) এ শুক্রবার রাতে আগুন লেগেছে। সন্দেহভাজনকে গ্রেপ্তার করা হয়েছে। প্রায় ২০০ জন জরুরি কর্মী শনিবার পর্যন্ত আগুন নেভাতে কাজ করেছে। এই জায়গা এখন পর্যটক আকর্ষণ হয়ে উঠেছে এবং নাজি অত্যাচারের স্মারক হিসেবে কাজ করে।"
+   }
+  },
+  {
+   "id": "1ut3ark",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c6m2d1gx277go?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d9d/live/b1085e10-cf8d-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-10-24T10:36:16.000Z",
+   "added": "2026-10-24T10:50:05.705Z",
+   "origTitle": "বৃষ্টি-ঘূর্ণিঝড়ের আচরণ বদলে দেওয়াসহ বিশ্ব আবহাওয়ায় যে পাঁচ প্রভাব ফেলেছে এল নিনো",
+   "en": {
+    "title": "El Niño intensifies, bringing droughts, floods and heat waves",
+    "summary": "El Niño—warming of Pacific Ocean waters—has strengthened and is already causing extreme weather globally. Countries like India, Indonesia and the US are facing droughts, floods and heat waves. The World Meteorological Organization says this record-breaking El Niño will persist until at least 2027, potentially making it one of the strongest on record."
+   },
+   "bn": {
+    "title": "এল নিনো শক্তিশালী হচ্ছে, খরা-বন্যা-তাপমাত্রা বাড়ছে",
+    "summary": "প্রশান্ত মহাসাগরের পানির উষ্ণতা বৃদ্ধি পাওয়া এল নিনো এখন আরও শক্তিশালী হয়েছে। ভারত, ইন্দোনেশিয়া এবং যুক্তরাষ্ট্রসহ বিভিন্ন দেশ খরা, বন্যা ও তাপপ্রবাহের মুখোমুখি হচ্ছে। বিশ্ব আবহাওয়া সংস্থা বলছে এটি অন্তত ২০২৭ সাল পর্যন্ত চলবে এবং রেকর্ড ভাঙা শক্তিশালী হতে পারে।"
+   }
+  },
+  {
+   "id": "1jar704",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/health/976426/%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81-%E0%A6%95%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B2%E0%A7%8B-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A7%A7%E0%A7%AE%E0%A7%AF%E0%A7%AE",
+   "image": null,
+   "published": "2026-10-24T10:44:52.000Z",
+   "added": "2026-10-24T10:50:05.705Z",
+   "origTitle": "একদিনে ডেঙ্গু কেড়ে নিলো আরও প্রাণ, হাসপাতালে ১৮৯৮",
+   "en": {
+    "title": "Dengue kills five more in 24 hours, 1,898 hospitalised",
+    "summary": "Five people died from dengue fever in Bangladesh in the last 24 hours, from Friday 8am to Saturday 8am. Another 1,898 dengue patients were admitted to hospitals during the same period. Two deaths were reported in Chattogram division and others in South Dhaka, according to the health ministry."
+   },
+   "bn": {
+    "title": "২৪ ঘণ্টায় ডেঙ্গুতে পাঁচজন মৃত, হাসপাতালে ১,৮৯৮",
+    "summary": "শুক্রবার সকাল ৮টা থেকে শনিবার সকাল ৮টা পর্যন্ত ডেঙ্গু জ্বরে দেশে পাঁচজন মারা গেছেন। এই সময়ে ডেঙ্গুতে আক্রান্ত হয়ে এক হাজার ৮৯৮ জন হাসপাতালে ভর্তি হয়েছেন। মৃতদের মধ্যে দুজন চট্টগ্রাম বিভাগে এবং বাকিরা ঢাকা দক্ষিণে ছিলেন বলে স্বাস্থ্য অধিদফতর জানিয়েছে।"
+   }
+  },
   {
    "id": "ebt5q",
    "section": "news",
@@ -2838,182 +3036,6 @@
    "bn": {
     "title": "মাস্ক আমেরিকার সব শিশুকে স্পেসএক্স শেয়ার দেওয়ার প্রতিশ্রুতি দিলো",
     "summary": "ইলন মাস্ক আগামী বছর আমেরিকার ১৮ বছরের নিচে প্রতিটি শিশুকে একটা করে স্পেসএক্স শেয়ার দেওয়ার ঘোষণা দিয়েছেন—যার মূল্য প্রায় ১০.৭ বিলিয়ন ডলার। মধ্যমেয়াদী নির্বাচনের ঠিক আগে এই প্রতিশ্রুতি এসেছে, আর মাস্ক ইতিমধ্যে রিপাবলিকান গ্রুপে ২৭৬ মিলিয়ন ডলারের বেশি দান করেছেন। শেয়ার ঠিক কিভাবে পৌঁছাবে তা এখনো পরিষ্কার নয়।"
-   }
-  },
-  {
-   "id": "go7t9w",
-   "section": "news",
-   "cat": "money",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/wybcuizxa5",
-   "image": "https://media.prothomalo.com/prothomalo-english/2025-10-03/hulov4dk/Bangladesh-Government.jpg",
-   "published": "2026-10-21T08:55:58.000Z",
-   "added": "2026-10-21T10:03:03.799Z",
-   "origTitle": "Recruitment for 100,000 third and fourth class govt posts stalls",
-   "en": {
-    "title": "100,000 government temporary jobs stuck in policy limbo",
-    "summary": "About 100,000 third and fourth class government posts are pending recruitment because of a revised outsourcing policy issued by the Finance Ministry on 21 September. Previously these were hired through private companies, but the new rules prevent that—yet don't clearly explain how to hire directly. Government offices now can't recruit staff or provide essential services. Legal gaps in the Public Procurement Act are blocking implementation."
-   },
-   "bn": {
-    "title": "এক লাখ সরকারি চাকরির নিয়োগ নীতিগত জটিলতায় আটকে আছে",
-    "summary": "তৃতীয় ও চতুর্থ শ্রেণীর প্রায় এক লাখ সরকারি স্থায়ী পদের নিয়োগ ২১ সেপ্টেম্বর আপডেট করা আউটসোর্সিং নীতির কারণে ঝুলছে। আগে ব্যক্তিগত কোম্পানির মাধ্যমে এই পদের কর্মী নিয়োগ হতো, কিন্তু নতুন নিয়মে তা নিষিদ্ধ। তবে সরাসরি নিয়োগের পদ্ধতি স্পষ্ট নয়, তাই সরকারি অফিসগুলো কর্মচারী নিতে পারছে না।"
-   }
-  },
-  {
-   "id": "2x2rkw",
-   "section": "news",
-   "cat": "politics",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/899rru06eg",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/kf1t550a/President.jfif",
-   "published": "2026-10-21T09:52:57.000Z",
-   "added": "2026-10-21T10:03:03.799Z",
-   "origTitle": "সত্য, ন্যায় ও মানবিকতার পক্ষে তরুণদের সোচ্চার থাকার আহ্বান রাষ্ট্রপতির",
-   "en": {
-    "title": "President urges youth to stand for truth, justice, humanity",
-    "summary": "President Mirza Fakhrul Islam Almgir called on young Bangladeshis to speak up for truth, justice and humanity, and to resist rumours, propaganda and religious extremism that try to divide the nation. He said all religions here celebrate festivals peacefully while conflict rages elsewhere—this harmony is Bangladesh's greatest strength. He stressed that communal unity, built on all faiths participating together in democratic struggles, must be protected at any cost."
-   },
-   "bn": {
-    "title": "রাষ্ট্রপতির তরুণদের সত্য ও ন্যায়ের জন্য সোচ্চার হওয়ার আহ্বান",
-    "summary": "রাষ্ট্রপতি মির্জা ফখরুল ইসলাম আলমগীর তরুণ প্রজন্মকে গুজব, অপপ্রচার ও ধর্মীয় উগ্রতার বিরুদ্ধে দৃঢ় থাকার আহ্বান জানিয়েছেন। তিনি বলেছেন, যখন বিশ্বে যুদ্ধ ও সাম্প্রদায়িক হানাহানি চলছে, তখন বাংলাদেশে সব ধর্মের মানুষ শান্তিতে উৎসব পালন করছে—এটাই আমাদের বড় অর্জন। তিনি এই সম্প্রীতি অক্ষুণ্ণ রাখতে জোর দিয়েছেন।"
-   }
-  },
-  {
-   "id": "j3ijqj",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/bangladesh/mother-daughter-killed-ctg-road-crash-1579336",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/screenshot_2026-10-21_154808.png",
-   "published": "2026-10-21T09:45:00.000Z",
-   "added": "2026-10-21T10:02:52.446Z",
-   "origTitle": "Mother, daughter killed in Ctg road crash",
-   "en": {
-    "title": "Mother and daughter killed in Chattogram highway crash",
-    "summary": "A woman and her daughter died when a microbus crashed into an electricity pole on the Dhaka-Chattogram highway in Sitakunda upazila on Tuesday morning. The driver lost control of the vehicle, which was carrying six people. Four others were injured and taken to Chattogram Medical College Hospital for treatment."
-   },
-   "bn": {
-    "title": "চট্টগ্রামের সড়ক দুর্ঘটনায় মা-মেয়ে নিহত",
-    "summary": "মঙ্গলবার সকালে ঢাকা-চট্টগ্রাম মহাসড়কে সিতাকুণ্ডায় একটি মাইক্রোবাস বিদ্যুৎ খুঁটিতে ঢেউ খেয়ে পড়ে। চালক নিয়ন্ত্রণ হারায় এবং ছয় যাত্রীর মধ্যে দুইজন মারা যান। চার জন আহত হয়ে চট্টগ্রাম মেডিকেল কলেজ হাসপাতালে পাঠানো হয়।"
-   }
-  },
-  {
-   "id": "11uva8x",
-   "section": "bhabna",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "Aeon",
-   "srcLang": "en",
-   "url": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
-   "image": "https://images.aeonmedia.co/images/6c5e566f-cdc2-410f-8762-825565f1c6f3/when-it-started-to-burn-landscape-1.jpg?width=1200&quality=75&format=jpeg",
-   "published": "2026-10-21T10:01:00.000Z",
-   "added": "2026-10-21T10:02:52.446Z",
-   "origTitle": "When it started to burn",
-   "en": {
-    "title": "Filmmaker Anders Hammer's Ukraine war trilogy completes with new film",
-    "summary": "Norwegian filmmaker Anders Hammer has released When It Started to Burn, documenting Russia's invasion of Ukraine from 2022 onward. The film follows Kyiv resident Kseniia, who sends her children abroad while staying to run a humanitarian center. It's the third in Hammer's trilogy capturing global conflicts, after films on Hong Kong and Afghanistan."
-   },
-   "bn": {
-    "title": "নরওয়েজিয়ান চলচ্চিত্রকার আন্ডার্স হ্যামারের নতুন ইউক্রেন চলচ্চিত্র প্রকাশিত",
-    "summary": "নরওয়েজিয়ান চলচ্চিত্রকার আন্ডার্স হ্যামার তার নতুন ছবি 'হোয়েন ইট স্টার্টেড টু বার্ন' প্রকাশ করেছেন যা ২০২২ থেকে রাশিয়ার ইউক্রেন আক্রমণ নথিভুক্ত করে। ছবিটি কিয়েভ বাসী ক্সেনিয়াকে অনুসরণ করে, যিনি তার সন্তানদের বিদেশে পাঠিয়ে নিজে মানবিক সাহায্য কেন্দ্র পরিচালনা করেন।"
-   }
-  },
-  {
-   "id": "1pvwcpt",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg",
-   "published": "2026-10-21T09:22:23.000Z",
-   "added": "2026-10-21T10:02:52.446Z",
-   "origTitle": "Russia frees US citizen Stephen Hubbard, state media reports",
-   "en": {
-    "title": "Putin says Russia frees detained US citizen Stephen Hubbard",
-    "summary": "President Putin announced Russia has agreed to release American Stephen Hubbard, originally from Michigan, who was serving a seven-year sentence for allegedly fighting for Ukraine. The 72-year-old was captured two years ago near Izyum. Trump had previously raised Hubbard's case with Putin and said the US was focused on securing his release."
-   },
-   "bn": {
-    "title": "পুতিন বলেছেন রাশিয়া মার্কিন নাগরিক স্টিফেন হাবার্ডকে মুক্ত করছে",
-    "summary": "পুতিন ঘোষণা করেছেন রাশিয়া আমেরিকান স্টিফেন হাবার্ডকে মুক্তি দিতে সম্মত হয়েছে, যিনি ইজিয়ামে ইউক্রেনের পক্ষে লড়াই করার জন্য সাত বছরের সাজা পাচ্ছিলেন। ৭২ বছর বয়সী এই ব্যক্তি দুই বছর আগে ধরা পড়েন। ট্রাম্প পূর্বে পুতিনের সাথে তার মুক্তির কথা উঠিয়েছিলেন।"
-   }
-  },
-  {
-   "id": "7wnw4i",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3WP3XN__v1__MidRes__AustraliaPoliticsAttack-1792566224.jpg?resize=1200%2C630",
-   "published": "2026-10-21T09:24:47.000Z",
-   "added": "2026-10-21T10:02:52.446Z",
-   "origTitle": "Attack on Australian MP Haines: How threats against legislators have soared",
-   "en": {
-    "title": "Australian MP Helen Haines loses both legs in deliberate car attack",
-    "summary": "Independent MP Helen Haines, 65, had both legs amputated after being struck by an SUV outside her office in Victoria on Monday. Police say the 43-year-old driver deliberately hit her. Prime Minister Anthony Albanese called it targeted violence, highlighting a disturbing rise in threats and abuse toward Australian lawmakers fuelled by online extremism."
-   },
-   "bn": {
-    "title": "অস্ট্রেলিয়ান সাংসদ হেলেন হেইনস গাড়ির আঘাতে দুই পা হারান",
-    "summary": "অস্ট্রেলিয়ার স্বাধীন সাংসদ হেলেন হেইনস, ৬৫, সোমবার তার অফিসের বাইরে একটি এসইউভি দ্বারা আঘাত পেয়ে দুই পা হারিয়েছেন। পুলিশ বলেছে চালক ইচ্ছাকৃতভাবে তাকে আঘাত করেছে। প্রধানমন্ত্রী এটিকে লক্ষ্যবস্তু হিংসা বলে অভিহিত করেছেন এবং সাংসদদের বিরুদ্ধে হুমকি ও হয়রানির ঊর্ধ্বমুখী প্রবণতার কথা জানিয়েছেন।"
-   }
-  },
-  {
-   "id": "1aj5vpa",
-   "section": "news",
-   "cat": "desh",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/rangpur/975865/%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%AB%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A6%B0%E0%A7%8B%E0%A6%A7",
-   "image": null,
-   "published": "2026-10-21T09:58:56.000Z",
-   "added": "2026-10-21T10:02:52.446Z",
-   "origTitle": "যাত্রাবিরতির দাবিতে নীলফামারীতে ট্রেন আটকে অবরোধ, ৪ ঘণ্টা পর চলাচল স্বাভাবিক",
-   "en": {
-    "title": "Nilphamari residents block train over station demand",
-    "summary": "Local residents in Nilphamari blocked railway tracks on Wednesday morning demanding the reintroduction of train stops at Darwani station. The blockade, which drew over a thousand people, halted several trains for about four hours. After assurances from the administration, protesters withdrew and normal service resumed."
-   },
-   "bn": {
-    "title": "ট্রেনের যাত্রাবিরতি চালুর দাবিতে নীলফামারীতে রেলপথ অবরোধ",
-    "summary": "বুধবার সকালে নীলফামারীর দারোয়ানী এলাকায় স্থানীয় বাসিন্দারা রেলপথ অবরোধ করেছেন। তারা দারোয়ানী রেলস্টেশনে ট্রেনের যাত্রাবিরতি চালুর দাবি জানান। সহস্রাধিক মানুষের অংশগ্রহণে চার ঘণ্টা ধরে অবরোধ চলে এবং প্রশাসনের আশ্বাসে তা প্রত্যাহার করা হয়।"
-   }
-  },
-  {
-   "id": "tcxgjg",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cxvgd9dnrv39o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a8ca/live/9dc70340-c7a6-11f1-a624-a3d8608fc192.jpg",
-   "published": "2026-10-21T05:19:06.000Z",
-   "added": "2026-10-21T10:02:52.446Z",
-   "origTitle": "ডোনাল্ড ট্রাম্প কি মিয়ানমারের সঙ্গে ব্যবসা করতে আগ্রহী?",
-   "en": {
-    "title": "Trump administration signals shift toward Myanmar military talks",
-    "summary": "A senior US official met Myanmar's military leader Min Aung Hlaing in September, marking the highest-level contact since the 2021 coup. The US also removed some businessmen from sanctions lists. These moves suggest a policy shift from Washington's long isolationist stance toward Myanmar's junta, though the administration framed the meeting as securing a detained American's release."
-   },
-   "bn": {
-    "title": "ট্রাম্প প্রশাসন মিয়ানমারের সামরিক নেতার সাথে আলোচনা শুরু করছে",
-    "summary": "সেপ্টেম্বরে একজন মার্কিন শীর্ষ কর্মকর্তা মিয়ানমারের সামরিক নেতা মিন অং হ্লাইংয়ের সাথে দেখা করেছেন - ২০২১ সামরিক অভ্যুত্থানের পর প্রথম সর্বোচ্চ পর্যায়ের যোগাযোগ। যুক্তরাষ্ট্র কয়েকজন ব্যবসায়ীকে নিষেধাজ্ঞা তালিকা থেকে বাদ দিয়েছে। এই পদক্ষেপগুলো সামরিক শাসনের প্রতি ওয়াশিংটনের নীতির পরিবর্তন ইঙ্গিত করছে।"
    }
   }
  ]
