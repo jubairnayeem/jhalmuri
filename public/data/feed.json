@@ -1,6 +1,226 @@
 {
- "updatedAt": "2026-10-24T14:27:57.322Z",
+ "updatedAt": "2026-10-24T18:04:47.320Z",
  "items": [
+  {
+   "id": "1r0jcf8",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "New Age",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGtZSl9kZVlycmtlZEJZQi1UNmpsVDd6M0QySU9YVnYyOWxhOWtYM2xRWC1OMG00Qjdad2V1S0ZpcmVjSld5N1Jyb0M3OWZsbTNPWHR1M0d2NW0zMjFpNHh5VGNrOEN5cXA3ZlJfWFl1NDFHZ0ZKU2F2UmVsaFEydDJabVpfVEtKamRWWVBRdDZWNGtHbEZxaDBTUGo4c1JoRGFOUURkR2NDODdQ?oc=5",
+   "image": null,
+   "published": "2026-10-23T19:30:00.000Z",
+   "added": "2026-10-24T18:04:47.319Z",
+   "origTitle": "Contractual jobs continue at top level, many in admin frustrated",
+   "en": {
+    "title": "Contractual jobs persist at top levels amid admin frustration",
+    "summary": "Contractual positions continue to be used at senior administrative levels in Bangladesh. Many government officials remain frustrated with this practice. The reliance on temporary contracts raises concerns about job stability and career planning in the civil service."
+   },
+   "bn": {
+    "title": "উচ্চপর্যায়ে চুক্তিভিত্তিক চাকরি অব্যাহত, প্রশাসকরা হতাশ",
+    "summary": "বাংলাদেশের উচ্চপর্যায়ের প্রশাসনিক পদে চুক্তিভিত্তিক চাকরির ব্যবহার অব্যাহত রয়েছে। অনেক সরকারি কর্মচারী এই প্রথায় হতাশ। স্থায়ী চাকরির অনিশ্চয়তা সিভিল সার্ভিসে ক্যারিয়ার পরিকল্পনায় সমস্যা তৈরি করছে।"
+   }
+  },
+  {
+   "id": "jngu60",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "কালের কণ্ঠ",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YdHdwR0pZRGRIajVMdmJsTTMwMEctanZScXp6WE9nMjJxUVlZdVBIbHpPMXFGSDk5cUZYa21VMFE3TXJLSFprRk11M2pkT1o3TmY5aHVjZFVicnBicEJJRnVhWTlJTjlGUG13MjA3a3c?oc=5",
+   "image": null,
+   "published": "2026-10-24T15:18:48.000Z",
+   "added": "2026-10-24T18:04:47.319Z",
+   "origTitle": "অপরিকল্পিত উন্নয়নে গাজীপুরের ক্ষতি করা হয়েছে : ফজলুল হক মিলন",
+   "en": {
+    "title": "Gazipur damaged by unplanned development, says Fajlul Haq Milen",
+    "summary": "Fajlul Haq Milen has claimed that unplanned development has harmed Gazipur. The statement highlights concerns about the district's growth without proper urban planning. Infrastructure and environmental pressures have become key issues as development continues unchecked."
+   },
+   "bn": {
+    "title": "অপরিকল্পিত উন্নয়নে গাজীপুর ক্ষতিগ্রস্ত হয়েছে : ফজলুল হক মিলন",
+    "summary": "ফজলুল হক মিলন দাবি করেছেন যে অপরিকল্পিত উন্নয়ন গাজীপুরের ক্ষতি করেছে। এই বক্তব্য জেলার বৃদ্ধি সম্পর্কে চিন্তা তুলে ধরে যেখানে সঠিক পরিকল্পনার অভাব রয়েছে। অবকাঠামো এবং পরিবেশগত চাপ মূল সমস্যা হয়ে উঠেছে।"
+   }
+  },
+  {
+   "id": "19eaqe",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1559879.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/420600/420656.jpg",
+   "published": "2026-10-24T17:36:55.000Z",
+   "added": "2026-10-24T18:04:47.319Z",
+   "origTitle": "Ashraful no longer Bangladesh's batting coach",
+   "en": {
+    "title": "Ashraful steps down as Bangladesh batting coach",
+    "summary": "Mohammad Ashraful is no longer Bangladesh's batting coach. Mohammad Salahuddin will take over the role on an interim basis. Ashraful has been reassigned to a new role within the Bangladesh Cricket Board. The change marks a shift in the coaching setup ahead of upcoming fixtures."
+   },
+   "bn": {
+    "title": "আশরাফুল বাংলাদেশের ব্যাটিং কোচের দায়িত্ব থেকে সরে গেছেন",
+    "summary": "মোহাম্মদ আশরাফুল এখন আর বাংলাদেশের ব্যাটিং কোচ নন। মোহাম্মদ সালাহউদ্দিন অস্থায়ীভাবে এই দায়িত্ব সামলাবেন। আশরাফুলকে বিসিবির মধ্যে একটি নতুন ভূমিকায় পুনর্নিয়োগ করা হয়েছে। এটি আসন্ন ম্যাচের আগে কোচিং সেটআপে একটি পরিবর্তন।"
+   }
+  },
+  {
+   "id": "1baekmn",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "UNB",
+   "srcLang": "en",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTNuQjJIc0ZtQThuajhlcEQwV2N5S2FpNjdtV2ZFREt6SWlpQl8wMXYxaHpVQTJzaTQxc1ZDSGwwQ3JrbHNiZUo1dEZ2NmJQeEFDN0R4ZXNEQXFIQjBqT2stVmh2dzRrbi1NN1B1V3lrOFJSU1VUcUhuM3RVWHFCVVlCNWpwckJpM3R6RkpiN25wR083anp2U1A5ZXphbl9IdnhZZXF4dTZpT0dZX3NidlM2cVNaamVOMHFFRjRB?oc=5",
+   "image": null,
+   "published": "2026-10-24T10:38:21.000Z",
+   "added": "2026-10-24T18:04:47.319Z",
+   "origTitle": "Ukraine, Russia signal readiness for new peace talks as major differences persist",
+   "en": {
+    "title": "Ukraine and Russia signal openness to new peace talks",
+    "summary": "Ukraine and Russia have indicated they are ready to return to the negotiating table, even as major disagreements remain unresolved. The two countries continue to differ on key issues, but the willingness to talk suggests some shift in their positions. Talks could address territorial disputes, security guarantees, and other core conflicts between them."
+   },
+   "bn": {
+    "title": "ইউক্রেইন এবং রাশিয়া শান্তি আলোচনায় আগ্রহী",
+    "summary": "ইউক্রেইন এবং রাশিয়া আবার আলোচনা টেবিলে ফিরে আসার জন্য প্রস্তুত বলে জানিয়েছে। দুই দেশের মধ্যে প্রধান মতের অমিল থাকলেও, কথা বলার আগ্রহ কিছু পরিবর্তনের ইঙ্গিত দেয়। আলোচনা অঞ্চল, নিরাপত্তা নিশ্চয়তা এবং অন্যান্য মূল বিষয় নিয়ে হতে পারে।"
+   }
+  },
+  {
+   "id": "12dk96l",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/multiple-proposals-emerge-caretaker-govt-structure-1581911",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/home_minister.jpg",
+   "published": "2026-10-24T17:55:00.000Z",
+   "added": "2026-10-24T18:04:31.969Z",
+   "origTitle": "Multiple proposals emerge on caretaker govt structure",
+   "en": {
+    "title": "Constitutional experts propose options for caretaker government structure",
+    "summary": "Constitutional experts have offered multiple proposals for forming a caretaker government, including the possible role of an upper parliament chamber and appointing a Speaker or Vice-President as head. Home Minister Salahuddin Ahmed revealed these suggestions after the eighth committee meeting on 24 October. The proposals include creating a Vice-President post and appointing a Speaker with consent from both ruling and opposition parties. The committee plans to incorporate feedback into its final report."
+   },
+   "bn": {
+    "title": "তত্ত্বাবধায়ক সরকার গঠনে সাংবিধানিক বিশেষজ্ঞদের প্রস্তাব",
+    "summary": "সাংবিধানিক বিশেষজ্ঞরা তত্ত্বাবধায়ক সরকার গঠনের জন্য একাধিক প্রস্তাব দিয়েছেন, যার মধ্যে রয়েছে সংসদের উচ্চ কক্ষের ভূমিকা এবং স্পিকার বা উপরাষ্ট্রপতিকে প্রধান নিয়োগ। গৃহমন্ত্রী সালাহউদ্দিন আহমেদ ২৪ অক্টোবর সমিতির অষ্টম বৈঠকের পরে এই পরামর্শগুলি প্রকাশ করেছেন। প্রস্তাবে রয়েছে উপরাষ্ট্রপতি পদ সৃষ্টি এবং সরকারি ও বিরোধী উভয় পক্ষের সম্মতিতে স্পিকার নিয়োগ করা।"
+   }
+  },
+  {
+   "id": "1a04cjh",
+   "section": "news",
+   "cat": "campus",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/education/eicessir-phl-prkaash-29-akttobr",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-24/kyjhimvr/20231126125548_DIPU0286_01.jpeg",
+   "published": "2026-10-24T17:54:30.000Z",
+   "added": "2026-10-24T18:04:31.969Z",
+   "origTitle": "এইচএসসির ফল প্রকাশ ২৯ অক্টোবর",
+   "en": {
+    "title": "HSC results to be released on 29 October",
+    "summary": "This year's HSC and equivalent exam results will be announced on Thursday, 29 October. The announcement was confirmed by Syed Aktaruzzaman, chairman of the Inter-Board Coordination Committee. The exams started on 2 July with a total of 12 lakh 70 thousand 583 candidates registered, though some were absent on exam days."
+   },
+   "bn": {
+    "title": "এইচএসসির ফল ২৯ অক্টোবর প্রকাশিত হবে",
+    "summary": "এ বছরের এইচএসসি এবং সমমান পরীক্ষার ফল বৃহস্পতিবার ২৯ অক্টোবর প্রকাশ করা হবে। এন্তশিক্ষা বোর্ড সমন্বয় কমিটির সভাপতি অধ্যাপক সৈয়দ আক্তারুজ্জামান এটি নিশ্চিত করেছেন। পরীক্ষাটি ২ জুলাই শুরু হয়েছিল এবং মোট ১২ লাখ ৭০ হাজার ৫৮৩ জন পরীক্ষার্থী নিবন্ধিত হয়েছিল, যদিও কেউ কেউ অনুপস্থিত ছিল।"
+   }
+  },
+  {
+   "id": "16hupik",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/gzdk7nf9nk",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-24/65172whn/prothomalo-bangla2026-10-24c8kpcsdvSaudi-FlagAFPProthomalo.avif",
+   "published": "2026-10-24T17:07:37.000Z",
+   "added": "2026-10-24T18:04:31.969Z",
+   "origTitle": "Bangladesh asks Saudi Arabia 6 questions over execution of 2 citizens",
+   "en": {
+    "title": "Bangladesh seeks details on execution of two citizens in Saudi Arabia",
+    "summary": "Bangladesh has sent a diplomatic letter to Saudi Arabia requesting information about two executed Bangladeshi citizens, Nazrul Islam Abdul Bashir and Sweety Akter, who were executed in Mecca on 14 October. The government asked six questions: the nature of crimes, arrest dates, trial details, sentencing records, execution method, and the location of their bodies. Bangladesh's Consul General delivered the letter on 19 October to Saudi Arabia's Ministry of Foreign Affairs."
+   },
+   "bn": {
+    "title": "সৌদি আরবে মৃত্যুদণ্ড নিয়ে বাংলাদেশের প্রশ্ন",
+    "summary": "বাংলাদেশ সৌদি আরবকে একটি কূটনৈতিক চিঠি পাঠিয়েছে, যাতে দুজন বাংলাদেশী নাগরিক নাজরুল ইসলাম আবদুল বাশির এবং সুইটি আক্তারের মৃত্যুদণ্ডের তথ্য চাইছে। তাদের ১৪ অক্টোবর মক্কায় সম্পাদন করা হয়েছিল। বাংলাদেশ ছয়টি প্রশ্ন তুলেছে, যার মধ্যে রয়েছে অপরাধের প্রকৃতি, গ্রেফতারের তারিখ, বিচারের বিবরণ এবং দেহের অবস্থান।"
+   }
+  },
+  {
+   "id": "xqy5wb",
+   "section": "news",
+   "cat": "lifestyle",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/others/religion/976511/%E0%A6%90%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%80-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%86%E0%A6%9C",
+   "image": null,
+   "published": "2026-10-24T18:01:00.000Z",
+   "added": "2026-10-24T18:04:31.969Z",
+   "origTitle": "ঐশ্বর্যের দেবী লক্ষ্মীর পূজা আজ",
+   "en": {
+    "title": "Lakshmi Puja celebrated today by Hindu communities",
+    "summary": "Lakshmi Puja, one of the main religious festivals for Hindu communities, is being observed today. The ritual, also called Kojagari Lakshmi Puja, falls on the full moon after Durga Puja. Devotees stay awake through the night to worship the goddess of wealth. Some communities also perform special Lakshmi worship every Thursday or on other occasions depending on regional traditions."
+   },
+   "bn": {
+    "title": "আজ হিন্দু সম্প্রদায়ের লক্ষ্মীপূজা পালিত হচ্ছে",
+    "summary": "লক্ষ্মীপূজা হিন্দু সম্প্রদায়ের প্রধান ধর্মীয় উৎসবগুলির একটি, যা আজ পালন করা হচ্ছে। এই রীতিটিকে কোজাগরী লক্ষ্মীপূজাও বলা হয় এবং দুর্গোৎসবের পরের প্রথম পূর্ণিমায় পড়ে। ভক্তরা রাত জেগে ঐশ্বর্যের দেবীর পূজা করেন। কিছু অঞ্চলে প্রতি বৃহস্পতিবার বা অন্যান্য সময়ে বিশেষ লক্ষ্মী পূজার রীতি রয়েছে।"
+   }
+  },
+  {
+   "id": "yfneqx",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800",
+   "published": "2026-10-24T16:30:00.000Z",
+   "added": "2026-10-24T18:04:31.969Z",
+   "origTitle": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+   "en": {
+    "title": "Instacart in talks to sell itself to DoorDash or Uber",
+    "summary": "Grocery delivery app Instacart is exploring a sale, reportedly talking to DoorDash and Uber about acquisition. The company, valued at over $13 billion with stock up 25% this year, may see this as the right time to sell before the market gets more competitive. Uber reportedly walked away from talks, but early discussions with DoorDash continue. The news pushed Instacart's stock up 9.2% on Friday."
+   },
+   "bn": {
+    "title": "ইনস্টাকার্ট ডোরড্যাশ বা উবারের কাছে বিক্রয়ের আলোচনা করছে",
+    "summary": "গ্রোসারি ডেলিভারি অ্যাপ ইনস্টাকার্ট একটি বিক্রয় অন্বেষণ করছে, ডোরড্যাশ এবং উবারের সাথে অধিগ্রহণ সম্পর্কে কথা বলছে। ১৩ বিলিয়ন ডলারের বেশি মূল্যায়িত কোম্পানিটি, যার স্টক এই বছর ২৫% বৃদ্ধি পেয়েছে, বাজার আরও প্রতিযোগিতামূলক হওয়ার আগে বিক্রয়ের জন্য সঠিক সময় দেখতে পারে। উবার কথোপকথন থেকে সরে গিয়েছে বলে জানা যায়, কিন্তু ডোরড্যাশের সাথে প্রাথমিক আলোচনা চলছে।"
+   }
+  },
+  {
+   "id": "ghrafd",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69d826df-1775773407.jpg?resize=1920%2C1440",
+   "published": "2026-10-24T17:01:34.000Z",
+   "added": "2026-10-24T18:04:31.969Z",
+   "origTitle": "Trump says he may move White House press corps to new location",
+   "en": {
+    "title": "Trump may move White House press corps to new location",
+    "summary": "Trump says he might relocate reporters covering the White House to a \"less obnoxious location\", though he denied plans to remove the press briefing room itself. This comes after he banned journalists from CNN, MSNBC and POLITICO last month—a move a federal judge ruled likely unconstitutional. Trump has also regularly attacked journalists, including an Oval Office incident with Independent correspondent Andrew Feinberg this week."
+   },
+   "bn": {
+    "title": "ট্রাম্প হোয়াইট হাউস সাংবাদিকদের স্থানান্তরের কথা বলছেন",
+    "summary": "ট্রাম্প হোয়াইট হাউসের সাংবাদিকদের \"কম বিরক্তিকর জায়গায়\" স্থানান্তরের কথা ভাবছেন, তবে তিনি প্রেস ব্রিফিং রুম বাতিল করার পরিকল্পনা অস্বীকার করেছেন। এর আগে তিনি সিএনএন, এমএসএনবিসি এবং পলিটিকো থেকে সাংবাদিকদের নিষিদ্ধ করেছিলেন—একটি পদক্ষেপ যা ফেডারেল বিচারক সাংবিধানিক হওয়ার সম্ভাবনা রয়েছে বলে রায় দিয়েছেন। এই সপ্তাহে ট্রাম্প ইন্ডিপেন্ডেন্টের সাংবাদিক অ্যান্ড্রু ফেইনবার্গকে নিয়েও আক্রমণ করেছেন।"
+   }
+  },
   {
    "id": "9bi1nj",
    "section": "news",
@@ -3035,205 +3255,6 @@
    "bn": {
     "title": "ইউনিসেফ চাকরির নামে প্রতারণায় দুই জন গ্রেফতার",
     "summary": "ঢাকা মহানগর পুলিশের গোয়েন্দা বিভাগ দুই জন সাইবার অপরাধীকে গ্রেফতার করেছে যারা ফেসবুকে ইউনিসেফের চাকরির নামে অর্থ আত্মসাৎ করছিল। গ্রেফতারকৃতরা হলেন মো. মোজাম্মেল হক (২৯) এবং মো. আল আমিন সরদার (২৫)। নিয়মিত সাইবার মনিটরিং থেকে তাদের জালিয়াতির ফেসবুক পেজ ধরা পড়ে।"
-   }
-  },
-  {
-   "id": "tbf879",
-   "section": "news",
-   "cat": "khela",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/cricket/0b0vobpedl",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/tinc03ag/DSC6868.JPG",
-   "published": "2026-10-21T10:52:05.000Z",
-   "added": "2026-10-21T15:08:13.287Z",
-   "origTitle": "১৬০ রানে অলআউট বাংলাদেশ",
-   "en": {
-    "title": "Bangladesh all out for 160 in ODI series",
-    "summary": "Bangladesh batted first after winning the toss but lost four wickets for just 28 runs. Parvez Hossain scored 70 runs off 96 balls, while Saif Hasan made 41 off 82 as they added 92 runs for the fifth wicket. But the lower order fell apart, adding only 39 runs across the last six wickets in 41.2 overs."
-   },
-   "bn": {
-    "title": "বাংলাদেশ ১৬০ রানে সম্পূর্ণ আউট",
-    "summary": "টসে জিতে ব্যাট করা বাংলাদেশ শুরুতেই ২৮ রানে ৪ উইকেট হারিয়েছে। পারভেজ হোসেন ৯৬ বলে ৭০ রান এবং সাইফ হাসান ৮২ বলে ৪১ রান করে ৯২ রানের পার্টনারশিপ গড়েন। তবে বাকি ব্যাটসম্যানরা কোনো প্রতিরোধ না করেই অলআউট হয়ে যান ১৬০ রানে।"
-   }
-  },
-  {
-   "id": "1se4qgv",
-   "section": "hasi",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": true,
-   "src": "The Onion",
-   "srcLang": "en",
-   "url": "https://theonion.com/diagram-of-a-patriots-brain/",
-   "image": "https://theonion.com/wp-content/uploads/2026/10/Header_6e9c24.jpg",
-   "published": "2026-10-21T14:31:53.000Z",
-   "added": "2026-10-21T15:08:13.287Z",
-   "origTitle": "Diagram Of A Patriot’s Brain",
-   "en": {
-    "title": "The Onion: Inside a patriot's brain",
-    "summary": "The Onion dishes out a hilarious satirical diagram of an American patriot's brain, complete with absurd features like a 'freedom sac' that swells during pickup truck commercials, an unexploded bottle rocket lodged in the skull, and a debate stage for imaginary arguments. It's pure comedy lampooning overblown nationalism and political tribalism."
-   },
-   "bn": {
-    "title": "দ্য অনিয়ন: দেশপ্রেমিকের মস্তিষ্কের ডায়াগ্রাম",
-    "summary": "সাটায়ার মিডিয়া দ্য অনিয়ন একজন আমেরিকান দেশপ্রেমিকের মস্তিষ্কের একটি মজার ডায়াগ্রাম তৈরি করেছে। এতে আছে পিকআপ ট্রাক বিজ্ঞাপনে ফুলে যাওয়া 'ফ্রিডম স্যাক', মাথায় বসে থাকা অবিস্ফোরিত আতশবাজি, আর কল্পনার বিতর্কমঞ্চ। এটা শুধু মজা এবং অতিরঞ্জিত জাতীয়তাবাদের বিদ্রূপ।"
-   }
-  },
-  {
-   "id": "zzswnj",
-   "section": "news",
-   "cat": "khela",
-   "tone": "serious",
-   "satire": false,
-   "src": "জাগো নিউজ",
-   "srcLang": "bn",
-   "url": "https://www.jagonews24.com/sports/cricket/1170675",
-   "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/bd-mvi8c4xy2fl8xno-20261021205433.jpg",
-   "published": "2026-10-21T14:54:34.000Z",
-   "added": "2026-10-21T15:08:13.287Z",
-   "origTitle": "ইমন-সাইফের লড়াইয়ের পরও ১৬০ রানে অলআউট বাংলাদেশ",
-   "en": {
-    "title": "Bangladesh collapse to 160 against Afghanistan",
-    "summary": "Bangladesh lost four wickets for just 28 runs after winning the toss and choosing to bat in the ODI series. Parvez Hossain and Saif Hasan steadied things with a 92-run partnership, but the rest of the batting lineup crumbled. The team managed only 160 runs in 41.2 overs, losing their last six wickets for just 39 runs."
-   },
-   "bn": {
-    "title": "আফগানিস্তানের বিপক্ষে ১৬০ রানে অলআউট বাংলাদেশ",
-    "summary": "টসে জিতে ব্যাট করতে নামা বাংলাদেশ মাত্র ২৮ রানে ৪ উইকেট হারিয়ে দুর্দান্ত শুরু করেছিল। পারভেজ হোসেন ও সাইফ হাসান ৯২ রানের জুটি দিয়ে অবস্থা সামলেছিলেন। তবে বাকি ব্যাটাররা মোট ১৬০ রানে টিমকে অলআউট করে দিয়েছেন ৪১.২ ওভারে।"
-   }
-  },
-  {
-   "id": "psssjc",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/bangladesh/local-news/8ns5tjuacr",
-   "image": "https://media.prothomalo.com/prothomalo-english/2023-09/78b6a5fe-34ce-4de8-8853-a7e84e6df5ae/Sajek.webp",
-   "published": "2026-10-21T13:46:40.000Z",
-   "added": "2026-10-21T15:07:59.053Z",
-   "origTitle": "Fresh blockade announced in Sajek from Thursday, tourists urged to leave",
-   "en": {
-    "title": "Fresh blockade on Sajek road starting Thursday, tourists told to leave",
-    "summary": "Protesters announced a third round of indefinite blockade on the Sajek tourist road in Rangamati starting Thursday. The Sajek Karbari Association and local protection committee suspended the previous blockade during Durga Puja but are resuming after their demands went unmet. Activists are demanding the withdrawal of armed JSS members from Sajek."
-   },
-   "bn": {
-    "title": "সাজেক রাস্তায় নতুন অবরোধ বৃহস্পতিবার থেকে, পর্যটকদের চলে যেতে বলা হয়েছে",
-    "summary": "সাজেক কার্বারি এসোসিয়েশন এবং সুরক্ষা কমিটি বৃহস্পতিবার থেকে রাঙামাটির সাজেক পর্যটন রাস্তায় তৃতীয় দফার অনির্দিষ্টকালীন অবরোধ ঘোষণা করেছে। দুর্গাপূজার সময় অবরোধ সাময়িকভাবে সাসপেন্ড করা হয়েছিল কিন্তু তাদের দাবি পূরণ না হওয়ায় এখন আবার শুরু হবে। জিএসএস সশস্ত্র সদস্যদের সাজেক থেকে সরিয়ে নেওয়া তাদের প্রধান দাবি।"
-   }
-  },
-  {
-   "id": "s301so",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cmkg7knyy8d3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b49/live/a8150f30-cd56-11f1-b962-b7ff822cde72.jpg",
-   "published": "2026-10-21T14:21:40.000Z",
-   "added": "2026-10-21T15:07:59.053Z",
-   "origTitle": "সৌদি আরবে মৃত্যুদণ্ড কার্যকর হওয়া দুই বাংলাদেশির মরদেহ দেশে ফিরবে কবে?",
-   "en": {
-    "title": "Families plead for return of executed Bangladeshis from Saudi Arabia",
-    "summary": "Two Bangladeshis were executed in Saudi Arabia last week, and their heartbroken families are now demanding the government bring their bodies home. The mother of one victim, from Tangail's Mirzapur, stopped eating for days after hearing the news. The other victim's father hasn't seen his son in three years and wants one last look at his face before burial.",
-    "hint": ""
-   },
-   "bn": {
-    "title": "সৌদি আরবে মৃত্যুদণ্ডপ্রাপ্ত দুই বাংলাদেশির মরদেহ ফিরিয়ে দিতে পরিবারের আর্জি",
-    "summary": "গত সপ্তাহে সৌদি আরবে দুই বাংলাদেশি সম্পন্ন করা হয়েছে এবং তাদের পরিবারগুলো সরকারকে লাশ দেশে ফিরিয়ে আনার দাবি জানাচ্ছে। টাঙ্গাইলের মির্জাপুরের একজন মায়ের খবরটা শুনে পরপর সাত দিন খাবার খান না। অন্যজনের বাবা তিন বছর তিন মাস ধরে ছেলের মুখ দেখেননি এবং শেষবারের মতো দেখতে চান।"
-   }
-  },
-  {
-   "id": "vc7eq3",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797",
-   "published": "2026-10-21T14:03:11.000Z",
-   "added": "2026-10-21T15:07:59.053Z",
-   "origTitle": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
-   "en": {
-    "title": "Foursquare investors lost money in acquisition by Infillion",
-    "summary": "Advertising firm Infillion acquired location platform Foursquare last month, but co-founder Dennis Crowley said investors received zero returns from the deal. The once-popular social network had raised over $411 million and earned $100 million annually before decline. Crowley blamed the outcome on management changes in 2019-2021 that failed to preserve the company's value before its app shut down in 2024."
-   },
-   "bn": {
-    "title": "ফোরস্কোয়্যার বিক্রয়ে বিনিয়োগকারীরা কোনো লাভ পেলো না",
-    "summary": "বিজ্ঞাপন সংস্থা ইনফিলিয়ন গত মাসে লোকেশন প্ল্যাটফর্ম ফোরস্কোয়্যার কিনেছে, কিন্তু সহ-প্রতিষ্ঠাতা ডেনিস ক্রাউলি বলেছেন বিনিয়োগকারীরা কোনো রিটার্ন পায়নি। জনপ্রিয় এই সোশ্যাল নেটওয়ার্ক ৪১১ মিলিয়ন ডলার তুলেছিল এবং বছরে ১০০ মিলিয়ন আয় করছিল। ২০১৯-২০২১ সালের ম্যানেজমেন্ট পরিবর্তনকে তিনি দায়ী করেছেন, যা কোম্পানির মূল্য রক্ষা করতে পারেনি।"
-   }
-  },
-  {
-   "id": "1yulp3q",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/dhaka/975945/%E0%A6%85%E0%A6%AC%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E2%80%98%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%B6%E0%A6%BE%E0%A6%95%E0%A7%87%E2%80%99-%E0%A6%A7%E0%A6%B0%E0%A6%B2%E0%A7%8B-%E0%A6%AA%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%86%E0%A6%87",
-   "image": null,
-   "published": "2026-10-21T15:04:30.000Z",
-   "added": "2026-10-21T15:07:59.053Z",
-   "origTitle": "অবশেষে ‘জিনের বাদশাকে’ ধরলো পিবিআই",
-   "en": {
-    "title": "Police arrest two con artists posing as tantric healers and sorcerers",
-    "summary": "The Police Bureau of Investigation arrested two men from Barisal's Bhola district on Monday for running a fake healer scam. Suman Haoladar, 26, from Fulkachiya village and Mohammad Rajib Mia from Mulpaittan village posed variously as tantric healers and sorcerers to defraud people out of money. Both men were arrested near Kunjerhat Bazaar in Borhanuddin upazila."
-   },
-   "bn": {
-    "title": "জিনের বাদশা সাজিয়ে ঠগি করা দুই জন ধরা পড়লো",
-    "summary": "পুলিশ ব্যুরো অব ইনভেস্টিগেশন সোমবার ভোলা জেলার দুই জন অপরাধীকে গ্রেফতার করেছে যারা তান্ত্রিক-কবিরাজ এবং জিনের বাদশা হয়ে মানুষকে প্রতারণা করছিল। সুমন হাওলাদার (২৬) এবং মো. রাজিব মিয়া বিভিন্ন ছদ্মবেশে মানুষের বিশ্বাস অর্জন করে টাকা হাতিয়ে নিচ্ছিল। তাদের বোরহানউদ্দিন উপজেলার কুঞ্জেরহাট বাজার থেকে গ্রেফতার করা হয়েছে।"
-   }
-  },
-  {
-   "id": "1e0lyt2",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-   "image": "https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=06b2c45462af36f0767e7c85a990df76",
-   "published": "2026-10-21T13:40:08.000Z",
-   "added": "2026-10-21T15:07:59.053Z",
-   "origTitle": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-   "en": {
-    "title": "Critically ill ICE detainees facing deportation to African states",
-    "summary": "Relatives and immigration advocates say severely ill detainees at two Florida immigration facilities are scheduled for deportation to unknown African countries as early as Wednesday. The sick inmates were informed that Mexico would not accept them due to their medical conditions. Advocates warn that detainees face poor medical care and difficulty accessing medicine in third countries."
-   },
-   "bn": {
-    "title": "গুরুতরভাবে অসুস্থ বন্দীদের আফ্রিকায় পাঠানোর প্রস্তুতি",
-    "summary": "ফ্লোরিডার দুটি ইমিগ্রেশন জেলখানায় গুরুতর অসুস্থ বন্দীদের বুধবার থেকেই আফ্রিকার অজানা দেশে পাঠানোর পরিকল্পনা আছে বলে পরিবার ও অধিকার কর্মীরা জানাচ্ছেন। স্বাস্থ্যগত কারণে মেক্সিকো তাদের নেবে না বলে জানানো হয়েছে। তৃতীয় দেশে চিকিৎসা সেবা এবং ওষুধ পাওয়ার ক্ষেত্রে তারা বড় সমস্যার সম্মুখীন হবেন বলে আশঙ্কা করছেন।"
-   }
-  },
-  {
-   "id": "g1gh85",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad8a934e686-1792583988.jpg?resize=1920%2C1440",
-   "published": "2026-10-21T14:41:03.000Z",
-   "added": "2026-10-21T15:07:59.053Z",
-   "origTitle": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
-   "en": {
-    "title": "Musk pledges $10bn in SpaceX shares to US children",
-    "summary": "Elon Musk promised to give one SpaceX share to every child under 18 in the US next year—worth about $10.7 billion at current prices. The pledge comes right before midterm elections, and Musk has already donated over $276 million to Republican groups. The billionaire hasn't said which kids qualify or how the shares will actually be handed over."
-   },
-   "bn": {
-    "title": "মাস্ক আমেরিকার সব শিশুকে স্পেসএক্স শেয়ার দেওয়ার প্রতিশ্রুতি দিলো",
-    "summary": "ইলন মাস্ক আগামী বছর আমেরিকার ১৮ বছরের নিচে প্রতিটি শিশুকে একটা করে স্পেসএক্স শেয়ার দেওয়ার ঘোষণা দিয়েছেন—যার মূল্য প্রায় ১০.৭ বিলিয়ন ডলার। মধ্যমেয়াদী নির্বাচনের ঠিক আগে এই প্রতিশ্রুতি এসেছে, আর মাস্ক ইতিমধ্যে রিপাবলিকান গ্রুপে ২৭৬ মিলিয়ন ডলারের বেশি দান করেছেন। শেয়ার ঠিক কিভাবে পৌঁছাবে তা এখনো পরিষ্কার নয়।"
    }
   }
  ]

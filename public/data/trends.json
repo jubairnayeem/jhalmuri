@@ -1,115 +1,115 @@
 {
- "updatedAt": "2026-10-24T14:28:16.337Z",
+ "updatedAt": "2026-10-24T18:05:02.330Z",
  "burning": [
   {
-   "id": "1ut3ark",
+   "id": "1jar704",
    "heat": 5,
    "why": {
-    "en": "El Niño is dominating Google Trends (500+ traffic) with widespread concern about droughts, floods and heat waves.",
-    "bn": "এল নিনো গুগল ট্রেন্ডসে (৫০০+ ট্রাফিক) সবচেয়ে বেশি আলোচনা হচ্ছে খরা, বন্যা এবং তাপপ্রবাহ নিয়ে।"
+    "en": "Dengue deaths and hospitalizations spiking; health crisis dominating coverage.",
+    "bn": "ডেঙ্গু মৃত্যু এবং হাসপাতালে ভর্তি বাড়ছে; স্বাস্থ্য সংকট প্রধান খবর।"
    },
    "rank": 1
   },
   {
-   "id": "9bhzhu",
+   "id": "1ut3ark",
    "heat": 5,
    "why": {
-    "en": "Road accidents trending at 500+ traffic on Google; father and daughter killed in Chattogram bus-CNG collision adds to urgent safety concerns.",
-    "bn": "সড়ক দুর্ঘটনা গুগলে ৫০০+ ট্রাফিক পাচ্ছে; চট্টগ্রামে বাস-সিএনজি সংঘর্ষে বাবা-মেয়ে নিহত হওয়ার ঘটনা জরুরি নিরাপত্তা উদ্বেগ যোগ করেছে।"
+    "en": "El Niño intensifying with droughts and floods; matches top Google Trends (আবহাওয়া 1000+).",
+    "bn": "এল নিনো খরা এবং বন্যা নিয়ে আসছে; গুগল ট্রেন্ডে শীর্ষে (আবহাওয়া ১০০০+)।"
    },
    "rank": 2
   },
   {
-   "id": "1jar704",
+   "id": "1a04cjh",
    "heat": 4,
    "why": {
-    "en": "Dengue deaths and hospitalizations (1,898) remain a critical health crisis in Bangladesh.",
-    "bn": "ডেঙ্গু মৃত্যু এবং হাসপাতালে ভর্তি (১,৮৯৮) বাংলাদেশে এখনও গুরুতর স্বাস্থ্য সংকট।"
+    "en": "HSC results announcement on Oct 29; major exam season news aligns with Google Trends (dhaka education board 1000+).",
+    "bn": "২৯ অক্টোবরে HSC ফলাফল; পরীক্ষার মৌসুমে গুরুত্বপূর্ণ খবর।"
    },
    "rank": 3
   },
   {
-   "id": "v4tt3r",
-   "heat": 4,
+   "id": "19va9gn",
+   "heat": 3,
    "why": {
-    "en": "France deploys 70,000 police amid nationwide protests; Bangladeshi shops looted in Paris violence.",
-    "bn": "ফ্রান্স জাতীয় বিক্ষোভের মধ্যে ৭০,০০০ পুলিশ মোতায়েন করেছে; প্যারিসের সহিংসতায় বাংলাদেশী দোকান লুট হয়েছে।"
+    "en": "Warehouse fire in Gazipur controlled; industrial safety incident.",
+    "bn": "গাজীপুরে গুদাম আগুন নিয়ন্ত্রণ করা হয়েছে; শিল্প দুর্ঘটনা।"
    },
    "rank": 4
   },
   {
-   "id": "9bi1nj",
-   "heat": 4,
+   "id": "184y2gn",
+   "heat": 3,
    "why": {
-    "en": "Man arrested for holding journalist hostage at gunpoint—serious press freedom and safety incident.",
-    "bn": "সাংবাদিকদের গুলির হুমকিতে বন্ধক রাখার জন্য মানুষ গ্রেফতার—মিডিয়া স্বাধীনতা এবং নিরাপত্তার গুরুতর ঘটনা।"
+    "en": "Arrest warrant for man over Tongi madrasah slap incident; communal tensions.",
+    "bn": "টোঙ্গি মাদ্রাসায় থাপ্পড়ের ঘটনায় গ্রেপ্তারের চেষ্টা; সামাজিক উত্তেজনা।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "1ut3ark",
-   "tag": "#ElNiño",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "El Niño intensifies across globe",
-    "text": "Climate phenomenon bringing droughts, floods and heat waves. Bangladesh and the world face severe weather risks ahead."
-   },
-   "bn": {
-    "title": "এল নিনো বিশ্বজুড়ে তীব্র হচ্ছে",
-    "text": "জলবায়ু পরিস্থিতি খরা, বন্যা এবং তাপপ্রবাহ নিয়ে আসছে। বাংলাদেশ এবং বিশ্ব গুরুতর আবহাওয়া ঝুঁকির মুখোমুখি।"
-   }
-  },
-  {
-   "id": "1netvux",
-   "tag": "#CoxsBazarSafety",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 4,
-   "en": {
-    "title": "Cox's Bazar fire and drowning deaths",
-    "text": "Hotel fire evacuated 300 tourists safely, but overall safety concerns remain. Drowning incidents also reported in the area."
-   },
-   "bn": {
-    "title": "কক্সবাজারে আগুন এবং ডুবে মৃত্যু",
-    "text": "হোটেল আগুনে ৩০০ পর্যটক নিরাপদে সরানো হয়েছে, কিন্তু নিরাপত্তা উদ্বেগ রয়েছে। এলাকায় ডুবে যাওয়ার ঘটনাও রিপোর্ট হয়েছে।"
-   }
-  },
-  {
    "id": "1jar704",
    "tag": "#DengueCrisis",
    "platforms": [
     "Google"
    ],
-   "heat": 4,
+   "heat": 5,
    "en": {
-    "title": "Dengue kills five more in 24 hours",
-    "text": "Death toll continues to rise with 1,898 hospitalized. Public health emergency remains active across the country."
+    "title": "Dengue deaths spike across nation",
+    "text": "Five more deaths reported in 24 hours with 1,898 hospitalised. Dengue outbreak continuing to strain health system."
    },
    "bn": {
-    "title": "ডেঙ্গুতে ২৪ ঘণ্টায় পাঁচ জন মৃত",
-    "text": "মৃত্যু সংখ্যা বাড়ছে, ১,৮৯৮ জন হাসপাতালে ভর্তি। সারাদেশে জনস্বাস্থ্য জরুরি অবস্থা অব্যাহত রয়েছে।"
+    "title": "দেশজুড়ে ডেঙ্গু মৃত্যু বাড়ছে",
+    "text": "২৪ ঘন্টায় আরও পাঁচজন মারা গেছে, ১,৮৯৮ জন হাসপাতালে। ডেঙ্গু প্রাদুর্ভাব স্বাস্থ্য ব্যবস্থায় চাপ দিচ্ছে।"
    }
   },
   {
-   "id": "15i3xzs",
-   "tag": "#ParisProtest",
+   "id": "1ut3ark",
+   "tag": "#ElNino",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "El Niño bringing extreme weather",
+    "text": "Climate phenomenon intensifying, bringing droughts, floods and heat waves. Major weather pattern affecting Bangladesh."
+   },
+   "bn": {
+    "title": "এল নিনো চরম আবহাওয়া আনছে",
+    "text": "জলবায়ু পরিবর্তন খরা, বন্যা এবং তাপপ্রবাহ নিয়ে আসছে। বাংলাদেশে আবহাওয়ায় বড় পরিবর্তন।"
+   }
+  },
+  {
+   "id": "1a04cjh",
+   "tag": "#HSCResults",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Bangladeshi shops looted in Paris riots",
-    "text": "Unrest over cost of living has spread, with Bangladeshi-run businesses caught in violence during nationwide protests."
+    "title": "HSC exam results coming Oct 29",
+    "text": "Board announces results date for Higher Secondary Certificate exams. Millions of students awaiting outcome."
    },
    "bn": {
-    "title": "প্যারিস দাঙ্গায় বাংলাদেশী দোকান লুট",
-    "text": "জীবনযাত্রার খরচ নিয়ে অস্থিরতা ছড়িয়ে পড়েছে; জাতীয় বিক্ষোভে বাংলাদেশি ব্যবসা সহিংসতার শিকার হয়েছে।"
+    "title": "HSC ফলাফল ২৯ অক্টোবরে",
+    "text": "উচ্চ মাধ্যমিক পরীক্ষার ফলাফল ২৯ তারিখে প্রকাশিত হবে। লক্ষ লক্ষ শিক্ষার্থী অপেক্ষায়।"
+   }
+  },
+  {
+   "id": "19va9gn",
+   "tag": "#Gazipur",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "Warehouse fire in Gazipur controlled",
+    "text": "Fire at warehouse brought under control after breaking out in industrial area. No major injuries reported."
+   },
+   "bn": {
+    "title": "গাজীপুরে গুদাম আগুন নিয়ন্ত্রণ",
+    "text": "শিল্প এলাকায় গুদামে আগুন নিয়ন্ত্রণ করা হয়েছে। কোনো বড় আঘাত নেই।"
    }
   }
  ],
