@@ -1,39 +1,39 @@
 {
- "updatedAt": "2026-10-23T22:06:26.592Z",
+ "updatedAt": "2026-10-24T05:43:19.358Z",
  "burning": [
   {
-   "id": "12etskv",
+   "id": "189x1rf",
    "heat": 5,
    "why": {
-    "en": "Premier League match generating massive global search traffic (2000+).",
-    "bn": "প্রিমিয়ার লিগ ম্যাচ বিশাল সার্চ ট্রাফিক তৈরি করছে (২০০০+)।"
+    "en": "Economy story hitting hard as growth isn't reaching ordinary people's wallets.",
+    "bn": "অর্থনৈতিক বৃদ্ধি সাধারণ মানুষের কাছে পৌঁছাচ্ছে না, এটা বড় প্রশ্ন উঠিয়েছে।"
    },
    "rank": 1
   },
   {
-   "id": "uqetu7",
-   "heat": 4,
+   "id": "69ag29",
+   "heat": 5,
    "why": {
-    "en": "Afghanistan's tri-series win covered by multiple Bangladeshi sports outlets.",
-    "bn": "আফগানিস্তানের ট্রাই-সিরিজ জয় একাধিক বাংলাদেশী ক্রীড়া আউটলেটে কভার হয়েছে।"
+    "en": "France deploys massive police force as unrest spreads over living costs and cost of living.",
+    "bn": "ফ্রান্সে খরচ বৃদ্ধি নিয়ে বিশাল আন্দোলন হচ্ছে, সরকার ৭০ হাজার পুলিশ মোতায়েন করেছে।"
    },
    "rank": 2
   },
   {
-   "id": "1i8ufo0",
+   "id": "1kizt47",
    "heat": 4,
    "why": {
-    "en": "US-Saudi diplomatic move over Houthi strikes, major geopolitical news.",
-    "bn": "হুথি হামলার কারণে যুক্তরাষ্ট্র-সৌদি কূটনৈতিক পদক্ষেপ, বড় ভূ-রাজনৈতিক খবর।"
+    "en": "Bangladesh Bank website goes down over cyber threat—people worried about their money but banking is still running.",
+    "bn": "সাইবার হুমকির কারণে বাংলাদেশ ব্যাংকের ওয়েবসাইট বন্ধ, মানুষ চিন্তিত কিন্তু ব্যাংকিং সেবা চলছে।"
    },
    "rank": 3
   },
   {
-   "id": "1m5x0bl",
+   "id": "9bhzhu",
    "heat": 3,
    "why": {
-    "en": "Two Bangladeshis executed in Saudi Arabia; sensitive consular issue covered nationally.",
-    "bn": "দুই বাংলাদেশী সৌদিতে সম্পাদিত হয়েছে; জাতীয় পর্যায়ে সংবেদনশীল কনসুলার সমস্যা।"
+    "en": "Road accident in Chattogram kills father and daughter in bus-CNG collision.",
+    "bn": "চট্টগ্রামে বাস ও সিএনজির সংঘর্ষে পিতা-কন্যা নিহত হয়েছেন।"
    },
    "rank": 4
   },
@@ -41,75 +41,75 @@
    "id": "5p7k5e",
    "heat": 3,
    "why": {
-    "en": "Major safety incident at tourist hotspot Cox's Bazar draws local and national attention.",
-    "bn": "পর্যটক কেন্দ্র কক্সবাজারে বড় নিরাপত্তা ঘটনা স্থানীয় ও জাতীয় মনোযোগ আকর্ষণ করছে।"
+    "en": "Cox's Bazar hotel fire evacuates 300 tourists but all escape safely.",
+    "bn": "কক্সবাজারে হোটেলে আগুন লেগেছে কিন্তু ৩০০ পর্যটক নিরাপদে বের হয়ে এসেছেন।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "12etskv",
-   "tag": "#PremierLeague",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Ipswich vs Nottingham Forest chaos",
-    "text": "Ipswich Town drew 1-1 with Nottingham Forest as Julio Enciso canceled out Neco Williams' opener. VAR drama marked the match."
-   },
-   "bn": {
-    "title": "ইপসুইচ বনাম নটিংহাম জংগল চ্যাওস",
-    "text": "ইপসুইচ টাউন নটিংহাম ফরেস্টের সাথে ১-১ ড্র করেছে। জুলিও এনসিসো নেকো উইলিয়ামসের গোল রদ করেছেন এবং ভিএআর ড্রামা ছিল।"
-   }
-  },
-  {
-   "id": "uqetu7",
-   "tag": "#CricketAsia",
+   "id": "zyvsp7",
+   "tag": "#FlyingCar",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Afghanistan bowlers dominate tri-series",
-    "text": "Afghanistan's bowling performance powered them to win the tri-series title, crushing Zimbabwe in the final."
+    "title": "Indian teen builds flying car",
+    "text": "A young Indian without an engineering degree has built a flying car. The project is turning heads online as people talk about DIY innovation and what's possible without formal credentials."
    },
    "bn": {
-    "title": "আফগানিস্তানের বোলাররা ট্রাই-সিরিজ জয় করেছে",
-    "text": "আফগানিস্তানের বোলিং পারফরম্যান্স তাদের ট্রাই-সিরিজ শিরোপজয়ের দিকে নিয়ে গেছে, জিম্বাবোয়েকে চূড়ান্তে পরাজিত করেছে।"
+    "title": "ইঞ্জিনিয়ারিং ছাড়াই ফ্লাইং কার",
+    "text": "একজন তরুণ ভারতীয় প্রকৌশল ডিগ্রি ছাড়াই একটি উড়ন্ত গাড়ি তৈরি করেছেন। এই প্রকল্প অনলাইনে আলোড়ন সৃষ্টি করছে।"
    }
   },
   {
    "id": "jtjs07",
-   "tag": "#TechViral",
+   "tag": "#MicroduckRobots",
    "platforms": [
     "Google"
    ],
-   "heat": 3,
+   "heat": 4,
    "en": {
-    "title": "Cute robots break preorder records",
-    "text": "Microduck robots went viral, racking up 20,000 preorders in just one day on launch."
+    "title": "Cute robot ducks go viral",
+    "text": "Microduck robots have taken off online with 20,000 preorders in a single day. People are loving the adorable design and what they can do."
    },
    "bn": {
-    "title": "মিনি রোবট প্রি-অর্ডার রেকর্ড ভাঙছে",
-    "text": "মাইক্রোডাক রোবট ভাইরাল হয়েছে, লঞ্চের প্রথম দিনে ২০,০০০ প্রি-অর্ডার সংগ্রহ করেছে।"
+    "title": "মজার রোবট হাঁস ভাইরাল",
+    "text": "মাইক্রোডাক রোবটগুলি এক দিনে ২০ হাজার প্রি-অর্ডার পেয়ে ভাইরাল হয়েছে। মানুষ এর প্রাণবন্ত ডিজাইন পছন্দ করছে।"
    }
   },
   {
-   "id": "1i8ufo0",
-   "tag": "#MiddleEastTensions",
+   "id": "1npo1lq",
+   "tag": "#AIStartup",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "US pulls diplomats from Saudi Arabia",
-    "text": "The United States ordered diplomats to leave Saudi Arabia over repeated Houthi strikes on the kingdom."
+    "title": "AI startup Daytona raises $60M",
+    "text": "Daytona, an AI agent cloud startup, has raised $60 million at a $1 billion valuation. Big money is flowing into AI infrastructure right now."
    },
    "bn": {
-    "title": "যুক্তরাষ্ট্র সৌদি থেকে কূটনীতিজ্ঞদের প্রত্যাহার করছে",
-    "text": "হুথি হামলার কারণে যুক্তরাষ্ট্র সৌদি আরবিয়া থেকে কূটনীতিজ্ঞদের প্রত্যাহারের আদেশ দিয়েছে।"
+    "title": "এআই স্টার্টআপ বিশাল তহবিল সংগ্রহ",
+    "text": "ডেটোনা নামের এআই স্টার্টআপ ৬০ মিলিয়ন ডলার তুলেছে এবং এক বিলিয়ন ডলার মূল্যায়িত হয়েছে।"
+   }
+  },
+  {
+   "id": "xfefq6",
+   "tag": "#HealthTourism",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "China opens fast-track eye care for Bangladesh",
+    "text": "China has launched fast-track eye treatment services for Bangladeshi patients. It's part of expanding healthcare ties between the two countries."
+   },
+   "bn": {
+    "title": "চীনে বাঙালি রোগী চোখের সেবা",
+    "text": "চীন বাংলাদেশি রোগীদের জন্য দ্রুত চোখের চিকিৎসা সেবা খুলেছে।"
    }
   }
  ],

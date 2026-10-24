@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-24T00:36:54.615Z",
+ "updatedAt": "2026-10-24T05:43:02.320Z",
  "items": [
+  {
+   "id": "ebt5q",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/opinion/column/v47o4qykmk",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-24/ek8ulv4n/Masuk-Art-CMYK.jpg",
+   "published": "2026-10-24T05:18:40.000Z",
+   "added": "2026-10-24T05:43:02.320Z",
+   "origTitle": "ঢাকার গৃহহীন মানুষের আবাসন নিয়ে কেন আমরা ভাবব না",
+   "en": {
+    "title": "Why we must house Dhaka's homeless people",
+    "summary": "Thousands of homeless people sleep on Dhaka's streets without safe shelter or toilets. The article asks: how do homeless women and children manage basic dignity in a crowded city? It argues that safe housing, sanitation, healthcare and education for the homeless are not luxuries but urgent needs. Bangladesh has shown it can support millions of refugees—so planned rehabilitation for homeless citizens should be possible too."
+   },
+   "bn": {
+    "title": "ঢাকার গৃহহীন মানুষের আবাসন কেন জরুরি",
+    "summary": "ঢাকার রাস্তায় হাজার হাজার মানুষ ফুটপাত ও পার্কে রাত কাটায়, নিরাপদ আশ্রয় ছাড়াই। গৃহহীন নারী ও শিশুদের মৌলিক চাহিদা পূরণ করা কীভাবে সম্ভব? নিবন্ধটি বলছে, এদের জন্য পরিকল্পিত আবাসন, পরিচ্ছন্নতা, স্বাস্থ্যসেবা ও শিক্ষার ব্যবস্থা করা অপরিহার্য। বাংলাদেশ যদি রোহিঙ্গা সংকট সামলাতে পারে, তাহলে দেশের নিজের গৃহহীন মানুষের জন্যও সমাধান সম্ভব।"
+   }
+  },
+  {
+   "id": "p1wq97",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/bangladesh/local-news/4frz6nu5ku",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-24/tx2dkffh/prothomalo-bangla2026-10-241srs1rn8b9e88e74-3c2a-4ec9-a371-3b430c9a585d.avif",
+   "published": "2026-10-24T05:14:22.000Z",
+   "added": "2026-10-24T05:42:55.721Z",
+   "origTitle": "Blockade underway in Rangamati, Khagrachhari: Latest updates",
+   "en": {
+    "title": "Half-day blockade in Rangamati and Khagrachhari hill districts",
+    "summary": "A half-day blockade of roads and waterways began Saturday morning in the hill districts of Rangamati and Khagrachhari until noon. The Chhatra-Janatar Sangram Parishad organized the protest against attacks and vandalism during an earlier blockade in Sajek. Long-distance buses on the Rangamati-Khagrachhari highway were suspended, though the Rangamati-Chattogram route remained open."
+   },
+   "bn": {
+    "title": "রাঙ্গামাটি ও খাগড়াছড়িতে অর্ধদিনের অবরোধ",
+    "summary": "শনিবার ভোর থেকে রাঙ্গামাটি ও খাগড়াছড়ির পাহাড়ী জেলায় দুপুর পর্যন্ত সড়ক ও জলপথ অবরোধ করা হয়েছে। ছাত্র-জনতার সংগ্রাম পরিষদ সাজেকের আগের অবরোধে হামলা ও ভাংচুরের প্রতিবাদে এটি ডাকে। রাঙ্গামাটি-খাগড়াছড়ি হাইওয়েতে দূরগামী বাস সেবা বন্ধ, তবে রাঙ্গামাটি-চট্টগ্রাম রুট খোলা থাকে।"
+   }
+  },
+  {
+   "id": "1aeglre",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac01956-1790974294.jpg?resize=1920%2C1440",
+   "published": "2026-10-24T05:29:07.000Z",
+   "added": "2026-10-24T05:42:55.721Z",
+   "origTitle": "How Benjamin Netanyahu reshaped Israel’s institutions",
+   "en": {
+    "title": "Netanyahu shaped Israel rightward over decades in politics",
+    "summary": "Benjamin Netanyahu, Israel's longest-serving prime minister, has reshaped the country's institutions toward the right wing during his decades-long career. Born in 1949, he rose to power in the 1990s by fueling opposition to Palestinian peace deals. Critics say his inflammatory rhetoric contributed to the 1995 assassination of PM Yitzhak Rabin."
+   },
+   "bn": {
+    "title": "নেতানিয়াহু দশক ধরে ইসরায়েলকে ডানদিকে ঝুঁকিয়েছেন",
+    "summary": "ইসরায়েলের দীর্ঘতম ক্ষমতায় থাকা প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহু দশ বছরের ক্যারিয়ারে দেশের প্রতিষ্ঠান ও রাজনীতিকে ডানপন্থী করেছেন। ১৯৯০ এ তিনি ফিলিস্তিনি শান্তি চুক্তির বিরোধিতা করে ক্ষমতায় ওঠেন। সমালোচকরা বলেন তার প্রগতিশীল বক্তৃতা ১৯৯৫ সালে প্রধানমন্ত্রী ইৎজাক রাবিনের হত্যায় অবদান রেখেছিল।"
+   }
+  },
+  {
+   "id": "69ag29",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6313/live/f6761da0-cf08-11f1-b95c-310d5f3c558a.jpg",
+   "published": "2026-10-24T04:03:46.000Z",
+   "added": "2026-10-24T05:42:55.721Z",
+   "origTitle": "France prepares for day of protest a week after nationwide riots",
+   "en": {
+    "title": "France deploys 70,000 police for nationwide protests Saturday",
+    "summary": "France is preparing for major protests on Saturday, a week after violent unrest that gripped the country. The government has deployed 70,000 police and restricted demonstrations in several key cities including Lyon, Nice and Montpellier. Students and trade unions are organizing despite bans. Hundreds have already been jailed for vandalism and looting."
+   },
+   "bn": {
+    "title": "ফ্রান্সে শনিবার বিক্ষোভের জন্য ৭০ হাজার পুলিশ নিয়োজিত",
+    "summary": "এক সপ্তাহ আগের হিংসাত্মক অস্থিরতার পর শনিবার ফ্রান্সে দেশব্যাপী বিক্ষোভ আয়োজনের প্রস্তুতি চলছে। সরকার ৭০ হাজার পুলিশ মোতায়েন করেছে এবং লিয়ন, নিস ও মন্টপেলিয়ারসহ প্রধান শহরে বিক্ষোভ নিষিদ্ধ করেছে। ছাত্র ও ট্রেড ইউনিয়ন সত্ত্বেও আয়োজন করছে।"
+   }
+  },
+  {
+   "id": "qxupye",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/country/dhaka/976363/%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%A7%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%AE",
+   "image": null,
+   "published": "2026-10-24T05:32:08.000Z",
+   "added": "2026-10-24T05:42:55.721Z",
+   "origTitle": "‘থানার সামনে থেকে আটক যুবলীগ নেতাকর্মীদের বিরুদ্ধে ব্যবস্থা নেওয়া হচ্ছে’",
+   "en": {
+    "title": "Eight Youth League members arrested near Sripur police station",
+    "summary": "Police arrested eight members of the banned youth wing of Awami League during a procession in Sripur, Gazipur on Friday after Jummah prayers. Those arrested include Atikur Rahman, Ariful Islam, Junaid Mia and Momen. The procession violated restrictions on demonstrations by banned organisations."
+   },
+   "bn": {
+    "title": "শ্রীপুর থানার সামনে থেকে যুবলীগ নেতাকর্মী আটক",
+    "summary": "শুক্রবার গাজীপুরের শ্রীপুরে মিছিল করার সময় নিষিদ্ধ যুবলীগের আটজন সদস্যকে আটক করা হয়েছে। আটকৃতদের মধ্যে আছেন আতিকুর রহমান, আরিফুল ইসলাম, জুনাইদ মিয়া ও মোমেন। ঘটনা ঘটে শুক্রবার জুমার নামাজের পর শ্রীপুর থানার পাশে।"
+   }
+  },
+  {
+   "id": "1acovxf",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/cm20vg3p6lzvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f038/live/a23cf960-cf59-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-10-24T03:39:25.000Z",
+   "added": "2026-10-24T05:42:55.721Z",
+   "origTitle": "প্যারিসের কাছে প্রাণঘাতী গুলির ঘটনাকে 'বর্ণবাদী সন্ত্রাসী হামলা' বললেন ম্যাক্রঁ",
+   "en": {
+    "title": "France calls Paris shooting a racist terror attack",
+    "summary": "A gunman opened fire near Paris on Friday, killing one person and injuring five others in what President Macron called a racist terror attack targeting immigrants. The suspect, named Kevin T, fired from his car for about 15 minutes in Trappes and La Verrière. Among the wounded is a 12-year-old girl in serious condition. The attacker has been arrested."
+   },
+   "bn": {
+    "title": "প্যারিসের কাছে হামলা বর্ণবাদী সন্ত্রাস বলে অভিহিত করলেন ম্যাক্রঁ",
+    "summary": "শুক্রবার প্যারিসের কাছে বন্দুকধারী হামলায় একজন নিহত ও পাঁচজন আহত হয়েছেন। প্রেসিডেন্ট ম্যাক্রঁ এটিকে বর্ণবাদী সন্ত্রাসী হামলা বলে অভিহিত করেছেন যা অভিবাসীদের লক্ষ্য করেছিল। সন্দেহভাজন কেভিন টি নামের ব্যক্তি প্রায় ১৫ মিনিট ধরে গুলি চালান। আটক যুবকদের মধ্যে ১২ বছরের এক শিশুসহ তিনজনের অবস্থা গুরুতর।"
+   }
+  },
+  {
+   "id": "xfefq6",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/china-launches-green-channel-bangladeshi-eye-patients-1581391",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/image-437804-1792818906.jpg",
+   "published": "2026-10-24T05:30:00.000Z",
+   "added": "2026-10-24T05:42:55.721Z",
+   "origTitle": "China launches 'green channel' for Bangladeshi eye patients",
+   "en": {
+    "title": "China opens fast-track eye care for Bangladeshi patients",
+    "summary": "A hospital in Kunming, China has launched a special service for Bangladeshi patients needing advanced eye treatment. The 'green channel' offers priority appointments, language help, and follow-up care after patients return home. Bangladesh's consul general inaugurated the program and called on the hospital to maintain quality care and transparency in costs."
+   },
+   "bn": {
+    "title": "চীনে বাংলাদেশি রোগীদের জন্য বিশেষ চোখের সেবা চালু",
+    "summary": "কুনমিং শহরের একটি হাসপাতালে বাংলাদেশি রোগীদের জন্য 'গ্রিন চ্যানেল' নামে বিশেষ সেবা চালু হয়েছে। এতে অগ্রাধিকার নিয়োগ, ভাষা সহায়তা এবং বাড়ি ফেরার পর অনুসরণ চিকিৎসা রয়েছে। বাংলাদেশের কনসুল জেনারেল কর্মসূচি উদ্বোধন করে মান ও স্বচ্ছতার আহ্বান জানিয়েছেন।"
+   }
+  },
   {
    "id": "1wwpsj1",
    "section": "news",
@@ -2860,270 +3014,6 @@
    "bn": {
     "title": "ট্রাম্প প্রশাসন মিয়ানমারের সামরিক নেতার সাথে আলোচনা শুরু করছে",
     "summary": "সেপ্টেম্বরে একজন মার্কিন শীর্ষ কর্মকর্তা মিয়ানমারের সামরিক নেতা মিন অং হ্লাইংয়ের সাথে দেখা করেছেন - ২০২১ সামরিক অভ্যুত্থানের পর প্রথম সর্বোচ্চ পর্যায়ের যোগাযোগ। যুক্তরাষ্ট্র কয়েকজন ব্যবসায়ীকে নিষেধাজ্ঞা তালিকা থেকে বাদ দিয়েছে। এই পদক্ষেপগুলো সামরিক শাসনের প্রতি ওয়াশিংটনের নীতির পরিবর্তন ইঙ্গিত করছে।"
-   }
-  },
-  {
-   "id": "behalm",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzN2VvQTJES0xIWC10aEk2U0I1YWQ2TXVLNTJwU0dZYUtfanMwYXVydFBUcnFzekxkMG5wWlM5RHhSN0NSSGNybU9NV2ExUnRwQTVDeTJNN0cwc2pFUFdmLUVCZzRkRmc?oc=5",
-   "image": null,
-   "published": "2026-10-20T15:03:00.000Z",
-   "added": "2026-10-21T04:33:42.229Z",
-   "origTitle": "পাবনায় নেশার টাকা না পেয়ে মাকে হত্যা, ছেলে আটক",
-   "en": {
-    "title": "Son arrested after killing mother for drug money in Pabna",
-    "summary": "In Pabna, a man has been arrested for killing his mother after she refused to give him money for drugs. The incident reflects a serious case of substance abuse leading to domestic violence. Police have taken the suspect into custody."
-   },
-   "bn": {
-    "title": "পাবনায় নেশার টাকা না পেয়ে ছেলে মাকে হত্যা",
-    "summary": "পাবনায় একজন ছেলে নেশার টাকা পাওয়ার জন্য তার মাকে হত্যা করেছে। মা টাকা দিতে অস্বীকার করলে এই ঘটনা ঘটে। ছেলেকে পুলিশ গ্রেফতার করেছে এবং এটি নেশা আসক্তি ও পারিবারিক সহিংসতার একটি মর্মান্তিক ঘটনা।"
-   }
-  },
-  {
-   "id": "gdsrws",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Bangladesh Post",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3U5eC1wRjNLeXBjUWFDcG94cC1rajlaTVpoWmU5V1lVZnJaQ29VeDltcFhnT3ozQjVpZkloR0N1Y0duUHdEbS1LSkE4bnhEZmZNMDFneG9WZlg0VnpzYzJzN1BJX2wzMlQ4YWo2RnlpWm5IdW9IM2gzX2dhd05HanZCcGJKMXRTTzkyNEpqQTRMNjNFbm4tQmF3?oc=5",
-   "image": null,
-   "published": "2026-10-21T04:12:32.000Z",
-   "added": "2026-10-21T04:33:42.229Z",
-   "origTitle": "Dhaka ranks seventh among 126 cities for air pollution",
-   "en": {
-    "title": "Dhaka ranks seventh globally for air pollution",
-    "summary": "Dhaka has been ranked seventh among 126 cities worldwide for air pollution levels. The ranking highlights the city's ongoing air quality crisis. This places Dhaka among the most polluted urban areas globally."
-   },
-   "bn": {
-    "title": "বায়ু দূষণে বিশ্বের সপ্তম সবচেয়ে দূষিত শহর ঢাকা",
-    "summary": "বিশ্বব্যাপী ১২৬টি শহরের মধ্যে ঢাকা বায়ু দূষণে সপ্তম স্থানে রয়েছে। এই র‍্যাঙ্কিং ঢাকার ক্রমবর্ধমান বায়ু দূষণের সংকট তুলে ধরে। এটি ঢাকাকে বিশ্বের সবচেয়ে দূষিত শহরগুলির মধ্যে স্থান দেয়।"
-   }
-  },
-  {
-   "id": "1edbdz9",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFBNZENEbmlxaXBYa3hmUHNrYkNOUjBEOGltNkZmc2xEVTBCakZ6cjBVOVQ5N0wxbGFrMy1lQ2xRY0ExbGUwQ256MXJSLTBHUDhfbmVzYXRTQlRDb1NyWmMwTllHZ1VTNEJjaEFfWjFaRmx5czU3eUVmVC1MaWJsV0JpSlVJUnFBSktMYUdwMlJtel84em1jMHlES2VHME9ubVBOblZzWjRIVVXSAbABQVVfeXFMTkJUS1JibkMtTS1PVTltdXd6YkVPN2FnaU92X2pkeHJtb3Q3Sk16a1BVRklsaWdwWkZVU0JRc0VnWjZ1R2w1TnBVZktGWE1zd0lEdFBmWHkzalloekZLLXFNcEk5RHNMNzdvNWtWbFFHaDhWYzNySUpPN0JTeDdLQ1RHNm1Zejdxb3NlN0swOHlrN1dfX05JMGVGWGtJY2lnODlsOUJVbm5fWjFQdzhJQ2k?oc=5",
-   "image": null,
-   "published": "2026-10-20T15:57:27.000Z",
-   "added": "2026-10-21T04:33:42.229Z",
-   "origTitle": "A troubling silence behind two Saudi executions",
-   "en": {
-    "title": "Saudi executions draw international concern and silence",
-    "summary": "Two executions in Saudi Arabia have raised troubling questions about a lack of public response and transparency. International observers note the silence surrounding these cases. The situation highlights concerns about accountability in capital punishment."
-   },
-   "bn": {
-    "title": "সৌদি আরবে দুটি মৃত্যুদণ্ড, আন্তর্জাতিক আলোচনা অনুপস্থিত",
-    "summary": "সৌদি আরবে দুটি মৃত্যুদণ্ড বাস্তবায়নের ঘটনা নিয়ে জনসাধারণের পক্ষ থেকে নীরবতা রয়েছে। আন্তর্জাতিক পর্যবেক্ষকরা এই বিষয়ে স্বচ্ছতার অভাব নিয়ে উদ্বিগ্ন। মামলাটি মৃত্যুদণ্ডের জবাবদিহিতা সম্পর্কে প্রশ্ন তুলছে।"
-   }
-  },
-  {
-   "id": "1up8b9l",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো বিনোদন",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfZ2NMWUJ3Y2pPRVU2Y3U1aUJrcUdQSHRCa2RXTXZMT1FtMVE5SzI0YXJlQ3ZpQm1DMjllSGRxRjBRdDNGUmkyTnlzUU05VWlDSHBXWWR5UzZMeWpmODZTb2lyNU_SAXJBVV95cUxQRU1VNmFyc042MmJURU1aa1BKd0h4YXU4Yldnak1UNGNmSzFKZGtRNUNMRGNvYnBVNS1MX29EQkRRYlFCbXBwV3RzM1B2c1hmODFmcEFxZkcyV1EtbHRqcTNtN29ra2RXVFNaQXI5b3paTnc?oc=5",
-   "image": null,
-   "published": "2026-10-20T09:00:00.000Z",
-   "added": "2026-10-21T04:33:42.229Z",
-   "origTitle": "ক্যানসারের লড়াইয়ে সামিয়া, মাথা ন্যাড়া করে পাশে স্বামী-সন্তান",
-   "en": {
-    "title": "Samia fights cancer with family by her side",
-    "summary": "Bangladeshi actress Samia is battling cancer and has shaved her head during treatment. Her husband and children have stood by her throughout her fight. The family's public support shows their unity during a difficult health crisis."
-   },
-   "bn": {
-    "title": "ক্যানসারের লড়াইয়ে সামিয়া, স্বামী-সন্তান পাশে আছে",
-    "summary": "অভিনেত্রী সামিয়া ক্যানসারের বিরুদ্ধে লড়াই করছেন এবং চিকিৎসার সময় তার মাথা ন্যাড়া করে ফেলেছেন। তার স্বামী ও সন্তানরা সবসময় তার পাশে আছেন। পরিবারের এই সমর্থন তাদের কঠিন সময়ে দৃঢ় বন্ধন দেখায়।"
-   }
-  },
-  {
-   "id": "1a60mra",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "জাগো নিউজ",
-   "srcLang": "bn",
-   "url": "https://www.jagonews24.com/country/news/1170440",
-   "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/patuakhali-cover-mvhm0wn9myo99ht-20261021102841.jpg",
-   "published": "2026-10-21T04:28:42.000Z",
-   "added": "2026-10-21T04:33:42.229Z",
-   "origTitle": "প্রকৃতি-সংস্কৃতির মেলবন্ধন নিয়ে কুয়াকাটায় ফিরছে পর্যটন কার্নিভাল",
-   "en": {
-    "title": "Kuakata tourism carnival returns with nature and culture",
-    "summary": "Kuakata is getting its tourism carnival back, mixing natural beauty with local culture. You can watch sunrise and sunset from the same beach, see the Bay of Bengal's waves, spot red crabs, explore Lembu forest, and experience Rakhine community traditions. It's a full sensory experience for visitors."
-   },
-   "bn": {
-    "title": "কুয়াকাটায় ফিরছে পর্যটন কার্নিভাল, প্রকৃতি ও সংস্কৃতির মেলবন্ধন",
-    "summary": "কুয়াকাটায় পর্যটন কার্নিভাল আবার শুরু হচ্ছে, প্রকৃতি আর সংস্কৃতির সমন্বয় নিয়ে। একই সৈকতে সূর্যোদয় আর সূর্যাস্ত দেখা যাবে, বঙ্গোপসাগরের ঢেউ দেখা যাবে, লাল কাঁকড়া পাওয়া যাবে, লেম্বুর বনের সবুজ উপভোগ করা যাবে, আর রাখাইন কমিউনিটির সংস্কৃতি চেনা যাবে।"
-   }
-  },
-  {
-   "id": "de8999",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/yuddhe-paatthaacche-aar-dekhaa-naa-o-hte-paare",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/nb3ni8t5/C_3.png",
-   "published": "2026-10-21T04:09:11.000Z",
-   "added": "2026-10-21T04:33:23.333Z",
-   "origTitle": "‘যুদ্ধে পাঠাচ্ছে, আর দেখা না-ও হতে পারে’",
-   "en": {
-    "title": "Bangladeshi sent to war in Russia after false job promise",
-    "summary": "Abdullah Al Mamun from Lalmonirhat went to Russia seeking better employment but ended up in a military training camp instead. The day before deployment to combat, he called his younger brother saying he might not return alive. Over three years, at least 54 Bangladeshis have died after being deceived into fighting in the Russia-Ukraine war."
-   },
-   "bn": {
-    "title": "রাশিয়ায় চাকরির কল, যুদ্ধে পাঠানো হয়েছে",
-    "summary": "লালমনিরহাটের আবদুল্লাহ আল মামুন চাকরির প্রতিশ্রুতিতে রাশিয়ায় যান কিন্তু যুদ্ধ ক্যাম্পে পড়েন। প্রশিক্ষণের পর যুদ্ধে পাঠানোর আগের দিন তার ছোট ভাইকে বলেন, 'আর দেখা না-ও হতে পারে।' গত তিন বছরে অন্তত ৫৪ জন বাংলাদেশি এভাবে রাশিয়া-ইউক্রেন যুদ্ধে মারা পড়েছেন।"
-   }
-  },
-  {
-   "id": "agsjb3",
-   "section": "news",
-   "cat": "lifestyle",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/photo/bangladesh/dlo8viwyny",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-21/ugxzvkii/Sylhe-Photo-10.JPG",
-   "published": "2026-10-21T03:28:29.000Z",
-   "added": "2026-10-21T04:33:23.333Z",
-   "origTitle": "Familiar scenes of the haors in late autumn",
-   "en": {
-    "title": "Late autumn brings familiar haor scenes of rural beauty",
-    "summary": "As late autumn arrives, water levels in Sylhet's haors are receding, revealing re-emerged rural paths and green fields where cattle graze. Boats that filled the landscape weeks ago now lie idle. The seasonal shift paints a picture of the timeless bond between nature and village life across Bengal's wetlands."
-   },
-   "bn": {
-    "title": "শরতের শেষে হাওর এলাকার প্রকৃতির সুন্দর রূপ",
-    "summary": "শরতের শেষে সিলেটের হাওরের পানি কমছে, আবার গ্রামীণ পথ দেখা যাচ্ছে এবং গাছপালা সবুজ হয়ে উঠছে। পশু গুলো মাঠে চড়ে বেড়াচ্ছে। যে নৌকাগুলো কয়েক সপ্তাহ আগে পানিতে ছিল তা এখন নিষ্ক্রিয়। প্রকৃতি ও গ্রামীণ জীবনের চিরন্তন বন্ধন এই দৃশ্যে ফুটে উঠেছে।"
-   }
-  },
-  {
-   "id": "42m8w",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad8222bb7f8-1792549419.jpg?resize=1920%2C1440",
-   "published": "2026-10-21T04:13:00.000Z",
-   "added": "2026-10-21T04:33:23.333Z",
-   "origTitle": "Italy approves sweeping security measures in response to protests",
-   "en": {
-    "title": "Italy deploys troops, tougher laws after violent protests",
-    "summary": "Italy's cabinet approved deploying 500 troops to Milan and new security measures after protests over fuel prices, high rents, and low wages turned violent over the weekend. New laws make violent protest participation a crime with up to five years prison and €20,000 fines. Parents can also be held financially liable for children's vandalism. Police gained expanded detention powers for youth aged 14-17."
-   },
-   "bn": {
-    "title": "ইতালি সেনা মোতায়েন, সংঘর্ষ পরবর্তী কঠোর আইন",
-    "summary": "ইতালির ক্যাবিনেট মিলানে ৫০০ সেনা মোতায়েনের অনুমতি দিয়েছে জ্বালানি মূল্য, ভাড়া এবং নিম্ন মজুরির বিরুদ্ধে সহিংস প্রতিবাদের পর। নতুন আইনে সংঘর্ষপূর্ণ বিক্ষোভে অংশগ্রহণ পাঁচ বছরের জেলা ও ২০,০০০ ইউরো জরিমানা করা যাবে। পিতামাতারা সন্তানদের ভাংচুর কাজের জন্য দায়বদ্ধ।"
-   }
-  },
-  {
-   "id": "rvvpx9",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Guardian",
-   "srcLang": "en",
-   "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-   "image": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=140&quality=85&auto=format&fit=max&s=16352e02a522e9bb6270cae4acc5a411",
-   "published": "2026-10-21T00:14:55.000Z",
-   "added": "2026-10-21T04:33:23.333Z",
-   "origTitle": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-   "en": {
-    "title": "Nigeria confirms Ebola case as outbreak spreads westward",
-    "summary": "Nigeria has confirmed an Ebola case in its capital Abuja in a woman who travelled from Uganda. She showed symptoms on October 7 and was hospitalized four days later. Health authorities are tracing 44 contacts. Kenya and Uganda have also reported cases, making this the most geographically extensive Ebola outbreak in history with a nearly 50% fatality rate."
-   },
-   "bn": {
-    "title": "নাইজেরিয়ায় ইবোলা নিশ্চিত, পশ্চিম আফ্রিকায় ছড়িয়ে পড়ছে",
-    "summary": "নাইজেরিয়ার রাজধানী আবুজায় উগান্ডা থেকে আসা একজন নারীর মধ্যে ইবোলা শনাক্ত হয়েছে। তিনি ৭ অক্টোবর উপসর্গ দেখান এবং চার দিন পর হাসপাতালে ভর্তি হন। স্বাস্থ্য কর্তৃপক্ষ ৪৪ জন যোগাযোগের ব্যক্তিকে চিহ্নিত করছে। কেনিয়া ও উগান্ডাও মামলা রিপোর্ট করেছে।"
-   }
-  },
-  {
-   "id": "1kg8xdg",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/rajshahi/975808/%E0%A7%A8%E0%A7%AE-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%B9%E0%A6%A4",
-   "image": null,
-   "published": "2026-10-21T04:21:17.000Z",
-   "added": "2026-10-21T04:33:23.333Z",
-   "origTitle": "২৮ মামলার আসামিকে ছাড়াতে পুলিশের ওপর হামলা, আহত এএসআই",
-   "en": {
-    "title": "Accused's associates attack police in Bogura, one injured",
-    "summary": "In Bogura, associates and family members of a 28-case criminal suspect attacked police patrolling during Durga Puja security duties on Tuesday. They attempted to snatch the accused, Ratan Bepari, injuring ASI Ujjwal. Reinforcements arrived and arrested Bepari, who was taken to the police station."
-   },
-   "bn": {
-    "title": "বগুড়ায় পুলিশের উপর হামলা, ২৮ মামলার আসামি গ্রেফতার",
-    "summary": "বগুড়ায় দুর্গাপূজার নিরাপত্তায় নিয়োজিত টহল পুলিশের উপর আসামি রতন ব্যাপারীর সহযোগীরা হামলা চালান। এএসআই উজ্জ্বল আহত হন। অতিরিক্ত পুলিশ এসে পরিস্থিতি নিয়ন্ত্রণ করে ২৮ মামলার আসামি রতনকে গ্রেফতার করেন।"
-   }
-  },
-  {
-   "id": "v9ouga",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cjy5606yg95do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af7f/live/81216f40-ccf2-11f1-843d-719a1ce49d54.jpg",
-   "published": "2026-10-21T02:43:45.000Z",
-   "added": "2026-10-21T04:33:23.333Z",
-   "origTitle": "পত্রিকা: 'সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড: মিশন ও পররাষ্ট্রের না জানার কারণ কী?'",
-   "en": {
-    "title": "Questions raised over Saudi executions of two Bangladeshis",
-    "summary": "Two Bangladeshi nationals, identified as Nazrul Islam Abdul Basir and Suiti Aktar, were executed in Saudi Arabia on October 14. The Bangladesh foreign ministry and mission faced criticism for reportedly having no prior knowledge despite Saudi authorities sending a list of condemned prisoners beforehand. The Bangladeshi consulate in Jeddah and Dhaka only sought details after the execution was announced."
-   },
-   "bn": {
-    "title": "সৌদিতে দুই বাংলাদেশির মৃত্যুদণ্ড: মন্ত্রণালয়ের ভূমিকা নিয়ে প্রশ্ন",
-    "summary": "নজরুল ইসলাম আবদুল বাসির এবং সুইটি আক্তার নামে দুই বাংলাদেশি ১৪ অক্টোবর সৌদি আরবে মৃত্যুদণ্ড পান। বাংলাদেশের পররাষ্ট্র মন্ত্রণালয় ও সংশ্লিষ্ট মিশন আগে থেকে জানতে পারেনি বলে সমালোচিত হচ্ছে। সৌদি সরকার আগে দণ্ডপ্রাপ্তদের তালিকা পাঠিয়েছিল, কিন্তু কার্যকরের পর ঢাকা তথ্য চেয়েছে।"
-   }
-  },
-  {
-   "id": "3givqq",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/worldbiz/asia/kim-jong-un-appears-state-media-after-online-death-rumours-1578966",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/kim_jong_un.jpg",
-   "published": "2026-10-21T04:25:00.000Z",
-   "added": "2026-10-21T04:33:23.333Z",
-   "origTitle": "Kim Jong Un appears in state media after online death rumours",
-   "en": {
-    "title": "Kim Jong Un alive: appears in photos after death rumours",
-    "summary": "North Korea's state media released photos of leader Kim Jong Un touring an exhibition on Monday, dismissing online claims he had died from a brain haemorrhage. A US-based activist had alleged Kim suffered a stroke and was secretly transported to a Chinese hospital. North Korea routinely publishes reports of Kim's activities, but independent verification is impossible due to the country's limited information access."
-   },
-   "bn": {
-    "title": "কিম জং উন জীবিত: মৃত্যুর আলোচনার পর ছবি প্রকাশ",
-    "summary": "উত্তর কোরিয়ার অফিশিয়াল মিডিয়া সোমবার কিম জং উনের একটি প্রদর্শনী ট্যুর করার ছবি প্রকাশ করেছে, যা মস্তিষ্কে রক্তক্ষরণে তার মৃত্যুর অনলাইন দাবি বাতিল করে। একজন মার্কিন ভিত্তিক কর্মী দাবি করেছিলেন যে কিম স্ট্রোক করেছেন এবং চীনে সরিয়ে নেওয়া হয়েছিল। উত্তর কোরিয়ার তথ্য সীমিত তাই এই খবর যাচাই করা যায় না।"
    }
   }
  ]
