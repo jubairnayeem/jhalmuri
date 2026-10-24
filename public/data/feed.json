@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-24T10:50:16.555Z",
+ "updatedAt": "2026-10-24T14:27:57.322Z",
  "items": [
+  {
+   "id": "9bi1nj",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://www.jagonews24.com/national/news/1171538",
+   "image": null,
+   "published": "2026-10-24T14:25:34.000Z",
+   "added": "2026-10-24T14:27:57.321Z",
+   "origTitle": "সাংবাদিককে জিম্মি করে অর্থ আদায়, এবার গ্রেফতার ভেড়া সাইফুল",
+   "en": {
+    "title": "Man arrested for holding journalist hostage at gunpoint",
+    "summary": "Police in Chattogram arrested Mohammad Saiful Prakash (30), known as Vera Saiful, on Saturday, 24 October, for his role as the main suspect in a hostage-taking case. He and others allegedly held a journalist at gunpoint in Halishahr, Chattogram, and extorted money from him. The arrest followed investigation into the armed robbery."
+   },
+   "bn": {
+    "title": "সাংবাদিককে জিম্মি করে অর্থ আদায়ের মামলায় আটক ভেড়া সাইফুল",
+    "summary": "চট্টগ্রামের হালিশহরে অস্ত্রের মুখে সাংবাদিককে জিম্মি করে টাকা নেওয়ার ঘটনায় প্রধান আসামি মো. সাইফুল প্রকাশ ভেড়া সাইফুল (৩০) গ্রেফতার হয়েছেন শনিবার, ২৪ অক্টোবর। পুলিশ তাকে এই সশস্ত্র ডাকাতির মূল সন্দেহভাজন হিসেবে চিহ্নিত করেছে।"
+   }
+  },
+  {
+   "id": "1gmv9gu",
+   "section": "news",
+   "cat": "desh",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.bondhushava.com/activities/iu148giee2",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-24/claebz07/Jamalpur-bs-ValoKaj.jpeg",
+   "published": "2026-10-24T14:19:57.000Z",
+   "added": "2026-10-24T14:27:57.321Z",
+   "origTitle": "দুটি পরিবারকে স্বাবলম্বী করতে জামালপুর বন্ধুসভার উদ্যোগ",
+   "en": {
+    "title": "Jamalpur group gives sewing machines to two poor families",
+    "summary": "On Prothom Alo's 28th anniversary, the Jamalpur Bondhusabha gifted sewing machines to two struggling families as part of their 'do one good thing' program. One family is headed by Tarikul Islam, a physically disabled man with four daughters and one son; his wife cares for him daily. The other family, led by Helena Begum in Jamalpur town, has four daughters and faces constant hardship. The group says the aim isn't just quick help—it's teaching self-reliance and opening new earning paths."
+   },
+   "bn": {
+    "title": "জামালপুর বন্ধুসভা দুটি পরিবারকে সেলাই মেশিন উপহার দিল",
+    "summary": "প্রথম আলোর ২৮তম প্রতিষ্ঠাবার্ষিকীতে জামালপুর বন্ধুসভা 'একটি ভালো কাজ' কর্মসূচির অংশে দুটি অসচ্ছল পরিবারকে সেলাই মেশিন দিয়েছে। একটি পরিবারের প্রধান তারিকুল ইসলাম, যিনি শারীরিক প্রতিবন্ধী, তার চার মেয়ে ও এক ছেলে রয়েছে। দ্বিতীয় পরিবার জামালপুর সদরের হেলেনা বেগমের, তিনি চার মেয়ের মা এবং আর্থিক সংকটে ভুগছেন। বন্ধুসভার লক্ষ্য তাৎক্ষণিক সাহায্য নয়, বরং স্বাবলম্বিতার পথ দেখানো।"
+   }
+  },
+  {
+   "id": "103sc4r",
+   "section": "news",
+   "cat": "showbiz",
+   "tone": "light",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/lifestyle/3z5v59oy71",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-24/ans44rcz/WhatsApp-Image-2026-10-24-at-16.17.29.jpeg",
+   "published": "2026-10-24T13:32:14.000Z",
+   "added": "2026-10-24T14:27:46.895Z",
+   "origTitle": "Artist Kamrul Hasan Lipu explores his roots in Yokohama solo exhibition",
+   "en": {
+    "title": "Bangladeshi artist Lipu explores roots in Yokohama exhibition",
+    "summary": "Artist Kamrul Hasan Lipu held his first solo show, \"DOT: The Beginning of Everything,\" at Gallery Shimizu in Yokohama on 20 October. Despite living in Japan, his work draws from Bangladesh—women's faces, water lilies, sari patterns. The title reflects his philosophy: a dot becomes a line, line becomes form, form shapes the visible world."
+   },
+   "bn": {
+    "title": "বাংলাদেশী শিল্পী লিপু যোকোহামায় নিজের শিকড় খুঁজছেন",
+    "summary": "শিল্পী কামরুল হাসান লিপু ২০ অক্টোবর যোকোহামায় গ্যালারি শিমিজুতে তার প্রথম একক প্রদর্শনী \"ডট: দ্য বিগিনিং অফ এভরিথিং\" আয়োজন করেছেন। জাপানে বসবাস সত্ত্বেও তার কাজ বাংলাদেশ থেকে অনুপ্রাণিত—নারী মুখ, পদ্ম, শাড়ির নকশা। শিরোনাম তার দর্শন প্রতিফলিত করে: বিন্দু থেকে লাইন, লাইন থেকে রূপ।"
+   }
+  },
+  {
+   "id": "12cvcus",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-07-04T225353Z_247283624_UP1EM741RAK3W_RTRMADP_3_SOCCER-WORLDCUP-PRY-FRA-1783206022-1792564178.jpg?resize=1200%2C630&quality=80",
+   "published": "2026-10-24T14:21:34.000Z",
+   "added": "2026-10-24T14:27:46.895Z",
+   "origTitle": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+   "en": {
+    "title": "Mbappe pushes for Ballon d'Or after World Cup dominance",
+    "summary": "Kylian Mbappe is campaigning hard to win the 2026 Ballon d'Or, claimed during the 2025-26 season. Though his Real Madrid won no trophies, he set individual records: World Cup all-time top scorer (22 goals), La Liga top scorer (25 goals), and Champions League leading marksman (15 goals). The award ceremony is Monday in London."
+   },
+   "bn": {
+    "title": "বিশ্বকাপ আধিপত্যের পর ব্যালোঁ ডি'অর চাইছেন এমবাপে",
+    "summary": "কিলিয়ান এমবাপে ২০২৬ ব্যালোঁ ডি'অর জেতার জন্য চেষ্টা করছেন। রিয়েল মাদ্রিদ কোনো ট্রফি জিতেনি, তবে ব্যক্তিগতভাবে রেকর্ড করেছেন: বিশ্বকাপ সর্বকালের শীর্ষ স্কোরার (২২ গোল), লা লিগা শীর্ষ গোলদাতা (২৫ গোল), চ্যাম্পিয়নস লিগ শীর্ষ স্কোরার (১৫ গোল)। সোমবার লন্ডনে পুরস্কার প্রদান অনুষ্ঠান।"
+   }
+  },
+  {
+   "id": "1wkj55l",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "BBC News",
+   "srcLang": "en",
+   "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
+   "published": "2026-10-24T12:12:40.000Z",
+   "added": "2026-10-24T14:27:46.895Z",
+   "origTitle": "Ukraine says Starlink connection 'now stable' after network limits",
+   "en": {
+    "title": "Ukraine reports stable Starlink connection after network limits",
+    "summary": "Ukraine's defence minister says the country now has stable Starlink connectivity after days of restricted access. Last week, Kyiv accused Trump of pressuring Elon Musk to limit speeds to below 161km/h, crippling drone operations. The network now supports speeds over 400km/h, restoring full military capability for drones and logistics on the battlefield."
+   },
+   "bn": {
+    "title": "স্টারলিংক সীমাবদ্ধতার পর ইউক্রেইন সংযোগ স্থিতিশীল দাবি করছে",
+    "summary": "ইউক্রেইনের প্রতিরক্ষা মন্ত্রী বলেছেন সংযোগ এখন স্থিতিশীল। গত সপ্তাহে কিয়েভ দাবি করেছিল ট্রাম্প এলন মাস্ককে গতি ১৬১ কিমি/ঘণ্টার নিচে রাখতে চাপ দিয়েছেন, ড্রোন অপারেশন বন্ধ করেছেন। এখন নেটওয়ার্ক ৪০০ কিমি/ঘণ্টার উপরে গতি সমর্থন করে, যুদ্ধক্ষেত্রে সম্পূর্ণ সামরিক ক্ষমতা পুনরুদ্ধার করেছে।"
+   }
+  },
+  {
+   "id": "psvupw",
+   "section": "news",
+   "cat": "tech",
+   "tone": "light",
+   "satire": false,
+   "src": "TechCrunch",
+   "srcLang": "en",
+   "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/boox-palma-2-pro.png?resize=1200,666",
+   "published": "2026-10-24T14:15:00.000Z",
+   "added": "2026-10-24T14:27:46.895Z",
+   "origTitle": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+   "en": {
+    "title": "Boox Palma 2 Pro e-reader makes reading comfortable in bed",
+    "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader running Android that lets users read books and access apps on an E Ink display. Its small, light form (175 grams) works better than phones for side-lying bedtime reading. The front-lit screen dims exceptionally low, reducing eye strain without disturbing a sleeping partner."
+   },
+   "bn": {
+    "title": "বুক্স পালমা ২ প্রো ই-রিডার বিছানায় পড়া আরামদায়ক করে",
+    "summary": "৪০০ ডলারের বুক্স পালমা ২ প্রো একটি স্মার্টফোন-সাইজের ই-রিডার যা এন্ড্রয়েড চালায় এবং ই ইংক ডিসপ্লেতে বই পড়ার সুবিধা দেয়। এর ছোট হালকা ডিজাইন (১৭৫ গ্রাম) ফোনের চেয়ে বিছানায় পড়ার জন্য ভালো। স্ক্রিন অত্যন্ত কম উজ্জ্বল করা যায়, চোখের চাপ কমায়।"
+   }
+  },
+  {
+   "id": "184y2gn",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/c9dr8n7pd4zko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5e83/live/93869a80-cfad-11f1-a701-fddedf244c16.png",
+   "published": "2026-10-24T14:05:43.000Z",
+   "added": "2026-10-24T14:27:46.895Z",
+   "origTitle": "টঙ্গীতে মাদ্রাসা শিক্ষককে চড় মারা ব্যক্তিকে গ্রেফতার করতে চায় পুলিশ",
+   "en": {
+    "title": "Police seek to arrest man over slap incident at Tongi madrasah",
+    "summary": "In Tongi near Dhaka, a man slapped a madrasah teacher accused of sexually harassing his young daughter. The child's father alleges the teacher also threatened him with death. The incident sparked social media uproar and split public opinion. Both sides filed cases: teacher arrested, principal counter-filed; police are now seeking arrest of the child's father."
+   },
+   "bn": {
+    "title": "টঙ্গীর মাদ্রাসা শিক্ষকের ঘটনায় গ্রেফতারি চাচ্ছে পুলিশ",
+    "summary": "ঢাকার কাছে টঙ্গীর একটি মাদ্রাসায় একজন অভিভাবক শিক্ষককে চড় মেরেছেন, যিনি তার ছোট সন্তানকে যৌন হয়রানির অভিযোগে অভিযুক্ত। শিক্ষক ঘটনা সামাজিক মাধ্যমে ভাইরাল হলে জনমত বিভক্ত হয়। শিক্ষক এবং অভিভাবক উভয়ে মামলা করেছেন। পুলিশ এখন অভিভাবককে গ্রেফতারের চেষ্টা করছে।"
+   }
+  },
+  {
+   "id": "8qjvc0",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/national/976487/%E0%A6%A4%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A7%9F%E0%A6%95-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B7",
+   "image": null,
+   "published": "2026-10-24T14:24:52.000Z",
+   "added": "2026-10-24T14:27:46.895Z",
+   "origTitle": "তত্ত্বাবধায়ক সরকার গঠনে নতুন প্রস্তাব, উচ্চকক্ষ নিয়েও আলোচনা",
+   "en": {
+    "title": "New proposals floated for caretaker government formation",
+    "summary": "A constitutional amendment committee has discussed multiple options for forming a caretaker government, including roles for parliament's upper house, speaker, or vice president of the upper house. Debate also covers the structure of the upper house itself, balance of presidential and prime ministerial powers, and MPs' freedom to vote independently."
+   },
+   "bn": {
+    "title": "তত্ত্বাবধায়ক সরকার গঠনে নতুন প্রস্তাব আলোচনা চলছে",
+    "summary": "সংবিধান সংশোধন সংক্রান্ত বিশেষ কমিটিতে তত্ত্বাবধায়ক সরকার গঠনের একাধিক বিকল্প নিয়ে আলোচনা হয়েছে। এতে রয়েছে সংসদের উচ্চকক্ষের ভূমিকা, স্পিকার বা উচ্চকক্ষের ভাইস প্রেসিডেন্টের মাধ্যমে সরকার গঠনের সম্ভাবনা। উচ্চকক্ষের গঠন, রাষ্ট্রপতি ও প্রধানমন্ত্রীর ক্ষমতার ভারসাম্য এবং সংসদ সদস্যদের স্বাধীন ভোটের বিষয়েও মতামত এসেছে।"
+   }
+  },
+  {
+   "id": "gd22wn",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/health/community-clinics-be-renamed-family-welfare-centres-health-minister-1581796",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/27/health_minister.jpg",
+   "published": "2026-10-24T14:20:00.000Z",
+   "added": "2026-10-24T14:27:46.895Z",
+   "origTitle": "Community clinics to be renamed Family Welfare Centres: Health Minister",
+   "en": {
+    "title": "Community clinics to become Family Welfare Centres",
+    "summary": "Health Minister Sardar Sakhawat Husain announced that community clinics nationwide will be renamed Family Welfare Centres to expand healthcare at union level. During visits to Mymensingh facilities on 24 October, he found serious problems: medical equipment dumped in garbage, staff arriving late, and patients buying supplies outside. He ordered investigations and warned of action against negligent staff."
+   },
+   "bn": {
+    "title": "কমিউনিটি ক্লিনিক হবে ফ্যামিলি ওয়েলফেয়ার সেন্টার",
+    "summary": "স্বাস্থ্য মন্ত্রী সরদার সখাওয়াত হোসেইন জানিয়েছেন দেশের সব কমিউনিটি ক্লিনিকের নাম পরিবর্তন করে ফ্যামিলি ওয়েলফেয়ার সেন্টার রাখা হবে। ২৪ অক্টোবরে ময়মনসিংহে দর্শনের সময় তিনি গুরুতর সমস্যা খুঁজে পান—গার্বেজে মেডিকেল সরঞ্জাম, কর্মীরা দেরিতে আসা, রোগীরা বাইরে থেকে ওষুধ কিনছে। তিনি তদন্ত এবং দায়ীদের বিরুদ্ধে ব্যবস্থার নির্দেশ দিয়েছেন।"
+   }
+  },
   {
    "id": "19va9gn",
    "section": "news",
