@@ -1,53 +1,69 @@
 {
- "updatedAt": "2026-10-24T18:05:02.330Z",
+ "updatedAt": "2026-10-24T23:07:55.003Z",
  "burning": [
   {
    "id": "1jar704",
    "heat": 5,
    "why": {
-    "en": "Dengue deaths and hospitalizations spiking; health crisis dominating coverage.",
-    "bn": "ডেঙ্গু মৃত্যু এবং হাসপাতালে ভর্তি বাড়ছে; স্বাস্থ্য সংকট প্রধান খবর।"
+    "en": "Dengue crisis escalating fast—5 more deaths in 24 hours, nearly 1,900 hospitalised.",
+    "bn": "ডেঙ্গু সংকট দ্রুত বাড়ছে—২৪ ঘণ্টায় ৫ জনের মৃত্যু, প্রায় ১,৯০০ জন হাসপাতালে।"
    },
    "rank": 1
   },
   {
-   "id": "1ut3ark",
+   "id": "15i3xzs",
    "heat": 5,
    "why": {
-    "en": "El Niño intensifying with droughts and floods; matches top Google Trends (আবহাওয়া 1000+).",
-    "bn": "এল নিনো খরা এবং বন্যা নিয়ে আসছে; গুগল ট্রেন্ডে শীর্ষে (আবহাওয়া ১০০০+)।"
+    "en": "Bangladeshi shops in Paris looted during France's violent nationwide protests.",
+    "bn": "ফ্রান্সের ব্যাপক সহিংসতার সময় প্যারিসে বাংলাদেশি দোকান লুট হয়েছে।"
    },
    "rank": 2
   },
   {
-   "id": "1a04cjh",
+   "id": "1ah7iqt",
    "heat": 4,
    "why": {
-    "en": "HSC results announcement on Oct 29; major exam season news aligns with Google Trends (dhaka education board 1000+).",
-    "bn": "২৯ অক্টোবরে HSC ফলাফল; পরীক্ষার মৌসুমে গুরুত্বপূর্ণ খবর।"
+    "en": "Oil prices hit six-month peak amid Middle East escalation, affects fuel costs globally.",
+    "bn": "মধ্যপ্রাচ্যের উত্তেজনায় তেলের দাম ছয় মাসের শীর্ষে, বৈশ্বিক জ্বালানির প্রভাব।"
    },
    "rank": 3
   },
   {
-   "id": "19va9gn",
+   "id": "9bi1rv",
    "heat": 3,
    "why": {
-    "en": "Warehouse fire in Gazipur controlled; industrial safety incident.",
-    "bn": "গাজীপুরে গুদাম আগুন নিয়ন্ত্রণ করা হয়েছে; শিল্প দুর্ঘটনা।"
+    "en": "Bhairab clash leaves 15 injured over minor dispute—local law and order concern.",
+    "bn": "ভৈরবে তুচ্ছ বিরোধে সংঘর্ষ, ১৫ জন আহত—স্থানীয় নিরাপত্তা সমস্যা।"
    },
    "rank": 4
   },
   {
-   "id": "184y2gn",
+   "id": "k4v52e",
    "heat": 3,
    "why": {
-    "en": "Arrest warrant for man over Tongi madrasah slap incident; communal tensions.",
-    "bn": "টোঙ্গি মাদ্রাসায় থাপ্পড়ের ঘটনায় গ্রেপ্তারের চেষ্টা; সামাজিক উত্তেজনা।"
+    "en": "Madrasah files counter-case in Savar rape allegation—serious legal dispute unfolding.",
+    "bn": "সাভার ধর্ষণ অভিযোগে মাদরাসা প্রতিমামলা করেছে—গুরুতর আইনি বিরোধ।"
    },
    "rank": 5
   }
  ],
  "gossip": [
+  {
+   "id": "15i3xzs",
+   "tag": "#ParisUnrest",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 5,
+   "en": {
+    "title": "Bangladeshi shops looted in Paris",
+    "text": "During France's violent nationwide protests over the cost of living, Bangladeshi shops in Paris were looted and damaged. The unrest has spread across multiple cities."
+   },
+   "bn": {
+    "title": "প্যারিসে বাংলাদেশি দোকান লুট",
+    "text": "জীবনযাত্রার খরচ নিয়ে ফ্রান্সের সহিংস প্রতিবাদে প্যারিসের বাংলাদেশি দোকান লুট হয়েছে। বিভিন্ন শহরে অস্থিরতা ছড়িয়ে পড়েছে।"
+   }
+  },
   {
    "id": "1jar704",
    "tag": "#DengueCrisis",
@@ -56,60 +72,28 @@
    ],
    "heat": 5,
    "en": {
-    "title": "Dengue deaths spike across nation",
-    "text": "Five more deaths reported in 24 hours with 1,898 hospitalised. Dengue outbreak continuing to strain health system."
+    "title": "Dengue death toll surges",
+    "text": "Five more dengue deaths reported in just 24 hours with nearly 1,900 people hospitalised. The outbreak continues to worsen across the country."
    },
    "bn": {
-    "title": "দেশজুড়ে ডেঙ্গু মৃত্যু বাড়ছে",
-    "text": "২৪ ঘন্টায় আরও পাঁচজন মারা গেছে, ১,৮৯৮ জন হাসপাতালে। ডেঙ্গু প্রাদুর্ভাব স্বাস্থ্য ব্যবস্থায় চাপ দিচ্ছে।"
+    "title": "ডেঙ্গু মৃত্যু বৃদ্ধি পাচ্ছে",
+    "text": "মাত্র ২৪ ঘণ্টায় আরও পাঁচ জনের ডেঙ্গু মৃত্যু এবং প্রায় ১,৯০০ জন হাসপাতালে। সংকট সারাদেশে বাড়ছে।"
    }
   },
   {
-   "id": "1ut3ark",
-   "tag": "#ElNino",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "El Niño bringing extreme weather",
-    "text": "Climate phenomenon intensifying, bringing droughts, floods and heat waves. Major weather pattern affecting Bangladesh."
-   },
-   "bn": {
-    "title": "এল নিনো চরম আবহাওয়া আনছে",
-    "text": "জলবায়ু পরিবর্তন খরা, বন্যা এবং তাপপ্রবাহ নিয়ে আসছে। বাংলাদেশে আবহাওয়ায় বড় পরিবর্তন।"
-   }
-  },
-  {
-   "id": "1a04cjh",
-   "tag": "#HSCResults",
+   "id": "1ah7iqt",
+   "tag": "#OilPrices",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "HSC exam results coming Oct 29",
-    "text": "Board announces results date for Higher Secondary Certificate exams. Millions of students awaiting outcome."
+    "title": "Oil surges to six-month high",
+    "text": "Global oil prices have hit their highest level in six months due to Middle East tensions. This affects fuel costs and inflation worldwide."
    },
    "bn": {
-    "title": "HSC ফলাফল ২৯ অক্টোবরে",
-    "text": "উচ্চ মাধ্যমিক পরীক্ষার ফলাফল ২৯ তারিখে প্রকাশিত হবে। লক্ষ লক্ষ শিক্ষার্থী অপেক্ষায়।"
-   }
-  },
-  {
-   "id": "19va9gn",
-   "tag": "#Gazipur",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 3,
-   "en": {
-    "title": "Warehouse fire in Gazipur controlled",
-    "text": "Fire at warehouse brought under control after breaking out in industrial area. No major injuries reported."
-   },
-   "bn": {
-    "title": "গাজীপুরে গুদাম আগুন নিয়ন্ত্রণ",
-    "text": "শিল্প এলাকায় গুদামে আগুন নিয়ন্ত্রণ করা হয়েছে। কোনো বড় আঘাত নেই।"
+    "title": "তেলের দাম ছয় মাসের উচ্চতায়",
+    "text": "মধ্যপ্রাচ্যের উত্তেজনায় বৈশ্বিক তেলের দাম ছয় মাসের সর্বোচ্চ পর্যায়ে পৌঁছেছে। এটি বিশ্বব্যাপী জ্বালানি ও মুদ্রাস্ফীতি প্রভাবিত করছে।"
    }
   }
  ],
