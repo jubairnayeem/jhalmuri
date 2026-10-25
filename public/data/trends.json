@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-24T23:07:55.003Z",
+ "updatedAt": "2026-10-25T06:02:47.546Z",
  "burning": [
   {
-   "id": "1jar704",
+   "id": "1xp1uol",
    "heat": 5,
    "why": {
-    "en": "Dengue crisis escalating fast—5 more deaths in 24 hours, nearly 1,900 hospitalised.",
-    "bn": "ডেঙ্গু সংকট দ্রুত বাড়ছে—২৪ ঘণ্টায় ৫ জনের মৃত্যু, প্রায় ১,৯০০ জন হাসপাতালে।"
+    "en": "Multiple outlets covering deadly violence in Nigeria; serious global crisis.",
+    "bn": "নাইজেরিয়ায় হিংসার খবর একাধিক আউটলেটে; গুরুতর বৈশ্বিক সংকট।"
    },
    "rank": 1
   },
   {
-   "id": "15i3xzs",
+   "id": "vh6r8l",
    "heat": 5,
    "why": {
-    "en": "Bangladeshi shops in Paris looted during France's violent nationwide protests.",
-    "bn": "ফ্রান্সের ব্যাপক সহিংসতার সময় প্যারিসে বাংলাদেশি দোকান লুট হয়েছে।"
+    "en": "France protests dominating global news with police deployment and arrests.",
+    "bn": "ফ্রান্সের প্রতিবাদ বৈশ্বিক সংবাদে আধিপত্য বিস্তার করছে পুলিশ মোতায়েনের সাথে।"
    },
    "rank": 2
   },
   {
-   "id": "1ah7iqt",
+   "id": "1jar704",
    "heat": 4,
    "why": {
-    "en": "Oil prices hit six-month peak amid Middle East escalation, affects fuel costs globally.",
-    "bn": "মধ্যপ্রাচ্যের উত্তেজনায় তেলের দাম ছয় মাসের শীর্ষে, বৈশ্বিক জ্বালানির প্রভাব।"
+    "en": "Dengue deaths and hospitalizations rising—immediate local health concern for Bangladeshis.",
+    "bn": "ডেঙ্গু মৃত্যু এবং হাসপাতালে ভর্তি বৃদ্ধি—বাংলাদেশীদের জন্য তাৎক্ষণিক স্বাস্থ্য সংকট।"
    },
    "rank": 3
   },
   {
-   "id": "9bi1rv",
-   "heat": 3,
+   "id": "1cc4dfo",
+   "heat": 4,
    "why": {
-    "en": "Bhairab clash leaves 15 injured over minor dispute—local law and order concern.",
-    "bn": "ভৈরবে তুচ্ছ বিরোধে সংঘর্ষ, ১৫ জন আহত—স্থানীয় নিরাপত্তা সমস্যা।"
+    "en": "Gold prices falling sharply; direct impact on household savings and investment.",
+    "bn": "সোনার দাম দ্রুত পড়ছে; পরিবারের সঞ্চয় এবং বিনিয়োগে সরাসরি প্রভাব।"
    },
    "rank": 4
   },
   {
-   "id": "k4v52e",
-   "heat": 3,
+   "id": "19eaqe",
+   "heat": 4,
    "why": {
-    "en": "Madrasah files counter-case in Savar rape allegation—serious legal dispute unfolding.",
-    "bn": "সাভার ধর্ষণ অভিযোগে মাদরাসা প্রতিমামলা করেছে—গুরুতর আইনি বিরোধ।"
+    "en": "Ashraful's coaching exit trending on Google Trends BD; major cricket news.",
+    "bn": "আশরাফুলের কোচিং থেকে বেরিয়ে যাওয়া গুগল ট্রেন্ডস বিডিতে ট্রেন্ডিং; বড় ক্রিকেট খবর।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "15i3xzs",
-   "tag": "#ParisUnrest",
+   "id": "19eaqe",
+   "tag": "#AshrafulOut",
    "platforms": [
     "Google"
    ],
    "heat": 5,
    "en": {
-    "title": "Bangladeshi shops looted in Paris",
-    "text": "During France's violent nationwide protests over the cost of living, Bangladeshi shops in Paris were looted and damaged. The unrest has spread across multiple cities."
+    "title": "Bangladesh batting coach Ashraful steps down",
+    "text": "Ashraful has left his role as Bangladesh's batting coach. The move is trending across search as fans react to the sudden coaching change."
    },
    "bn": {
-    "title": "প্যারিসে বাংলাদেশি দোকান লুট",
-    "text": "জীবনযাত্রার খরচ নিয়ে ফ্রান্সের সহিংস প্রতিবাদে প্যারিসের বাংলাদেশি দোকান লুট হয়েছে। বিভিন্ন শহরে অস্থিরতা ছড়িয়ে পড়েছে।"
-   }
-  },
-  {
-   "id": "1jar704",
-   "tag": "#DengueCrisis",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Dengue death toll surges",
-    "text": "Five more dengue deaths reported in just 24 hours with nearly 1,900 people hospitalised. The outbreak continues to worsen across the country."
-   },
-   "bn": {
-    "title": "ডেঙ্গু মৃত্যু বৃদ্ধি পাচ্ছে",
-    "text": "মাত্র ২৪ ঘণ্টায় আরও পাঁচ জনের ডেঙ্গু মৃত্যু এবং প্রায় ১,৯০০ জন হাসপাতালে। সংকট সারাদেশে বাড়ছে।"
+    "title": "বাংলাদেশের ব্যাটিং কোচ আশরাফুল পদত্যাগ করেছেন",
+    "text": "আশরাফুল বাংলাদেশের ব্যাটিং কোচের পদ ছেড়েছেন। ফ্যানরা এই আকস্মিক কোচিং পরিবর্তনে সাড়া দিচ্ছেন।"
    }
   },
   {
    "id": "1ah7iqt",
-   "tag": "#OilPrices",
+   "tag": "#OilSurge",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Oil surges to six-month high",
-    "text": "Global oil prices have hit their highest level in six months due to Middle East tensions. This affects fuel costs and inflation worldwide."
+    "title": "Oil prices hit six-month peak",
+    "text": "Crude prices have jumped to their highest level in six months amid escalating Middle East tensions. Petrol and transport costs could rise."
    },
    "bn": {
-    "title": "তেলের দাম ছয় মাসের উচ্চতায়",
-    "text": "মধ্যপ্রাচ্যের উত্তেজনায় বৈশ্বিক তেলের দাম ছয় মাসের সর্বোচ্চ পর্যায়ে পৌঁছেছে। এটি বিশ্বব্যাপী জ্বালানি ও মুদ্রাস্ফীতি প্রভাবিত করছে।"
+    "title": "তেলের দাম ছয় মাসের সর্বোচ্চে",
+    "text": "মধ্যপ্রাচ্যের টানাপড়েনের কারণে কাঁচা তেলের দাম ছয় মাসের সর্বোচ্চে পৌঁছেছে। পেট্রোল এবং পরিবহন খরচ বাড়তে পারে।"
+   }
+  },
+  {
+   "id": "1ut3ark",
+   "tag": "#ElNino",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "El Niño intensifying globally",
+    "text": "El Niño weather pattern is worsening, bringing droughts, floods and heat waves worldwide. Bangladesh could face climate impacts soon."
+   },
+   "bn": {
+    "title": "এল নিনো বৈশ্বিকভাবে তীব্র হচ্ছে",
+    "text": "এল নিনো আবহাওয়া পরিস্থিতি খারাপ হচ্ছে, বিশ্বব্যাপী খরা, বন্যা এবং তাপপ্রবাহ নিয়ে আসছে। বাংলাদেশ শীঘ্রই জলবায়ু প্রভাব মুখোমুখি হতে পারে।"
    }
   }
  ],

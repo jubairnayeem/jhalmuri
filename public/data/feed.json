@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-25T01:06:27.064Z",
+ "updatedAt": "2026-10-25T06:02:32.624Z",
  "items": [
+  {
+   "id": "tixb2h",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": true,
+   "src": "eArki",
+   "srcLang": "bn",
+   "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQcDZHeEJqR254TXRlRFdZNnpJd0JBM2ZUVjFWRlQybWFOeE8zTUp3blVwUVJ1cDdWalVaVWpTekVUbnhjS0xNaWUyWmtTN2t1RGUxYmFRdVRTbmVoVzE2SkItWU1CMzA0bEhrby1TdWcybXo4NzNXTTlESmFYX3JmSWZwa1lDZjJYeFRLSW5FQkNySnFkeEs1Yk5oSlVJVjd1akRjMldXeVQ4Ry03cHRJMDN3TzlXSkFqbDZuOUVZa0xLQWZPZTRlWFZxTnhHUzY5RkZRT1huT2JPMUE4eDNTTGMtcXpsSE1BYklMdXZvVWRIVnJBNFpRUWRHemMtUEFVby1LZFNabWlBU1BBaVZhckV4YU4xbDZyNkVDbzF0ckQyUkFhOUFTSTQwYnRuM1RIQlVpX0t0VnZTa0lUZlN0WXJxUjJ3eUJsck1PaHF2X256YlprWDN3TUZJYW1GVDlTcmNBNEg4SVpnYVdlTkFVQnVtcERySi0zUy1sbjJ4OUlWcFF0N2d4M184RkdqT3dBRWhZdVp3YjQyRGxfeGItUE00c2pRX1dIakhrQlBMblUxbjkxNjgzdXFuSFZPU1lJNFhVOTJNY2lUclFrU0hZZ005OERKTXQxa2k5MDZuY0pCenRiWlg1MF91cnctVXlrMkVGSFZZX0ZRWmlwZURScU9EdmJkWGctRHZodkZ2eC1XZ0dkaEVzVnZjQkNzZkFwS0RwVDhDQUp1R1lyY3c?oc=5",
+   "image": null,
+   "published": "2026-10-24T16:36:52.000Z",
+   "added": "2026-10-25T06:02:32.624Z",
+   "origTitle": "জাতিসংঘের যেসব মজার তথ্য আপনি না-ও জানতে পারেন!",
+   "en": {
+    "title": "Funny UN facts you probably didn't know",
+    "summary": "This is satire. The piece promises hilarious tidbits about the United Nations but it's a joke article from eArki, not real reporting."
+   },
+   "bn": {
+    "title": "জাতিসংঘের মজার তথ্য যা আপনি জানতেন না",
+    "summary": "এটা মজার লেখা (satire)। জাতিসংঘ সম্পর্কে হাসির তথ্য দাবি করছে কিন্তু এটা সত্যি খবর না, eআরকির মজাদার পোস্ট।"
+   }
+  },
+  {
+   "id": "vlfrlf",
+   "section": "news",
+   "cat": "khela",
+   "tone": "light",
+   "satire": false,
+   "src": "ESPNcricinfo",
+   "srcLang": "en",
+   "url": "https://www.cricinfo.com/ci/content/story/1559887.html?ex_cid=OTC-RSS",
+   "image": "http://p.imgci.com/db/PICTURES/CMS/424300/424300.jpg",
+   "published": "2026-10-25T05:00:06.000Z",
+   "added": "2026-10-25T06:02:32.624Z",
+   "origTitle": "Ferguson to skip third T20I, Henry to sit out remainder of series",
+   "en": {
+    "title": "Ferguson out of third T20I, Tickner joins squad",
+    "summary": "Kyle Jamieson is leaving the T20I squad after the third game. Blair Tickner will replace him for the final three matches of the series. The squad changes are happening mid-tour."
+   },
+   "bn": {
+    "title": "তৃতীয় টি২০তে ফার্গুসন বাদ, টিকনার যোগ দিচ্ছেন",
+    "summary": "কাইল জেমিসন তৃতীয় ম্যাচের পর দলের বাইরে চলে যাচ্ছেন। ব্লেয়ার টিকনার বাকি তিনটি ম্যাচের জন্য দলে আসছেন। সিরিজের মাঝপথে দল পরিবর্তন হচ্ছে।"
+   }
+  },
+  {
+   "id": "wff3ba",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "The Business Standard",
+   "srcLang": "en",
+   "url": "https://www.tbsnews.net/bangladesh/crime/mob-violence-justice-elusive-no-headway-cases-aug-2024-1582016",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/lynch_mob.jpg",
+   "published": "2026-10-25T06:00:00.000Z",
+   "added": "2026-10-25T06:02:26.463Z",
+   "origTitle": "Mob violence: Justice elusive as no headway in cases since Aug 2024",
+   "en": {
+    "title": "No mob violence trials since August 2024; justice delayed",
+    "summary": "Not a single mob violence case filed since August 5, 2024 has gone to trial, raising alarm among rights groups. Government recorded 40 deaths from mob violence in January–September 2026, but activist groups documented 171–187 deaths—a gap of over 130. Prosecutors have delayed charging suspects even in well-known cases."
+   },
+   "bn": {
+    "title": "আগস্ট ২০২৪ থেকে কোনো মব ভায়োলেন্স মামলা ট্রায়ালে যায়নি",
+    "summary": "আগস্ট ৫, ২০২৪ সালের পর থেকে ভিড়ের সহিংসতার কোনো মামলাই ট্রায়াল পর্যায়ে যায়নি বলে মানবাধিকার কর্মীরা সতর্ক করছেন। সরকার ২০২৬ সালের প্রথম নয় মাসে ৪০ জনের মৃত্যু রেকর্ড করেছে, কিন্তু অ্যাক্টিভিস্ট গ্রুপ ১৭১-১৮৭ জন মৃত্যু নথিভুক্ত করেছে। চার্জশীট দাখিল হতে মাস কাটছে এমনকি পরিচিত ঘটনাগুলিতেও।"
+   }
+  },
+  {
+   "id": "1cc4dfo",
+   "section": "news",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/business/industry/3z5xeekj19",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-03-23/k9s5y637/720e0420_01e3_4fea_865b_55ca7aa70335.jfif",
+   "published": "2026-10-25T05:45:18.000Z",
+   "added": "2026-10-25T06:02:26.463Z",
+   "origTitle": "আজ আবার কমল সোনার দাম, চার দিনে ৭ হাজার ১৭৩ টাকা",
+   "en": {
+    "title": "Gold prices tumble again; fall 7,173 taka in four days",
+    "summary": "Bangladesh's gold market saw another price drop on Sunday as global gold rates continue falling. In four days, 22-carat gold fell a maximum of 7,173 taka per bhori. The fall reflects a broader year-long decline worldwide, with investors shifting to US dollar bonds earning higher interest."
+   },
+   "bn": {
+    "title": "সোনার দাম আবার পড়ল, চার দিনে ৭ হাজার টাকা পতন",
+    "summary": "বাংলাদেশে রবিবার সোনার দাম আবার কমেছে কারণ বৈশ্বিক বাজারে ক্রমাগত পতন চলছে। মাত্র চার দিনে ২২ ক্যারেটের ভরিতে সর্বোচ্চ ৭ হাজার ১৭৩ টাকা কমেছে। বিনিয়োগকারীরা এখন ডলার ভিত্তিক বন্ড থেকে বেশি লাভ পাচ্ছেন তাই সোনার দিকে তাকাচ্ছেন না।"
+   }
+  },
+  {
+   "id": "vh6r8l",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Prothom Alo English",
+   "srcLang": "en",
+   "url": "https://en.prothomalo.com/international/europe/4d0eh519vv",
+   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-25/ad2e0u3a/2026-10-24T190722Z326907296RC2T9OAGVX64RTRMADP3FRANCE-PROTEST.JPG",
+   "published": "2026-10-25T05:37:05.000Z",
+   "added": "2026-10-25T06:02:26.463Z",
+   "origTitle": "Fresh clashes rock France as protesters march on",
+   "en": {
+    "title": "France deploys 70,000 police as clashes erupt nationwide",
+    "summary": "France faced another weekend of street violence as protests over cost of living turned destructive across major cities. Interior Minister Laurent Nunez said nearly 1,000 arrests were made and two people were seriously injured. Authorities deployed 70,000 security personnel to contain the unrest, better managing crowds than a week prior."
+   },
+   "bn": {
+    "title": "ফ্রান্সে ৭০ হাজার পুলিশ, সারাদেশে সংঘর্ষ",
+    "summary": "জীবনযাত্রার ব্যয় নিয়ে প্রতিবাদ শনিবার ফ্রান্সের প্রধান শহরগুলিতে সংঘর্ষে পরিণত হয়েছে। অভ্যন্তরীণ মন্ত্রী জানান প্রায় হাজার জন গ্রেপ্তার হয়েছেন এবং দুজন গুরুতর আহত হয়েছেন। সরকার ৭০ হাজার পুলিশ মোতায়েন করেছিল এবং এই বার ভিড় নিয়ন্ত্রণ আগের সপ্তাহের চেয়ে ভালো হয়েছে।"
+   }
+  },
+  {
+   "id": "164kzhh",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG-20261009-WA0015-1791717153.jpg?resize=1200%2C630",
+   "published": "2026-10-25T05:33:41.000Z",
+   "added": "2026-10-25T06:02:26.463Z",
+   "origTitle": "Nigeria’s missing: Families in the northeast still wait for answers",
+   "en": {
+    "title": "Nigeria's families still searching for missing relatives",
+    "summary": "In northeastern Nigeria's Borno State, families are still searching for relatives who disappeared over a decade ago. Kashim Mohammed's sister Falmata vanished in 2011 when abducted by gunmen while travelling south. Though someone once claimed she was found alive, the lead went nowhere. Many families have lost hope while waiting for answers."
+   },
+   "bn": {
+    "title": "নাইজেরিয়ায় হাজার হাজার নিখোঁজ, পরিবারের অপেক্ষা অব্যাহত",
+    "summary": "উত্তর-পূর্ব নাইজেরিয়ার বোর্নো অঞ্চলে পরিবারগুলি এক দশকেরও বেশি সময় ধরে নিখোঁজ আত্মীয়দের অনুসন্ধান করছে। কাশিম মোহাম্মদের বোন ফালমাতা ২০১১ সালে অস্ত্রধারীদের দ্বারা অপহৃত হয়েছিল। যদিও একবার কেউ দাবি করেছিল তিনি জীবিত পাওয়া গেছে, সেই সূত্র শেষ হয়েছে। হাজার হাজার পরিবার এখনও জবাব অপেক্ষা করছে।"
+   }
+  },
+  {
+   "id": "1tu9m9t",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বিবিসি বাংলা",
+   "srcLang": "bn",
+   "url": "https://www.bbc.com/bengali/articles/ckp8g2yd7605o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5996/live/38a40440-d020-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-10-25T03:56:32.000Z",
+   "added": "2026-10-25T06:02:26.463Z",
+   "origTitle": "ফ্রান্সজুড়ে আরেক দফা গণবিক্ষোভের পর সংঘর্ষ, গ্রেপ্তার প্রায় ১ হাজার",
+   "en": {
+    "title": "France sees fresh clashes as protests flare again",
+    "summary": "Thousands clashed with police across France on Saturday after large protests over cost of living and school conditions. Nearly 1,000 people were arrested as riot squads used tear gas in Paris, Marseille, Lyon and other cities. Authorities deployed 70,000 security personnel. While less severe than violence a week earlier, the unrest shows tensions remain high."
+   },
+   "bn": {
+    "title": "ফ্রান্সে আবার প্রতিবাদী-পুলিশ সংঘর্ষ, হাজার জন গ্রেপ্তার",
+    "summary": "জীবনযাত্রার ব্যয় এবং স্কুলের অবস্থার প্রতিবাদে ফ্রান্সজুড়ে শনিবার বড় পদযাত্রা হয়েছে। সংঘর্ষে প্রায় হাজার জন গ্রেপ্তার হয়েছেন এবং পুলিশ প্যারিস, মার্সেইয়ে ও অন্যান্য শহরে কাঁদানে গ্যাস ব্যবহার করেছে। সরকার ৭০ হাজার নিরাপত্তাকর্মী মোতায়েন করেছিল এবং গত সপ্তাহের চেয়ে এবার পরিস্থিতি কম তীব্র ছিল।"
+   }
+  },
   {
    "id": "fpxn11",
    "section": "hasi",
@@ -3145,226 +3299,6 @@
    "bn": {
     "title": "জাপানে বাংলাদেশের রাষ্ট্রদূত অসুস্থ, প্রধানমন্ত্রীর যাত্রা অনিশ্চিত",
     "summary": "জাপানে বাংলাদেশের রাষ্ট্রদূত মো. দাউদ আলি অসুস্থতার কারণে ঢাকায় রয়েছেন বলে বিদেশ মন্ত্রণালয় জানিয়েছে। প্রধানমন্ত্রী তারিক রহমান ২৬-২৯ অক্টোবর টোকিও সফর করবেন, কিন্তু দাউদ তার সাথে যাবেন কিনা তা অস্পষ্ট। মন্ত্রণালয় এখনো স্পষ্ট করেনি রাষ্ট্রদূত প্রত্যাহত হয়েছেন নাকি রুটিন পরামর্শের জন্য ঢাকায় আছেন।"
-   }
-  },
-  {
-   "id": "yek7sx",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwalIyNHRXb2VjWHVxZVl2cHZ6c1dmT2NwTWtCZmxOUFg2M3JMZVZqZjU0OUlDNlM2Qll1cjNOeGVlVS1VVXRyNlRLQXgyUENXaHNGd1V3Ml96QjZNUnZ1VXdZalVxT1E?oc=5",
-   "image": null,
-   "published": "2026-10-21T15:13:00.000Z",
-   "added": "2026-10-22T04:32:38.181Z",
-   "origTitle": "ফের সড়ক অবরোধ ডাকার পর সাজেক ভ্রমণ বন্ধ করল প্রশাসন",
-   "en": {
-    "title": "Administration halts Sajek travel after renewed road blockade call",
-    "summary": "The administration has stopped travel to Sajek following a fresh call for a road blockade in the area. No further details were provided in the report."
-   },
-   "bn": {
-    "title": "সড়ক অবরোধের নতুন ডাকের পর প্রশাসন সাজেক ভ্রমণ বন্ধ করেছে",
-    "summary": "সাজেক এলাকায় সড়ক অবরোধের নতুন আহ্বানের পরে প্রশাসন এখানে ভ্রমণ বন্ধ করে দিয়েছে। প্রতিবেদনে আর বিস্তারিত তথ্য দেওয়া হয়নি।"
-   }
-  },
-  {
-   "id": "nxevfp",
-   "section": "news",
-   "cat": "showbiz",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/onnoalo/treatise/936o9w1377",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/e0kagh3q/WhatsApp-Image-2026-10-21-at-10.09.09-PM.jpeg",
-   "published": "2026-10-22T04:04:00.000Z",
-   "added": "2026-10-22T04:32:38.181Z",
-   "origTitle": "কবি জীবনানন্দের গদ্যভাষা",
-   "en": {
-    "title": "Jibananda Das's prose style deserves serious literary attention",
-    "summary": "A 2006 essay on poet Jibananda Das (1899–1954) explores his distinctive prose writing, which remains less celebrated than his poetry. Das wrote essays, introductions, and critiques—around 30 literary works in total. His essay collections like 'Kabitar Katha' show original thinking and complex sentence structures that set him apart from his contemporaries."
-   },
-   "bn": {
-    "title": "কবি জীবনানন্দ দাশের গদ্যভাষা সাহিত্যের মনোযোগের যোগ্য",
-    "summary": "২০০৬ সালের একটি প্রবন্ধ কবি জীবনানন্দ দাশের (১৮৯৯-১৯৫৪) গদ্য লেখার বৈশিষ্ট্য তুলে ধরে, যা তার কবিতার মতো বিখ্যাত নয়। দাশ প্রবন্ধ, গ্রন্থভূমিকা এবং সমালোচনা লিখেছেন—মোট ৩০টি সাহিত্য রচনা। তার 'কবিতার কথা' সংকলন এবং অন্যান্য কাজ মৌলিক চিন্তাভাবনা এবং অনন্য বাক্যগঠনের প্রমাণ।"
-   }
-  },
-  {
-   "id": "1d33rro",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/sports/cricket/6yxjvc5vei",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-22/hwz6y6l7/Bangladesh-Afghanistan-1.avif",
-   "published": "2026-10-22T04:14:20.000Z",
-   "added": "2026-10-22T04:32:38.181Z",
-   "origTitle": "Bangladesh crash out of tri-series after defeat to Afghanistan",
-   "en": {
-    "title": "Bangladesh knocked out of tri-series after Afghanistan loss",
-    "summary": "Bangladesh's batting collapsed again as they lost to Afghanistan by seven wickets at Sharjah, scoring just 160 runs. Parvez Hossain Emon made 70 but couldn't save the team. Legspinner Rashid Khan took 4-31 to dismantle Bangladesh's middle order. Afghanistan now faces Zimbabwe in the final on Friday."
-   },
-   "bn": {
-    "title": "আফগানিস্তানের কাছে হার, ত্রিদেশীয় সিরিজ থেকে বাদ বাংলাদেশ",
-    "summary": "শারজায় বাংলাদেশ মাত্র ১৬০ রান করে আফগানিস্তানের কাছে সাত উইকেটে হেরেছে। পারভেজ হোসেন এমন ৭০ রান করলেও দলকে বাঁচাতে পারেনি। রাশিদ খান ৪-৩১ নিয়ে বাংলাদেশের মধ্যম ক্রম ভেঙে দিয়েছেন। আফগানিস্তান এখন শুক্রবার জিম্বাবোয়ের বিপক্ষে ফাইনালে খেলবে।"
-   }
-  },
-  {
-   "id": "1a60p1y",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "জাগো নিউজ",
-   "srcLang": "bn",
-   "url": "https://www.jagonews24.com/country/news/1170770",
-   "image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/nator-20261022102717.jpg",
-   "published": "2026-10-22T04:27:17.000Z",
-   "added": "2026-10-22T04:32:23.871Z",
-   "origTitle": "এক ঘণ্টায় শিয়ালের কামড়ে আহত ১১, এলাকায় প্রশাসনের মাইকিং",
-   "en": {
-    "title": "Eleven injured in jackal attacks within one hour",
-    "summary": "Eleven people were bitten and injured by jackals in Bagatipara, Natore in the span of just one hour on Wednesday evening. The attacks occurred across different areas of the upazila. Local administration announced alerts through microphones to warn residents. The sudden spike in wildlife attacks has caused concern in the area."
-   },
-   "bn": {
-    "title": "এক ঘণ্টায় শিয়ালের কামড়ে ১১ জন আহত",
-    "summary": "নাটোরের বাগাতিপাড়ায় বুধবার সন্ধ্যায় মাত্র এক ঘণ্টায় শিয়ালের কামড়ে ১১ জন আহত হয়েছে। আক্রমণগুলি উপজেলার বিভিন্ন এলাকায় ঘটেছে। স্থানীয় প্রশাসন মাইক ঘোষণা দিয়ে বাসিন্দাদের সতর্ক করেছে। বন্যপ্রাণীর আক্রমণের এই আকস্মিক বৃদ্ধি এলাকায় উদ্বেগ সৃষ্টি করেছে।"
-   }
-  },
-  {
-   "id": "19ckh9u",
-   "section": "news",
-   "cat": "tech",
-   "tone": "light",
-   "satire": false,
-   "src": "TechCrunch",
-   "srcLang": "en",
-   "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
-   "published": "2026-10-22T00:17:54.000Z",
-   "added": "2026-10-22T04:32:23.871Z",
-   "origTitle": "Tesla says it will start selling Cybercabs by end of year",
-   "en": {
-    "title": "Tesla plans to sell Cybercabs to customers by year-end",
-    "summary": "Tesla said Wednesday it will sell its autonomous Cybercab, a steering-wheel-free two-seater, to customers before December despite federal safety investigations. Currently, all Cybercabs made go into Tesla's own robotaxi fleet. VP of engineering Lars Moravy said Tesla will \"mainly deliver\" the vehicles to customers as its fleet grows. The company will scale slowly while learning about autonomous vehicle ownership."
-   },
-   "bn": {
-    "title": "টেসলা সাইবারক্যাব বছর শেষে বিক্রি শুরু করবে",
-    "summary": "টেসলা বলেছে এটি স্বায়ত্তশাসিত সাইবারক্যাব বছর শেষের আগে গ্রাহকদের কাছে বিক্রি করবে, যদিও ফেডারেল নিরাপত্তা তদন্ত চলছে। এর স্টিয়ারিং হুইল নেই এবং এটি দুই আসনের গাড়ি। বর্তমানে সব সাইবারক্যাব টেসলার নিজস্ব রোবোট্যাক্সি ফ্লিটে যায়। ইঞ্জিনিয়ারিং ভিপি বলেছেন ফ্লিট বাড়ার সাথে সাথে গ্রাহকদের বিতরণ শুরু হবে।"
-   }
-  },
-  {
-   "id": "6u198g",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26281666762924-1792639836.jpg?resize=1920%2C1440",
-   "published": "2026-10-22T03:19:38.000Z",
-   "added": "2026-10-22T04:32:23.871Z",
-   "origTitle": "Trump administration seeks Supreme Court approval to build Big Bend wall",
-   "en": {
-    "title": "Trump administration seeks court approval for Big Bend wall",
-    "summary": "The Trump administration asked the Supreme Court to lift a federal judge's injunction blocking the Big Bend border wall project in West Texas. The $1.7 billion project includes barriers, patrol roads, and detection technology along the 805km border stretch. Environmental and historical groups are suing to block it. A lower court judge ruled in October that the government's waivers of environmental laws were unlawful."
-   },
-   "bn": {
-    "title": "ট্রাম্প প্রশাসন বিগ বেন্ড দেয়াল নির্মাণে আদেশ চায়",
-    "summary": "ট্রাম্প প্রশাসন সুপ্রিম কোর্টের কাছে বিগ বেন্ড সীমান্ত দেয়াল প্রকল্প চালিয়ে যাওয়ার অনুমতি চেয়েছে। এই ১.৭ বিলিয়ন ডলারের প্রকল্পে বাধা, টহল রাস্তা এবং সনাক্তকরণ প্রযুক্তি থাকবে। পরিবেশবাদী এবং ঐতিহাসিক সংস্থাগুলি এটি আটকাতে মামলা করেছে। নিম্ন আদালত অক্টোবরে সরকারের আইন বাতিলকরণ অবৈধ বলে রায় দিয়েছে।"
-   }
-  },
-  {
-   "id": "1ej6jfg",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
-   "published": "2026-10-21T19:54:57.000Z",
-   "added": "2026-10-22T04:32:23.871Z",
-   "origTitle": "Websites taken down worldwide as critical cyber-security update issued",
-   "en": {
-    "title": "Critical PHP flaw forces major websites offline worldwide",
-    "summary": "Two severe security flaws in PHP programming language prompted governments and agencies globally to take websites offline as a precaution. The Finnish government, Edinburgh council, and the BBC went down, as did parts of Wikipedia. The US NSA and Japan's PM urged organisations to patch immediately. Cyber-security firm Wiz called them the \"most severe vulnerabilities ever discovered\" by AI."
-   },
-   "bn": {
-    "title": "পিএইচপি নিরাপত্তা সমস্যায় বড় ওয়েবসাইট বন্ধ",
-    "summary": "পিএইচপি প্রোগ্রামিং ল্যাঙ্গুয়েজের দুটি গুরুতর নিরাপত্তা ত্রুটিতে বিশ্বব্যাপী সরকার এবং সংস্থা ওয়েবসাইট বন্ধ করেছে। ফিনল্যান্ডের সরকার, এডিনবার্গ কাউন্সিল এবং বিবিসি অফলাইন হয়েছে। উইকিপিডিয়াও প্রভাবিত হয়েছে। আমেরিকার এনএসএ এবং জাপানের প্রধানমন্ত্রী তাৎক্ষণিক প্যাচ করার আহ্বান জানিয়েছেন।"
-   }
-  },
-  {
-   "id": "3a87k8",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/country/chitagong/975935/%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AA%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%93%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6",
-   "image": null,
-   "published": "2026-10-22T04:30:00.000Z",
-   "added": "2026-10-22T04:32:23.871Z",
-   "origTitle": "তিন চাকার যানের দাপটে বাড়ছে দুর্ঘটনা, হাইওয়ে পুলিশ বলছে ‘অ্যাকশনে যেতে পারছি না’",
-   "en": {
-    "title": "Three-wheeler traffic on highways causing crash surge",
-    "summary": "Three-wheeled vehicles are still operating illegally on Bangladesh's highways despite a 2012 ban, causing frequent road accidents and deaths. The problem is especially bad on routes like Dhaka-Chattogram and Chattogram-Cox's Bazar. Highway police say they cannot take action against the offenders. The continued violations are raising serious safety concerns."
-   },
-   "bn": {
-    "title": "মহাসড়কে তিন চাকার যানে দুর্ঘটনা বাড়ছে",
-    "summary": "২০১২ সালের নিষেধাজ্ঞা সত্ত্বেও তিন চাকার যানবাহন এখনও বাংলাদেশের মহাসড়কে চলাচল করছে এবং দুর্ঘটনা বাড়াচ্ছে। ঢাকা-চট্টগ্রাম এবং চট্টগ্রাম-কক্সবাজার রুটে সমস্যা বেশি। হাইওয়ে পুলিশ বলছে তারা ব্যবস্থা নিতে পারছে না। নিরাপত্তা নিয়ে উদ্বেগ ক্রমাগত বাড়ছে।"
-   }
-  },
-  {
-   "id": "1bjdyyp",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/c9ly0z678vxvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0582/live/d64ef960-cdc4-11f1-ae0b-3f5d64e6a869.jpg",
-   "published": "2026-10-22T03:18:16.000Z",
-   "added": "2026-10-22T04:32:23.871Z",
-   "origTitle": "পত্রিকা: 'দুই বাংলাদেশির মৃত্যুদণ্ড: জেদ্দায় অবহেলা, ঢাকায় নেই জবাবদিহি'",
-   "en": {
-    "title": "Two Bangladeshis executed: diplomatic mission blamed for neglect",
-    "summary": "Two Bangladeshi nationals were executed in Saudi Arabia last week without meaningful intervention from the Bangladesh mission in Jeddah. Officials there knew which prison held the men but failed to provide legal support, leading to swift executions. Multiple Foreign Ministry sources confirmed the extreme inaction of diplomats. No accountability or inquiry has been announced against the negligent officials."
-   },
-   "bn": {
-    "title": "দুই বাংলাদেশির মৃত্যুদণ্ড: জেদ্দা মিশনের দায়িত্বহীনতা",
-    "summary": "গত সপ্তাহে সৌদি আরবে দুই বাংলাদেশি নাগরিকের মৃত্যুদণ্ড হয় জেদ্দার বাংলাদেশ মিশনের কোনো অর্থবহ হস্তক্ষেপ ছাড়াই। অফিসাররা জানতেন তারা কোন কারাগারে আছে কিন্তু আইনি সহায়তা দিতে ব্যর্থ হয়। পররাষ্ট্র মন্ত্রণালয়ের সূত্ররা কর্মকর্তাদের চরম নিষ্ক্রিয়তা নিশ্চিত করেছে। দায়বদ্ধতার জন্য কোনো তদন্ত ঘোষণা করা হয়নি।"
-   }
-  },
-  {
-   "id": "1fcf90a",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/world/airbnb-bans-hosts-asking-guests-strip-beds-wash-dishes-1579956",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/pexels-shvetsa-11369070.jpg",
-   "published": "2026-10-22T04:20:00.000Z",
-   "added": "2026-10-22T04:32:23.871Z",
-   "origTitle": "Airbnb bans hosts from asking guests to strip beds, wash dishes",
-   "en": {
-    "title": "Airbnb stops hosts from making guests clean up",
-    "summary": "Airbnb is cracking down on hosts who demand guests strip beds, wash dishes, or do heavy cleaning before checkout. From November 20, hosts can only set seven standard house rules and make \"reasonable\" requests. Guests who pay cleaning fees won't have to do a cleaner's job. Hosts can't impose fines if rules are broken."
-   },
-   "bn": {
-    "title": "এয়ারবিএনবি গেস্টদের ঝামেলা পরিষ্কার করতে বলতে দেবে না",
-    "summary": "এয়ারবিএনবি হোস্টদের উপর নিয়ন্ত্রণ আনছে যারা গেস্টদের বেড আনস্ট্রিপ করতে বা থালা ধুতে বলে। নভেম্বর ২০ থেকে হোস্টরা শুধু সাতটি স্ট্যান্ডার্ড নিয়ম রাখতে পারবে এবং যুক্তিসঙ্গত অনুরোধ করতে পারবে। যারা ক্লিনিং ফি দেয় তাদের ক্লিনারের কাজ করতে হবে না। নিয়ম ভাঙলে হোস্টরা জরিমানা দিতে পারবে না।"
    }
   }
  ]
