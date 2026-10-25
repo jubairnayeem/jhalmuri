@@ -1,99 +1,115 @@
 {
- "updatedAt": "2026-10-25T11:16:01.331Z",
+ "updatedAt": "2026-10-25T16:04:25.857Z",
  "burning": [
   {
-   "id": "1xjqp9u",
+   "id": "1jar704",
    "heat": 5,
    "why": {
-    "en": "France protests turn violent nationwide; nearly 1,000 arrested across multiple reports.",
-    "bn": "ফ্রান্সে প্রতিবাদ তীব্র হয়েছে, হাজারেরও বেশি গ্রেপ্তার।"
+    "en": "Dengue surge with 5 deaths in 24 hours and 1,898 hospitalised—urgent health crisis.",
+    "bn": "২৪ ঘণ্টায় ৫ জনের মৃত্যু এবং ১,৮৯৮ জন হাসপাতালে—জরুরি স্বাস্থ্য সংকট।"
    },
    "rank": 1
   },
   {
-   "id": "1jar704",
-   "heat": 4,
+   "id": "1tu9m9t",
+   "heat": 5,
    "why": {
-    "en": "Dengue crisis worsens with 5 deaths and nearly 1,900 hospitalisations.",
-    "bn": "ডেঙ্গি সংকট গভীর হচ্ছে, হাজারের কাছাকাছি হাসপাতালে ভর্তি।"
+    "en": "France violence escalates with nearly 1,000 arrests across multiple outlets covering clashes.",
+    "bn": "ফ্রান্সে সহিংসতা বৃদ্ধি, প্রায় ১,০০০ গ্রেফতার—একাধিক মিডিয়া কভারেজ।"
    },
    "rank": 2
   },
   {
-   "id": "1h3hp7",
-   "heat": 3,
+   "id": "jfefrf",
+   "heat": 4,
    "why": {
-    "en": "Train derailment on Rangpur-Parbatipur route halts services.",
-    "bn": "রংপুর-পারবতীপুর রুটে ট্রেন ট্র্যাক থেকে নামলো।"
+    "en": "Sajek blockade enters fifth day with admin-headmen talks ongoing—local tension rising.",
+    "bn": "সাজেক অবরোধ পঞ্চম দিনে, প্রশাসক-হেডম্যানদের সাথে আলোচনা—স্থানীয় টানাপোড়েন।"
    },
    "rank": 3
   },
   {
-   "id": "wff3ba",
-   "heat": 3,
+   "id": "1cjv4ql",
+   "heat": 4,
    "why": {
-    "en": "No trials in mob violence cases since August 2024; justice system stalled.",
-    "bn": "আগস্ট ২০২৪ থেকে জনতাবিদ্রোহের কোনো মামলা চলছে না।"
+    "en": "Gopalganj police vehicle attacked; 100 charged, 7 arrested—law and order incident.",
+    "bn": "গোপালগঞ্জে পুলিশ গাড়িতে হামলা, ১০০ জন অভিযুক্ত, ৭ জন গ্রেফতার।"
    },
    "rank": 4
   },
   {
-   "id": "1cfv1ps",
-   "heat": 2,
+   "id": "1cc4dfo",
+   "heat": 3,
    "why": {
-    "en": "St Martin's Island tourist season extended with visitor cap raised to 3,500 daily.",
-    "bn": "সেন্ট মার্টিন দ্বীপে পর্যটক সীমা বাড়ানো হলো।"
+    "en": "Gold prices drop 7,173 taka in 4 days—commodity market moving fast.",
+    "bn": "চার দিনে সোনার দাম ৭,১৭৩ টাকা পড়েছে—দ্রুত বাজার পরিবর্তন।"
    },
    "rank": 5
   }
  ],
  "gossip": [
   {
-   "id": "19eaqe",
-   "tag": "#BangladeshCricket",
+   "id": "say9x8",
+   "tag": "#SaudiAirportChaos",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Ashraful steps down as batting coach",
-    "text": "Former Bangladesh captain Mohammad Ashraful has stepped down from his role as batting coach. The move comes amid ongoing changes in the national cricket setup."
+    "title": "Saudi Airport Disruption",
+    "text": "Chaos at Saudi airport as 22,000 passengers stranded and 144 flights disrupted. Major travel disruption affecting thousands."
    },
    "bn": {
-    "title": "অ্যাশরাফুল ব্যাটিং কোচ থেকে সরে গেলেন",
-    "text": "বাংলাদেশের সাবেক ক্যাপ্টেন মোহাম্মাদ অ্যাশরাফুল ব্যাটিং কোচের পদ থেকে ধাপ নিয়েছেন।"
+    "title": "সৌদি বিমানবন্দর বিশৃঙ্খলা",
+    "text": "সৌদি বিমানবন্দরে ২২,০০০ যাত্রী আটকে এবং ১৪৪ ফ্লাইট বাতিল। বিশাল ভ্রমণ সংকট।"
    }
   },
   {
-   "id": "1a04cjh",
-   "tag": "#HSCResults",
+   "id": "15i3xzs",
+   "tag": "#ParisProtests",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 4,
+   "en": {
+    "title": "Bangladeshi Shops Looted",
+    "text": "During France's violent protests, Bangladeshi-owned shops in Paris were looted. Local communities affected by nationwide unrest."
+   },
+   "bn": {
+    "title": "প্যারিসে বাঙালি দোকান লুট",
+    "text": "ফ্রান্সের সহিংস বিক্ষোভে প্যারিসে বাঙালি মালিকানাধীন দোকান লুট হয়েছে। স্থানীয় সম্প্রদায় প্রভাবিত।"
+   }
+  },
+  {
+   "id": "k2svws",
+   "tag": "#StMartinsTourism",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "HSC results coming 29 October",
-    "text": "Bangladesh HSC exam results are set to be released on 29 October. Students across the country are waiting for the announcement."
+    "title": "Saint Martin's Island Reopens",
+    "text": "Tourist season at Saint Martin's Island kicks off from November with extended hours and raised daily visitor cap to 3,500."
    },
    "bn": {
-    "title": "এইচএসসি রেজাল্ট ২৯ অক্টোবরে",
-    "text": "বাংলাদেশে এইচএসসি পরীক্ষার ফলাফল ২৯ অক্টোবরে দিতে যাচ্ছে।"
+    "title": "সেন্ট মার্টিন্স দ্বীপ খোলা",
+    "text": "নভেম্বর থেকে সেন্ট মার্টিন্স দ্বীপে পর্যটন ঋতু শুরু, দৈনিক দর্শক সীমা ৩,৫০০ এ উন্নীত।"
    }
   },
   {
-   "id": "1ut3ark",
-   "tag": "#ClimateEmergency",
+   "id": "2vload",
+   "tag": "#PrabaranaFestival",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "El Niño intensifies drought and heat",
-    "text": "El Niño conditions are worsening, bringing droughts, floods and heat waves across regions. Bangladesh faces climate impacts from the phenomenon."
+    "title": "Prabarana Purnima Celebrated",
+    "text": "Buddhists across Bangladesh mark Prabarana Purnima, joyfully celebrating the end of the monsoon retreat period."
    },
    "bn": {
-    "title": "এল নিনো খরা আর বন্যা বাড়াচ্ছে",
-    "text": "এল নিনো প্রভাব আরো বাড়ছে, খরা এবং বন্যার ঝুঁকি বাড়ছে বাংলাদেশে।"
+    "title": "প্রবারণা পূর্ণিমা উৎসব",
+    "text": "বাংলাদেশ জুড়ে বৌদ্ধরা প্রবারণা পূর্ণিমা পালন করছেন, বর্ষাকালীন অবসরের সমাপ্তি উদযাপন।"
    }
   }
  ],
