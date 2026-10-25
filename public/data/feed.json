@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-10-24T23:07:40.387Z",
+ "updatedAt": "2026-10-25T01:06:27.064Z",
  "items": [
+  {
+   "id": "fpxn11",
+   "section": "hasi",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": true,
+   "src": "The Onion",
+   "srcLang": "en",
+   "url": "https://theonion.com/tips-for-reducing-sodium-intake/",
+   "image": "https://theonion.com/wp-content/uploads/2026/10/EXP_Tips_Reducing_Sodium_Intake_G_PH.jpg",
+   "published": "2026-10-23T15:38:40.000Z",
+   "added": "2026-10-25T01:06:27.064Z",
+   "origTitle": "Tips For Reducing Sodium Intake",
+   "en": {
+    "title": "The Onion's guide to cutting sodium (satirical)",
+    "summary": "The Onion offers tongue-in-cheek tips for Americans looking to reduce their salt intake. Advice ranges from avoiding labels with words like 'flavor' to limiting krill consumption based on whether you're a blue or humpback whale. The satirical piece mocks both health advice and consumer habits with absurdist humor."
+   },
+   "bn": {
+    "title": "লবণ কমানোর টিপস (ব্যঙ্গাত্মক নিবন্ধ)",
+    "summary": "দ্য অনিয়ন ব্যঙ্গাত্মকভাবে আমেরিকানদের জন্য লবণ কমানোর পরামর্শ দিচ্ছে। পরামর্শে রয়েছে 'ফ্লেভার' শব্দযুক্ত লেবেল এড়ানো থেকে শুরু করে নীল তিমি বা গলকাটা তিমি হলে প্রতিদিন কত টন ক্রিল খাওয়া যায় তার হিসাব। অনুচ্ছেদটি স্বাস্থ্য পরামর্শ এবং ভোক্তাদের অভ্যাসের সাথে হাস্যরস করে।"
+   }
+  },
+  {
+   "id": "kp9c",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/religion/fts3ek8ww7",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-24/y5n1xxwd/Capture.PNG",
+   "published": "2026-10-24T23:30:00.000Z",
+   "added": "2026-10-25T01:06:27.064Z",
+   "origTitle": "শুভ প্রবারণা পূর্ণিমা আজ",
+   "en": {
+    "title": "Buddhists celebrate Pavarana Purnima, marking monsoon retreat end",
+    "summary": "Pavarana Purnima, Buddhism's second largest religious festival, is being celebrated today across Bangladesh. The festival marks the end of a three-month monsoon period when monks observe strict vows. Celebrations include Buddha worship, alms-giving, prayer ceremonies, lantern festivals and merit-making rituals at temples like the International Buddhist Monastery in Dhaka."
+   },
+   "bn": {
+    "title": "শুভ প্রবারণা পূর্ণিমা: বৌদ্ধদের বড় উৎসব আজ",
+    "summary": "বৌদ্ধধর্মের দ্বিতীয় বৃহত্তম ধর্মীয় উৎসব শুভ প্রবারণা পূর্ণিমা আজ রোববার পালিত হচ্ছে। তিন মাসের বর্ষাব্রত সম্পন্ন করে ভিক্ষুরা এই পূর্ণিমায় উদ্‌যাপন করেন। বুদ্ধপূজা, সংঘদান, পিণ্ডদান, শীল গ্রহণ, প্রদীপপূজা আর ফানুস ওড়ানোর মতো নানা আচার পালন করা হয়। রাজধানীর আন্তর্জাতিক বৌদ্ধবিহারে সারাদিন বিভিন্ন অনুষ্ঠান থাকবে।"
+   }
+  },
+  {
+   "id": "9bi1sm",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://www.jagonews24.com/national/news/1171595",
+   "image": null,
+   "published": "2026-10-25T00:02:33.000Z",
+   "added": "2026-10-25T01:06:27.064Z",
+   "origTitle": "মিরপুরে পুলিশের বিশেষ অভিযান, গ্রেফতার ৫৮",
+   "en": {
+    "title": "Dhaka police arrest 58 in Mirpur operation",
+    "summary": "Police conducted a special operation in Mirpur, Dhaka and arrested 58 people on various criminal charges. The operation targeted individuals suspected of involvement in different crimes. Details on specific charges were not provided."
+   },
+   "bn": {
+    "title": "মিরপুরে পুলিশের অভিযানে ৫৮ জন গ্রেফতার",
+    "summary": "রাজধানীর মিরপুর এলাকায় পুলিশ একটি বিশেষ অভিযান চালিয়েছে এবং বিভিন্ন অপরাধে জড়িত থাকার অভিযোগে ৫৮ জনকে গ্রেফতার করেছে। এই অভিযান সন্দেহভাজন অপরাধীদের টার্গেট করে পরিচালিত হয়েছে।"
+   }
+  },
+  {
+   "id": "15mc7er",
+   "section": "hasi",
+   "cat": "money",
+   "tone": "light",
+   "satire": false,
+   "src": "UPI Odd News",
+   "srcLang": "en",
+   "url": "https://www.upi.com/Odd_News/2026/10/23/lotto-Michigan-Lottery-birthday-money/2381792776549/",
+   "image": "https://cdnph.upi.com/ph/st/th/2381792776549/2026/upi/8fe2fd97e1ecf543c62bff636f608158/v1.5/Michigan-woman-turns-birthday-money-into-150000-lottery-prize.jpg",
+   "published": "2026-10-23T17:30:25.000Z",
+   "added": "2026-10-25T01:06:27.064Z",
+   "origTitle": "Michigan woman turns birthday money into $150,000 lottery prize",
+   "en": {
+    "title": "Michigan woman wins $150,000 with birthday gift lottery ticket",
+    "summary": "A Michigan woman turned her birthday money into a massive win by playing an online lottery game. She ended up winning a $150,000 prize. Talk about a birthday gift that keeps on giving."
+   },
+   "bn": {
+    "title": "জন্মদিনের টাকা দিয়ে জিতেছেন ১৫০,০০০ ডলার",
+    "summary": "মিশিগানের এক মহিলা জন্মদিনে পাওয়া টাকা দিয়ে অনলাইন লটারি খেলেছেন এবং বড় পুরস্কার জিতেছেন। তিনি ১৫০,০০০ ডলার জিতেছেন। জন্মদিনের উপহার যা সত্যিই মূল্যবান হয়ে উঠল।"
+   }
+  },
+  {
+   "id": "1vilpl1",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "Al Jazeera",
+   "srcLang": "en",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792887750.jpg?resize=1634%2C1080&quality=80",
+   "published": "2026-10-25T00:23:48.000Z",
+   "added": "2026-10-25T01:06:27.064Z",
+   "origTitle": "Violence breaks out across Europe after another day of protests",
+   "en": {
+    "title": "European protests turn violent over cost of living",
+    "summary": "Demonstrations across France, Italy and Spain descended into violence as police clashed with protesters. Officers deployed tear gas and batons while demonstrators set fires and built barricades. The protests were sparked by rising living costs, cuts to public services and increased military spending."
+   },
+   "bn": {
+    "title": "ইউরোপজুড়ে সহিংস প্রতিবাদ, জীবনযাত্রার খরচ নিয়ে",
+    "summary": "ফ্রান্স, ইতালি আর স্পেনে প্রতিবাদকারীদের সাথে পুলিশের সংঘর্ষ হয়েছে। অফিসাররা টিয়ার গ্যাস আর লাঠি ব্যবহার করেছেন, আর প্রতিবাদকারীরা আগুন জালিয়ে ব্যারিকেড তৈরি করেছে। জীবনযাত্রার খরচ বৃদ্ধি, সরকারি সেবা কাটা আর সামরিক খরচ বাড়ানোর বিরুদ্ধে এই প্রতিবাদ।"
+   }
+  },
+  {
+   "id": "f79vn4",
+   "section": "news",
+   "cat": "world",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/foreign/976537/%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87-%E0%A6%97%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD-%E0%A6%93-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A7%E0%A7%A6%E0%A7%A6%E0%A7%A6",
+   "image": null,
+   "published": "2026-10-25T00:03:00.000Z",
+   "added": "2026-10-25T01:06:06.194Z",
+   "origTitle": "ফ্রান্সে গণবিক্ষোভ ও সংঘর্ষের জেরে গ্রেফতার ১০০০, প্যারিস থেকে মার্শেই জুড়ে থমথমে পরিস্থিতি",
+   "en": {
+    "title": "Nearly 1,000 arrested as France protests turn violent",
+    "summary": "Around 1,000 people were arrested in France on Saturday as protests over rising living costs and poor education conditions escalated into violence. Demonstrations that began peacefully in cities from Paris to Marseille turned chaotic, prompting police to use tear gas and water cannons. The protests reflect widespread frustration over economic hardship and deteriorating public services."
+   },
+   "bn": {
+    "title": "ফ্রান্সে বিক্ষোভে ১০০০ জন গ্রেফতার, তীব্র সংঘর্ষ",
+    "summary": "শনিবার ফ্রান্সে জীবনযাত্রার ব্যয় বৃদ্ধি ও শিক্ষা ব্যবস্থার দশা নিয়ে বিক্ষোভে প্রায় এক হাজার মানুষ গ্রেফতার হয়েছে। প্যারিস থেকে মার্সেই জুড়ে শুরু হওয়া শান্তিপূর্ণ বিক্ষোভ শেষে সহিংসতা দেখা দেয়। পুলিশ টিয়ার গ্যাস ও জলকামান ব্যবহার করে পরিস্থিতি নিয়ন্ত্রণ করেছে।"
+   }
+  },
+  {
+   "id": "71r1m0",
+   "section": "news",
+   "cat": "lifestyle",
+   "tone": "light",
+   "satire": false,
+   "src": "প্রথম আলো",
+   "srcLang": "bn",
+   "url": "https://www.prothomalo.com/religion/k0onzvtr4q",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-23/e3pinxyz/07-pabna-pratima.jpg",
+   "published": "2026-10-25T00:00:00.000Z",
+   "added": "2026-10-25T01:06:06.194Z",
+   "origTitle": "আজ লক্ষ্মীপূজা",
+   "en": {
+    "title": "Lakshmi Puja celebrated today across Hindu communities",
+    "summary": "Hindu communities across Bangladesh are celebrating Lakshmi Puja today on Kojagari Purnima, the full moon day after Durga Puja. According to Nobojoug calendar, the purnima tithi begins at 11:27 am on Sunday and ends at 10:18 am Monday. The day honours Lakshmi, the goddess of wealth, prosperity and fortune. Homes will feature rangoli drawings, oil lamps and prayers."
+   },
+   "bn": {
+    "title": "আজ লক্ষ্মীপূজা উদ্যাপন করছে হিন্দু সম্প্রদায়",
+    "summary": "দুর্গাপূজার পর প্রথম পূর্ণিমায় আজ সারাদেশে লক্ষ্মীপূজা হচ্ছে কোজাগরী তিথিতে। নবযুগ ডাইরেক্টরি অনুযায়ী সকাল ১১টা ২৭ মিনিটে তিথি শুরু এবং পরদিন সকাল ১০টা ১৮ মিনিটে শেষ হবে। দেবী লক্ষ্মী ধন, সৌভাগ্য ও সমৃদ্ধির প্রতীক। বাড়িতে আলপনা আঁকা, দীপ জ্বালানো এবং ধর্মীয় আচার-অনুষ্ঠান পালন করা হয়।"
+   }
+  },
+  {
+   "id": "1a61alz",
+   "section": "news",
+   "cat": "desh",
+   "tone": "serious",
+   "satire": false,
+   "src": "জাগো নিউজ",
+   "srcLang": "bn",
+   "url": "https://www.jagonews24.com/country/news/1171596",
+   "image": null,
+   "published": "2026-10-25T00:46:15.000Z",
+   "added": "2026-10-25T01:06:06.194Z",
+   "origTitle": "চলন্ত ইজিবাইক থেকে তরুণীর মোবাইল ছিনতাই",
+   "en": {
+    "title": "Woman's phone snatched from moving EasyBike in Saidpur",
+    "summary": "A young woman's mobile phone was snatched from a moving EasyBike in Saidpur, Nilphamari on Saturday evening. The incident occurred around 6 pm near Islambag Sheru Hotel area in the city."
+   },
+   "bn": {
+    "title": "সৈয়দপুরে চলন্ত ইজিবাইক থেকে মোবাইল ছিনতাই",
+    "summary": "নীলফামারীর সৈয়দপুরে শনিবার সন্ধ্যা ৬টার দিকে একটি চলন্ত ইজিবাইক থেকে এক তরুণীর মোবাইলফোন ছিনতাই হয়েছে। ঘটনাটি শহরের ইসলামবাগ শেরু হোটেল এলাকায় ঘটেছে।"
+   }
+  },
+  {
+   "id": "avnpk7",
+   "section": "news",
+   "cat": "politics",
+   "tone": "serious",
+   "satire": false,
+   "src": "বাংলা ট্রিবিউন",
+   "srcLang": "bn",
+   "url": "https://www.banglatribune.com/foreign/976538/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A1%E0%A7%87%E0%A6%AE%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%9F%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%87",
+   "image": null,
+   "published": "2026-10-25T00:49:00.000Z",
+   "added": "2026-10-25T01:06:06.194Z",
+   "origTitle": "মার্কিন মধ্যবর্তী নির্বাচন: ডেমোক্রেটদের প্রচারে নেমে ট্রাম্পকে তুলোধোনা করলেন ওবামা",
+   "en": {
+    "title": "Obama hits Trump over 'cruelty, corruption' at Ohio rally",
+    "summary": "Former US President Barack Obama campaigned for Democrats in Ohio on Saturday, criticizing President Donald Trump's policies. Obama attacked Trump's handling of the economy and foreign policy, particularly the US-Israel war on Iran, which he called unnecessary. He urged voters to reject the Republican administration after 'two years of chaos and cruelty.' Obama also backed Democratic candidate Amy Acton in Ohio's gubernatorial race."
+   },
+   "bn": {
+    "title": "ওবামা ওহাইওতে ট্রাম্পের বিরুদ্ধে প্রচারণা চালিয়েছেন",
+    "summary": "সাবেক আমেরিকান প্রেসিডেন্ট বারাক ওবামা শনিবার ওহাইওতে ডেমোক্রেটদের সমর্থনে প্রচারণা করেছেন এবং প্রেসিডেন্ট ট্রাম্পের নীতির সমালোচনা করেছেন। তিনি অর্থনীতি ও বিদেশ নীতির হাল নিয়ে তীব্র আক্রমণ করেন, বিশেষ করে ইরানের বিরুদ্ধে যুদ্ধকে অপ্রয়োজনীয় বলে অভিহিত করেন। ওবামা ভোটারদের দুই বছরের বিশৃঙ্খলা, নির্মমতা ও দুর্নীতির পরিবর্তন দাবি করে রিপাবলিকান প্রশাসনকে প্রত্যাখ্যান করতে আহ্বান জানান।"
+   }
+  },
   {
    "id": "bfbcf9",
    "section": "news",
@@ -3167,204 +3365,6 @@
    "bn": {
     "title": "এয়ারবিএনবি গেস্টদের ঝামেলা পরিষ্কার করতে বলতে দেবে না",
     "summary": "এয়ারবিএনবি হোস্টদের উপর নিয়ন্ত্রণ আনছে যারা গেস্টদের বেড আনস্ট্রিপ করতে বা থালা ধুতে বলে। নভেম্বর ২০ থেকে হোস্টরা শুধু সাতটি স্ট্যান্ডার্ড নিয়ম রাখতে পারবে এবং যুক্তিসঙ্গত অনুরোধ করতে পারবে। যারা ক্লিনিং ফি দেয় তাদের ক্লিনারের কাজ করতে হবে না। নিয়ম ভাঙলে হোস্টরা জরিমানা দিতে পারবে না।"
-   }
-  },
-  {
-   "id": "11gvylm",
-   "section": "news",
-   "cat": "world",
-   "tone": "light",
-   "satire": false,
-   "src": "যুগান্তর",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VSzluR01jYWZiTFBFMnFmeDZmazN0Sm8zRnBac1h6RGpyYlVQV0xsSHNsSDktWFlOV0xTdjhiU3U0cDZPYzg2VTZudHRmWFpqVmtadnoxVFdRQQ?oc=5",
-   "image": null,
-   "published": "2026-10-21T13:35:01.000Z",
-   "added": "2026-10-21T23:14:36.813Z",
-   "origTitle": "ডিভি লটারি চালুর আদেশ স্থগিত চেয়ে ট্রাম্প প্রশাসনের আপিল",
-   "en": {
-    "title": "Trump administration appeals to suspend DV lottery order",
-    "summary": "The Trump administration has filed an appeal seeking to suspend an order that would resume the DV (Diversity Visa) lottery program. The move adds another legal layer to immigration policy debates in the US."
-   },
-   "bn": {
-    "title": "ডিভি লটারি চালুর আদেশ স্থগিত চেয়ে ট্রাম্প প্রশাসনের আপিল",
-    "summary": "ট্রাম্প প্রশাসন ডিভি লটারি প্রোগ্রাম পুনরায় চালুর আদেশ স্থগিত করার জন্য আপিল করেছে। এই পদক্ষেপ আমেরিকার ইমিগ্রেশন নীতি বিতর্কে আরও একটি আইনি স্তর যোগ করে।"
-   }
-  },
-  {
-   "id": "arzh6k",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিডিনিউজ২৪",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPOWJ1cjQ0WlFDRVhOTEtvNFdPeENwbTlsTlFwdG1MblM0ZEdveVdiV2NSWE9LYTRlam5nLTBPdXJxajY2aEJId1FIemo4cGF0R0xfVDloMVh3YVR0YjFsMTExRmZBZVF4S29oS2lqUVlBcUxGWU9CbkZHX0tiX2VkbzE4bFljY3paZUxSdjZRcWhpX1c5ay1rYWo3V1p0OHZVbjEtd2RTcXRXZGV2NXVnZzl2SUVRSEhZcVBwTkduc1JrYjI3U0hQMm11RWJYTFdUMFRpR3NrMnd4eGMwRWREcGE4elMxSEk0a2Y1WHBBVHkwSnhwOWxTQm5zNDhkMGFYRnpPazJPeFg1d2h5VzlrZXJLXzlhcW5wSU5rSTJSNFh5dXV5Vzk1VzQwcjQ5V0NDazBrQ2l5VEVHTW1QT1NnOGhnM0d3R2hk?oc=5",
-   "image": null,
-   "published": "2026-10-21T20:39:11.000Z",
-   "added": "2026-10-21T23:14:36.812Z",
-   "origTitle": "২ বাংলাদেশির মৃত্যুদণ্ড",
-   "en": {
-    "title": "Two Bangladeshis sentenced to death",
-    "summary": "Two Bangladeshi nationals have been sentenced to death, though details of the case are not provided in the report. The nature of charges and jurisdiction remain unclear from the limited information available."
-   },
-   "bn": {
-    "title": "দুই বাংলাদেশির মৃত্যুদণ্ড দণ্ড",
-    "summary": "দুইজন বাংলাদেশি নাগরিককে মৃত্যুদণ্ড দেওয়া হয়েছে, তবে মামলার বিবরণ সরবরাহ করা হয়নি। অভিযোগের প্রকৃতি এবং এখতিয়ার সীমিত তথ্য থেকে স্পষ্ট নয়।"
-   }
-  },
-  {
-   "id": "821ffc",
-   "section": "news",
-   "cat": "money",
-   "tone": "light",
-   "satire": false,
-   "src": "কালের কণ্ঠ",
-   "srcLang": "bn",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWowN21MQ0E3OFRrVUNkaXZ2Y0lTUFM0WkxMa05WQmJDVmVfMTl6cFBaNnZXYVJ6Y0w2ZG5Da3QtcGJYckU2MHpwcnEyX3lZSzhiUXZSQmFWaEROM2xkVGpNR0lORXlSQXg1b3VINlhick9oTDFaVU1SbjNrV2JlbzVVWWM?oc=5",
-   "image": null,
-   "published": "2026-10-21T18:00:00.000Z",
-   "added": "2026-10-21T23:14:36.812Z",
-   "origTitle": "ট্রেজারি বিলের সুদহার বেড়ে ৮.৭৪ শতাংশ",
-   "en": {
-    "title": "Treasury bill interest rate jumps to 8.74%",
-    "summary": "The interest rate on treasury bills has risen to 8.74%, reflecting tighter monetary conditions. Higher rates make government borrowing more expensive. This affects savings instruments and overall market interest rates."
-   },
-   "bn": {
-    "title": "ট্রেজারি বিলের সুদহার বেড়ে ৮.৭৪ শতাংশ",
-    "summary": "ট্রেজারি বিলের সুদহার ৮.৭৪ শতাংশে পৌঁছেছে, যা টাইট মানিটারি পরিস্থিতি প্রতিফলিত করে। উচ্চতর হার সরকারের ঋণ নেওয়াকে আরও ব্যয়বহুল করে তোলে। এটি সেভিংস ইন্সট্রুমেন্ট এবং সামগ্রিক বাজার সুদের হার প্রভাবিত করে।"
-   }
-  },
-  {
-   "id": "fi0nrp",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "UNB",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMXN6Z3l2UGJRd2xuOVBOWk1ocl9WaDY5d25FRE5DNDUyVUtuTWNLb3lmYk9hQ1VaMk9mbC02QXJtaHc3bUFIbnctY0J6ODl6SzR4NnJVclVMRWUzOGdMdDh6YjBTb1U1bTJJSUVFWUx1NXZTa1k2T3FMSGxOdllrUXVzZUpnUHVUN00teXAydjRZM3VmWEVMOEVhaGlPYVI4Z0ozb2NBWC14TGllLWc?oc=5",
-   "image": null,
-   "published": "2026-10-21T07:32:09.000Z",
-   "added": "2026-10-21T23:14:36.812Z",
-   "origTitle": "Coastal flood damage in Asia-Pacific may reach $739b by 2100: ADB",
-   "en": {
-    "title": "Asia-Pacific coastal floods may cost $739b by 2100",
-    "summary": "The Asian Development Bank warns that coastal flooding in Asia-Pacific could cause $739 billion in damage by 2100. Rising sea levels and extreme weather pose growing threats to the region. Bangladesh, as a low-lying delta nation, faces particular vulnerability to such disasters."
-   },
-   "bn": {
-    "title": "এশিয়া-প্রশান্ত মহাসাগরীয় উপকূল বন্যায় ৭৩৯ বিলিয়ন ডলার ক্ষতি ২১০০",
-    "summary": "এশীয় উন্নয়ন ব্যাংক সতর্ক করেছে যে ২১০০ সালের মধ্যে এশিয়া-প্রশান্ত মহাসাগরীয় অঞ্চলে উপকূলীয় বন্যায় ৭৩৯ বিলিয়ন ডলার ক্ষতি হতে পারে। সমুদ্রপৃষ্ঠ বৃদ্ধি এবং চরম আবহাওয়া এলাকার জন্য বিপদজনক হয়ে উঠছে। বাংলাদেশ নিচু ব-দ্বীপ হিসাবে এর জন্য বিশেষভাবে ঝুঁকিপূর্ণ।"
-   }
-  },
-  {
-   "id": "16k9drh",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "Dhaka Tribune",
-   "srcLang": "en",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZG1MY2x4anhsOE9XWlVMeW5YWmxXbktncHVtSzIyaXdvWWlpcml3OW5ZZDNFVXpQcHZoM09sc0pEak41ZFE1MXp4OS0tVEZVN0tfY0hPR2tJd0I5V2NHaExYejVjVnZhLTV6emtBUnJVU09tSmYxR0NGN1p3Y3E3UXlYbnRVSmhCdndTc2NWMXFJUWp5aURraTV5bUotdFRlLWRj0gGoAUFVX3lxTFBya3FMaTFlY0tsdHk4WUtMYlhSMGhUVEZZTDMtamt4X3JUVkx5LUlNNER4cDdtSmd2RWRsLXJZLWdHSDd5NmxvMFJuUHpGUjBZUEVMY0lhU2pWUjQyY2NNUzVxNWd0aVNPUkNKZC1FRlJGOTI5aUdNWi1qUGREZHNVOE1ySm5ZWGtUN1BfMEVtNUY5cEdkUGVUMWN3LXY2UGJoTHZ6VWR3Xw?oc=5",
-   "image": null,
-   "published": "2026-10-21T13:56:44.000Z",
-   "added": "2026-10-21T23:14:36.812Z",
-   "origTitle": "Three tourists drown at Himchari beach, two missing",
-   "en": {
-    "title": "Three tourists drown at Himchari beach",
-    "summary": "Three tourists drowned at Himchari beach, and two others are still missing. Rescue operations are underway as authorities search for the missing persons. The incident highlights ongoing water safety concerns at popular beach destinations."
-   },
-   "bn": {
-    "title": "হিমছড়ি সমুদ্র সৈকতে তিন পর্যটক নিমজ্জিত",
-    "summary": "হিমছড়ি সমুদ্র সৈকতে তিনজন পর্যটক ডুবে মারা গেছেন এবং দুজন এখনও নিরুদ্দেশ। উদ্ধার অভিযান চলছে এবং কর্তৃপক্ষ অনুপস্থিত ব্যক্তিদের খোঁজ করছে। এটি জনপ্রিয় সৈকত এলাকায় নিরাপত্তার সমস্যা তুলে ধরে।"
-   }
-  },
-  {
-   "id": "mwydjg",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "ESPNcricinfo",
-   "srcLang": "en",
-   "url": "https://www.cricinfo.com/ci/content/story/1559374.html?ex_cid=OTC-RSS",
-   "image": "http://p.imgci.com/db/PICTURES/CMS/424100/424107.jpg",
-   "published": "2026-10-21T21:14:47.000Z",
-   "added": "2026-10-21T23:14:36.812Z",
-   "origTitle": "'Can't defend that' - Australia's batting deficiencies exposed",
-   "en": {
-    "title": "Australia's batting collapse: 99 all out",
-    "summary": "Australia got bundled out for just 99 runs, exposing serious problems in their batting lineup. Coach Andrew McDonald defended the team's longer-term record despite the poor performance. The low score has raised questions about their batting depth and consistency."
-   },
-   "bn": {
-    "title": "অস্ট্রেলিয়ার ব্যাটিং ধসানো ৯৯ রানে",
-    "summary": "অস্ট্রেলিয়া মাত্র ৯৯ রানে সব আউট হয়ে তাদের ব্যাটিং এ বড় সমস্যা দেখিয়ে দিয়েছে। কোচ অ্যান্ড্রু ম্যাকডোনাল্ড টিমের দীর্ঘমেয়াদী রেকর্ড নিয়ে রক্ষা করলেও এই ঘটনা উদ্বেগের বিষয়। এত কম স্কোর তাদের ব্যাটিং লাইনআপ নিয়ে প্রশ্ন তুলেছে।"
-   }
-  },
-  {
-   "id": "8r8f9a",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/sports/football/rn02mxb8ws",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-21/iqrhz7u1/realmadridc.f.vrbleipzig-uefachampionsleague202627leaguephasemd3.avif",
-   "published": "2026-10-21T21:04:31.000Z",
-   "added": "2026-10-21T23:14:16.380Z",
-   "origTitle": "বড় জয়ে এল ক্লাসিকোর প্রস্তুতি সারল রিয়াল মাদ্রিদ",
-   "en": {
-    "title": "Real Madrid crush Leipzig 4-1, prep for Barcelona classic",
-    "summary": "Real Madrid dominated Leipzig 4-1 at Santiago Bernabéu in the Champions League, scoring all four goals in the first 87 minutes. Bernardo Silva, Arda Güler, Kylian Mbappé and Jude Bellingham scored. This was perfect warm-up before Real faces Barcelona in El Clásico in three days. Real has now won three consecutive Champions League matches."
-   },
-   "bn": {
-    "title": "লাইপজিগকে ৪-১ গোলে হারিয়ে ক্লাসিকোর প্রস্তুতি নিল রিয়াল",
-    "summary": "রিয়াল মাদ্রিদ সান্তিয়াগো বার্নাব্যুতে লাইপজিগকে ৪-১ গোলে হারিয়ে দারুণ জয় পেয়েছে চ্যাম্পিয়নস লিগে। বের্নার্দো সিলভা, গুলের, এমবাপ্পে আর দিওমান্দে গোল করেছেন। এই জয় রিয়ালকে তিন দিন পরে বার্সেলোনার বিপক্ষে এল ক্লাসিকোর জন্য দারুণ প্রস্তুতি দিয়েছে। রিয়াল এখন চ্যাম্পিয়নস লিগে টানা তিন ম্যাচ জিতেছে।"
-   }
-  },
-  {
-   "id": "7phhcp",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "Al Jazeera",
-   "srcLang": "en",
-   "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260924__C9AR2KL__v2__HighRes__FranceCultureLiteratureFestival-1792600154.jpg?resize=1920%2C1440",
-   "published": "2026-10-21T22:16:50.000Z",
-   "added": "2026-10-21T23:14:16.380Z",
-   "origTitle": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
-   "en": {
-    "title": "Canadian publisher drops writer over AI use in novel",
-    "summary": "Canadian publisher Boreal has ended its relationship with Haitian-Canadian author Thelyson Orelien after confirming he used artificial intelligence in writing his novel 'It Was Either That or Die'. Analysis of the manuscript revealed AI tags in the metadata of certain documents. Orelien had previously denied the allegations but refused to provide further information to help prove his innocence."
-   },
-   "bn": {
-    "title": "উপন্যাসে এআই ব্যবহারের কারণে লেখক বাদ দিল প্রকাশক",
-    "summary": "কানাডিয়ান প্রকাশক বোরিয়াল হাইতিয়ান-কানাডিয়ান লেখক থেলিসন ওরেলিয়েনের সাথে সম্পর্ক শেষ করেছে তার উপন্যাসে কৃত্রিম বুদ্ধিমত্তা ব্যবহার করার কারণে। পাণ্ডুলিপি বিশ্লেষণে কিছু ডকুমেন্টের মেটাডেটায় এআই ট্যাগ পাওয়া গেছে। ওরেলিয়েন আগে অভিযোগ অস্বীকার করেছিল কিন্তু নিজেকে সাফাই দিতে কোনো তথ্য দিতে অস্বীকার করেছে।"
-   }
-  },
-  {
-   "id": "18n7r8v",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "বাংলা ট্রিবিউন",
-   "srcLang": "bn",
-   "url": "https://www.banglatribune.com/sport/football/975971/%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%A1%E0%A7%8D%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%89%E0%A7%8E%E0%A6%B8%E0%A6%AC",
-   "image": null,
-   "published": "2026-10-21T22:48:31.000Z",
-   "added": "2026-10-21T23:14:16.380Z",
-   "origTitle": "বায়ার্ন-আর্সেনাল মহারণে ড্র, রিয়ালের গোল উৎসব",
-   "en": {
-    "title": "Arsenal holds Bayern, Real thrash Leipzig in Champions League",
-    "summary": "Arsenal fought back from behind to draw 2-2 against Bayern Munich at their home ground in the UEFA Champions League. Real Madrid had a much easier night, crushing Leipzig 4-1 at Santiago Bernabéu. Bernardo Silva, Arda Güler, Kylian Mbappé and Jude Bellingham scored for Real, with three goals coming in the first half."
-   },
-   "bn": {
-    "title": "বায়ার্নের সাথে ড্র, লাইপজিগকে ৪-১ গোলে হারাল রিয়াল",
-    "summary": "চ্যাম্পিয়নস লিগে আর্সেনাল বায়ার্ন মিউনিখের বিপক্ষে ২-২ ড্র করেছে, পিছিয়ে পড়ার পরও শেষ দিকে সমান করেছে। অন্যদিকে রিয়াল মাদ্রিদ তাদের মাঠে লাইপজিগকে ৪-১ গোলে বড় হারে জয়ে সারল। বের্নার্দো সিলভা, আরদা গুলের, এমবাপ্পে আর দিওমান্দে গোল করেছেন রিয়ালের হয়ে।"
    }
   }
  ]
