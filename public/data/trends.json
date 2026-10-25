@@ -1,48 +1,48 @@
 {
- "updatedAt": "2026-10-25T06:02:47.546Z",
+ "updatedAt": "2026-10-25T11:16:01.331Z",
  "burning": [
   {
-   "id": "1xp1uol",
+   "id": "1xjqp9u",
    "heat": 5,
    "why": {
-    "en": "Multiple outlets covering deadly violence in Nigeria; serious global crisis.",
-    "bn": "নাইজেরিয়ায় হিংসার খবর একাধিক আউটলেটে; গুরুতর বৈশ্বিক সংকট।"
+    "en": "France protests turn violent nationwide; nearly 1,000 arrested across multiple reports.",
+    "bn": "ফ্রান্সে প্রতিবাদ তীব্র হয়েছে, হাজারেরও বেশি গ্রেপ্তার।"
    },
    "rank": 1
-  },
-  {
-   "id": "vh6r8l",
-   "heat": 5,
-   "why": {
-    "en": "France protests dominating global news with police deployment and arrests.",
-    "bn": "ফ্রান্সের প্রতিবাদ বৈশ্বিক সংবাদে আধিপত্য বিস্তার করছে পুলিশ মোতায়েনের সাথে।"
-   },
-   "rank": 2
   },
   {
    "id": "1jar704",
    "heat": 4,
    "why": {
-    "en": "Dengue deaths and hospitalizations rising—immediate local health concern for Bangladeshis.",
-    "bn": "ডেঙ্গু মৃত্যু এবং হাসপাতালে ভর্তি বৃদ্ধি—বাংলাদেশীদের জন্য তাৎক্ষণিক স্বাস্থ্য সংকট।"
+    "en": "Dengue crisis worsens with 5 deaths and nearly 1,900 hospitalisations.",
+    "bn": "ডেঙ্গি সংকট গভীর হচ্ছে, হাজারের কাছাকাছি হাসপাতালে ভর্তি।"
+   },
+   "rank": 2
+  },
+  {
+   "id": "1h3hp7",
+   "heat": 3,
+   "why": {
+    "en": "Train derailment on Rangpur-Parbatipur route halts services.",
+    "bn": "রংপুর-পারবতীপুর রুটে ট্রেন ট্র্যাক থেকে নামলো।"
    },
    "rank": 3
   },
   {
-   "id": "1cc4dfo",
-   "heat": 4,
+   "id": "wff3ba",
+   "heat": 3,
    "why": {
-    "en": "Gold prices falling sharply; direct impact on household savings and investment.",
-    "bn": "সোনার দাম দ্রুত পড়ছে; পরিবারের সঞ্চয় এবং বিনিয়োগে সরাসরি প্রভাব।"
+    "en": "No trials in mob violence cases since August 2024; justice system stalled.",
+    "bn": "আগস্ট ২০২৪ থেকে জনতাবিদ্রোহের কোনো মামলা চলছে না।"
    },
    "rank": 4
   },
   {
-   "id": "19eaqe",
-   "heat": 4,
+   "id": "1cfv1ps",
+   "heat": 2,
    "why": {
-    "en": "Ashraful's coaching exit trending on Google Trends BD; major cricket news.",
-    "bn": "আশরাফুলের কোচিং থেকে বেরিয়ে যাওয়া গুগল ট্রেন্ডস বিডিতে ট্রেন্ডিং; বড় ক্রিকেট খবর।"
+    "en": "St Martin's Island tourist season extended with visitor cap raised to 3,500 daily.",
+    "bn": "সেন্ট মার্টিন দ্বীপে পর্যটক সীমা বাড়ানো হলো।"
    },
    "rank": 5
   }
@@ -50,50 +50,50 @@
  "gossip": [
   {
    "id": "19eaqe",
-   "tag": "#AshrafulOut",
-   "platforms": [
-    "Google"
-   ],
-   "heat": 5,
-   "en": {
-    "title": "Bangladesh batting coach Ashraful steps down",
-    "text": "Ashraful has left his role as Bangladesh's batting coach. The move is trending across search as fans react to the sudden coaching change."
-   },
-   "bn": {
-    "title": "বাংলাদেশের ব্যাটিং কোচ আশরাফুল পদত্যাগ করেছেন",
-    "text": "আশরাফুল বাংলাদেশের ব্যাটিং কোচের পদ ছেড়েছেন। ফ্যানরা এই আকস্মিক কোচিং পরিবর্তনে সাড়া দিচ্ছেন।"
-   }
-  },
-  {
-   "id": "1ah7iqt",
-   "tag": "#OilSurge",
+   "tag": "#BangladeshCricket",
    "platforms": [
     "Google"
    ],
    "heat": 4,
    "en": {
-    "title": "Oil prices hit six-month peak",
-    "text": "Crude prices have jumped to their highest level in six months amid escalating Middle East tensions. Petrol and transport costs could rise."
+    "title": "Ashraful steps down as batting coach",
+    "text": "Former Bangladesh captain Mohammad Ashraful has stepped down from his role as batting coach. The move comes amid ongoing changes in the national cricket setup."
    },
    "bn": {
-    "title": "তেলের দাম ছয় মাসের সর্বোচ্চে",
-    "text": "মধ্যপ্রাচ্যের টানাপড়েনের কারণে কাঁচা তেলের দাম ছয় মাসের সর্বোচ্চে পৌঁছেছে। পেট্রোল এবং পরিবহন খরচ বাড়তে পারে।"
+    "title": "অ্যাশরাফুল ব্যাটিং কোচ থেকে সরে গেলেন",
+    "text": "বাংলাদেশের সাবেক ক্যাপ্টেন মোহাম্মাদ অ্যাশরাফুল ব্যাটিং কোচের পদ থেকে ধাপ নিয়েছেন।"
    }
   },
   {
-   "id": "1ut3ark",
-   "tag": "#ElNino",
+   "id": "1a04cjh",
+   "tag": "#HSCResults",
    "platforms": [
     "Google"
    ],
    "heat": 3,
    "en": {
-    "title": "El Niño intensifying globally",
-    "text": "El Niño weather pattern is worsening, bringing droughts, floods and heat waves worldwide. Bangladesh could face climate impacts soon."
+    "title": "HSC results coming 29 October",
+    "text": "Bangladesh HSC exam results are set to be released on 29 October. Students across the country are waiting for the announcement."
    },
    "bn": {
-    "title": "এল নিনো বৈশ্বিকভাবে তীব্র হচ্ছে",
-    "text": "এল নিনো আবহাওয়া পরিস্থিতি খারাপ হচ্ছে, বিশ্বব্যাপী খরা, বন্যা এবং তাপপ্রবাহ নিয়ে আসছে। বাংলাদেশ শীঘ্রই জলবায়ু প্রভাব মুখোমুখি হতে পারে।"
+    "title": "এইচএসসি রেজাল্ট ২৯ অক্টোবরে",
+    "text": "বাংলাদেশে এইচএসসি পরীক্ষার ফলাফল ২৯ অক্টোবরে দিতে যাচ্ছে।"
+   }
+  },
+  {
+   "id": "1ut3ark",
+   "tag": "#ClimateEmergency",
+   "platforms": [
+    "Google"
+   ],
+   "heat": 3,
+   "en": {
+    "title": "El Niño intensifies drought and heat",
+    "text": "El Niño conditions are worsening, bringing droughts, floods and heat waves across regions. Bangladesh faces climate impacts from the phenomenon."
+   },
+   "bn": {
+    "title": "এল নিনো খরা আর বন্যা বাড়াচ্ছে",
+    "text": "এল নিনো প্রভাব আরো বাড়ছে, খরা এবং বন্যার ঝুঁকি বাড়ছে বাংলাদেশে।"
    }
   }
  ],
