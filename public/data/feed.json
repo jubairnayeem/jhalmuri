@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T06:02:06.251Z",
+ "updatedAt": "2026-10-26T12:48:58.517Z",
  "items": [
   {
    "id": "3pjfic",
@@ -2551,116 +2551,6 @@
    "bn": {
     "title": "প্রকৌশল ডিগ্রি ছাড়াই তরুণ তৈরি করলেন উড়ন্ত গাড়ি",
     "summary": "উত্তরাখণ্ডের আলমোড়ার রবি তামতা ১৩ বছর ধরে অনলাইনে শিখে এবং হাতে-কলমে পরীক্ষা করে একটি ইলেকট্রিক উড়ন্ত গাড়ির প্রোটোটাইপ বানিয়েছেন। তার একক আসনের যানবাহন হাপিডা স্কাইনেক্স আগস্টে টেস্ট ফ্লাইট সম্পন্ন করেছে। এটি দেখায় যে শ্রেণিকক্ষের বাইরে নিজে শেখা কত শক্তিশালী হতে পারে।"
-   }
-  },
-  {
-   "id": "19ibdsv",
-   "section": "news",
-   "cat": "tech",
-   "tone": "serious",
-   "satire": false,
-   "src": "প্রথম আলো",
-   "srcLang": "bn",
-   "url": "https://www.prothomalo.com/bangladesh/mwzql7dtpx",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-23/ofdhj7bh/Untitled-6.jpg",
-   "published": "2026-10-23T09:41:24.000Z",
-   "added": "2026-10-23T09:58:07.628Z",
-   "origTitle": "বাংলাদেশ ব্যাংকের পর এবার ১২ ঘণ্টা বন্ধ ডিজিটাল ভূমিসেবার সার্ভার",
-   "en": {
-    "title": "Land ministry shuts digital services for 36 hours to fix PHP security bugs",
-    "summary": "Bangladesh's land ministry is taking land.gov.bd offline from Thursday midnight to Saturday noon to patch serious security flaws in PHP, the programming language running the site. The security alert came from government cyber body BGD e-Gov CERT on October 22. Citizens won't be able to access land records, mutations, tax payments, or inheritance calculators during maintenance. The ministry asked people to stop making payments after 11:45pm Thursday."
-   },
-   "bn": {
-    "title": "নিরাপত্তা ত্রুটি সারাতে ৩৬ ঘণ্টা বন্ধ ডিজিটাল ভূমিসেবা",
-    "summary": "বৃহস্পতিবার রাত ১২টা থেকে শনিবার দুপুর ১২টা পর্যন্ত ভূমি মন্ত্রণালয় land.gov.bd সার্ভার বন্ধ রাখবে। পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ায় এই পদক্ষেপ নেওয়া হচ্ছে। এই সময় নামজারি, মিউটেশন, ভূমি কর পরিশোধ ও রেকর্ড সংগ্রহের কোনো সেবা পাওয়া যাবে না। সরকারের সাইবার নিরাপত্তা সংস্থা BGD e-Gov CERT অক্টোবর ২২ তারিখে এই সতর্কবার্তা জারি করেছে।"
-   }
-  },
-  {
-   "id": "9ku257",
-   "section": "news",
-   "cat": "khela",
-   "tone": "light",
-   "satire": false,
-   "src": "Prothom Alo English",
-   "srcLang": "en",
-   "url": "https://en.prothomalo.com/sports/cricket/nlvvbcxd4w",
-   "image": "https://media.prothomalo.com/prothomalo-english/2026-10-23/e67j81oi/prothomalo-bangla2026-08-27unulfpxeAfter-Win-against-1st-test-against-Australia-in-Darwin12.avif",
-   "published": "2026-10-23T09:38:37.000Z",
-   "added": "2026-10-23T09:57:59.029Z",
-   "origTitle": "Bangladesh vs West Indies: Who's in and who's out of the first Test squad?",
-   "en": {
-    "title": "Bangladesh Test squad announced for West Indies series",
-    "summary": "Bangladesh named their squad for the first Test against West Indies starting October 28 in Mirpur. Fast bowler Nahid Rana again misses out due to a hip injury sustained in July. Taskin Ahmed, rested for the Afghanistan Test, returns to lead the pace attack alongside Hasan Mahmud, Shoriful Islam, and Ebadot Hossain. The second Test begins November 5 in Sylhet."
-   },
-   "bn": {
-    "title": "ওয়েস্ট ইন্ডিজ সিরিজের জন্য বাংলাদেশ স্কোয়াড ঘোষণা",
-    "summary": "বাংলাদেশ ২৮ অক্টোবর মিরপুরে শুরু হওয়া ওয়েস্ট ইন্ডিজের বিপরীতে প্রথম টেস্টের স্কোয়াড ঘোষণা করেছে। দ্রুত গতির বোলার নাহিদ রানা জুলায় আঘাত পাওয়া হিপ সমস্যার কারণে আবার বাদ পড়েছে। আফগানিস্তান টেস্টে বিশ্রাম নেওয়া তাসকিন আহমেদ ফিরে এসেছে এবং হাসান মাহমুদ, শোরিফুল ইসলাম ও ইবাদত হোসেইনের সাথে দ্রুতগতি আক্রমণ নেতৃত্ব দেবে। দ্বিতীয় টেস্ট ৫ নভেম্বর সিলেটে শুরু হবে।"
-   }
-  },
-  {
-   "id": "1lm26au",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "BBC News",
-   "srcLang": "en",
-   "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-23T09:36:43.000Z",
-   "added": "2026-10-23T09:57:59.029Z",
-   "origTitle": "Ukraine says Starlink still restricted after Trump says limits lifted",
-   "en": {
-    "title": "Ukraine says Starlink restrictions still active after Trump claim",
-    "summary": "Ukraine's defence ministry disputes Donald Trump's claim that Elon Musk has lifted Starlink connectivity limits. Ukrainian military sources report drones still lose connection at speeds over 161 km/h, hampering operations. Trump said Musk \"put it back,\" but the Pentagon and White House deny deliberately restricting the service, leaving unclear who controls the slowdown."
-   },
-   "bn": {
-    "title": "ট্রাম্পের দাবি সত্ত্বেও স্টারলিংক সীমাবদ্ধতা অব্যাহত রয়েছে",
-    "summary": "ইলন মাস্ক যে স্টারলিংক সংযোগ সীমাবদ্ধতা তুলে দিয়েছেন এই দাবিতে ইউক্রেইনের প্রতিরক্ষা মন্ত্রণালয় আপত্তি জানিয়েছে। ইউক্রেইনীয় সামরিক সূত্র বলছে ড্রোনগুলি ঘণ্টায় ১৬১ কিলোমিটারের বেশি গতিতে সংযোগ হারাচ্ছে। ট্রাম্প বলেছেন মাস্ক 'এটা ফিরিয়ে দিয়েছে', কিন্তু পেন্টাগন ও হোয়াইট হাউস ইচ্ছাকৃত সীমাবদ্ধতার দায় অস্বীকার করছে।"
-   }
-  },
-  {
-   "id": "1netvux",
-   "section": "news",
-   "cat": "desh",
-   "tone": "serious",
-   "satire": false,
-   "src": "বিবিসি বাংলা",
-   "srcLang": "bn",
-   "url": "https://www.bbc.com/bengali/articles/cw1m43y8mex4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0dc2/live/41a84f90-ce24-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-23T09:41:13.000Z",
-   "added": "2026-10-23T09:57:59.029Z",
-   "origTitle": "কক্সবাজারে ঘুরতে গিয়ে মৃত্যুঝুঁকির কথা কেন আসছে?",
-   "en": {
-    "title": "Cox's Bazar fire and drowning deaths spark safety concerns",
-    "summary": "At least 14 tourists died in Cox's Bazar over the past week from drowning and a resort fire. Ten people, including women and children, died in a fire at Tupto Resort near Marine Drive. Visitors and locals now question safety standards across transport, accommodation, food service, and beach rides. They cite lack of fire stations—none exist from Dolphin Point to Patuartек—and weak monitoring as key gaps."
-   },
-   "bn": {
-    "title": "কক্সবাজারে অগ্নিকাণ্ড ও ডুবে মৃত্যুতে নিরাপত্তা প্রশ্ন",
-    "summary": "গত এক সপ্তাহে কক্সবাজারে অগ্নিকাণ্ড ও পানিতে ডুবে কমপক্ষে ১৪ জন পর্যটক মারা গেছেন। মেরিন ড্রাইভের পাশে টুপটুপ রিসোর্টের আগুনে দশজন, যার মধ্যে নারী ও শিশু ছিল, মৃত্যুবরণ করেছে। পর্যটক ও স্থানীয়রা যাতায়াত, থাকা, খাবার ও সৈকত রাইডে নিরাপত্তার অভাব নিয়ে প্রশ্ন তুলছেন। ডলফিন মোড় থেকে পাটুয়ারটেক পর্যন্ত কোনো ফায়ার স্টেশন নেই।"
-   }
-  },
-  {
-   "id": "kh8wqm",
-   "section": "news",
-   "cat": "world",
-   "tone": "serious",
-   "satire": false,
-   "src": "The Business Standard",
-   "srcLang": "en",
-   "url": "https://www.tbsnews.net/foreign-policy/bangladesh-condemns-houthi-attacks-saudi-arabia-injured-two-nationals-1580931",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/1.jpg",
-   "published": "2026-10-23T09:50:00.000Z",
-   "added": "2026-10-23T09:57:59.028Z",
-   "origTitle": "Bangladesh condemns Houthi attacks in Saudi Arabia that injured two nationals",
-   "en": {
-    "title": "Bangladesh condemns Houthi attacks on Saudi Arabia",
-    "summary": "Bangladesh strongly condemned Houthi attacks on Saudi Arabia, including an assault on Dammam airport on October 21 that killed two people and injured eight others. Two Bangladeshi nationals, Sajal Chandra Das and Mohammad Abdur Rahim, were injured in the attack but are now stable at Saudi German Hospital. The Foreign Ministry called for an immediate end to attacks and a diplomatic resolution to the Yemen conflict."
-   },
-   "bn": {
-    "title": "সৌদি আরবে হুথি হামলায় বাংলাদেশের নিন্দা",
-    "summary": "বাংলাদেশ সৌদি আরবে হুথি হামলার তীব্র নিন্দা করেছে, যেখানে ২১ অক্টোবর দাম্মামের কিং ফাহদ আন্তর্জাতিক বিমানবন্দরে আক্রমণে দুইজন নিহত ও আটজন আহত হয়েছে। দুজন বাংলাদেশি নাগরিক সাজাল চন্দ্র দাস এবং মোহাম্মদ আবদুর রহিম আহত হয়েছেন কিন্তু এখন সৌদি জার্মান হাসপাতালে স্থিতিশীল অবস্থায় আছেন। বৈদেশিক মন্ত্রণালয় সকল হামলার তৎক্ষণাৎ বন্ধ এবং কূটনৈতিক সমাধান দাবি করেছে।"
    }
   }
  ]
