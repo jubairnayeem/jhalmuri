@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T04:52:45.385Z",
+ "updatedAt": "2026-10-28T01:12:44.018Z",
  "english": {
   "source": "Apple Music · most played (US)",
   "items": [
@@ -21,18 +21,18 @@
    },
    {
     "rank": 3,
-    "title": "Lies (feat. Lana Del Rey)",
-    "artist": "Zach Bryan & Lana Del Rey",
-    "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
-    "key": "lies (feat. lana del rey)|zach bryan & lana del rey",
-    "prev": 4
-   },
-   {
-    "rank": 4,
     "title": "BbY WOW",
     "artist": "KAROL G, Judeline & rusowsky",
     "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
     "key": "bby wow|karol g, judeline & rusowsky",
+    "prev": 4
+   },
+   {
+    "rank": 4,
+    "title": "Lies (feat. Lana Del Rey)",
+    "artist": "Zach Bryan & Lana Del Rey",
+    "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
+    "key": "lies (feat. lana del rey)|zach bryan & lana del rey",
     "prev": 3
    },
    {
@@ -77,10 +77,10 @@
    },
    {
     "rank": 10,
-    "title": "Last Thing You Need",
-    "artist": "Morgan Wallen",
-    "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
-    "key": "last thing you need|morgan wallen",
+    "title": "In A Minute",
+    "artist": "Lil Baby",
+    "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
+    "key": "in a minute|lil baby",
     "prev": null
    }
   ]
