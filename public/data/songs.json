@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T01:12:44.018Z",
+ "updatedAt": "2026-10-29T00:48:49.349Z",
  "english": {
   "source": "Apple Music · most played (US)",
   "items": [
@@ -25,7 +25,7 @@
     "artist": "KAROL G, Judeline & rusowsky",
     "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
     "key": "bby wow|karol g, judeline & rusowsky",
-    "prev": 4
+    "prev": 3
    },
    {
     "rank": 4,
@@ -33,7 +33,7 @@
     "artist": "Zach Bryan & Lana Del Rey",
     "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
     "key": "lies (feat. lana del rey)|zach bryan & lana del rey",
-    "prev": 3
+    "prev": 4
    },
    {
     "rank": 5,
@@ -81,7 +81,7 @@
     "artist": "Lil Baby",
     "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
     "key": "in a minute|lil baby",
-    "prev": null
+    "prev": 10
    }
   ]
  },
