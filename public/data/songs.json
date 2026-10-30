@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T00:48:49.349Z",
+ "updatedAt": "2026-10-30T00:50:21.430Z",
  "english": {
   "source": "Apple Music · most played (US)",
   "items": [
@@ -69,19 +69,19 @@
    },
    {
     "rank": 9,
+    "title": "Thriller 7\" (Special Edit)",
+    "artist": "Michael Jackson",
+    "url": "https://music.apple.com/us/album/thriller-7-special-edit/1641780996?i=1641781867",
+    "key": "thriller 7\" (special edit)|michael jackson",
+    "prev": null
+   },
+   {
+    "rank": 10,
     "title": "Quebec",
     "artist": "Drake",
     "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
     "key": "quebec|drake",
     "prev": 9
-   },
-   {
-    "rank": 10,
-    "title": "In A Minute",
-    "artist": "Lil Baby",
-    "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
-    "key": "in a minute|lil baby",
-    "prev": 10
    }
   ]
  },
