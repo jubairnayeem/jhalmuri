@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T00:50:21.430Z",
+ "updatedAt": "2026-10-30T23:39:08.898Z",
  "english": {
   "source": "Apple Music · most played (US)",
   "items": [
@@ -13,6 +13,14 @@
    },
    {
     "rank": 2,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "url": "https://music.apple.com/us/album/thriller/269572838?i=269573303",
+    "key": "thriller|michael jackson",
+    "prev": null
+   },
+   {
+    "rank": 3,
     "title": "Choosin' Texas",
     "artist": "Ella Langley",
     "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
@@ -20,7 +28,7 @@
     "prev": 2
    },
    {
-    "rank": 3,
+    "rank": 4,
     "title": "BbY WOW",
     "artist": "KAROL G, Judeline & rusowsky",
     "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
@@ -28,7 +36,7 @@
     "prev": 3
    },
    {
-    "rank": 4,
+    "rank": 5,
     "title": "Lies (feat. Lana Del Rey)",
     "artist": "Zach Bryan & Lana Del Rey",
     "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
@@ -36,7 +44,7 @@
     "prev": 4
    },
    {
-    "rank": 5,
+    "rank": 6,
     "title": "Solar Eclipse",
     "artist": "Drake & Don Toliver",
     "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
@@ -44,20 +52,12 @@
     "prev": 5
    },
    {
-    "rank": 6,
+    "rank": 7,
     "title": "Been By Now",
     "artist": "Morgan Wallen",
     "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
     "key": "been by now|morgan wallen",
     "prev": 6
-   },
-   {
-    "rank": 7,
-    "title": "Nicole Kidman",
-    "artist": "ADÉLA",
-    "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825",
-    "key": "nicole kidman|adéla",
-    "prev": 7
    },
    {
     "rank": 8,
@@ -69,19 +69,19 @@
    },
    {
     "rank": 9,
-    "title": "Thriller 7\" (Special Edit)",
-    "artist": "Michael Jackson",
-    "url": "https://music.apple.com/us/album/thriller-7-special-edit/1641780996?i=1641781867",
-    "key": "thriller 7\" (special edit)|michael jackson",
-    "prev": null
+    "title": "Nicole Kidman",
+    "artist": "ADÉLA",
+    "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825",
+    "key": "nicole kidman|adéla",
+    "prev": 7
    },
    {
     "rank": 10,
-    "title": "Quebec",
-    "artist": "Drake",
-    "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
-    "key": "quebec|drake",
-    "prev": 9
+    "title": "This Is Halloween",
+    "artist": "The Citizens of Halloween",
+    "url": "https://music.apple.com/us/album/this-is-halloween/1440662430?i=1440662595",
+    "key": "this is halloween|the citizens of halloween",
+    "prev": null
    }
   ]
  },
