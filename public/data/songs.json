@@ -1,8 +1,89 @@
 {
- "updatedAt": "2026-11-01T19:33:03.434Z",
+ "updatedAt": "2026-11-02T15:37:08.215Z",
  "english": {
   "source": "Apple Music · most played (US)",
-  "items": []
+  "items": [
+   {
+    "rank": 1,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "url": "https://music.apple.com/us/album/thriller/269572838?i=269573303",
+    "key": "thriller|michael jackson",
+    "prev": null
+   },
+   {
+    "rank": 2,
+    "title": "This Is Halloween",
+    "artist": "The Citizens of Halloween",
+    "url": "https://music.apple.com/us/album/this-is-halloween/1440662430?i=1440662595",
+    "key": "this is halloween|the citizens of halloween",
+    "prev": null
+   },
+   {
+    "rank": 3,
+    "title": "Monster Mash",
+    "artist": "Bobby \"Boris\" Pickett",
+    "url": "https://music.apple.com/us/album/monster-mash/82125264?i=82125202",
+    "key": "monster mash|bobby \"boris\" pickett",
+    "prev": null
+   },
+   {
+    "rank": 4,
+    "title": "Ghostbusters",
+    "artist": "Ray Parker Jr.",
+    "url": "https://music.apple.com/us/album/ghostbusters/1484413132?i=1484413134",
+    "key": "ghostbusters|ray parker jr.",
+    "prev": null
+   },
+   {
+    "rank": 5,
+    "title": "BbY WOW",
+    "artist": "KAROL G, Judeline & rusowsky",
+    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+    "key": "bby wow|karol g, judeline & rusowsky",
+    "prev": null
+   },
+   {
+    "rank": 6,
+    "title": "Housewife",
+    "artist": "Tate McRae",
+    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+    "key": "housewife|tate mcrae",
+    "prev": null
+   },
+   {
+    "rank": 7,
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+    "key": "choosin' texas|ella langley",
+    "prev": null
+   },
+   {
+    "rank": 8,
+    "title": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
+    "artist": "Andrew Gold",
+    "url": "https://music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500",
+    "key": "spooky, scary skeletons (undead tombstone remix)|andrew gold",
+    "prev": null
+   },
+   {
+    "rank": 9,
+    "title": "Solar Eclipse",
+    "artist": "Drake & Don Toliver",
+    "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+    "key": "solar eclipse|drake & don toliver",
+    "prev": null
+   },
+   {
+    "rank": 10,
+    "title": "Janice STFU",
+    "artist": "Drake",
+    "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+    "key": "janice stfu|drake",
+    "prev": null
+   }
+  ]
  },
  "bangla": {
   "source": null,
