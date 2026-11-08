@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T16:20:09.817Z",
+ "updatedAt": "2026-11-08T15:01:57.461Z",
  "english": {
   "source": "Apple Music · most played (US)",
   "items": [
@@ -9,39 +9,39 @@
     "artist": "Lil Baby",
     "url": "https://music.apple.com/us/album/mr-do-something/6823820064?i=6823820066",
     "key": "mr. do something|lil baby",
-    "prev": null
+    "prev": 1
    },
    {
     "rank": 2,
-    "title": "Top Uh It",
-    "artist": "Lil Baby",
-    "url": "https://music.apple.com/us/album/top-uh-it/6823820064?i=6823820065",
-    "key": "top uh it|lil baby",
-    "prev": null
-   },
-   {
-    "rank": 3,
     "title": "Choosin' Texas",
     "artist": "Ella Langley",
     "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
     "key": "choosin' texas|ella langley",
-    "prev": 1
+    "prev": 3
    },
    {
-    "rank": 4,
+    "rank": 3,
     "title": "Dead Fresh",
     "artist": "Lil Baby",
     "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133",
     "key": "dead fresh|lil baby",
-    "prev": 8
+    "prev": 4
+   },
+   {
+    "rank": 4,
+    "title": "Top Uh It",
+    "artist": "Lil Baby",
+    "url": "https://music.apple.com/us/album/top-uh-it/6823820064?i=6823820065",
+    "key": "top uh it|lil baby",
+    "prev": 2
    },
    {
     "rank": 5,
-    "title": "Burnt Shit",
-    "artist": "Lil Baby",
-    "url": "https://music.apple.com/us/album/burnt-shit/6823820064?i=6823820067",
-    "key": "burnt shit|lil baby",
-    "prev": null
+    "title": "BbY WOW",
+    "artist": "KAROL G, Judeline & rusowsky",
+    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+    "key": "bby wow|karol g, judeline & rusowsky",
+    "prev": 7
    },
    {
     "rank": 6,
@@ -49,38 +49,38 @@
     "artist": "Lil Baby, Young Thug & Rylo Rodriguez",
     "url": "https://music.apple.com/us/album/all-my-partnas-feat-future/6823820064?i=6823820072",
     "key": "all my partnas (feat. future)|lil baby, young thug & rylo rodriguez",
-    "prev": null
+    "prev": 6
    },
    {
     "rank": 7,
-    "title": "BbY WOW",
-    "artist": "KAROL G, Judeline & rusowsky",
-    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
-    "key": "bby wow|karol g, judeline & rusowsky",
-    "prev": 2
+    "title": "Burnt Shit",
+    "artist": "Lil Baby",
+    "url": "https://music.apple.com/us/album/burnt-shit/6823820064?i=6823820067",
+    "key": "burnt shit|lil baby",
+    "prev": 5
    },
    {
     "rank": 8,
-    "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
-    "artist": "Future",
-    "url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154",
-    "key": "ya hit (feat. drake, travis scott & loe shimmy)|future",
+    "title": "Janice STFU",
+    "artist": "Drake",
+    "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+    "key": "janice stfu|drake",
     "prev": null
    },
    {
     "rank": 9,
-    "title": "Ain’t Goin",
-    "artist": "Lil Baby",
-    "url": "https://music.apple.com/us/album/aint-goin/6823820064?i=6823820069",
-    "key": "ain’t goin|lil baby",
-    "prev": null
+    "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+    "artist": "Future",
+    "url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154",
+    "key": "ya hit (feat. drake, travis scott & loe shimmy)|future",
+    "prev": 8
    },
    {
     "rank": 10,
-    "title": "Be The One",
-    "artist": "Lil Baby",
-    "url": "https://music.apple.com/us/album/be-the-one/6823820064?i=6823820068",
-    "key": "be the one|lil baby",
+    "title": "Housewife",
+    "artist": "Tate McRae",
+    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+    "key": "housewife|tate mcrae",
     "prev": null
    }
   ]
