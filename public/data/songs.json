@@ -1,8 +1,89 @@
 {
- "updatedAt": "2026-11-14T16:59:29.974Z",
+ "updatedAt": "2026-11-15T16:59:40.342Z",
  "english": {
   "source": "Apple Music · most played (US)",
-  "items": []
+  "items": [
+   {
+    "rank": 1,
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+    "key": "choosin' texas|ella langley",
+    "prev": null
+   },
+   {
+    "rank": 2,
+    "title": "BbY WOW",
+    "artist": "KAROL G, Judeline & rusowsky",
+    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+    "key": "bby wow|karol g, judeline & rusowsky",
+    "prev": null
+   },
+   {
+    "rank": 3,
+    "title": "Housewife",
+    "artist": "Tate McRae",
+    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+    "key": "housewife|tate mcrae",
+    "prev": null
+   },
+   {
+    "rank": 4,
+    "title": "Janice STFU",
+    "artist": "Drake",
+    "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+    "key": "janice stfu|drake",
+    "prev": null
+   },
+   {
+    "rank": 5,
+    "title": "Dead Fresh",
+    "artist": "Lil Baby",
+    "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133",
+    "key": "dead fresh|lil baby",
+    "prev": null
+   },
+   {
+    "rank": 6,
+    "title": "Been By Now",
+    "artist": "Morgan Wallen",
+    "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+    "key": "been by now|morgan wallen",
+    "prev": null
+   },
+   {
+    "rank": 7,
+    "title": "Solar Eclipse",
+    "artist": "Drake & Don Toliver",
+    "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+    "key": "solar eclipse|drake & don toliver",
+    "prev": null
+   },
+   {
+    "rank": 8,
+    "title": "In A Minute",
+    "artist": "Lil Baby",
+    "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
+    "key": "in a minute|lil baby",
+    "prev": null
+   },
+   {
+    "rank": 9,
+    "title": "Freestyle",
+    "artist": "Lil Baby",
+    "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
+    "key": "freestyle|lil baby",
+    "prev": null
+   },
+   {
+    "rank": 10,
+    "title": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
+    "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
+    "key": "all i want for christmas is you|mariah carey",
+    "prev": null
+   }
+  ]
  },
  "bangla": {
   "source": null,
