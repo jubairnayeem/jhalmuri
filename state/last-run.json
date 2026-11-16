@@ -1,6 +1,6 @@
 {
- "at": "2026-11-16T01:54:38.911Z",
- "collected": 590,
+ "at": "2026-11-16T09:29:31.353Z",
+ "collected": 2044,
  "picked": 14,
  "batchesOk": 0,
  "error": "Claude API 400: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
