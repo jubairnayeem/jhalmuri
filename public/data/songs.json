@@ -1,8 +1,89 @@
 {
- "updatedAt": "2026-11-25T22:25:55.473Z",
+ "updatedAt": "2026-11-26T23:45:08.829Z",
  "english": {
   "source": "Apple Music · most played (US)",
-  "items": []
+  "items": [
+   {
+    "rank": 1,
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+    "key": "choosin' texas|ella langley",
+    "prev": null
+   },
+   {
+    "rank": 2,
+    "title": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
+    "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
+    "key": "all i want for christmas is you|mariah carey",
+    "prev": null
+   },
+   {
+    "rank": 3,
+    "title": "Last Thing You Need",
+    "artist": "Morgan Wallen",
+    "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+    "key": "last thing you need|morgan wallen",
+    "prev": null
+   },
+   {
+    "rank": 4,
+    "title": "Underneath the Tree",
+    "artist": "Kelly Clarkson",
+    "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445",
+    "key": "underneath the tree|kelly clarkson",
+    "prev": null
+   },
+   {
+    "rank": 5,
+    "title": "Jingle Bell Rock",
+    "artist": "Bobby Helms",
+    "url": "https://music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132",
+    "key": "jingle bell rock|bobby helms",
+    "prev": null
+   },
+   {
+    "rank": 6,
+    "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+    "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+    "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968",
+    "key": "flower in a hurricane [from gtavi: original score]|justice, tame impala, sza & king gizzard & the lizard wizard",
+    "prev": null
+   },
+   {
+    "rank": 7,
+    "title": "BbY WOW",
+    "artist": "KAROL G, Judeline & rusowsky",
+    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+    "key": "bby wow|karol g, judeline & rusowsky",
+    "prev": null
+   },
+   {
+    "rank": 8,
+    "title": "Been By Now",
+    "artist": "Morgan Wallen",
+    "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+    "key": "been by now|morgan wallen",
+    "prev": null
+   },
+   {
+    "rank": 9,
+    "title": "Janice STFU",
+    "artist": "Drake",
+    "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+    "key": "janice stfu|drake",
+    "prev": null
+   },
+   {
+    "rank": 10,
+    "title": "Housewife",
+    "artist": "Tate McRae",
+    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+    "key": "housewife|tate mcrae",
+    "prev": null
+   }
+  ]
  },
  "bangla": {
   "source": null,
